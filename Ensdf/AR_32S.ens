@@ -1,0 +1,2427 @@
+32S     ADOPTED LEVELS, GAMMAS                                  11NDS    201109
+ 32S   H TYP=FUL$AUT=CHRISTIAN OUELLET, BALRAJ SINGH$CIT=NDS 112, 2199 (2011)$  
+ 32S 2 H CUT=24-Aug-2011$                                                       
+ 32S   Q -12680.4  9 15043.8 10 8863.96 1-6947.65 1    2011AUZZ                 
+ 32S  cQ $S(2n)=28096 {I3}, S(2p)=16160.51 {I2} (2011AuZZ)                      
+ 32S  cQ $Values in 2003Au03: Q(|b{+-})=-12686 {I7}, S(n)=15042.4 {I15}         
+ 32S 2cQ S(p)=8863.78 {I21}, Q(|a)=-6947.82 {I14}, S(2n)=28096 {I3},            
+ 32S xcQ S(2p)=16160.71 {I14}                                                   
+ 32S  c  {+32}S is one of the most extensively studied nuclei in the sd-shell   
+ 32S 2c  (1998Ka31).                                                            
+ 32S  c  Four lowest states in {+32}S appear to be vibrational in character     
+ 32S 2c  (1971In02), first 2+ is one phonon and 0+,2+,4+ make up a              
+ 32S 3c  spherical vibrational triplet. Quadrupole moment of first 2+ state is  
+ 32S 4c  negative and interestingly indicates a large prolate deformation       
+ 32S 5c  (1998Ka31).                                                            
+ 32S  c  Additional evaluations for {+32}S include 1997Br07 and specific to     
+ 32S 2c  lifetimes, 1998Ka31. These are in broad agreement with the current     
+ 32S 3c  evaluation.                                                            
+ 32S  c  E(p)=811 is a common absolute Resonance Strength by which other        
+ 32S 2c  relative Resonance Strengths are compared to (1978Pa03).               
+ 32S  c  Mass measurements: 2009Sc29, 2009Kw02                                  
+ 32S  c  Mass deduced by IMME analysis: 2010Ka30                                
+ 32S  c  2010Pa18: {+12}C({+20}Ne,X),E=145,160 MeV; measured E|g, I|g,          
+ 32S 2c  |g|g-coin. Deduced highest spin and high energy excitations from the   
+ 32S 3c  shapes of giant dipole resonances (GDR), strength functions and        
+ 32S 4c  parameters using rotating liquid drop model (RLDM) and thermal shape   
+ 32S 5c  fluctuation model (TSFM). Calculated liquid drop model free energy     
+ 32S 6c  surfaces, and equilibrium shapes as a function of quadrupole           
+ 32S 7c  deformation parameters and spin. Possible connection to molecular      
+ 32S 8c  structure of {+16}O+{+16}O in a {+32}S superdeformed band.             
+ 32S  c  Structure calculations: Intruder levels, spins and parities, shell     
+ 32S 2c  model: 2009Bo30                                                        
+ 32S  cL $ Levels populated in datasets with XREF=Y                             
+ 32S  cL ${+32}P |b{+-} decay (14.268 d): 0                                     
+ 32S  cL ${+33}Ar |ep decay (173.0 ms): 0, 2231                                 
+ 32S  cL ${+36}K |e|a decay (342 ms): 0                                         
+ 32S  cL ${+16}O({+20}Ne,|a): 11700, 11940, 12760, 13040, 13760, 14000, 14810,  
+ 32S xcL 15200                                                                  
+ 32S  cL ${+28}Si({+12}C,{+8}Be): 0, 2230, 5010                                 
+ 32S  cL ${+28}Si({+16}O,{+12}C): 0, 2230, 3780, 4280, 4460, 4700, 5010, 5800,  
+ 32S 2cL 6220, 6850, 7000                                                       
+ 32S  cL ${+32}S(d,d'),(pol d,d'): 0, 2230, 4290, 4470, 5010                    
+ 32S  cL ${+32}S(|a,|a'): 0, 2230, 3777, 4278, 4458                             
+ 32S  cL $Coulomb excitation: 0, 2230                                           
+ 32S  cG E,RI,M,MR$From {+31}P(p,|g), unless otherwise noted                    
+ 32S  cG E(S)$From {+28}Si(|a,|g)                                               
+ 32S  cL E$ From least-squares fit to E|g data for levels populated             
+ 32S 2cL in |g-ray studies. For others, weighted averages are taken             
+ 32S 3cL when possible                                                          
+ 32S  CL T$LABEL=T OR WIDTH                                                     
+ 32S  cL J(A)$ From L(|a,|a) for resonances (2003Ka07,2010Lo12); R-matrix       
+ 32S 2cL analysis in 2010Lo12                                                   
+ 32S  DL $ 14500 LEVEL OMITTED SINCE NOT FOUND IN 28SI(A,A):RESONANCES          
+ 32S   XB32CL EC DECAY (298 MS)                                                 
+ 32S   X84HE(28SI,A):RESONANCES                                                 
+ 32S   XF28SI(A,G)                                                              
+ 32S   XG28SI(A,A):RESONANCES                                                   
+ 32S   XO28SI(6LI,PNG)                                                          
+ 32S   XH28SI(6LI,D)                                                            
+ 32S   XI28SI(7LI,T)                                                            
+ 32S   XL28SI(18O,14C)                                                          
+ 32S   XM29SI(A,N)                                                              
+ 32S   XN29SI(A,NG)                                                             
+ 32S   XP30SI(16O,14C)                                                          
+ 32S   XR31P(P,G)                                                               
+ 32S   XS31P(P,P')                                                              
+ 32S   XT31P(P,A):RESONANCES                                                    
+ 32S   XU31P(D,N),2H(31P,N)                                                     
+ 32S   XV31P(3HE,D)                                                             
+ 32S   XW32S(G,G'),(POL G,G')                                                   
+ 32S   XX32S(E,E')                                                              
+ 32S   XY32S(PI+,PI+'),(PI-,PI-')                                               
+ 32S   XZ32S(N,N'G),(N,N')                                                      
+ 32S   X132S(P,P'),(POL P,P')                                                   
+ 32S   X232S(P,P'G)                                                             
+ 32S   X533S(3HE,A)                                                             
+ 32S   X634S(P,T)                                                               
+ 32S   XA32P B- DECAY (14.268 D)                                                
+ 32S   XC33AR ECP DECAY (173.0 MS)                                              
+ 32S   XD36K ECA DECAY (342 MS)                                                 
+ 32S   XE16O(20NE,A)                                                            
+ 32S   XJ28SI(12C,8BE)                                                          
+ 32S   XK28SI(16O,12C)                                                          
+ 32S   X332S(D,D'),(POL D,D')                                                   
+ 32S   X432S(A,A')                                                              
+ 32S   X7COULOMB EXCITATION                                                     
+ 32S  PN                                                                     6  
+ 32S   L 0            0+               STABLE                                   
+ 32S X L XREF=ABCDFHIJKLNPRUVWZ1234567                                          
+ 32S  cL $ <r{+2}>{+1/2}=3.2611 fm {I18} (2008 update of 2004An14 evaluation by 
+ 32S 2cL I. Angeli: available at http://cdfe.sinp.msu.ru.)                      
+ 32S  cL J$measurements by optical spectroscopy (1936Ol01,1931Na01)             
+ 32S   L 2230.57   15 2+               169 FS    11                             
+ 32S 2 L MOMM1=+0.94 18 (1979Za01,1989Ra17)                                     
+ 32S 2 L MOME2=-0.154 20 (1981Sp07,1989Ra17)                                    
+ 32S X L XREF=UVFIJKLNZ13467BRWC25HX                                            
+ 32S  cL E$from {+32}S(|g,|g')                                                  
+ 32S  cL J$E2 |g to 0+                                                          
+ 32S  cL T$weighted average of 175 fs {I28} (1998Ka31), 135 fs {I49} (1974Ch09),
+ 32S 2cL 128 fs {I52} (1972Co12), 243 fs {I42} (1971In02), 180 fs {I55}         
+ 32S 3cL (1969Th03), 121 fs {I21} (1971Re15), 147 fs {I24} (2002Ba28), 228 fs   
+ 32S 4cL {I55} (1964Ma01), 250 fs {I27} (1964Lo08), 240 fs {I40} (1971In02),    
+ 32S 5cL 164 fs {I11} (1971Ga04), 160 fs {I40} (1980Ba40).                      
+ 32S 6cL 2001Ra27 evaluation gives 171 fs {i8} from                             
+ 32S 7cL a set of 22 quoted measurements from 1956 to 1980 using DSA,           
+ 32S 8cL Coul. ex., (|g,|g') and (e,e')                                         
+ 32S  cL MOMM1$transient-fields (1979Za01). See also 2005St24 compilation       
+ 32S  cL MOME2$reorientation in Coulomb ex. (recalculated by 1981Sp07).         
+ 32S 2cL Measurements: -0.160 {I22} or -0.133 {I22} (1982Ve09), -0.18 {I4} or   
+ 32S 3cL -0.15 {I4} (1981Da08), -0.12 {I5} (1980Ba40). See also 2005St24        
+ 32S xcL compilation                                                            
+ 32S   G 2230.49   15   100     E2                                              
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   L 3778.4    10 0+               0.89 PS   9                              
+ 32S X L XREF= UR4FOV6NBHIKXZ125                                                
+ 32S  cL J$from {+34}S(p,t) L=0 angular distribution                            
+ 32S  cL T$from {+28}Si({+6}Li,pn|g)                                            
+ 32S   G 1548.8    15   100      [E2]                                           
+ 32S B G BE2W=11.8 12                                                           
+ 32S   G 3778                    [E0]                              0.035  6     
+ 32S  cG $ q{-K}{+2}(E0/E2)=0.044 {I8}, X(E0/E2)=0.047 {I9}, |r{+2}=0.019 {I5}  
+ 32S 2cG (2005Ki02 evaluation)                                                  
+ 32S  cG TI$from {+31}P({+3}He,d) (1975Ad02). |g intensity <10                  
+ 32S   L 4281.8    3  2+               42 FS     4                              
+ 32S X L XREF=4FKLUV6ZRBNWNO1253X(*)                                            
+ 32S  cL E$from {+32}S(|g,|g')                                                  
+ 32S  cL J$from {+32}S(p,t) L=2, {+31}P(p,|g) |g|g|q, {+32}S(p,p'|g) |g|g|q     
+ 32S  cL T$from weighted average of all available data                          
+ 32S  DL T$ using d,U,Z,R,M,W,O,b                                               
+ 32S   G 503.7         0.4   LT                                                 
+ 32S   G 2052.6    15  14.9  6 E2+M1     -26     16                             
+ 32S B G BM1W=1.2E-5 +15-12$BE2W=7.9 9                                          
+ 32S  cG M,MR$from {+31}P(p,p'|g)                                               
+ 32S   G 4281.5    3   100.0 6                                                  
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   L 4459.1    8  4+               124 FS    27                             
+ 32S 2 L MOMM1=+1.6 6 (1988Si14,1989Ra17)                                       
+ 32S X L XREF=4NU16RFHIKLZ25V3                                                  
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|g|q, {+32}S(p,p') Ay(|q), {+32}S(p,p'|g) |g|g|q 
+ 32S 2cL and L=4 in {+34}S(p,t)                                                 
+ 32S  cL T$from {+32}S(|a,|a')                                                  
+ 32S  cL MOMM1$transient-fields (1988Si14). See also 2005St24 compilation       
+ 32S   G 681.4         0.3   LT                                                 
+ 32S   G 2229.4    12   100.0   E2                                              
+ 32S B G BE2W=14 3                                                              
+ 32S   G 4458.4         1.0  LT                                                 
+ 32S   L 4695.3    4 1+                286 FS    74                             
+ 32S X L XREF=1BUVR6N25FK                                                       
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+32}S(p,p'|g) |g|g|q                                           
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   G 414.1         0.98  LT                                                 
+ 32S   G 917.8         0.65  LT                                                 
+ 32S   G 2466.0    15  100.0 17 M1(+E2)  -0.08   10                             
+ 32S B G BM1W=(0.0031 8)$BE2W=(0.014 +35-14)                                    
+ 32S  cG M,MR$note {+31}P(p,p'|g) makes a case for a stronger E2 component      
+ 32S   G 4694.0    25  63.9  17 [M1]                                            
+ 32S B G BM1W=0.00029 8                                                         
+ 32S   L 5006.2    3 3-                0.52 PS   3                              
+ 32S X L XREF=VZ1RNU62FHIJKLX35                                                 
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and polarization, {+28}Si(|a,|g) |g|g|q,      
+ 32S 2cL {+32}S(p,p') angular distributions and L=3 in {+31}P(d,n)              
+ 32S  cL T$from weighted average of all available data                          
+ 32S 2 L BE3=0.0127 20 (2002Ki06)                                               
+ 32S  DL $ BE3 FROM 2002Ki06 EVALUATION                                         
+ 32S   G 724.8         0.1   LT                                                 
+ 32S   G 1228.4        0.4   LT                                                 
+ 32S   G 2776.2    12  100.0 5 E1(+M2)   0.00    5                              
+ 32S B G BE1W=(5.8E-5 4)                                                        
+ 32S   G 5005.4          3.5 5  E3                                              
+ 32S B G BE3W=16 3                                                              
+ 32S   L 5412.6    10 3+               148 FS    19                             
+ 32S X L XREF=5FH2NRNOUV6                                                       
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=2 in {+31}P({+3}He,d)                   
+ 32S  cL T$from weighted average of all available data                          
+ 32S   G 406.2          2    LT                                                 
+ 32S   G 716.9          1    LT                                                 
+ 32S   G 953.3          1    LT                                                 
+ 32S   G 1131.0         6    LT                                                 
+ 32S   G 1634.6         20   LT                                                 
+ 32S   G 3181.8         100    E2+M1     +7.6    19                             
+ 32S B G BM1W=7.E-5 4$BE2W=1.6 3                                                
+ 32S   G 5411.4         5    LT                                                 
+ 32S   L 5548.5    10 2+               57 FS     8                              
+ 32S X L XREF=R5NB1FV2U6                                                        
+ 32S  cL E$from {+29}Si(|a,n)                                                   
+ 32S  cL J$from {+32}S(p,p') Ay(|q), {+34}S(p,t) angular distribution and       
+ 32S 2cL L=2 in {+31}P({+3}He,d)                                                
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 541.2         0.7   LT                                                 
+ 32S   G 851.9          1.6  LT                                                 
+ 32S   G 1088.3         3.3  LT                                                 
+ 32S   G 1265.9         1.6  LT                                                 
+ 32S   G 1769.6         1.6  LT                                                 
+ 32S   G 3318.5        100.0 25 E2+M1    -5.2    21                             
+ 32S B G BM1W=0.00022 18$BE2W=2.3 3                                             
+ 32S   G 5546.4         66.7 25                                                 
+ 32S   L 5796.8    3 1-                5.6 FS    9                              
+ 32S X L XREF=FN5W6RZ12HIKLXUV                                                  
+ 32S  cL E$from {+32}S(|g,|g')                                                  
+ 32S  cL J$from {+32}S(p,p'|g) |g|g|q and L=1 in {+31}P({+3}He,d)               
+ 32S  cL T$from {+32}S(|g,|g')                                                  
+ 32S   G 791.3          1    LT                                                 
+ 32S   G 1102.0         1    LT                                                 
+ 32S   G 1338.3         1.5  LT                                                 
+ 32S   G 1516.0         1    LT                                                 
+ 32S   G 2019.7         1.5  LT                                                 
+ 32S   G 3566.8         5    LT                                                 
+ 32S   G 5796.3    3    100.0                                                   
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   L 6222.9    8  2-               66 FS     12                             
+ 32S X L XREF=HKVRZ2N5U6                                                        
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and RUL, {+32}S(p,p'|g) |g|g|q and L=1 in     
+ 32S xcL {+31}P({+3}He,d)                                                       
+ 32S  cL T$from weighted average of all available data                          
+ 32S   G 811.3         0.2   LT                                                 
+ 32S   G 1217.5           3  2                                                  
+ 32S   G 1528.1        0.5   LT                                                 
+ 32S   G 1764.5        0.6   LT                                                 
+ 32S   G 1942.2         1.5  LT                                                 
+ 32S   G 2445.8        0.8   LT                                                 
+ 32S   G 3993.0    20  100.0 21 E1+M2    -0.07   3                              
+ 32S B G BE1W=0.00015 3$BM2W=0.21 19                                            
+ 32S   G 6222.4         1.5  LT                                                 
+ 32S   L 6411      2  4+               24.3 FS   35                             
+ 32S X L XREF=5RZO1NVU6F2                                                       
+ 32S  cL E$weighted average of {+31}P(p,|g) and {+29}Si(|a,n)                   
+ 32S  cL J$from {+32}S(p,p'),(pol p,p') Ay(|q)                                  
+ 32S  cL T$from {+28}Si({+6}Li,pn|g)                                            
+ 32S   G 4179           100.0                                                   
+ 32S   L 6582      5  (2+,3-)                                                   
+ 32S X L XREF=V16X(*)                                                           
+ 32S  cL E$from weighted average of {+31}P({+3}He,d) and {+34}S(p,t)            
+ 32S  cL J$from {+32}S(p,p'),(pol p,p') Ay(|q)                                  
+ 32S   L 6621.7    3  4-               0.36 PS   6                              
+ 32S X L XREF=5VZRNUX(*)                                                        
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and RUL, and L=3 in {+31}P({+3}He,d)          
+ 32S  cL T$from {+31}P(p,|g); note that the single {+29}Si(|a,n|g) disagrees    
+ 32S 2cL significantly                                                          
+ 32S   G 1209.1         1.2  LT  E1                                             
+ 32S B G BE1W=5.E-6 5                                                           
+ 32S   G 1615.2        100.0 14 E2+M1    2.9     8                              
+ 32S B G BM1W=0.0011 6$BE2W=15 3                                                
+ 32S   G 1925.9        0.4   LT                                                 
+ 32S   G 2162.2         32.9 10 E1(+M2)  -0.06   2                              
+ 32S B G BE1W=(4.4E-5 8)$BM2W=(0.15 11)                                         
+ 32S   G 2339.9        0.27  LT                                                 
+ 32S   G 2843.5        0.82  LT                                                 
+ 32S   G 4390.6           4.1 5 M2+E3    -0.41   8                              
+ 32S B G BM2W=0.13 3$BE3W=8 3                                                   
+ 32S   G 6620.0        0.41  LT                                                 
+ 32S   L 6666.1    10 2+               40 FS     10                             
+ 32S X L XREF=6VBNR25U                                                          
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q, {+34}S(p,t) angular distributions and L=2 in 
+ 32S 2cL {+31}P({+3}He,d)                                                       
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 1253.3         2    LT                                                 
+ 32S   G 1659.5         8    LT                                                 
+ 32S   G 1970.2            29 4                                                 
+ 32S   G 2206.5         6    LT                                                 
+ 32S   G 2384.2         14   LT                                                 
+ 32S   G 2887.9    20    100 11                                                 
+ 32S   G 4434.8            76 9                                                 
+ 32S   G 6664.3         6    LT                                                 
+ 32S   L 6761.6    10 5-               260 FS    35                             
+ 32S X L XREF=VIL5RNZ1U6                                                        
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+29}Si(|a,n|g) n-|g|q correlation                              
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 1349.1         4    LT                                                 
+ 32S   G 1755.3         100   4  [E2]                                           
+ 32S B G BE2W=14 3                                                              
+ 32S  DG $ A2=+0.40 4, A4=-0.15 5 29SI(A,NG)                                    
+ 32S   G 2066.0         11   LT                                                 
+ 32S   G 2302.3           32 14 E1+M2    -0.6                                   
+ 32S B G BE1W=3.3E-5 16$BM2W=10 5                                               
+ 32S  DG $ A2=-0.36 5, A4=+0.07 8 29SI(A,NG)                                    
+ 32S   G 2480.0         4    LT                                                 
+ 32S   G 2983.6         5    LT                                                 
+ 32S   G 4530.6         9    LT                                                 
+ 32S   G 6760.1          2.7 14                                                 
+ 32S   L 6851.5    15 4+               66 FS     17                             
+ 32S X L XREF=5KV6RNU                                                           
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+29}Si(|a,n|g) n-|g|q correlation                              
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 1439.9            13 7                                                 
+ 32S   G 1846.1         16.2 LT                                                 
+ 32S   G 2156.7         6    LT                                                 
+ 32S   G 2393.1            13 7       E2                                        
+ 32S  DG $ A2=+0.43 7, A4=-0.39 13 29SI(A,NG)                                   
+ 32S  cG M$from {+29}Si(|a,n|g)                                                 
+ 32S   G 2570.8          100 13       E2                                        
+ 32S B G BE2W=8 3                                                               
+ 32S  DG $ A2=-0.21 14, A4=-0.4 24 29SI(A,NG) GIVES                             
+ 32S  cG MR$0.93 {I5}                                                           
+ 32S   G 3074.4         10   LT                                                 
+ 32S   G 4621.4         8.7  LT                                                 
+ 32S   G 6850.8         10   LT                                                 
+ 32S   L 7001.4    4  1+               1.5 FS    5                              
+ 32S X L XREF=15K6BVRXU                                                         
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=2 in {+31}P({+3}He,d);                  
+ 32S 2cL isobar analog state of g.s. 1+ in {+32}p and {+32}Cl                   
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 1589.0         1    LT                                                 
+ 32S   G 1995.1         2    LT                                                 
+ 32S   G 2305.8         1    LT                                                 
+ 32S   G 2542.1         2    LT                                                 
+ 32S   G 2719.8         2    LT                                                 
+ 32S   G 3223.4            10 5                                                 
+ 32S   G 4770.5    3    100.0                                                   
+ 32S   G 6999.8         2    LT                                                 
+ 32S   L 7115.3    10 2+               1.73 FS   35                             
+ 32S X L XREF=5BRV6UFL                                                          
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and decay multipolarity, {+34}S(p,t) angular  
+ 32S 2cL distribution and L=2 in {+31}P({+3}He,d)                               
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 1702.8        0.6   LT                                                 
+ 32S   G 2109.0         1    LT                                                 
+ 32S   G 2419.6         10.5 12                                                 
+ 32S   G 2656.0         1    LT                                                 
+ 32S   G 2833.6          3.5 12                                                 
+ 32S   G 3337.2          3.5 24                                                 
+ 32S   G 4884.2        100.0 24 M1+E2    -0.38   3                              
+ 32S B G BM1W=0.079 17$BE2W=2.0 5                                               
+ 32S   G 7113.6           2.3 6                                                 
+ 32S   L 7190.1    15 1+               8.0 FS    21                             
+ 32S X L XREF=VX1R5BU                                                           
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=0 in {+31}P({+3}He,d)                   
+ 32S  cL T$from {+31}P(p,|g) and {+31}P(d,n)                                    
+ 32S   G 2183.7         47   LT                                                 
+ 32S   G 2494.4         42   LT                                                 
+ 32S   G 2730.7         92   LT                                                 
+ 32S   G 2908.4         59   LT                                                 
+ 32S   G 3412.0         93   LT                                                 
+ 32S   G 4959.0          100 21                                                 
+ 32S   G 7188.4           69 21                                                 
+ 32S   L 7350.0    6  3(+)                                                      
+ 32S X L XREF=5V6RU                                                             
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q                                               
+ 32S   G 2654.2         100.0                                                   
+ 32S   L 7367                                                                   
+ 32S X L XREF=R                                                                 
+ 32S   L 7434      3  1-               7.7 FS    10                             
+ 32S X L XREF=HILVUR5(*)                                                        
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$L=1 in {+31}P({+3}He,d) and {+31}P(d,n)                              
+ 32S  cL T$from weighted average of {+31}P(p,|g) and {+31}P({+3}He,d)           
+ 32S   G 3150             33 17                                                 
+ 32S   G 5203             33 17                                                 
+ 32S   G 7432            100 25                                                 
+ 32S   L 7484.0    4  2+               4.9 FS    12                             
+ 32S X L XREF=5RWVUF                                                            
+ 32S  cL E$from {+32}S(|g,|g'),{+32}S(pol |g,|g')                               
+ 32S  cL J$from {+31}P(p,|g) |g|q and RUL, {+32}S(|g,|g') |g|q, {+32}S(pol      
+ 32S xcL |g,|g') |g|q                                                           
+ 32S  cL T$weighted average of all available data                               
+ 32S   G 2071.4         10   LT                                                 
+ 32S   G 2477.5         9    LT                                                 
+ 32S   G 2788.1         6    LT                                                 
+ 32S   G 3024.5         14   LT                                                 
+ 32S   G 3202.2         13   LT                                                 
+ 32S   G 3705.7         15   LT                                                 
+ 32S   G 5252.8    6    7    LT                                                 
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   G 7483.2    5    100.0   E2                                              
+ 32S B G BE2W=0.49 11                                                           
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   L 7535.7    10 0+               2.6 FS    7                              
+ 32S X L XREF=FR6V5U                                                            
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$L=0 in {+31}P({+3}He,d) and {+31}P(d,n)                              
+ 32S  cL T$weighted average of {+31}P(p,|g) and {+31}P(d,n)                     
+ 32S   G 2123.1         10   LT                                                 
+ 32S   G 2529.3         5    LT                                                 
+ 32S   G 2839.9         100.0                                                   
+ 32S   G 3076.3         6    LT                                                 
+ 32S   G 3253.9         8    LT                                                 
+ 32S   G 3757.5         11   LT                                                 
+ 32S   G 5304.5         14   LT                                                 
+ 32S   G 7533.8         7    LT                                                 
+ 32S   L 7566.8    9  5+               150 FS    32                             
+ 32S X L XREF=NR                                                                
+ 32S  cL E,J,T$from {+29}Si(|a,n|g) from n-|g|q correlation                     
+ 32S   G 2154           43   14                                                 
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S   G 3108.4    12   100  14  E2+M1   -9.7    15                             
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $ A2=+0.22 8, A4=+0.61 14 29SI(A,NG)                                   
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   L 7637.0    10     1                                                     
+ 32S X L XREF=1R6                                                               
+ 32S  cL E,J$from {+32}S(p,p') angular distribution                             
+ 32S   G 3355.2         100                                                     
+ 32S   L 7648      5                                                            
+ 32S X L XREF=5                                                                 
+ 32S   L 7701.44   36    3-            66 FS     19                             
+ 32S X L XREF=LXVR6U                                                            
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=3 in {+31}P({+3}He,d)                   
+ 32S   G 2288.9         50   LT                                                 
+ 32S   G 2695.0         50   LT                                                 
+ 32S   G 3005.6         50   LT                                                 
+ 32S   G 3242.0         50   LT                                                 
+ 32S   G 3419.6         70   LT                                                 
+ 32S   G 3923.2         45   LT                                                 
+ 32S   G 5470.1         100.0                                                   
+ 32S   G 7699.5         60   LT                                                 
+ 32S   L 7882.9    8 4-                                                         
+ 32S X L XREF=RVU                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=1 in {+31}P({+3}He,d) and {+31}P(d,n)   
+ 32S   G 2335.3            15 7                                                 
+ 32S   G 2876.4            19 7                                                 
+ 32S   G 5651.5           100 7                                                 
+ 32S   L 7921.0    10 1+                                                        
+ 32S X L XREF=61R                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,p'),(pol p,p') angular distribution                    
+ 32S   G 5689.6        100   GT                                                 
+ 32S   L 7950.1    4  4-                146 FS   35                             
+ 32S X L XREF=VNR                                                               
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P(p,|g) from |g|q and RUL, and L=3 in {+31}P({+3}He,d)     
+ 32S   G 2537.5           67 17                                                 
+ 32S   G 2943.6          100 12                                                 
+ 32S   G 3254.2         5    LT                                                 
+ 32S   G 3490.6         13   LT                                                 
+ 32S   G 3668.2         16   LT                                                 
+ 32S   G 4171.8         3    LT                                                 
+ 32S   G 5718.7         7    LT                                                 
+ 32S   G 7948.0        0.8   LT                                                 
+ 32S   L 7974.9    7  4-                 21 FS   LT                             
+ 32S X L XREF=U56VR                                                             
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from L=3 in {+31}P({+3}He,d) and {+31}P(d,n) in disagreement with    
+ 32S 2cL {+31}P(p,|g) and parity in {+34}S(p,t)                                 
+ 32S   G 2968.4           38 10                                                 
+ 32S   G 5743.4          100 10                                                 
+ 32S   L 8125.40   20  1+              0.144 FS  21                             
+ 32S X L XREF=6VRWUX1                                                           
+ 32S  cL E$from {+32}S(|g,|g'),{+32}S(pol |g,|g')                               
+ 32S  cL J$from {+32}S(|g,|g'),{+32}S(pol |g,|g') angular distribution and L=0  
+ 32S 2cL in {+31}P({+3}He,d)                                                    
+ 32S  cL T$weighted average of {+32}S(|g,|g'),{+32}S(pol |g,|g')                
+ 32S   G 2712.7         5    LT                                                 
+ 32S   G 3118.8         2    LT                                                 
+ 32S   G 3429.4         5    LT                                                 
+ 32S   G 3665.8         5    LT                                                 
+ 32S   G 3843.4         4    LT                                                 
+ 32S   G 4347.0         12   LT                                                 
+ 32S   G 5894.32   28      18 6                                                 
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   G 8124.12   24     100 6                                                 
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   L 8191.1    6  4                                                         
+ 32S X L XREF=RV                                                                
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S   G 2643.4          100 20                                                 
+ 32S   G 2778.4           80 17                                                 
+ 32S   G 3731.5           93 20                                                 
+ 32S   G 3909.1           60 10                                                 
+ 32S   L 8270.3    14 3-,5-            60 FS     LT                             
+ 32S X L XREF=6RNV                                                              
+ 32S  cL E,J,T$from {+29}Si(|a,n|g) n-|g|q correlation                          
+ 32S   G 3264         100       M1+E2    -1.5    14                             
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $ A2=+0.46 10, A4=-0.71 18 29SI(A,NG)                                  
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   L 8296.1    10 3-                                                        
+ 32S X L XREF=UVR                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=3 in {+31}P(d,n), {+31}P({+3}He,d)      
+ 32S   G 4014.1           50 17                                                 
+ 32S   G 6064.5          100 17                                                 
+ 32S   L 8336      8  2+                                                        
+ 32S X L XREF=6                                                                 
+ 32S   L 8346.4    14 4+,6+            28 FS     LT                             
+ 32S X L XREF=VRN                                                               
+ 32S  cL E,J${+29}Si(|a,n|g) n-|g|q correlation                                 
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 3886.1    15 100       M1+E2    -1.3    4                              
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $ A2=+0.34 9, A4=-0.31 15 29SI(A,NG)                                   
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   L 8380      5                                                            
+ 32S X L XREF=V                                                                 
+ 32S   L 8407.0    14 2                                                         
+ 32S X L XREF=RV                                                                
+ 32S  cL E,J$from {+31}P(p,|g) |g|q                                             
+ 32S   G 3711.0            20 4                                                 
+ 32S   G 4125.0            18 4                                                 
+ 32S   G 4628.1          100 10                                                 
+ 32S   L 8499.3    5  1-               1.30 FS   24                             
+ 32S X L XREF=I(*)FVWHUR6                                                       
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from L=1 in {+31}P(d,n) and {+31}P({+3}He,d)                         
+ 32S   G 4212           13   LT                                             S   
+ 32S   G 4716           5    LT                                             S   
+ 32S   G 6267.9    5    66   6                                              S   
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   G 8494.4    8    100  6                                              S   
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   L 8671.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8684.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8687.6                                                                 
+ 32S X L XREF=VZFRBU                                                            
+ 32S  cL E$from {+32}S(n,n'|g),(n,n')                                           
+ 32S   G 4909           21   7                                              S   
+ 32S   G 6459           100  9                                              S   
+ 32S   G 8687           57   7                                              S   
+ 32S   L 8729.3    6 3+                                                         
+ 32S X L XREF=6VR                                                               
+ 32S  cL E,J$from {+31}P(p,|g) |g|q and RUL                                     
+ 32S   G 1876.7           56 12                                                 
+ 32S   G 2107.6           89 17                                                 
+ 32S   G 3316.5          100 17                                                 
+ 32S   L 8736.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8741.8                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8745.6    8 3                                                          
+ 32S X L XREF=R                                                                 
+ 32S  cL J$from {+31}P(p,|g) |g|q                                               
+ 32S   G 1893.0           30 13                                                 
+ 32S   G 2123.9           85 13                                                 
+ 32S   G 2335.4          100 13                                                 
+ 32S   G 3197.8           20 10                                                 
+ 32S   G 3332.8            18 8                                                 
+ 32S   L 8751.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8782.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8797.5                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8809.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8838.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8861      2  2+                                                        
+ 32S X L XREF=VBFR6                                                             
+ 32S  cL E$from {+28}Si(|a,|g)                                                  
+ 32S  cL J$from |g decay in {+31}P(p,|g)                                        
+ 32S   G 5080         27     8                                              S   
+ 32S   G 6630         65     8                                              S   
+ 32S   G 8858         100    10                                             S   
+ 32S   L 8895.3                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8906.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8921.8                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8941.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8945.1                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8953.6                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8977.5                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 8984.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9007.3                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9009.2                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9012.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9023.8    21 4-               0.27 PS   6                              
+ 32S X L XREF=VFRNU6                                                            
+ 32S  cL E$from {+29}Si(|a,n|g)                                                 
+ 32S  cL J$4-,6- from {+29}Si(|a,n|g); L=3 in {+31}P({+3}He,d) from 1/2+ target;
+ 32S 2cL L=1 in {+31}P(d,n) is apparently in disagreement but in another (d,n)  
+ 32S 3cL study L=1 or 3 is also indicated                                       
+ 32S   G 2262         100    9  M1+E2    -1.5    10                             
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $ A2=-0.45 9, A4=+0.46 16 29SI(A,NG)                                   
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   G 2402         43     9 M1+E2     +4.3    10                             
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $ A2=+0.36 18, A4=-0.58 32 29SI(A,NG)                                  
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   G 4008         31     3                                              S   
+ 32S F G FL=5006.2                                                              
+ 32S   G 4742         33     3                                              S   
+ 32S   G 6791         100    3                                              S   
+ 32S   L 9031.1                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9042.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9055.1                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9059      2   1-                                                       
+ 32S X L XREF=RUV                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from L=1 in {+31}P({+3}He,d)                                         
+ 32S   L 9065      2                    14 FS    LT                             
+ 32S X L XREF=FR                                                                
+ 32S  cL E,T$from {+28}Si(|a,|g)                                                
+ 32S   G  3654        100    5                                              S   
+ 32S   G  4604        95     5                                              S   
+ 32S   G  4784        40     7                                              S   
+ 32S   L 9087.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9090.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9139.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9159.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9170      3   3+                                                       
+ 32S X L XREF=VNR                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P({+3}He,d) |g|d coincidence                               
+ 32S   G 4711           100                                                     
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S   L 9196      8  2+                                                        
+ 32S X L XREF=R6                                                                
+ 32S  cL E,J$from {+34}S(p,t)                                                   
+ 32S   L 9200.8                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9207.55   71 1+               4.2 FS    14                             
+ 32S X L XREF=WRTVU                                                             
+ 32S  cL E$from {+31}P(p,|g) |g|g|q                                             
+ 32S  cL J,T$from {+32}S(|g,|g'),{+32}S(pol |g,|g')                             
+ 32S   G 911.4          3    LT                                                 
+ 32S   G 1324.6         3    LT                                                 
+ 32S   G 2017.31         8.1 21                                                 
+ 32S   G 2983.6         26.4 24                                                 
+ 32S   G 3409.7            18 4                                                 
+ 32S   G 3659.7            21 4                                                 
+ 32S   G 4747.6          8.7 18                                                 
+ 32S   G 4925.5          6.1 18                                                 
+ 32S   G 5428.9         11.9 18                                                 
+ 32S   G 6975.0    5       99 6                                                 
+ 32S  cG E$from {+32}S(|g,|g')                                                  
+ 32S   G 9206.1    7      100 6 M1                                              
+ 32S  cG $|d(E2/M1)=-0.14 {I4}                                                  
+ 32S B G BM1W=0.0022 8                                                          
+ 32S   L 9210.6                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9211.2                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9235.2    24 1-               60 FS     LT                             
+ 32S X L XREF=BRNFTVU                                                           
+ 32S  cL E,T$from {+29}Si(|a,n|g)                                               
+ 32S  cL J$from {+31}P({+3}He,d) L=1 and angular distribution                   
+ 32S  cL $The |g-rays reported in {+29}Si(|a,n|g) do not match those from       
+ 32S 2cL {+28}Si(|a,|g) we report here the older values but clearly more        
+ 32S 3cL investigation is necessary.                                            
+ 32S   G 4538.8           36 17                                                 
+ 32S   G 5456.3         100  3                                                  
+ 32S   G 7003.1           77 20                                                 
+ 32S   G 9234            2.2 15                                             S   
+ 32S   L 9253      1   2+                                                       
+ 32S X L XREF=RV                                                                
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P({+3}He,d) d|g coincidences                               
+ 32S   G 2587.0            28 5                                                 
+ 32S   G 3029.0            19 4                                                 
+ 32S   G 3705.1            13 4                                                 
+ 32S   G 3840.1            16 5                                                 
+ 32S   G 4246.3            44 7                                                 
+ 32S   G 4556.8            77 8                                                 
+ 32S   G 4971.0            18 4                                                 
+ 32S   G 7021.0          100 10                                                 
+ 32S   L 9268.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9271.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9280         1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L 9287.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9289.0    1   1+                                                       
+ 32S X L XREF=URTV                                                              
+ 32S  cL E,J$from {+31}P(p,|g) |g|q and |g|g|q                                  
+ 32S   G 789               10 3                                                 
+ 32S   G 1163.6         2    LT                                                 
+ 32S   G 1753.2         14.0 13                                                 
+ 32S   G 2173.5         39.1 23                                                 
+ 32S   G 2287.4           2.5 5                                                 
+ 32S   G 2623.0         1    LT                                                 
+ 32S   G 2667.3         1    LT                                                 
+ 32S   G 3065.0           6.3 8                                                 
+ 32S   G 3491.1           2.8 5                                                 
+ 32S   G 3741.1         4    LT                                                 
+ 32S   G 3876.1         2    LT                                                 
+ 32S   G 4282.2         3    LT                                                 
+ 32S   G 4592.8         39.1 23                                                 
+ 32S   G 4829.1         2    LT                                                 
+ 32S  DG $ MR(Q/D)=0.02 1                                                       
+ 32S   G 5006.8         3    LT                                                 
+ 32S   G 5510.3         2    LT                                                 
+ 32S   G 7057.0         46.9 23 M1(+E2)  0.01    1                              
+ 32S   G 9286.1           100 5                                                 
+ 32S   L 9297.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9309.2                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9317.1                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9344.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9357.6                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9360.5                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9388      1  2+                                                        
+ 32S X L XREF=RTUV                                                              
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P({+3}He,d) as well as L=1 in {+31}P(d,n)                  
+ 32S   G 1262.6         2.08 16                                                 
+ 32S   G 2626.2        0.6   LT                                                 
+ 32S   G 2722.0        0.6   LT                                                 
+ 32S   G 2766.2           2.1 5                                                 
+ 32S   G 3164.0         25.4 12                                                 
+ 32S   G 3590.1           3.0 5                                                 
+ 32S   G 3840.1           2.7 5                                                 
+ 32S   G 3975.1         1.44 16                                                 
+ 32S   G 4381.2          12.5 7                                                 
+ 32S   G 4691.8           3.2 4                                                 
+ 32S   G 4928.1        0.9   LT                                                 
+ 32S   G 5105.7           3.0 4                                                 
+ 32S   G 5609.2        0.8   LT                                                 
+ 32S   G 7156.0           100 4                                                 
+ 32S   G 9385.0          4.0 16                                                 
+ 32S   L 9395.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9397.2                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9402.1                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9436.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9450.6                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9463.4    10  5-,7-           70 FS     LT                             
+ 32S X L XREF=N                                                                 
+ 32S   G 2701         100      M1+E2     -0.82   25                             
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $ A2=+0.51 5, A4=-0.38 9 29SI(A,NG)                                    
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   L 9466.0    15 2+               49 FS     LT                             
+ 32S X L XREF=RBTF6V                                                            
+ 32S  cL E,J$from {+28}Si(|a,|g) n-|g|q correlation                             
+ 32S  cL T$from {+31}P(p,|g)                                                    
+ 32S   G 2347.8            13 4                                                 
+ 32S   G 3675              12 4                                             S   
+ 32S   G 4455              12 4                                             S   
+ 32S   G 4767.0            50 8                                                 
+ 32S   G 5005              12 4                                             S   
+ 32S   G 5684.5            11 3                                                 
+ 32S   G 7233.7            62 8                                                 
+ 32S   G 9462.3           100 8                                                 
+ 32S   L 9481.5                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9485.7    10 1-               8.2 EV    25                             
+ 32S X L XREF=UZTRFV                                                            
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL T$from {+31}P(p,|a) and {+31}P(p,|g)                                   
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=1 in {+31}P({+3}He,d), {+31}P(d,n)      
+ 32S   G 1360           3.5                                                     
+ 32S   G 2370.2         9.7  LT                                                 
+ 32S   G 2860           8.2                                                     
+ 32S   G 3261.6         2.8  LT                                                 
+ 32S   G 3687.7          4.2 10                                                 
+ 32S   G 3937.8         2.3  LT                                                 
+ 32S   G 4072.7         1.6  LT                                                 
+ 32S   G 4478.8           3.6 9                                                 
+ 32S   G 4789.4         3.5  LT                                                 
+ 32S   G 5025.8        0.9   LT                                                 
+ 32S   G 5203.4          9.4 12                                                 
+ 32S   G 5706.9         2.1  LT                                                 
+ 32S   G 7253.6         2.7  LT                                                 
+ 32S   G 9482.7           100 9                                                 
+ 32S   L 9500                                                                   
+ 32S X L XREF=ZH                                                                
+ 32S   L 9515.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9524.3                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9534.0                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9534.9                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9560.6                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9562      10  1-,2-                                                    
+ 32S X L XREF=V                                                                 
+ 32S  cL J$from L=1 in {+31}P({+3}He,d)                                         
+ 32S   L 9597.1                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9619.4                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9634.6    18  4-,6+           0.09 PS   6                              
+ 32S X L XREF=N                                                                 
+ 32S   G 3015.3       100      M1+E2     -1.1    3                              
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $A2=+0.39 9, A4=-0.26 15 29SI(A,NG)                                    
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   L 9650      30  6-                                                       
+ 32S X L XREF=Y                                                                 
+ 32S   L 9650.2    5  2+                                                        
+ 32S X L XREF=U6RBTV                                                            
+ 32S  cL E,J$from {+31}P(p,|g) |g|q, |g|g|q and L=2 in {+34}S(p,t)              
+ 32S   G 2220           1.7                                                     
+ 32S   G 3426.1         1    LT                                                 
+ 32S   G 3852.2         1.4  LT                                                 
+ 32S   G 4102.2        0.9   LT                                                 
+ 32S   G 4237.2           2.9 7                                                 
+ 32S   G 4643.3         1    LT                                                 
+ 32S   G 4953.9            69 6                                                 
+ 32S   G 5190.2         2    LT                                                 
+ 32S   G 5367.8        0.7   LT                                                 
+ 32S   G 5871.3        0.7   LT                                                 
+ 32S   G 7418.1           100 9                                                 
+ 32S   L 9655.2                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9656.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9660.1    11 1+               2.4 EV    7                              
+ 32S X L XREF=TZRX1W                                                            
+ 32S  cL E,J,T$from {+32}S(|g,|g'),{+32}S(pol |g,|g') |g|q                      
+ 32S   G 2174.9         0.37 13                                                 
+ 32S   G 2468.7          2.6 12                                                 
+ 32S   G 3434.9        0.4   LT                                                 
+ 32S   G 3861.0        0.9   LT                                                 
+ 32S   G 4111.0           2.7 4                                                 
+ 32S   G 4246.0        0.2   LT                                                 
+ 32S   G 4652.1        0.4   LT                                                 
+ 32S   G 4962.7          2.8 13                                                 
+ 32S   G 5199.0        0.5   LT                                                 
+ 32S   G 5376.6        0.2   LT                                                 
+ 32S   G 5880.1           2.2 4                                                 
+ 32S   G 7426.8         12.3 13                                                 
+ 32S   G 9655.9          100 10                                                 
+ 32S   L 9665.4                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9671.7                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9674.6                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9693.4                                                                 
+ 32S X L XREF=Z                                                                 
+ 32S   L 9704      8                   2.2 KEV                                  
+ 32S X L XREF=MZ6                                                               
+ 32S  cL E$from {+34}S(p,t)                                                     
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   L 9711.9    14 2+                3.6 EV                                  
+ 32S X L XREF=BRF                                                               
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+28}Si(|a,|g) |g|q and correlation                             
+ 32S   G 1586.5          6.7 17                                                 
+ 32S   G 2596.4          7.2 12                                                 
+ 32S   G 2710.2          7.2 12                                                 
+ 32S   G 3487.8         4    LT                                                 
+ 32S   G 3913.9          8.4 21                                                 
+ 32S   G 4163.9         4    LT                                                 
+ 32S   G 4298.9         3    LT                                                 
+ 32S   G 4705.0         4.88 24                                                 
+ 32S   G 5015.6            60 5                                                 
+ 32S   G 5251.9          2.8 12                                                 
+ 32S   G 5429.5          6.5 19                                                 
+ 32S   G 5933.0          14.9 5                                                 
+ 32S   G 7479.7          100 17                                                 
+ 32S   G 9708.7         15.3 17                                                 
+ 32S   L 9724      1  2,3,4                                                     
+ 32S X L XREF=RV                                                                
+ 32S  cL J$from {+31}P(p,|g) |g|q                                               
+ 32S   G 1773.8         2    LT                                                 
+ 32S   G 2022.9          2.4 13                                                 
+ 32S   G 2188.1         1    LT                                                 
+ 32S   G 2608.5         1    LT                                                 
+ 32S   G 2962.1          12.4 5                                                 
+ 32S   G 3102.2           100 8                                                 
+ 32S   G 3499.9            32 4                                                 
+ 32S   G 3926.0         1    LT                                                 
+ 32S   G 4176.0         2    LT                                                 
+ 32S   G 4311.0         2    LT                                                 
+ 32S   G 4717.1            95 8                                                 
+ 32S   G 5027.7         2    LT                                                 
+ 32S   G 5264.0         2    LT                                                 
+ 32S   G 5441.6         2    LT                                                 
+ 32S   G 5945.1         3    LT                                                 
+ 32S   G 7491.8           2.0 5                                                 
+ 32S   G 9720.8        1     LT                                                 
+ 32S   L 9727.9    5                                                            
+ 32S X L XREF=R                                                                 
+ 32S   L 9731      1  1-,2-                                                     
+ 32S X L XREF=URV                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(d,n) L=1 and {+31}P({+3}He,d) L=3,1                      
+ 32S   G 1605.6            19 3                                                 
+ 32S   G 1780.8          5.5 14                                                 
+ 32S   G 2029.9         3    LT                                                 
+ 32S   G 2615.5         9                                                       
+ 32S   G 3109.2         1    LT                                                 
+ 32S   G 3506.9            91 9                                                 
+ 32S   G 3933.0            91 9                                                 
+ 32S   G 4183.0          4.5 23                                                 
+ 32S   G 4318.0         6    LT                                                 
+ 32S   G 4724.1            14 7                                                 
+ 32S   G 5034.6            24 4                                                 
+ 32S   G 5271.0         2    LT                                                 
+ 32S   G 5448.6           100 9                                                 
+ 32S   G 5952.1         4    LT                                                 
+ 32S   G 7498.8            86 9                                                 
+ 32S   G 9727.8         18.2 23                                                 
+ 32S   L 9783      20  6               0.14 FS   +13-11                         
+ 32S X L XREF=N                                                                 
+ 32S  cL J$from {+29}Si(|a,n|g) |g|q                                            
+ 32S   G 5324         100                                                       
+ 32S  cG E,RI$from {+29}Si(|a,n|g)                                              
+ 32S  DG $ A2=+0.31 6, A4=-0.18 8 29SI(A,NG), MR=-1.3 3                         
+ 32S  cG M,MR$from {+29}Si(|a,n|g)                                              
+ 32S   L 9809                          1.0 KEV                                  
+ 32S X L XREF=MY                                                                
+ 32S  cL E$from average of {+29}Si(|a,n) and {+32}S(|p{++},|p{++})              
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   L 9816.8    10   3-,4-                                                   
+ 32S X L XREF=RU6V                                                              
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from L=3 in {+31}P({+3}He,d)                                         
+ 32S   G 2701.3         17.2 12                                                 
+ 32S   G 3195.0         1.2  LT                                                 
+ 32S   G 3592.7         11.2 14                                                 
+ 32S   G 4018.8           5.4 6                                                 
+ 32S   G 4268.8         1.4  LT                                                 
+ 32S   G 4403.7         3    LT                                                 
+ 32S   G 4809.8           100 6                                                 
+ 32S   G 5120.4         1.8  LT                                                 
+ 32S   G 5356.7           3.4 8                                                 
+ 32S   G 5534.4            20 4                                                 
+ 32S   G 6037.9         1.6  LT                                                 
+ 32S   G 7584.6            40 4                                                 
+ 32S   G 9813.6           1.4 4                                                 
+ 32S   L 9827      3                                                            
+ 32S X L XREF=R                                                                 
+ 32S   L 9848      1   1-              0.100 KEV 10                             
+ 32S X L XREF=URVFT                                                             
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL T$from {+31}P(p,|a)                                                    
+ 32S  cL J$from {+31}P(p,|a) angular distribution with L=1 in {+31}P({+3}He,d)  
+ 32S   G 2732.4            53 4                                                 
+ 32S   G 3181.9         2.7  LT                                                 
+ 32S   G 3226.2        1     LT                                                 
+ 32S   G 3623.9         4.3  LT                                                 
+ 32S   G 4049.9        11.18 20                                                 
+ 32S   G 4300.0         1.8  LT                                                 
+ 32S   G 4434.9         3.3  LT                                                 
+ 32S   G 4841.0         2    LT                                                 
+ 32S   G 5151.6          4.7 10                                                 
+ 32S   G 5387.9         2.5  LT                                                 
+ 32S   G 5565.6          3.5 12                                                 
+ 32S   G 6069.1        1     LT                                                 
+ 32S   G 7615.8           100 8                                                 
+ 32S   G 9844.7         19.6 20                                                 
+ 32S   L 9883.3    5                                                            
+ 32S X L XREF=R                                                                 
+ 32S   L 9887.3    6  2+,3+            0.010 KEV 5                              
+ 32S X L XREF=URBV                                                              
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from L=2 in {+31}P({+3}He,d)                                         
+ 32S   G 2771.7          100 14                                                 
+ 32S   G 2885.6            53 7                                                 
+ 32S   G 3221.2           8.0 9                                                 
+ 32S   G 3663.1         1.1  LT                                                 
+ 32S   G 4089.2        0.7   LT                                                 
+ 32S   G 4339.3         24.4 23                                                 
+ 32S   G 4474.2         2.6  LT                                                 
+ 32S   G 4880.3         15.5 LT                                                 
+ 32S   G 5190.9        11.11 23                                                 
+ 32S   G 5427.2         0.44 23                                                 
+ 32S   G 5604.8          8.4 12                                                 
+ 32S   G 6108.3         1.3  LT                                                 
+ 32S   G 7655.0         22.2 23                                                 
+ 32S   G 9884.0           3.8 5                                                 
+ 32S   L 9919.3    5  2+               0.010 KEV 5                              
+ 32S X L XREF=R6                                                                
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+34}S(p,t) L=2 angular distribution and modeling               
+ 32S   G 2383.4          2.0 10                                                 
+ 32S   G 2435.2           7.1 8                                                 
+ 32S   G 2803.7         22.0 25                                                 
+ 32S   G 3066.6        18.05 25                                                 
+ 32S   G 3253.1        12.2  LT                                                 
+ 32S   G 3297.4         2.7  LT                                                 
+ 32S   G 3695.1         5.6  LT                                                 
+ 32S   G 4121.2         3.2  LT                                                 
+ 32S   G 4371.3            85 8                                                 
+ 32S   G 4506.2         6.59 25                                                 
+ 32S   G 4912.3         2.7  LT                                                 
+ 32S   G 5222.9         26.8 LT                                                 
+ 32S   G 5459.2         3.4  LT                                                 
+ 32S   G 5636.8          2.9 17                                                 
+ 32S   G 6140.3         3.2  LT                                                 
+ 32S   G 7687.0          100 10                                                 
+ 32S   G 9916.0         2.7  LT                                                 
+ 32S   L 9935      6  1                1.0 KEV                                  
+ 32S X L XREF=M1F                                                               
+ 32S  cL E$from {+28}Si(|a,|g)                                                  
+ 32S  cL J$from {+32}S(p,p'),{+32}S(pol p,p') angular distributions             
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   L 9946.6    5  1-               0.150 KEV 15                             
+ 32S X L XREF=URBV                                                              
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P({+3}He,d) L=1 and RUL                                    
+ 32S   G 1821.2          10.3 8                                                 
+ 32S   G 2831.0           2.0 3                                                 
+ 32S   G 2944.9         0.53 14                                                 
+ 32S   G 3324.7        0.7   LT                                                 
+ 32S   G 3722.4        0.5   LT                                                 
+ 32S   G 4148.5        0.4   LT                                                 
+ 32S   G 4398.6         1    LT                                                 
+ 32S   G 4533.5        0.4   LT                                                 
+ 32S   G 4939.6        0.4   LT                                                 
+ 32S   G 5250.2           2.0 4                                                 
+ 32S   G 5486.5         1.3  LT                                                 
+ 32S   G 5664.1           2.9 4                                                 
+ 32S   G 6167.6           3.7 8                                                 
+ 32S   G 7714.3         10.7 12                                                 
+ 32S   G 9943.3          100 10                                                 
+ 32S   L 9977.9    5  4                                                         
+ 32S X L XREF=UR                                                                
+ 32S  cL E,J$from {+31}P(p,|g) |g|q                                             
+ 32S   G 3356.4            51 7                                                 
+ 32S   G 3754.1            53 7                                                 
+ 32S   G 4971.3           100 9                                                 
+ 32S   L 9978.3     1 3                                                         
+ 32S X L XREF=RX                                                                
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q disagrees with 1+ from {+31}P(e,e')           
+ 32S   G 1634.2           2.2 6                                                 
+ 32S   G 2276.9                                                                ?
+ 32S   G 2494.2         10.8 11                                                 
+ 32S   G 2628.3         8.1                                                     
+ 32S   G 2862.7         13.2 14                                                 
+ 32S   G 2976.2           3.5 6                                                 
+ 32S   G 3125.6         19.5 19                                                 
+ 32S   G 3312.1         1.6  LT                                                 
+ 32S   G 3356.4           9.5 9                                                 
+ 32S   G 4180.2           3.0 9                                                 
+ 32S   G 4430.2            84 9                                                 
+ 32S   G 4565.2         17.8 17                                                 
+ 32S   G 5281.9         1.1  LT                                                 
+ 32S   G 5518.2         20.8 22                                                 
+ 32S   G 5695.8         2.7  LT                                                 
+ 32S   G 6199.3         2.4  LT                                                 
+ 32S   G 7746.0           100 9                                                 
+ 32S   G 9975.0        0.8                                                      
+ 32S   L 9982.7    6  2,0+             0.100 KEV 10                             
+ 32S X L XREF=RB                                                                
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$this is a doublet with J=0+ coming from {+32}Cl decay                
+ 32S   G 2867.1           1.3 5                                                 
+ 32S   G 2981.0           2.9 8                                                 
+ 32S   G 3130.0           1.3 4                                                 
+ 32S   G 3360.8           1.9 7                                                 
+ 32S   G 3758.5         1.8  LT                                                 
+ 32S   G 4184.6         1.4  LT                                                 
+ 32S   G 4434.6         15.2 15                                                 
+ 32S   G 4569.6         1.6  LT                                                 
+ 32S   G 4975.7         1.6  LT                                                 
+ 32S   G 5286.3            34 4                                                 
+ 32S   G 5522.6         1.4  LT                                                 
+ 32S   G 5700.2           2.6 8                                                 
+ 32S   G 6203.7        0.9   LT                                                 
+ 32S   G 7750.4          100 10                                                 
+ 32S   G 9979.4         1.13 17                                                 
+ 32S   L 9988      10  3-,4-           4 KEV     AP                             
+ 32S X L XREF=VT                                                                
+ 32S  cL E,T$from {+31}P(p,|a)                                                  
+ 32S  cL J$from L=3 {+31}P({+3}He,d)                                            
+ 32S   L 9997      6                   4.7 KEV                                  
+ 32S X L XREF=FM                                                                
+ 32S  cL E$from {+28}Si(|a,|g)                                                  
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   L 10021     10  3-,4-           6.6 KEV                                  
+ 32S X L XREF=VM                                                                
+ 32S  cL E,J$from L=3 {+31}P({+3}He,d)                                          
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   L 10073.4   6  2-               1.50 KEV  15                             
+ 32S X L XREF=VURT                                                              
+ 32S  cL E,J,T$from {+31}P(p,|g), very strong M2 |g to 0+ forces this to be 2-  
+ 32S 2cL despite L=1 from {+31}P({+3}He,d) and {+31}P(d,n)                      
+ 32S   G 1574.0         0.41 21                                                 
+ 32S   G 1777.2           0.8 4                                                 
+ 32S   G 1948.0         0.61 21                                                 
+ 32S   G 2372.2         0.61 21                                                 
+ 32S   G 2957.8           1.4 7                                                 
+ 32S   G 3407.2         1.4  LT                                                 
+ 32S   G 3451.5         1.4  LT                                                 
+ 32S   G 3849.2           100 4                                                 
+ 32S   G 4275.3         3.0  LT                                                 
+ 32S   G 4525.3         1.4  LT                                                 
+ 32S   G 4660.3           8.8 7                                                 
+ 32S   G 5066.3         28.2 15                                                 
+ 32S   G 5376.9         1.43 21                                                 
+ 32S   G 5613.2         1    LT                                                 
+ 32S   G 5790.9         3.06 21                                                 
+ 32S   G 6294.4        0.8   LT                                                 
+ 32S   G 7841.0            60 3                                                 
+ 32S   G 10070.0        3.47 21 M2                                              
+ 32S   L 10079     2  (1)              1.7 KEV   4                              
+ 32S X L XREF=SM                                                                
+ 32S  cL E,J,T$from {+31}P(p,p')                                                
+ 32S   L 10090     10  2-                                                       
+ 32S X L XREF=X                                                                 
+ 32S  cL J$M2 transition                                                        
+ 32S   L 10102.3   10 4(+)                                                      
+ 32S X L XREF=VR                                                                
+ 32S  cL E,J$from {+31}P(p,|g) |g|q                                             
+ 32S   G 4689.3         16.5 15                                                 
+ 32S   G 5095.4         49.8 15                                                 
+ 32S   G 5642.2         46.7 15                                                 
+ 32S   G 5820.1         22.9 12                                                 
+ 32S   G 7870.0        100.0 22                                                 
+ 32S   L 10113     6                                                            
+ 32S X L XREF=F                                                                 
+ 32S   L 10133                         5.0 KEV                                  
+ 32S X L XREF=M                                                                 
+ 32S   L 10182                         6.3 KEV                                  
+ 32S X L XREF=M                                                                 
+ 32S   L 10218.8   6  3+               0.010 KEV 5                              
+ 32S X L XREF=RFU                                                               
+ 32S  cL E,J,T$from {+31}P(p,|g) |g|q and E3+M2 decay to 4961                   
+ 32S   G 2734.6           2.7 5                                                 
+ 32S   G 3028.4         1.22 25                                                 
+ 32S   G 3103.2           100 8                                                 
+ 32S   G 3552.6           1.7 5                                                 
+ 32S   G 3596.9         1.5  LT                                                 
+ 32S   G 3994.6         1.7  LT                                                 
+ 32S   G 4420.6         1.5  LT                                                 
+ 32S   G 4670.7         16.6 17                                                 
+ 32S   G 4805.6           7.1 8                                                 
+ 32S   G 5211.7         12.0 17                                                 
+ 32S   G 5522.3            46 5                                                 
+ 32S   G 5758.6         12.9 13                                                 
+ 32S   G 5936.2         16.6 15                                                 
+ 32S   G 6439.7         1.7  LT                                                 
+ 32S   G 7986.4         29.3 25                                                 
+ 32S   G 10215.3          3.9 5                                                 
+ 32S   L 10221.2   6  3-               0.056 KEV 10                             
+ 32S X L XREF=RSTV                                                              
+ 32S  cL E,J,T$from {+31}P(p,|g) with L=3 from {+31}P({+3}He,d), note however   
+ 32S 2cL that {+31}P(p,|a) found a very different lifetime and possibility of   
+ 32S xcL J=2                                                                    
+ 32S   G 2737.0        0.65  LT                                                 
+ 32S   G 3105.6          3.2 25   E1+M2  +0.233  17                             
+ 32S   G 3555.0           1.1 4                                                 
+ 32S   G 3599.3        0.96  LT                                                 
+ 32S   G 3997.0        0.96  LT                                                 
+ 32S   G 4423.0         1.3  LT                                                 
+ 32S   G 4673.1         1.6  LT                                                 
+ 32S   G 4808.0           0.6 4                                                 
+ 32S   G 5214.1           100 8  D(+Q)   -0.06   6                              
+ 32S  cG MR$from {+28}Si(|a,|g)                                                 
+ 32S   G 5524.7         1.6  LT  M2+E3   -0.22   7                              
+ 32S   G 5761.0            34 4  D+Q     -0.09   2                              
+ 32S  cG MR$from {+28}Si(|a,|g)                                                 
+ 32S   G 5938.6         1.6  LT                                                 
+ 32S   G 6442.1        0.32  LT                                                 
+ 32S   G 7988.8         22.6 17 E1+M2     -0.70   5                             
+ 32S  cG MR$other: +0.11 {I5} from {+28}Si(|a,|g)                               
+ 32S   G 10217.7          0.5 4                                                 
+ 32S   L 10225.0   16                  0.18 KEV  2                              
+ 32S X L XREF=R                                                                 
+ 32S   L 10230.3   6  1+               0.025 KEV 3                              
+ 32S X L XREF=RB                                                                
+ 32S  cL E,J$from {+31}P(p,|g) from |g|q and RUL                                
+ 32S   G 2694.4         11.5 15                                                 
+ 32S   G 3039.9           1.9 5                                                 
+ 32S   G 3114.7          6.8 22                                                 
+ 32S   G 3228.5           100 7                                                 
+ 32S   G 3377.5         2    LT                                                 
+ 32S   G 3468.3         2.3  LT                                                 
+ 32S   G 3564.1         2    LT                                                 
+ 32S   G 3608.4         1.9  LT                                                 
+ 32S   G 4006.1          8.9 20                                                 
+ 32S   G 4432.1         2    LT                                                 
+ 32S   G 4682.2          5.3 11                                                 
+ 32S   G 4817.1           6.8 7                                                 
+ 32S   G 5223.2         3    LT                                                 
+ 32S   G 5533.8          9.1 13                                                 
+ 32S   G 5770.1         2.1  LT                                                 
+ 32S   G 5947.7         23.4 22                                                 
+ 32S   G 6451.2          6.0 13                                                 
+ 32S   G 7997.9         19.1 20                                                 
+ 32S   G 10226.8        16.2 17                                                 
+ 32S   L 10256.1   7  4-               0.035 KEV 4                              
+ 32S X L XREF=URSTV                                                             
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=3 in {+31}P({+3}He,d)                   
+ 32S   G 2305.8           7.4 8                                                 
+ 32S   G 2554.9        0.4   LT                                                 
+ 32S   G 2906.1                                                                 
+ 32S   G 3406.1                                                                 
+ 32S   G 3494.1           3.4 8                                                 
+ 32S   G 3634.2           100 7 M1+E2    -0.9    3                              
+ 32S   G 3845.6           0.7 3                                                 
+ 32S   G 4708.0        0.4   LT                                                 
+ 32S   G 4842.9        0.3   LT                                                 
+ 32S   G 5249.0           6.2 7 M1+E2    +0.2    1                              
+ 32S   G 5559.6        0.13  LT                                                 
+ 32S   G 5795.9         12.8 10 E1+M2    -0.9    3                              
+ 32S   G 5973.5        0.3   LT                                                 
+ 32S   G 6477.0        0.1   LT                                                 
+ 32S   G 8023.6         1.18 14                                                 
+ 32S   G 10252.6       0.4   LT                                                 
+ 32S   L 10276     8  4+                                                        
+ 32S X L XREF=U6                                                                
+ 32S  cL E,J$from {+34}S(p,t) L=4 and microscopic model comparison              
+ 32S   L 10286.3   7   3-              0.16 KEV  2                              
+ 32S X L XREF=FURVT                                                             
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P(p,|a) angular distribution and L=3 in {+31}P({+3}He,d)   
+ 32S   G 5279.2         100.0                                                   
+ 32S   G 5826.1         20.2                                                    
+ 32S   G 8053.8         14.8                                                    
+ 32S   G 10282.8        9.6                                                     
+ 32S   L 10290.2   6  2                0.125 KEV 13                             
+ 32S X L XREF=BR                                                                
+ 32S  cL E,J,T$from {+31}P(p,|g) |g|q                                           
+ 32S   G 2164.7            10 3                                                 
+ 32S   G 2806.0         6.6  LT                                                 
+ 32S   G 3288.4         4.3                                                     
+ 32S   G 3624.0             5 3                                                 
+ 32S   G 3668.2         4    LT                                                 
+ 32S   G 4065.9            83 6                                                 
+ 32S   G 4492.0          6.9 23                                                 
+ 32S   G 4742.0         4.9  LT                                                 
+ 32S   G 4877.0          6.3 23                                                 
+ 32S   G 5283.1            69 3                                                 
+ 32S   G 5593.7         2.9  LT                                                 
+ 32S   G 5830.0         8.6  LT                                                 
+ 32S   G 6007.6          8.0 12                                                 
+ 32S   G 6511.1         4.3  LT                                                 
+ 32S   G 8057.7          100 12                                                 
+ 32S   G 10286.6        11.4 12                                                 
+ 32S   L 10292.0   15 3                0.07 KEV  1                              
+ 32S X L XREF=RTF                                                               
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P(p,|a) angular distribution                               
+ 32S  cL T${+31}P(p,|a) found a much higher half life than {+31}P(p,|g)         
+ 32S   L 10310                         1 KEV                                    
+ 32S X L XREF=MY                                                                
+ 32S  cL E,T$from {+29}Si(|a,n)                                                 
+ 32S   L 10331.1   15 1-               6.1 KEV   7                              
+ 32S X L XREF=UVTR                                                              
+ 32S  cL E,J,T$from L=1 from {+31}P({+3}He,d) and {+31}P(d,n)                   
+ 32S   G 2205.6           7.415                                                 
+ 32S   G 3329.3         3    LT                                                 
+ 32S   G 3569.1         4.2  LT                                                 
+ 32S   G 3664.8         3.2  LT                                                 
+ 32S   G 3709.1         3.8  LT                                                 
+ 32S   G 4106.8         3.7  LT                                                 
+ 32S   G 4532.9         5    LT                                                 
+ 32S   G 4782.9         16.2 LT                                                 
+ 32S   G 4917.9         3.8  LT                                                 
+ 32S   G 5323.9         1.9  LT                                                 
+ 32S   G 5634.5         17.6 15                                                 
+ 32S   G 5870.8         1.9  LT                                                 
+ 32S   G 6048.5         1.2  LT                                                 
+ 32S   G 6552.0         3.4  LT                                                 
+ 32S   G 8098.6           100 9                                                 
+ 32S   G 10327.5           22 3                                                 
+ 32S   L 10337     3                   9 KEV     2                              
+ 32S X L XREF=SF                                                                
+ 32S  cL E,J,T$from {+31}P(p,p') with L=(1)                                     
+ 32S   L 10369        (0+)             5.8 KEV                                  
+ 32S X L XREF=G8(10250)                                                         
+ 32S  cL J$from {+28}Si(|a,|a) R-matrix fits                                    
+ 32S   L 10370.6   6  2+               0.025 KEV 3                              
+ 32S X L XREF=V6RST                                                             
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+34}S(p,t) angular distribution and L=2 in {+31}P({+3}He,d)    
+ 32S   G 2886.4          6.5 23                                                 
+ 32S   G 3020.3        0.75                                                    ?
+ 32S   G 3180.2          3.0 23                                                 
+ 32S   G 3368.8         0.50 18                                                 
+ 32S   G 3517.8         1.5  LT                                                 
+ 32S   G 3704.3         35.0 25                                                 
+ 32S   G 3748.6         1.5  LT                                                 
+ 32S   G 4146.3           5.0 8                                                 
+ 32S   G 4572.4         1.5  LT                                                 
+ 32S   G 4822.4           6.8 8                                                 
+ 32S   G 4957.4         30.0 25                                                 
+ 32S   G 5363.4           5.8 5                                                 
+ 32S   G 5674.0         23.0 18                                                 
+ 32S   G 5910.3        0.75  LT                                                 
+ 32S   G 6088.0           100 8                                                 
+ 32S   G 6591.4           1.5 5                                                 
+ 32S   G 8138.1         30.0 25                                                 
+ 32S   G 10367.0          2.5 5                                                 
+ 32S   L 10396.7   6  4-               0.012 KEV 2                              
+ 32S X L XREF=UVRT                                                              
+ 32S  cL E,J,T$from {+31}P(p,|g) |g|q with L=3 in {+31}P({+3}He,d)              
+ 32S   G 2271.2           1.0 6                                                 
+ 32S   G 2421.6        0.5   LT                                                 
+ 32S   G 2446.4           4.8 5                                                 
+ 32S   G 2695.5        0.3   LT                                                 
+ 32S   G 2829.4           0.4 8                                                 
+ 32S   G 3029.3         0.85 14                                                 
+ 32S   G 3394.9          0.37 9                                                 
+ 32S   G 3543.9           1.6 6                                                 
+ 32S   G 3634.7          2.7 21                                                 
+ 32S   G 3774.7           100 6 M1+E2     +0.9   3                              
+ 32S   G 3986.2         0.61 25                                                 
+ 32S   G 4172.4         2.4  LT                                                 
+ 32S   G 4598.5          0.37 8                                                 
+ 32S   G 4848.5        0.6   LT                                                 
+ 32S   G 4983.5          0.12 4                                                 
+ 32S   G 5389.5           7.8 6 M1+E2     +0.2   1                              
+ 32S   G 5700.1        0.4   LT                                                 
+ 32S   G 5936.4           1.7 5                                                 
+ 32S   G 6114.0           2.2 6                                                 
+ 32S   G 6617.5         0.37 24                                                 
+ 32S   G 8164.2           1.0 4                                                 
+ 32S   G 10393.1        1.1  LT                                                 
+ 32S   L 10405     3                   11 KEV    4                              
+ 32S X L XREF=HS                                                                
+ 32S  cL E,T$from {+31}P(p,p')                                                  
+ 32S   L 10417                         6.3 KEV                                  
+ 32S X L XREF=M                                                                 
+ 32S   L 10428     10   2+,3+,3-,4-                                             
+ 32S X L XREF=V                                                                 
+ 32S  cL J$from {+31}P({+3}He,d) L=2,3                                          
+ 32S   L 10456     6  1+               2.9 KEV                                  
+ 32S X L XREF=FXTMB                                                             
+ 32S  cL E,T$from {+31}P(p,|a)                                                  
+ 32S  cL J$from {+31}P(e,e') angular distribution                               
+ 32S  DL J$ Endt's compilation gives 0+ but there's no data to prove it.        
+ 32S   L 10493                         4.0 KEV                                  
+ 32S X L XREF=M                                                                 
+ 32S   L  10500       (0+)             1.7 KEV                                  
+ 32S X L XREF=G8(10380)                                                         
+ 32S   L 10507.9   10                  0.010 KEV 5                              
+ 32S X L XREF=R                                                                 
+ 32S   G 3317.4           7.7 8                                                 
+ 32S   G 3392.2        100.0 19                                                 
+ 32S   G 3506.0         8    LT                                                 
+ 32S   G 3655.1         3    LT                                                 
+ 32S   G 3745.8         3    LT                                                 
+ 32S   G 3841.6           3.0 6                                                 
+ 32S   G 3885.9         3    LT                                                 
+ 32S   G 4283.6         14.8 LT                                                 
+ 32S   G 4709.7           4.0 4                                                 
+ 32S   G 4959.7          5.5 11                                                 
+ 32S   G 5094.6          14.0 6                                                 
+ 32S   G 5500.8           2.2 4                                                 
+ 32S   G 5811.3           1.6 4                                                 
+ 32S   G 6047.6         2.8  LT                                                 
+ 32S   G 6225.2          13.6 8                                                 
+ 32S   G 6728.7         5    LT                                                 
+ 32S   G 8275.3         41.7 11                                                 
+ 32S   G 10504.2        10.7 17                                                 
+ 32S   L 10534     4  3-,4-            1.8 KEV                                  
+ 32S X L XREF=T6BFVS                                                            
+ 32S  cL E$from {+31}P(p,p')                                                    
+ 32S  cL T$from {+31}P(p,|a)                                                    
+ 32S  cL J$from L=3 in {+31}P({+3}He,d) disagrees with J=2 from {+31}P(p,|a)    
+ 32S   L 10556.1   10                                                           
+ 32S X L XREF=RS                                                                
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S   G 8323.5         100                                                     
+ 32S   G 10552.4        67                                                      
+ 32S   L  10570       (0+)             1.2 KEV                                  
+ 32S X L XREF=G8(10460)                                                         
+ 32S   L 10574.4   10 5+               0.015 KEV 2                              
+ 32S X L XREF=R                                                                 
+ 32S   G 2304.2           3.8 4                                                 
+ 32S   G 3224.1           6.8 6                                                 
+ 32S   G 3812.3           6.0 6                                                 
+ 32S   G 3952.4           4.4 6                                                 
+ 32S   G 4163.8           2.7 8                                                 
+ 32S   G 5161.1         52.5 10                                                 
+ 32S   G 6114.0        100.0 17                                                 
+ 32S   G 8341.8         80                                                      
+ 32S   G 10570.7        12.8                                                    
+ 32S   L 10603.8   10                  0.15 KEV  2                              
+ 32S X L XREF=R                                                                 
+ 32S   G 2478.3         7.7                                                     
+ 32S   G 3488.1         25.6                                                    
+ 32S   G 4805.5         12.8                                                    
+ 32S   G 5055.5         100                                                     
+ 32S   G 5190.5         25.6                                                    
+ 32S   G 5596.6         20.5                                                    
+ 32S   G 8371.1         15.4                                                    
+ 32S   G 10600.0        48.7                                                    
+ 32S   L 10624     6  3-,4-            3.1 KEV                                  
+ 32S X L XREF=TV                                                                
+ 32S  cL E,T$from {+31}P(p,|a)                                                  
+ 32S  cL J$from L=3 in {+31}P({+3}He,d)                                         
+ 32S   L 10636.4   10                  14.9 KEV                                 
+ 32S X L XREF=FMR                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   G 2686.1         22.7 12                                                 
+ 32S   G 2934.7           5.5 9                                                 
+ 32S   G 3874.3         13.3 13                                                 
+ 32S   G 4014.4        100.0 22                                                 
+ 32S   L 10658        (1-)             2.3 KEV                                  
+ 32S X L XREF=G8(10530)                                                         
+ 32S   L 10678                         7.6 KEV                                  
+ 32S X L XREF=M                                                                 
+ 32S   L 10696.1   10                  0.18 KEV  2                              
+ 32S X L XREF=R                                                                 
+ 32S   G 2994.4        0.7                                                      
+ 32S   G 3160.1        0.7                                                      
+ 32S   G 4897.8         4.3                                                     
+ 32S   G 5147.8         2.9                                                     
+ 32S   G 5688.9         4.3                                                     
+ 32S   G 5999.4         2.9                                                     
+ 32S   G 6235.7         1.4                                                     
+ 32S   G 6413.5         14.3                                                    
+ 32S   G 6916.8         4.3                                                     
+ 32S   G 8463.4         7.1                                                     
+ 32S   G 10692.3        100.0                                                   
+ 32S   L 10700.5   10 1-               21 KEV    4                              
+ 32S X L XREF=RTV(*)                                                            
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P(p,|a) angular distribution and L=1 in {+31}P({+3}He,d)   
+ 32S   G 4902.2         4.8                                                     
+ 32S   G 6003.8         3.6                                                     
+ 32S   G 6921.2         4.8                                                     
+ 32S   G 8467.8         6.0                                                     
+ 32S   G 10696.7        100                                                     
+ 32S   L 10705.3   10  1-,2-           20 KEV    3                              
+ 32S X L XREF=RSFUV(*)                                                          
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from L=1 in {+31}P(d,n)                                              
+ 32S   G 3003.6         16.7 18                                                 
+ 32S   G 3943.2            60 3                                                 
+ 32S   G 4083.2           100 4                                                 
+ 32S   G 6244.9            16 4                                                 
+ 32S   L 10745        (0+)             8.9 KEV                                  
+ 32S X L XREF=YG8(10650)                                                        
+ 32S  cL E,T$from {+28}Si(|a,|a) angular distribution                           
+ 32S   L 10756.7   10 3(+)             0.05 KEV  1                              
+ 32S X L XREF=RU                                                                
+ 32S  cL E,J,T$from {+31}P(p,|g) |g|q                                           
+ 32S   G 1691.6           1.2 4                                                 
+ 32S   G 2027.3           1.8 6                                                 
+ 32S   G 3054.9           3.5 4                                                 
+ 32S   G 3406.3           6.2 4                                                 
+ 32S   G 3641.0           2.6 4                                                 
+ 32S   G 3903.8           5.5 4                                                 
+ 32S   G 4092.4         3.5                                                     
+ 32S   G 4134.6           2.3 6                                                 
+ 32S   G 5208.4         31.7 11                                                 
+ 32S   G 5343.3          13.4 7                                                 
+ 32S   G 6296.3        100.0 16                                                 
+ 32S   G 6474.1           6.2 4                                                 
+ 32S   G 8524.0           1.9 4                                                 
+ 32S   L 10778.8   10 2+               0.62 KEV  7                              
+ 32S X L XREF=VTR6B                                                             
+ 32S  cL E,T$from {+31}P(p,|g) note however that in {+31}P(p,|a) a much higher  
+ 32S 2cL half life was found, the spin discrepancy additionally indicates this  
+ 32S 3cL level may be a doublet.                                                
+ 32S  cL J$from L=2 in {+34}S(p,t), parity disagrees with L=1 in                
+ 32S xcL {+31}P({+3}He,t)                                                       
+ 32S   G 1755.7         2.80 24                                                 
+ 32S   G 2803.6           4.9 5                                                 
+ 32S   G 3294.5         1.86 24                                                 
+ 32S   G 3428.4         0.70 24                                                 
+ 32S   G 3776.9          30.1 7                                                 
+ 32S   G 4112.4           3.7 5                                                 
+ 32S   G 4980.5         1.40 24                                                 
+ 32S   G 5230.5         1.40 24                                                 
+ 32S   G 5365.4          16.6 5                                                 
+ 32S   G 6082.1          10.5 5                                                 
+ 32S   G 6496.2          38.9 7                                                 
+ 32S   G 8546.0        100.0 21                                                 
+ 32S   G 10774.9         19.3 5                                                 
+ 32S   L 10783.8   10                  0.75 KEV  8                              
+ 32S X L XREF=R                                                                 
+ 32S   G 2862.5         2.51 20                                                 
+ 32S   G 3146.5         1.35 20                                                 
+ 32S   G 3781.9         3.09 20                                                 
+ 32S   G 4117.4         3.68 20                                                 
+ 32S   G 4373.2         2.901                                                   
+ 32S   G 5235.5          23.0 6                                                 
+ 32S   G 5777.8        1                                                        
+ 32S   G 6087.1          20.1 8                                                 
+ 32S   G 6323.4         1.934                                                   
+ 32S   G 6501.2           7.2 4                                                 
+ 32S   G 7004.5           3.3 4                                                 
+ 32S   G 8551.0          28.4 8                                                 
+ 32S   G 10779.9       100.0 12                                                 
+ 32S   L 10784.5   10                  0.60 KEV  6                              
+ 32S X L XREF=R                                                                 
+ 32S   G 6087.8         100                                                     
+ 32S   L 10791.3   10 1                0.17 KEV  2                              
+ 32S X L XREF=FSTRB                                                             
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S  cL J$from {+31}P(p,|a) angular distribution and {+28}Si(|a,|g) |g|q       
+ 32S   G 3260           30   LT                                             S   
+ 32S   G 3600.8         4.12 22                                                 
+ 32S   G 3675.5         8.68 22                                                 
+ 32S   G 3789.4         9.98 22                                                 
+ 32S   G 4993.0         1.30 22                                                 
+ 32S   G 5243.0           3.9 5                                                 
+ 32S   G 5377.9           9.1 5                                                 
+ 32S   G 5784.1          20.0 7                                                 
+ 32S   G 6094.6           7.2 7                                                 
+ 32S   G 6508.7          15.4 9                                                 
+ 32S   G 8558.5        100.0 11                                                 
+ 32S  DG $ A2=+0.3 2 28SI(A,G)                                                  
+ 32S  cG M,MR$-0.3 {I2} or 1.4 {I12} {+28}Si(|a,|g)                             
+ 32S   G 10787.4         37.3 9                                                 
+ 32S  DG $ A2=-0.92 4 28SI(A,G)                                                 
+ 32S   L 10806         2                                                        
+ 32S X L XREF=HF                                                                
+ 32S  cL E,J$from {+28}Si(|a,|g)                                                
+ 32S   G 5395         9                                                     S   
+ 32S   G 5795         22                                                    S   
+ 32S   G 6105         4                                                     S   
+ 32S   G 6525         20                                                    S   
+ 32S   G 8574         100      D+Q       -0.19   6                          S   
+ 32S  DG $ A2=+0.25 10, A4=-0.40 18 28SI(A,G)                                   
+ 32S  cG M,MR$from {+28}Si(|a,|g)                                               
+ 32S   G 10802        63                                                    S   
+ 32S  DG $ A2=+0.4 1, A4=-1.2 2 28SI(A,G)                                       
+ 32S  cG M,MR$from {+28}Si(|a,|g)                                               
+ 32S   L  10816       (3-,5-)          4.7 KEV                                  
+ 32S X L XREF=G8(10700)                                                         
+ 32S   L 10825.4   10 2-               22 KEV    4                              
+ 32S X L XREF=UXT6SRV                                                           
+ 32S  cL E,T$from {+31}P(p,|g) note that {+31}P(p,|a) gives a much lower        
+ 32S 2cL approximate estimate.                                                  
+ 32S  cL J$from {+32}S(e,e') strength and L=1 in {+31}P({+3}He,d) and           
+ 32S 2cL {+31}P(d,n), parity disagrees with {+34}S(p,t) and spin with           
+ 32S xcL {+31}P(p,|a)                                                           
+ 32S   G 3823.5         13.4 10                                                 
+ 32S   G 5027.1         18.7                                                   ?
+ 32S   G 5277.1            17 4                                                 
+ 32S   G 5412.0            15 4                                                 
+ 32S   G 5818.2            29 6                                                 
+ 32S   G 6542.8            79 7                                                 
+ 32S   G 8592.6           100 9                                                 
+ 32S   G 10821.5           58 9                                                 
+ 32S   L 10827.0   10                  0.32 KEV  3                              
+ 32S X L XREF=T(*)R                                                             
+ 32S  cL E,T$from {+31}P(p,|g)                                                  
+ 32S   G 3711.2         2.7                                                     
+ 32S   G 4161           5.4                                                     
+ 32S   G 4202           4.0                                                     
+ 32S   G 5028.7         8.1                                                     
+ 32S   G 5281           5.4                                                     
+ 32S   G 5413.6         8.1                                                     
+ 32S   G 5819.8         16.2                                                    
+ 32S   G 6130.2         5.4                                                     
+ 32S   G 6544.4         59.5                                                    
+ 32S   G 7047.6         5.4                                                     
+ 32S   G 8594.2         100                                                     
+ 32S   G 10823.1        64.9                                                    
+ 32S   L 10830     3                   4 KEV     AP                             
+ 32S X L XREF=T                                                                 
+ 32S   L 10832     3  2,(3)            2.5 KEV   AP                             
+ 32S X L XREF=FT                                                                
+ 32S  cL E,T$from {+31}P(p,|a)                                                  
+ 32S  cL J$from {+28}Si(|a,|g) |g|q disagrees with J=2,(3) of {+31}P(p,|a)      
+ 32S   G 5421         12     LT                                             S   
+ 32S   G 5821         18                                                    S   
+ 32S   G 8600         12     LT                                             S   
+ 32S   G 10828        100                                                   S   
+ 32S  DG $ A2=-1.0 1 28SI(A,G)                                                  
+ 32S   L 10841     10  2               0.4 KEV   AP                             
+ 32S X L XREF=FT                                                                
+ 32S  cL E,T$from {+31}P(p,|a)                                                  
+ 32S  cL J$from {+28}Si(|a,|g) |g|q                                             
+ 32S   G 5430         25                                                    S   
+ 32S   G 5830         25                                                    S   
+ 32S   G 6560         75       D+Q       +0.54   15                         S   
+ 32S  DG $ A2=+1.1 1, A4=-0.08 15 28SI(A,G)                                     
+ 32S  cG M,MR$from {+28}Si(|a,|g)                                               
+ 32S   G 8609         100      D+Q       +0.60   12                             
+ 32S  DG $ A2=+1.1 1, A4=+0.05 10 28SI(A,G)                                     
+ 32S  cG M,MR$from {+28}Si(|a,|g)                                               
+ 32S   G 10837        25                                                        
+ 32S  DG $ A2=-0.30 4, A4=-0.64 5 28SI(A,G)                                     
+ 32S  cG M,MR$from {+28}Si(|a,|g)                                               
+ 32S   L 10851         1                                                        
+ 32S X L XREF=F                                                                 
+ 32S   G 6570         27     LT                                             S   
+ 32S   G 8618         55     LT                                             S   
+ 32S   G 10847        100    GT                                             S   
+ 32S  DG $ A2=-1.1 1 28SI(A,G)                                                  
+ 32S   L  10868       (2+)             7.7 KEV                                  
+ 32S X L XREF=G8(10780)                                                         
+ 32S   L 10880     40  6-                                                       
+ 32S X L XREF=Y                                                                 
+ 32S   L 10907     10 1+               2.1 KEV                                  
+ 32S X L XREF=XT                                                                
+ 32S  cL E,T$from {+31}P(p,|a)                                                  
+ 32S  cL J$from {+31}P(e,e') strength and {+31}P(p,|a) angular distribution     
+ 32S   L 10915     2                                                            
+ 32S X L XREF=R                                                                 
+ 32S   G 8685           45                                                      
+ 32S   G 10911          100                                                     
+ 32S   L 10933.7   10 3                                                         
+ 32S X L XREF=R                                                                 
+ 32S   G 1221.7           7.4 4                                                 
+ 32S F G FL=9711.9                                                              
+ 32S   G 3449.4           7.7 7                                                 
+ 32S   G 3583.3          30.4 7                                                 
+ 32S   G 3817.9           6.1 7                                                 
+ 32S   G 4080.7         67.0 10                                                 
+ 32S   G 4523.0          22.8 7                                                 
+ 32S   G 5385.3          15.1 7                                                 
+ 32S   G 5520.3          13.5 7                                                 
+ 32S   G 6473.2         23.4 10                                                 
+ 32S   G 6651.0        100.0 10                                                 
+ 32S   G 8700.9          7.7 13                                                 
+ 32S   G 10929.7        3    LT                                                 
+ 32S   L 10941         1               9.3 KEV                                  
+ 32S X L XREF=MF                                                                
+ 32S  cL E,J$from {+28}Si(|a,|g) |g|g|q                                         
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   G 8708         39                                                    S   
+ 32S  DG $ A2=-0.1 2 28SI(A,G)                                                  
+ 32S  cG MR$0.00 {I18} or 3.0 {I15} {+28}Si(|a,|g)                              
+ 32S   G 10937        100                                                   S   
+ 32S  DG $ A2=-1.10 5 28SI(A,G)                                                 
+ 32S   L  10956       (0+)             2.9 KEV                                  
+ 32S X L XREF=G8(10880)                                                         
+ 32S   L 10977     10 (1-,2-)                                                   
+ 32S X L XREF=STV                                                               
+ 32S  cL J$from L=(1) in {+31}P({+3}He,d)                                       
+ 32S   L 10980     40  6-                                                       
+ 32S X L XREF=XY                                                                
+ 32S  cL E,J$from {+32}S(e,e')                                                  
+ 32S   L 10988                         4.0 KEV                                  
+ 32S X L XREF=M                                                                 
+ 32S   L 10998         (4)                                                      
+ 32S X L XREF=F                                                                 
+ 32S   G 4577         9                                                     S   
+ 32S F G FL=6411                                                                
+ 32S   G 5987         5                                                     S   
+ 32S   G 6537         100                                                   S   
+ 32S  DG $ A2=+0.21 7, A4=+0.14 10 28SI(A,G)                                    
+ 32S   L 11009.9   10 4+               5.1 KEV                                  
+ 32S X L XREF=MVR                                                               
+ 32S  cL E,J$from {+31}P(p,|g) |g|q                                             
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   G 2739.6         1.46 21                                                 
+ 32S   G 3059.5         0.63 21                                                 
+ 32S   G 3126.7         4.38 21                                                 
+ 32S   G 3308.1         2.29 21                                                 
+ 32S   G 3525.6         0.83 21                                                 
+ 32S   G 3575.3         25                                                     ?
+ 32S   G 3659.5         2.50 21                                                 
+ 32S   G 3894.1         1.04 21                                                 
+ 32S   G 4247.7         1.04 21                                                 
+ 32S   G 4343.5         2.92 21                                                 
+ 32S   G 4387.8         0.63 21                                                 
+ 32S   G 4599.2        16.46 21                                                 
+ 32S   G 5596.4         3.13 21                                                 
+ 32S   G 6002.6          37.9 7                                                 
+ 32S   G 6549.4        100.0 11                                                 
+ 32S   G 6727.2          23.5 5                                                 
+ 32S   G 8777.0         8.96 21                                                 
+ 32S   L 11020        (1-,2-)                                                   
+ 32S X L XREF=U                                                                 
+ 32S   L 11052         (4)                                                      
+ 32S X L XREF=F                                                                 
+ 32S   G 4611         5      LT                                             S   
+ 32S F G FL=6411                                                                
+ 32S   G 6041         5      LT                                             S   
+ 32S   G 6590         100                                                   S   
+ 32S  cG $A{-2}=+0.14 {I7}, A{-4}=+0.15 {I8} {+28}Si(|a,|g)                     
+ 32S   L 11064        2+                                                        
+ 32S X L XREF=B                                                                 
+ 32S   L 11078         2               3.0 KEV                                  
+ 32S X L XREF=MF                                                                
+ 32S  cL E,J$from {+28}Si(|a,|g) |g|g|q                                         
+ 32S  cL T$from {+29}Si(|a,n)                                                   
+ 32S   G 11074        100                                                   S   
+ 32S  DG $ A2=+0.6 3, A4=-1.8 4 28SI(A,G)                                       
+ 32S   L 11092.3   10 3-                                                        
+ 32S X L XREF=VSTR                                                              
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,|g) |g|q and L=3 in {+31}P({+3}He,d)                   
+ 32S   G 2795.9          23.1 9                                                 
+ 32S   G 2900.9           3.0 9                                                 
+ 32S   G 3117.1          13.2 5                                                 
+ 32S   G 3141.9          18.4 9                                                 
+ 32S   G 3390.5         51.7 13                                                 
+ 32S   G 4330.1          3.0 17                                                 
+ 32S   G 4470.1        100.0 17                                                 
+ 32S   G 4867.8         55.1 17                                                 
+ 32S   G 6085.0            85 3                                                 
+ 32S   G 6631.7            63 3                                                 
+ 32S   G 6809.5         10.3 17                                                 
+ 32S   G 8859.4                                                                ?
+ 32S   G 11088.2                                                               ?
+ 32S   L 11107        (2+)             67.4 KEV                                 
+ 32S X L XREF=FG8(10950)                                                        
+ 32S  cL E$average of {+28}Si(|a,|a) and {+28}Si(|a,|g)                         
+ 32S  cL J,T$from {+28}Si(|a,|a), R-Matrix fits.                                
+ 32S   G 6099         67     LT                                             S   
+ 32S   G 8877         100    GT                                             S   
+ 32S   L 11114     2                                                            
+ 32S X L XREF=R                                                                 
+ 32S   G 4490      1                                                            
+ 32S   G 6109      3                                                            
+ 32S   G 8881      10                                                           
+ 32S   G 11113     86                                                           
+ 32S   L 11123     1                                                            
+ 32S X L XREF=R                                                                 
+ 32S   G 2432.8         11.4                                                   ?
+ 32S   G 4121.0           9.1 3                                                 
+ 32S   G 6426.1           6.7 3                                                 
+ 32S   G 7343.5           9.6 3                                                 
+ 32S   G 8890.0          14.4 5                                                 
+ 32S   G 11118.9        100.0 8                                                 
+ 32S   L 11130          (0+)           1.8 KEV                                  
+ 32S X L XREF=G8(11050)                                                         
+ 32S   L 11131     2   1                                                        
+ 32S X L XREF=1R                                                                
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(p,p')                                                    
+ 32S   L 11139.8   10  1+                                                       
+ 32S X L XREF=RX                                                                
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+31}P(e,e')                                                    
+ 32S   G 3603.7         0.47 12                                                 
+ 32S   G 3946.4         1.2                                                     
+ 32S   G 4137.8         0.71 12                                                 
+ 32S   G 4915.3         0.47 12                                                 
+ 32S   G 5589.9        0.6   LT                                                 
+ 32S   G 6442.9         2.71 24                                                 
+ 32S   G 7360.3         2.12 24                                                 
+ 32S   G 8906.8          10.8 7                                                 
+ 32S   G 11135.6        100.0 9                                                 
+ 32S   L 11170     50  6-                                                       
+ 32S X L XREF=X                                                                 
+ 32S   L 11175                         8.0 KEV                                  
+ 32S X L XREF=M                                                                 
+ 32S   L 11198     10  3-,4-                                                    
+ 32S X L XREF=VU                                                                
+ 32S  cL E,J$from L=3 {+31}P({+3}He,d) and L=3 {+31}P(d,n)                      
+ 32S   L 11235.5   10 3                9 KEV                                    
+ 32S X L XREF=TVR                                                               
+ 32S  cL E,J$from {+31}P(p,|g) |g|q note that {+31}P(p,|a) finds J=1            
+ 32S  cL T$from {+31}P(p,|a)                                                    
+ 32S   G 2545.3         2.95 21                                                 
+ 32S   G 3044.1         6.53 21                                                 
+ 32S   G 3533.6         3.16 21                                                 
+ 32S   G 4824.7           4.2 5                                                 
+ 32S   G 5687.0           2.7 5                                                 
+ 32S   G 5822.0           7.2 5                                                 
+ 32S   G 6774.9           6.5 5                                                 
+ 32S   G 6952.7         77.5 13                                                 
+ 32S   G 9002.5        100.0 13                                                 
+ 32S   L 11253.9   10  (3-)            1.1 KEV                                  
+ 32S X L XREF=GRV8(11250)                                                       
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+28}Si(|a,|a):res R-matrix fit                                 
+ 32S   G 2392.7         1.37 16                                                 
+ 32S   G 2524.4         1.22 16                                                 
+ 32S   G 2563.7         3.65 16                                                 
+ 32S   G 2846.6         4.11 16                                                 
+ 32S   G 2957.5         0.61 16                                                 
+ 32S   G 3062.5         7.31 16                                                 
+ 32S   G 3303.4         2.74 16                                                 
+ 32S   G 3552.0         1.22 16                                                 
+ 32S   G 4400.9         1.83 16                                                 
+ 32S   G 4587.4         2.89 16                                                 
+ 32S   G 4843.1         2.44 16                                                 
+ 32S   G 5705.4         1.67 16                                                 
+ 32S   G 5840.4         1.83 16                                                 
+ 32S   G 6246.5           7.2 3                                                 
+ 32S   G 6557.0         1.67 16                                                 
+ 32S   G 6971.1           8.5 3                                                 
+ 32S   G 9020.9         100.0 8                                                 
+ 32S   L 11332.8   10                                                           
+ 32S X L XREF=R                                                                 
+ 32S   G 1673.7            30 3                                                 
+ 32S   G 3207.1         46.9 23                                                 
+ 32S   G 4216.9            21 3                                                 
+ 32S   G 4330.7             6 3                                                 
+ 32S   G 4922.0            26 3                                                 
+ 32S   G 6325.4            19 3                                                 
+ 32S   G 6635.8            16 3                                                 
+ 32S   G 7049.9            57 4                                                 
+ 32S   G 11328.5        100.0 7                                                 
+ 32S   L 11366     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L  11410       (3-)             1.9 KEV                                  
+ 32S X L XREF=G8(11380)                                                         
+ 32S   L 11425     10 1                4 KEV     AP                             
+ 32S X L XREF=T                                                                 
+ 32S   L 11438     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 11474.6   10  3                                                        
+ 32S X L XREF=RV                                                                
+ 32S  cL E,J$from {+31}P(p,|g) |g|q                                             
+ 32S   G 2728.8         4.99 14                                                 
+ 32S   G 2745.0         4.99 14                                                 
+ 32S   G 4621.5         1.62 14                                                 
+ 32S   G 4808.0         2.56 14                                                 
+ 32S   G 4852.3         2.29 14                                                 
+ 32S   G 5063.7         0.54 14                                                 
+ 32S   G 5250.0         0.94 14                                                 
+ 32S   G 5926.0         1.35 14                                                 
+ 32S   G 6061.0         9.03 14                                                 
+ 32S   G 7013.8         6.33 14                                                 
+ 32S   G 7191.7         100.0 6                                                 
+ 32S   L 11485.8   10  1+                                                       
+ 32S X L XREF=RXV                                                               
+ 32S  cL E$from {+31}P(p,|g)                                                    
+ 32S  cL J$from {+32}S(e,e')                                                    
+ 32S   G 3360.1           55 10                                                 
+ 32S   G 6478.3           81 15                                                 
+ 32S   G 7706.1          100 12                                                 
+ 32S   L 11554     10 (0,1)            6.1 KEV                                  
+ 32S X L XREF=VT                                                                
+ 32S  cL E$average of {+31}P({+3}He,d) and {+31}P(p,|a)                         
+ 32S  cL T,J$from {+31}P(p,|a) angular distribution                             
+ 32S   L 11589.7   10 1-               10.7 KEV                                 
+ 32S X L XREF=UTVR                                                              
+ 32S  cL E${+31}P(p,|g)                                                         
+ 32S  cL J,T$from {+31}P(p,|a) angular distribution with L=1 in {+31}P(d,n)     
+ 32S   G 3182.4           4.5 3                                                 
+ 32S   G 4473.7          25.8 8                                                 
+ 32S   G 4923.1           1.1 6                                                 
+ 32S   G 5178.8           0.8 6                                                 
+ 32S   G 6582.1           7.6 8                                                 
+ 32S   G 6892.6           1.8 6                                                 
+ 32S   G 7128.9         18.2 11                                                 
+ 32S   G 7306.7         56.6 11                                                 
+ 32S   G 7810.0           8.4 8                                                 
+ 32S   G 9356.5         38.2 14                                                 
+ 32S   G 11585.2       100.0 19                                                 
+ 32S   L 11602.4   10                                                           
+ 32S X L XREF=RV                                                                
+ 32S  cL E$from {+31}P(p,|g) |g|q                                               
+ 32S   G 4066.1         12.0 16                                                 
+ 32S   G 4411.6         31.8 16                                                 
+ 32S   G 6053.8         37.8 20                                                 
+ 32S   G 6594.8         45.1 23                                                 
+ 32S   G 6905.3           100 4                                                 
+ 32S   L 11620     7   1+                                                       
+ 32S X L XREF=XV                                                                
+ 32S  cL E,J$from {+32}S(e,e')                                                  
+ 32S   L  11629        (1,2+,3-)       5.7 KEV                                  
+ 32S X L XREF=G18(11410)                                                        
+ 32S  cL E,T$from {+28}Si(|a,|a):res                                            
+ 32S  cL J${+32}S(p,p') J=1; 3- from {+28}Si(|a,|a'); 2+ from                   
+ 32S 2cL {+4}He({+28}Si,|a). There may be two different levels near this energy 
+ 32S   L 11637.1   10                                                           
+ 32S X L XREF=R                                                                 
+ 32S   G 3290.4         0.80 12                                                 
+ 32S   G 3715.6         0.57 12                                                 
+ 32S   G 4152.6         0.46 12                                                 
+ 32S   G 4202.5         0.23 12                                                 
+ 32S   G 4446.3         0.46 12                                                 
+ 32S   G 4634.9         0.80 12                                                 
+ 32S   G 4970.5         0.69 12                                                 
+ 32S   G 5412.4         0.57 12                                                 
+ 32S   G 5838.5         0.69 12                                                 
+ 32S   G 6088.5         3.55 12                                                 
+ 32S   G 6940.0         2.17 12                                                 
+ 32S   G 7857.3         1.26 12                                                 
+ 32S   G 9403.8         2.75 23                                                 
+ 32S   G 11632.6        100.0 6                                                 
+ 32S   L 11648     10 1                6.6 KEV                                  
+ 32S X L XREF=R                                                                 
+ 32S   L 11660     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 11669.6   10 5+                                                        
+ 32S X L XREF=R                                                                 
+ 32S   G 2940.0         0.63 16                                                 
+ 32S   G 3322.9           6.2 4                                                 
+ 32S   G 3478.1          15.2 4                                                 
+ 32S   G 4102.0          21.4 4                                                 
+ 32S   G 4907.2         0.63 16                                                 
+ 32S   G 5258.7         100.0 7                                                 
+ 32S   G 7208.8          14.4 4                                                 
+ 32S   L 11690     10 (3-)             1.2 KEV                                  
+ 32S X L XREF=GV8(11570)                                                        
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J,T$from {+28}Si(|a,|a):res R-matrix fit                               
+ 32S   L 11696.7   10 5+                                                        
+ 32S X L XREF=T(*)RE(*)                                                         
+ 32S  cL E,J$from {+31}P(p,|g)                                                  
+ 32S  cL T$8.0 keV from {+31}P(p,|a) and 55 keV {I24} from {+16}O({+20}Ne,|a)   
+ 32S 2cL may belong to this level but many levels overlap within uncertainties  
+ 32S   G 3350.0         6.66 17                                                 
+ 32S   G 3505.2        10.15 17                                                 
+ 32S   G 4129.1          14.6 4                                                 
+ 32S   G 4346.1         1.66 17                                                 
+ 32S   G 5074.3           1.5 4                                                 
+ 32S   G 5285.8         100.0 7                                                 
+ 32S   G 7235.8          31.9 4                                                 
+ 32S   L 11720     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 11750     10   1                                                       
+ 32S X L XREF=FV                                                                
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J$from {+28}Si(|a,|g) |g|q                                             
+ 32S   G 7464         100                                                   S   
+ 32S  DG $ A2=+0.15 2 28SI(A,G)                                                 
+ 32S  cG MR$-0.21 {I2} or 1.8 {I1} {+28}Si(|a,|g)                               
+ 32S   G 11741        2                                                     S   
+ 32S  DG $ A2=-1.0 1 28SI(A,G)                                                  
+ 32S   L 11758.8   10                                                           
+ 32S X L XREF=R                                                                 
+ 32S   G 3462.3          14.0 4                                                 
+ 32S   G 3808.2         14.2 11                                                 
+ 32S   G 4996.4        100.0 11                                                 
+ 32S   G 5136.4          49.5 9                                                 
+ 32S   G 6751.2           4.4 8                                                 
+ 32S   L 11783     10 1                30 KEV                                   
+ 32S X L XREF=TVF                                                               
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J$from {+28}Si(|a,|g) |g|q note that {+31}P(p,|a) favors J=2           
+ 32S  cL T$from {+31}P(p,|a)                                                    
+ 32S   G 11780        100                                                   S   
+ 32S  DG $ A2=-0.95 6 28SI(A,G)                                                 
+ 32S   L 11806     10  1,2                                                      
+ 32S X L XREF=HFV                                                               
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J$from {+28}Si(|a,|g) |g|q                                             
+ 32S   G 4682         5      LT                                             S   
+ 32S  cG RI$intensity seen in only one part of the doublet                      
+ 32S   G 11798        100                                                   S   
+ 32S  DG $ A2=+0.40 15, A4=-1.4 2 28SI(A,G)                                     
+ 32S   L 11823     10 1-,2-                                                     
+ 32S X L XREF=UV                                                                
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J$from {+31}P(d,n) L=1                                                 
+ 32S   L 11848        (3-)             10.4 KEV                                 
+ 32S X L XREF=G8(11650)                                                         
+ 32S   L 11861     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 11876     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 11883     10 1                7.6 KEV                                  
+ 32S X L XREF=X1T                                                               
+ 32S  cL E$average of {+32}S(e,e') and {+31}P(p,|a)                             
+ 32S  cL J$from {+31}P(p,|a) angular distribution and {+32}S(p,p'), J=2-        
+ 32S 2cL {+32}S(e,e') disagrees                                                 
+ 32S   L 11900     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 11936     10 3-               7.3 KEV                                  
+ 32S X L XREF=VT                                                                
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J,T$from {+31}P(p,|a) angular distribution and L=3 from                
+ 32S xcL {+31}P({+3}He,d)                                                       
+ 32S   L 11940     20  6-              86 KEV    24                             
+ 32S X L XREF=XY                                                                
+ 32S  cL E$from {+16}O({+20}Ne,|a)                                              
+ 32S  cL J$from {+32}S(e,e') and {+32}S(|p{++},|p{++}), disagrees with 5-       
+ 32S 2cL assignment of {+16}O({+20}Ne,|a) however large uncertainties mean      
+ 32S 3cL there may be several levels here.                                      
+ 32S   L 11940.1   10  3                                                        
+ 32S X L XREF=R                                                                 
+ 32S   G 3532.7           1.4 3                                                 
+ 32S   G 3989.5           6.5 3                                                 
+ 32S   G 5086.8           2.2 3                                                 
+ 32S   G 5317.7          15.7 6                                                 
+ 32S   G 5715.3           6.2 3                                                 
+ 32S   G 6391.3          21.6 9                                                 
+ 32S   G 6526.3          27.8 6                                                 
+ 32S   G 7479.1        100.0 12                                                 
+ 32S   G 7656.9          50.0 6                                                 
+ 32S   G 9706.6          49.4 9                                                 
+ 32S   L 11955     10  (2+,3-)         3.2 KEV                                  
+ 32S X L XREF=GV8(11800)                                                        
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J,T$from {+28}Si(|a,|a):res R-matrix fit                               
+ 32S   L 12002     10 2                11.8 KEV                                 
+ 32S X L XREF=TV                                                                
+ 32S  cL E$from {+31}P({+3}He,t)                                                
+ 32S  cL J,T$from {+31}P(p,|a) angular distribution                             
+ 32S   L 12030     10                                                           
+ 32S X L XREF=FX(*)6(*)                                                         
+ 32S  cL E,J$from {+32}S(e,e') likely a doublet or triplet of levels since the  
+ 32S 2cL spins reported are all in disagreement, uncertainties are also large   
+ 32S 3cL or absent making it impossible to make clear assignments               
+ 32S   G 4520         10                                                    S   
+ 32S F G FL=7535.7                                                              
+ 32S   G 4900         14                                                    S   
+ 32S   G 9788         14                                                    S   
+ 32S   G 12016        100                                                   S   
+ 32S  DG $ A2=-1.1 1 28SI(A,G)                                                  
+ 32S   L 12043.9   10                                                           
+ 32S X L XREF=RU(*)V(*)X(*)6(*)                                                 
+ 32S  cL E,J$from {+31}P(p,|g) which resolved the triplet                       
+ 32S   G 4093.2           3.2 5                                                 
+ 32S   G 5281.4         19.0 11                                                 
+ 32S   G 5421.4           2.7 5                                                 
+ 32S   G 7036.1        100.0 13                                                 
+ 32S   G 7582.9           2.5 4                                                 
+ 32S   L 12044.19  28 2,3,4                                                     
+ 32S X L XREF=RU(*)V(*)X(*)6(*)                                                 
+ 32S  cL E,J$from {+31}P(p,|g) which resolved the triplet                       
+ 32S   G 7036.33       100                                                      
+ 32S   G 9811.8        1                                                        
+ 32S   L 12047.96  28 0+                                                        
+ 32S X L XREF=RFU(*)V(*)                                                        
+ 32S  cL E,J$from {+31}P(p,|g) which resolved the triplet                       
+ 32S   G 2840.32   14 11.2   8                                                  
+ 32S   G 3922.37   15 100.0  11                                                 
+ 32S   G 5046.1    4  7.5    8                                                  
+ 32S   G 9816         0.30   LE                                                ?
+ 32S   L 12050        (2+,3-)                                                   
+ 32S X L XREF=G8(11940)                                                         
+ 32S   L 12124        2                6.9 KEV                                  
+ 32S X L XREF=T                                                                 
+ 32S   L 12160     10 (3+,2+)          22 KEV                                   
+ 32S X L XREF=VT8(12170)                                                        
+ 32S  cL E$from {+31}P({+3}He,t)                                                
+ 32S  cL J,T$from {+31}P(p,|a) angular distribution with L=(2) from             
+ 32S xcL {+31}P({+3}He,t)                                                       
+ 32S   L 12196     10  1-                                                       
+ 32S X L XREF=UXYV                                                              
+ 32S  cL E$from {+32}S(e,e')                                                    
+ 32S  cL J$From {+32}S(e,e') but with parity from L=1 in {+31}P(d,n)            
+ 32S   L  12198       (3-)             6.4 KEV                                  
+ 32S X L XREF=G8(12000)                                                         
+ 32S   L 12235     10  (2+,3+)                                                  
+ 32S X L XREF=V                                                                 
+ 32S   L 12260         [3-]                                                     
+ 32S X L XREF=8                                                                 
+ 32S   L 12270        0                21 KEV                                   
+ 32S X L XREF=T                                                                 
+ 32S   L 12308     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 12340     10                                                           
+ 32S X L XREF=V                                                                 
+ 32S   L 12362     10 3,(2)            4.8 KEV                                  
+ 32S X L XREF=TV                                                                
+ 32S  cL E,J,T$from {+31}P(p,|a) angular distribution                           
+ 32S   L 12393     10 3                7.7 KEV                                  
+ 32S X L XREF=UVT                                                               
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL T,J$from {+31}P(p,|a) angular distribution                             
+ 32S   L 12426     10 3,2              13.9 KEV                                 
+ 32S X L XREF=VT8(12440)                                                        
+ 32S  cL E,J$from {+31}P({+3}He,d)                                              
+ 32S  cL T$from {+31}P(p,|a) angular distribution                               
+ 32S   L 12465     10 2                7.8 KEV                                  
+ 32S X L XREF=VT                                                                
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J,T$from {+31}P(p,|a) angular distribution                             
+ 32S   L 12491     10 (2,1)            18.6 KEV                                 
+ 32S X L XREF=VT                                                                
+ 32S  cL E$from {+31}P({+3}He,d)                                                
+ 32S  cL J,T$from {+31}P(p,|a) angular distribution                             
+ 32S   L 12510         [3-]                                                     
+ 32S X L XREF=8                                                                 
+ 32S   L 12553        2                8.4 KEV                                  
+ 32S X L XREF=T                                                                 
+ 32S   L 12560        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L 12568        2                3.0 KEV                                  
+ 32S X L XREF=T                                                                 
+ 32S   L 12600        3,2              7.9 KEV                                  
+ 32S X L XREF=T                                                                 
+ 32S   L 12630     30  6-                                                       
+ 32S X L XREF=UY                                                                
+ 32S  cL E,J$from {+32}S(|p{++},|p{++}) note that L=1 in {+31}P(d,n) probably   
+ 32S 2cL means there are several levels in this vicinity                        
+ 32S   L 12650     10  1+              0.10 MEV  LT                             
+ 32S X L XREF=X8(12650)                                                         
+ 32S   L  12710        (5-,3-)         5 KEV                                A   
+ 32S X L XREF=G8(12730)                                                         
+ 32S   L 12740     40  6-                                                       
+ 32S X L XREF=XY                                                                
+ 32S   L 12760     20 6+               84 KEV    24                             
+ 32S X L XREF=E                                                                 
+ 32S   L  12770        (2+)            10 KEV                               A   
+ 32S X L XREF=G                                                                 
+ 32S   L  12830        (3-)            1 KEV                                A   
+ 32S X L XREF=G                                                                 
+ 32S   L  12860        (3-)            38 KEV                               A   
+ 32S X L XREF=G                                                                 
+ 32S   L  12910        (3-)            8 KEV                                A   
+ 32S X L XREF=G8(12880)                                                         
+ 32S   L  12930       (3-)             29 KEV    5                          A   
+ 32S X L XREF=G8(12930)                                                         
+ 32S   L 12980     10  1+                                                       
+ 32S X L XREF=XY                                                                
+ 32S  cL E,J$from {+32}S(e,e')                                                  
+ 32S   L  13040    20 (4+)             47 KEV    LT                             
+ 32S X L XREF=E8(13050)                                                         
+ 32S   L  13086       (3-)             26 KEV    7                          A   
+ 32S X L XREF=G8(13110)                                                         
+ 32S   L 13220        [3-]             0.06 MEV  LT                             
+ 32S X L XREF=8                                                                 
+ 32S   L 13230        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L 13260     50  6-                                                       
+ 32S X L XREF=XY                                                                
+ 32S  cL E,J$from {+32}S(e,e')                                                  
+ 32S   L  13268         (3-)           49 KEV    3                          A   
+ 32S X L XREF=G8(13270)                                                         
+ 32S   L 13339        (3-)             28.8 KEV  13                             
+ 32S X L XREF=TG(13370)8(13360)                                                 
+ 32S  cL E$average of {+31}P(p,|a) and {+28}Si(|a,|a)                           
+ 32S  cL J$from {+31}P(p,|a) angular distribution and L=(3) in                  
+ 32S xcL {+28}Si(|a,|a):res                                                     
+ 32S  cL T$from {+28}Si(|a,|a):res                                              
+ 32S   L 13410     10  1+,(2-)                                                  
+ 32S X L XREF=X                                                                 
+ 32S   L 13430        3-,4-                                                     
+ 32S X L XREF=U                                                                 
+ 32S   L  13490        (3-)            54 KEV    5                          A   
+ 32S X L XREF=G8(13500)                                                         
+ 32S   L 13540     50  5-                                                       
+ 32S X L XREF=XY                                                                
+ 32S   L  13588        (3-)            18 KEV    4                          A   
+ 32S X L XREF=G8(13560)                                                         
+ 32S   L  13655        (3-)            74 KEV    2                          A   
+ 32S X L XREF=G                                                                 
+ 32S   L  13696        (4+,3-)         23.6 KEV  9                          A   
+ 32S X L XREF=G8(13620)                                                         
+ 32S   L 13760     20 6+               50 KEV    24                             
+ 32S X L XREF=E                                                                 
+ 32S   L 13780     10 1+                                                        
+ 32S X L XREF=1X                                                                
+ 32S  cL E,J$from {+32}S(e,e')                                                  
+ 32S   L 13807         (3-)            47.4 KEV  8                          A   
+ 32S X L XREF=G8(13670)                                                         
+ 32S   L  13870        (5-,3-)         22.0 KEV  11                         A   
+ 32S X L XREF=G8(13790)                                                         
+ 32S   L  13896        (4+)            22.4 KEV  1                          A   
+ 32S X L XREF=G8(13830)                                                         
+ 32S   L 13900        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L 13970     10  1+,(2-)                                                  
+ 32S X L XREF=X                                                                 
+ 32S   L  14000    20 (7-)             50 KEV    24                             
+ 32S X L XREF=E                                                                 
+ 32S   L  14070        (3-)            29.6 KEV  7                          A   
+ 32S X L XREF=G8(14030)                                                         
+ 32S   L  14131        (5-)            15.2 KEV  6                          A   
+ 32S X L XREF=G8(14110)                                                         
+ 32S   L  14177        (4+)            42.0 KEV  11                         A   
+ 32S X L XREF=G8(14160)                                                         
+ 32S   L  14234        (3-)            89 KEV    2                          A   
+ 32S X L XREF=G8(14220)                                                         
+ 32S   L 14290     50  6-                                                       
+ 32S X L XREF=XY                                                                
+ 32S   L  14429        (3-)            40 KEV    2                          A   
+ 32S X L XREF=G8(14370)                                                         
+ 32S   L 14450     10  1+                                                       
+ 32S X L XREF=X                                                                 
+ 32S   L  14542        (4+,5-)         84.5 KEV  11                         A   
+ 32S X L XREF=G8(14550)                                                         
+ 32S   L  14633        (5-)            7.0 KEV   9                          A   
+ 32S X L XREF=G                                                                 
+ 32S   L 14730          [4+]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 14770     10  2-              0.08 MEV  LT                             
+ 32S X L XREF=X                                                                 
+ 32S   L  14810    20 (8+)             91 KEV    24                             
+ 32S X L XREF=E                                                                 
+ 32S   L  14832        (4+)            37.5 KEV  5                          A   
+ 32S X L XREF=G8(14810)                                                         
+ 32S   L  14878        (4+)            25.5 KEV  7                          A   
+ 32S X L XREF=G                                                                 
+ 32S   L 14880        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L  15025        (4+)            30.5 KEV  11                         A   
+ 32S X L XREF=G8(14980)                                                         
+ 32S   L 15040        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L  15116        (5-)            36 KEV    2                          A   
+ 32S X L XREF=G8(15140)                                                         
+ 32S   L  15.2E3   1  6+               119 KEV   24                             
+ 32S X L XREF=E                                                                 
+ 32S   L  15230        (4+,5-)         18 KEV    2                          A   
+ 32S X L XREF=G8(15230)                                                         
+ 32S   L  15344        (5-)            45.9 KEV  1                          A   
+ 32S X L XREF=G8(15330)                                                         
+ 32S   L  15385        (5-)            24.5 KEV  6                          A   
+ 32S X L XREF=G8(15380)                                                         
+ 32S   L  15441        (5-)            34.3 KEV  3                          A   
+ 32S X L XREF=G8(15440)                                                         
+ 32S   L  15527        (5-)            46.8 KEV  3                          A   
+ 32S X L XREF=G8(15530)                                                         
+ 32S   L 15580        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L 15600                                                                  
+ 32S X L XREF=H                                                                 
+ 32S   L  15631        (5-)            29.9 KEV  3                          A   
+ 32S X L XREF=G8(15610)                                                         
+ 32S   L  15686        (5-,6+)         35.9 KEV  1                          A   
+ 32S X L XREF=G8(15720)                                                         
+ 32S   L 15700        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L  15758        (6+,5-)         41.0 KEV  9                          A   
+ 32S X L XREF=G8(15760)                                                         
+ 32S   L 15840        1                                                         
+ 32S X L XREF=1                                                                 
+ 32S   L  15847        (4+,5-)         47 KEV    2                          A   
+ 32S X L XREF=G8(15820)                                                         
+ 32S   L  15894        (5-,4+)         28.0 KEV  8                          A   
+ 32S X L XREF=G8(15890)                                                         
+ 32S   L  15955        (6+)            21.6 KEV  5                          A   
+ 32S X L XREF=G8(15960)                                                         
+ 32S   L  16052        (5-)            54 KEV    2                          A   
+ 32S X L XREF=G8(16060)                                                         
+ 32S   L  16243        (6+)            41.3 KEV  8                          A   
+ 32S X L XREF=G8(16160)                                                         
+ 32S   L 16250          [5-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 16310     70  6-                                                       
+ 32S X L XREF=Y                                                                 
+ 32S   L  16341        (5-)            86 KEV    2                          A   
+ 32S X L XREF=G8(16330)                                                         
+ 32S   L 16370          [5-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 16430     70  6-                                                       
+ 32S X L XREF=X                                                                 
+ 32S   L  16495        (5-)            64 KEV    3                          A   
+ 32S X L XREF=G8(16480)                                                         
+ 32S   L  16615        (6+)            60 KEV    2                          A   
+ 32S X L XREF=G8(16650)                                                         
+ 32S   L 16650     70  6-                                                       
+ 32S X L XREF=Y                                                                 
+ 32S   L  16691        (5-,6+)         23 KEV    2                          A   
+ 32S X L XREF=G8(16690)                                                         
+ 32S   L  16747        (6+)            45 KEV    2                          A   
+ 32S X L XREF=G8(16780)                                                         
+ 32S   L  16795        (6+)            76 KEV    6                          A   
+ 32S X L XREF=G                                                                 
+ 32S   L  16866        (6+)            38.1 KEV  6                          A   
+ 32S X L XREF=G8(16870)                                                         
+ 32S   L  16920        (6+)            35.0 KEV  8                          A   
+ 32S X L XREF=G                                                                 
+ 32S   L  16978        (6+)            47 KEV    3                          A   
+ 32S X L XREF=G8(16970)                                                         
+ 32S   L  17080        (6+)            58.0 KEV  14                         A   
+ 32S X L XREF=G8(17060)                                                         
+ 32S   L 17120     70  6-                                                       
+ 32S X L XREF=Y                                                                 
+ 32S   L 17180     80  6-                                                       
+ 32S X L XREF=X                                                                 
+ 32S   L  17250        (5-)            92 KEV    14                         A   
+ 32S X L XREF=G8(17260)                                                         
+ 32S   L  17393        (7-)            35 KEV    6                          A   
+ 32S X L XREF=G8(17350)                                                         
+ 32S   L 17420          [7-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 17570          [7-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  17656        (7-)            36 KEV    2                          A   
+ 32S X L XREF=G8(17690)                                                         
+ 32S   L  17688        (7-)            26 KEV    2                          A   
+ 32S X L XREF=G                                                                 
+ 32S   L  17868        (6+,7-)         82 KEV    7                          A   
+ 32S X L XREF=G8(17800)                                                         
+ 32S   L 17880          [7-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  17934        (7-)            48 KEV    4                          A   
+ 32S X L XREF=G8(17940)                                                         
+ 32S   L  18042        (7-)            44 KEV    2                          A   
+ 32S X L XREF=G8(18060)                                                         
+ 32S   L  18213        (7-)            76 KEV    7                          A   
+ 32S X L XREF=G8(18220)                                                         
+ 32S   L 18400          [9-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  18458        (7-)            66 KEV    5                          A   
+ 32S X L XREF=G8(18470)                                                         
+ 32S   L  18554        (7-)            73.6 KEV  14                         A   
+ 32S X L XREF=G8(18560)                                                         
+ 32S   L  18660        (7-)            74 KEV    5                          A   
+ 32S X L XREF=G8(18660)                                                         
+ 32S   L  18736        (7-)            75 KEV    6                          A   
+ 32S X L XREF=G8(18750)                                                         
+ 32S   L  18803        (8+,7-)         46 KEV    3                          A   
+ 32S X L XREF=G8(18890)                                                         
+ 32S   L 18810          [7-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  18986        (8+,7-)         34 KEV    2                          A   
+ 32S X L XREF=G8(18980)                                                         
+ 32S   L  19119        (8+,7-)         84 KEV    7                          A   
+ 32S X L XREF=G8(19120)                                                         
+ 32S   L 19190          [7-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  19248        (8+)            54 KEV    10                         A   
+ 32S X L XREF=G8(19320)                                                         
+ 32S   L 19250          [7-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  19442        (7-,8+)         72 KEV    2                          A   
+ 32S X L XREF=G8(19500)                                                         
+ 32S   L 19450          [7-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  19551        (8+)            75 KEV    18                         A   
+ 32S X L XREF=G8(19610)                                                         
+ 32S   L  19653        (8+)            54 KEV    2                          A   
+ 32S X L XREF=G8(19690)                                                         
+ 32S   L  19747        (8+,7-)         79 KEV    9                          A   
+ 32S X L XREF=G8(19800)                                                         
+ 32S   L 20200          [8+]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 20270          [8+]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  20275        (7-,8+)         44 KEV    4                          A   
+ 32S X L XREF=G8(20320)                                                         
+ 32S   L  20381        (8+)            72 KEV    17                         A   
+ 32S X L XREF=G8(20410)                                                         
+ 32S   L  20485        (8+)            84 KEV    4                          A   
+ 32S X L XREF=G8(20530)                                                         
+ 32S   L 20610          [8+]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 20680          [8+]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  20703        (8+)            37 KEV    4                          A   
+ 32S X L XREF=G8(20750)                                                         
+ 32S   L 20800          [8+]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  20835        (8+)            59 KEV    2                          A   
+ 32S X L XREF=G8(20860)                                                         
+ 32S   L 20950          [8+]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 21050          [9-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  21212        (9-)            69 KEV    3                          A   
+ 32S X L XREF=G8(21280)                                                         
+ 32S   L  21395        (9-)            70 KEV    5                          A   
+ 32S X L XREF=G8(21430)                                                         
+ 32S   L  21457        (9-)            45 KEV    4                          A   
+ 32S X L XREF=G8(21490)                                                         
+ 32S   L  21532        (9-)            39 KEV    10                         A   
+ 32S X L XREF=G8(21590)                                                         
+ 32S   L 21720          [9-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  21783        (8+,9-)         53 KEV    2                          A   
+ 32S X L XREF=G8(21810)                                                         
+ 32S   L 22000          [9-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  22135        (9-)            74 KEV    4                          A   
+ 32S X L XREF=G8(22170)                                                         
+ 32S   L  22205        (9-)            54 KEV    9                          A   
+ 32S X L XREF=G8(22240)                                                         
+ 32S   L  22308        (9-)            47 KEV    14                         A   
+ 32S X L XREF=G8(22310)                                                         
+ 32S   L  22355        (8+)            24 KEV    5                          A   
+ 32S X L XREF=G8(22390)                                                         
+ 32S   L 22590          [9-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L 22710          [9-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  22846        (9-)            51 KEV    5                          A   
+ 32S X L XREF=G8(22810)                                                         
+ 32S   L  22964        (10+,9-)        58 KEV    3                          A   
+ 32S X L XREF=G8(23030)                                                         
+ 32S   L  23226        (9-)            74 KEV    16                         A   
+ 32S X L XREF=G8(23160)                                                         
+ 32S   L  23296        (9-)            52 KEV    7                          A   
+ 32S X L XREF=G8(23260)                                                         
+ 32S   L 23430          [9-]                                                    
+ 32S X L XREF=8                                                                 
+ 32S   L  23493        (10+)           93 KEV    12                         A   
+ 32S X L XREF=G8(23750?)                                                        
+ 32S   L 23.86E3        7-             0.1 MEV   AP                         A   
+ 32S X L XREF=G                                                                 
+ 32S   L 24.93E3        8+             0.1 MEV   AP                         A   
+ 32S X L XREF=G                                                                 
+ 32S   L 26.90E3        11-            0.2 MEV   AP                         A   
+ 32S X L XREF=G                                                                 
+ 32S   L 27.25E3        9-             0.08 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 27.44E3        8+             0.04 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 27.69E3        9-             0.15 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 27.82E3        9-             0.11 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 28.04E3        10+            0.04 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 28.17E3        10+            0.07 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 28.30E3        8+             0.08 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 28.48E3        10+            0.17 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 28.67E3        10+            0.22 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 28.97E3        10+            0.19 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 29.25E3        9-             0.13 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 29.66E3        10+            0.16 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 29.88E3        10+            0.20 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 29.91E3        10+            0.16 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 30.26E3        9-             0.17 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 30.37E3        10+            0.13 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 30.61E3        11-            0.25 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 30.89E3        12+            0.14 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 31.19E3        12+            0.20 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 31.71E3        9-             0.22 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 31.98E3        12+            0.22 MEV                             A   
+ 32S X L XREF=G                                                                 
+ 32S   L 32.7E3                        0.3 MEV   AP                             
+ 32S X L XREF=G                                                                 
+ 32S   L 33.5E3                        0.2 MEV   AP                             
+ 32S X L XREF=G                                                                 
+

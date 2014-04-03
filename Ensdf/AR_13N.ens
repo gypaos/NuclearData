@@ -1,0 +1,212 @@
+ 13N     ADOPTED LEVELS, GAMMAS        1991AJ01                  91NP     200006
+ 13N   H TYP=MOD$AUT=J. Blachot$COM=added T reference$DAT=15-MAR-2001$          
+ 13N   H TYP=FUL$AUT=F. AJZENBERG-SELOVE, J.H. KELLEY AND C.D. NESARAJA$        
+ 13N 2 H CIT=NP A523,1 (1991)$CUT=23-APR-1986$                                  
+ 13N  D  ADDED PN RECORD.                                                       
+ 13N 2D  CORRECTED 1133G, 12688.5G TO 1137G, 12693.0 (TWB. 940606)              
+ 13N   Q -17765    10 20063.910 1943.5127-9495.2 10    1997AU04                 
+ 13N  PN                                                                     6  
+ 13N   XA13O B+ DECAY                                                           
+ 13N   XB10B(3HE,X) RES                                                         
+ 13N   XC10B(6LI,T)                                                             
+ 13N   XD11B(3HE,N)                                                             
+ 13N   XE12C(P,G)                                                               
+ 13N   XF12C(P,P), 12C(P,A)                                                     
+ 13N   XG12C(3HE,D)                                                             
+ 13N   XH13C(3HE,T)                                                             
+ 13N   XI14N(P,D)                                                               
+ 13N   XJ14N(D,T)                                                               
+ 13N   XK14N(3HE,A)                                                             
+ 13N   XL15N(P,T)                                                               
+ 13N   XM16O(P,A)                                                               
+ 13N  cL E(A)      Decay mode not specified                                     
+ 13N  cG MR        The signature has been changed, where necessary, from        
+ 13N 2cG that given in 1991Aj01 in order to conform to the convention used in   
+ 13N 3cG the nuclear data sheets.                                               
+ 13N   L 0.0          1/2-             9.965 M   4                              
+ 13N 2 L ISPIN=1/2$ %EC+%B+=100$ MOMM1=0.3222 4 (1989RA17)                      
+ 13N  cL T$From 1991Aj01; Others: 9.96 min {I2} (1965Eb01), 10.05 min {I5}      
+ 13N xcL (1965Bo42)                                                             
+ 13N 3 L XREF=ADEGHIJKLM                                                        
+ 13N   L 2364.9    6  1/2+             31.7 KEV  8                              
+ 13N 2 L WIDTHG=0.50 EV 4$ %IT=0.00158 13$ %P=100$                              
+ 13N 3 L XREF=DEFGHIK                                                           
+ 13N   G 2364.7     6 100      [E1]                                             
+ 13N 2 G BE1W=0.10 1$                                                           
+ 13N   L 3502      2  3/2-             62 KEV    4                              
+ 13N 2 L WIDTHG=0.70 EV$ %IT=0.0011$ %P=100                                     
+ 13N 3 L XREF=ADEFGHIJK                                                         
+ 13N   G 1137       2 8.7    11[E1]                                             
+ 13N 2 G BE1W=0.1$                                                              
+ 13N   G 3502       2 100.0  11[M1]                                             
+ 13N 2 G BM1W=0.70$                                                             
+ 13N   L 3547      4  5/2+             47 KEV    7                              
+ 13N 2 L WIDTHG<0.002 EV$ %IT<4.3E-6$ %P=100                                    
+ 13N 3 L XREF=DFGHIK                                                            
+ 13N   G 3547       4 100      [M2]                                             
+ 13N 2 G BM2W<43$                                                               
+ 13N   L 6364      9  5/2+             11 KEV                                   
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=CDFGHKL                                                           
+ 13N   L 6886      8  3/2+             115 KEV   5                              
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=CDFGHK                                                            
+ 13N   L 7155      5  7/2+             9.0 KEV   5                              
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF= CDFGHK                                                           
+ 13N   L 7376      9  5/2-             75 KEV    5                              
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=ACDFGHIJKL                                                        
+ 13N   L 7900         3/2+             1500 KEV  AP                             
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=FG                                                                
+ 13N   L 8918      11 1/2-             230 KEV                                  
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=ADFGIJL                                                           
+ 13N   L 9000         9/2+             280 KEV   30                         A   
+ 13N 2 L XREF=CGHJ                                                              
+ 13N   L 9476      8  3/2-             30 KEV                                   
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=ACDFGHJ                                                           
+ 13N   L 1025E+1   15(1/2+)            280 KEV   AP                             
+ 13N 2 L %IT=?$ %P=?$                                                           
+ 13N 3 L XREF=E                                                                 
+ 13N   L 10360        5/2-             30 KEV                                   
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=ACDFGH                                                            
+ 13N   L 10360        7/2-             76 KEV                                   
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=CDFGH                                                             
+ 13N   L 10833     9  1/2-                                                  A   
+ 13N 2 L XREF=CDGHL                                                             
+ 13N   L 11530     12 5/2+             430 KEV   35                             
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=CDF                                                               
+ 13N   L 11700     30 5/2-             115 KEV   30                             
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 11740     40 3/2+             240 KEV   30                             
+ 13N 2 L WIDTHG AP 4.2 EV$ %IT=?$ %P=?$                                         
+ 13N 3 L XREF=EF                                                                
+ 13N   G 11734     40 100      [E1]                                             
+ 13N 2 G BE1W AP 0.007$                                                         
+ 13N   L 11740     50 3/2-             530 KEV   80                             
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=DFIJL                                                             
+ 13N   L 11860     40 1/2+             380 KEV   50                             
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=FI                                                                
+ 13N   L 12130     50 7/2-             250 KEV   30                             
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=FM                                                                
+ 13N   L 12558     23                  400 KEV   GT                         A   
+ 13N 2 L XREF=D                                                                 
+ 13N   L 12937     24                  400 KEV   GT                         A   
+ 13N 3 L XREF=D                                                                 
+ 13N   L 1350E+1   20 3/2+             6500 KEV  AP                             
+ 13N 2 L WIDTHG0 GE 1000 EV$ %IT=?$ %P=100                                      
+ 13N 3 L XREF=EF                                                                
+ 13N   G 1350E+1   20 100      [E1]                                             
+ 13N 2 G BE1W GE 1.2$                                                           
+ 13N   L 14050     20 3/2+             165 KEV   20                             
+ 13N 2 L WIDTHG0=3.7 EV 10$ %IT=?$ %P=?$ %A=?$ ISPIN=1/2                        
+ 13N 3 L XREF=EF                                                                
+ 13N   G 14042     20 100      [E1]                                             
+ 13N 2 G BE1W=0.0036 10$                                                        
+ 13N   L 15064.6   4  3/2-             0.93 KEV  3                              
+ 13N 2 L WIDTHG=45.6 EV 25$ %IT=4.9 3$ %P=?$ %A=?$ ISPIN=3/2                    
+ 13N  cL T$from table 13.6                                                      
+ 13N 3 L XREF=DEFHL                                                             
+ 13N   G 11557      2 80      6[M1]                                             
+ 13N 2 G BM1W=0.60 5$                                                           
+ 13N   G 12693.0    4 12     LE[E1]                                             
+ 13N 2 G BE1W<4.1$                                                              
+ 13N   G 15055.2    4 100     6[M1+E2]    0.115  22                             
+ 13N 2 G BM1W=0.34 2$ BE2W=0.28 10$                                             
+ 13N   L 1530E+1   20(3/2+)            350 KEV   150                            
+ 13N 2 L WIDTHG GE 0.5 EV$ %IT=?$ %P=100                                        
+ 13N 3 L XREF=E                                                                 
+ 13N   G 1530E+1   20 100      [E1]                                             
+ 13N 2 G BE1W GE 0.0004$                                                        
+ 13N   L 15990     30 7/2+             135 KEV   90                             
+ 13N 2 L %P=?$ %A=?$ ISPIN=1/2                                                  
+ 13N 3 L XREF=FH                                                                
+ 13N   L 16000                         500 KEV   AP                             
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 17500                                                                  
+ 13N 2 L %IT=?$ %P=?$                                                           
+ 13N 3 L XREF=EF                                                                
+ 13N   L 18150     30 3/2+             320 KEV   80                             
+ 13N 2 L %P=100$ ISPIN=1/2                                                      
+ 13N 3 L XREF=F                                                                 
+ 13N   L 18170     20 1/2-             225 KEV   50                             
+ 13N 2 L %P=?$ %A=?$ ISPIN=1/2                                                  
+ 13N 3 L XREF=F                                                                 
+ 13N   L 18406     5  3/2+             66 KEV    8                              
+ 13N 2 L %P=?$ %A=?$ ISPIN=3/2                                                  
+ 13N 3 L XREF=DF                                                                
+ 13N   L 18961     10 3/2- OR 7/2+     23 KEV    5                              
+ 13N 2 L %P=?$ %A=?$ ISPIN=3/2                                                  
+ 13N 3 L XREF=DF                                                                
+ 13N   L 19830        5/2-             1000 KEV                                 
+ 13N 2 L %P=?$ %A=?$ ISPIN=1/2                                                  
+ 13N 3 L XREF=F                                                                 
+ 13N   L 19880        7/2+             750 KEV                                  
+ 13N 2 L %P=100$ ISPIN=1/2                                                      
+ 13N 3 L XREF=F                                                                 
+ 13N   L 20200        5/2-             1000 KEV                                 
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 209E+2    3  1/2+             1200 KEV                                 
+ 13N 2 L %IT=?$ %P=?$                                                           
+ 13N 3 L XREF=EF                                                                
+ 13N   L 21400        5/2-             750 KEV                                  
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 21700        3/2+                                                      
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 224E+2    5  1/2+                                                      
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 23000                                                                  
+ 13N 2 L %IT=?$ %P=?$                                                           
+ 13N 3 L XREF=E                                                                 
+ 13N   L 23300       (3/2-)            400 KEV                                  
+ 13N 2 L %P=?$ %3HE=?$                                                          
+ 13N 3 L XREF=B                                                                 
+ 13N   L 23830     50(3/2-)            350 KEV   50                             
+ 13N 2 L %P=?$ %3HE=?$                                                          
+ 13N 3 L XREF=B                                                                 
+ 13N   L 23900       (11/2-)            20 KEV                                 ?
+ 13N 2 L %3HE=100                                                               
+ 13N 3 L XREF=B                                                                 
+ 13N   L 24400                         700 KEV                                 ?
+ 13N 2 L %P=?$ %3HE=?$                                                          
+ 13N 3 L XREF=B                                                                 
+ 13N   L 24600                         120 KEV                                 ?
+ 13N 2 L %P=?$ %3HE=?$                                                          
+ 13N 3 L XREF=B                                                                 
+ 13N   L 2560E+1   10(3/2)-            240 KEV   80                             
+ 13N 2 L %P=?$ %3HE=?$                                                          
+ 13N 3 L XREF=F                                                                 
+ 13N   L 25900                         1000 KEV                                 
+ 13N 2 L %N=?$ %P=?$ %D=?$ %3HE=?$ %A=?$                                        
+ 13N  cL           Neutron branch is tentative                                  
+ 13N 3 L XREF=B                                                                 
+ 13N   L 26840                                                                  
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 28000                                                                  
+ 13N 2 L %IT=?$ %P=?$ %3HE=?$ %A=?$                                             
+ 13N  cL           It and |a branches are tentative                             
+ 13N 3 L XREF=B                                                                 
+ 13N   L 31000                                                                 ?
+ 13N 2 L %P=100                                                                 
+ 13N 3 L XREF=F                                                                 
+ 13N   L 32000                         2000 KEV  AP                             
+ 13N 2 L %IT=?$ %D=?$ %3HE=?$ %A=?$                                             
+ 13N 3 L XREF=E                                                                 
+                                                                                
+

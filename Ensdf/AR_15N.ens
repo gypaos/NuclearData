@@ -1,0 +1,615 @@
+ 15N     ADOPTED LEVELS, GAMMAS        1991AJ01                  91NP     200204
+ 15N   H TYP=FUL$AUT=F. AJZENBERG-SELOVE$CIT=NP A523,1 (1991)$CUT=1-Jul-1990$   
+ 15N  D  ADDED PN RECORD.                                                       
+ 15N 2D  CORRECTED ORDER OF GAMMAS FROM 6324 LEVEL.                             
+ 15N 3D  CLARIFIED AMBIGUOUS FINAL LEVELS.                                      
+ 15N 4D  EXPLICITLY NOTED 4639.5 AND 4781.5 G'S AS DOUBLETS AND GAVE "FL="      
+ 15N 5D  CORRECTED EG'S FROM 9155 LEVEL (TWB. 940606)                           
+ 15N   Q -2754.0   5 10833.30 110207.42 1-10991.5 4    1997AU04                 
+ 15N  PN                                                                     6  
+ 15N   XA15C B- DECAY                                                           
+ 15N   XB15O B+ DECAY                                                           
+ 15N   XC10B(6LI,P)                                                             
+ 15N   XD10B(7LI,D)                                                             
+ 15N   XE11B(A,G) RES                                                           
+ 15N   XF11B(A,N),(A,P),(A,A) RES                                               
+ 15N   XG11B(6LI,D)                                                             
+ 15N   XH11B(7LI,T)                                                             
+ 15N   XI11B(9BE,AN)                                                            
+ 15N   XJ11B(16O,12C)                                                           
+ 15N   XK12C(T,X) RES                                                           
+ 15N   XL12C(A,P)                                                               
+ 15N   XM12C(6LI,3HE)                                                           
+ 15N   XN12C(7LI,A)                                                             
+ 15N   XO12C(10B,7BE)                                                           
+ 15N   XP13C(D,X) RES                                                           
+ 15N   XQ13C(3HE,P)                                                             
+ 15N   XR13C(A,D)                                                               
+ 15N   XS13C(6LI,A)                                                             
+ 15N   XT13C(11B,9BE)                                                           
+ 15N   XU13C(17O,15N)                                                           
+ 15N   XV14C(P,X) RES                                                           
+ 15N   XW14C(3HE,D)                                                             
+ 15N   XX14N(N,G) E=THERMAL                                                     
+ 15N   XY14N(N,X) RES                                                           
+ 15N   XZ14N(P,PI+)                                                             
+ 15N   Xa14N(D,P)                                                               
+ 15N   Xb15N(G,G'),(E,E')                                                       
+ 15N   Xc15N(PI+,PI+'),(PI-,PI-')                                               
+ 15N   Xd15N(3HE,3HE')                                                          
+ 15N   Xe15N(A,A')                                                              
+ 15N   Xf16O(G,P),(E,EP)                                                        
+ 15N   Xg16O(PI+,PI+P),(PI-,PI-P)                                               
+ 15N   Xh16O(D,3HE)                                                             
+ 15N   Xi16O(A,PA)                                                              
+ 15N   Xj18O(P,A)                                                               
+ 15N   Xk19F(D,6LI)                                                             
+ 15N  cL E(A)      Decay mode not specified                                     
+ 15N  cL E(B)      Value should perhaps be lower by, typically, 40 eV. See      
+ 15N 2cL footnote B to table 15.4                                               
+ 15N  cG MR        The signature has been changed, where necessary, from        
+ 15N 2cG that given in 1991Aj01 in order to conform to the convention used in   
+ 15N 3cG the nuclear data sheets.                                               
+ 15N   L 0.0          1/2-             STABLE                                   
+ 15N 2 L ISPIN=1/2$ MOMM1=-0.28318884 5 (1989RA17)                              
+ 15N 3 L XREF=ABCDEJKLMNPQRSUVWXZABCDEFGHIJK                                    
+ 15N   L 5270.155  14 5/2+             1.79 PS   10                         B   
+ 15N 2 L MOMM1=+2.35 18 (1989RA17)                                              
+ 15N 3 L XREF=CDLMOQRUWXABCDEFHJK                                               
+ 15N   G 5269.161  14 100      [M2+E3]   -0.131  13                             
+ 15N 2 G BM2W=0.68 7$ BE3W=7 2                                                  
+ 15N   L 5298.822  14 1/2+             17 FS     5                          B   
+ 15N 2 L XREF=ACDGHILNQRSUWXABDEFHJK                                            
+ 15N   G 5297.817  14 100      [E1]                                             
+ 15N 2 G BE1W=4.3E-4 11                                                         
+ 15N   L 6323.78   2  3/2-             0.146 FS  8                          B   
+ 15N 2 L XREF=ACDGHIJLNQSUWXZABCDEFGHIJK                                        
+ 15N   G 1024.92   2  0.05   LT                                                 
+ 15N   G 1053.58   2  0.1    LT                                                 
+ 15N   G 6322.35   2  100      [M1+E2]   -0.132  4                              
+ 15N 2 G BM1W=0.578 15$ BE2W=2.91 24                                            
+ 15N   L 7155.05   2  5/2+             12 FS     6                          B   
+ 15N 2 L XREF=CDILMNQRSWXABDEH                                                  
+ 15N   G 831.27    2  0.5    LT                                                 
+ 15N   G 1856.11   2  4      LT                                                 
+ 15N   G 1884.77   2  100.0  4 [M1(+E2)] +0.014  +15-12                         
+ 15N 2 G BM1W=0.26 11                                                           
+ 15N   G 7153.22   2  0.023  3 [E3]                                             
+ 15N 2 G BE3W=1.7 2                                                             
+ 15N  cG RI$from table 2. Value given in footnote C to table 15.5 is <0.1       
+ 15N   L 7300.83   2  3/2+             0.42 FS   4                          B   
+ 15N 2 L XREF=ACDILNQRSWXABDEH                                                  
+ 15N   G 977.02    2  0.25   LT                                                 
+ 15N   G 2001.86   2  0.2    1 [M1+E2]                                          
+ 15N  cG MR        +0.31 {I15} or -4.6 {I34}                                    
+ 15N   G 2030.53   2  0.6    1 [M1+E2]                                          
+ 15N  cG MR        -0.18 {I15} or -2.5 {I10}                                    
+ 15N   G 7298.92   2  100.0  7 [E1+M2]   -0.017  +5-8                           
+ 15N 2 G BE1W=0.067 5$ BM2W=0.16 9                                              
+ 15N   L 7567.1    10 7/2+             8 FS      +8-4                           
+ 15N 2 L XREF=CDGHILMNOQRSTABCDEHJ                                              
+ 15N   G 1243.2    10 0.6    LT                                                 
+ 15N   G 2268.1    10 4      LT                                                 
+ 15N   G 2296.8    10 100.0  10[M1+E2]   +0.028  12                             
+ 15N 2 G BM1W=0.15 +15-7$ BE2W=0.26 +38-21                                      
+ 15N  cG           B(M1)(W.u.),B(E2)(W.u.): calculated by M. J. Martin from     
+ 15N 2cG data given in table 15.5. No values are given in table 2               
+ 15N   G 7565.0    10 1.3    6 [E3]                                             
+ 15N 2 G BE3W=2.50 22                                                           
+ 15N   L 8312.62   3  1/2+             1.2 FS    8                          B   
+ 15N 2 L XREF=ACDNQRSXZABEF                                                     
+ 15N   G 1011.75   4  5.6    9                                                  
+ 15N   G 1157.52   4  1.5    8                                                  
+ 15N   G 1988.70   4  5.6    13                                                 
+ 15N   G 3013.47   3  12.7   26                                                 
+ 15N   G 3042.13   3  4      LT                                                 
+ 15N   G 8310.15   3  100.0  25[E1]                                             
+ 15N 2 G BE1W=0.0013 8                                                          
+ 15N   L 8571.40   12 3/2+             0.5 FS    5                              
+ 15N 2 L XREF=ACDGHILMNQRSABE                                                   
+ 15N   G 1004.3    10 4.6    LT                                                 
+ 15N   G 1270.51   12 1.1    LT                                                 
+ 15N   G 1416.28   12 5.5    8                                                  
+ 15N   G 2247.44   12 2.2    10[E1]                                             
+ 15N 2 G BE1W=3.8E-4 30                                                         
+ 15N   G 3272.20   12 19     LT                                                 
+ 15N   G 3300.85   12 100    5 [M1+E2]   +0.091  7                              
+ 15N 2 G BM1W=0.052 33$ BE2W=0.45 32                                            
+ 15N   G 8568.77   12 51     3 [E1+M2]   -0.085  +5-9                           
+ 15N 2 G BE1W=8E-5 5$ BM2W=0.033 24                                             
+ 15N   L 9049.71   7  1/2+             0.35 FS   6                              
+ 15N 2 L XREF=ACDQRXABF                                                         
+ 15N   G 737.09    7  0.6    LT                                                 
+ 15N   G 1482.5    10 2      LT                                                 
+ 15N   G 1748.77   7  1.3    4 [M1]                                             
+ 15N 2 G BM1W=0.14 5                                                            
+ 15N   G 1894.53   7  11     LT                                                 
+ 15N   G 2725.66   7  4.9    11[E1]                                             
+ 15N 2 G BE1W=0.0069 25                                                         
+ 15N   G 3779.04   7  3.8    11[E2]                                             
+ 15N 2 G BE2W=33 11                                                             
+ 15N   G 9046.78   7  100    3 [E1]                                             
+ 15N 2 G BE1W=0.0039 7                                                          
+ 15N   L 9151.90   12 3/2-             0.97 FS   25                         B   
+ 15N 2 L XREF=CDGHQRXABE                                                        
+ 15N   G 9148.90   12 100      [M1]                                             
+ 15N 2 G BM1W=0.029 8                                                           
+ 15N  cG MR$|d=-0.015 {I+34-41}                                                 
+ 15N   L 9154.90   3  5/2+             5 FS      +4-2                       B   
+ 15N 2 L XREF=CDNQZAE                                                           
+ 15N   G 1999.71   12 100    6 [M1]                                             
+ 15N 2 G BM1W=0.28 17                                                           
+ 15N   G 2830.83   12 39     4 [E1]                                             
+ 15N 2 G BE1W=0.0019 13                                                         
+ 15N   G 3855.55   12 18     2 [E2]                                             
+ 15N 2 G BE2W=5.3 34                                                            
+ 15N   G 3884.21   12 19     2 [M1]                                             
+ 15N 2 G BM1W=0.007 5                                                           
+ 15N   G 9151.90   12 4      LT                                                 
+ 15N   L 9222.1    8  1/2-             90 FS     LT                             
+ 15N 2 L XREF=QSXAFH                                                            
+ 15N   G 909.5     8  12     LT                                                 
+ 15N   G 1654.9    8  48     LT                                                 
+ 15N   G 1921.2    8  6.2    17                                                 
+ 15N   G 2066.9    8  2.4    LT                                                 
+ 15N   G 2898.0    8  83     15[M1]                                             
+ 15N 2 G BM1W>0.004                                                             
+ 15N   G 3922.7    8  100    19[E1]                                             
+ 15N 2 G BE1W>8E-5                                                              
+ 15N   G 9219.1    8  52     12[M1]                                             
+ 15N 2 G BM1W>6E-5                                                              
+ 15N   L 9760      1  5/2-             1.8 FS    6                              
+ 15N 2 L XREF=QAB                                                               
+ 15N   G 1188.9    10 2.5    LT                                                 
+ 15N   G 1447.3    10 1.3    LT                                                 
+ 15N   G 2192.7    10 6.1    8                                                  
+ 15N   G 2459.0    10 2.5    LT                                                 
+ 15N   G 2604.8    10 2.8    6                                                  
+ 15N   G 3435.8    10 4.5    10                                                 
+ 15N   G 4475      15 9.2    19                                             @   
+ 15N 2 G FL=5298.822                                                            
+ 15N   G 4475      15 9.2    19                                             @   
+ 15N 2 G FL=5270.155                                                            
+ 15N   G 9756.6    10 100    4 [E2]                                             
+ 15N 2 G BE2W=1.3 3                                                             
+ 15N   L 9829      3  7/2-             12 FS     5                              
+ 15N 2 L XREF=CDGHMNQSTAE                                                       
+ 15N   G 2262      3  8.6    12[E1]                                             
+ 15N 2 G BE1W=6E-4 3                                                            
+ 15N   G 2528      3  4.4    11[M2]                                             
+ 15N 2 G BM2W=149 74                                                            
+ 15N  cG           B(M2)(W.u.): exceeds RUL                                     
+ 15N   G 2674      3  2.8    13[E1]                                             
+ 15N 2 G BE1W=1.2E-4 7                                                          
+ 15N   G 3505      3  2.6    11[E2]                                             
+ 15N 2 G BE2W=0.9 5                                                             
+ 15N   G 4529      3  18     LT                                                 
+ 15N   G 4558      3  100    AP[E1]                                             
+ 15N 2 G BE1W AP 8E-4                                                           
+ 15N   G 9826      3  4.7    LT                                                 
+ 15N   L 9925.0    2  3/2-             0.21 FS   4                              
+ 15N 2 L XREF=NQXAB                                                             
+ 15N   G 1353.5    2  1.3    LT                                                 
+ 15N   G 1612.3    2  1.3    LT                                                 
+ 15N   G 2357.7    2  1.3    LT                                                 
+ 15N   G 2624.0    2  2.7    11                                                 
+ 15N   G 2769.7    2  1.3    LT                                                 
+ 15N   G 3600.7    2  6.3    16                                                 
+ 15N   G 4639.5    14 19.8   20                                             &   
+ 15N  cG RI        includes feeding to 5270 and 5299 levels                     
+ 15N 2 G FL=5298.822                                                            
+ 15N   G 4639.5    14 19.8   20                                             &   
+ 15N  cG RI        includes feeding to 5270 and 5299 levels                     
+ 15N 2 G FL=5270.155                                                            
+ 15N   G 9921.5    2  100.0  25[M1]                                             
+ 15N 2 G BM1W=0.078 10                                                          
+ 15N   L 10066.0   2  3/2+             0.069 FS  4                              
+ 15N 2 L XREF=NXABE                                                             
+ 15N   G 1494.5    2  3      LT                                                 
+ 15N   G 1753.3    2  2      LT                                                 
+ 15N   G 2498.7    2  2      LT                                                 
+ 15N   G 2764.9    2  2      LT                                                 
+ 15N   G 2910.7    2  2      LT                                                 
+ 15N   G 3741.7    2  2      LT                                                 
+ 15N   G 4781.5    15 4.2    7                                              &   
+ 15N 3 G FL=5298.822                                                            
+ 15N   G 4781.5    15 4.2    7                                              &   
+ 15N 3 G FL=5270.155                                                            
+ 15N   G 10062.4   2  100.0  7 [E1]                                             
+ 15N 2 G BE1W=0.015 9                                                           
+ 15N   L 10449.7   3  5/2-             0.5 KEV   LT                             
+ 15N 2 L WIDTHG>0.024 EV$ %IT=?$ %P=?                                           
+ 15N 3 L XREF=DGHQVA                                                            
+ 15N   G 620.7     3  0.2    LT                                                 
+ 15N   G 1297.7    3  8.5    2 [M1+E2]   +0.32   +10-9                          
+ 15N 2 G BM1W>0.021$ BE2W>15                                                    
+ 15N   G 1878.2    3  6.9    11[E1]                                             
+ 15N 2 G BE1W>2.9E-4                                                            
+ 15N  cG MR        -0.3 {I4}                                                    
+ 15N   G 3294.3    3  9.5    2 [E1+M2]   +0.13   +3-4                           
+ 15N 2 G BE1W>7.4E-5$ BM2W>0.54                                                 
+ 15N   G 4125.3    3  57     3 [M1+E2]   +0.59   13                             
+ 15N 2 G BM1W>0.0045$ BE2W>1                                                    
+ 15N   G 5150.0    3  3.6    LT                                                 
+ 15N   G 5178.5       100.0  15[E1]                                             
+ 15N 2 G BE1W>2E-4                                                              
+ 15N  cG MR        +0.021 {I33}                                                 
+ 15N   G 10445.8   3  22     LT                                                 
+ 15N   L 10533.3   5  5/2+                                                      
+ 15N 2 L WIDTHG=0.035 EV 2$ %IT=?$ %P=?                                         
+ 15N 3 L XREF=DGHNQRVA                                                          
+ 15N   G 1381.3    5  0.78   26[E1+M2]   -0.20   +3-2                           
+ 15N 2 G BE1W=9.2E-5 4$ BM2W=9 5                                                
+ 15N   G 1961.8    5  6.20   26[M1+E2]   -0.012  +5-6                           
+ 15N 2 G BM1W=0.0052 6$ BE2W=0.0023 2                                           
+ 15N   G 3232.1    5  81.1   13[M1+E2]   -0.066  5                              
+ 15N 2 G BM1W=0.016 2$ BE2W=0.075 16                                            
+ 15N   G 3377.9    5  50.1   5 [M1]                                             
+ 15N 2 G BM1W=0.0082 9                                                          
+ 15N  cG MR$|d=-0.007 {I+8-10}                                                  
+ 15N   G 4208.9    5  19.9   3 [E1+M2]   -0.028  4                              
+ 15N 2 G BE1W=8.5E-5 10$ BM2W=0.017 6                                           
+ 15N   G 5262.1    5 100.0   5 [M1+E2]   +0.27   3                              
+ 15N 2 G BM1W=0.0043 3$ BE2W=0.13 3                                             
+ 15N   G 10529.3   5   0.3   LT                                                 
+ 15N   L 10693.2   3  9/2+             12 FS     6                              
+ 15N 2 L WIDTHG>0.040 EV$ %IT=?$ %P=?                                           
+ 15N 3 L XREF=DHLVC                                                             
+ 15N   G 3125.8    10 58.9   10[M1+E2]   -0.118  8                              
+ 15N 2 G BM1W>0.02$ BE2W>0.4                                                    
+ 15N   G 3537.8    3   3.41  16[E2]                                             
+ 15N 2 G BE2W>0.85                                                              
+ 15N   G 5421.9    3 100.0   5 [E2]                                             
+ 15N 2 G BE2W>3                                                                 
+ 15N   L 10701.9   3  3/2-             0.2 KEV                                  
+ 15N 2 L WIDTHG=0.37 EV 7$ %IT=0.18$ %P=99.82                                   
+ 15N 3 L XREF=GHMNQSVH                                                          
+ 15N   G 1479.7    9   2.8   2 [M1+E2]   -0.049  +5-6                           
+ 15N 2 G BM1W=0.083 21$ BE2W=1.0 3                                              
+ 15N   G 1549.9    3   0.4   2 [M1+E2]   +0.11   3                              
+ 15N 2 G BM1W=0.010 5$ BE2W=0.6 4                                               
+ 15N   G 1652.1    3   0.4   2 [E1]                                             
+ 15N 2 G BE1W=4.0E-4 21                                                         
+ 15N  cG MR$|d=-0.007 {I12}                                                     
+ 15N   G 2389.1    3   1.5   2 [E1]                                             
+ 15N 2 G BE1W=5.4E-4 11                                                         
+ 15N  cG MR$|d=-0.017 {I+18-16}                                                 
+ 15N   G 3400.7    3   4.4   2 [E1]                                             
+ 15N 2 G BE1W=5.3E-4 11                                                         
+ 15N  cG MR$|d=-0.027 {I23}                                                     
+ 15N   G 3546.4    3   0.8   2 [E1]                                             
+ 15N 2 G BE1W=8.2E-5 27                                                         
+ 15N  cG MR$|d=+0.3 {I3}                                                        
+ 15N   G 4377.4    3   7.2   2 [M1+E2]   -0.135  15                             
+ 15N 2 G BM1W=0.0079 16$ BE2W=0.09 3                                            
+ 15N   G 5402.1    3   1.5   2 [E1+M2]   -0.13   7                              
+ 15N 2 G BE1W=4.6E-5 10$ BM2W=0.12 7                                            
+ 15N   G 5430.6    3  71.1   12[E1+M2]   -0.24   +4-8                           
+ 15N 2 G BE1W=0.0021 5$ BM2W=0.19 6                                             
+ 15N   G 10697.8   3 100.0   16[M1+E2]   -0.180  +2-6                           
+ 15N 2 G BM1W=0.0074 16$ BE2W=0.024 6                                           
+ 15N   L 10804     2  3/2+             0.001 KEV LT                             
+ 15N 2 L %IT=?$ %P=?                                                            
+ 15N 3 L XREF=CDGHNOQVAB                                                        
+ 15N   G 1649      3   8.16  20                                                 
+ 15N 3 G FL=9154.90                                                             
+ 15N   G 1652      3   1.75  20                                                 
+ 15N 3 G FL=9151.90                                                             
+ 15N   G 1754      3   0.58  20                                                 
+ 15N   G 2491      3   6.99  20[M1+E2]   -0.12   3                              
+ 15N   G 3503      3  11.26  20[M1+E2]   +0.12   2                              
+ 15N   G 3649      3  15.14  20[M1+E2]   -0.14   3                              
+ 15N   G 4480      3  10.5   4 [E1+M2]   -0.07   5                              
+ 15N   G 5505      3  30.1   4 [M1+E2]   +0.55   2                              
+ 15N   G 5534      3   9.51  20[M1+E2]   +0.63   4                              
+ 15N   G 10800     3 100.0   8 [E1+M2 ]  -0.02   1                              
+ 15N 2 G BM2W=1.3 6                                                             
+ 15N   L 11235     5  GE 3/2           3.3 KEV                                  
+ 15N 2 L %N=100                                                                 
+ 15N 3 L XREF=LYA                                                               
+ 15N   L 11292.8   7  1/2-             8 KEV     3                              
+ 15N 2 L %IT=?$ %N=?$ %P=?$                                                     
+ 15N 3 L XREF=LNVY                                                              
+ 15N   L 11437.6   7  1/2+             41.4 KEV  11                             
+ 15N 2 L %IT=?$ %N=?$ %P=?$ %A=?$                                               
+ 15N 3 L XREF=EFGHNRVYJ                                                         
+ 15N   L 11615      4 1/2+             405 KEV   6                              
+ 15N 2 L WIDTHG=21.2 EV 7$ %IT=0.00523 19$ %N=?$ %P=?$ ISPIN=3/2                
+ 15N 3 L XREF=V                                                                 
+ 15N   G 5291      4   2.1   17[E1]                                             
+ 15N 2 G BE1W=0.007 5                                                           
+ 15N   G 6316      4   8.2   17[M1]                                             
+ 15N 2 G BM1W=0.30 8                                                            
+ 15N   G 6345      4   1.1   LT                                                 
+ 15N   G 11610     4  100    4 [E1]                                             
+ 15N 2 G BE1W=0.0296 6                                                          
+ 15N   L 11763     3  3/2+             40 KEV                                   
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FVY                                                               
+ 15N   L 11876     3  3/2-             25 KEV                                   
+ 15N 2 L %IT=?$ %N=?$ %P=?$ %A=?$                                               
+ 15N 3 L XREF=FVY                                                               
+ 15N   L 11942     6  9/2-             3.0 KEV   LE                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=DLMNRSTY                                                          
+ 15N   L 11965     3  1/2-             17 KEV                                   
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=DFGHVY                                                            
+ 15N   L 12095     3  5/2+             14 KEV    5                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FRVY                                                              
+ 15N   L 12145     3  3/2-             41 KEV    5                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FGHVY                                                             
+ 15N   L 12327      4 5/2(+)           22 KEV                                   
+ 15N 2 L %N=?$ %P=?$                                                            
+ 15N 3 L XREF=NRVY                                                              
+ 15N   L 12493      4 5/2+             40 KEV    5                              
+ 15N 2 L %N=?$ %P=?$ %A=?$ ISPIN=1/2                                            
+ 15N 3 L XREF=FNRVY                                                             
+ 15N   L 12522     8  5/2+             58 KEV    4                              
+ 15N 2 L WIDTHG=4.6 EV 6$ %IT=0.0079 12$ %P=99.9921 12$ ISPIN=3/2               
+ 15N 3 L XREF=VB                                                                
+ 15N   G 6197      10  6.2    7[E1]                                             
+ 15N 2 G BE1W=0.0028 6                                                          
+ 15N   G 7221      10  1.1   LT                                                 
+ 15N   G 7250      10 100.0   7[M1]                                             
+ 15N 2 G BM1W=0.54 8                                                            
+ 15N   G 12516     10  1.2   5 [M2]                                             
+ 15N 2 G BM2W=1.9 7                                                             
+ 15N  cG RI$from table 2. Value in table 15.5 is <1.1                           
+ 15N   L 12551     10 9/2+                                                  A   
+ 15N 2 L XREF=DHLMRVC                                                           
+ 15N   L 12920      4 3/2-             56 KEV    11                             
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FNVY                                                              
+ 15N   L 12940     10 5/2+             81 KEV                                   
+ 15N 2 L %P=?$ %A=?$                                                            
+ 15N 3 L XREF=FV                                                                
+ 15N   L 13004     10 11/2-                                                 A   
+ 15N 2 L XREF=DGHLNRST                                                          
+ 15N   L 13149     10                  7 KEV     3                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FOY                                                               
+ 15N   L 13174     7 (9/2)              7 KEV    3                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=DFHLMNVY                                                          
+ 15N   L 13362     8  3/2-             16 KEV    8                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FVY                                                               
+ 15N   L 13390     10 3/2+             56 KEV                                   
+ 15N 2 L WIDTHG=3.0 EV 9$ %IT=0.0054$ %N=?$ %P=?$ %A=?$                         
+ 15N 3 L XREF=FVY                                                               
+ 15N   G 6089      10 5      LT                                                 
+ 15N   G 6235      10 5      LT                                                 
+ 15N   G 7066      10 5      LT                                                 
+ 15N   G 8091      10 8      LT                                                 
+ 15N   G 8120      10 8      LT                                                 
+ 15N   G 13384     10 100      [E1]                                             
+ 15N 2 G BE1W=0.0030 9                                                          
+ 15N   L 13537     10 3/2-             85 KEV    30                             
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FV                                                                
+ 15N   L 13608     7  5/2(+)           18 KEV    4                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FNY                                                               
+ 15N   L 13612     10(1/2+)            90 KEV                                  ?
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FV                                                                
+ 15N   L 13713     10                  26 KEV    8                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FVY                                                               
+ 15N   L 13840     30 3/2+             75 KEV                                   
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=DFHRY                                                             
+ 15N   L 13900        1/2+             930 KEV                                  
+ 15N 2 L %IT=?$ %P=?$                                                           
+ 15N 3 L XREF=V                                                                 
+ 15N   L 13990     30 5/2+             98 KEV    10                             
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FHV                                                               
+ 15N   L 14090     7 (9/2+,7/2+)       22 KEV    6                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=DFGHNRY                                                           
+ 15N   L 14100     30 3/2+             100 KEV   AP                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=DFV                                                               
+ 15N   L 14162     10 3/2(+)           27 KEV    6                              
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=DFY                                                               
+ 15N   L 14240     40 5/2+             150 KEV                                  
+ 15N 2 L %A=100                                                                 
+ 15N 3 L XREF=FG                                                                
+ 15N   L 14380     40 7/2+             100 KEV                                  
+ 15N 2 L %A=100                                                                 
+ 15N 3 L XREF=F                                                                 
+ 15N   L 14400                         1900 KEV  AP                             
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=Y                                                                 
+ 15N   L 14550     20                  200 KEV   50                             
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=F                                                                 
+ 15N  cL           The proton decay mode is tentative                           
+ 15N   L 14647     10                  33 KEV    6                              
+ 15N 2 L %N=?$ %P=?$ %A=?$                                                      
+ 15N 3 L XREF=FY                                                                
+ 15N   L 14710                         750 KEV                                  
+ 15N 2 L %IT=?$ %P=?$                                                           
+ 15N 3 L XREF=V                                                                 
+ 15N   L 14720     10 5/2-             110 KEV   50                             
+ 15N 2 L %IT=?$ %N=?$ %P=?$ %A=?$                                               
+ 15N 3 L XREF=FGHNYB                                                            
+ 15N  cL           The proton decay mode is tentative                           
+ 15N   L 14860     20                  48 KEV    11                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=FN                                                                
+ 15N   L 14920     10                  12 KEV    3                              
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=FGY                                                               
+ 15N   L 15025     10                  13 KEV    3                              
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=FN                                                                
+ 15N   L 15090     20                  80 KEV    25                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=FT                                                                
+ 15N   L 15288     10                  26 KEV    6                              
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=F                                                                 
+ 15N   L 15373     10 13/2+                                                 A   
+ 15N 2 L XREF=DGHLMN                                                            
+ 15N   L 15380     20                  75 KEV    25                             
+ 15N 2 L %N=?$ %3H=?$ %A=?$                                                     
+ 15N 3 L XREF=FK                                                                
+ 15N   L 15430     20                  100 KEV   AP                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=F                                                                 
+ 15N  cL           The |a decay mode is tentative                               
+ 15N   L 15450                         750 KEV                                  
+ 15N 2 L %IT=?$ %P=?$                                                           
+ 15N 3 L XREF=V                                                                 
+ 15N   L 15530     20                  35 KEV    AP                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=FGHY                                                              
+ 15N   L 15600     20                  95 KEV    25                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=F                                                                 
+ 15N   L 15782     10                                                           
+ 15N 2 L %P=?$ %3H=?$ %A=?$                                                     
+ 15N 3 L XREF=FKNO                                                              
+ 15N   L 15930     20                  35 KEV    5                              
+ 15N 2 L %N=?$ %3H=?$ %A=?$                                                     
+ 15N 3 L XREF=FKM                                                               
+ 15N   L 15944     15                  21 KEV    6                              
+ 15N 2 L %N=?$ %3H=?$ %A=?$                                                     
+ 15N 3 L XREF=FK                                                                
+ 15N   L 16026     10                  62 KEV    12                             
+ 15N 2 L %N=?$ %P=?$ %3H=?$ %A=?$                                               
+ 15N 3 L XREF=FKNY                                                              
+ 15N   L 16190     10 3/2+             450 KEV   100                            
+ 15N 2 L %IT=?$ %N=?$ %P=?$ %3H=?$ %A=?$                                        
+ 15N 3 L XREF=GKN                                                               
+ 15N   L 16260     20 3/2+             150 KEV   28                             
+ 15N 2 L %IT=?$ %N=?$ %3H=?$ %A=?$                                              
+ 15N 3 L XREF=EFKMNO                                                            
+ 15N   L 16320     20                  30 KEV    AP                             
+ 15N 2 L %N=?$ %P=?$ %3H=?$ %A=?$                                               
+ 15N 3 L XREF=FK                                                                
+ 15N   L 16390     20                  44 KEV    11                             
+ 15N 2 L %N=?$ %P=?$ %3H=?$ %A=?$                                               
+ 15N 3 L XREF=FKMY                                                              
+ 15N   L 16460                         560 KEV                                  
+ 15N 2 L %IT=?$ %P=?$ %D=?$                                                     
+ 15N 3 L XREF=PV                                                                
+ 15N   L 16576     15                  27 KEV    15                             
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=FY                                                                
+ 15N   L 16590     25 3/2-             490 KEV                                  
+ 15N 2 L %IT=?$ %N=?$ %P=?$ %3H=?$ %A=?$                                        
+ 15N 3 L XREF=K                                                                 
+ 15N   L 16677     15 1/2+             80 KEV    20                             
+ 15N 2 L %IT=?$ %N=?$ %P=?$ %D=?$ %3H=?$ %A=?$ ISPIN=1/2                        
+ 15N 3 L XREF=EFKMPVY                                                           
+ 15N   L 16850     30 5/2              110 KEV   50                             
+ 15N 2 L %3H=?$ %A=?$                                                           
+ 15N 3 L XREF=K                                                                 
+ 15N   L 16910                         350 KEV   AP                             
+ 15N 2 L %N=?$ %P=?$ %D=?$ %3H=?$ %A=?$                                         
+ 15N 3 L XREF=KPY                                                               
+ 15N   L 17050                                                                 ?
+ 15N 2 L %P=?$ %3H=?$                                                           
+ 15N 3 L XREF=K                                                                 
+ 15N   L 17110                                                                  
+ 15N 2 L %D=?$ %A=?$                                                            
+ 15N 3 L XREF=P                                                                 
+ 15N  cL T         |G=broad                                                     
+ 15N   L 17150     50(1/2+,3/2+)       250 KEV   60                             
+ 15N 2 L %IT=?$ %3H=?$ %A=?$                                                    
+ 15N 3 L XREF=EK                                                                
+ 15N   L 17230     40                  175 KEV   AP                             
+ 15N 2 L %D=?$ %3H=?$ %A=?$                                                     
+ 15N 3 L XREF=P                                                                 
+ 15N  cL           The |a decay mode is tentative                               
+ 15N   L 17370     40                  250 KEV   AP                             
+ 15N 2 L %P=?$ %D=?$ %3H=?$ %A=?$                                               
+ 15N 3 L XREF=KPY                                                               
+ 15N   L 17580     40 3/2+             450 KEV   120                            
+ 15N 2 L %IT=?$ %D=?$ %3H=?$ %A=?$                                              
+ 15N 3 L XREF=KPY                                                               
+ 15N   L 17670     40 3/2+             600 KEV   80                             
+ 15N 2 L %IT=?$ %N=?$ %D=?$ %A=?$ ISPIN=1/2                                     
+ 15N 3 L XREF=EP                                                                
+ 15N   L 17720     10                  48 KEV    10                             
+ 15N 2 L %N=?$ %P=?$ %D=?$ %3H=?$ %A=?$                                         
+ 15N 3 L XREF=NPY                                                               
+ 15N  cL           The proton decay mode is tentative                           
+ 15N   L 17950     20                  167 KEV                                  
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=N                                                                 
+ 15N   L 18060     10                  19 KEV    4                              
+ 15N 2 L %N=?$ %D=?$ %A=?$                                                      
+ 15N 3 L XREF=MP                                                                
+ 15N  cL           The neutron decay mode is tentative                          
+ 15N   L 18090     20                  40 KEV    AP                             
+ 15N 2 L %N=?$ %P=?$ %D=?$ %3H=?$                                               
+ 15N 3 L XREF=P                                                                 
+ 15N  cL           The neutron decay mode is tentative                          
+ 15N   L 18220                         158 KEV                                  
+ 15N 2 L %N=?$ %A=?$                                                            
+ 15N 3 L XREF=Y                                                                 
+ 15N   L 18270     20                  235 KEV   60                             
+ 15N 2 L %N=?$ %P=?$ %D=?$ %A=?$                                                
+ 15N 3 L XREF=NPY                                                               
+ 15N   L 18700     20                                                       A   
+ 15N 2 L XREF=HNT                                                               
+ 15N   L 1891E+1   15 3/2+ & 1/2+      750 KEV   70                             
+ 15N 2 L %IT=?$ %A=?$                                                           
+ 15N 3 L XREF=E                                                                 
+ 15N   L 19200     35(1/2+)            130 KEV   AP                             
+ 15N 2 L %N=?$ %D=?$ ISPIN=1/2                                                  
+ 15N 3 L XREF=NPT                                                               
+ 15N  cL ISPIN$tentative                                                        
+ 15N   L 19500        3/2+             400 KEV   AP                             
+ 15N 2 L %IT=?$ %P=?$ %3H=?$ ISPIN=3/2                                          
+ 15N 3 L XREF=KV                                                                
+ 15N  cL ISPIN$tentative                                                        
+ 15N   L 19720     40                                                       A   
+ 15N 2 L XREF=HMN                                                               
+ 15N  cL T         |G=wide or unresolved                                        
+ 15N   L 20120     50                                                       A   
+ 15N 2 L ISPIN=3/2                                                              
+ 15N 3 L XREF=LC                                                                
+ 15N  cL ISPIN$tentative                                                        
+ 15N   L 20500        3/2+             400 KEV   AP                             
+ 15N 2 L %IT=?$ %N=?$ %P=?$ %D=?$                                               
+ 15N 3 L XREF=PV                                                                
+ 15N   L 20960     65 3/2+ & 1/2+      1740 KEV  150                            
+ 15N 2 L %IT=?$ %A=?$                                                           
+ 15N 3 L XREF=EN                                                                
+ 15N   L 21820                         600 KEV   AP                             
+ 15N 2 L %IT=?$ %P=?$ %D=?$                                                     
+ 15N 3 L XREF=PV                                                                
+ 15N   L 23190     60                                                           
+ 15N 2 L %IT=?$ %P=?$ ISPIN=3/2                                                 
+ 15N 3 L XREF=VC                                                                
+ 15N  cL ISPIN$tentative                                                        
+ 15N   L 23600                                                                  
+ 15N  cL T         |G=broad                                                     
+ 15N 2 L %IT=?$ %N=?$ %D=?$                                                     
+ 15N 3 L XREF=P                                                                 
+ 15N   L 2475E1    15                                                       A   
+ 15N 2 L XREF=N                                                                 
+ 15N  cL T         |G=wide or unresolved                                        
+ 15N   L 25500        3/2-                                                      
+ 15N 2 L %IT=?$ %N=?$ %P=?$ ISPIN=3/2                                           
+ 15N 3 L XREF=V                                                                 
+ 15N  cL ISPIN$tentative                                                        
+ 15N   L 26800                                                                 ?
+ 15N 2 L %3H=100                                                                
+ 15N 3 L XREF=K                                                                 
+ 15N   L 37000     AP                                                           
+ 15N 2 L %IT=?$ %P=?$                                                           
+ 15N 3 L XREF=V                                                                 
+
+
+
+

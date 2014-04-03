@@ -1,0 +1,713 @@
+ 28AL    ADOPTED LEVELS, GAMMAS                                  13NDS    201310
+ 28AL  H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CIT=NDS 114, 1189 (2013)$           
+ 28AL2 H CUT=1-Apr-2013$                                                        
+ 28AL  Q 4642.26   127725.10 6 9552.89 13-10857.4913   2012WA38                 
+ 28AL c                                                                         
+ 28AL c  There are 62 neutron resonances for the {+27}Al+n reaction in the 5    
+ 28AL2c  keV to 828 keV energy range (2006MuZX).                                
+ 28AL c                                                                         
+ 28AL c  Other Reactions:                                                       
+ 28AL c  {+28}Si(n,p){+28}Al: 1993Po05, 1984Br03, 1982Br04, 1982Ul01            
+ 28AL c  {+26}Mg(|a,d){+28}Al: 1966Ri04, 1976De24                               
+ 28AL cG E,RI$From (n,|g), except otherwise noted. For |g-ray energies only     
+ 28AL2cG statistical uncertainty is given. In order to obtain total uncertainty 
+ 28AL3cG 8 or 11 ppm has to be added in quadrature below or above 2.2 MeV,      
+ 28AL4cG respectively.                                                          
+ 28AL cG E(Z)$Calculated by the evaluator from level energy differences. Recoil 
+ 28AL2cG energy has been subtracted.                                            
+ 28AL cG E(X),RI(X)$|g-ray energy calculated from level energy differences.     
+ 28AL2cG Recoil energy has been subtracted. |g-ray branching from (d,p),(d,p|g).
+ 28AL cG RI(Y)$From (d,p),(d,p|g)                                               
+ 28AL cG E(W),RI(W)$From ({+3}He,p),({+3}He,p|g)                                
+ 28AL cG E(V)$The |g ray is introduced by the reviewer of the                   
+ 28AL2cG {+27}Al(n,|g) spectrum of 1982Sc14. Please see Table 28d in 1998En04.  
+ 28AL cG E(U),RI(U)$|g-ray energy calculated from level energy differences.     
+ 28AL2cG Recoil energy has been subtracted. |g-ray branching from (|m{+-},|n|g).
+ 28AL cL E$From a least-squares fit to |g-ray energies for levels with measured 
+ 28AL2cL |g rays - those were available in the literature. Calculated |g rays   
+ 28AL4cL were obtained after the least-squares fit. Levels without depopulating 
+ 28AL5cL |g rays are from reference dataset/s (weighted average).               
+ 28AL cL J(B)$Two possibilities 1+,3+ from L=2 and unnatural parity             
+ 28AL2cL (pol d,|a). The analyzing power data, negative at forward angles,      
+ 28AL3cL excludes 1+ ((pol d,|a) - 1978Ik01).                                   
+ 28AL cL T$From 1994Ka26-({+27}Al,p|g), except otherwise noted                  
+ 28AL cL T(A)$From 1977El04                                                     
+ 28AL cL J(J)$Unnatural                                                         
+ 28AL cL J(K)$Natural                                                           
+ 28AL  XA28MG B- DECAY                                                          
+ 28AL  XF2H(27AL,PG)                                                            
+ 28AL  XD26MG(3HE,P),(3HE,PG)                                                   
+ 28AL  XB27AL(N,G) E=THERMAL                                                    
+ 28AL  XC27AL(D,P)                                                              
+ 28AL  XI27AL(D,PG)                                                             
+ 28AL  XH28SI(MU-,NUG)                                                          
+ 28AL  XE29SI(D,3HE)                                                            
+ 28AL  XG30SI(POL D,A),(D,A),(D,AG)                                             
+ 28AL PN                                                                     6  
+ 28AL  L 0.0         3+                2.245 M   2                              
+ 28AL2 L %B-=100                                                                
+ 28ALX L XREF=ABCDEFGHI                                                         
+ 28ALB L MOMM1= 3.242 5$MOME2= 0.175 14                                         
+ 28AL cL MOMM1,MOME2$From 2011StZZ                                              
+ 28AL cL J$L=2 in ({+3}He,p),({+3}He,p|g); from the decay study of isobaric     
+ 28AL2cL triplet {+28}Mg-{+28}Al-{+28}Si (1954Sh28). |p=unnatural in (pol d,|a).
+ 28AL cL T$weighted average: 2.238 min {I6} (1963We19), 2.240 min {I7}          
+ 28AL2cL (1969Wy01), 2.247 min {I18}, (1970Ry05), 2.243 min {I5} (1972Em01),    
+ 28AL3cL 2.2405 min {I8} (1971Va35), 2.2488 min {I2} (1978Be61). An uncertainty 
+ 28AL4cL of 0.1% introduced by the evaluator.                                   
+ 28AL  L 30.6382    72+                2.07 NS   5                              
+ 28ALX L XREF=ABCDEGHI                                                          
+ 28AL cL J$L=2 in ({+3}He,p),({+3}He,p|g) and from the decay study of isobaric  
+ 28AL2cL triplet {+28}Mg-{+28}Al-{+28}Si (1954Sh28). |p=natural in (pol d,|a)   
+ 28ALM L MOMM1=+4.27 40                                                         
+ 28AL cL MOMM1$From 2011StZZ                                                    
+ 28AL cL T$From (n,|g)                                                          
+ 28AL  G 30.6382   7 100        M1                                              
+ 28AL cG M$|a(K)exp=0.032 {I66} (1954Sh28)                                      
+ 28AL cG MR$Weighted average of -0.03 {I5} (1971Bo36), -0.03 {I2} (1972La28),   
+ 28AL2cG and +0.004 {I6} (1972He22) is +0.001 {I6}.                             
+ 28ALB G BM1W=0.370 9                                                           
+ 28AL  L 972.35     30+                33 PS     2                              
+ 28ALX L XREF=ABCDEGHI                                                          
+ 28AL cL J$L=0 in ({+3}He,p),({+3}He,p|g), 941.79|g E2 to 2+, J|p=0+ in (pol    
+ 28AL2cL d,|a) based on low cross section.                                      
+ 28AL cL T$From Groningen thesis (1975) - by Du Marchie van Voorthuysen.        
+ 28AL  G 941.79    6 100       E2                                               
+ 28ALB G BE2W=4.6 3                                                             
+ 28AL  L 1013.637   93+                103 FS    14                             
+ 28ALX L XREF=BCDEFGHI                                                          
+ 28AL cL J$L=2 in ({+3}He,p),({+3}He,p|g); L=0+2 in (d,p); |p=unnatural in      
+ 28AL2cL (pol d,|a), 983|g M1+E2 to 2+, 1013|g to 3+                            
+ 28AL cL T$Weighted average of 104 fs {I14} (1994Ka26), 90 fs {I14} (1972Ma14), 
+ 28AL2cL and 132 fs {I21} (1977El04). Uncertainty is the lowest experimental    
+ 28ALxcL value.                                                                 
+ 28AL  G 983.018   16   100  11M1+E2     +0.13   5                              
+ 28AL cG MR$From 1971Bo36                                                       
+ 28ALB G BM1W=0.14 3$BE2W=12 10                                                 
+ 28AL  G 1013.676  21    61  7 [M1]                                             
+ 28ALB G BM1W=0.078 16                                                          
+ 28AL  L 1372.917  201+                223 FS    35                             
+ 28ALX L XREF=ABCDEGHI                                                          
+ 28AL cL J$feeding from {+28}Mg |b{+-} decay: J|p({+28}Mg)=0+. L=0+2 in         
+ 28AL2cL ({+3}He,p),({+3}He,p|g), L=2 in (d,p), |p=unnatural in (pol d,|a)      
+ 28AL cL T$From (d,p|g)                                                         
+ 28AL  G 359.28        0.5   LT                                             X   
+ 28AL  G 400.58     3    63  7 [M1]                                             
+ 28ALB G BM1W=0.54 12                                                           
+ 28AL  G 1342.30   11   100  10M1+E2     -0.14   5                              
+ 28AL cG MR$Weighted average of -0.25 {I12} (1971Bo36), -0.04 {I6} (1972La28),  
+ 28AL2cG and -0.35 {I10} (1972He22)                                             
+ 28ALB G BM1W=0.022 5$BE2W=1.2 9                                                
+ 28AL  G 1372.8     2    15   8 [E2]                                            
+ 28ALB G BE2W=9 5                                                               
+ 28AL cG E$From {+28}Mg |b{+-} decay                                            
+ 28AL  L 1620.30    41+                 92 FS    22                             
+ 28ALX L XREF=ABCDE(*)GHI                                                       
+ 28AL cL J$feeding from {+28}Mg |b{+-} decay: J|p({+28}Mg)=0+; 1589.7|g M1+E2   
+ 28AL2cL to 2+. L=0+2 in (d,p)                                                  
+ 28AL cL T$From (d,p|g)                                                         
+ 28AL  G 247.38         2.1  LT                                             X   
+ 28AL  G 606.65         2.1  LT                                             X   
+ 28AL  G 647.93     7   4.4  25 [M1]                                            
+ 28AL cG RI$Other: 1.8 in {+28}Mg |b{+-} decay                                  
+ 28ALB G BM1W=0.034 22                                                          
+ 28AL  G 1589.72    8   100  13M1+E2     +0.18   9                              
+ 28AL cG MR$From 1971Bo36. Other: +0.2 {I4} (1972La28)                          
+ 28ALB G BM1W=0.051 16$BE2W=3 +4-3                                              
+ 28AL  G 1620.0     4   6.4                                                     
+ 28AL cG E,RI$From {+28}Mg |b{+-} decay                                         
+ 28AL  L 1622.907  202+                 63 FS    10                             
+ 28ALX L XREF=BCDE(*)GHI                                                        
+ 28AL cL J$L=0+2 in (d,p). 1622|g to 3+, 1592|g to 2+                           
+ 28AL cL T$Weighted average of 58 fs {I16} (1990Ku22), 49 fs {I14} (1972Ma14),  
+ 28AL2cL and 139 fs {I28} (1977El04)                                            
+ 28AL  G 249.99         4    LT                                             X   
+ 28AL  G 609.26         3    LT                                             X   
+ 28AL  G 650.54         2    LT                                             X   
+ 28AL  G 1592.29   12   7.8  11                                                 
+ 28AL  G 1622.87    6   100  11  [M1]                                           
+ 28ALB G BM1W=0.073 16                                                          
+ 28AL  L 2138.910  102+                 8 FS     1                              
+ 28ALX L XREF=BCDEFGHI                                                          
+ 28AL cL J$L=2 in ({+3}He,p),({+3}He,p|g); L=0+2 in (d,p). J|p=3+ is rejected   
+ 28AL2cL from (|m{+-},|n|g) (1972Mi11), |p=natural in (pol d,|a)                
+ 28AL cL T$Others: <10.4 fs (1972Ma14), 3 fs {I2} (1990Ku22), 56 fs {I14}       
+ 28ALxcL (1977El04)                                                             
+ 28AL  G 515.99          6   LT                                             X   
+ 28AL  G 518.60          4   LT                                             X   
+ 28AL  G 765.97          2   LT                                             X   
+ 28AL  G 1125.54   21      13 3                                                 
+ 28AL  G 1166.51          4  LT                                             X   
+ 28AL  G 2108.24    4     100 4                                                 
+ 28AL  G 2138.828  18      79 4                                                 
+ 28AL  L 2201.43    31+                32 FS     2                              
+ 28ALX L XREF=BCDEFGHI                                                          
+ 28AL cL J$1229.8|g to 0+, 2170.7|g to 2+, L=0+2 in ({+3}He,p),({+3}He,p|g);    
+ 28AL2cL L=2 in (d,p), |p=unnatural in (pol d, |a)                              
+ 28AL cL T$Weighted average of 41 fs {I4} (({+27}Al,p|g)-1994Ka26), 42 fs {I7}, 
+ 28AL2cL 27 fs {I3} ((|m{+-},|n|g)-1997Mo11,1995Br15), 24 fs {I7}, and 83 fs    
+ 28AL3cL {I49} ((d,p|g)- 1972Ma14 and 1977El04).                                
+ 28AL  G 62.52          4.4  LT                                             X   
+ 28AL  G 578.51         6     4                                             X   
+ 28AL  G 581.12         3.2  LT                                             X   
+ 28AL  G 828.49         3.2  LT                                             X   
+ 28AL  G 1187.74        5.7  LT                                             X   
+ 28AL  G 1229.8     4      20 3  [M1]                                       Y   
+ 28AL cG E$From ({+3}He,p),({+3}He,p|g)                                         
+ 28ALB G BM1W=0.054 10                                                          
+ 28AL  G 2170.70    3     100 4                                             Y   
+ 28AL  G 2201.25        7.6  LT                                             X   
+ 28AL  L 2271.745  194+                22 FS     3                              
+ 28ALX L XREF=BCDEFGHI                                                          
+ 28AL cL J$L=2 in (d,p), |p=natural in (pol d, |a), 2271|g to 3+, and 310.2|g   
+ 28AL2cL from 5+ state at 2582 keV.                                             
+ 28AL cL T$Others: 10 fs {I6} (1972Ma14), 42 fs {I14} (1977El04)                
+ 28AL  G 132.83         5    LT                                             X   
+ 28AL  G 648.82         5    LT                                             X   
+ 28AL  G 1258.05        4    LT                                             X   
+ 28AL  G 2240.92        2.5  LT                                             X   
+ 28AL  G 2271.650  23   100  5   [M1]                                           
+ 28ALB G BM1W=0.079 13                                                          
+ 28AL  L 2486.20    62+                 66 FS    7                              
+ 28ALX L XREF=BCDEFGHI                                                          
+ 28AL cL J$L=2 in ({+3}He,p),({+3}He,p|g), L=0+2 in (d,p), |p=natural in        
+ 28AL2cL (pol d, |a), |g rays to 1+, 2+, and 3+ states                          
+ 28AL cL T$Others: 69 fs {I21} (1972Ma14), 76 fs {I28} (1977El04)               
+ 28AL  G 214.45         1.6  LT                                             X   
+ 28AL  G 347.29         1.6  LT                                             X   
+ 28AL  G 863.26            18 5                                             X   
+ 28AL  G 865.87    15    100 13  [M1]                                           
+ 28ALB G BM1W=0.30 6                                                            
+ 28AL  G 1113.24        3.3  LT                                             X   
+ 28AL  G 1472.48        3.3  LT                                             X   
+ 28AL  G 1513.76         10  3                                              X   
+ 28AL  G 2455.8     3   6.7  13                                                 
+ 28AL  G 2486.09    7      33 2  [M1]                                           
+ 28ALB G BM1W=0.0042 7                                                          
+ 28AL  L 2581.81   225+                313 FS    25                             
+ 28ALX L XREF=BCDEFGI                                                           
+ 28AL cL J$From a combination of measurements of relative parities together     
+ 28AL2cL with cross-section and vector-analyzing power angular distribution     
+ 28AL3cL ((pol d,|a),(d,|a),(d,|a|g)). L=4 in ({+3}He,p),({+3}He,p|g).          
+ 28AL cL T$Weighted average of 284 fs {I35} (({+27}Al,p|g) - 1994Ka26), 381 fs  
+ 28AL2cL {I69}, 416 fs 69, and 284 fs {I49} ((d,p|g) - 1972Ma14, 1977El04, and  
+ 28ALxcL 1975Fr11).                                                             
+ 28AL  G 310.2            6  2  [M1]                                        X   
+ 28ALB G BM1W=0.13 5                                                            
+ 28AL  G 1568.08        5.3  LT                                             X   
+ 28AL  G 2582.2     5   100  2  [E2]                                        Y   
+ 28ALB G BE2W=2.9 3                                                             
+ 28AL  L 2656.30    44+                22 FS     3                              
+ 28ALX L XREF=BCDEFGI                                                           
+ 28AL cL J$L=4 in ({+3}He,p),({+3}He,p|g), L=2 in (d,p), |p=natural in          
+ 28AL2cL (pol d,|a), 1642|g and 2656|g to 3+                                    
+ 28AL cL T$Others: 21 fs {I8} (1972Ma14), 49 fs {I21} (1977El04)                
+ 28AL  G 384.55         1.3  LT                                             Z   
+ 28AL2 G FLAG=Y                                                                 
+ 28AL  G 517.38         1.3  LT                                             Z   
+ 28AL2 G FLAG=Y                                                                 
+ 28AL  G 1033.35        4    LT                                             Z   
+ 28AL2 G FLAG=Y                                                                 
+ 28AL  G 1642.35   10   100  5  [M1]                                            
+ 28AL2 G FLAG=Y                                                                 
+ 28ALB G BM1W=0.16 3                                                            
+ 28AL  G 2625.40        5.3  LT                                             Z   
+ 28AL2 G FLAG=Y                                                                 
+ 28AL  G 2656.34    7      33 5                                             Y   
+ 28AL cG E,RI$|g-ray energy reported in (n,|g)-1982Sc14, but not placed in the  
+ 28AL2cG level scheme. Placement of |g ray is from (d,p|g). I|g in 1982Sc14     
+ 28AL3cG is 14.5 {i9}.                                                          
+ 28AL  L 2987.94   12(3,1)+            62 FS     55                         A   
+ 28ALX L XREF=BCD(*)EGI                                                         
+ 28AL cL J$L=(2) in (d,p), L=2 in (d,{+3}He), |p=unnatural in (pol d,|a),       
+ 28AL2cL from shell model calculations, J|p=3+ is proposed in 1994Ve02 -        
+ 28ALxcL (d,{+3}He)                                                             
+ 28AL  G 1364.99   20    100 16                                                 
+ 28AL  G 1975.2    5      7  2                                                  
+ 28AL  G 2987.69   17    84  11                                                 
+ 28AL  L 3011      3 0+                                                         
+ 28ALX L XREF=CD(*)EG                                                           
+ 28AL cL J$from L=2 in (d,p), L=0 component for the doublet (2987 keV) in       
+ 28AL2cL ({+3}He,p), and not populated in (n,|g).                               
+ 28AL  L 3105      1 1+                15 FS     3                              
+ 28ALX L XREF=CDEFGHI                                                           
+ 28AL cL E$From ({+3}He,p|g)                                                    
+ 28AL cL J$L=2 in (d,p), L=0+2 in (d,{+3}He), |p=unnatural in (pol d,|a),       
+ 28AL2cL 3074|g to 2+, from the weak L=0 component in (d,{+3}He) J|p=1+ is      
+ 28AL3cL proposed in 1994Ve02                                                   
+ 28AL  G 3074             100                                               X   
+ 28AL  L 3296.34    4(3+)              8 FS      3                              
+ 28ALX L XREF=BCDFGI                                                            
+ 28AL cL J$L=2 in ({+3}He,p),({+3}He,p|g); L=0+2 in (d,p); |p=unnatural in      
+ 28AL2cL (pol d,|a), |g rays to 2+                                              
+ 28AL cL T$Other: 97 fs {I21} (1977El04)                                        
+ 28AL  G 1157.38          23 11                                             X   
+ 28AL  G 1673.43   11      55 7                                                 
+ 28AL  G 3265.49    4     100 7                                                 
+ 28AL  L 3347.19   4 2+                6 FS      2                              
+ 28ALX L XREF=BCDEFGI                                                           
+ 28AL cL J$L=2 in ({+3}He,p),({+3}He,p|g); L=0+2 in (d,p); |p=natural in        
+ 28AL2cL (pol d,|a), |g rays to 1+,2+,3+                                        
+ 28AL cL T$Other: 97 fs {I35} (1977El04)                                        
+ 28AL  G 1975.2     5     5   2                                                 
+ 28AL  G 3316.34    5     5   1                                                 
+ 28AL  G 3346.97    4   100   6                                                 
+ 28AL  L 3465.294  104-                44 FS     2                              
+ 28ALX L XREF=BCDEFGI                                                           
+ 28AL cL J$L=1+3 in (d,p), |p=unnatural in (pol d,|a), 1193.49|g to 4+,         
+ 28AL2cL 2451.54|g to 3+                                                        
+ 28AL cL T$Other: 62 fs {I8} (1977El04)                                         
+ 28AL  G 1193.64   10    8.5 14 [E1]                                            
+ 28ALB G BE1W=0.00073 13                                                        
+ 28AL  G 2451.48    4     5.5 3 [E1]                                            
+ 28ALB G BE1W=5.5E-5 5                                                          
+ 28AL  G 3465.067  10   100  3  [E1]                                            
+ 28ALB G BE1W=0.000352 22                                                       
+ 28AL  L 3542.1     6(1)+                                                       
+ 28ALX L XREF=CDEGH                                                             
+ 28AL cL J$L=2 in (d,p), |p=unnatural in (pol d,|a), 1919|g to 2+, and          
+ 28AL2cL |g ray feeding this state                                              
+ 28AL  G 1919.1         100                                                 Z   
+ 28AL  L 3591.457   9(3-)               29 FS    4                              
+ 28ALX L XREF=BCFGI                                                             
+ 28AL cL J$L=1+3 in (d,p), |p=natural in (pol d,|a), 3591|g to 3+, 3561|g to 2+ 
+ 28AL cL T$Other: 69 fs {I14} (1977El04)                                        
+ 28AL  G 1968.35   12   2.13 21 [E1]                                            
+ 28ALB G BE1W=4.2E-5 8                                                          
+ 28AL  G 2577.725  21   46.8 21 [E1]                                            
+ 28ALB G BE1W=0.00041 6                                                         
+ 28AL  G 3560.547  19   19.8 11 [E1]                                            
+ 28ALB G BE1W=6.6E-5 10                                                         
+ 28AL  G 3591.211  11     100 3 [E1]                                            
+ 28ALB G BE1W=0.00032 5                                                         
+ 28AL  L 3601      5                                                            
+ 28ALX L XREF=DE                                                                
+ 28AL  L 3670.69    73+                132 FS    42                         A   
+ 28ALX L XREF=BCDGI                                                             
+ 28AL cL J$L=0+2 in (d,p), |p=unnatural in (pol d,|a), |g rays to 2+            
+ 28AL  G 2047.70   23     96 14                                                 
+ 28AL  G 3639.88    9     100 7                                                 
+ 28AL  L 3709.222  16(2,3)+            187 FS    21                         A   
+ 28ALX L XREF=BCDEGI                                                            
+ 28AL cL J$L=2 in ({+3}He,p); L=0+2 in (d,p)                                    
+ 28AL  G 1437.40          58 13                                             X   
+ 28AL  G 1570.22          42 13                                             X   
+ 28AL  G 3678.15    5     69  4                                                 
+ 28AL2 G FL=30.6382                                                             
+ 28AL  G 3708.976  16     100 4                                                 
+ 28AL  L 3760      3  0+                                                        
+ 28ALX L XREF=CEG                                                               
+ 28AL cL J$L=0 in (d,{+3}He) and low cross section in (pol d,|a)                
+ 28AL  L 3875.773  112-                19 FS     2                              
+ 28ALX L XREF=BCFGHI                                                            
+ 28AL cL J$L=1+3 in (d,p); |p=unnatural in (pol d,|a), |g rays to 3+ and 1+     
+ 28AL cL T$Other: 55 fs {I14} (1977El04)                                        
+ 28AL  G 2255.42    5   20.4 15  [E1]                                           
+ 28ALB G BE1W=0.00054 8                                                         
+ 28AL  G 2502.85    7     5.9 4  [E1]                                           
+ 28ALB G BE1W=0.000113 15                                                       
+ 28AL  G 2862.24   22     1.4 2                                                 
+ 28AL  G 2902.7    7     0.4 2                                                  
+ 28AL  G 3875.480  11   100  4   [E1]                                           
+ 28ALB G BE1W=0.00052 6                                                         
+ 28AL  L 3901.00    4(1,3)+            187 FS    28                         A   
+ 28ALX L XREF=BCDEGI                                                            
+ 28AL cL J$L=2 in (d,p), |p=unnatural in (pol d,|a), 2277|g to 2+, 2887|g, 3900 
+ 28AL2cL to 3+                                                                  
+ 28AL  G 2276.7    11     17 13                                                 
+ 28AL  G 2887.22    4     100 4                                                 
+ 28AL  G 3900.65    7     100 4                                                 
+ 28AL  L 3935.603  182+                21 FS     7                              
+ 28ALX L XREF=BCD(3948)EFGI                                                     
+ 28AL cL J$L=0+2 in (d,p), |p=natural in (pol d,|a), |g rays to 3+ and 2+       
+ 28AL cL T$Other: <42 fs (1977El04)                                             
+ 28AL  G 2921.84    3      85 3                                                 
+ 28AL  G 3904.76    8      61 3                                                 
+ 28AL  G 3935.276  23     100 6                                                 
+ 28AL  L 4033      2  5-               108 FS    43                             
+ 28ALX L XREF=C(4044)DGI                                                        
+ 28AL cL J$L=1+3 in (d,p), |p=natural in (pol d,|a), 567|g to 4-, 1761|g to 4+, 
+ 28AL2cL the large (2J+1)S(d,p) excludes L=1 component and J|p=3-               
+ 28AL3cL (1971Ca27 and 1975Fr11)                                                
+ 28AL cL T$From (d,p|g)                                                         
+ 28AL  G 567              100 6                                             X   
+ 28AL  G 1761              96 6  [E1]                                       X   
+ 28ALB G BE1W=0.00061 25                                                        
+ 28AL  L 4115      4 1+                                                         
+ 28ALX L XREF=CD(4127)EGH                                                       
+ 28AL cL E$From (pol d,|a)                                                      
+ 28AL cL J$L=0+2 in ({+3}He,p), L=2 in (d,p), |p=unnatural in (pol d,|a).       
+ 28AL  G 1976         29     LT                                             U   
+ 28AL  G 2492         68     35                                             U   
+ 28AL2 G FL=1622.907                                                            
+ 28AL  G 2742         68     44                                             U   
+ 28AL  G 4084         100    59                                             U   
+ 28AL  G 4114         59     LT                                             U   
+ 28AL  L 4244.49   102+                42 FS     21                         A   
+ 28ALX L XREF=BCD(4254)EGI                                                      
+ 28AL cL J$L=0+2 in (d,p), L=2 in ({+3}He,p), |p=natural in (pol d,|a).         
+ 28AL  G 3230.68   20      48 5                                                 
+ 28AL  G 4213.49   11     100 5                                                 
+ 28AL  L 4313      3 (1,3,5)+                                                   
+ 28ALX L XREF=CEG                                                               
+ 28AL cL J$L=2 in (d,p), |p=unnatural in (pol d,|a)                             
+ 28AL  L 4385      4                                                        K   
+ 28ALX L XREF=G                                                                 
+ 28AL  L 4461.97   10(2,4)+                                                     
+ 28ALX L XREF=BCEG                                                              
+ 28AL cL J$L=2 in (d,p), |p=(natural) in (pol d,|a)                             
+ 28AL  G 3448.03   23     76 12                                                 
+ 28AL  G 4461.60   10     100 7                                                 
+ 28AL  L 4516.94   18 3+                                                    B   
+ 28ALX L XREF=EG                                                                
+ 28AL cL J$L=2 in (pol d,|a)                                                    
+ 28AL  G 2893.87   17 100                                                   V   
+ 28AL  L 4596.56    4 3+               159 FS     83                        A   
+ 28ALX L XREF=BD(4608)EGHI                                                      
+ 28AL cL J$L=2 in ({+3}He,p), (d,{+3}He), and (pol d,|a)                        
+ 28AL2 L FLAG=B                                                                 
+ 28AL  G 2974.0    3  19      2                                                 
+ 28AL  G 4565.67   15 22      2                                                 
+ 28AL  G 4596.14   4 100      6                                                 
+ 28AL  L 4691.097   6 3-               4.9 FS     6                             
+ 28ALX L XREF=BCDEFGI                                                           
+ 28AL cL J$L=1+3 in (d,p), L=(2) in ({+3}He,p), |p=(natural) in (pol d,|a),     
+ 28AL2cL |g rays to 3+, 2+, and 4+ states                                       
+ 28AL cL T$Other: 35 fs {I9} (1977El04)                                         
+ 28AL  G 2419.36    8   2.98 21  [E1]                                           
+ 28ALB G BE1W=0.00019 3                                                         
+ 28AL  G 2552.07   12   2.00 17  [E1]                                           
+ 28ALB G BE1W=0.000111 17                                                       
+ 28AL  G 3068.16   10   1.72 13                                                 
+ 28AL  G 4660.039   8      55 2  [E1]                                           
+ 28ALB G BE1W=0.00050 7                                                         
+ 28AL  G 4690.677   7     100 3  [E1]                                           
+ 28ALB G BE1W=0.00090 12                                                        
+ 28AL  L 4739      2 (0 TO 5)+                                                  
+ 28ALX L XREF=CG                                                                
+ 28AL cL J$L=(0)+2 in (d,p)                                                     
+ 28AL  L 4764.922  102-                3.5 FS     14                            
+ 28ALX L XREF=BCDEFGI                                                           
+ 28AL cL J$L=1+3 in (d,p), |p=unnatural in (pol d,|a), |g rays to 3+, 2+,       
+ 28AL2cL 1+, 3- states                                                          
+ 28AL cL T$Other: 35 fs {I9} (1977El04)                                         
+ 28AL  G 1173.4     3     7.116                                                 
+ 28AL  G 2563.51   23     1.8 2                                                 
+ 28AL  G 2625.903  16    24.913 [E1]                                            
+ 28ALB G BE1W=0.0018 8                                                          
+ 28AL  G 3392.00   10    10.4 6 [E1]                                            
+ 28ALB G BE1W=0.00035 14                                                        
+ 28AL  G 3750.83   18   0.64 5                                                  
+ 28AL  G 4733.847  12   100  5  [E1]                                            
+ 28ALB G BE1W=0.0012 5                                                          
+ 28AL  G 4764.45    3    16.6 9                                                 
+ 28AL  L 4848.73   101+                                                         
+ 28ALX L XREF=CDEGH                                                             
+ 28AL cL E$From a reinterpretation by the reviewer of the {+27}Al(n,|g)         
+ 28AL2cL spectrum of 1982Sc14 (please see table 28c in 1998En04).               
+ 28AL cL J$L=0+2 in ({+3}He,p), L=(0+)2 in (d,p), |p=unnatural in (pol d,|a)    
+ 28AL  G 4817.21      100                                                   Z   
+ 28AL  L 4903.577   62-                5.7 FS     8                             
+ 28ALX L XREF=BCDFGI                                                            
+ 28AL cL J$L=1+3 in ({+3}He,p), L=1+3 in (d,p), |p=unnatural in (pol d,|a)      
+ 28AL cL T$Other: 39 fs {I6} (1977El04)                                         
+ 28AL  G 3889.73    6     7.2 3                                                 
+ 28AL  G 4903.115   6   100   4 [E1]                                            
+ 28ALB G BE1W=0.00102 16                                                        
+ 28AL  L 4928      3                                                        J   
+ 28ALX L XREF=CEG                                                               
+ 28AL  L 4997.01    5 2-                                                        
+ 28ALX L XREF=EH                                                                
+ 28AL cL J$L=1 in (d,{+3}He), |p=natural in (pol d,|a), |g rays to 3+, 2+,      
+ 28AL2cL and 1+ states                                                          
+ 28AL  G 3623.74   7  100     7                                             V   
+ 28AL  G 4965.8    4  10      1                                             V   
+ 28AL  G 4996.64   7  74      3                                             V   
+ 28AL  L 4999      8  2+                                                        
+ 28ALX L XREF=CG                                                                
+ 28AL cL J$L=0+2 in (d,p), |p=natural in (pol d,|a)                             
+ 28AL  L 5015.51    33+                                                         
+ 28ALX L XREF=BCDG                                                              
+ 28AL cL J$L=0+2 in (d,p); |p=unnatural in (pol d,|a), |g rays to 2+, 3+,       
+ 28AL2cL and 4+                                                                 
+ 28AL  G 2743.74   19      33 4                                                 
+ 28AL  G 4001.70   5      100 6                                                 
+ 28AL  G 4984.30   4       84 4                                                 
+ 28AL  L 5134.849   8 3-               5.6 FS     7                             
+ 28ALX L XREF=BCDFGI                                                            
+ 28AL cL J$L=1+3 in (d,p), |p=natural in (pol d,|a), |g rays to 3+ and 2+       
+ 28AL cL T$Other: 28 fs {I7} (1977El04)                                         
+ 28AL  G  4119.9   4    1.3   3                                                 
+ 28AL  G 5103.718  15   13.1  8                                                 
+ 28AL  G 5134.342   9   100.0 8 [E1]                                            
+ 28ALB G BE1W=0.00085 11                                                        
+ 28AL  L 5165      2 6-,(4-,5-)        49 FS     LT                             
+ 28ALX L XREF=CGI                                                               
+ 28AL cL J$L=3 in (d,p); also L=(5) in {+26}Mg(|a,d)-1976De24. The large        
+ 28AL2cL (2J+1)S(d,p) value suggest J|p=6- (1975Fr11).                          
+ 28AL cL T$From 1975Fr11                                                        
+ 28AL  G 1132         100                                                   X   
+ 28AL  L 5176.96    6(1+ TO 3+)         7 FS     3                              
+ 28ALX L XREF=BFG                                                               
+ 28AL cL J$|g rays to 1+,2+, and 3+ states                                      
+ 28AL  G 2691.0     3      41 8                                                 
+ 28AL  G 3803.7     5      16 4                                                 
+ 28AL  G     4162.4 5     27  7                                             &   
+ 28AL  G 5176.44    6     100 4                                                 
+ 28AL  L 5190.4     3                                                       K   
+ 28ALX L XREF=G                                                                 
+ 28AL cL           |p=tentative                                                 
+ 28AL  G 3569.9    3  100                                                   V   
+ 28AL  L 5287      5                                                        K   
+ 28ALX L XREF=G                                                                 
+ 28AL  L 5333      5                                                            
+ 28ALX L XREF=E                                                                 
+ 28AL  L 5344.75   12                                                           
+ 28ALX L XREF=B                                                                 
+ 28AL  G 4330.75   12 100                                                   V   
+ 28AL  L 5377.83    4                   4 FS     2                              
+ 28ALX L XREF=BEF                                                               
+ 28AL  G 3754.70   15      54 4                                                 
+ 28AL  G 5377.27    4     100 6                                                 
+ 28AL  L 5406      5 (0 TO 2)-                                                  
+ 28ALX L XREF=E                                                                 
+ 28AL cL J$L=1 in (d,{+3}He)                                                    
+ 28AL  L 5442.267   82-                3.3 FS    10                             
+ 28ALX L XREF=BD(5452)EFHI                                                      
+ 28AL cL J$L=1 in ({+3}He,p), |g rays to 1+,2+,3+ states                        
+ 28AL cL T$Other: 21 fs {I7} (1977El04)                                         
+ 28AL  G 3303.150  13    57  3 [E1]                                             
+ 28ALB G BE1W=0.0021 7                                                          
+ 28AL  G 3820.9     4     1.7 4                                                 
+ 28AL  G 4068.99    4     7.9 4                                                 
+ 28AL  G 5411.069   8   100   5[E1]                                             
+ 28ALB G BE1W=0.0008 3                                                          
+ 28AL  G 5441.9     3   0.75 10                                                 
+ 28AL  L 5530      8                                                            
+ 28ALX L XREF=D                                                                 
+ 28AL  L 5741.115  13(1 TO 4+)          4 FS     1                              
+ 28ALX L XREF=BEFH                                                              
+ 28AL cL J$|g rays to 2+. The strength of (n,|g) primary excludes J|p=0+        
+ 28AL  G 3254.9     3     3.9 5                                                 
+ 28AL  G     4119.9 4    7    1                                             &   
+ 28AL  G 5709.852  13   100   5                                                 
+ 28AL  L 5761.12   21                                                           
+ 28ALX L XREF=CDE                                                               
+ 28AL  G 5729.6    4  35      4                                             V   
+ 28AL  G 5760.57   24 100     4                                             V   
+ 28AL  L 5797.537  182-                 4 FS     LT                             
+ 28ALX L XREF=BEF                                                               
+ 28AL cL J$L=1 in ({+3}He,p),({+3}He,p|g); |g rays to 1+, 2+, 3+ states         
+ 28AL  G 4424.24    3      94 5                                                 
+ 28AL  G 4783.0     5     2.9 8                                                 
+ 28AL  G 5766.250  22     100 5                                                 
+ 28AL  G 5796.94    4    32.618                                                 
+ 28AL  L 5809.0    6                                                            
+ 28ALX L XREF=CD                                                                
+ 28AL  L 5860.78    3(2,3+)             7 FS     LT                             
+ 28ALX L XREF=BDEF                                                              
+ 28AL cL J$|g rays to 1+, 2+, 3+ states. J|=1 from pol {+27}Al(pol n,|g)        
+ 28AL  G 3659.08    9      41 3                                                 
+ 28AL  G 3721.52   22    19.419                                                 
+ 28AL  G    4237.4310    39   3                                             &   
+ 28AL  G 5829.89   24     8.4 7                                                 
+ 28AL  G 5860.13    3     100 5                                                 
+ 28AL  L 5904.3    6 (1,2,3)+                                                   
+ 28ALX L XREF=CD                                                                
+ 28AL cL J$L=2 in ({+3}He,p)                                                    
+ 28AL  L 5925.1    18                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 5956.8    4                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 5981.2    6                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 5992.58   100+                                                         
+ 28ALX L XREF=D                                                                 
+ 28AL cL J$L=0 in ({+3}He,p)                                                    
+ 28AL2 L ISPIN=2                                                                
+ 28AL  G 2450.4     6      21 5                                             W   
+ 28AL  G 3790.1     4     100 9                                             W   
+ 28AL  G 4371.9     5      79 9                                             W   
+ 28AL  G 4619.3    12      33 7                                             W   
+ 28AL  L 6004.8    4                   35 NS     LT                             
+ 28ALX L XREF=CI                                                                
+ 28AL  L 6019.59    3 2-                                                        
+ 28ALX L XREF=BE                                                                
+ 28AL cL J$L=1 in (d,{+3}He); |g rays to 3+ and 2+                              
+ 28AL  G 4396.40    6    31.016                                                 
+ 28AL  G 5005.45    9    25.716                                                 
+ 28AL  G 5988.32   15   12.3 10                                                 
+ 28AL  G 6018.88    3   100  5                                                  
+ 28AL  L 6063.8    5                                                            
+ 28ALX L XREF=CE                                                                
+ 28AL  L 6070.9    5 (0,1)+                                                     
+ 28ALX L XREF=CD                                                                
+ 28AL cL J$L=0,(+2) in ({+3}He,p)                                               
+ 28AL  L 6160.3    6                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6198.874  12(2+ TO 4+)         4 FS     LT                             
+ 28ALX L XREF=BF                                                                
+ 28AL cL J$|g rays to 2+ to 4+                                                  
+ 28AL  G 3926.86   24    3.3  4                                                 
+ 28AL  G 4059.78   19     4.4 3                                                 
+ 28AL  G 4575.557  21    43   3                                                 
+ 28AL  G 5184.99   13     4.4 3                                                 
+ 28AL  G 6198.138  12   100   3                                                 
+ 28AL  L 6238.2    7 (0,1,2)-                                                   
+ 28ALX L XREF=CD(6253)                                                          
+ 28AL cL J$L=1 in ({+3}He,p)                                                    
+ 28AL  L 6316.798   92+                 4 FS     LT                             
+ 28ALX L XREF=BDEF                                                              
+ 28AL cL J$|g rays to 3+, 0+, 4+, and 3- states                                 
+ 28AL  G 2724.6     5     1.0 3                                                 
+ 28AL  G 3020.3     7     3.510                                                 
+ 28AL  G 4045.00   23    1.1510                                                 
+ 28AL  G 5302.650  14    23.510                                                 
+ 28AL  G 5344.24   17    0.85 5                                                 
+ 28AL  G 6316.017  10   100  5                                                  
+ 28AL  L 6329.1    4                                                            
+ 28ALX L XREF=CE                                                                
+ 28AL  L 6419.71    9(1+,2+)                                                    
+ 28ALX L XREF=BEH                                                               
+ 28AL cL J$|g rays to 0+, 2+, 3+                                                
+ 28AL  G 4280.37   10     100 6                                                 
+ 28AL  G 5446.88   15    20.612                                                 
+ 28AL  G 6420.0     5     3.5 6                                                 
+ 28AL  L 6441.443  11(3+,4)                                                     
+ 28ALX L XREF=B                                                                 
+ 28AL cL J$|g rays to 3+, 4+, 5+; the strength of the (n,|g) primary excludes   
+ 28AL2cL J|p=5+                                                                 
+ 28AL  G 3859.47   24     6.7 9                                                 
+ 28AL  G 4169.38    6    17.710                                                 
+ 28AL  G 5427.19    7    12.6 7                                                 
+ 28AL  G 6440.648  11   100  3                                                  
+ 28AL  L 6453.6    5                                                            
+ 28ALX L XREF=CE                                                                
+ 28AL  L 6462.2    8                                                            
+ 28ALX L XREF=CE                                                                
+ 28AL  L 6480.5    5                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6493.3    8                                                            
+ 28ALX L XREF=CE                                                                
+ 28AL  L 6512.5    5                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6564.1    5                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6568.6    4                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6571.6    6                                                            
+ 28ALX L XREF=CD                                                                
+ 28AL  L 6584                                                                   
+ 28ALX L XREF=CE                                                                
+ 28AL  L 6623.06    4(1+ TO 4+)                                                 
+ 28ALX L XREF=BD                                                                
+ 28AL cL J$|g rays to 3+ and 2+                                                 
+ 28AL  G 6591.61   4      86  5                                                 
+ 28AL  G 6621.79   18    100 11                                                 
+ 28AL  L 6651.14    5(1 TO 2)-                                                  
+ 28ALX L XREF=BE                                                                
+ 28AL cL J$L=1 in (d,{+3}He)                                                    
+ 28AL  G 4511.86    5    35   2                                                 
+ 28AL  G 5277.56   16     8.8 4                                                 
+ 28AL  G 6619.59   14   100   8                                                 
+ 28AL  L 6671.1    9                                                            
+ 28ALX L XREF=CD                                                                
+ 28AL  L 6720.3    5                                                            
+ 28ALX L XREF=CE                                                                
+ 28AL  L 6756.68    5(2+,3)                                                     
+ 28ALX L XREF=B                                                                 
+ 28AL cL J$|g rays to 2+, 4+, 2- states                                         
+ 28AL  G 2881.2    3       31 6                                                 
+ 28AL  G 3409.2    3       27 3                                                 
+ 28AL  G 3768.6    4       15 2                                                 
+ 28AL  G 4101.7    5      19  6                                                 
+ 28AL2 G FL=2656.30                                                             
+ 28AL  G 4270.1    3      63 8                                                  
+ 28AL  G 4484.53   6       83 6                                                 
+ 28AL  G 6725.15   8      100 6                                                 
+ 28AL  L 6772.8    9                                                            
+ 28ALX L XREF=CD                                                                
+ 28AL  L 6787.6    6                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6809.2    9                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6826.0    5                                                            
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6835      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6853      10                                                           
+ 28ALX L XREF=CD                                                                
+ 28AL  L 6893.695  23(2+,3)                                                     
+ 28ALX L XREF=BC                                                                
+ 28AL cL J$|g rays to 2+, 2-, 3+, 4+ states                                     
+ 28AL  G 2128.81   7       89 5                                                 
+ 28AL  G 3016.7     7      16 5                                                 
+ 28AL  G 3222.83   12   12.9 8                                                  
+ 28AL  G    4237.4310   15.8 13                                             &   
+ 28AL2 G FL=2656.30                                                             
+ 28AL  G 4621.47    5      50 3                                                 
+ 28AL  G 4754.24    4     100 5                                                 
+ 28AL  G 5879.03   24     6.8 5                                                 
+ 28AL  G 6862.22    4      46 2                                                 
+ 28AL  L 6911      8                                                            
+ 28ALX L XREF=D                                                                 
+ 28AL  L 6931      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 6967      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 7022      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 7087      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 7118      10(1,2,3)+                                                   
+ 28ALX L XREF=CD(7133)                                                          
+ 28AL cL J$L=2 in ({+3}He,p)                                                    
+ 28AL  L 7146      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 7176.47    5(1+,2+,3+)                                                 
+ 28ALX L XREF=BC                                                                
+ 28AL cL J$|g rays to 1+ and 3+ states                                          
+ 28AL  G 5802.76   10    26.315                                                 
+ 28AL  G 6161.8    3     9.8 15                                                 
+ 28AL  G 7175.53   5    100  5                                                  
+ 28AL  L 7194      8                                                            
+ 28ALX L XREF=D                                                                 
+ 28AL  L 7243      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 7258      8                                                            
+ 28ALX L XREF=D                                                                 
+ 28AL  L 7269.47    6(2+,3+,4+)                                                 
+ 28ALX L XREF=BC                                                                
+ 28AL cL J$|g ray feeding 2+ to 4+ states                                       
+ 28AL  G 3023.8    8     33  13                                                 
+ 28AL  G    3598.6612    100 7                                                  
+ 28AL  G 4613.2    4     10.713                                                 
+ 28AL  G 5130.40   15    71  6                                                  
+ 28AL  G 6255.05   23    9.3  7                                                 
+ 28AL  G 7237.68   8      58  3                                                 
+ 28AL  G 7268.44   14    25.313                                                 
+ 28AL  L 7318      8                                                            
+ 28ALX L XREF=D                                                                 
+ 28AL  L 7341      10                                                           
+ 28ALX L XREF=CD                                                                
+ 28AL  L 7408.77   11 (1+ TO 4+)                                                
+ 28ALX L XREF=C                                                                 
+ 28AL cL J$|g rays to 2+ and 3+ states                                          
+ 28AL  G 7377.0    3  32      3                                             V   
+ 28AL  G 7407.73   11 100     8                                             V   
+ 28AL  L 7444      10                                                           
+ 28ALX L XREF=CD                                                                
+ 28AL  L 7457      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 7502      10                                                           
+ 28ALX L XREF=CD                                                                
+ 28AL  L 7592      10                                                           
+ 28ALX L XREF=CD                                                                
+ 28AL  L 7654      10                                                           
+ 28ALX L XREF=C                                                                 
+ 28AL  L 7669      10                                                           
+ 28ALX L XREF=CD                                                                
+ 28AL  L 7700      10                                                           
+ 28ALX L XREF=C                                                                 
+
+

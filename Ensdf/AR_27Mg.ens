@@ -1,0 +1,297 @@
+ 27MG    ADOPTED LEVELS, GAMMAS                                  11NDS    201108
+ 27MG  H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CIT=NDS 112, 1875 (2011)$           
+ 27MG2 H CUT=30-Nov-2010$                                                       
+ 27MG  Q 2610.09   116443.39 4 15015   4 -11857.4912   2011AUZZ,2003AU03        
+ 27MG c                                                                         
+ 27MG c  1999Wa21: Fragmentation of {+50}Ti on {+9}Be, E=330 MeV/u, at GSI;     
+ 27MG2c  secondary beam of {+27}Mg bombarded Pb and C targets; deduced          
+ 27MG3c  excitation cross sections for the 1698 keV level of {+27}Mg are 43(9)  
+ 27MG4c  mb and 5.4(15) mb for Pb and C targets, respectively.                  
+ 27MG c                                                                         
+ 27MG c  Nuclear effective root-mean-square (rms) radius measurement: 1998Su07. 
+ 27MG c                                                                         
+ 27MG cG E$From (d,p|g), except otherwise noted.                                
+ 27MG cG E(A)$Weighted average of data from {+27}Na |b{+-} decay and (n,|g)     
+ 27MG cG E(B)$From {+27}Na |b{+-} decay                                         
+ 27MG cG E(C)$From (n,|g)                                                       
+ 27MG cG RI$Branching from (d,p|g) or (n,|g) (overall, the data from both       
+ 27MG2cG reactions are in good agreement), except otherwise noted.              
+ 27MG cG RI(D)$From (n,|g)                                                      
+ 27MG cG M,MR$From (d,p|g)                                                      
+ 27MG cL E$Up to 5925 keV from a least-squares fit to |g-ray energies, |DE=1 keV
+ 27MG2cL is assumed when not given. Many Adopted |g-rays depopulating up to 5925
+ 27MG3cL keV level are experimental. Above this level, measured |g-ray energies 
+ 27MG4cL were not available. Thus level energies quoted here are from (d,p|g).  
+ 27MG5cL Please see comments in the |g-ray Table of the (d,p|g) dataset.        
+ 27MG cL T$From (d,p|g)                                                         
+ 27MG  XA27NA B- DECAY                                                          
+ 27MG  XB9BE(28MG,27MGG),9BE(50TI,XG)                                           
+ 27MG  XC25MG(T,P)                                                              
+ 27MG  XD26MG(N,G) E=TH                                                         
+ 27MG  XE26MG(D,PG)                                                             
+ 27MG  XF28SI(MU-,NUPG)                                                         
+ 27MG PN                                                                     6  
+ 27MG  L 0.0           1/2+              9.458 M   12                           
+ 27MG2 L %B-=100$XREF=ABCDEF                                                    
+ 27MG2 L MOMM1=-0.04107 15                                                      
+ 27MG cL J$L=0 in (d,p) and supported by |m=-0.04107 {I15} (2008Ko05)           
+ 27MG cL T$weighted average of 9.51 min 3 (1953Da24), 9.39 min 3                
+ 27MG2cL (1953Lo09), 9.45 min (1953Sa11), 9.46 min 2                            
+ 27MG3cL (1959Po64), 9.462 min 12 (1970Re13).                                   
+ 27MG cL MOMM1$Laser and |b{+-} Nuclear Magnetic Resonance (NMR) spectroscopy   
+ 27MG2cL (2008Ko05).                                                            
+ 27MG  L 984.88     53/2+              0.97 PS   24                             
+ 27MG2 L XREF=ABCDEF                                                            
+ 27MG cL J$L=2 in (d,p), 984.88|g M1+E2 to 1/2+                                 
+ 27MG  G 984.88    8 100       M1+E2     +0.22   2                          A   
+ 27MGB G BM1W=0.023 6$BE2W=6.0 19                                               
+ 27MG  L 1698.52    85/2+              0.81 PS   17                             
+ 27MG2 L XREF=ABCDEF                                                            
+ 27MG cL J$L=2 in (d,p) and 1698.46|g E2 to 1/2+                                
+ 27MG  G 713.7        2.7    LT                                             C   
+ 27MG2 G FLAG=D                                                                 
+ 27MG  G 1698.46   23 100    6 E2                                           A   
+ 27MG2 G FLAG=D                                                                 
+ 27MGB G BE2W=10.1 23                                                           
+ 27MG  L 1940.23    65/2+              0.65 PS   14                             
+ 27MG2 L XREF=ABCDEF                                                            
+ 27MG cL J$L=2 in (d,p), 955.4|g M1+E2 to 3/2+, 1939.98|g to 1/2+               
+ 27MG  G 241.6     4  12     4                                              C   
+ 27MG2 G FLAG=D                                                                 
+ 27MG  G 955.42    7  100    12 M1+(E2)  -0.07   6                          A   
+ 27MG2 G FLAG=D                                                                 
+ 27MGB G BM1W=0.026 7$BE2W=0.8 +13-8                                            
+ 27MG  G 1939.98   10 35     8                                              A   
+ 27MG2 G FLAG=D                                                                 
+ 27MG  L 3109.73   21(7/2+)             71 FS    18                             
+ 27MG2 L XREF=AEF                                                               
+ 27MG cL J$1169.4|g M1+E2 to 5/2+. From (d,p) and shell model calculation       
+ 27MG2cL (1977Br07).                                                            
+ 27MG  G 1169.40   25  100   13  (M1+E2) -0.23   +19-6                      B   
+ 27MGB G BM1W=(0.18 5)$BE2W=(4.E+1 +6-4)                                        
+ 27MG  G 1411.5        4      3                                                 
+ 27MG  G 2124.8        4      3                                                 
+ 27MG  L 3427.4     3(5/2+,7/2+)        69 FS    34                             
+ 27MG2 L XREF=AE                                                                
+ 27MG cL J$1728.9|g D+Q to 5/2+, 2442.3|g to 3/2+                               
+ 27MG  G 317.5       3.4     17                                                 
+ 27MG  G 1486.9      5       3                                                  
+ 27MG  G 1728.9    5 64      9    D+(Q)  +0.05   +3-8                       B   
+ 27MG  G 2442.3    5 100     12                                             B   
+ 27MG  L 3476.34    71/2+               6.9 FS   LT                             
+ 27MG2 L XREF=BCDE                                                              
+ 27MG cL J$L=0 in (d,p)                                                         
+ 27MG  G 1777.5      1.0     10                                                 
+ 27MG  G 2490.8      2.0     10                                                 
+ 27MG  G 3476.19   9 100     13                                             C   
+ 27MG  L 3491.34   16 3/2+,5/2+        9.7 FS    LT                             
+ 27MG2 L XREF=ADE                                                               
+ 27MG cL J$L=2 in (d,p)                                                         
+ 27MG  G 1792.8     3  30    9                                              A   
+ 27MG  G 2506.1     7  100   18                                             A   
+ 27MG  G 3490.8     5   98   36                                             A   
+ 27MG  L 3561.54    43/2-                 7 FS   LT                             
+ 27MG2 L XREF=BDE                                                               
+ 27MG cL J$L=1 in (d,p), 2576.5|g (E1) to 3/2+                                  
+ 27MG  G 1862.93   10 2.00   20                                             C   
+ 27MGF G FL=1698.52                                                             
+ 27MG  G 2576.50   6 6.5     11 (E1)                                        C   
+ 27MGF G FL=984.88                                                              
+ 27MGB G BE1W>0.00038                                                           
+ 27MG  G 3561.31   4 100.0   11                                             C   
+ 27MGF G FL=0.0                                                                 
+ 27MG  L 3760.9     6 5/2-,7/2-        0.42 PS   7                              
+ 27MG2 L XREF=E                                                                 
+ 27MG cL J$L=3 in (d,p)                                                         
+ 27MG  G 2062.5      100         D                                              
+ 27MG  L 3787.27    93/2+              17 FS     LT                             
+ 27MG2 L XREF=DE                                                                
+ 27MG cL J$L=2 in (d,p) and comparison with shell model calculation             
+ 27MG  G  676.5          6.3 20                                                 
+ 27MG  G 1846.95   18    33  6                                              C   
+ 27MG  G 2088.66   11    65  13                                             C   
+ 27MG  G 2801.3         4.0  20                                                 
+ 27MG  G 3787.05   15   100  13                                             C   
+ 27MG  L 3884.6     4(5/2+,9/2+)       0.5 PS    GT                             
+ 27MG2 L XREF=E                                                                 
+ 27MG cL J$1944|g to (3/2+,7/2+), 2186|g to 5/2+. Level meanlife precluded pure 
+ 27MG2cL quadrupole transition.                                                 
+ 27MG  G 457              7  4                                                  
+ 27MG  G 775              7  4                                                  
+ 27MG  G 1944           100  21                                                 
+ 27MG  G 2186          8.6   25                                                 
+ 27MG  L 4150.4     5(3/2+,5/2+)        7 FS     LT                             
+ 27MG2 L XREF=AE                                                                
+ 27MG cL J$L=2 in (d,p)                                                         
+ 27MG  G 2209.8          28.620  D+(Q)    -0.4    +4-3                          
+ 27MG  G 2451.8          75.520  D+Q      -0.23   +5-2                          
+ 27MG  G 3165.2           100 4  D+Q      +0.16   6                             
+ 27MG  L 4398.8     5 (5/2+,9/2+)      45 FS     24                             
+ 27MG2 L XREF=E                                                                 
+ 27MG cL J$2700|g to 5/2+, 1288.8|g to (3/2+,7/2+), 971.3|g to (5/2+,7/2+).     
+ 27MG2cL Level meanlife precluded pure quadrupole transition.                   
+ 27MG  G 514.2            15  5                                                 
+ 27MG  G 971.3             32 7                                                 
+ 27MG  G 1288.8           98 15 D+Q      -0.13   6                              
+ 27MG  G 2700.3          100 15                                                 
+ 27MG  L 4553.3     5(3/2+,5/2+)        9 FS     LT                             
+ 27MG2 L XREF=AE                                                                
+ 27MG cL J$L=2 in (d,p)                                                         
+ 27MG  G 1443.4            10 4                                                 
+ 27MG  G 2612.8           10019 D+Q      +0.42   19                             
+ 27MG  G 2854.9            19 8                                                 
+ 27MG  G 3568.2            4813                                                 
+ 27MG  G 4552.8            15 4                                                 
+ 27MG  L 4776.6     5(3/2,5/2,7/2)+    24 FS     LT                             
+ 27MG2 L XREF=AE                                                                
+ 27MG cL J$|g-ray feeding to 5/2+, (3/2+,7/2+), (5/2+,7/2+) states              
+ 27MG  G 892.1           48  14                                                 
+ 27MG  G 1349.2          14   9                                                 
+ 27MG  G 1666.7     9    66  14                                             B   
+ 27MG  G 2836.1     8   100  36                                             B   
+ 27MG  L 4828.17    5 1/2-,3/2-         7 FS     LT                             
+ 27MG2 L XREF=BDE                                                               
+ 27MG cL J$L=1 in (d,p)                                                         
+ 27MG  G 1266.65   18    11.110                                             C   
+ 27MG  G 1336.80   20     5.4 6                                             C   
+ 27MG  G 1351.86    8    10.510                                             C   
+ 27MG  G 3843.01    8     100 5                                             C   
+ 27MG  G 4827.67    6     70  4                                             C   
+ 27MG  L 4992.8     5 (5/2+)            7 FS     LT                             
+ 27MG2 L XREF=AE                                                                
+ 27MG cL J$L=(2) in (d,p), feeding from {+27}Na |b{+-} decay (J|p=5/2+)         
+ 27MG  G 1231.9            10 4                                                 
+ 27MG  G 1565.4             8 4                                                 
+ 27MG  G 1882.9            13 7                                                 
+ 27MG  G 3052.3             8 6                                                 
+ 27MG  G 4007.6    9     100 21                                             B   
+ 27MG  L 5028.84   241/2+              28 FS     LT                             
+ 27MG2 L XREF=DE                                                                
+ 27MG cL J$L=0 in (d,p)                                                         
+ 27MG  G 1467.3    5     41  13                                             C   
+ 27MG  G 1537              14 5                                                 
+ 27MG  G 1552.8    7       23 7                                             C   
+ 27MG  G 4043.6    3     100 21                                             C   
+ 27MG  L 5172.6     5(3/2,5/2)+        10 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG cL J$L=2 in (d,p)                                                         
+ 27MG  G 1022            11  4                                                  
+ 27MG  G 1386            22  7                                                  
+ 27MG  G 3474           100  20                                                 
+ 27MG  G 4187            38  7                                                  
+ 27MG  G 5172            51  9                                                  
+ 27MG  L 5296.8     6                  41 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG  G 1412            88  26                                                 
+ 27MG  G 1536            27  15                                                 
+ 27MG  G 2187            100 32                                                 
+ 27MG  G 3598            79  29                                                 
+ 27MG  L 5373.0     5 (5/2-)           16 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG cL J$L=(3) in (d,p), 1813|g D+Q to 3/2-, 4387|g to 3/2+                   
+ 27MG  G 1612              24 9                                                 
+ 27MG  G 1813              4411  D+Q     +0.4    +2-3                           
+ 27MG  G 1881              18 7  D+Q     +0.4    +5-3                           
+ 27MG  G 3674             10022  D+Q     -0.6    +5-3                           
+ 27MG  G 4387              3613                                                 
+ 27MG  L 5412.6     5                   7 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG  G 1528              11 7                                                 
+ 27MG  G 1985             7  4                                                  
+ 27MG  G 2303              15 4                                                 
+ 27MG  G 3472              8520                                                 
+ 27MG  G 3714             10024                                                 
+ 27MG  L 5422.3    10 1/2-,3/2-         7 FS     LT                             
+ 27MG2 L XREF=E                                                                 
+ 27MG cL J$L=1 in (d,p)                                                         
+ 27MG  G 4437           100.0                                                   
+ 27MG  L 5627.8     4(3/2,5/2)+         7 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG cL J$From L=2 in (d,p)                                                    
+ 27MG  G 800              2.6 6                                                 
+ 27MG  G 2152            12  5                                                  
+ 27MG  G 3687              7117                                                 
+ 27MG  G 3929              4312                                                 
+ 27MG  G 4642              10 5                                                 
+ 27MG  G 5627             10014                                                 
+ 27MG  L 5749.7     6  5/2 TO 9/2      17 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG cL J$|g-rays to 5/2+ and (7/2+)                                           
+ 27MG  G 2640             10026                                                 
+ 27MG  G 3809              5826                                                 
+ 27MG  G 4051              4214                                                 
+ 27MG  L 5764.9    10(3/2,5/2)+        17 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG cL J$L=2 in (d,p)                                                         
+ 27MG  G 4066           100                                                     
+ 27MG  L 5821.6     5(3/2,5/2)+         7 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG cL J$L=2 in (d,p)                                                         
+ 27MG  G 1671              14 4                                                 
+ 27MG  G 2330              14 6                                                 
+ 27MG  G 2394              18 8                                                 
+ 27MG  G 2712              46 8                                                 
+ 27MG  G 4123               8 4                                                 
+ 27MG  G 4836             10014                                                 
+ 27MG  L 5829.9     8                   82 FS    LT                             
+ 27MG2 L XREF=E                                                                 
+ 27MG  G 1431              3516                                                 
+ 27MG  G 2069             10031                                                 
+ 27MG  L 5906      7 (1/2,3/2)-                                                 
+ 27MG2 L XREF=E                                                                 
+ 27MG cL J$L=1 in (d,p)                                                         
+ 27MG  L 5925.81   23                  34 FS     28                             
+ 27MG2 L XREF=CDE                                                               
+ 27MG  G 3985.5     6      4911                                             C   
+ 27MG  G 4940.5     3      40 9                                             C   
+ 27MG  G 5924.9     4     10021                                             C   
+ 27MG  L 6009      2                    7 FS     LT                             
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6084      2                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6125      3                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6161      2                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6312      5                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6336      3                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6380      3                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 6508      3                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6651      3                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6721      4                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6811      3                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6859      2                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6921      3                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 6991      4                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 7013      5                                                            
+ 27MG2 L XREF=CE                                                                
+ 27MG  L 7147      2                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7278      3                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7505      3                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7530      3                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7690      3                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7700      3                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7859      4                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7927      5                                                            
+ 27MG2 L XREF=E                                                                 
+ 27MG  L 7976      4                                                            
+ 27MG2 L XREF=E                                                                 
+
+

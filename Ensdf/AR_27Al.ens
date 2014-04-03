@@ -1,0 +1,1077 @@
+ 27AL    ADOPTED LEVELS, GAMMAS                                  11NDS    201108
+ 27AL  H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CIT=NDS 112, 1875 (2011)$           
+ 27AL2 H CUT=30-Nov-2010$                                                       
+ 27AL  Q -4812.36  1013057.91128271.13 11-10091.8 1    2011AUZZ,2003AU03        
+ 27AL c  2008Ra27: {+24}Mg({+6}Li,2pn) - Identified 1014|g of {+27}Al.          
+ 27AL c  2007Be19: Measured elastic scattering cross-section of {+6}He+{+27}Al  
+ 27ALxc  system                                                                 
+ 27AL c  2004Va22: Measured |g-transition cross-section from 1.1 GeV protons    
+ 27AL2c  spallation on {+28}Si; 11.3(15), 11(8), and 6.7(14) mb for 841.5(1),   
+ 27AL3c  1015.0(4), and 2214.1(20) |g-transitions, respectively.                
+ 27AL c  1999Ta27: Measured photofission cross-section of {+27}Al to be 160(55) 
+ 27AL2c  |mb with a quasi-monoenergetic photon beam of 108 MeV Compton-edge     
+ 27AL3c  energy.                                                                
+ 27AL c  1991Ho09: {+26}Mg({+3}He,d), {+26}Mg(|a,t): yield ratios have been     
+ 27AL2c  measured for levels close above the proton threshold as an aid to L    
+ 27AL3c  value determination.                                                   
+ 27AL cG E$From (p,|g), except otherwise noted                                  
+ 27AL cG E(A),RI(A)$From {+27}Mg |b{+-} decay                                   
+ 27AL cG E(B),RI(B)$From {+24}Mg(|a,p|g)                                        
+ 27AL cG M$From angular correlation coefficient measurements or resonance data  
+ 27AL2cG analysis in (p,|g) and transition rate comparison of experimental and  
+ 27AL3cG calculated data in 1988Li31 ((p,|g) and (|a,p|g)), except otherwise    
+ 27AL4cG noted.                                                                 
+ 27AL cG MR$From 1988Li31, 1971Lu11, 1969Bi06, 1968Ha20, 1967Sh06, and          
+ 27AL2cG 1961Mc08, except otherwise noted. Sign convention as of the ENSDF      
+ 27AL3cG policy.                                                                
+ 27AL cG MR(C)     From 1971Ro22 ({+26}Mg(p,|g))                                
+ 27AL cG MR(D)     From 1974Ro24 ({+26}Mg(p,|g) and {+24}Mg(|a,p|g))            
+ 27AL cL E$Up to 10751 keV, weighted averages are taken of values from different
+ 27AL2cL reactions. Above 10751 keV, level energies are from (p,|g), except     
+ 27AL3cL otherwise noted.                                                       
+ 27AL cL E(Z)      From {+27}Mg |b{+-} decay                                    
+ 27AL cL T$From 1967Af03, 1968Ro14, 1968Sm02, 1971De24, 1977Si02, 1972Sh07,     
+ 27AL2cL 1971Ra13, 1986Ti02, 1982An11, 1982Sm04, 1982El04, 1987Vo01, 1987Ra26.  
+ 27AL3cL Weighted average or individual precise values are adopted.             
+ 27AL2cL Resonance width |G from (p,|g) dataset.                                
+ 27AL cL J$J|p assignments for the 8287 keV level and above are from            
+ 27AL3cL |g-transition angular distribution, feeding, and |g-ray multipolarity  
+ 27AL4cL (1988Li31,1978Ma24). Additional arguments are given in the comment     
+ 27AL5cL section.                                                               
+ 27AL cL J(Y)$From (p,|g) angular correlation and secondary |g-ray angular      
+ 27AL2cL distribution (1988Li31-(|a,p|g)).                                      
+ 27AL cL J(X)$From |g(|q) (1988Li31).                                           
+ 27AL  XA27MG B- DECAY                                                          
+ 27AL  XB27SI EC DECAY                                                          
+ 27AL  XL28P B+P DECAY                                                          
+ 27AL  XK12C(16O,PG)                                                            
+ 27AL  XC24MG(A,PG)                                                             
+ 27AL  XD26MG(P,G)                                                              
+ 27AL  XI26MG(D,NG),26MG(D,N)                                                   
+ 27AL  XG26MG(3HE,D)                                                            
+ 27AL  XF27AL(G,G')                                                             
+ 27AL  XJ27AL(E,E')                                                             
+ 27AL  XE27AL(P,P')                                                             
+ 27AL  XH27AL(A,A')                                                             
+ 27AL PN                                                                     6  
+ 27AL  L 0.0         5/2+              STABLE                                   
+ 27AL2 L XREF=ABCDEFGHIJL                                                       
+ 27ALB L MOMM1=+3.6415069 7$MOME2=+0.1466 10                                    
+ 27AL cL J         Measured by non-nuclear methods: Atomic and Molecular Beams, 
+ 27AL2cL Nuclear Magnetic Resonance, Electron Scattering (1975St01), etc.       
+ 27AL3cL L=2 ({+3}He,d)                                                         
+ 27AL cL MOMM1,MOME2$From 2005St24                                              
+ 27AL  L 843.76    9 1/2+              35 PS     1                          Z   
+ 27AL2 L XREF=ABCDEGIJ                                                          
+ 27AL cL J         L=0 and 843|g E2 to 5/2+                                     
+ 27AL  G 843.76    10 100       E2                                          A   
+ 27ALB G BE2W=7.86 23                                                           
+ 27AL cG M$From |a=0.000046 {I3} (1970Ro11 - (p,p'|g))                          
+ 27AL  L 1014.56   9 3/2+              1.49 PS   7                          Z   
+ 27AL2 L XREF=ABCDEIJK                                                          
+ 27AL cL J         L=2 (d,n) and 170.8|g M1+E2 to 1/2+                          
+ 27AL  G 170.82    10 3.05   7 M1+(E2)   +0.05   6                          A   
+ 27ALB G BM1W=0.09 4$BE2W=4.E+1 +10-4                                           
+ 27AL  G 1014.52   10 100.0  3 M1+E2     -0.351  12                         A   
+ 27ALB G BM1W=0.0122 8$BE2W=7.8 7                                               
+ 27AL  L 2212.01   10(7/2+)            26.6 FS    6                             
+ 27AL2 L XREF=BCDEFIJK                                                          
+ 27AL cL E$From (|g,|g')                                                        
+ 27AL cL J$2211|g M1+E2 to 5/2+                                                 
+ 27AL  G 2212.01   10 100      M1+E2     +0.468  9                              
+ 27ALB G BM1W=0.0627 15$BE2W=15.0 6                                             
+ 27AL  L 2734.9    7 5/2+               8.9 FS   12                             
+ 27AL2 L XREF=BCDEFIJK                                                          
+ 27AL cL J         L=2 (d,n) and 1720|g M1+E2 to 3/2+                           
+ 27AL  G 523.7     100.53    19                                                 
+ 27AL  G 1720.3     8100     3 M1+E2      +0.115  8                             
+ 27ALB G BM1W=0.36 6$BE2W=8.7 18                                                
+ 27AL  G 1891.0     82.38    19                                                 
+ 27AL  G 2734.7     829.2    14 D+Q      +0.19   3                              
+ 27AL  L 2982.00   5 3/2+              3.90 FS   9                              
+ 27AL2 L XREF=BCDEFGIJ                                                          
+ 27AL cL E         From (p,|g)                                                  
+ 27AL cL J         L=2 (d,n), ({+3}He,d). 2138|g to 1/2+, 2982|g D+Q to 5/2+    
+ 27AL cL T         From (|g,|g')                                                
+ 27AL  G 770.8      70.21    LT                                                 
+ 27AL  G 1967.47    61.6     5                                                  
+ 27AL  G 2138.14    61.0     3                                                  
+ 27AL  G 2982.00   5 100     3 D+(Q)     -0.01    1                             
+ 27AL cG E         From (p,|g)                                                  
+ 27AL  L 3004.2    8 (9/2+)            59 FS     3                              
+ 27AL2 L XREF=BCDEFJK                                                           
+ 27AL cL J         3004|g E2 to 5/2+, 793|g D+Q to (7/2+)                       
+ 27AL  G 793.0     11 13.6   23 D+(Q)    -0.01   2                              
+ 27AL  G 1989.6     9 4.5    LT                                                 
+ 27AL  G 2160.3     9 0.9    LT                                                 
+ 27AL  G 3004.0     9 100    2  E2                                              
+ 27ALB G BE2W=7.1 4                                                             
+ 27AL  L 3680.4    9 1/2+              5.4 FS    12                             
+ 27AL2 L XREF=CDEIJ                                                             
+ 27AL cL J         L=0 (d,n)                                                    
+ 27AL  G 676.1     13 0.6    LT                                                 
+ 27AL  G 698.3     10 3.2    LT                                                 
+ 27AL  G 945.4     12 0.5    LT                                                 
+ 27AL  G 1469.2    11 0.5    LT                                                 
+ 27AL  G 2665.8    10 60     3                                                  
+ 27AL  G 2836.4    10 100    3                                                  
+ 27AL  G 3680.1    10 1.9    6                                                  
+ 27AL  L 3956.8    4 3/2+              2.5 FS    2                              
+ 27AL2 L XREF=CDEFIJ                                                            
+ 27AL cL J$L=2 (d,n), 3956|g to 5/2+, 3112.8|g to 1/2+, (p,|g) resonance level  
+ 27AL2cL |g-feeding (1978Ma24)                                                  
+ 27AL  G 276.3     10   2.3  LT                                                 
+ 27AL  G 952.5      9  0.7   LT                                                 
+ 27AL  G 974.7      5  1.0   LT                                                 
+ 27AL  G 1221.8     9     6.617                                                 
+ 27AL  G 1745.6     8  0.6   LT                                                 
+ 27AL  G 2942.1     5     4.314                                                 
+ 27AL  G 3112.8     5     5.317                                                 
+ 27AL  G 3956.4     5   100.023                                                 
+ 27AL  L 4054.6    5 1/2-              7.3 FS    12                             
+ 27AL2 L XREF=CDEIJK                                                            
+ 27AL cL J$L=1 (1969Al02) and from (p,|g) resonance level |g-feeding (1978Ma24) 
+ 27AL  G 374.1     11  0.6   LT                                                 
+ 27AL  G 1050.3    10  0.3   LT                                                 
+ 27AL  G 1072.5     6  0.8   LT                                                 
+ 27AL  G 1319.6     9  0.3   LT                                                 
+ 27AL  G 1843.4     8  2.3   LT                                                 
+ 27AL  G 3039.9     6  16.3  23                                                 
+ 27AL  G 3210.6     6   100.023                                                 
+ 27AL  G 4054.2     6   2.3  LT                                                 
+ 27AL  L 4410.2    4 5/2+              1.2 FS    1                              
+ 27AL2 L XREF=CDEFIJ                                                            
+ 27AL cL J         L=2 (d,n), 4409.8|g M1+E2 to 5/2+, 3395.5|g M1+E2 to 3/2+    
+ 27AL  G 453.3      6   1.7  LT                                                 
+ 27AL  G 729.7     10   1.6  LT                                                 
+ 27AL  G 1405.9     9  0.7   LT                                                 
+ 27AL  G 1428.1     5  0.5   LT                                                 
+ 27AL  G 1675.2     9     5.318                                                 
+ 27AL  G 2199.0     8     8.818                                                 
+ 27AL  G 3395.5     5      61 5M1+(E2)   -0.01   3                              
+ 27ALB G BM1W=0.160 18$BE2W=0.01 +5-8                                           
+ 27AL  G 3566.1     5   1.9  LT                                                 
+ 27AL  G 4409.8     5     100 5M1+E2     -0.04   2                              
+ 27ALB G BM1W=0.122 12$BE2W=0.05 +5-5                                           
+ 27AL  L 4510.3    5 (11/2+)           222 FS    14                             
+ 27AL2 L XREF=CDEIJK                                                            
+ 27AL cL J         2299|g to (7/2+), 1506|g M1+E2 to (9/2+)                     
+ 27AL  G 553.4      7   5.1  LT                                                 
+ 27AL  G 829.8     11   7.8  LT                                                 
+ 27AL  G 1506.0    10      30 3 M1+E2    +0.59   2                              
+ 27ALB G BM1W=0.0044 7$BE2W=3.6 6                                               
+ 27AL  G 1528.2     6   5.2  LT                                                 
+ 27AL  G 1775.3     9   7.8  LT                                                 
+ 27AL  G 2299.0     8     100 3(E2)                                             
+ 27ALB G BE2W=5.6 7                                                             
+ 27AL  G 3495.6     6   5.2  LT                                                 
+ 27AL  G 3666.2     6   5.2  LT                                                 
+ 27AL  G 4509.8     6   1.0  LT                                                 
+ 27AL  L 4580.0    8  (7/2+)           5.3 FS     6                             
+ 27AL2 L XREF=CDEFIJK                                                           
+ 27AL cL J         M1+E2 |g-transitions to 5/2+ and (7/2+)                      
+ 27AL  G 623.1      9   5.6  LT                                                 
+ 27AL  G 899.5     13   1    LT                                                 
+ 27AL  G 1575.7    12   5.6  LT                                                 
+ 27AL  G 1597.9     9   2.8  LT                                                 
+ 27AL  G 1845.0    11    10.621M1+E2     -0.003                                 
+ 27ALB G BM1W=0.053 8$BE2W=0.00075 12                                           
+ 27AL  G 2368.7    11      24 3 M1+E2    -0.08    6                             
+ 27ALB G BM1W=0.050 9$BE2W=0.3 +5-3                                             
+ 27AL  G 3565.2     9     6.321                                                 
+ 27AL  G 3735.9     9   1.5  LT                                                 
+ 27AL cG RI$From 1969Ca04: {+24}Mg(|a,p|g)                                      
+ 27ALB G BE2W=1.7 6                                                             
+ 27AL  G 4579.5     9     100 4 M1+E2    +0.21   2                              
+ 27ALB G BM1W=0.028 4$BE2W=0.31 7                                               
+ 27AL  L 4811.6    5  5/2+             1.5 FS     2                             
+ 27AL2 L XREF=CDFIJ                                                             
+ 27AL cL J$M1+E2 |g-transitions to 5/2+, 3/2+, (7/2+) and (p,|g) resonance level
+ 27AL2cL |g-feeding strength (1982Sm04)                                         
+ 27AL  G 854.7      7   1.1  LT                                                 
+ 27AL  G 1131.1    11   1.1  LT                                                 
+ 27AL  G 1807.3    10   4.4  LT                                                 
+ 27AL  G 1829.5     6      13 5M1+E2     -0.06   3                              
+ 27ALB G BM1W=0.14 6                                                            
+ 27AL  G 2076.6     9   2.2  LT                                                 
+ 27AL  G 2600.3     8      38 5M1+E2     +0.19   6                              
+ 27ALB G BM1W=0.13 3$BE2W=3.8 25                                                
+ 27AL  G 3796.8     6     100 5 M1+E2    -0.08   4                              
+ 27ALB G BM1W=0.117 18$BE2W=0.3 3                                               
+ 27AL  G 3967.5     6   4.4  LT                                                 
+ 27AL  G 4811.1     6      71 5 M1+E2    -0.47   6                              
+ 27ALB G BM1W=0.034 6$BE2W=1.7 5                                                
+ 27AL  L 5155.6    8 3/2-              2.4 FS     3                             
+ 27AL2 L XREF=CDFIJ                                                             
+ 27AL cL J$From (e,e') measurement (1980Hi03) of 1p-shell proton hole strength. 
+ 27AL2cL L=1 (1970Lu07)                                                         
+ 27AL  G 1198.7     9   1.2  LT                                                 
+ 27AL  G 1475.1    13   2.5  LT                                                 
+ 27AL  G 2151.3    12   2.5  LT                                                 
+ 27AL  G 2173.5     9   3.8  LT                                                 
+ 27AL  G 2420.5    11   2.5  LT                                                 
+ 27AL  G 2944.3    11   6.2  LT                                                 
+ 27AL  G 4140.8     9      25 4                                                 
+ 27AL  G 4311.4     9   6.3  LT                                                 
+ 27AL  G 5155.0     9     100 4                                                 
+ 27AL  L 5248.0    6 5/2+              4 FS      LT                             
+ 27AL2 L XREF=CDIJ                                                              
+ 27AL cL J$L=2 ({+3}He,d)-1970Lu07; 4233|g D+Q to 3/2+ and (p,|g) resonance     
+ 27AL2cL level |g-feeding strength (1978Ma24).                                  
+ 27AL  G 1291.1     8   4.7  14                                                 
+ 27AL  G 1567.5    11   2.8  LT                                                 
+ 27AL  G 2243.7    11   1.4  LT                                                 
+ 27AL  G 2265.8     7     2.5 4                                                 
+ 27AL  G 2512.9    10     5.614                                                 
+ 27AL  G 3036.7     9      22 3                                                 
+ 27AL  G 4233.1     7     100 4 D+Q      +0.03   1                              
+ 27AL  G 4403.8     7   1.7  LT                                                 
+ 27AL  G 5247.4     7   1.9  6                                                  
+ 27AL  L 5419.9    9 (9/2+)            14 FS     LT                             
+ 27AL2 L XREF=CDEJ                                                              
+ 27AL cL J$From resonance level |g-transition feeding to this level (1988Li31   
+ 27AL2cL - (|a,p|g)).                                                           
+ 27AL  G 1739.4    13   2.3  LT                                                 
+ 27AL  G 2415.5    13   4.6  LT                                                 
+ 27AL  G 2437.7    10   3.5  LT                                                 
+ 27AL  G 2684.8    12     9.211                                                 
+ 27AL  G 3208.5    11   100   3M1+E2     +0.29   4                              
+ 27ALB G BM1W>0.035$BE2W>1.2                                                    
+ 27AL  G 5419.3    10     6.923                                                 
+ 27AL  L 5432.8    10 7/2              7 FS      2                          Y   
+ 27AL2 L XREF=CDEFIJ                                                            
+ 27AL  G 2428.4    13    69  13 D+Q      +0.06   4                              
+ 27AL  G 2697.7    13   13   LT                                                 
+ 27AL  G 3221.4    12    48  13                                                 
+ 27AL  G 5432.2    11   100  13                                                 
+ 27AL  L 5438.4    8 5/2-               6 FS     4                              
+ 27AL2 L XREF=CDEFJ                                                             
+ 27AL cL J$From (p,|g) resonance level transition strength (1982Sm04) to this   
+ 27AL2cL level.                                                                 
+ 27AL  G 2434.0    12   1.2  LT                                                 
+ 27AL  G 2456.2     9     4.812                                                 
+ 27AL  G 2703.3    11    15.724                                                 
+ 27AL  G 3227.0    11   2.4  LT                                                 
+ 27AL  G 4423.5     9   1.2  LT                                                 
+ 27AL  G 4594.2     9   3.6  LT                                                 
+ 27AL  G 5437.8     9   100.024                                                 
+ 27AL  L 5499.8    8 11/2+              7 FS     LT                         Y   
+ 27AL2 L XREF=CDEIJ                                                             
+ 27AL  G 989.4     10     5.314                                                 
+ 27AL  G 1542.9     9   2.6  LT                                                 
+ 27AL  G 1819.3    13   2.6  LT                                                 
+ 27AL  G 2495.4    12     100 3M1+E2     +0.29   2                              
+ 27ALB G BM1W>0.13$BE2W>8.2                                                     
+ 27AL  G 2517.6     9   2.6  LT                                                 
+ 27AL  G 2764.7    11   6.5  LT                                                 
+ 27AL  G 3288.4    11      26 3                                                 
+ 27AL  G 4484.9     9   2.6  LT                                                 
+ 27AL  G 4655.6     9   3.9  LT                                                 
+ 27AL  G 5499.1     9   2.6  LT                                                 
+ 27AL  L 5550.9    5 5/2               2.6 FS     5                             
+ 27AL2 L XREF=CDEFIJ                                                            
+ 27AL cL J$From resonance level transition strength calculation                 
+ 27ALxcL (1982Sm04-(p,|g))                                                      
+ 27AL  G 1594.0     7   4    LT                                                 
+ 27AL  G 1870.4    11   4.6  LT                                                 
+ 27AL  G 2546.5    10   9.3  LT                                                 
+ 27AL  G 2568.7     6     7.3 7                                                 
+ 27AL  G 2815.8     9     4.5 7                                                 
+ 27AL  G 3339.5     8     8.1 7                                                 
+ 27AL  G 4536.0     6    13.2 7                                                 
+ 27AL  G 4706.6     6   4    LT                                                 
+ 27AL  G 5550.2     6   100.020                                                 
+ 27AL  L 5667.3    12 9/2+             11 FS     3                              
+ 27AL2 L XREF=CDEIJ                                                             
+ 27AL cL J$From angular distribution measurement of primary |g-transitions      
+ 27AL2cL (1971De24-(|a,p|g))                                                    
+ 27AL  G 1156.9    14      20 8 (M1)                                            
+ 27ALB G BM1W=0.14 7                                                            
+ 27AL  G 2662.9    15     10013 (M1+E2)  -0.17   5                              
+ 27ALB G BM1W=0.057 19$BE2W=1.2 8                                               
+ 27AL  G 5666.6    13      6213(E2)                                             
+ 27ALB G BE2W=0.56 20                                                           
+ 27AL  L 5751.6    101/2+              10 FS     LT                             
+ 27AL2 L XREF=CDEI                                                              
+ 27AL cL J         L=0 (d,n)                                                    
+ 27AL  G 1794.7    11      17 6                                                 
+ 27AL  G 2071.1    14      37 6                                                 
+ 27AL  G 2747.2    13   11.4 LT                                                 
+ 27AL  G 2769.4    11      83 6                                                 
+ 27AL  G 3016.5    13   2.8  LT                                                 
+ 27AL  G 3540.2    12   2.8  LT                                                 
+ 27AL  G 4736.7    11      49 6                                                 
+ 27AL  G 4907.3    11     100 6                                                 
+ 27AL  G 5750.9    11   14.3 LT                                                 
+ 27AL  L 5827.0    8 3/2-              21 FS     LT                             
+ 27AL2 L XREF=CDEIJ                                                             
+ 27AL cL J$From resonance level transition strength calculation                 
+ 27ALxcL (1982Sm04-(p,|g))                                                      
+ 27AL  G 1870.1     9     2.7 8                                                 
+ 27AL  G 2146.5    13      11 3                                                 
+ 27AL  G 2822.6    12   2.7  LT                                                 
+ 27AL  G 2844.8     9   1.3  LT                                                 
+ 27AL  G 3091.9    11   1.0  LT                                                 
+ 27AL  G 3615.6    11   2.7  LT                                                 
+ 27AL  G 4812.0     9     100 3                                                 
+ 27AL  G 4982.7     9   4    LT                                                 
+ 27AL  G 5826.3     9      20 3                                                 
+ 27AL  L 5960.3    7  (7/2)            1.7 FS    12                             
+ 27AL2 L XREF=CDEFIJ                                                            
+ 27AL cL J$|g-transitions to 5/2+, (7/2+)                                       
+ 27AL  G 1148.6     9       8 3                                                 
+ 27AL  G 1550.0     9       5 3                                                 
+ 27AL  G 2978.1     8      13 6                                                 
+ 27AL  G 3225.1    10      79 8                                                 
+ 27AL  G 3748.9    10     10011  M1+(E2) -0.09   10                             
+ 27AL  G 5959.5     8      49 8  M1+E2   +0.16   2                              
+ 27AL  L 6080.8    9 3/2                3.3 FS    8                             
+ 27AL2 L XREF=CDEFI                                                             
+ 27AL cL J$From resonance level transition strength calculation                 
+ 27ALxcL (1982Sm04-(p,|g))                                                      
+ 27AL  G 2123.9    10       9 3                                                 
+ 27AL  G 2400.2    13   7.1  LT                                                 
+ 27AL  G 3076.4    13   5.7  LT                                                 
+ 27AL  G 3098.6    10   5.7  LT                                                 
+ 27AL  G 5065.8    10      34 3                                                 
+ 27AL  G 5236.4    10   5.7  LT                                                 
+ 27AL  G 6080.0    10     100 5                                                 
+ 27AL  L 6115.8    6 5/2                                                    Y   
+ 27AL2 L XREF=CDEI                                                              
+ 27AL  G 960.1     11      10 5                                                 
+ 27AL  G 2158.9     8   6.6  LT                                                 
+ 27AL  G 3111.4    11   4.9  LT                                                 
+ 27AL  G 3133.6     7      1810                                                 
+ 27AL  G 3380.6    10   6.6  LT                                                 
+ 27AL  G 3904.3     9      3614                                                 
+ 27AL  G 5100.8     7     10017  D+(Q)   +0.03   3                              
+ 27AL  G 5271.4     7   3.3  LT                                                 
+ 27AL  L 6158.4    7 3/2-              14 FS     LT                             
+ 27AL2 L XREF=CDEHIJ                                                            
+ 27AL cL J$L=1 (d,n), and anisotrophy of 5314|g excludes 1/2- (1978Ma24)        
+ 27AL  G 2477.8    12  0.7   LT                                                 
+ 27AL  G 3154.0    11   1    LT                                                 
+ 27AL  G 3176.1     8     2.0 7                                                 
+ 27AL  G 3423.2    10     6.814                                                 
+ 27AL  G 3946.9    10   5.4  LT                                                 
+ 27AL  G 5143.4     8      15 3                                                 
+ 27AL  G 5314.0     8     100 3                                                 
+ 27AL  G 6157.6     8     9.514                                                 
+ 27AL  L 6284.7    15 (7/2+)           4.9 FS    21                             
+ 27AL2 L XREF=CDEFI                                                             
+ 27AL cL J$D+Q transitions to 5/2+,(7/2+); |g-transitions to 9/2+               
+ 27AL  G 864.7     18     3.417                                                 
+ 27AL  G 1874.4    16       7 4                                                 
+ 27AL  G 3280.2    18      14 9                                                 
+ 27AL  G 4073.2    17      42 7 D+Q      -0.40   8                              
+ 27AL  G 6283.9    16     100 9 D+Q      +0.06   3                              
+ 27AL  L 6462.8    13 5/2              0.78 FS   8                          X   
+ 27AL2 L XREF=CDEF                                                              
+ 27AL  G 3480.5    14     7.124                                                 
+ 27AL  G 5447.7    14      12 4                                                 
+ 27AL  G 6461.9    14     100 5  D+(Q)   +0.03   3                              
+ 27AL  L 6477.3    9 (7/2)-            1.8 FS    3                              
+ 27AL2 L XREF=CDEFHIJ                                                           
+ 27AL cL J$L=3 (d,n), and (E1+M2) transitions to 5/2+, (7/2+)                   
+ 27AL  G 2067.0    10     4.616                                                 
+ 27AL  G 3742.1    12    30.816 (E1+(M2))-0.035  35                         C   
+ 27ALB G BE1W=0.0016 3$BM2W=0.6 +13-6                                           
+ 27AL  G 4265.8    11    18.516 (E1+M2)  +0.07   9                          C   
+ 27ALB G BE1W=0.00064 13$BM2W=0.8 +21-8                                         
+ 27AL  G 6476.4    10     100 3 (E1+M2)  +0.074  15                         C   
+ 27ALB G BE1W=0.00099 17$BM2W=0.6 3                                             
+ 27AL  L 6512.2    11 9/2              9.7 FS    21                         Y   
+ 27AL2 L XREF=CDEJ                                                              
+ 27AL  G 2001.8    13     100 9 D+Q      +0.09   4                              
+ 27AL  G 3507.7    14      66 9 D+(Q)    -0.09   13                             
+ 27AL  G 4300.7    13      47 9                                                 
+ 27AL  L 6533      1 7/2+               2.1 FS   15                         X   
+ 27AL2 L XREF=CDEFIJ                                                            
+ 27AL  G 1100.1    15       9 3                                                 
+ 27AL  G 1952.9    13      40 9 D+(Q)    -0.16   15                             
+ 27ALB G BM1W=0.20 15$BE2W=7 +15-7                                              
+ 27AL  G 3528.5    13      4312                                                 
+ 27AL  G 3797.8    13      43 9                                                 
+ 27AL  G 4321.5    12     10018 D+(Q)    -0.2    2                              
+ 27ALB G BM1W=0.05 4$BE2W=0.5 +11-5                                             
+ 27AL  G 6532.1    11      5112 D+Q        10    GT                             
+ 27AL  L 6605.1    9 3/2-              10 FS     LT                             
+ 27AL2 L XREF=CDEIJ                                                             
+ 27AL cL J$L=1 (d,n), and from feeding |g-transition strength from resonance    
+ 27AL2cL level (1982Sm04)                                                       
+ 27AL  G 2924.5    13      6614                                                 
+ 27AL  G 3622.8    10   6.8  LT                                                 
+ 27AL  G 5760.6    10     10018                                                 
+ 27AL  G 6604.2    10      3416                                                 
+ 27AL  L 6651.3    7 5/2-              0.55 FS   3                              
+ 27AL2 L XREF=CDEFHIJ                                                           
+ 27AL cL J$L=3 ({+3}He,d) (1970Lu07), and 6650|g (E1+M2) to 5/2+                
+ 27AL  G 2970.7    12   2.3  LT                                                 
+ 27AL cG E,RI$From 1969Ca04: {+24}Mg(|a,p|g)                                    
+ 27AL  G 3646.8    11   3.4  LT                                                 
+ 27AL cG RI$From 1969Ca04: {+24}Mg(|a,p|g)                                      
+ 27AL  G 3669.0     8   2.3  8                                                  
+ 27AL  G 3916.0    10   2.3  LT                                                 
+ 27AL cG RI$From 1969Ca04: {+24}Mg(|a,p|g)                                      
+ 27AL  G 4439.8    10   2.3  LT                                                 
+ 27AL cG RI$From 1969Ca04: {+24}Mg(|a,p|g)                                      
+ 27AL  G 5636.2     8    11  3                                                  
+ 27AL  G 5806.8     8   2.3  LT                                                 
+ 27AL cG RI$From 1969Ca04: {+24}Mg(|a,p|g)                                      
+ 27AL  G 6650.4     8   100  3 (E1+(M2)) +0.04   4                              
+ 27ALB G BE1W=0.0038 3$BM2W=0.6 +13-6                                           
+ 27AL cG MR        From 1978Ma24 ({+26}Mg(p,|g))                                
+ 27AL  L 6713      1 9/2+              7 FS      LT                         X   
+ 27AL2 L XREF=CDEIJ                                                             
+ 27AL  G 2132.9    13    14.114                                                 
+ 27AL  G 3708.5    13     100 5  D+(Q)   -0.06   7                              
+ 27AL  G 3977.7    13     7.014 (E2)                                            
+ 27ALB G BE2W>0.84                                                              
+ 27AL  G 4501.4    12    19.714 D                                               
+ 27AL  L 6765      1 5/2               14 FS     LT                             
+ 27AL2 L XREF=CDE                                                               
+ 27AL cL J$From feeding |g(|q) and depopulating |g-transitions (1988Li31)       
+ 27AL  G 2184.9    13      25 3                                                 
+ 27AL  G 2808.0    11      25 3                                                 
+ 27AL  G 3760.5    13     6  LT                                                 
+ 27AL  G 3782.7    11     100 8                                                 
+ 27AL  G 4029.7    13      61 6                                                 
+ 27AL  G 5749.8    11      53 3                                                 
+ 27AL  G 5920.5    11     6  LT                                                 
+ 27AL  G 6764.0    11    19   6                                                 
+ 27AL  L 6776.3    11 (3/2)            10 FS     LT                             
+ 27AL2 L XREF=CDEI                                                              
+ 27AL cL J$|g-transitions to 5/2+, 1/2+, 3/2+                                   
+ 27AL  G 2365.9    12    19  8                                                  
+ 27AL  G 3095.7    15    34  11                                                 
+ 27AL  G 3794.0    12    46  11                                                 
+ 27AL  G 5931.8    12    100 11                                                 
+ 27AL  G 6775.3    12     32 11                                                 
+ 27AL  L 6813.8    7 1/2+              10 FS     LT                             
+ 27AL2 L XREF=DEI                                                               
+ 27AL2 L  ISPIN=3/2                                                             
+ 27AL cL J$L=0 (d,n)                                                            
+ 27AL  G 3133.2    12   11.1 4                                                  
+ 27AL  G 3831.5     8   4.2  LT                                                 
+ 27AL  G 4078.5    10   2.8  LT                                                 
+ 27AL  G 4602.2    10   2.8  LT                                                 
+ 27AL  G 5798.6     8     100 4                                                 
+ 27AL  G 5969.3     8      28 4                                                 
+ 27AL  L 6820.7    13(3/2+,7/2+)                                                
+ 27AL2 L XREF=CDE                                                               
+ 27AL cL J$|g to 5/2+ and feeding from resonance level 7/2                      
+ 27AL  G 6819.7    14 100                                                       
+ 27AL  L 6947.9    19 11/2+            14 FS     LT                         Y   
+ 27AL2 L XREF=CEJ                                                               
+ 27AL  G 1448       3      17 3 D+Q      +0.43   18                             
+ 27AL  G 1527       3     3.016                                                 
+ 27AL  G 3943       3     100 3 D+Q      +0.06   4                              
+ 27AL  G 4736       2      32 3                                                 
+ 27AL  G 6946.9    20   3    LT                                                 
+ 27AL  L 6992.9    9  (5/2 TO 9/2)                                              
+ 27AL2 L XREF=CDEJ                                                              
+ 27AL cL J$Assignment from 1988Li31. |g-rays to 5/2+, (7/2+). 1982Sm04 assigns  
+ 27AL2cL (3/2+,5/2+).                                                           
+ 27AL  G 4781.3    11     10024                                                 
+ 27AL  G 6991.9    10      6924                                                 
+ 27AL  L 6996      2 (1/2,3/2)-                                                 
+ 27AL2 L XREF=CDI                                                               
+ 27AL cL J$L=1 (d,n)                                                            
+ 27AL  G 390        3       5 3                                                 
+ 27AL  G 1840       3       9 5                                                 
+ 27AL  G 3039       3      16 9                                                 
+ 27AL  G 6151       3     10014                                                 
+ 27AL  L 7071.3    141/2+                                                       
+ 27AL2 L XREF=CDEI                                                              
+ 27AL cL J$L=0 (d,n)                                                            
+ 27AL  G 6056.1    15     10013                                                 
+ 27AL  G 6226.7    15      2513                                                 
+ 27AL  L 7173.6    139/2+               7 FS     LT                             
+ 27AL2 L XREF=CDEFI                                                             
+ 27AL cL J$From |g(|q) of primary |g-ray feeding (1971De24 - (|a,|g))           
+ 27AL  G 1740.7    17    55  26                                                 
+ 27AL  G 2593.4    16   100  42 D+Q      -0.17   10                             
+ 27AL  G 2663.1    14    52  26                                                 
+ 27AL  G 4169.0    16    90  48 D+(Q)    -0.05   11                             
+ 27AL  G 4962.0    15      2910                                                 
+ 27AL  L 7227.2    8 9/2-              14 FS     LT                             
+ 27AL2 L XREF=CDEHIJ                                                            
+ 27AL cL J$From resonance level feeding strength analysis (1978Ma24 - (p,|g));  
+ 27AL2cL D+Q transitions to (7/2+) and 9/2+                                     
+ 27AL  G 1807.2    13     2.814                                                 
+ 27AL  G 2647.0    12     6.914                                                 
+ 27AL  G 4222.6    12      27 3 D+(Q)    +0.06   15                         D   
+ 27AL  G 5015.6    11     100 4 D+Q      -0.05   3                          D   
+ 27AL  G 7226.1     9   4.1  LT                                                 
+ 27AL  L 7280.0    16(1/2+ TO 5/2+)                                             
+ 27AL2 L XREF=CDEI                                                              
+ 27AL cL J$|g-transition to 5/2+                                                
+ 27AL  G 7278.9    17100                                                        
+ 27AL  L 7289      2 (9/2,11/2,13/2)+  14 FS     LT                             
+ 27AL2 L XREF=CE                                                                
+ 27AL cL J$|g-transition to (11/2+)                                             
+ 27AL  G 2778       3100                                                        
+ 27AL  L 7400      1 11/2+             24 FS     10                         Y   
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 686.9     15      14 3M1+E2     -0.06   3                              
+ 27ALB G BM1W=0.14 7$BE2W=6 +7-6                                                
+ 27AL  G 1900.1    13      36 6M1+E2     -0.19   6                              
+ 27ALB G BM1W=0.017 8$BE2W=0.9 7                                                
+ 27AL  G 2819.8    13      9712E2                                               
+ 27ALB G BE2W=10 5                                                              
+ 27AL  G 2889.5    12      31 6M1+E2     -0.39   8                              
+ 27ALB G BM1W=0.0037 18$BE2W=0.36 21                                            
+ 27AL  G 4395.4    13     10012M1+E2     +0.67   7                              
+ 27ALB G BM1W=0.0027 12$BE2W=0.33 16                                            
+ 27AL  L 7413      1 7/2+              0.50 FS   4                          X   
+ 27AL2 L XREF=CEIJ                                                              
+ 27AL  G 5201.3    12      32 4M1+(E2)   -0.03   14                             
+ 27ALB G BM1W=0.088 15$BE2W=0.02 +15-16                                         
+ 27AL  G 7411.9    11     100 4M1+E2     +0.09   4                              
+ 27ALB G BM1W=0.095 11$BE2W=0.07 7                                              
+ 27AL  L 7443.0    13(9/2+,13/2+)       7 FS     LT                             
+ 27AL2 L XREF=CEI                                                               
+ 27AL cL J$|g-transitions to (9/2+), 5/2, (11/2+)                               
+ 27AL  G 1943.1    16      39 5                                                 
+ 27AL  G 2932.5    14      12 3                                                 
+ 27AL  G 4438.4    16     100 6                                                 
+ 27AL  G 4460.6    14   7.6  LT                                                 
+ 27AL  G 5231.3    15   3    LT                                                 
+ 27AL  G 7441.8    14   3    LT                                                 
+ 27AL  L 7477.1    9 7/2-              0.68 FS   9                              
+ 27AL2 L XREF=CDEFHIJ                                                           
+ 27AL cL J$L=3 quoted in 1988Li31 from Julich Annual Report 1979, p. 9.         
+ 27AL2cL 7475.9|g (E1+M2) to 5/2+.                                              
+ 27AL  G 4472.5    13      1810                                                 
+ 27AL  G 5265.4    11      8214                                                 
+ 27AL  G 7475.9    10     10014 (E1+(M2))+0.06   11                             
+ 27ALB G BE1W=0.0013 3$BM2W=0.4 +15-4                                           
+ 27AL cG MR        From 1978Ma24 ({+26}Mg(p,|g))                                
+ 27AL  L 7550      2 (3/2+,5/2+)                                                
+ 27AL2 L XREF=CDEI                                                              
+ 27AL cL J$|g-transition to 5/2+ and primary |g-transition feeding strength     
+ 27AL2cL (1982Sm04).                                                            
+ 27AL  G 7548       3100                                                        
+ 27AL  L 7578      2 5/2+              0.35 FS   6                          Y   
+ 27AL2 L XREF=CDEFGIJ                                                           
+ 27AL cL J         L=(3) ({+3}He,d)                                             
+ 27AL  G 1750       3      15 7                                                 
+ 27AL  G 3167       3       9 5                                                 
+ 27AL  G 4595       3      43 9                                                 
+ 27AL  G 6562       3      50 9                                                 
+ 27AL  G 7576       3     10013 M1+E2    +0.09   4                              
+ 27ALB G BM1W=0.066 16$BE2W=0.05 5                                              
+ 27AL  L 7660      2 (7/2+ TO 11/2+)     13 FS   4                              
+ 27AL2 L XREF=CE                                                                
+ 27AL cL J$|g-transitions to (7/2+), (9/2+), (11/2+)                            
+ 27AL  G 2160       3      1711                                                 
+ 27AL  G 3079       3      5214                                                 
+ 27AL  G 3149       3      7918                                                 
+ 27AL  G 4655       3      9718                                                 
+ 27AL  G 5448       3     10018                                                 
+ 27AL  L 7676.5    15 (3/2+,5/2+)                                               
+ 27AL2 L XREF=CEGI                                                              
+ 27AL cL J$|g-transitions to 3/2+, 5/2+; L=2 (1989Wa19 reported for 7679        
+ 27AL2cL keV level - {+26}Mg({+3}He,d))                                         
+ 27AL  G 6661.1    16      21 8                                                 
+ 27AL  G 7675.3    16     10015                                                 
+ 27AL  L 7679      1 (7/2,9/2+)                                                 
+ 27AL2 L XREF=CD                                                                
+ 27AL cL J$|g-transitions to 5/2+, (7/2+), (9/2+)                               
+ 27AL  G 4674.3    13      34 7                                                 
+ 27AL  G 4943.6    13      48 9                                                 
+ 27AL  G 5467.3    12      4512                                                 
+ 27AL  G 7677.8    11     10016                                                 
+ 27AL  L 7721      1  5/2                                                   X   
+ 27AL2 L XREF=CEGI                                                              
+ 27AL cL J         L=(2) ({+3}He,d)                                             
+ 27AL  G 4738.5    11   100.012                                                 
+ 27AL  G 5509.2    12    12.412                                                 
+ 27AL  L 7798      2 (3/2,5/2,7/2)                                              
+ 27AL2 L XREF=CE                                                                
+ 27AL cL J$|g-transitions to 5/2+, 5/2-                                         
+ 27AL  G 2359       3     100 7                                                 
+ 27AL  G 7796       3      28 7                                                 
+ 27AL  L 7806      2 (7/2+,9/2+)       18 FS     4                              
+ 27AL2 L XREF=CE                                                                
+ 27AL cL J$|g-transitions to (7/2+), (11/2+). 1971De24 assigns 9/2(+), 1988Li31 
+ 27AL2cL states 7/2+ also possible.                                             
+ 27AL  G 3225       3      42 9 D+Q      +0.16   6                              
+ 27AL  G 3295       3      25 7                                                 
+ 27AL  G 5594       3     10010 D                                               
+ 27AL  L 7858      2 3/2+                                                       
+ 27AL2 L XREF=DEGI                                                              
+ 27AL2 L ISPIN=3/2                                                              
+ 27AL cL J$L=2 ({+3}He,d), and feeding strength from resonance level (1982Sm04) 
+ 27AL  G 861        3      27 9                                                 
+ 27AL3 G FL=6992.9                                                              
+ 27AL  G 2106       3      5014                                                 
+ 27AL  G 3046       3      6823                                                 
+ 27AL  G 4177       3      5014                                                 
+ 27AL  G 4853       3   31.8 LT                                                 
+ 27AL  G 4875       3   31.8 LT                                                 
+ 27AL  G 5122       3      8623                                                 
+ 27AL  G 5646       3   22.7 LT                                                 
+ 27AL  G 6842       3   40.9 LT                                                 
+ 27AL  G 7013       3      7319                                                 
+ 27AL  G 7856       3     10019                                                 
+ 27AL  L 7900      1    (5/2-,7/2-)                                             
+ 27AL2 L XREF=CEGI                                                              
+ 27AL cL J$L=3 ({+3}He,d)                                                       
+ 27AL  G 5164.5    13     10016                                                 
+ 27AL  G 7898.7    11      5216                                                 
+ 27AL  L 7935      3                                                            
+ 27AL2 L XREF=EH                                                                
+ 27AL  L 7948      2 (9/2+,11/2+)                                               
+ 27AL2 L XREF=CEHI                                                              
+ 27AL cL J$|g-transitions to (9/2+), (11/2+), 5/2                               
+ 27AL  G 2448       3     6.723                                                 
+ 27AL  G 2527       3      18 5                                                 
+ 27AL  G 3437       3     100 9                                                 
+ 27AL  G 4943       3      98 9                                                 
+ 27AL  L 7997      1 9/2                                                    Y   
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 4992.3    13      59 8  D+(Q)   +0.3    3                              
+ 27AL  G 5785.2    12     100 8  D+Q     -0.09   7                              
+ 27AL  L 8037      1 7/2                0.43 FS  3                          X   
+ 27AL2 L XREF=CDEF                                                              
+ 27AL  G 3456.7    13       9 4                                                 
+ 27AL  G 5825.2    12      15 5                                                 
+ 27AL  G 8035.7    11     100 7  D+Q     +0.09   3                              
+ 27AL  L 8043      2 (5/2+ TO 9/2+)                                             
+ 27AL2 L XREF=CE                                                                
+ 27AL cL J$|g-transitions to 5/2+, (9/2+), 7/2                                  
+ 27AL  G 2610       3      6218                                                 
+ 27AL3 G FL=5432.8                                                              
+ 27AL  G 5038       3      9521                                                 
+ 27AL  G 8041       3     10021                                                 
+ 27AL  L 8065      2 (3/2+,5/2+)       20 AS     6                              
+ 27AL2 L XREF=CDEGI                                                             
+ 27AL cL J$L=2 ({+3}He,d)                                                       
+ 27AL  G 8063       3100                                                        
+ 27AL  L 8097      1 5/2                                                    X   
+ 27AL2 L XREF=CEG                                                               
+ 27AL cL J         L=(3) ({+3}He,d)                                             
+ 27AL  G 2345.2    15      13 4                                                 
+ 27AL  G 3516.7    13      23 9                                                 
+ 27AL  G 5114.4    11   100  27                                                 
+ 27AL  G 7081.5    11      4315                                                 
+ 27AL  L 8130      3 1/2+                                                       
+ 27AL2 L XREF=EGI                                                               
+ 27AL cL J         L=0 ({+3}He,d)                                               
+ 27AL  L 8136      1   5/2                                                  X   
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 7122       2    75  28                                                 
+ 27AL  G 8136       2   100  28                                                 
+ 27AL  L 8182.1    13 3/2-                                                      
+ 27AL2 L XREF=CDEGI                                                             
+ 27AL cL J         L=1 ({+3}He,d)                                               
+ 27AL  G 7337.2    14     10019                                             B   
+ 27AL  G 8180.7    14      6719                                             B   
+ 27AL  L 8287      1  (5/2,9/2)                                                 
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 2619.5    16      18 6                                             B   
+ 27AL  G 2848.4    13      47 6                                             B   
+ 27AL  G 2866.9    14      59 9                                             B   
+ 27AL  G 5282.2    13     10012                                             B   
+ 27AL  G 6075.1    12      71 9                                             B   
+ 27AL  L 8324      1  (3/2,5/2)+                                                
+ 27AL2 L XREF=CEG                                                               
+ 27AL cL J$L=2 ({+3}He,d)                                                       
+ 27AL  G 7308.4    11100                                                    B   
+ 27AL  L 8361      3                                                            
+ 27AL2 L XREF=EG                                                                
+ 27AL  L 8376      1 (3/2,5/2)+                                                 
+ 27AL2 L XREF=CEG                                                               
+ 27AL cL J$L=2 ({+3}He,d)                                                       
+ 27AL  L 8396      1 (11/2)                                                     
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 1883.7    15      14 6                                             B   
+ 27AL  G 2896.0    13      25 6 D+Q      +0.39   9                          B   
+ 27AL  G 3885.4    12     10011 D+(Q)    +0.1    2                          B   
+ 27AL  G 5391.2    13      39 8 D+Q      +0.29   4                          B   
+ 27AL  L 8408      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 8420.7    10(3/2,5/2)+                                                 
+ 27AL2 L XREF=DEG                                                               
+ 27AL cL J$L=2 ({+3}He,d)                                                       
+ 27AL  L 8442      1 (7/2)             0.50 FS   10                             
+ 27AL2 L XREF=CDEF                                                              
+ 27AL  G 5437.2    13      8917                                             B   
+ 27AL  G 8440.5    11     10017 D+(Q)    +0.03   6                          B   
+ 27AL  L 8490.3    12  5/2+                                                     
+ 27AL2 L XREF=CDEGI                                                             
+ 27AL cL J$L=2 ({+3}He,d)                                                       
+ 27AL  L 8521      2 (1/2,3/2,5/2,7/2+)                                         
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 7505       3100                                                    B   
+ 27AL  L 8537      1 (5/2)                                                      
+ 27AL2 L XREF=CDEG                                                              
+ 27AL cL J$L=(2,3) ({+3}He,d), and |g-transition to 5/2+                        
+ 27AL  G 5801.4    13100                                                    B   
+ 27AL  L 8553.0    3 (3/2)                                                      
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 8586      1 (7/2)                                                      
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 6374.0    12     100 8                                             B   
+ 27AL  G 8584.5    11      22 8                                             B   
+ 27AL  L 8597.6    3  (1/2,3/2)-        0.56 EV  4                              
+ 27AL2 L XREF=DEGI(8604)                                                        
+ 27AL cL J$L=1 ({+3}He,d)                                                       
+ 27AL  L 8675      1 (7/2,9/2+)                                                 
+ 27AL2 L XREF=CEF                                                               
+ 27AL  G 4094.6    13      34 9                                             B   
+ 27AL  G 6463.0    12     10012                                             B   
+ 27AL  G 8673.5    11      30 7                                             B   
+ 27AL  L 8693      2 (9/2,11/2,13/2)                                            
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 1745       3      19 6                                             B   
+ 27AL  G 4182       3     100 6                                             B   
+ 27AL  L 8708.7    3                   7.6 EV    6                              
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 8716.6    6  1/2+                                                      
+ 27AL2 L XREF=DEGI                                                              
+ 27AL cL J$L=0 ({+3}He,d)                                                       
+ 27AL  L 8732.2    5  (5/2,7/2)-       0.19 EV   3                              
+ 27AL2 L XREF=DEFG                                                              
+ 27AL cL J$L=3 ({+3}He,d)                                                       
+ 27AL  L 8753.6    6    (5/2)          1.05 EV   13                             
+ 27AL2 L XREF=DEF                                                               
+ 27AL  L 8774.2    6 (5/2+)            3.7 EV    3                              
+ 27AL2 L XREF=DEF                                                               
+ 27AL  L 8804      1                                                            
+ 27AL2 L XREF=CE                                                                
+ 27AL  L 8825      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 8861      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 8897.2    5 (5/2+)            0.86 EV   17                             
+ 27AL2 L XREF=DEF                                                               
+ 27AL  L 8905.0    8                                                            
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 8909.2    5 (1/2,3/2)-                                                 
+ 27AL2 L XREF=DGI                                                               
+ 27AL cL J$L=1 ({+3}He,d)                                                       
+ 27AL  L 8952      1 (5/2,9/2+)                                                 
+ 27AL2 L XREF=CE                                                                
+ 27AL  G 8950.4    11100                                                        
+ 27AL  L 8963.4    3  (3/2-)                                                    
+ 27AL2 L XREF=DEI                                                               
+ 27AL cL J$L=1 (1975Uz01-(d,n)); 3/2- in 1978Ma24 (p,|g)                        
+ 27AL  L 9001      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9050.9    3 (7/2-)                                                     
+ 27AL2 L XREF=CDE                                                               
+ 27AL  L 9051.6    3 (5/2+)                                                     
+ 27AL2 L XREF=DFI(9058)                                                         
+ 27AL cL J$L=2 (d,n)                                                            
+ 27AL  L 9058      1                                                            
+ 27AL2 L XREF=CE                                                                
+ 27AL  L 9080.4    3   1/2+            240 EV    25                             
+ 27AL2 L XREF=DEI(9093)                                                         
+ 27AL cL J$L=0 (d,n)                                                            
+ 27AL  L 9190.2    3 (3/2)                                                      
+ 27AL2 L XREF=DEI                                                               
+ 27AL  L 9216.3    3 (3/2-)                                                     
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9236.0    8  (1/2+)           13 EV     11                             
+ 27AL2 L XREF=DEI(*)                                                            
+ 27AL  L 9239.5    8  (5/2)                                                     
+ 27AL2 L XREF=DI(*)                                                             
+ 27AL  L 9271.6    8 (1/2+,3/2)                                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL2 L  ISPIN=3/2                                                             
+ 27AL  L 9274.3    8 (5/2-,7/2)                                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL2 L  ISPIN=7/2                                                             
+ 27AL  L 9276.9    8  (3/2-)           100 EV    30                             
+ 27AL2 L XREF=DI                                                                
+ 27AL  L 9299      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9308.2    9 (5/2+)                                                     
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9322      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9359.3    10                                                           
+ 27AL2 L XREF=DEI                                                               
+ 27AL  L 9371      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9390.0    9  (3/2+)                                                    
+ 27AL2 L XREF=DEI(*)                                                            
+ 27AL  L 9400.8    9  (1/2+)           110 EV    50                             
+ 27AL2 L XREF=DEI(*)                                                            
+ 27AL  L 9427      3                                                            
+ 27AL2 L XREF=EI                                                                
+ 27AL  L 9474.4    8  (7/2)                                                     
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9488      3                                                            
+ 27AL2 L XREF=EI                                                                
+ 27AL  L 9501.7    10                                                           
+ 27AL2 L XREF=DEF                                                               
+ 27AL  L 9511.5    9   (5/2)                                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9530      3                                                            
+ 27AL2 L XREF=EI                                                                
+ 27AL  L 9552      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9598.8    14                  2.5 KEV   2                              
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 9600.7    9 (3/2-)            12 EV     2                              
+ 27AL2 L XREF=DEFI(*)                                                           
+ 27AL cL J$L=1 (d,n)                                                            
+ 27AL  L 9619      3                                                            
+ 27AL2 L XREF=EI(*)                                                             
+ 27AL  L 9628.5    9 (1/2-)            2.76 KEV  14                             
+ 27AL2 L XREF=DI                                                                
+ 27AL cL J$L=1 (d,n)                                                            
+ 27AL  L 9634.5    9 (5/2+)            18 EV     5                              
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9658      2                                                            
+ 27AL2 L XREF=EF                                                                
+ 27AL  L 9664.7    8 (5/2+)            24 EV     8                              
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9664.8    20 (1/2-)           5.82 KEV  10                             
+ 27AL2 L XREF=DI(9674)                                                          
+ 27AL cL J$L=1 (d,n)                                                            
+ 27AL  L 9692      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9715.9    8 (3/2+)                                                     
+ 27AL2 L XREF=DEI                                                               
+ 27AL  L 9742      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9762.8    8 (5/2+)            18 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9796.3    9 (7/2+)            4 EV      3                              
+ 27AL2 L XREF=DEF                                                               
+ 27AL  L 9821.6    9 (3/2+)            18 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9834.4    10 (1/2-)           3.0 KEV                                  
+ 27AL2 L XREF=DEI(*)                                                            
+ 27AL cL J$From {+26}Mg(p,p) (1978We06)                                         
+ 27AL  L 9839.7    10 (5/2)            1.0 EV    2                              
+ 27AL2 L XREF=DI(*)                                                             
+ 27AL  L 9846.6    10 (1/2+)           210 EV                                   
+ 27AL2 L XREF=DI(*)                                                             
+ 27AL  L 9867      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9883      3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9893      2                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 9921.9    9 (3/2-)            1.8 KEV                                  
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9930.4    9 (1/2-)            1.35 KEV                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9941.3    9 (7/2)                                                      
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9953.0    16                                                           
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 9955.5    10  (3/2)                                                    
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 9960.3    9 (5/2-)            8 EV                                     
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 9962.8    9 (5/2+)            12 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9976.8    9 (5/2,7/2)+                                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9990.8    9 (7/2-)            10 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 9999.9    10  (5/2)                                                    
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10008     3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 10024.3   9 (5/2+)            35 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10075     3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 10089.6   9 (3/2-)            2.7 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10092.9   9 (3/2+,5/2+)       0.47 KEV                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10112.0   9 (5/2-,7/2-)       15 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10112.5   9 (1/2-)            40 EV                                    
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10121.2   10 (7/2+)                                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10135.1   11(3/2-,5/2)                                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10148     3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 10164.8   9  (5/2+)           14 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10209     3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 10218     3 (3/2-)            40.9 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL2 L  ISPIN=3/2                                                             
+ 27AL  L 10243.9   9 (3/2+)            0.13 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10244     3 (1/2+)            70.4 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10244.8   9 (7/2-)            75 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL2 L  ISPIN=3/2                                                             
+ 27AL  L 10258.5   10 (5/2)                                                     
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10281     3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 10287     2 (3/2)                                                      
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10307     2 (7/2)                                                      
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10318     2 (1/2+)                                                     
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10333     2 (3/2+)            1.1 KEV                                  
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10334     2 (1/2-)            5.6 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10338     2 (1/2+)            1.3 KEV                                  
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10340     2                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10348     2  (3/2)                                                     
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10360     3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 10365     2 (9/2+)                                                     
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10370     2 (5/2+)            45 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10372     2 (3/2+)            450 EV                                   
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10409     2 (5/2+)            37 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10422     2                                                            
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10448     3                                                            
+ 27AL2 L XREF=E                                                                 
+ 27AL  L 10459     2 (1/2-)            0.070 KEV                                
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10478     3                                                            
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10480     3 (7/2-)            0.65 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL2 L  ISPIN=1/2,3/2                                                         
+ 27AL  L 10509     2 (7/2-)            0.12 KEV                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL2 L  ISPIN=1/2,3/2                                                         
+ 27AL  L 10519     2                                                            
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10528     2 (3/2-)            0.3 KEV                                  
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10555     2 (5/2)                                                      
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10558     2 (1/2-)            30 KEV                                   
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10566     2 (3/2+)            0.14 KEV                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL2 L  ISPIN=1/2,3/2                                                         
+ 27AL  L 10588     2 (3/2+)            1.4 KEV                                  
+ 27AL2 L XREF=DE                                                                
+ 27AL2 L  ISPIN= 1/2,3/2                                                        
+ 27AL  L 10593     2 (5/2-,7/2-)       10 EV                                    
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10599     3 (3/2+)            0.49 KEV                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL2 L  ISPIN= 1/2,3/2                                                        
+ 27AL  L 10612     3 (1/2-)            10.2 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10626     2 (7/2-)            65 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10630     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10634     3 (1/2+)            0.90 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10648     2 (3/2+)            135 EV                                   
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10675     2 (5/2+)            0.11 KEV                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10676     2                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10692     2 (5/2-,7/2-)       15 EV                                    
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10716     2 (3/2+)            0.18 KEV                                 
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10723     2                   0.070 KEV                                
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10737     2 (3/2-)            2.1 KEV                                  
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10751     2 (9/2)                                                      
+ 27AL2 L XREF=DE                                                                
+ 27AL  L 10768     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10778     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10781     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10783     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10791     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10804     2 (1/2+)            0.8 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10833     2 (3/2+,5/2+)       0.34 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10835     3 (3/2+,5/2+)       0.8 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10836     3 (5/2-,7/2-)       0.6 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10838     3 (3/2-)            8.0 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10864     2 (5/2-,7/2-)       40 EV                                    
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10871     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10900     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10911     3 (1/2-)            2.9 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10922     3 (3/2+,5/2+)       0.016 KEV                                
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10922     3                   2.8 KEV   10                             
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10931     3 (5/2+)            1.2 KEV   8                              
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10939     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10970     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10973     2 (5/2+)            0.33 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 10994     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11003     2 (5/2-,7/2-)       0.008 KEV                                
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11012     3                   0.035 KEV                                
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11072     3 (3/2+,5/2+)       0.26 KEV                                 
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11075     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11077     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11096     3 (5/2-)            1.4 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11101     4 (3/2-)            5.5 KEV                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11126     3 (3/2+,5/2+)       0.015 KEV                                
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11138     3                                                            
+ 27AL2 L XREF=D                                                                 
+ 27AL  L 11188                                                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL cL E$54 additional levels between 11188 and 12118 keV are from (p,|g)     
+ 27AL2cL and/or (p,p) reported in 1980Is04.                                     
+ 27AL cL 11702                                                                  
+ 27AL2 L XREF=D                                                                 
+ 27AL cL E$64 additional levels between 11702 and 12875 keV are from (|a,|g)    
+ 27AL2cL and/or (|a,p) (1964Ku10,1971De23).                                     
+                                                                                
+ 27AL cL 13000     3                                                            
+ 27AL cL 13050     3                                                            
+ 27AL cL 13100     3                                                            
+ 27AL cL 13200     3                                                            
+ 27AL cL 13300     3                                                            
+ 27AL cL 13400     3                                                            
+ 27AL cL 13500     3                                                            

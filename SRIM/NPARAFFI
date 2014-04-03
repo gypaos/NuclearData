@@ -1,0 +1,66 @@
+                         (C) 1989 by J.P. Biersack and J.F. Ziegler
+       ==> Version - 5.2 <==
+ Ion =  N ( Mass = 15 )
+ Target =  H( 66 % ) +  C( 33 % )
+ Density = 1.0200E+00 g/cm3
+ Disk File Name = NParaffi
+ Bragg Correction =  +5.62 %
+ Stopping Units =  MeV / (mg/cm2)
+-
+-
+-
+-
+-
+-
+-on saute plus de ligne pour etre compatible avec format de SRIM 2000
+-
+-
+-
+-
+-
+   Ion        dE/dx      dE/dx     Projected  Longitudinal   Lateral
+  Energy      Elec.      Nuclear     Range     Straggling   Straggling
+-----------  ---------- ---------- ----------  ----------  ----------
+   1.00 MeV  8.909E+00  9.460E-02    1.78 um      795 A      1386 A
+   1.10 MeV  9.360E+00  8.766E-02    1.88 um      816 A      1417 A
+   1.20 MeV  9.773E+00  8.174E-02    1.98 um      834 A      1444 A
+   1.30 MeV  1.015E+01  7.663E-02    2.08 um      850 A      1469 A   
+   1.40 MeV  1.049E+01  7.217E-02    2.17 um      865 A      1491 A   
+   1.50 MeV  1.079E+01  6.824E-02    2.27 um      878 A      1512 A   
+   1.60 MeV  1.107E+01  6.474E-02    2.35 um      891 A      1531 A   
+   1.70 MeV  1.131E+01  6.162E-02    2.44 um      903 A      1549 A   
+   1.80 MeV  1.153E+01  5.880E-02    2.53 um      914 A      1565 A   
+   2.00 MeV  1.189E+01  5.393E-02    2.69 um      949 A      1596 A   
+   2.20 MeV  1.215E+01  4.985E-02    2.86 um      981 A      1623 A   
+   2.40 MeV  1.235E+01  4.639E-02    3.01 um     1011 A      1648 A   
+   2.60 MeV  1.248E+01  4.341E-02    3.17 um     1039 A      1671 A   
+   2.80 MeV  1.256E+01  4.081E-02    3.33 um     1065 A      1693 A   
+   3.00 MeV  1.260E+01  3.853E-02    3.48 um     1091 A      1714 A   
+   3.30 MeV  1.260E+01  3.558E-02    3.72 um     1144 A      1743 A   
+   3.60 MeV  1.255E+01  3.308E-02    3.95 um     1195 A      1771 A   
+   4.00 MeV  1.243E+01  3.027E-02    4.26 um     1279 A      1805 A   
+   4.50 MeV  1.224E+01  2.741E-02    4.66 um     1402 A      1847 A   
+   5.00 MeV  1.202E+01  2.507E-02    5.06 um     1518 A      1887 A   
+   5.50 MeV  1.180E+01  2.312E-02    5.47 um     1630 A      1926 A   
+   6.00 MeV  1.158E+01  2.147E-02    5.89 um     1738 A      1964 A   
+   6.50 MeV  1.139E+01  2.005E-02    6.32 um     1844 A      2001 A   
+   7.00 MeV  1.125E+01  1.882E-02    6.75 um     1947 A      2038 A   
+   8.00 MeV  1.099E+01  1.679E-02    7.63 um     2317 A      2111 A   
+   9.00 MeV  1.072E+01  1.517E-02    8.53 um     2651 A      2184 A   
+  10.00 MeV  1.047E+01  1.385E-02    9.45 um     2961 A      2256 A   
+  11.00 MeV  1.020E+01  1.276E-02   10.40 um     3255 A      2328 A   
+  12.00 MeV  9.956E+00  1.183E-02   11.37 um     3538 A      2401 A   
+  13.00 MeV  9.722E+00  1.104E-02   12.37 um     3812 A      2475 A   
+  14.00 MeV  9.501E+00  1.035E-02   13.39 um     4080 A      2550 A   
+  15.00 MeV  9.291E+00  9.749E-03   14.43 um     4343 A      2625 A   
+-----------------------------------------------------------
+ Multiply Stopping by        for Stopping Units
+ -------------------        ------------------
+   1.0200E+01                 eV / Angstrom 
+   1.0200E+02                keV / micron   
+   1.0200E+02                MeV / mm       
+   1.0000E+00                keV / (ug/cm2) 
+   1.0000E+00                MeV / (mg/cm2) 
+   1.0000E+03                keV / (mg/cm2) 
+   7.7641E+00                 eV / (1E15 atoms/cm2)
+   1.5234E-01                L.S.S. reduced units

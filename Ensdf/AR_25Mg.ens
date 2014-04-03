@@ -1,0 +1,793 @@
+ 25MG    ADOPTED LEVELS, GAMMAS                                  09NDS    200908
+ 25MG  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 110, 1691 (2009)$CUT=1-Feb-2008$    
+ 25MG  Q  -4276.7   5 7330.58 312063.68 8-9885.97 5    2003AU03                 
+ 25MG cL E$Least-squares fit for |g-ray energies to the                         
+ 25MG2cL level scheme                                                           
+ 25MG CL BAND(W)$5/2[202]                                                       
+ 25MG CL BAND(X)$1/2[211]                                                       
+ 25MG CL BAND(Y)$1/2[330]                                                       
+ 25MG CL BAND(Z)$1/2[300]                                                       
+ 25MG  XA25NA B- DECAY                                                          
+ 25MG  XB25AL B+ DECAY                                                          
+ 25MG  XC12C(14N,PG),(15N,PN)                                                   
+ 25MG  XD22NE(A,NG)                                                             
+ 25MG  XE24MG(N,G) E=THERMAL                                                    
+ 25MG  XL24MG(N,G) E=RESONANCE                                                  
+ 25MG  XF24MG(D,PG),(POL D,P)                                                   
+ 25MG  XG26MG(3HE,A)                                                            
+ 25MG  XH27AL(D,A),(D,AG)                                                       
+ 25MG  XI25MG(P,P'G)                                                            
+ 25MG  XJ25MG(G,G')                                                             
+ 25MG  XK25MG(E,E')                                                             
+ 25MG PN                                                                     6  
+ 25MG  L 0            5/2+             STABLE                                   
+ 25MG2 L MOMM1=-0.85545 8$ MOME2=+0.201 3                                       
+ 25MGX L XREF=ABCDEFGHIJK                                                       
+ 25MGF L FLAG=W                                                                 
+ 25MG cL J$L=2 in (pol d,p)                                                     
+ 25MG  L 585.045   21 1/2+             3.38 NS   6                              
+ 25MGX L XREF=ABCDEFGHI                                                         
+ 25MGF L FLAG=X                                                                 
+ 25MG cL J$L=0 in (d,p), E2 to 5/2+                                             
+ 25MG  G   585.028 30 100       E2                                              
+ 25MGB G BE2W=0.563 10                                                          
+ 25MG  L 974.756   22 3/2+             10.1 PS   10                             
+ 25MGX L XREF=ABCDEFGHIK                                                        
+ 25MGF L FLAG=X                                                                 
+ 25MG cL J$M1+E2 |gs to 1/2+ and 5/2+                                           
+ 25MG cL T$From {+11}B({+16}O,pn|g) (1975Eg01)                                  
+ 25MG  G   389.710 35 84.8   15 M1+E2    +0.13   3                              
+ 25MGB G BM1W=0.0166 17$BE2W=11 5                                               
+ 25MG  G   974.742 35 100.0  15 M1+E2    +0.36   2                              
+ 25MGB G BM1W=0.00113 12$BE2W=0.91 13                                           
+ 25MG  L 1611.768  11 7/2+             17 FS     3                              
+ 25MGX L XREF=ABCDFGHIJK                                                        
+ 25MGF L FLAG=W                                                                 
+ 25MG cL J$M1+E2 |g to 5/2+, |g|g(|q) in (p,p'|g)                               
+ 25MG  G  1611.712 11 100       M1+E2    -0.189  12                             
+ 25MGB G BM1W=0.30 6$BE2W=24 6                                                  
+ 25MG  L 1964.624  23 5/2+             0.70 PS   6                              
+ 25MGX L XREF=ACDEFGHIK                                                         
+ 25MGF L FLAG=X                                                                 
+ 25MG cL J$L=2 and |g|g(|q) in (d,p|g)                                          
+ 25MG  G   989.865 30  71.9  14 M1+E2    -0.25   2                              
+ 25MGB G BM1W=0.0093 9$BE2W=3.5 7                                               
+ 25MG  G  1379.543 30  100.0 22 E2                                              
+ 25MGB G BE2W=15.8 14                                                           
+ 25MG  G  1964.501 45  63.4  10 M1+E2    -0.60   10                             
+ 25MGB G BM1W=0.00082 11$BE2W=0.45 12                                           
+ 25MG  L 2563.36    5 1/2+             10 FS     5                              
+ 25MGX L XREF=DEFGHIK                                                           
+ 25MG cL J$L=0 in (d,p|g)                                                       
+ 25MG  G   1588.52  9  27     3                                                 
+ 25MG  G   1978.22  5 100     4                                                 
+ 25MG  G     2563.6 4 5.0    14 E2                                              
+ 25MGB G BE2W=4 3                                                               
+ 25MG  L 2737.8     3 7/2+             290 FS    30                             
+ 25MGX L XREF=CDFGHIK                                                           
+ 25MGF L FLAG=X                                                                 
+ 25MG cL J$M1+E2 |g to 5/2+, |g|g(|q) in (p,p'|g)                               
+ 25MG  G      773.1 7 8.0     7 M1+E2    +0.47   +20-12                         
+ 25MGB G BM1W=0.0094 20$BE2W=20 15                                              
+ 25MG  G     1763.5 7 100.0  23 E2                                              
+ 25MGB G BE2W=22.9 25                                                           
+ 25MG  G     2738.0 6 6.9    11 M1+E2    -1.2    6                              
+ 25MGB G BM1W=9.E-5 6$BE2W=0.10 5                                               
+ 25MG  L 2801.46    3 3/2+             26 FS     3                              
+ 25MGX L XREF=ACDEFGHIK                                                         
+ 25MG cL J$M1+E2 |gs to 1/2+ and 5/2+                                           
+ 25MG  G  836.841  50 100.0  25 M1(+E2)  -0.03   3                              
+ 25MGB G BM1W=(0.61 8)$BE2W=(5 +10-5)                                           
+ 25MG  G  2216.267 50 89.9   20 M1+E2    +0.21   9                              
+ 25MGB G BM1W=0.028 4$BE2W=1.5 13                                               
+ 25MG  G  2801.312 35 47.5   15 M1+E2    -0.64   8                              
+ 25MGB G BM1W=0.0055 8$BE2W=1.7 4                                               
+ 25MG  L 3405.06   17 9/2+             7.7 FS    7                              
+ 25MGX L XREF=CDFHIK                                                            
+ 25MGF L FLAG=W                                                                 
+ 25MG cL J$M1+E2 |g to 7/2+, |g|g(|q) in (p,p'|g)                               
+ 25MG  G     1793.1 3 100.0  20 M1+E2    -0.13   3                              
+ 25MGB G BM1W=0.40 4$BE2W=12 6                                                  
+ 25MG  G     3404.7 4 22.7   20 E2                                              
+ 25MGB G BE2W=6.8 9                                                             
+ 25MG  L 3413.374   3  3/2-              7 FS    3                              
+ 25MGX L XREF=CDGH                                                              
+ 25MGF L FLAG=Y                                                                 
+ 25MG cL J$L=1 in (d,p|g), E1(+M2) |g to 5/2+                                   
+ 25MG  G    849.93 16  0.30   7                                                 
+ 25MG  G    2438.47 4  19.1  10 E1(+M2)    0.2   LT                             
+ 25MGB G BE1W=0.0007 3                                                          
+ 25MG  G   2828.21 20 100     5 E1                                              
+ 25MGB G BE1W=0.0037 16                                                         
+ 25MG  G    3413.14 5 16.7    8 E1(+M2)    0.2   LT                             
+ 25MGB G BE1W=0.00018 7                                                         
+ 25MG  L 3907.9     4 5/2+               6 FS    2                              
+ 25MGX L XREF=CDFGHIK                                                           
+ 25MG cL J$L=2 in (d,p|g), (|a,n|g)                                             
+ 25MG  G     1106.111 15.2   15                                                 
+ 25MG  G     1170.6 9 19.7   15 [M1]                                            
+ 25MGB G BM1W=0.30 11                                                           
+ 25MG  G     2932.2 9 100     3 M1(+E2)  -0.02   5                              
+ 25MGB G BM1W=(0.10 4)$BE2W=(0.03 +14-3)                                        
+ 25MG  G     3907.6 9 16.7   15 M1(+E2)  -0.47   5                              
+ 25MGB G BM1W=(0.0056 20)$BE2W=(0.48 19)                                        
+ 25MG  L 3970.73   19 7/2-             22 FS     5                              
+ 25MGX L XREF=CDFGHI                                                            
+ 25MGF L FLAG=Y                                                                 
+ 25MG cL J$L=3 in (d,p|g), (|a,n|g)                                             
+ 25MG  G     2006.0 3 18.5   12 E1(+M2)  -0.04   4                              
+ 25MGB G BE1W=(0.00068 17)$BM2W=(1.2 +25-12)                                    
+ 25MG  G     2358.6 6 2.5    12 [E1]                                            
+ 25MGB G BE1W=6.E-5 3                                                           
+ 25MG  G     3970.3 7 100.0  25 E1(+M2)  -0.02   3                              
+ 25MGB G BE1W=(0.00047 11)$BM2W=(0.06 +17-6)                                    
+ 25MG  L 4059.6    3  9/2+             47 FS     5                              
+ 25MGX L XREF=CDFHIK                                                            
+ 25MG cL J$From (|a,n|g)                                                        
+ 25MG  G      654.4   1.7     3                                                 
+ 25MG  G     2450.510 65.0   17 M1+E2    -0.46   10                             
+ 25MGB G BM1W=0.0102 14$BE2W=2.1 8                                              
+ 25MG  G     4058.9 5 100.0  17 E2                                              
+ 25MGB G BE2W=1.51 17                                                           
+ 25MG  L 4277.1     4 1/2-               4 FS    LT                             
+ 25MGX L XREF=CDEFHI                                                            
+ 25MGF L FLAG=Z                                                                 
+ 25MG cL J$L=1 in (pol d,p|g)                                                   
+ 25MG  G     863.8 11 5.1    13 [M1]                                            
+ 25MG  G     1712.5 8 15.2   13 E1                                              
+ 25MG  G     3302.5 7 100.0  25 [E1]                                            
+ 25MG  G     3692.1 7 6.3    13 E1                                              
+ 25MG  L 4359.61   14 3/2+             7 FS      LT                             
+ 25MGX L XREF=DFGHI                                                             
+ 25MG cL J$L=2 in (d,p|g), (|a,n|g)                                             
+ 25MG  G     1795.710 1.9    10                                                 
+ 25MG  G     3384.6 2 90      4 M1+E2    +0.09   7                              
+ 25MG  G     3774.3 2 100     4 M1(+E2)  -0.19   19                             
+ 25MG  L 4711.6     4 9/2+             26 FS     3                              
+ 25MGX L XREF=CDFHI                                                             
+ 25MGF L FLAG=X                                                                 
+ 25MG cL J$From (|a,n|g)                                                        
+ 25MG  G    1973.5 13 6.4    11                                                 
+ 25MG  G     2746.9 5 100.0  11 E2                                              
+ 25MGB G BE2W=30 5                                                              
+ 25MG  L 4722.2     7 5/2+,3/2+        7 FS      LT                             
+ 25MGX L XREF=CDFGI                                                             
+ 25MG cL J$L=2 in (d,p|g)                                                       
+ 25MG  G     2757.413 18      6                                                 
+ 25MG  G     3747.213 100     6  M1(+E2)  -0.02  7                              
+ 25MG cG MR$Assuming J|p=5/2+                                                   
+ 25MG  G     4721.813 1.2     6                                                 
+ 25MG  L 5012.2     4 (7/2)+           7 FS      LT                             
+ 25MGX L XREF=CDFHI                                                             
+ 25MG cL J$M1+E2 |g to 5/2+, |g|g(|q) in (d,p|g)                                
+ 25MG  G     1041.5 9 2.5    13 [E1]                                            
+ 25MG  G     1104.311 5.0    25                                                 
+ 25MG  G     2210.4 9 30     10 [E2]                                            
+ 25MG  G     3047.5 8 100    10 M1(+E2)  0.00    3                              
+ 25MG  G     3400.1 9 31      5 M1+E2    +1.1    4                              
+ 25MG  G     5011.7   76     20 M1+E2    +0.27   3                              
+ 25MG  L 5116.52   21 1/2-               7 FS    LT                             
+ 25MGX L XREF=DEFHI                                                             
+ 25MG cL J$L=1 in (pol d,p|g)                                                   
+ 25MG  G     1702.6 7 4       3                                                 
+ 25MG  G     2553.7 8 19      4 E1                                              
+ 25MG  G    4141.3824 100     4 [E1]                                            
+ 25MG  G     4531.412 6       2 E1                                              
+ 25MG  L 5251.63   22 11/2+            15 FS     2                              
+ 25MGX L XREF=CDFHIK                                                            
+ 25MG cL J$M1 |g to 9/2+, E2 |g to 7/2+, rotational band assignment             
+ 25MG  G     1192.4 6 64      3 M1+E2      +0.32 8                              
+ 25MGB G BM1W=0.19 3$BE2W=8.E+1 4                                               
+ 25MG  G     1846.4 5 68      3 M1+E2      +0.18 3                              
+ 25MGB G BM1W=0.058 9$BE2W=3.3 12                                               
+ 25MG  G     2515.712 32      3 [E2]                                            
+ 25MGB G BE2W=10.5 18                                                           
+ 25MG  G     3639.5 3 100     3 E2                                              
+ 25MGB G BE2W=5.1 12                                                            
+ 25MG  L 5461.1    3  13/2+            1.44 PS   13                             
+ 25MGX L XREF=CDFHI                                                             
+ 25MG cL J$E2 to 9/2+, rotational band assignment                               
+ 25MG  G     2055.9 2  100       E2                                             
+ 25MGB G BE2W=2.46 23                                                           
+ 25MG  L 5474.9     5 1/2+             7 FS      LT                             
+ 25MGX L XREF=DFI                                                               
+ 25MG cL J$L=0 in (d,p|g)                                                       
+ 25MG  G     2061   1 6.3    16 [E1]                                            
+ 25MG  G     2911   1 4.7    16 M1                                             ?
+ 25MG  G     4500   1 45      5                                                 
+ 25MG  G     4890   1 100     5 M1                                              
+ 25MG  L 5521.33   22 5/2-             46 FS     6                              
+ 25MGX L XREF=CDFHI                                                             
+ 25MGF L FLAG=Y                                                                 
+ 25MG cL J$E1+M2 |gs to 3/2+ and 7/2+                                           
+ 25MG  G     1550.7 8 53      3                                                 
+ 25MG  G     2107.810 13      3                                                 
+ 25MG  G     2719.8 3 40      7 E1(+M2)    +0.05 6                              
+ 25MGB G BE1W=(0.000103 23)$BM2W=(0.16 +39-16)                                  
+ 25MG  G     3556.1 6 53      7 E1(+M2)     0.00 10                             
+ 25MGB G BE1W=(6.1E-5 12)                                                       
+ 25MG  G     3908.3 8 100     7 E1+M2      +0.15 5                              
+ 25MGB G BE1W=8.5E-5 13$BM2W=0.6 4                                              
+ 25MG  G     5521.1 6 73      3 E1+M2      +0.07 1                              
+ 25MGB G BE1W=2.2E-5 4$BM2W=0.016 6                                             
+ 25MG  L 5533.8     4 11/2+            6 FS      2                              
+ 25MGX L XREF=CDFI                                                              
+ 25MGF L FLAG=W                                                                 
+ 25MG cL J$M1 to 9/2+, rotational band assignment                               
+ 25MG  G     2128.5 6 100     6 M1(+E2)  -0.119  9                              
+ 25MGB G BM1W=(0.23 8)$BE2W=(4.3 17)                                            
+ 25MG  G     3922.011 61      6 [E2]                                            
+ 25MGB G BE2W=9 4                                                               
+ 25MG  L 5746.2     7 7/2+,9/2+          7 FS    LT                             
+ 25MGX L XREF=CDFHI                                                             
+ 25MG cL J$M1+E2 |g to 9/2+, |g to 5/2+                                         
+ 25MG  G     1686.417 4       3  M1+E2    +0.18  +7-2                           
+ 25MG cG MR$From {+24}Mg(d,p|g),(Pol d,p)                                       
+ 25MG  G     2340.815 6       3                                                 
+ 25MG  G     3009.415 8       3                                                 
+ 25MG  G     5746.414 100     5                                                 
+ 25MG  L 5748.4     8 3/2+,5/2+          7 FS    LT                             
+ 25MGX L XREF=F                                                                 
+ 25MG cL J$L=(2) in (d,p|g)                                                     
+ 25MG  G     1840   2 4.4    22                                                 
+ 25MG  G     2947   2 11      4                                                 
+ 25MG  G     3783   2 31      7                                                 
+ 25MG  G     4773   2 67     11                                                 
+ 25MG  G     5163   2 9       4                                                 
+ 25MG  G     5748   2 100    16                                                 
+ 25MG  L 5793.2     2 7/2-             37 FS     7                              
+ 25MGX L XREF=CDFHI                                                             
+ 25MGF L FLAG=Y                                                                 
+ 25MG cL J$L=3 in (d,p|g), 7/2- or 11/2- from (|a,n|g)                          
+ 25MG  G     1822.4 2 52     10 M1+E2    +0.54   12                             
+ 25MGB G BM1W=0.026 8$BE2W=14 6                                                 
+ 25MG cG MR$measured values: +0.6 {I1} (1974Ro10); +0.3 {I2} (1975Bu14).        
+ 25MG  G     2388.1 2 100    10 E1+M2    +0.10   3                              
+ 25MGB G BE1W=0.00102 24$BM2W=8 6                                               
+ 25MG cG MR$measured values: +0.13 {I3} (1974Ro10); +0.08 {I2} (1975Bu14).      
+ 25MG  L 5860       2 5/2+             7 FS      LT                             
+ 25MGX L XREF=DFGHI                                                             
+ 25MG cL J$L=2, |g|g(|q) in (d,p|g)                                             
+ 25MG  G       3124 2 29      6                                                 
+ 25MG  G       4887 2 25      6                                                 
+ 25MG  G       5860 2 100     9  M1+E2      0.14 GT                             
+ 25MG  L 5971.6     3 9/2+             7 FS      LT                             
+ 25MGX L XREF=CDFHI                                                             
+ 25MG cL J$From (|a,n|g) and rotational band assignment                         
+ 25MG  G     1912.0 2 67      7 M1(+E2)  0.00    7                              
+ 25MG  G     4359.1 5 100     7 M1+E2    -0.31   3                              
+ 25MG  G     5970.8   5       3 E2                                              
+ 25MG  L 5980       2 7/2+             7 FS      LT                             
+ 25MGX L XREF=DFI                                                               
+ 25MG cL J$From (|a,n|g)                                                        
+ 25MG  G     3242.321 48      5 M1(+E2)  0.00    9                              
+ 25MG  G     4014.921 100     7 M1+E2    -0.14   3                              
+ 25MG  G     5979.321 13      5                                                 
+ 25MG  L 6040.7     3 7/2+,11/2+       6 FS      LT                             
+ 25MGX L XREF=CDFHI                                                             
+ 25MG cL J$From (|a,n|g)                                                        
+ 25MG  G     1981   2 6.7    13                                                 
+ 25MG  G     2635.4 3 100     9 M1+E2     0.4    LT                             
+ 25MG cG MR$Measured values: +0.34 {I3} (for J|p=7/2+;                          
+ 25MG2cG based on +0.34 {I3} (1974Ro10) and +0.32 {I8} (1975Bu14)); -0.15 {I2}  
+ 25MG3cG (for J|p=11/2+; based on -0.13 {I4} (1974Ro10) and -0.16 {I3}          
+ 25MGxcG (1975Bu14)).                                                           
+ 25MG  G     3303   2 16      4                                                 
+ 25MG  G     4429   2 11      3                                                 
+ 25MG  L 6082       1 5/2+             7 FS      LT                             
+ 25MGX L XREF=FGHI                                                              
+ 25MG cL J$L=2 in (d,p|g), M1(+E2) to 7/2+                                      
+ 25MG  G       1723 1 4.3    22                                                 
+ 25MG  G       2111 1 8.7    22 [E1]                                            
+ 25MG  G       2668 1 13.0   22 E1(+M2)    +0.03 +5-35                          
+ 25MG  G       3281 1 6.5    22                                                 
+ 25MG  G       4117 1 54      9                                                 
+ 25MG  G       4470 1 100    11 M1(+E2)   +0.14  +8-20                          
+ 25MG  G       5107 1 8.7    22                                                 
+ 25MG  G       6082 1 22      4 M1+E2      -0.97 14                             
+ 25MG  L 6169       2 3/2              7 FS      LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$|gs to 1/2+ and 7/2+                                                 
+ 25MG  G       1892 3 7.5    25                                                 
+ 25MG  G       2755 3 5.0    25                                                 
+ 25MG  G       3367 3 20      5                                                 
+ 25MG  G       4204 3 83     10                                                 
+ 25MG  G       5194 3 100    13                                                 
+ 25MG  G       5584 3 15      5                                                 
+ 25MG  G       6169 3 20      5                                                 
+ 25MG  L 6362       2 3/2              7 FS      LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       2003 2 2.9    14                                                 
+ 25MG  G       4397 2 10      3                                                 
+ 25MG  G       5387 2 17      4                                                 
+ 25MG  G       5777 2 14      3                                                 
+ 25MG  G       6362 2 100     6                                                 
+ 25MG  L 6434       2 9/2+             7 FS      LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$M1(+E2) |gs to 7/2+ and 11/2+                                        
+ 25MG  G        899 2 26      7 M1(+E2)    -0.03 13                             
+ 25MG  G       1182 2 11      4 [M1]                                            
+ 25MG  G       1423 2 67     15 [M1]                                            
+ 25MG  G       1724 2 33      7                                                 
+ 25MG  G       2375 2 48     11  M1+E2     +0.25 5                              
+ 25MG  G       2527 2 56     11 E2                                              
+ 25MG  G       3695 2 30      7                                                 
+ 25MG  G       4821 2 100    22  M1+E2       1.0 +15-6                          
+ 25MG  L 6468       2 3/2-             7 FS      LT                             
+ 25MGX L XREF=GFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       1352 2 39     11 [M1]                                            
+ 25MG  G       1746 2 14      4 [E1]                                            
+ 25MG  G       2191 2 21      4                                                 
+ 25MG  G       2560 2 61     14 [E1]                                            
+ 25MG  G       3054 2 11      4                                                 
+ 25MG  G       4503 2 100    18 [E1]                                            
+ 25MG  G       5493 2 50     11 [E1]                                            
+ 25MG  G       5883 2 61     14 [E1]                                            
+ 25MG  L 6570       1 (1/2,3/2)+       7 FS      LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$E2 |g to 3/2+, |gs to 1/2+, 1/2-, and 5/2+                           
+ 25MG  G       2293 1 9       3                                                 
+ 25MG  G       2662 1 12      3                                                 
+ 25MG  G       4006 1 42      9                                                 
+ 25MG  G       4605 1 52      9                                                 
+ 25MG  G       5595 1 88     12  E2                                             
+ 25MG  G       5985 1 100    12                                                 
+ 25MG  L 6678       1 5/2              40 FS     LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       1157 1 1.3     7                                                 
+ 25MG  G       1666 1 2.7    13  Q                                              
+ 25MG  G       2770 1 6.7    13  D+Q       -0.10 9                              
+ 25MG  G       3877 1 100     5  Q+Q       -0.30 4                              
+ 25MG  G       4713 1 5.3    13  D(+Q)      +0.4 +7-4                           
+ 25MG  G       6678 1 17      4  D(+Q)      +0.2 +12-4                          
+ 25MG  L 6777       3 1/2+             7 FS      LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$M1 |g to 1/2+, (d,p|g)                                               
+ 25MG  G       2500 3 2.5    13 E1                                              
+ 25MG  G       3363 3 53     10 [E1]                                            
+ 25MG  G       3976 3 8       5                                                 
+ 25MG  G       4213 3 23      5 M1                                              
+ 25MG  G       5802 3 48     10                                                 
+ 25MG  G       6192 3 100    18 M1                                              
+ 25MG  G       6777 3 18      5 [E2]                                            
+ 25MG  L 6832       2 (3/2-,5/2)       28 FS     LT                             
+ 25MGX L XREF=F                                                                 
+ 25MG cL J$|gs to 3/2-, 3/2+, and 7/2-                                          
+ 25MG  G       2473 2 56     11                                                 
+ 25MG  G       2861 2 61     11                                                 
+ 25MG  G       3418 2 61     17                                                 
+ 25MG  G       4031 2 100    17 D(+Q)      -0.36 +46-22                         
+ 25MG  L 6840       2 5/2                   7 FS LT                             
+ 25MGX L XREF=CFGH                                                              
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       4101 2 100    20                                                 
+ 25MG  G       5227 2 41     10                                                 
+ 25MG  G       5864 2 63     15                                                 
+ 25MG  G       6839 2 39     10                                                 
+ 25MG  L 6862       2                       9 FS LT                             
+ 25MGX L XREF=C                                                                 
+ 25MG  G 5250       2   100                                                     
+ 25MG  L 6885       3                   97 FS    42                             
+ 25MGX L XREF=FH                                                                
+ 25MG  G       3480 3 19      5 Q                                               
+ 25MG  G       5273 3 100     5 D(+Q)       -0.1 +20-2                          
+ 25MG  L 6914       2 5/2-                                                      
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       3006 2 6.3    21                                                 
+ 25MG  G       4113 2 31      6                                                 
+ 25MG  G       4176 2 23      4                                                 
+ 25MG  G       4949 2 17      4                                                 
+ 25MG  G       5302 2 13      4                                                 
+ 25MG  G       5939 2 19      4                                                 
+ 25MG  G       6914 2 100    10                                                 
+ 25MG  L 6958       2 5/2-             7 FS      LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       3544 2 4.9    16                                                 
+ 25MG  G       4157 2 13.1   16                                                 
+ 25MG  G       4220 2 23      3                                                 
+ 25MG  G       5983 2 23      3                                                 
+ 25MG  G       6958 2 100     5                                                 
+ 25MG  L 7038       2 5/2              21 FS     LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$|gs to 3/2+, 3/2-, 7/2+, and 7/2-                                    
+ 25MG  G       3067 2 10      3                                                 
+ 25MG  G       3624 2 23      5  Q                                              
+ 25MG  G       4300 2 15      3                                                 
+ 25MG  G       5073 2 100    15  D(+Q)     -0.14 +94-28                         
+ 25MG  G       5426 2 63     13                                                 
+ 25MG  G       6063 2 40      8                                                 
+ 25MG  L 7089       4 (3/2,5/2)+       7 FS      LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       6113 4 14      5                                                 
+ 25MG  G       7088 4 100     5 E2                                              
+ 25MG  L 7182       2  (3/2,5/2)       28 FS     LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       5216 2 100     5 Q                                               
+ 25MG  G       7181 2 25      5                                                 
+ 25MG  L 7185       2                  14 FS     LT                             
+ 25MGX L XREF=F                                                                 
+ 25MG  G       4447 2 8.7    22                                                 
+ 25MG  G       5573 2 100.0  22                                                 
+ 25MG  L 7228       2 (3/2,5/2)+       7 FS      LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       6253 3 22      5 D+Q        +0.36 +6-2                           
+ 25MG  G       7226 3 100     5 D+Q        -0.53 +10-22                         
+ 25MG  L 7265.4     5 1/2+                                                      
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7286       2 7/2-             7 FS      LT                             
+ 25MGX L XREF=CFGH                                                              
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       5320 2 64      7                                                 
+ 25MG  G       5673 2 18      4                                                 
+ 25MG  G       7286 2 100     9                                                 
+ 25MG  L 7375.08    3 3/2+             1.9 EV    2                              
+ 25MGX L XREF=HL                                                                
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  G     7378   6 100       M1(+E2)     0.00 31                             
+ 25MGB G BM1W=(0.2283 6)                                                        
+ 25MG  L 7396.37    3 1/2-                                                      
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7410.74    8 3/2-             7.2 KEV   5                              
+ 25MGX L XREF=FHL                                                               
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7493       2 11/2(+)          21 FS     8                              
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g), D+Q |gs to 9/2+ and 13/2+                              
+ 25MG  G       1521 2 44     12  D(+Q)      0.00 3                              
+ 25MG  G       1959 3 32      9                                                 
+ 25MG  G       2031 2 53     12  D+Q       +0.07 6                              
+ 25MG  G       3433 2 100    18  D+Q       -0.07 6                              
+ 25MG  G       4088 3 29      9                                                 
+ 25MG  G       5881 3 35      9                                                 
+ 25MG  L 7500.2     2 (5/2)                3 EV                                 
+ 25MGX L XREF=CFL                                                               
+ 25MG cL J$From (d,p|g), Q |g to 7/2+ is inconsistent with (1/2-)               
+ 25MG2cL assignment in  {+24}Mg(n,|g) E=Resonance                               
+ 25MG  G     4765   3 100    12  Q                                              
+ 25MG  G     6530   3 73     12  Q                                              
+ 25MG  G     7505   2 31      8                                                 
+ 25MG  L 7525       2 (5/2,7/2)+       10 FS     LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$M1+E2 |g to 5/2+, (d,p|g)                                            
+ 25MG  G       3616 2 44      7  M1+E2     -0.45 LT                             
+ 25MG  G       4786 2 100    15  E2                                             
+ 25MG  G       6549 2 17      7                                                 
+ 25MG  G       7524 2 83     12  M1+E2     -1.5  +6-20                          
+ 25MG  L 7551       1 (13/2)+          21 FS     LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MGF L FLAG=W                                                                 
+ 25MG cL J$M1+E2 |g to 11/2+, rotational band assignment                        
+ 25MG  G       2017 1 50     18                                                 
+ 25MG  G       2089 1 25     13                                                 
+ 25MG  G       2299 1 100    25  M1+E2     -0.23 4                              
+ 25MG  G       4145 1 75     25                                                 
+ 25MG  L 7577.47   12 5/2+              40 EV    5                              
+ 25MGX L XREF=FHL                                                               
+ 25MG cL J$3/2+,5/2+ From {+24}Mg(n,|g) E=Resonance, M1+E2 |g to 7/2+           
+ 25MG cL T$|G=76 {I10}/(2J+1) eV.                                               
+ 25MG  G     5965.0   100                                                       
+ 25MG  L 7586.04   12 1/2-             85 KEV    15                             
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7634       5 3/2+,5/2+,7/2+   50 FS     LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$M1+E2 to 5/2+                                                        
+ 25MG  G       6021 5 100    13                                                 
+ 25MG  G       7633 5 61     13  M1+E2     -0.10 +12-25                         
+ 25MG  L 7653       2 9/2              21 FS     LT                             
+ 25MGX L XREF=CF                                                                
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       1681 2 15      4  D+Q        +0.5 4                              
+ 25MG  G       1909 2 17.4   22                                                 
+ 25MGX G FL=5746.2                                                              
+ 25MG  G       2119 2 6.5    22                                                 
+ 25MG  G       2641 2 22      4  D+Q       -0.18 7                              
+ 25MG  G       3593 2 26      7                                                 
+ 25MG  G       4915 2 100    11  D(+Q)      0.00 5                              
+ 25MG  G       6041 2 30      7                                                 
+ 25MG  L 7685       3                                                           
+ 25MGX L XREF=C                                                                 
+ 25MG  G       3625 3 100                                                       
+ 25MG  L 7744.41    4 3/2-             31 KEV    3                              
+ 25MGX L XREF=FL                                                                
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7787.0     3 5/2+             15 EV     1                              
+ 25MG2 L ISPIN=3/2                                                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  G     4386   2 3       2                                                 
+ 25MG  G     6179   2 100     2                                                 
+ 25MG  L 7801       2 9/2               12 FS    LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       2008 2 6       3 D+Q        +0.14 2                              
+ 25MG  G       2267 2 2.6    13                                                 
+ 25MG  G       2550 2 3.8    13                                                 
+ 25MG  G       5063 2 15      4                                                 
+ 25MG  G       6189 2 100     5 D(+Q)      -0.10 15                             
+ 25MG  L 7808.9     3 3/2-             0.5 KEV   1                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7839       2 7/2+             28 FS     LT                             
+ 25MGX L XREF=F                                                                 
+ 25MG cL J$M1(+E2) |gs to 5/2+ and 9/2+                                         
+ 25MG  G       2094 2 4.5    15                                                 
+ 25MGX G FL=5746.2                                                              
+ 25MG  G       4433 2 34      6   M1(+E2)  +0.07 7                              
+ 25MG  G       5100 2 10      3                                                 
+ 25MG  G       7838 2 100     8   M1(+E2)  +0.07 7                              
+ 25MG  L 7863.7     6 3/2+                9 EV   3                              
+ 25MG2 L ISPIN=3/2                                                              
+ 25MGX L XREF=GHL                                                               
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7866       2 (7/2,11/2)+      12 FS     LT                             
+ 25MGX L XREF=CF                                                                
+ 25MG cL J$M1+E2 |gs to 7/2+,9/2+, (d,p|g)                                      
+ 25MG  G       2332 2 27     10                                                 
+ 25MG  G       2615 2 33     10                                                 
+ 25MG  G       2854 2 33     10  M1(+E2)   -0.65 GT                             
+ 25MGB G BE2W>1.7                                                               
+ 25MG  G       3806 2 67     13  M1(+E2)   -0.65 GT                             
+ 25MGB G BE2W>0.81                                                              
+ 25MG  G       4461 2 73     13                                                 
+ 25MG  G       5128 2 100    17                                                 
+ 25MG  L 7946.8     6 1/2-             0.9 KEV   2                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 7961       2 7/2+              14 FS    LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$M1+E2 |gs to 5/2+ and 9/2+                                           
+ 25MG  G       3239 2 7       3                                                 
+ 25MG  G       3249 2 12      5   M1(+E2)  +0.18 +50-14                         
+ 25MG  G       4556 2 7       3                                                 
+ 25MG  G       5996 2 13      5                                                 
+ 25MG  G       6349 2 28      7   M1+(E2)   +0.5 7                              
+ 25MG  G       7961 2 100    15   M1+E2    -0.40 7                              
+ 25MG  L 7962.7     7 1/2+             21 KEV    2                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8011       2 (9/2,13/2+)      37 FS     4                              
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       1971 3 65     15                                                 
+ 25MG  G       2761 3 85     15   M1+E2    -0.18 1                              
+ 25MGB G BM1W=0.0093 22$BE2W=0.23 6                                             
+ 25MG  G       3301 3 100    15                                                 
+ 25MG  L 8076       2 5/2+,7/2+,9/2+   14 FS     LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$M1+E2 |g to 7/2+                                                     
+ 25MG  G       6463 3 100        M1+E2     +0.14 3                              
+ 25MG  L 8119       3 (7/2)+           10 FS     LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$M1(+E2) |g to 5/2+, (d,p|g)                                          
+ 25MG  G       4210 3 15      6                                                 
+ 25MG  G       8118 3 100     6  M1(+E2)   +0.04 +5-17                          
+ 25MG  L 8141.0     8 3/2+               13 KEV  5                              
+ 25MGX L XREF=FL                                                                
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8244       1 (3/2,5/2)+                                                
+ 25MGX L XREF=L                                                                 
+ 25MG cL T$|G=1.10 {I4}/(2J+1) keV.                                             
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8267       2 (7/2,9/2)+       10 FS     LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG cL J$M1+E2 |gs to 7/2+ and 9/2+                                           
+ 25MG  G       4862 2 35     10  M1(+E2)    0.00 6                              
+ 25MG  G       6302 2 20      8                                                 
+ 25MG  G       6655 2 100    20  M1+E2      +1.2 +2-3                           
+ 25MG  G       8267 2 49     16                                                 
+ 25MG  L 8311.5    10 5/2+              1.2 KEV  1                              
+ 25MGX L XREF=HL                                                                
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8316.8    10  (3/2,5/2)+                                               
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG cL T$|G=680 {I40}/(2J+1) eV.                                              
+ 25MG  L 8324.4    10 1/2+               14 KEV  4                              
+ 25MGX L XREF=FL                                                                
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8351.5    11 (3/2+,5/2+)                                               
+ 25MGX L XREF=FHL                                                               
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG cL           |G=1.34 {I6}/(2J+1) keV.                                     
+ 25MG  L 8362.8    11 1/2+             18 KEV    6                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8400      10                                                           
+ 25MGX L XREF=H                                                                 
+ 25MG  L 8447      10                                                           
+ 25MGX L XREF=H                                                                 
+ 25MG  L 8532       2 (7/2,11/2)+      10 FS     LT                             
+ 25MGX L XREF=CF                                                                
+ 25MG cL J$(d,p|g), M1+E2 |g to 9/2+                                            
+ 25MG  G       3819 2 31     12 M1+E2      +0.13 +35-10                         
+ 25MG  G       4470 2 18      8                                                 
+ 25MG  G       5127 2 100    13 M1+E2      +0.10 6                              
+ 25MG  L 8548       3 (5/2,7/2,9/2)+   17 FS     LT                             
+ 25MGX L XREF=CF                                                                
+ 25MG cL J$M1 |g to 7/2+                                                        
+ 25MG  G       5139 3 25     13                                                 
+ 25MGX G FL=3405.06                                                             
+ 25MG  G       6935 2 100    13 M1+E2       -1.4 +6-36                          
+ 25MG  L 8551       1 11/2+            5 FS      LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       2510   28      6                                                 
+ 25MG  G       3017   30      6  M1+E2     +0.97 40                             
+ 25MG  G       3299   26      6  M1+E2     -0.14 9                              
+ 25MG  G       3839   30      6                                                 
+ 25MG  G       4491   100    13  M1(+E2)   -0.03 3                              
+ 25MG  L 8552         (1/2)              8 KEV   4                              
+ 25MGX L XREF=F                                                                 
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  L 8559.1    13 5/2+               1.8 KEV 1                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8569.8    13 3/2-               4.2 KEV 2                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8579.8    13 3/2+               8 KEV   4                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MGT L ISPIN=3/2                                                              
+ 25MG  L 8597.0    13 (3/2+,5/2+)                                               
+ 25MGX L XREF=FL                                                                
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG cL T$|G=1.10 {I4}/(2J+1) keV.                                             
+ 25MG  L 8656       2 7/2              10 FS     LT                             
+ 25MGX L XREF=FH                                                                
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       3945 2 35      8  D+Q       +0.21 15                             
+ 25MG  G       5251 2 58     12                                                 
+ 25MG  G       5918 2 100    23                                                 
+ 25MG  G       6691 2 46     12                                                 
+ 25MG  G       7044 2 54     12                                                 
+ 25MG  G       8656 2 92     23  D(+Q)     +0.04 9                              
+ 25MG  L 8705      10                                                           
+ 25MGX L XREF=H                                                                 
+ 25MG  L 8811       2  9/2,11/2        8 FS      LT                             
+ 25MGX L XREF=FG                                                                
+ 25MG cL J$D(+Q) |gs to 9/2+ and 11/2+                                          
+ 25MG  G       2770 2 97     14  D(+Q)     -0.03 4                              
+ 25MG  G       3277 2 100    14  D(+Q)     -0.04 4                              
+ 25MG  G       4100 2 89     20                                                 
+ 25MG  L 8834.9    13 1/2+             50 KEV    10                             
+ 25MG2 L ISPIN=3/2                                                              
+ 25MGX L XREF=CHL                                                               
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8869.5    17 1/2-             15 KEV    1                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8888       3 (7/2,9/2+,11/2)  17 FS     LT                             
+ 25MGX L XREF=F                                                                 
+ 25MG cL J$From (d,p|g)                                                         
+ 25MG  G       4828 3 100       D(+Q)       0.00 3                              
+ 25MG  L 8894.4    16 3/2-              32 KEV   8                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8896       1 7/2-,9/2-        17 FS     8                              
+ 25MGX L XREF=CF                                                                
+ 25MG cL J$M1+E2 |g to 7/2-, |g to 11/2-                                        
+ 25MG  G       3103 1 100     3 M1+E2      -0.93 -44+33                         
+ 25MGB G BM1W=0.022 15$BE2W=12 9                                                
+ 25MG  G       4835 1 4       3                                                 
+ 25MG  L 8971.2    17 5/2+              16 KEV   4                              
+ 25MGX L XREF=L                                                                 
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG  L 8999.5    15                       9 FS LT                             
+ 25MGX L XREF=CFH                                                               
+ 25MG  G 3749      2    75   26                                                 
+ 25MG  G 4289      2    100  26                                                 
+ 25MG  L 9013       2 7/2,9/2,11/2     5 FS      LT                             
+ 25MGX L XREF=F                                                                 
+ 25MG cL J$D(+Q) to 9/2+                                                        
+ 25MG  G       3763 3 63     13                                                 
+ 25MG  G       4303 3 100    20                                                 
+ 25MG  G       4954 3 88     18  D(+Q)     +0.03 5                              
+ 25MG  L 9014.4    18 (1/2,3/2)-        10 KEV   LT                             
+ 25MGX L XREF=FL                                                                
+ 25MG cL J$From {+24}Mg(n,|g) E=Resonance                                       
+ 25MG cL T$|G=5.2 {I8}/(2J+1) keV.                                              
+ 25MG  L 9072.2     7                    18 KEV  4                              
+ 25MGX L XREF=FL                                                                
+ 25MG  L 9326.3     9                                                           
+ 25MGX L XREF=L                                                                 
+ 25MG  L 9410       3 9/2,11/2,13/2    12 FS     8                              
+ 25MGX L XREF=F                                                                 
+ 25MG cL J$D(+Q) |g to 11/2+                                                    
+ 25MG  G       3369 3 48      9 D(+Q)      -0.07 8                              
+ 25MG  G       3617 3 37      9                                                 
+ 25MG  G       4159 3 100    13  D(+Q)     -0.03 4                              
+ 25MG  L 9502.7    15                                                           
+ 25MGX L XREF=L                                                                 
+ 25MG  L 9651       2                  5 FS      LT                             
+ 25MGX L XREF=CF                                                                
+ 25MG  G       4188 3 100                                                       
+ 25MG  L 9685       2 (7/2,9/2,11/2)+  5 FS      LT                             
+ 25MGX L XREF=CF                                                                
+ 25MG cL J$M1+E2 |g to 9/2+                                                     
+ 25MG  G       4151 2 59     11                                                 
+ 25MG  G       6280 2 100    11  M1+E2     -0.14 7                              
+ 25MG  L 9830      10                                                           
+ 25MGX L XREF=F                                                                 
+ 25MG  G       2279   64     18                                                 
+ 25MG  G       4368   100    27                                                 
+ 25MG  G       4579   18      9                                                 
+ 25MG  L 9947       2  (15/2)+                                                  
+ 25MGX L XREF=CF                                                                
+ 25MG cL J$M1+E2 |g to 13/2+, rotational band assignment                        
+ 25MG  G       2399 2 64     18  M1+E2     -0.16 4                              
+ 25MG  G       4487 2 100    20  M1+E2      +0.5 5                              
+ 25MG  G       4698 2 18      9                                                 
+ 25MG  L 10039.6   15                                                           
+ 25MGX L XREF=L                                                                 
+ 25MG  L 10137      4                                                           
+ 25MGX L XREF=CF                                                                
+ 25MG  G       4604 4 100                                                       
+ 25MG  L 10253.5    9                                                           
+ 25MGX L XREF=L                                                                 
+ 25MG  L 10618      8 (3/2,5/2)+                                                
+ 25MG2 L ISPIN=3/2                                                              
+ 25MGX L XREF=G                                                                 
+ 25MG  L 10653      2  (15/2+)                                                  
+ 25MGX L XREF=C                                                                 
+ 25MGF L FLAG=W                                                                 
+ 25MG cL J$rotational band assignment                                           
+ 25MG  G       3103 2 6       3                                                 
+ 25MG  G       5120 2 100     3                                                 
+ 25MG  L 10996                                                                  
+ 25MGX L XREF=F                                                                 
+ 25MG  G 5534         100                                                       
+ 25MG  L 11003      3                                                           
+ 25MGX L XREF=C                                                                 
+ 25MG  G       5542 3 100                                                       
+ 25MG  L 11046.6   18                                                           
+ 25MGX L XREF=L                                                                 
+ 25MG  L 11200     10                                                           
+ 25MGX L XREF=F                                                                 
+ 25MG  G       5738   100                                                       
+ 25MG  L 11361      3                                                           
+ 25MGX L XREF=C                                                                 
+ 25MG  G       5568 3 100                                                       
+ 25MG  L 11410      3                                                           
+ 25MGX L XREF=CF                                                                
+ 25MG  G       3860 3 10      3                                                 
+ 25MG  G       5948 3 100     3                                                 
+ 25MG  L 11460      3                                                           
+ 25MGX L XREF=C                                                                 
+ 25MG  G       5998 3 100                                                       
+ 25MG  L 11486      6                                                           
+ 25MGX L XREF=C                                                                 
+ 25MG  G       3475 6 100                                                       
+ 25MG cG RI$Represents >62% decay branching for level.                          
+ 25MG  G       6024 6 61     LT                                                 
+ 25MG  L 11725      5 (1/2,3/2)-                                                
+ 25MG2 L ISPIN=3/2                                                              
+ 25MGX L XREF=G                                                                 
+ 25MG  L 11747     10                                                           
+ 25MGX L XREF=G                                                                 
+ 25MG  L 11779     10                                                           
+ 25MGX L XREF=G                                                                 
+ 25MG  L 12000.3   18                                                           
+ 25MGX L XREF=L                                                                 
+ 25MG  L 12898     10 (1/2,3/2)-                                                
+ 25MG2 L ISPIN=3/2                                                              
+ 25MGX L XREF=G                                                                 
+ 25MG  L 13143      4                                                           
+ 25MGX L XREF=C                                                                 
+ 25MG  G       7350 4 100                                                       
+ 25MG  L 13332     10                                                           
+ 25MGX L XREF=C                                                                 
+ 25MG  G       787010 100                                                       
+ 25MGX G FL=5461.1                                                              
+

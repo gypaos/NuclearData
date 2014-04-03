@@ -1,0 +1,212 @@
+ 14C     ADOPTED LEVELS, GAMMAS        1991AJ01                  91NP     200110
+ 14C   H TYP=ERR$AUT=J. Tuli$DAT=20-fEB-2008$COM=FIXED TYPOS AS PER PNPI$       
+ 14C 2 H COM=Removed MOMM1 from gs, it belonged to 6728 level$                  
+ 14C   H TYP=UPD$AUT=F. AJZENBERG-SELOVE, J.H. KELLEY AND C.D. NESARAJA$        
+ 14C 2 H CIT=NP A523,1 (1991)$CUT=1-JUL-1990$                                   
+ 14C   H TYP=UPD$AUT=V. Chechev$CIT=ENSDF$CUT=01-APR-1998$DAT=27-JUL-2000$      
+ 14C 2 H COM=UPDATED ENSDF BY R. HELMER USING DECAY EVALUATION$                 
+ 14C   H TYP=FUL$AUT=F. AJZENBERG-SELOVE$CIT=NP A523,1 (1991)$CUT=1-JUL-1990$   
+ 14C  D  ADDED PN RECORD (TWB. 940526)                                          
+ 14C   Q 156.475   4 8176.4425 20831.3 11-12011.6 4    1997AU04                 
+ 14C  PN                                                                     6  
+ 14C   XA14B B- DECAY                                                           
+ 14C   XB13C(N,G) E=THERMAL                                                     
+ 14C   XC13C(N,G) RES                                                           
+ 14C   XD9BE(6LI,P)                                                             
+ 14C   XE9BE(7LI,D)                                                             
+ 14C   XF11B(A,P)                                                               
+ 14C   XG11B(6LI,3HE),11B(7LI,A)                                                
+ 14C   XH12C(T,P)                                                               
+ 14C   XI12C(A,2P)                                                              
+ 14C   XJ13C(N,N') RES                                                          
+ 14C   XK13C(P,PI+)                                                             
+ 14C   XL13C(D,P)                                                               
+ 14C   XM13C(T,D)                                                               
+ 14C   XN13C(7LI,6LI)                                                           
+ 14C   XO14C(G,N) RES                                                           
+ 14C   XP14C(E,E')                                                              
+ 14C   XQ14C(PI,PI')                                                            
+ 14C   XR14C(P,P')                                                              
+ 14C   XS14C(D,D')                                                              
+ 14C   XT14C(A,A')                                                              
+ 14C   XU14C(14C,14C')                                                          
+ 14C   XV14N(G,PI+)                                                             
+ 14C   XW14N(PI-,G)                                                             
+ 14C   XX14N(N,P)                                                               
+ 14C   XY14N(D,2P)                                                              
+ 14C   XZ14N(T,3HE)                                                             
+ 14C   Xa15N(G,P)                                                               
+ 14C   Xb15N(D,3HE)                                                             
+ 14C   Xc16O(6LI,8B)                                                            
+ 14C  cL E(A)      Decay mode not specified                                     
+ 14C  cG MR        The signature has been changed, where necessary, from        
+ 14C 2cG that given in 1991Aj01 in order to conform to the convention used in   
+ 14C 3cG the Nuclear Data Sheets.                                               
+ 14C   L 0.0          0+               5700 Y    30                             
+ 14C 2 L %B-=100$ ISPIN=1$                                                      
+ 14C  cL T         From the weighted average of the values                      
+ 14C 2cL      5780 y {I65} [Watt et al. Intern. J. Appl. Radiat. Isot. 11 (1961)
+ 14C 3cL      68], 5680 y {I40} (1962Ol04), 5745 y {I50} (1964Hu09), 5660 y     
+ 14C 4cL {I30}      (1968Be47), and 5736 y {I56} (1968ReZZ and 1972Em01).  The  
+ 14C 5cL      reduced-|h{+2} for this average is 1.06.  These values were       
+ 14C 6cL      obtained from specific activity measurements.                     
+ 14C 7cL      Values that have not been included in the average, all earlier,   
+ 14C 8cL      are 4700 y {I400} (1946Re10), 5100 y {I200} (1948No02), 7200 y    
+ 14C 9cL {I500}      (1948Ya02), 6360 y {I200} (1949Ha52), 5589 y {I75}         
+ 14C 0cL (1949Jo07), 5580 y      90 [Engelkemeir & Libby, Rev. Sci. Instr. 21   
+ 14C AcL (1950) 550], 6360 y      190 and 5513 y {I165} [Miller et al., Phys.   
+ 14C BcL Rev. 77 (1950) 714],      5370 y {I200} [Manov & Curtiss, J. Research  
+ 14C CcL Nat. Bur. Std. 46 (1951)      328], 6100 y {I85} (1952Je11), 5900 y    
+ 14C DcL {I250} [Caswell et al., J.      Research Nat. Bur. Std. 53 (1954) 27]. 
+ 14C EcL      These values were omitted because of their large                  
+ 14C FcL      uncertainties and the later improvements in the measurement       
+ 14C GcL      methods.   From a similar evaluation, 1990Ho28 gives a result of  
+ 14C HcL      5715 y {I30} from an unweighted average of eight values.          
+ 14C IcL      Evaluated by V. Chechev in 1998 in conjunction with the Decay     
+ 14C JcL      Data Evaluation Project (1999BeZS,1999BeZQ).                      
+ 14C 3 L XREF=ABDEFGHIJKLMNOPQRSTUVWXYZabc                                      
+ 14C   L 6093.8    2  1-               7 FS      LT                             
+ 14C 2 L XREF=ABDEFGHKLMNPQTZb                                                  
+ 14C   G 6092.4     2 100      [E1]                                             
+ 14C 2 G BE1W>7.3E-4$                                                           
+ 14C   L 6589.4    2  0+               3.0 PS    4                              
+ 14C 2 L XREF=ABDEFHLM                                                          
+ 14C   G 495.35    10 100.0   1[E1]                                             
+ 14C 2 G BE1W=0.0032 4$                                                         
+ 14C   G 6587.7     2          [E0]                              1.1       1    
+ 14C  cG TI        this decay mode is due entirely to internal pairs            
+ 14C   L 6728.2    13 3-               66 PS     8                              
+ 14C 2 L MOMM1=0.816 21 (1989Ra17)                                              
+ 14C 3 L XREF=ADEFGHIKLMNPQRSTUZb                                               
+ 14C   G 634.4     13 3.7    13[E2]                                             
+ 14C 2 G BE2W=1.5 6$                                                            
+ 14C   G 6726.5    13 100.1  13[E3]                                             
+ 14C 2 G BE3W=2.4 3$                                                            
+ 14C   L 6902.6    2  0-               25 FS     3                              
+ 14C 2 L XREF=BDEGHLMNP                                                         
+ 14C   G 808.8      3 100      [M1]                                             
+ 14C 2 G BM1W=1.6 2$                                                            
+ 14C   L 7012      4  2+               9.0 FS    14                             
+ 14C 2 L XREF=DEFGHKLMNPQRSbc                                                   
+ 14C   G 918        4 1.4     7[E1]                                             
+ 14C 2 G BE1W=0.0023 12$                                                        
+ 14C   G 7010       4 100.0   7[E2]                                             
+ 14C 2 G BE2W=1.8 3$                                                            
+ 14C   L 7341      3  2-               111 FS    42                             
+ 14C 2 L XREF=ADEGHKLMNPTZb                                                     
+ 14C   G 613        3 70      7[M1]                                             
+ 14C 2 G BM1W=0.29 10$                                                          
+ 14C  cG MR$|d(E2/M1)=-0.07 {I30}                                               
+ 14C   G 1248       3 100     7[M1]                                             
+ 14C 2 G BM1W=0.049 20$                                                         
+ 14C  cG MR$|d(E2/M1)=0.04 {I9}                                                 
+ 14C   G 7339       3 34      7[M2]                                             
+ 14C 2 G BM2W=0.38 15$                                                          
+ 14C   L 8317.9    8  2+               3.4 KEV   7                              
+ 14C 2 L %IT=?$ %N=?$                                                           
+ 14C 3 L XREF=BDEFGHIJKLMPQTWYZc                                                
+ 14C   L 9746      7  0+                                                    A   
+ 14C 2 L XREF=b                                                                 
+ 14C   L 9801      6  3-               45 KEV    12                             
+ 14C 2 L %IT=?$ %N=?$                                                           
+ 14C 3 L XREF=DFGHJKLMPTb                                                       
+ 14C   L 10425     5  2+                                                        
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DFHJKLMPTb                                                        
+ 14C   L 10449     7 GE 1                                                       
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DFGHJKb                                                           
+ 14C   L 10498     4 (3-)              26 KEV    8                              
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DGHJKLMb                                                          
+ 14C   L 10736     5  4+               20 KEV    7                          A   
+ 14C 2 L XREF=DFGHIKLMTW                                                        
+ 14C   L 11306     15 1+               46 KEV    12                             
+ 14C 2 L %IT=0.015 5$ %N=99.985 5$                                              
+ 14C 3 L XREF=DFJOPb                                                            
+ 14C   G 11301     15 100      [M1]                                             
+ 14C 2 G BM1W=0.22 5                                                            
+ 14C   L 11395     8  1-               22 KEV    7                              
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DFGHLMT                                                           
+ 14C   L 11500        1-,2-                                                    ?
+ 14C 2 L %N=100                                                                 
+ 14C  cL T         |G=broad                                                     
+ 14C 3 L XREF=J                                                                 
+ 14C   L 11666     10 4-               20 KEV    7                              
+ 14C 2 L XREF=DFGHIKLMPQRSTb                                                    
+ 14C   L 11730     9 (5-)                                                   A   
+ 14C 2 L XREF=DFGHIK                                                            
+ 14C   L 119E+2    3 (1-)              950 KEV   300                            
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=JLM                                                               
+ 14C   L 12583     10 (2-,3-)          95 KEV    15                             
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DGHJLMQTb                                                         
+ 14C   L 12863     8                   30 KEV    10                             
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DGHJLMP                                                           
+ 14C   L 12963     9 (3-)              30 KEV    10                             
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DGHJLMT                                                           
+ 14C   L 135E+2    1                   200 KEV   LT                         A  ?
+ 14C 2 L XREF=K                                                                 
+ 14C   L 13700        2-               1800 KEV  AP                             
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=J                                                                 
+ 14C   L 140.5E+2  10                  200 KEV   LT                         A  ?
+ 14C 2 L XREF=K                                                                 
+ 14C   L 14667     20(4+)              57 KEV    15                             
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DFGJ                                                              
+ 14C   L 14868     20(6+,5-)                                                A   
+ 14C 2 L XREF=DFGHIKb                                                           
+ 14C   L 15200     23 4-                                                    A   
+ 14C 2 L XREF=DFGKPQ                                                            
+ 14C   L 15370     30                                                       A  ?
+ 14C 2 L XREF=D                                                                 
+ 14C   L 15440     40(3-)                                                       
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DJ                                                                
+ 14C   L 16020     50(4+)                                                      ?
+ 14C 2 L %N=100                                                                 
+ 14C 3 L XREF=DJ                                                                
+ 14C   L 16430     16                                                       A   
+ 14C 2 L XREF=DFGH                                                              
+ 14C   L 16570     40                                                       A  ?
+ 14C 2 L XREF=D                                                                 
+ 14C   L 16715     30(1+)              200 KEV   AP                             
+ 14C 2 L %IT=?$ %N=?$                                                           
+ 14C 3 L XREF=BDF                                                               
+ 14C   L 17300     30 4-                                                        
+ 14C 2 L XREF=DFGPQRS                                                           
+ 14C   L 17500       (1+)              200 KEV   AP                            ?
+ 14C 2 L %IT=?$ %N=?$                                                           
+ 14C 3 L XREF=B                                                                 
+ 14C   L 17950     40                                                       A   
+ 14C 2 L XREF=D                                                                 
+ 14C   L 18100     40                                                       A   
+ 14C 2 L XREF=D                                                                 
+ 14C   L 18500                                                              A   
+ 14C  cL T         |G=broad                                                     
+ 14C 2 L XREF=K                                                                 
+ 14C   L 20400                                                              A   
+ 14C  cL T         |G=wide                                                      
+ 14C 2 L XREF=X                                                                 
+ 14C   L 21400                                                              A  ?
+ 14C 2 L XREF=F                                                                 
+ 14C   L 221E+2    1  (2-)                                                      
+ 14C 2 L ISPIN=2                                                                
+ 14C  cL ISPIN$tentative                                                        
+ 14C 3 L XREF=P                                                                 
+ 14C   L 23288     15                  50 KEV    AP                         A   
+ 14C 2 L XREF=FK                                                                
+ 14C   L 244E+2    1  4-               300 KEV   LT                             
+ 14C 2 L ISPIN=2                                                                
+ 14C  cL ISPIN$tentative                                                        
+ 14C 3 L XREF=PQ                                                                
+ 14C   L 24500                                                              A   
+ 14C  cL T         |G=wide                                                      
+ 14C 2 L XREF=KQ                                                                
+
+

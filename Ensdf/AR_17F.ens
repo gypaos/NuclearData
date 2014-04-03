@@ -1,0 +1,260 @@
+ 17F     ADOPTED LEVELS, GAMMAS        1993TI07                  93NP     199902
+ 17F   H TYP=MOD$AUT=J. Blachot$COM=added T reference$DAT=15-DEC-2000$          
+ 17F   H TYP=FUL$AUT=J.H. KELLEY, D.R. TILLEY, H.R. WELLER AND C.M. CHEVES$     
+ 17F 2 H CIT=NP A564, 1 (1993)$CUT=31-DEC-1992$                                 
+ 17F   Q -14538    50 16800  8  600.27 23-5818.67 37   1997AU04                 
+ 17F  PN                                                                     6  
+ 17F   XA17F B+ DECAY                                                           
+ 17F   XB14N(3HE,G)                                                             
+ 17F   XC14N(6LI,T)                                                             
+ 17F   XD15N(3HE,N)                                                             
+ 17F   XE16O(P,G)                                                               
+ 17F   XF16O(P,P),16O(P,A)                                                      
+ 17F   XG16O(D,N)                                                               
+ 17F   XH16O(3HE,D)                                                             
+ 17F   XI17O(P,N)                                                               
+ 17F   XJ17NE B+ DECAY                                                          
+ 17F  c  See other reaction references in 1993Ti07.                             
+ 17F  cL E(A)      Decay mode not specified                                     
+ 17F   L 0.0         5/2+              64.49 S   16                             
+ 17F 2 L %EC+%B+=100$ ISPIN=1/2$ MOMM1=+4.7223 12 (1989RA17)                    
+ 17F 3 L XREF=ABCDEGHIJ                                                         
+ 17F  cL T$weighted average of: 64.31 s {I9} (1977Az01), 64.50 s {I25}          
+ 17F 2cL (1972Al42) 65.2 s {I2} (1969Wo09)                                      
+ 17F   L 495.33    10 1/2+             286 PS    6                              
+ 17F 2 L XREF=BCDEGHIJ                                                          
+ 17F   G 495.32    10  100      [E2]                                            
+ 17F 2 G BE2W=25.0 5                                                            
+ 17F   L 3104      3  1/2-             19 KEV    1                              
+ 17F 2 L %IT=6.3E-5 11$ %P=100$ WIDTHG=0.012 EV 2                               
+ 17F 3 L XREF=BCDEFGHJ                                                          
+ 17F   G 2609      3 100       [E1]                                             
+ 17F 2 G BE1W=0.0015 3                                                          
+ 17F   L 3857      4  5/2-             1.5 KEV    2                             
+ 17F 2 L %IT=0.0073 17$ %P=100$ WIDTHG=0.11 EV 2                                
+ 17F 3 L XREF=BCDEFGH                                                           
+ 17F   G 3857      4 100       [E1]                                             
+ 17F 2 G BE1W=0.0043 8                                                          
+ 17F   L 4640      20 3/2-             225 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=CDFGIJ                                                            
+ 17F   L 5000      20 3/2+             1530 KEV                                 
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 5220      10 9/2-                                                  A   
+ 17F 2 L XREF=CD                                                                
+ 17F   L 5488      11 3/2-             68 KEV                                   
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=CDFJ                                                              
+ 17F   L 5672      20 7/2-             40 KEV                                   
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=CDF                                                               
+ 17F   L 5682      20(5/2-)            0.6 KEV   LT                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=CDF                                                               
+ 17F   L 5820      20 3/2+             180 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=CFI                                                               
+ 17F   L 6037      9  1/2-             30 KEV                                   
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=CDFJ                                                              
+ 17F   L 6560      20 1/2+             200 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 6697      7  5/2+             1.8 KEV   LE                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=CDF                                                               
+ 17F  cL T         author quotes |G|<1.6 {I2}                                   
+ 17F   L 6774      20(3/2+)            4.5 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 7027      20 5/2-             3.8 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=DF                                                                
+ 17F   L 7356      20(3/2+)            10 KEV    2                              
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=DF                                                                
+ 17F   L 7448      20                  5 KEV     LE                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 7454      20                  7 KEV     2                              
+ 17F 2 L %P=?$ %A=?$                                                            
+ 17F 3 L XREF=F                                                                 
+ 17F   L 7471      20                  5 KEV     2                              
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 7479      20 3/2+             795 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 7546      20 7/2-             30 KEV                                   
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 7750      40(1/2+)            179 KEV   30                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 7950      30                  10 KEV    3                              
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 8010      40                  50 KEV    20                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=E                                                                 
+ 17F   L 8070      30 5/2(+)           100 KEV   20                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=DF                                                                
+ 17F   L 8075      10(1/2,3/2)-                                                 
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=DJ                                                                
+ 17F   L 8200         3/2(-)           700 KEV   250                            
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 8383      10 5/2(-)           11 KEV    5                              
+ 17F 2 L %P=?$ %A=?$                                                            
+ 17F 3 L XREF=F                                                                 
+ 17F   L 8416      20(7/2+)            45 KEV    10                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 8436      10(1/2,3/2)-                                                 
+ 17F 2 L %P=100                                                                 
+ 17F   L 8750      60 5/2(+)           170 KEV   30                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 8760         3/2+             90 KEV    20                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 8825      25(1/2,3/2)-                                                 
+ 17F 2 L %P=100                                                                 
+ 17F   L 8980      20 7/2-             165 KEV   30                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 9170      60 3/2(+)           140 KEV   30                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=FI                                                                
+ 17F   L 9450      50                  200 KEV   40                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=J                                                                 
+ 17F   L 9920         9/2+             90 KEV    30                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 10030     60                  170 KEV   40                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=J                                                                 
+ 17F   L 10040     40 7/2              280 KEV   100                            
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 10220     40                  250 KEV   80                             
+ 17F 2 L %A=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 10400     40 5/2(+)           160 KEV   40                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 10499     30 7/2-             165 KEV   25                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 10660     20                  90 KEV    60                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=J                                                                 
+ 17F   L 10790     40                  120 KEV   40                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F  cL           The |a decay mode is tentative                               
+ 17F   L 1091E+1   10 1/2-             560 KEV   100                            
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 10950     40                  190 KEV   50                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F  cL           The |a decay mode is tentative                               
+ 17F   L 11192.9   23 1/2-             0.18 KEV  3                              
+ 17F 2 L %IT=3.3 15$ %P=?$ %A=?$ ISPIN=3/2$ WIDTHG=6.0 EV 25                    
+ 17F 3 L XREF=DEFJ                                                              
+ 17F   G 10694.0   23 100      [E1]                                             
+ 17F 2 G BE1W=0.011 5                                                           
+ 17F   L 11430     40                  240 KEV   50                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 11580     50                  160 KEV   30                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 12000     40                  120 KEV   40                             
+ 17F 2 L %P=?$ %A=?                                                             
+ 17F 3 L XREF=F                                                                 
+ 17F   L 12250     40 3/2-             300 KEV   30                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 12355     20 1/2-             190 KEV   20                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 12500     AP 7/2-             600 KEV   AP                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 12550.1   9  3/2-             2.83 KEV  12                             
+ 17F 2 L %IT=?$ %P=?$ %A=?$ ISPIN=3/2                                           
+ 17F 3 L XREF=DEF                                                               
+ 17F   L 13061     4  5/2-             2 KEV     1                              
+ 17F 2 L %IT=?$ %P=?$ %A=?$ ISPIN=3/2                                           
+ 17F 3 L XREF=DEF                                                               
+ 17F   L 13080     4 (1/2+)            2 KEV     1                              
+ 17F 2 L %P=?$ %A=?$ ISPIN=3/2                                                  
+ 17F 3 L XREF=F                                                                 
+ 17F   L 1313E+1   10 5/2-             520 KEV   50                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 13781     4  5/2+             12 KEV    5                              
+ 17F 2 L %P=?$ %A=?$ ISPIN=3/2                                                  
+ 17F 3 L XREF=F                                                                 
+ 17F   L 14000     50 7/2-             260 KEV   30                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 14176     6  3/2-             30 KEV    5                              
+ 17F 2 L %IT=?$ %P=?$ ISPIN=3/2                                                 
+ 17F 3 L XREF=EF                                                                
+ 17F   L 14304     3  7/2-             19.3 KEV  16                             
+ 17F 2 L %IT=?$ %P=?$ %A=?$ ISPIN=3/2                                           
+ 17F 3 L XREF=EF                                                                
+ 17F   L 14380     50 5/2-             610 KEV   50                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=FI                                                                
+ 17F   L 1471E+1   10 1/2-             470 KEV   100                            
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 14809     20 1/2+             190 KEV   25                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 15600                         550 KEV   AP                             
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 17100        5/2-             1500 KEV                                 
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 2010E+1   20                  1070 KEV  60                             
+ 17F 2 L %IT=?$ %3HE=?                                                          
+ 17F 3 L XREF=B                                                                 
+ 17F   L 2040E+1   10                  700 KEV   100                            
+ 17F 2 L %IT=?$ %3HE=?                                                          
+ 17F 3 L XREF=B                                                                 
+ 17F   L 20900        9/2+             600 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 2130E+1   10                  900 KEV   100                            
+ 17F 2 L %IT=?$ %3HE=?                                                          
+ 17F 3 L XREF=B                                                                 
+ 17F   L 21800       (9/2+)            400 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 22700        7/2+             600 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 23800        7/2+             600 KEV                                  
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 25400        7/2-             1500 KEV                                 
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 27200        5/2-             1500 KEV                                 
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+ 17F   L 28900        5/2+             2000 KEV                                 
+ 17F 2 L %P=100                                                                 
+ 17F 3 L XREF=F                                                                 
+                                                                                
+

@@ -1,0 +1,96 @@
+  8LI    ADOPTED LEVELS, GAMMAS        2004TI06                  04NP     200505
+  8LI  H TYP=FUL$AUT=J.H. KELLEY, J.L. GODWIN, C.G. SHEU, ET AL.$               
+  8LI2 H CIT=NP A745, 155 (2004)$CUT=31-Mar-2004$                               
+  8LI  Q 16005.17  102032.62 1212443   17-7.38E+310    2003AU02                 
+  8LI c  For additional states see reaction: {+7}Li(n,n) 1987Kn04               
+  8LI cG E         From E(level) difference; recoil correction applied          
+  8LI  XA8HE B- DECAY                                                           
+  8LI  XB6LI(T,P)                                                               
+  8LI  XC7LI(N,G) E=THERMAL                                                     
+  8LI  XD7LI(N,G)                                                               
+  8LI  XE7LI(N,N)                                                               
+  8LI  XF7LI(N,N')                                                              
+  8LI  XG7LI(P,PI+)                                                             
+  8LI  XH7LI(D,P)                                                               
+  8LI  XI9BE(P,2P)                                                              
+  8LI  XJ9BE(D,3HE)                                                             
+  8LI  XK9BE(T,A)                                                               
+  8LI  XL9BE(7LI,8BE)                                                           
+  8LI  XM10BE(P,3HE)                                                            
+  8LI  XN11B(N,A)                                                               
+  8LI  XO11B(7LI,10B)                                                           
+  8LI  XP12C(8LI,8LI'), NI(8LI,8LI')                                            
+  8LI  XQAG(14N,8LI), 165HO(14N,8LI)                                            
+  8LI  L 0.0         2+                839.9 MS  9                              
+  8LI2 L ISPIN=1 $ %B-=100 $ %B-A=100 $ MOMM1=+1.653560 18 $ MOME2=+0.0327 6    
+  8LI3 L XREF=ABCDGHIJKLNOQ                                                     
+  8LI cL T         from weighted average of 838 ms {I6} (1971Wi05),             
+  8LI2cL 836 ms {I3} (Mingay et al., S. African Journal of Physics              
+  8LI3cL 2 (1979)107) and 840.3 ms {I9} (1990Sa16).                             
+  8LI cL           |m from (1989Ra17). Q from (1993Mi34).                       
+  8LI  L 980.80    101+                8.2 FS    23                             
+  8LI2 L %IT=100 $ ISPIN=1                                                      
+  8LI3 L XREF=ABCDGHIJKLNOP                                                     
+  8LI cL E         from {+9}Be(t,|a|g) (1972Co09)                               
+  8LI cL T         from weighted average of                                     
+  8LI2cL T{-1/2}=7.0 fs {I3}.1 {+7}Li(d,p) (1971Th02) and                       
+  8LI3cL T{-1/2}=10.1 fs {I3}.4 {+9}Be(t,a |g) (1972Co09).                      
+  8LI  G 980.7                 M1                                               
+  8LI2 G WIDTHG=5.5E-2 EV 18 $ BM1W=2.8 9                                       
+  8LI  L 2255      3 3+                32.3 KEV  57                             
+  8LI2 L ISPIN=1 $ %IT=2.1E-4 10 $ %N AP 100                                    
+  8LI3 L XREF=BDEGIJKLQ                                                         
+  8LI cL E         from {+7}Li(n,|g).                                           
+  8LI cL WIDTH     From weighted average of                                     
+  8LI2cL |G=35 keV {I10} {+6}Li(t,p) (1978Aj02) and                             
+  8LI3cL 31 keV {I7} {+7}Li(n,|g).                                              
+  8LI  G 2255                  M1                                               
+  8LI2 G WIDTHG=7.0E-2 EV 30 $ BM1W=0.29 13                                     
+  8LI  L 3210        1+                1000 KEV  AP                             
+  8LI2 L ISPIN=1 $ %N=100                                                       
+  8LI3 L XREF=AF                                                                
+  8LI cL E         reported values are E=3210 keV {+8}He |b-decay,              
+  8LI2cL and 3213 keV {+7}Li(n,n).                                              
+  8LI cL WIDTH     From {+7}Li(n,n).                                            
+  8LI cL %N        No other decay modes are reported                            
+  8LI  L 5400        1+                650 KEV   AP                             
+  8LI2 L ISPIN=1 $ %N AP 100                                                    
+  8LI3 L XREF=AEF                                                               
+  8LI cL E         reported values are E=5400 keV {+8}He |b-decay,              
+  8LI2cL 5400 keV {+7}Li(n,n), and 5355 keV {+7}Li(n,n').                       
+  8LI cL WIDTH     From {+7}Li(n,n').                                           
+  8LI cL %N        No other decay modes are reported                            
+  8LI cL           A J|p=2+ level is suggested in {+7}Li(n,n')(1972Pr03).       
+  8LI  L 6.1E+3    1 (3)               1000 KEV  AP                             
+  8LI2 L ISPIN=1 $ %N AP 100                                                    
+  8LI3 L XREF=E                                                                 
+  8LI cL E         from {+7}Li(n,n).                                            
+  8LI cL WIDTH     From {+7}Li(n,n).                                            
+  8LI cL %N        No other decay modes are reported                            
+  8LI  L 6530      204+                35 KEV    15                             
+  8LI2 L ISPIN=1 $ %N AP 100                                                    
+  8LI3 L XREF=BEGJK                                                             
+  8LI cL E         from weighted average of                                     
+  8LI2cL E=6540 keV {I30} {+6}Li(t,p) (1978Aj02) and                            
+  8LI3cL 6530 keV {I20} {+9}Be(t,|a).                                           
+  8LI cL WIDTH     From {+6}Li(t,p) (1978Aj02).                                 
+  8LI cL %N        No other decay modes are reported                            
+  8LI  L 7.1E+3    1                   400 KEV   AP                             
+  8LI2 L %N AP 100                                                              
+  8LI3 L XREF=E                                                                 
+  8LI cL E         from {+7}Li(n,n).                                            
+  8LI cL WIDTH     From {+7}Li(n,n).                                            
+  8LI cL %N        No other decay modes are reported                            
+  8LI  L 9000                          6000 KEV  AP                            ?
+  8LI3 L %N=? $ XREF=FI                                                         
+  8LI  L 9670      AP1+                1000 KEV  AP                             
+  8LI2 L XREF=A                                                                 
+  8LI3 L %N=? $ %3H=?                                                           
+  8LI  L 10822.2   550+                  12 KEV  LT                             
+  8LI2 L ISPIN=2                                                                
+  8LI3 L XREF=M                                                                 
+  8LI cL           Decay mode not specified                                     
+
+
+
+

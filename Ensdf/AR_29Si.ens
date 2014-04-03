@@ -1,0 +1,639 @@
+ 29SI    ADOPTED LEVELS, GAMMAS                                  12NDS    201205
+ 29SI  H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CUT=1-Jan-2012$                     
+ 29SI  Q -4942.5   6 8473.60 2 12333.5612-11127.2  1   2011AUZZ,2003AU03        
+ 29SI c                                                                         
+ 29SI c  Other reactions:                                                       
+ 29SI c  {+12}C({+19}F,pn|g): 1971Mc20                                          
+ 29SI c  {+25}Mg({+6}Li,|a): 1974An15, 1975An13                                 
+ 29SI c  {+29}Si(n,n): 1970Di10                                                 
+ 29SI c  {+29}Si(p,p'|g),(p,p),(p,p'): 1989Vo05, 1983Ch50, 1980Fa07,            
+ 29SI2c  1978To08, 1970Ma49, 1970De01, 1961Mc08                                 
+ 29SI c  Coulomb Excitation: 1977Sc36, 1967Af03                                 
+ 29SI cG E$Calculated by the evaluator from level energy differences,           
+ 29SI2cG E{-i}-E{-f} and recoil energy subtracted, except otherwise noted.      
+ 29SI cG E(A)$From {+29}Al |b{+-} decay                                         
+ 29SI cG E(E)$From (|a,n|g)                                                     
+ 29SI cG E(G),RI(G)$From (n,|g) E=31.7,55.9 keV                                 
+ 29SI cG E(H),RI(H)$From {+28}Si(n,|g) E=thermal                                
+ 29SI cG RI$From {+28}Si(d,p),(d,p|g), except otherwise noted                   
+ 29SI cG RI(C)$Mainly from 1982Be52. In some cases, from 1969Ha51, 1976Ke04,    
+ 29SI2cG 1967Be29                                                               
+ 29SI cG RI(F)$From {+28}Si(d,p),(d,p|g)                                        
+ 29SI cG M$From {+26}Mg(|a,n|g) dataset, except otherwise noted. In some cases, 
+ 29SI2cG parity of multipole radiation is assigned by the evaluator based on the
+ 29SI3cG RUL. In a few cases the calculated value of B(M1)(W.u)                 
+ 29SI4cG are slightly larger by 2 or 3 sigma compared to the RUL.               
+ 29SI cG M(L)$From {+28}Si(d,p),(d,p|g) dataset                                 
+ 29SI cG M(M)$Assigned by the evaluator based on the reported mixing ratio and  
+ 29SI2cG or from J|p assignments of the initial and final levels and the RUL.   
+ 29SI3cG In a few cases the calculated value of B(M1)(W.u) are slightly         
+ 29SI4cG larger by 2 or 3 sigma to the RUL.                                     
+ 29SI cG MR$Weighted average of data from 1970Ma49, 1960Li12, 1971Sp02,         
+ 29SI2cG 1971Ba73, 1973Vi05, and 1974Vi01, except otherwise noted.              
+ 29SI cG MR(I)$From 1960Li12                                                    
+ 29SI cG MR(J)$From 1982Be52                                                    
+ 29SI cG MR(K)$From 1974Vi01                                                    
+ 29SI cL E$Up to 6380 keV, deduced from a least-squares fit to the measured     
+ 29SI2cL |g-ray energies. Above 6380 keV, level energies are from (d,p),(d,p|g),
+ 29SI4cL except otherwise noted.                                                
+ 29SI cL E(Z)$From (n,|g) E=thermal                                             
+ 29SI cL E(Y)$From (n,|g) E=31.7,55.9 keV                                       
+ 29SI cL T(X)$From 1980Sc25 - (d,p),(d,p|g)                                     
+ 29SI cL T(W)$From (|a,n|g)                                                     
+ 29SI cL T(V)$Using the Limitation of Relative Statistical Weight (LWM)         
+ 29SI2cL averaging method (data listed in comment section).                     
+ 29SI cL T(U)$From 1990Ti07 - ({+16}O,pn|g)                                     
+ 29SI  XA29AL B- DECAY                                                          
+ 29SI  XB29P B+ DECAY                                                           
+ 29SI  XH15N(16O,PNG)                                                           
+ 29SI  XE26MG(A,NG)                                                             
+ 29SI  XF27AL(3HE,P),(6LI,A)                                                    
+ 29SI  XG29SI(E,E')                                                             
+ 29SI  XC28SI(N,G) E=THERMAL                                                    
+ 29SI  XI28SI(N,G) E=31.7,55.9 KEV                                              
+ 29SI  XD28SI(D,P),(D,PG)                                                       
+ 29SI  XJ30SI(D,T),(3HE,A)                                                      
+ 29SI PN                                                                     6  
+ 29SI  L 0           1/2+              STABLE                                   
+ 29SIX L XREF=ABCDEFGHIJ                                                        
+ 29SI cL J$From Nuclear Magnetic Resonance (1954Wi08) and Microwave Spectroscopy
+ 29SI2cL (1953Wh39) measurements. L=0 ((d,p),(d,p|g))                           
+ 29SIM L MOMM1=-0.55529 3                                                       
+ 29SI cL MOMM1$From 1989Ra17, 2005St24, 2011StZZ                                
+ 29SI  L 1273.387   9 3/2+             291 FS    10                         X   
+ 29SIX L XREF=ABCDEFGIJ                                                         
+ 29SI cL J$L=2 (spectroscopic factor calculation), 1273|g M1+E2 to 1/2+         
+ 29SI  G 1273.361  9 100       M1+E2     +0.197   9                         A   
+ 29SIB G BM1W=0.0353 13$BE2W=4.1 4                                              
+ 29SI2 G FLAG=M                                                                 
+ 29SI  L 2028.16    4 5/2+             306 FS    10                         X   
+ 29SIX L XREF=ABCDEFGIJ                                                         
+ 29SI cL J$L=2 ((d,p),(d,p|g)), 2028|g to 1/2+                                  
+ 29SI  G 754.84     7     6.4 6                                             A   
+ 29SI  G 2028.09    7   100.0 6                                             A   
+ 29SI  L 2425.97    3 3/2+             18.1 FS   7                              
+ 29SIX L XREF=ABCDEFGHIJ                                                        
+ 29SI cL J$L=2 ((d,p),(d,p|g)), 2425.7|g M1+E2 to 1/2+ state                    
+ 29SI cL T$From weighted average of mean lifetimes 25.8 fs {I13} (1990Ti07) and 
+ 29SI2cL 26.6 fs {I16} (1980Sc25). Other mean lifetimes: 29 fs {I13} (1972Ba44),
+ 29SI3cL 13 fs {I3} (1971Ba73), 24 fs {I14} (1970De01), 20 fs {I7} (1968Ba24),  
+ 29SI4cL and 20 fs {I7} (1962Bo17).                                             
+ 29SI  G 397.85     5    0.5920                                             A   
+ 29SI  G 1152.57   3     17.6 8                                             A   
+ 29SI  G 2425.73   20   100.0 8 M1+E2    -0.32   7                          A   
+ 29SIB G BM1W=0.065 4$BE2W=5.5 22                                               
+ 29SI2 G FLAG=M                                                                 
+ 29SI  L 3067.13    5 5/2+             33 FS     1                              
+ 29SIX L XREF=ACDEFHIJ                                                          
+ 29SI cL J$L=2 ((d,p),(d,p|g)), 1739.8|g and 1038.9|g M1+E2 to 3/2+ and 5/2+    
+ 29SI2cL states, respectively.                                                  
+ 29SI cL T$From weighted average of mean lifetimes: 47 fs {I3} (1990Ti07) and   
+ 29SI2cL 46 fs {I3} (1980Sc25). Other mean lifetimes: 20 fs {I+25-10}           
+ 29SI3cL (1972Ba44), 20 fs {I7} (1971Ba73), and 23 fs {I11} (1968Ba24).         
+ 29SI  G 641.3            2.613                                                 
+ 29SI  G 1038.89   10      21 3M1+E2     +0.04   2                          H   
+ 29SIB G BM1W=0.099 16$BE2W=0.7 +8-7                                            
+ 29SI2 G FLAG=M                                                                 
+ 29SI  G 1793.83    8     100 4M1+E2     +0.26   2                          A   
+ 29SIB G BM1W=0.086 6$BE2W=8.8 14                                               
+ 29SI2 G FLAG=M                                                                 
+ 29SI  G 3067           3.8  LT                                             C   
+ 29SI  L 3623.49   15 7/2-             2.63 PS   9                              
+ 29SIX L XREF=DEFGHJ                                                            
+ 29SI cL J$L=3 ((d,p),(d,p|g)), 1595|g to 5/2+, |g-ray from 7/2- state          
+ 29SI cL T$From weighted average of mean lifetimes 3.76 ps {I19} (1990Ti07) and 
+ 29SI2cL 3.83 ps {I17} (1980Sc25). Other mean lifetimes: 4.2 ps {I13}           
+ 29SI3cL (1972Ba44), 4.0 ps {I8} (1971Ba73), 5 ps {I+3-2} (1969Wo04), and 4.2   
+ 29SIxcL ps {I4} (1971Mc20).                                                    
+ 29SI  G 556.2     2     10.112                                             E   
+ 29SI2 G FLAG=C                                                                 
+ 29SI  G 1198           12.6 23                                                 
+ 29SI  G 1595.5    2    100  3                                              E   
+ 29SI  G 2350.6          2.3 11                                                 
+ 29SI  G 3624            0.38 7                                             C   
+ 29SI  L 4079.9     3 7/2+             44 FS     12                         V   
+ 29SIX L XREF=EFHJ                                                              
+ 29SI cL J$L=(0,2) ({+27}Al({+3}He,p|g)), 2051.9|g M1+E2 to 5/2+, 2806|g to     
+ 29SI2cL 3/2+; M1+E2 transition feeding from 9/2+.                              
+ 29SI cL T$From weighted average of mean lifetimes 82 fs {I5} (1990Ti07), 40 fs 
+ 29SI2cL {I8} (1972Ba44), 48 fs {I8} (1971Ba73), and 70 fs {I20} (1969Wo04).    
+ 29SI  G 456            7.1  LT                                             C   
+ 29SI  G 1654           8.9  LT                                             C   
+ 29SI  G 2051.9    5       79 6 M1+E2    +0.08   2                          E   
+ 29SI2 G FLAG=CM                                                                
+ 29SIB G BM1W=0.024 7$BE2W=0.18 11                                              
+ 29SI  G 2806.3    3      100 6 (E2)                                        E   
+ 29SI2 G FLAG=C                                                                 
+ 29SIB G BE2W=7.5 22                                                            
+ 29SI  L 4741.1     3 (9/2+)           36 FS     7                          V   
+ 29SIX L XREF=EF(4753)H                                                         
+ 29SI cL J$2712.8|g to 5/2+, 660|g to (7/2+)                                    
+ 29SI cL T$From weighted average of mean lifetimes 65 fs {I3} (1990Ti07),       
+ 29SI2cL 33 fs {I10} (1972Ba44), and 45 fs {I10} (1971Ba73).                    
+ 29SI  G 660.2     22     6.411                                             E   
+ 29SI2 G FLAG=C                                                                 
+ 29SI  G 1116.8         1    LT                                             C   
+ 29SI  G 2712.8     3  100.0 11 (E2)                                        E   
+ 29SI2 G FLAG=C                                                                 
+ 29SIB G BE2W=19 4                                                              
+ 29SI  L 4840.38    7 1/2+             3.5 FS    LT                         W   
+ 29SIX L XREF=CDEF                                                              
+ 29SI cL J$L=0 (d,p),(d,p|g)                                                    
+ 29SI  G 3566.5     5    15  5                                              H   
+ 29SI  G 4839.6     4   100  13 (M1)                                        H   
+ 29SIB G BM1W>0.048                                                             
+ 29SI  L 4895.2     4 5/2+             12 FS     5                          V   
+ 29SIX L XREF=DEFHJ                                                             
+ 29SI cL J$L=2 (d,p),(d,p|g), 4894|g (E2) to 1/2+                               
+ 29SI cL T$From weighted average of mean lifetimes 25 fs {I4} (1990Ti07),       
+ 29SI2cL and 10 fs {I3} (1971Ba73).                                             
+ 29SI  G 1828            5.5  9                                             C   
+ 29SI  G 2469            9.1  9                                             C   
+ 29SI  G 2867.0     7      35 4 D+Q                                         E   
+ 29SI2 G FLAG=C                                                                 
+ 29SI  G 3621.6     4     100 7 (M1)                                        E   
+ 29SI2 G FLAG=C                                                                 
+ 29SIB G BM1W=0.021 9                                                           
+ 29SI  G 4893.8    12      33 4 (E2)                                        E   
+ 29SI2 G FLAG=C                                                                 
+ 29SIB G BE2W=0.6 3                                                             
+ 29SI  L 4934.438  23 3/2-             0.84 FS   12                             
+ 29SIX L XREF=CDEFI                                                             
+ 29SI cL J$L=1 (d,p),(d,p|g), 4934|g (E1) to 1/2+                               
+ 29SI cL T         From 1965Sk01                                                
+ 29SI  G 1867.29    5    1.17 5                                             H   
+ 29SI  G 2508.24   13  0.38   5                                             H   
+ 29SI  G 2906.2     5  0.06   2                                             H   
+ 29SI  G 3660.80   6      6.2 3                                             H   
+ 29SI  G 4933.98   3    100   3 (E1)                                        H   
+ 29SIB G BE1W=0.0066 10                                                         
+ 29SI  L 5254.4     4 (9/2-)           82 FS     4                              
+ 29SIX L XREF=EFH                                                               
+ 29SI cL J$1631|g (M1+E2) to 7/2-, |g-ray feeding the level from 11/2- state    
+ 29SI cL T$From weighted average of mean lifetimes 80 fs {I4} (1990Ti07), 80 fs 
+ 29SI2cL {I10} (1972Ba44), and 100 fs {I20} (1971Ba73).                         
+ 29SI  G 1631.0     3   100.0  (M1+E2)   +0.43   2                          E   
+ 29SI2 G FLAG=C                                                                 
+ 29SIB G BM1W=0.051 3$BE2W=17.4 17                                              
+ 29SI  G 2187.2         3    LT                                             C   
+ 29SI  L 5284.7     5 7/2+             6 FS      3                          U   
+ 29SIX L XREF=DEF(5291)H                                                        
+ 29SI cL J$3256|g M1+E2 to 5/2+, 4012|g to 3/2+. '+' from L=0 in ({+3}He,p)     
+ 29SI  G 2218           20.3  3                                                 
+ 29SI  G 2859.3         17.2 16                                                 
+ 29SI  G 3256.3    5      100 5  M1+E2   -0.19   2                          E   
+ 29SIB G BM1W=0.07 4$BE2W=1.1 6                                                 
+ 29SI  G 4012           17.2 16                                                 
+ 29SI  L 5652.2     7 9/2+             51 FS     3                          U   
+ 29SIX L XREF=DEFH                                                              
+ 29SI cL J$L=4 (d,p),(d,p|g), 1572|g M1+E2 to 7/2+                              
+ 29SI cL T$Other: 40 fs {I15} (1971Ba23)                                        
+ 29SI  G 911.3          20.8 21                                                 
+ 29SI  G 1572.2    6      100 6  M1+E2   +0.32   4                          E   
+ 29SI2 G FLAG=I                                                                 
+ 29SIB G BM1W=0.049 5$BE2W=9.9 25                                               
+ 29SI  G 2585.3    20      85 6                                             E   
+ 29SI  L 5811.7     7 7/2+             32 FS     12                         V   
+ 29SIX L XREF=EF(5822)H                                                         
+ 29SI cL J$2745.3|g M1+E2 5/2+, 3386.6|g (E2) to 3/2+; '+' from L=0 in          
+ 29SIxcL ({+3}He,p)                                                             
+ 29SI cL T$From mean lifetimes 44 fs {I3} (1990Ti07), and 20 fs {I8} (1972Ba44).
+ 29SI  G 2745.3    11     100 6 M1+E2    +0.06   3                          E   
+ 29SI2 G FLAG=C                                                                 
+ 29SIB G BM1W=0.017 7$BE2W=0.04 +5-4                                            
+ 29SI  G 3386.6            52 6                                             C   
+ 29SI  G 3782.8    8       48 4 D+Q                                         E   
+ 29SI2 G FLAG=C                                                                 
+ 29SI  L 5947       3 3/2+             10 FS     LT                         W   
+ 29SIX L XREF=DEF(5962)                                                         
+ 29SI cL J$L=2 (d,p), 5946|g D+Q to 1/2+, 3921|g to 5/2+                        
+ 29SI  G 2882            100 12                                                 
+ 29SI  G 3523             74  8                                                 
+ 29SI  G 3921             59  8                                                 
+ 29SI  G 4675             93 12                                                 
+ 29SI  G 5946      3      44  8   D+Q                                       E   
+ 29SI  L 6107.1     5  5/2             21 FS     3                          U   
+ 29SIX L XREF=EF(6120)H                                                         
+ 29SI cL J$4079|g D+Q to 5/2+, 3680|g to 3/2+, 2482.7|g to 7/2-                 
+ 29SI  G 2482.7         11.1 16                                             C   
+ 29SI  G 3680.0    10      48 4                                             E   
+ 29SI2 G FLAG=C                                                                 
+ 29SI  G 4078.8    5      100 4 D+Q      -0.36   20                         E   
+ 29SI2 G FLAG=CJ                                                                
+ 29SI  L 6192.8     7 7/2-             17 FS     3                          U   
+ 29SIX L XREF=DEF(6206)H                                                        
+ 29SI cL J$L=3 (d,p), 4161.9|g D+Q to 5/2+                                      
+ 29SI  G 939.5          2.1  4                                                  
+ 29SI  G 2569.8         4.3  4                                                  
+ 29SI  G 4161.9    12 100.0  11 D+Q      +0.04   1                          E   
+ 29SI2 G FLAG=K                                                                 
+ 29SI  L 6380.610  25 1/2-             0.36 FS   11                             
+ 29SIX L XREF=CDEF                                                              
+ 29SI cL J$L=1 (d,p), 6380|g to 1/2+, 5106|g to 3/2+                            
+ 29SI cL T$From 1965Re09                                                        
+ 29SI  G 1446.14   4    7.05 25                                             H   
+ 29SI  G 1540.18   6    3.11 25                                             H   
+ 29SI  G 3954.44   5    23.2 16                                             H   
+ 29SI  G 5106.74   6    32.6 16                                             H   
+ 29SI  G 6379.80   4    100  5   D                                          H   
+ 29SI  L 6423      1 (7/2+)            14 FS     LT                         W   
+ 29SIX L XREF=DEF(6433)                                                         
+ 29SI cL J$4395|g D+Q to 5/2+                                                   
+ 29SI  G 3356              67 7                                                 
+ 29SI  G 4395             100 7 D+Q      -0.3    2                          J   
+ 29SI2 G FLAG=L                                                                 
+ 29SI  L 6496.23   21 1/2+ TO 5/2+     24 FS     LT                         W   
+ 29SIX L XREF=DEF(6505)G                                                        
+ 29SI cL J$|g-ray transitions to 1/2+, 3/2+, 5/2+ states                        
+ 29SI  G 4070             100 8                                                 
+ 29SI  G 4468              70 8                                                 
+ 29SI  G 6496              80 8                                                 
+ 29SI  L 6522      1 5/2+              10 FS     LT                         W   
+ 29SIX L XREF=DEF(6531)G                                                        
+ 29SI cL J$L=2 for doublet and assignment 5/2+ based on form factor in 1977Br35 
+ 29SI  G 4096              76 6                                                 
+ 29SI  G 4493              32 6                                                 
+ 29SI  G 5248             100 8                                                 
+ 29SI  G 6521              55 8                                                 
+ 29SI  L 6615      1 (9/2+)            14 FS     LT                         W   
+ 29SIX L XREF=DEF(6628)                                                         
+ 29SI cL J$4588|g to 5/2+, 2992|g to 7/2-                                       
+ 29SI  G 2992              41 3                                                 
+ 29SI  G 4588             100 3                                                 
+ 29SI  L 6695.93   14 1/2+                                                      
+ 29SIX L XREF=D                                                                 
+ 29SI cL J$L=0 (d,p)                                                            
+ 29SI  G 1761.3         12.5 25                                                 
+ 29SI  G 5422           12.5 25                                                 
+ 29SI  G 6695             100 5                                                 
+ 29SI  L 6710      1 (5/2+)            62 FS     LT                         W   
+ 29SIX L XREF=DF(6723)J                                                         
+ 29SI cL J$L=2 for doublet (d,p), 3642|g|g to 5/2+, 5435|g to 3/2+              
+ 29SI  G 1814.9            19 3                                                 
+ 29SI  G 3085.5            22 3                                                 
+ 29SI  G 3642.6           100 9                                                 
+ 29SI  G 4680.5            35 9                                                 
+ 29SI  G 5435.6            95 9                                                 
+ 29SI  L 6712.9    5 (3/2)                                                  Z   
+ 29SIX L XREF=CDF                                                               
+ 29SI cL J$L=2 for doublet (d,p), 6711|g to 1/2+, 4288.6|g to 3/2+              
+ 29SI  G 4288.6          20.512                                             C   
+ 29SI  G 6711.4    9    100.012                                             C   
+ 29SI  L 6781.1    7 (11/2-)           15 FS     2                          U   
+ 29SIX L XREF=DEF(6797)H                                                        
+ 29SI cL J$1526.6|g M1+E2 to (9/2-), 3157|g to 7/2-                             
+ 29SI  G 1526.6            96 4 (M1+E2)  +0.30   6                          K   
+ 29SIB G BM1W=0.19 3$BE2W=35 14                                                 
+ 29SI2 G FLAG=M                                                                 
+ 29SI  G 3156.9           100 4                                                 
+ 29SI  L 6908.52   6 (1/2+,3/2)                                             Z   
+ 29SIX L XREF=F(6928)CD                                                         
+ 29SI cL J$Populated from neutron capture state J|p=1/2+                        
+ 29SI  G 1973.9             8 3                                                 
+ 29SI  G 3841.4     6      25 3                                             H   
+ 29SI  G 4482.1     4      50 6                                             H   
+ 29SI  G 4880.2     5     10011                                             H   
+ 29SI  G 5634.4     4      67 8                                             H   
+ 29SI  G 6907.6     7      28 3                                             H   
+ 29SI  L 6921      1 (7/2+)            14 FS     LT                         W   
+ 29SIX L XREF=DE                                                                
+ 29SI cL J$4891.4|g D+Q to 5/2+                                                 
+ 29SI  G 4891.4      100        D+Q      -0.16   5                          K   
+ 29SI2 G FLAG=L                                                                 
+ 29SI  L 7014      1 (5/2-,7/2-)       32 FS     10                         W   
+ 29SIX L XREF=DEF(7020)G                                                        
+ 29SI cL J$Assignment from (e,e') study in 1977Br35.                            
+ 29SI  G 3389.4          14.020                                                 
+ 29SI  G 3946.5          16.020                                                 
+ 29SI  G 4587.2            60 6                                                 
+ 29SI  G 4985            10.020                                                 
+ 29SI  G 5740             100 6                                                 
+ 29SI  L 7058.00   9 1/2+              15 FS     LT                         Z   
+ 29SIX L XREF=CDE                                                               
+ 29SI2 L FLAG=W                                                                 
+ 29SI cL J$L=0 (d,p)                                                            
+ 29SI  G 2123.8    6      7.513                                             H   
+ 29SI  G 4632.3    7     11.313                                             H   
+ 29SI  G 5784.7    7      6.313                                             H   
+ 29SI  G 7056.9    4   100.0 25                                             H   
+ 29SI  L 7072      1 (3/2+,5/2+)       10.4 FS   LT                         W   
+ 29SIX L XREF=DEF(7085)                                                         
+ 29SI cL J$L=(2) (d,p)                                                          
+ 29SI  G 5041      2    100     D+Q      -0.19   1                          E   
+ 29SI2 G FLAG=KL                                                                
+ 29SI  G 5797.9         5    LT                                             C   
+ 29SI  G 7071.0         5    LT                                             C   
+ 29SI  L 7139      1 (11/2+)           29 FS     10                         W   
+ 29SIX L XREF=DEF(7150)                                                         
+ 29SI cL J$1486.9|g (M1+E2) to 9/2+, 3059|g to 7/2+, and 2398|g to (9/2+)       
+ 29SI  G 1486.9            36 4 (M1+E2)  -0.29   5                          J   
+ 29SIB G BM1W=0.042 16$BE2W=8 4                                                 
+ 29SI2 G FLAG=L                                                                 
+ 29SI  G 2398              45 4                                                 
+ 29SI  G 3059             100 6                                                 
+ 29SI  L 7181.8    2 (3/2)                                                      
+ 29SIX L XREF=DF(*)                                                             
+ 29SI cL J$L=2 for doublet (d,p). |g-ray transitions to 5/2+, 1/2+, 3/2+ states 
+ 29SI  G 4755              12 3                                                 
+ 29SI  G 5153             100 6                                                 
+ 29SI  G 7181              23 3                                                 
+ 29SI  L 7197      1 (3/2,5/2)                                                  
+ 29SIX L XREF=DF(*)                                                             
+ 29SI cL J$L=2 for doublet (d,p)                                                
+ 29SI  G 4129.5            9112                                                 
+ 29SI  G 4770.2            36 5                                                 
+ 29SI  G 5168.3           10012                                                 
+ 29SI  L 7523.19   13(1/2,3/2)         14 FS     LT                         Z   
+ 29SIX L XREF=CDEF(7536)                                                        
+ 29SI2 L FLAG=W                                                                 
+ 29SI cL J$|g-ray transitions to 1/2+ and 3/2+ states                           
+ 29SI  G 5096.4    7     100  9                                             H   
+ 29SI  G 6247              31 5                                                 
+ 29SI  G 7521.8    9      29  5                                             H   
+ 29SI  L 7622.1    8 (5/2-,7/2-)       10.4 FS   LT                         W   
+ 29SIX L XREF=DEG                                                               
+ 29SI cL J$L=(3) (d,p)                                                          
+ 29SI  G 3998      1      100 3                                             E   
+ 29SI  G 4554.4           5.314                                                 
+ 29SI  G 5593.2            26 3                                                 
+ 29SI  L 7692.0    4 (1/2+,3/2+)                                                
+ 29SIX L XREF=D                                                                 
+ 29SI cL J$L=0,2 (d,p), |g-ray transitions to 1/2+, 3/2-                        
+ 29SI  G 2757.1          8.7 11                                                 
+ 29SI  G 7691          100.0 11                                                 
+ 29SI  L 7767      1 (3/2,5/2)         14 FS     LT                         W   
+ 29SIX L XREF=DE                                                                
+ 29SI cL J$6493|g to 3/2+                                                       
+ 29SI  G 6493        100                                                        
+ 29SI  L 7787      1 (7/2+)            15 FS     8                          W   
+ 29SIX L XREF=DEF(7794)                                                         
+ 29SI cL J$|g-ray transitions to 5/2+, 7/2+, (9/2+) states                      
+ 29SI  G 1171             4.221                                                 
+ 29SI  G 1974             8.321                                                 
+ 29SI  G 2501            33.321                                                 
+ 29SI  G 3046              44 5                                                 
+ 29SI  G 3707            16.721                                                 
+ 29SI  G 5758             100 7                                                 
+ 29SI  L 7892      1                                                            
+ 29SIX L XREF=DF(7907)                                                          
+ 29SI  G 5465.4            59 6                                                 
+ 29SI  G 5863.1            37 4                                                 
+ 29SI  G 6617.7           100 4                                                 
+ 29SI  L 7987      1 (9/2)             14 FS     LT                         W   
+ 29SIX L XREF=DEG                                                               
+ 29SI cL J$|g-ray transitions to 7/2+, 9/2+ states                              
+ 29SI  G 2334.4            52 5                                                 
+ 29SI  G 3906.5           100 5                                                 
+ 29SI  L 7996.8    9 (3/2-)                                                 Z   
+ 29SIX L XREF=CDF(8010)G                                                        
+ 29SI cL J$L=1 for doublet (d,p). |g-ray transitions to 1/2+, 3/2+, 5/2+ states 
+ 29SI  G 3060              28 4                                                 
+ 29SI  G 3155              28 4                                                 
+ 29SI  G 4927             10012                                                 
+ 29SI  G 5568              20 4                                                 
+ 29SI  G 5966             100 8                                                 
+ 29SI  G 6721              44 4                                                 
+ 29SI  G 7993.9    9       80 8                                             F   
+ 29SI cG E$From {+28}Si(n,|g) E=thermal                                         
+ 29SI  L 8138      1                                                            
+ 29SIX L XREF=DF(8153)G                                                         
+ 29SI  G 3203            14.923                                                 
+ 29SI  G 6864           100.023                                                 
+ 29SI  L 8161      1                   14 FS     LT                         W   
+ 29SIX L XREF=DE                                                                
+ 29SI  G 5093.2           100 6                                                 
+ 29SI  G 6130.9            49 6                                                 
+ 29SI  L 8173      1 (11/2+)           14 FS     LT                         W   
+ 29SIX L XREF=DE                                                                
+ 29SI cL J$4092.4|g to 7/2+, 3431.6|g D+Q to (9/2+)                             
+ 29SI  G 3431.6            35 3 D+Q      +0.67   19                         J   
+ 29SI  G 4092.4           100 3                                                 
+ 29SI  L 8209      1 (3/2+)            14 FS     LT                         W   
+ 29SIX L XREF=DEF(8220)                                                         
+ 29SI cL J$|g-ray transitions to 1/2+, 3/2+ states                              
+ 29SI  G 6933.9            61 7                                                 
+ 29SI  G 8206.5           100 7                                                 
+ 29SI  L 8270      1 (5/2-,7/2-)                                                
+ 29SIX L XREF=DG                                                                
+ 29SI cL J$L=3 (d,p)                                                            
+ 29SI  G 4645.1           100 7                                                 
+ 29SI  G 6239.9            61 7                                                 
+ 29SI  L 8290      5 5/2+                                                       
+ 29SIX L XREF=DF(8310)                                                          
+ 29SI2 L ISPIN=3/2                                                              
+ 29SI cL J$L=0 {+27}Al({+3}He,p|g)                                              
+ 29SI  G 3395              59 7                                                 
+ 29SI  G 5863              8810                                                 
+ 29SI  G 6260             10010                                                 
+ 29SI  G 7015              66 7                                                 
+ 29SI  L 8331.0    6                   10.4 FS   LT                         W   
+ 29SIX L XREF=DEJ                                                               
+ 29SI  G 3044.7            24 4                                                 
+ 29SI  G 4706.8    5      100 4                                             E   
+ 29SI  L 8349      1                                                            
+ 29SIX L XREF=DF(8362)                                                          
+ 29SI  G 5281.1           100 9                                                 
+ 29SI  G 6318.8            64 9                                                 
+ 29SI  L 8371      1                                                            
+ 29SIX L XREF=DF(8400)                                                          
+ 29SI  G 4290.3      100                                                        
+ 29SI  L 8418      1 (3/2)                                                      
+ 29SIX L XREF=D                                                                 
+ 29SI cL J$8415.4|g D+Q to 1/2+, 5990.7|g to 3/2+                               
+ 29SI  G 5990.7          64  10                                                 
+ 29SI  G 8415.4          100 10 D+Q      +0.44   5                          J   
+ 29SI2 G FLAG=L                                                                 
+ 29SI  L 8476      1                   10.4 FS   LT                         W   
+ 29SIX L XREF=D                                                                 
+ 29SI  G 2823.9    5       85 8                                             E   
+ 29SI  G 3734.5            65 5                                                 
+ 29SI  G 4395.3           100 8                                                 
+ 29SI  L 8507.5    17 (3/2+,5/2+)                                           Y   
+ 29SIX L XREF=DF(8520)I                                                         
+ 29SI cL J$L=2 (d,p)                                                            
+ 29SI  G 3571.0    20     100 4                                             G   
+ 29SI  G 5437              13 1                                                 
+ 29SI  G 7232.0    10      40 2                                             G   
+ 29SI  L 8529.2    17                                                       Y   
+ 29SIX L XREF=I                                                                 
+ 29SI  G 3591      3     33   2                                             G   
+ 29SI  G 7254.0    10     100 3                                             G   
+ 29SI  L 8541.3    10                                                       Y   
+ 29SIX L XREF=DF(8560)I                                                         
+ 29SI  G 3604       5     2.114                                             G   
+ 29SI  G 5476       3     6.114                                             G   
+ 29SI  G 6114.0    20      29 3                                             G   
+ 29SI  G 6511.0    10      37 3                                             G   
+ 29SI  G 7266.0    10     100 3                                             G   
+ 29SI  G 8540.0    10      76 3                                             G   
+ 29SI  L 8557.8    2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 2363            21  2                                              C   
+ 29SI  G 4476              43 4                                                 
+ 29SI  G 6527             100 4                                                 
+ 29SI  L 8603      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4522        100                                                        
+ 29SI  L 8609      2                   15 FS     LT                             
+ 29SIX L XREF=DEF(*)                                                            
+ 29SI  G 3867.5      100                                                        
+ 29SI  L 8610      2                   15 FS     LT                             
+ 29SIX L XREF=DEF(*)                                                            
+ 29SI  G 2502            19.024                                             C   
+ 29SI  G 3324             10015                                                 
+ 29SI  G 4529              5212                                                 
+ 29SI  G 4985              67 5                                                 
+ 29SI  L 8622      2                   15 FS     LT                             
+ 29SIX L XREF=DE                                                                
+ 29SI  G 4541             100 6                                                 
+ 29SI  G 4997            19.618                                                 
+ 29SI  G 6592              59 6                                                 
+ 29SI  L 8641      2                   14 FS     LT                             
+ 29SIX L XREF=DE                                                                
+ 29SI  G 1502             6.411 D+Q      +1.0    +7-4                       J   
+ 29SI2 G FLAG=L                                                                 
+ 29SI  G 3899.0     9   100.011                                             E   
+ 29SI  L 8655                          60 KEV    7                              
+ 29SIX L XREF=I                                                                 
+ 29SI  G 3720              6610                                             G   
+ 29SI  G 7381              7820                                             G   
+ 29SI  G 8654             10020                                             G   
+ 29SI  L 8670      2                   15 FS     LT                             
+ 29SIX L XREF=DEF(8685)                                                         
+ 29SI  G 3928        100                                                        
+ 29SI  L 8762      2                   19 FS     4                          U   
+ 29SIX L XREF=DEF(8778)H                                                        
+ 29SI  G 1979.2     5      49 3                                             E   
+ 29SI  G 3505.5     8     100 3                                             E   
+ 29SI  L 8854      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3958              35 5                                                 
+ 29SI  G 6824             100 9                                                 
+ 29SI  G 7579              19 5                                             C   
+ 29SI  G 8851              54 9                                                 
+ 29SI  L 8865      2                   29 FS     10                         W   
+ 29SIX L XREF=DEF(8873)                                                         
+ 29SI  G 4123        100                                                        
+ 29SI  L 8909      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3623              17 3                                                 
+ 29SI  G 3654              35 5                                                 
+ 29SI  G 5284             100 6                                                 
+ 29SI  L 8959      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3704              9010                                                 
+ 29SI  G 4063              52 7                                                 
+ 29SI  G 4218              8110                                                 
+ 29SI  G 4878             10010                                                 
+ 29SI  L 9019.0    5                                                            
+ 29SIX L XREF=I                                                                 
+ 29SI  G 5952              13 4                                             G   
+ 29SI  G 6593              18 4                                             G   
+ 29SI  G 6991              2213                                             G   
+ 29SI  G 7745            29.119                                             G   
+ 29SI  G 9018             10013                                             G   
+ 29SI  L 9151      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 6083        100                                                        
+ 29SI  L 9157      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 2542              64 7                                                 
+ 29SI  G 3342             100 7                                                 
+ 29SI  L 9219      1                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3567              35 4                                                 
+ 29SI  G 7188             100 4                                                 
+ 29SI  L 9252      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 7221        100                                                        
+ 29SI  L 9298      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4042           100.025                                                 
+ 29SI  G 5673            25.025                                                 
+ 29SI  L 9326      2                   14 FS     LT                         W   
+ 29SIX L XREF=DE                                                                
+ 29SI  G 3674              33 7                                                 
+ 29SI  G 4584             100 7                                                 
+ 29SI  L 9392      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4650        100                                                        
+ 29SI  L 9413      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 9410        100                                                        
+ 29SI  L 9518      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3705              7415                                                 
+ 29SI  G 4776             10015                                                 
+ 29SI  G 5437              4912                                                 
+ 29SI  G 7487              6615                                                 
+ 29SI  L 9630      7 1/2+                                                       
+ 29SIX L XREF=FJ                                                                
+ 29SI2 L  ISPIN=3/2                                                             
+ 29SI cL J$L=0 ({+3}He,|a)                                                      
+ 29SI  L 9667      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4411        100                                                        
+ 29SI  L 9683      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4941        100                                                        
+ 29SI  L 9765      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3150              16 4                                                 
+ 29SI  G 4478              60 9                                                 
+ 29SI  G 5023             100 9                                                 
+ 29SI  L 9779      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 6154       3100                                                        
+ 29SI  L 9850      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 2711              47 8                                                 
+ 29SI  G 5108             100 8                                                 
+ 29SI  L 9943      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G  3162          35   10                                                 
+ 29SI  G  5201          100  10                                                 
+ 29SI  G  5862          59   10                                                 
+ 29SI  L 9952      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3335        100                                                        
+ 29SI  L 9987      2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 3205             100 9                                                 
+ 29SI  G 4731              69 9                                                 
+ 29SI  L 10006      2                                                           
+ 29SIX L XREF=D                                                                 
+ 29SI  G 7975        100                                                        
+ 29SI  L 10083     2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 5341             100 9                                                 
+ 29SI  G 8053              45 9                                                 
+ 29SI  L 10131     2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4478             10010                                                 
+ 29SI  G 5389              5610                                                 
+ 29SI  L 10170     2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4914        100                                                        
+ 29SI  L 10213     12                                                           
+ 29SIX L XREF=D                                                                 
+ 29SI  G 6133.8      100                                                        
+ 29SI  L 10236     2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 4583        100                                                        
+ 29SI  L 10252     2                                                            
+ 29SIX L XREF=D                                                                 
+ 29SI  G 7183        100                                                        
+ 29SI  L 11087     7 (3/2+,5/2+)                                                
+ 29SIX L XREF=J                                                                 
+ 29SI2 L  ISPIN=3/2                                                             
+ 29SI cL J$L=2 ({+3}He,|a)                                                      
+ 29SI  L 11305     9 (3/2+,5/2+)                                                
+ 29SIX L XREF=J                                                                 
+ 29SI2 L  ISPIN=3/2                                                             
+ 29SI cL J$L=2 ({+3}He,|a)                                                      
+ 29SI  L 11665     10 1/2+                                                      
+ 29SIX L XREF=J                                                                 
+ 29SI2 L  ISPIN=3/2                                                             
+ 29SI cL J$L=0 ({+3}He,|a)                                                      
+
+

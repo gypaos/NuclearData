@@ -1,0 +1,287 @@
+ 12C     ADOPTED LEVELS, GAMMAS        1990AJ01                  90NP     200006
+ 12C   H TYP=FUL$AUT=F. AJZENBERG-SELOVE AND J.H. KELLEY$CIT=NP A506, 1 (1990)$ 
+ 12C 2 H CUT=1-JUN-1989$                                                        
+ 12C  D  CORRECTED "ISPIN=" (TWB. 940526)                                       
+ 12C   XA12B B- DECAY                                                           
+ 12C   XB12N B+ DECAY                                                           
+ 12C   XC6LI(9BE,T)                                                             
+ 12C   XD9BE(3HE,G) RES                                                         
+ 12C   XE9BE(A,N)                                                               
+ 12C   XF10BE(3HE,N)                                                            
+ 12C   XG10B(3HE,P), (3HE,PA)                                                   
+ 12C   XH10B(6LI,A)                                                             
+ 12C   XI11B(P,G), (P,A)                                                        
+ 12C   XJ11B(P,N) RES                                                           
+ 12C   XK11B(P,P), (P,D)                                                        
+ 12C   XL11B(D,N)                                                               
+ 12C   XM11B(3HE,D)                                                             
+ 12C   XN11B(A,T)                                                               
+ 12C   XO11B(7LI,6HE)                                                           
+ 12C   XP12C(E,E)                                                               
+ 12C   XQ14C(P,T)                                                               
+ 12C   XR12C(G,G)                                                               
+ 12C   XS12C(PI,PI)                                                             
+ 12C   XT12C(N,N)                                                               
+ 12C   XU12C(P,P)                                                               
+ 12C   XV12C(P,PA)                                                              
+ 12C   XW12C(D,D)                                                               
+ 12C   XX12C(3HE,3HE)                                                           
+ 12C   XY12C(A,A)                                                               
+ 12C   XZ12C(6LI,6LI)                                                           
+ 12C   Xa12C(14N,14N)                                                           
+ 12C   Xb13C(PI+,P)                                                             
+ 12C   Xc13C(P,D)                                                               
+ 12C   Xd13C(D,T)                                                               
+ 12C   Xe14N(P,3HE)                                                             
+ 12C   Xf14N(D,A)                                                               
+ 12C   Xg15N(P,A)                                                               
+ 12C   Xh16O(D,6LI)                                                             
+ 12C   Xi16O(3HE,7BE)                                                           
+ 12C   Xj16O(A,8BE)                                                             
+ 12C  c  See also table 12.7 (1990Aj01) and table 12.12 (1980Aj01)              
+ 12C  cL E         See also reactions {+8}Be(|a,|g) and {+12}C(|g,n) and        
+ 12C 2cL {+12}C(|g,2n) in in 1990Aj01                                           
+ 12C  cL E(A)      See charge-dependent matrix element between                  
+ 12C 2cL {+12}C*(12710,15110) in table 12.10 (1990Aj01)                         
+ 12C  cL E(B)      See discussion in 1983Ne11                                   
+ 12C  cG E         From level energy difference; recoil correction applied      
+ 12C  cG E(C)      |G data based on |G{-|g0} of 1983De53 and on branching       
+ 12C 2cG ratios of 1972Al03: {+12}C*(15110) to {+12}C(0), {+12}C*(4439),        
+ 12C 3cG {+12}C*(7654), {+12}C*(12710) are 92 % 2, 2.3 % 3, 2.6 % 7,            
+ 12C 4cG  1.4 % 4 respectively. In addition, an undetected branching of 1.6 %   
+ 12C 5cG to {+12}C*(10300) is indicated in the |b{+-} decay work of 1972Al03.   
+ 12C 6cG See also 1980Aj01.                                                     
+ 12C  cL E(D)$ Decay mode not specified                                         
+ 12C   Q -17338.1  1018721.8 1015957.0 4 -7366.5714    1997AU04                 
+ 12C   L 0           0+                STABLE                                   
+ 12C 2 L ISPIN=0                                                                
+ 12C 3 L XREF=ABCDEFGHILMNOPQRSTUVWXYZABCDEFGHIJ                                
+ 12C  cL           For ground state properties of {+12}C, see the references    
+ 12C 2cL given in 1990Aj01                                                      
+ 12C   L 4438.91   312+                10.8E-3 EV6                              
+ 12C 2 L ISPIN=0                                                                
+ 12C 3 L XREF=ABCDEFGHILMNOPRSTUWXYZABCDEFGHIJ                                  
+ 12C   G 4438.03               E2                                               
+ 12C 2 G WIDTHG=10.8E-3 EV 6$BE2W=4.65 26                                       
+ 12C   L 7654.20   150+                8.5 EV    10                             
+ 12C 2 L ISPIN=0 $ %IT=? $ %A=?                                                 
+ 12C 3 L XREF=ABCDEFGHIMNOPSTUXYZBCFGHIJ                                        
+ 12C  cL           Also decays via pair production.                             
+ 12C 2cL |G{-|p}=60.5|*10{+-6} eV {i39};                                        
+ 12C 3cL |G{-|p}/|G=6.8|*10{+-6} {i7}                                           
+ 12C  cL WIDTH     8.3 eV {I10} given in table 12.7 (1990Aj01).                 
+ 12C   G 3214.83               E2                                               
+ 12C 2 G WIDTHG=3.7E-3 EV 5$BE2W=8.0 11                                         
+ 12C   L 9641      5 3-                34 KEV    5                              
+ 12C 2 L ISPIN=0 $ %IT=? $ %A=?                                                 
+ 12C 3 L XREF=CEGHILMNOPRSTUXYZABCHIJ                                           
+ 12C  cL           |G{-|p}+|G{-|g}<14|*10{+-3} eV;                              
+ 12C 2cL this is based on |G=34 keV {i5}.                                       
+ 12C   G 9637                  E3                                               
+ 12C 2 G WIDTHG=3.1E-4 EV 4$BE3W=12 2                                           
+ 12C   L 10.3E+3   3 (0+)              3.0 MEV   7                              
+ 12C 2 L ISPIN=0 $ %A=?                                                         
+ 12C 3 L XREF=ABEZC                                                             
+ 12C   L 10844     161-                315 KEV   25                             
+ 12C 2 L ISPIN=0 $ %A=?                                                         
+ 12C 3 L XREF=EGLMNOTUWXYZ                                                      
+ 12C   L 11160     50(2+)              430 KEV   80                            ?
+ 12C 2 L ISPIN=0                                                                
+ 12C 3 L XREF=M                                                                 
+ 12C   L 11828     162-                260 KEV   25                             
+ 12C 2 L ISPIN=0  $ %IT=? $ %A=?                                                
+ 12C 3 L XREF=CGHLMNOPRTUWXY                                                    
+ 12C   L 12710     6 1+                18.1 EV   28                         A   
+ 12C 2 L ISPIN=0$WIDTHA=17.7 EV 28$WIDTHG0/WIDTH=1.93E-2 12                     
+ 12C 3 L %IT=? $ %A=?                                                           
+ 12C  cL           |G{-|g1}/|G{-|g0}=0.150 {I18}                                
+ 12C  cL           |G|a based on assuming |G=|G|a+|G{-|g0}+|G{-|g1};            
+ 12C 2cL the branching ratios for the 12710 to 4439 and 12710 to g.s.           
+ 12C 3cL Transitions are 13.0 % 14 and 87.0 % 14 respectively (1977Ad02)        
+ 12C 4 L XREF=BCGHLMNOPRSUVWXYBCDEF                                             
+ 12C   G 8268.03               M1                                               
+ 12C 2 G WIDTHG=5.3E-2 EV 10$BM1W=4.5E-3 8                                      
+ 12C   G 12703                 M1                                               
+ 12C 2 G WIDTHG=0.35 EV 5$BM1W=8.1E-3 12                                        
+ 12C   L 13352     17(2-)              375 KEV   40                             
+ 12C 2 L ISPIN=0 $ %IT=? $ %A=?                                                 
+ 12C 3 L XREF=GMRTU                                                             
+ 12C  cL J         probably 4- (D.J.Milliner, private communication)            
+ 12C   L 14083     154+                258 KEV   15                             
+ 12C 2 L ISPIN=0 $ %A=?                                                         
+ 12C 3 L XREF=CGPTUVYBCEFGHI                                                    
+ 12C   L 15110     3 1+                43.6 EV   13                         A   
+ 12C 2 L ISPIN=1$WIDTHA=1.8 EV 3$WIDTHG=41.8 EV 12                              
+ 12C 3 L %IT=? $ %A=?                                                           
+ 12C 4 L XREF=BGHLMNOPSTUWXYBCDEF                                               
+ 12C   G 2400                  M1                                           C   
+ 12C 2 G WIDTHG=0.59 EV 17$BM1W=2.0 6                                           
+ 12C   G 7453.3                M1                                           C   
+ 12C 2 G WIDTHG=1.09 EV 14$BM1W=0.13 2                                          
+ 12C   G 10666.00              M1                                           C   
+ 12C 2 G WIDTHG=0.96 EV 13$BM1W=3.8E-2 5                                        
+ 12C   G 15100                 M1                                               
+ 12C 2 G WIDTHG=38.5 EV 8$BM1W=0.531 11                                         
+ 12C   L 15440     40(2+)              1.5 MEV   2                          D   
+ 12C 2 L ISPIN=0                                                                
+ 12C 3 L XREF=PUXYC                                                             
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 16105.8   7 2+                5.3 KEV   2                              
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=? $ %A=?                                          
+ 12C 3 L XREF=FGILMNOPSTUXYBCDEG                                                
+ 12C   G 3395.3                M1                                               
+ 12C 2 G WIDTHG=0.19 EV 4$BM1W=0.23 5                                           
+ 12C   G 6463                  E1                                               
+ 12C 2 G WIDTHG=0.31 EV 6$BE1W=3.2E-3 6                                         
+ 12C   G 11661                 M1                                               
+ 12C 2 G WIDTHG=12.8 EV 15$BM1W=0.38 5                                          
+ 12C   G 16094.2               E2                                               
+ 12C 2 G WIDTHG=0.59 EV 11$BE2W=0.40 8                                          
+ 12C   L 16570       2-                300 KEV                                  
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=? $ %A=?                                          
+ 12C 3 L XREF=GIKPUXC                                                           
+ 12C   G 16558                 M2                                               
+ 12C 2 G WIDTHG=4.80E-2 EV 8$BM2W=0.489 8                                       
+ 12C   L 17230       1-                1.15 MEV                                 
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=? $ %A=?                                          
+ 12C 3 L XREF=IKLR                                                              
+ 12C   L 17760     200+                80 KEV    20                             
+ 12C 2 L ISPIN=1 $ %P=? $ %A=?                                                  
+ 12C 3 L XREF=FIKPCG                                                            
+ 12C   L 18160     70(1+)              240 KEV   50                             
+ 12C 2 L ISPIN=0 $ %IT=? $ %P=?                                                 
+ 12C 3 L XREF=IC                                                                
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 18350     503-                220 KEV   50                         B   
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=? $ %A=?                                          
+ 12C 3 L XREF=IKLMNORX                                                          
+ 12C   L 18350     502-                350 KEV   50                         B   
+ 12C 2 L ISPIN=0&1 $ %N=? $ %P=?                                                
+ 12C 3 L XREF=KLMNOPRSUVX                                                       
+ 12C   L 18.6E+3   1 (3-)              300 KEV                                 ?
+ 12C 2 L XREF=P                                                                 
+ 12C   L 18710                         100 KEV                                  
+ 12C 2 L ISPIN=1 $ %P=? $ %A=?                                                  
+ 12C 3 L XREF=I                                                                 
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 18800     402+                100 KEV   10                             
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=?                                          
+ 12C 3 L XREF=IJKXC                                                             
+ 12C   L 19200       (1-)              1.1 MEV   AP                             
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=? $ %A=?                                   
+ 12C 3 L XREF=IJKMXB                                                            
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 19400     30(2-)              480 KEV   40                         B   
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=? $ %A=?                                          
+ 12C 3 L XREF=IPSUVF                                                            
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 19550     50(4-)              490 KEV   60                         B   
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=? $ %A=?                                          
+ 12C 3 L XREF=LMPSXF                                                            
+ 12C  cL E         1983Ba62 suggests an isospin-mixed doublet with J|p=4-       
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 19690       1+                230 KEV   35                             
+ 12C 2 L %N=? $ %P=?                                                            
+ 12C 3 L XREF=JS                                                                
+ 12C   L 20.0E+3   1 (2+)              250 KEV   AP                             
+ 12C 2 L %IT=? $ %N=? $ %P=?                                                    
+ 12C 3 L XREF=JKPC                                                              
+ 12C   L 20270     50(1+)              140 KEV   50                             
+ 12C 2 L ISPIN=1 $ %N=? $ %P=?                                                  
+ 12C 3 L XREF=JKUC                                                              
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 20.5E+3   1 (3+)              300 KEV   50                             
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=? $ %A=?                                          
+ 12C 3 L XREF=GILPRBCF                                                          
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 20620     60(3-)              200 KEV   40                             
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=? $ %A=?                                   
+ 12C 3 L XREF=IJKLMUVBCF                                                        
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 20980                         270 KEV                                  
+ 12C 2 L %N=? $ %P=?                                                            
+ 12C 3 L XREF=J                                                                 
+ 12C   L 21.60E+3  103-,2+             1.20 MEV  15                             
+ 12C 2 L ISPIN=0 $ %IT=? $ %N=? $ %P=? $ %A=?                                   
+ 12C 3 L XREF=IJKPUVXY                                                          
+ 12C  cL E         probably unresolved states; if so, |G=1.4 MeV {I2} and       
+ 12C 2cL |G=0.43 MeV {I8} are reported.                                         
+ 12C   L 22.0E+3   1 1-                8.0E+2 KEV10                             
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=?                                          
+ 12C 3 L XREF=JKPUV                                                             
+ 12C  cL WIDTH     See anomalies and maxima in yields of {+11}B(p,n) {+11}B(p,p)
+ 12C 2cL reactions in table 12.12 (1990Aj01)                                    
+ 12C   L 22400     401-                275 KEV   40                             
+ 12C 2 L ISPIN=1 $ %N=? $ %P=?                                                  
+ 12C 3 L XREF=JKMUYF                                                            
+ 12C   L 22650     701-                3.2 MEV                                  
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=? $ %A=?                                   
+ 12C 3 L XREF=IJPRSUB                                                           
+ 12C   L 23040       (2-)              60 KEV                                   
+ 12C 2 L ISPIN=1 $ %N=? $ %P=?                                                  
+ 12C 3 L XREF=JB                                                                
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 23520     301-                230 KEV   80                             
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=? $ %A=?                                   
+ 12C 3 L XREF=FIJPUX                                                            
+ 12C   L 23920     80(1-)              0.4 MEV   1                              
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=?                                          
+ 12C 3 L XREF=JPU                                                               
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 24430                         0.1 MEV                                  
+ 12C 2 L %N=? $ %P=?                                                            
+ 12C 3 L XREF=J                                                                 
+ 12C   L 24920                         0.92 MEV                                 
+ 12C 2 L %N=? $ %P=?                                                            
+ 12C 3 L XREF=JP                                                                
+ 12C   L 25.30E+3  15(1-)              0.51 MEV  10                             
+ 12C 2 L ISPIN=1 $ %N=? $ %P=?                                                  
+ 12C 3 L XREF=JUB                                                               
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 25400       1-                2 MEV     AP                             
+ 12C 2 L ISPIN=1 $ %IT=? $ %N=? $ %P=?                                          
+ 12C 3 L XREF=IPXYBC                                                            
+ 12C  cL WIDTH     See resonances in {+11}B(p,|g) and {+11}B(p,|a) reactions in 
+ 12C 2cL table 12.11 (1990Aj01)                                                 
+ 12C   L 25950                         0.4 MEV   AP                             
+ 12C 2 L %N=? $ %P=? $ %D=? $ %A=?                                              
+ 12C 3 L XREF=JU                                                                
+ 12C   L 26800                         270 KEV                                  
+ 12C 2 L %N=? $ %P=? $ %D=? $ %A=?                                              
+ 12C 3 L XREF=JP                                                                
+ 12C   L 27.0E+3   3 (1-)              1.4 MEV   2                              
+ 12C 2 L ISPIN=1 $ %IT=? $ %P=?                                                 
+ 12C 3 L XREF=IUWY                                                              
+ 12C  cL ISPIN$tentative                                                        
+ 12C   L 27595.0   240+                30 KEV    LE                             
+ 12C 2 L ISPIN=2                                                                
+ 12C 3 L XREF=FQ                                                                
+ 12C   L 27900                         350 KEV   AP                             
+ 12C 2 L %IT=? $ %N=? $ %P=? $ %3HE=?                                           
+ 12C 3 L XREF=IP                                                                
+ 12C   L 28200       1-                1.6 MEV                                  
+ 12C 2 L ISPIN=1 $ %IT=? $ %3HE=?                                               
+ 12C 3 L XREF=D                                                                 
+ 12C   L 28830     40                  1.54 MEV  9                              
+ 12C 2 L %IT=? $ %P=? $ %D=? $ %3HE=? $ %A=?                                    
+ 12C 3 L XREF=DIXY                                                              
+ 12C   L 29.4E+3   3                   1.4 MEV   2                              
+ 12C 2 L %IT=? $ %N=? $ %P=? $ %3H=? $ %3HE=?                                   
+ 12C 3 L XREF=IRU                                                               
+ 12C   L 29630     50                  200 KEV   LE                             
+ 12C 2 L ISPIN=2                                                                
+ 12C 3 L XREF=Q                                                                 
+ 12C   L 30290     30                  1.96 MEV  15                             
+ 12C 2 L %IT=? $ %3HE=? $ %A=?                                                  
+ 12C 3 L XREF=DP                                                                
+ 12C   L 31160     30                  2.10 MEV  15                             
+ 12C 2 L %IT=? $ %3HE=?                                                         
+ 12C 3 L XREF=D                                                                 
+ 12C   L 32290     40                  1.32 MEV  23                             
+ 12C 2 L %IT=? $ %N=? $ %P=? $ %3HE=?                                           
+ 12C 3 L XREF=DP                                                                
+ 12C  cL           Also decays via {+6}Li emission.                             
+ 12C   L 33.47E+3  21                  1.93 MEV  5                              
+ 12C 2 L %IT=? $ %3HE=?                                                         
+ 12C 3 L XREF=D                                                                 
+                                                                                

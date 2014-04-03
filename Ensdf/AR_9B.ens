@@ -1,0 +1,204 @@
+  9B     ADOPTED LEVELS, GAMMAS        2004TI06                  04NP     200602
+  9B   H TYP=FUL$AUT=J.H. KELLEY, C.G. SHEU, J.L. GODWIN, ET AL.$               
+  9B 2 H CIT=NP A745 155 (2004)$CUT=31-Mar-2004$                                
+  9B   Q -16494.8  2318577.1 14-185.6  10-1689   50    2003AU03                 
+  9B  c  See other reaction references in (1988Aj01).                           
+  9B  cG E         From level energy difference; recoil correction applied.     
+  9B  cL E(A)$Decay mode not specified                                          
+  9B   XA9C B+ DECAY                                                            
+  9B   XB6LI(3HE,G),(3HE,N),(3HE,P)                                             
+  9B   XC6LI(3HE,D),(3HE,T),(3HE,3HE)                                           
+  9B   XD6LI(A,N)                                                               
+  9B   XE6LI(6LI,T)                                                             
+  9B   XF7LI(3HE,N),(3HE,NG)                                                    
+  9B   XG7BE(D,N),7BE(D,P)                                                      
+  9B   XH9BE(P,N),9BE(P,PN)                                                     
+  9B   XI9BE(3HE,T)                                                             
+  9B   XJ9BE(6LI,6HE),9BE(7LI,7BE)                                              
+  9B   XK10B(P,D),10B(P,NP)                                                     
+  9B   XL10B(D,T)                                                               
+  9B   XM10B(3HE,A),(3HE,AP),(3HE,2A)                                           
+  9B   XN11B(P,T)                                                               
+  9B   XO12C(P,A),12C(P,PT)                                                     
+  9B   XP12C(T,6HE),12C(3HE,6LI)                                                
+  9B   L 0.0         3/2-              0.54 KEV  21                             
+  9B 2 L %P=100 $ ISPIN=1/2                                                     
+  9B 3 L XREF=ABDEFHIJKLMNOP                                                    
+  9B   L 1500      AP                  1.2 MEV   AP                            ?
+  9B 2 L %P LT 100 $ %A GT 0                                                    
+  9B 3 L XREF=EHIJMO                                                            
+  9B  cL E         E=1.48 MeV {I2} is the weighted average of values reported in
+  9B 2cL {+6}Li({+6}Li,t) 1600 keV {I100},                                      
+  9B 3cL {+9}Be({+3}He,t) 1490 keV {I20},                                       
+  9B 4cL {+9}Be({+6}Li,{+6}He) 1320 keV {I80},                                  
+  9B 5cL {+10}B({+3}He,p) 1800 keV {I300},                                      
+  9B 6cL {+12}C(p,|a) 1510 keV {I50}.                                           
+  9B  cL WIDTH     |G=1.20 MeV {I5} is the weighted average of values reported  
+  9B 2cL in {+9}Be({+3}He,t) 1280 keV {I50},                                    
+  9B 3cL {+9}Be({+6}Li,{+6}He) 860 keV {I260},                                  
+  9B 4cL {+10}B({+3}He,p) 900 keV {I300}.                                       
+  9B   L 2345      11 5/2-             81 KEV    5                              
+  9B 2 L %A=99.5 $ %P=0.5 $ ISPIN=1/2                                           
+  9B 3 L XREF=ABDFHIJKLMNOP                                                     
+  9B  cL E         two measurements dominate the weighted average.              
+  9B 2cL E=2326 keV {I6} from {+9}Be(p,n) (1955Ma84) and 2361 keV {I5} from     
+  9B 3cL {+10}B({+3}He,|a) (1968Ma84). However the values are not in agreement. 
+  9B 4cL The uncertainty has been enlarged by the evaluator. Other values used  
+  9B 5cL in the weighted average are 2340 keV {I30} from {+9}C |b-decay,        
+  9B 6cL 2320 keV {I30} from {+9}Be({+3}He,t),                                  
+  9B 7cL 2340 keV {I20} from {+10}B(p,d),                                       
+  9B 8cL and 2320 keV {I40} from {+11}B(p,t). See {+10}B({+3}He,|a) for other   
+  9B xcL values.                                                                
+  9B  cL WIDTH     From {+10}B({+3}He,|a) (1968Kr02).                           
+  9B  cL           Decay branching ratios from (2000Ge09).                      
+  9B   L 2751      25 5/2+             614 KEV   37                             
+  9B 2 L %P AP 100 $ ISPIN=1/2                                                  
+  9B 3 L XREF=EFHIJKMOP                                                         
+  9B  cL E         from weighted average of 2.71 MeV {I10} {+9}Be(p,n),         
+  9B 2cL 2720 keV {I40} {+9}Be({+3}He,t), 2788 keV {I30}, 2710 keV {I30} and    
+  9B 3cL 2830 keV {I30} from {+10}B({+3}He,|a) and 2.9 MeV {I2} {+12}C(p,|a).   
+  9B  cL WIDTH     From weighted average of 0.7 MeV {I1} {+9}Be(p,n)            
+  9B 2cL and 600 keV {I40} {+10}B({+3}He,|a).                                   
+  9B  cL           %p from (1966Wi08).                                          
+  9B  cL           Note: the order of the J|p=5/2+ and 1/2- levels is           
+  9B 2cL inverted when compared with (2004Ti06). In the case of the 5/2+ level, 
+  9B 3cL the present evaluator determined the level energy from a               
+  9B 4cL weighted average. In (2004Ti06) the energy 2788 keV {I30} was taken    
+  9B 5cL from a single measurement in {+10}B({+3}He,|a) (1968Kr02).             
+  9B   L 2.78E3    16 1/2-             3.13 MEV  20                             
+  9B 2 L XREF=AEH                                                               
+  9B 3 L %P GE 90 $ %A LE 10                                                    
+  9B  cL E         from weighted average of 2.75 MeV {I30} {+9}Be(p,n)          
+  9B 2cL and 2.8 MeV {I2} from {+9}C |b-decay. Other value 2.91 MeV from        
+  9B 3cL {+6}Li({+6}Li,t). This level is thought to be the analog to            
+  9B xcL {+9}Be(2.78); see (1988Mi03).                                          
+  9B  cL WIDTH     From {+9}Be(p,n). Other values 2.5 MeV from {+9}C |b-decay   
+  9B 2cL and 3.03 MeV from {+6}Li({+6}Li,t).                                    
+  9B  cL           J|p from {+9}C |b-decay and {+6}Li({+6}Li,t).                
+  9B  cL           Note: the order of the J|p=5/2+ and 1/2- levels is           
+  9B 2cL inverted when compared with (2004Ti06). In the case of the 1/2- level, 
+  9B 3cL the present evaluator determined the level energy from a               
+  9B 4cL weighted average. In (2004Ti06) the energy 2.75 MeV {I30} was taken    
+  9B 5cL from a single measurement in {+9}Be(p,n).                              
+  9B  cL           %p from (2000Ge09), particle-decay following {+9}C |b-decay. 
+  9B   L 4.8E+3    1                   1.2 MEV   2                              
+  9B 2 L %A LE 100                                                              
+  9B 3 L XREF=FHIJM                                                             
+  9B  cL E         from weighted average of 4.8 MeV {I1} {+7}Li({+3}He,n),      
+  9B 2cL 4800 keV {I30} {+9}Be({+3}He,t), 4.60 MeV {I16} {+9}Be({+6}Li,{+6}He)  
+  9B 3cL and 4.9 MeV {I2} {+10}B({+3}He,|a).                                    
+  9B  cL           A level at E=4.3 MeV {I2}                                    
+  9B 2cL with |G=1.6 MeV {I2} from the unpublished                              
+  9B 3cL thesis work of pugh {+9}Be(p,n) is referenced in (1988Mi03 and         
+  9B 4cL 1991Di03) and was adopted in (2004Ti02).                               
+  9B  cL WIDTH     From weighted average of 1.0 MeV {I2} {+7}Li({+3}He,n)       
+  9B 2cL 1.5 MeV {I3} {+9}Be({+3}He,t), 0.68 MeV {I43} {+9}Be({+6}Li,{+6}He),   
+  9B 3cL and 1.5 MeV {I3} {+10}B({+3}He,|a).                                    
+  9B   L 6985      507/2-              2.18 MEV  15                             
+  9B 2 L %P LE 100 $ ISPIN=1/2                                                  
+  9B 3 L XREF=FHIKNOP                                                           
+  9B  cL E         from weighted average of                                     
+  9B 2cL 7.0 MeV {I1} from {+9}Be(p,n), 7.1 MeV {I2} from {+10}B(p,d) and       
+  9B 3cL 6970 keV {I60} from {+12}C(p,|a).                                      
+  9B  cL WIDTH     From {+10}B(p,d).                                            
+  9B   L 11640     50(7/2)-            780 KEV   45                             
+  9B 2 L %P LE 100 $ ISPIN=1/2                                                  
+  9B 3 L XREF=HKMOP                                                             
+  9B  cL E         from weighted average of 11.63 MeV {I20} from {+9}Be(p,n),   
+  9B 2cL 11.68 MeV {I7} from {+10}B(p,d), 11.62 MeV {I10} from                  
+  9B 3cL {+10}B({+3}He,|a), 11.46 MeV {I20} from {+12}C(p,|a).                  
+  9B  cL WIDTH     From weighted average of 800 keV {I50} {+10}B(p,d), and      
+  9B 2cL 0.7 MeV {I1} {+10}B({+3}He,|a).                                        
+  9B   L 12160     40                  455 KEV   20                             
+  9B 2 L %P=24 4 $ %A=74 10$ ISPIN=1/2                                          
+  9B 3 L XREF=AFHN                                                              
+  9B  cL E         from weighted average of 12060 keV {I60} from                
+  9B 2cL {+7}Li({+3}He,n), 12190 keV {I40} from {+9}C |b-decay, 12160 keV       
+  9B 3cL {I100} from {+9}C |b-decay and 12230 keV {I100} from {+9}Be(p,n). The  
+  9B 4cL uncertainty is enlarged by the evaluator.                              
+  9B  cL WIDTH     From weighted average of 800 keV {I200} from                 
+  9B 2cL {+7}Li({+3}He,n), 12190 keV {I40} from {+9}C |b-decay, 450 keV {I20}   
+  9B 3cL from {+9}C |b-decay, and 500 keV {I100} from {+9}Be(p,n).              
+  9B  cL           Branching ratios from (2000Ge09). See also (2001Be51)        
+  9B 2cL who report %p=33 {I10} and %|a=66 {I8}..                               
+  9B   L 14010     70                  0.39 MEV  11                             
+  9B 2 L %P=100 $ ISPIN=1/2                                                     
+  9B 3 L XREF=AFHN                                                              
+  9B  cL E         from {+7}He({+3}He,n). Also see 13.96 MeV {I10} from         
+  9B 2cL {+9}Be(p,n) and 14.0 MeV {I2} from {+9}C |b-decay.                     
+  9B  cL WIDTH     From {+7}Li({+3}He,n)                                        
+  9B  cL           Branching ratios from (2000Ge09).                            
+  9B   L 14655.0   253/2-              0.377 KEV 38                             
+  9B 2 L %IT=4.09 $ %P AP 44 $ %A AP 46 $ ISPIN=3/2                             
+  9B 3 L XREF=AFIN                                                              
+  9B  cL E         from {+11}B(p,t) (1974Ka15). See comments in {+11}B(p,t)     
+  9B  cL WIDTH     The |G is not directly                                       
+  9B 2cL measured, it is deduced from a measurement of                          
+  9B 3cL |G{-|g0}/|G=0.0185 {I15} (1978Di08) and an assumption that             
+  9B 4cL the B(M1) strength is identical to that for the isobaric               
+  9B 5cL analog state (assuming {+9}Be(14392 keV), |G{-|g0}=6.60 eV {I40} and   
+  9B 6cL |G=365 eV {I29} (2004Ti06)). In previous publications, less reasonable 
+  9B 7cL assumptions were applied; see (1971Ad01 and 1976Mc10)                  
+  9B  cL           Branching ratios from                                        
+  9B 2cL {+7}Li({+3}He,N+|g) (1978Di08) (%IT),                                  
+  9B 3cL {+7}Li({+3}He,N+p) (1976Mc10) (%p) and                                 
+  9B 4cL {+9}C |b-decay (2001Be51) (%|a).                                       
+  9B   G 11.87E3   16 16.0   93M1                                               
+  9B 2 G FL=2.78E3 16                                                           
+  9B 3 G WIDTHG=1.17 EV 70 $ BM1W=0.033 20                                      
+  9B   G 12301     11 100    11M1                                               
+  9B 2 G WIDTHG=7.3 EV 11 $ BM1W=0.186 28                                       
+  9B   G 13145     AP 4.1    LTE1                                               
+  9B 2 G WIDTHG LT 0.3 EV $ BE1W LT 4.5E-4                                      
+  9B   G 14642.2   25 95.9   88M1                                               
+  9B 2 G WIDTHG=6.97 EV 42 $ BM1W=0.105 6                                       
+  9B   L 14.70E+3  18(5/2)-            1.35 MEV  20                         A   
+  9B 2 L ISPIN=1/2                                                              
+  9B 3 L XREF=K                                                                 
+  9B  cL E         |G: from {+10}B(p,d).                                        
+  9B   L 15290     40                                                       A   
+  9B 2 L ISPIN=1/2                                                              
+  9B 3 L XREF=N                                                                 
+  9B  cL E         from {+11}B(p,t): see also unpublished work in {+9}Be(p,n).  
+  9B   L 15580     40                                                       A   
+  9B 2 L ISPIN=1/2                                                              
+  9B 3 L XREF=N                                                                 
+  9B  cL E         from {+11}B(p,t): see also unpublished work in {+9}Be(p,n).  
+  9B   L 16024     25                  180 KEV   16                         A   
+  9B 2 L ISPIN=(1/2)                                                            
+  9B 3 L XREF=FN                                                                
+  9B  cL E         |G: from {+7}Li({+3}He,n).                                   
+  9B   L 16.71E3   10 (5/2+)                                                A  ?
+  9B 2 L XREF=H                                                                 
+  9B  cL E         from unpublished work on {+9}Be(p,n). This level is thought  
+  9B 2cL to be an analog to the {+9}Be 5/2+ state at 16.67 MeV (see 1991Di03).  
+  9B   L 17076     4                   22 KEV    5                              
+  9B 2 L %IT GT 0 $ %3HE LT 100 $ ISPIN=3/2                                     
+  9B 3 L XREF=BIN                                                               
+  9B  cL E         |G: from {+11}B(p,t).                                        
+  9B   G 14718     11                                                           
+  9B   G 17059      4                                                           
+  9B   L 17190     25                  113 KEV   24                             
+  9B 2 L %P LT 100 $ %D GT 0 $ %3HE GT 0                                        
+  9B 3 L XREF=CFGN                                                              
+  9B  cL E         from {+7}Be(d,n).                                            
+  9B  cL WIDTH     From weighted average of 110 keV {I30} from {+6}Li({+3}He,d) 
+  9B 2cL and 120 keV {I40} from {+7}Be(d,n).                                    
+  9B   L 17.54E3   10 (7/2+)                                                A  ?
+  9B 2 L XREF=H                                                                 
+  9B  cL E         from unpublished work on {+9}Be(p,n). This level is thought  
+  9B 2cL to be an analog to the {+9}Be 7/2+ state at 17.49 MeV (see 1991Di03).  
+  9B   L 17638     10                  71 KEV    7                              
+  9B 2 L %P LT 100 $ %D GT 0 $ %3HE GT 0 $ %A GT 0                              
+  9B 3 L XREF=BCFGN                                                             
+  9B  cL E         from weighted average of 17640 keV {I10} from {+7}Be(d,n)    
+  9B 2cL (1960Ka17) and 17630 keV {I20} from {+6}Li({+3}He,|a) (1978Gu15).      
+  9B  cL WIDTH     From weighted average of 71 keV {I8} from {+7}Be(d,n)        
+  9B 2cL (1960Ka17) and 70 keV {I20} from {+6}Li({+3}He,|a) (1978Gu15).         
+  9B   L 18.6E3     3                  1000 KEV                                ?
+  9B 2 L %P LT 100 $ %3HE GT 0                                                  
+  9B 3 L XREF=BIK                                                               
+  9B  cL E         from {+9}Be({+3}He,t).                                       
+  9B   L 20.7E3     5                  1.6 MEV    3                         A  ?
+  9B  cL E         |G: from {+9}Be({+3}He,t).                                   
+  9B 2 L XREF=I                                                                 

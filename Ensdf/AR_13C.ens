@@ -1,0 +1,316 @@
+ 13C     ADOPTED LEVELS, GAMMAS        1991AJ01                  91NP     200107
+ 13C   H TYP=FMT$AUT=J. Tuli$DAT=30-Jul-2001$COM=Fixed reaction descriptor$     
+ 13C   H TYP=FUL$AUT=F. AJZENBERG-SELOVE, J.H. KELLEY AND C.D. NESARAJA$        
+ 13C 2 H CIT=NP A523, 1 (1991)$CUT=1-JUL-1990$                                  
+ 13C  D  ADDED PN RECORD (TWB. 940526)                                          
+ 13C   Q -2220.45  274946.313 217532.9 14-10647.54     1997AU04                 
+ 13C  PN                                                                     6  
+ 13C   XA13B B- DECAY                                                           
+ 13C   XB13N B+ DECAY                                                           
+ 13C   XC6LI(7LI,P)                                                             
+ 13C   XD6LI(7LI,D)                                                             
+ 13C   XE9BE(A,N) RES                                                           
+ 13C   XF9BE(A,A) RES                                                           
+ 13C   XG9BE(6LI,D)                                                             
+ 13C   XH9BE(7LI,T)                                                             
+ 13C   XI9BE(9BE,NA)                                                            
+ 13C   XJ10B(A,P)                                                               
+ 13C   XK10B(6LI,3HE)                                                           
+ 13C   XL10B(7LI,A)                                                             
+ 13C   XM10B(14N,11C)                                                           
+ 13C   XN11B(D,G)                                                               
+ 13C   XO11B(D,N)                                                               
+ 13C   XP11B(D,P)                                                               
+ 13C   XQ11B(3HE,P)                                                             
+ 13C   XR11B(6LI,A)                                                             
+ 13C   XS12C(N,G) E=TH                                                          
+ 13C   XT12C(N,N) RES                                                           
+ 13C   XU12C(N,P)                                                               
+ 13C   XV12C(P,PI+)                                                             
+ 13C   XW12C(D,P)                                                               
+ 13C   XX12C(T,D)                                                               
+ 13C   XY12C(3HE,2P)                                                            
+ 13C   XZ12C(A,3HE)                                                             
+ 13C   Xa12C(7LI,6LI)                                                           
+ 13C   Xb12C(14N,13N)                                                           
+ 13C   Xc13C(G,N)                                                               
+ 13C   Xd13C(G,P)                                                               
+ 13C   Xe13C(E,E')                                                              
+ 13C   Xf13C(PI,PI)                                                             
+ 13C   Xg13C(N,N)                                                               
+ 13C   Xh13C(P,P)                                                               
+ 13C   Xi13C(T,T)                                                               
+ 13C   Xj13C(A,A)                                                               
+ 13C   Xk14C(P,D)                                                               
+ 13C   Xl14N(G,P)                                                               
+ 13C   Xm14N(P,2P)                                                              
+ 13C   Xn14N(D,3HE)                                                             
+ 13C   Xo14N(T,A)                                                               
+ 13C   Xp15N(P,3HE)                                                             
+ 13C   Xq16O(N,A)                                                               
+ 13C   Xr16O(9BE,12C)                                                           
+ 13C   Xs12C(N,G) RES                                                           
+ 13C  cL E(A)      Decay mode not specified                                     
+ 13C  cG MR        The signature has been changed, where necessary, from        
+ 13C 2cG that given in 1991Aj01 in order to conform to the convention used in   
+ 13C 3cG the nuclear data sheets.                                               
+ 13C   L 0.0         1/2-              STABLE                                   
+ 13C 2 L ISPIN=1/2$ MOMM1=+0.7024118 14 (1989RA17)                              
+ 13C 3 L XREF=ABGHIJLMNQRSVWXYZABCDEFGHIJKLMNOPQR                               
+ 13C   L 3089.443  20 1/2+             1.07 FS   10                             
+ 13C 2 L XREF=GHIJLQRSVWXZABEFGHIJKLMNOPQR                                      
+ 13C   G 3089.049  20 100      [E1]                                             
+ 13C 2 G BE1W=0.039 4$                                                          
+ 13C   L 3684.507  19 3/2-             1.10 FS   9                              
+ 13C 2 L XREF=GHIJLMQRSVWXZAEFGHIJKLMNOPQ                                       
+ 13C   G 595.013   11 0.75    3[E1]                                             
+ 13C 2 G BE1W=0.039 6$                                                          
+ 13C   G 3683.921  23 100.00  3[M1+E2]   +0.094  9                              
+ 13C 2 G BM1W=0.39 4$ BE2W=3.5 8$                                               
+ 13C   L 3853.807  19 5/2+             8.60 PS   14                             
+ 13C 2 L XREF=GHIJLQRVWXYAEFGHIJKLMOQR                                          
+ 13C   G 169.300    4 58.1   10[E1]                                             
+ 13C 2 G BE1W=0.0106 2$                                                         
+ 13C   G 764.316   10 1.92    7[E2]                                             
+ 13C 2 G BE2W=1.65 7$                                                           
+ 13C  cG           Note that in table 2, |G{-|g} is a factor of ten too large,  
+ 13C 2cG but B(E2)(W.u.) is correct.                                            
+ 13C   G 3853.170  22 100.0  10[M2+E3]   -0.12   3                              
+ 13C 2 G BM2W=0.472 10$ BE3W=10 4$                                              
+ 13C   L 6864      3  5/2+             6 KEV                                    
+ 13C 2 L WIDTHG=7E-5 EV 4$ %IT=1.2E-6$ %N=100                                   
+ 13C 3 L XREF=GHIJKLQRTVWXEHJKOP                                                
+ 13C   G 6862      3  100      [M2]                                             
+ 13C 2 G BM2W=0.055 30$                                                         
+ 13C   L 7492      10 (7/2+)           5 KEV     LT                         A   
+ 13C 2 L XREF=GKMQRWEJNO                                                        
+ 13C   L 7547      3  5/2-             1.2 KEV   3                              
+ 13C 2 L WIDTHG=0.115 EV 7$ %IT=0.0096 25$ %N=100                               
+ 13C 3 L XREF=GJKMQRTWEFGHIJKNOP                                                
+ 13C   G 7545      3 100       [E2+M3]    0.0093                                
+ 13C 2 G BE2W=3.1 2$ BM3W=34                                                    
+ 13C   L 7686      6  3/2+             70 KEV    5                              
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C 3 L XREF=JKQRWXCHJKO                                                       
+ 13C   L 820E+1    10 3/2+             1100 KEV  300                            
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C 3 L XREF=TWXYHK                                                            
+ 13C   L 8860      20 1/2-             150 KEV   30                             
+ 13C 2 L WIDTHG=3.4 EV 5$ %IT=0.0023 6$ %N=100$                                 
+ 13C 3 L XREF=QTWEFHJKLNOP                                                      
+ 13C   G 8857      20 100      [M1]                                             
+ 13C 2 G BM1W=0.23 3$                                                           
+ 13C   L 9499.8    1  9/2+             5 KEV     LE                             
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C 3 L XREF=GKQTVWXYEHJKNOP                                                   
+ 13C   L 9897      5  3/2-             26 KEV    3                              
+ 13C 2 L WIDTHG=0.33 EV 4$ %IT=0.00127 21$ %N=100$                              
+ 13C 3 L XREF=GJKQTWCEHKO                                                       
+ 13C   G 9893      5 100       [M1+E2]     0.139 15                             
+ 13C 2 G BM1W=0.016 2$ BE2W=0.044 8$                                            
+ 13C   L 10460                         200 KEV                                  
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=T                                                                 
+ 13C   L 10753     4  7/2-             55 KEV    2                              
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C 3 L XREF=GKQTWXEHO                                                         
+ 13C   L 10818     5 (5/2-)            24 KEV    3                              
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C 3 L XREF=GKQTWEHO                                                          
+ 13C   L 10996     6  1/2+             37 KEV    4                              
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C 3 L XREF=EQTWCHKO                                                          
+ 13C   L 11080     5  1/2-             4 KEV     LT                             
+ 13C 2 L WIDTHG=1.02 EV 12$ %IT=?$ %N=?$ %A=?$                                  
+ 13C 3 L XREF=EQTWEHJKOP                                                        
+ 13C   G 11075     5 100       [M1]                                             
+ 13C 2 G BM1W=0.036 5$                                                          
+ 13C   L 11748     10 3/2-             110 KEV   15                             
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=QTWHKO                                                            
+ 13C   L 11848     4  7/2+             68 KEV    4                              
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C 3 L XREF=GTWEFHJLP                                                         
+ 13C   L 11950     40 5/2+             500 KEV   80                             
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=ETW                                                               
+ 13C   L 12106     5  3/2+             540 KEV   70                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C  cL           The it and |a branches are tentative                         
+ 13C 3 L XREF=ETWCH                                                             
+ 13C   L 12130     50 5/2-             80 KEV    30                             
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C  cL           The |a branch is tentative                                   
+ 13C 3 L XREF=EGTO                                                              
+ 13C   L 12140     70 1/2+             430 KEV   70                             
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C  cL           The |a branch is tentative                                   
+ 13C 3 L XREF=ETH                                                               
+ 13C   L 12187     10 3/2-             150 KEV   40                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C  cL           The |a branch is tentative                                   
+ 13C 3 L XREF=ETE                                                               
+ 13C   L 12438     12 7/2-             140 KEV   30                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C 3 L XREF=ETEHP                                                             
+ 13C   L 130E+2    10                                                           
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C  cL T         |G=broad                                                     
+ 13C 3 L XREF=C                                                                 
+ 13C   L 13280       (3/2-)            340 KEV                                 ?
+ 13C 2 L %A=100                                                                 
+ 13C 3 L XREF=FHK                                                               
+ 13C   L 13410       (9/2-)            35 KEV    3                              
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EFGH                                                              
+ 13C   L 13570        7/2-             620 KEV   50                             
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EFTH                                                              
+ 13C   L 13760       (5/2,3/2)+        300 KEV   AP                             
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EFH                                                               
+ 13C   L 14130        3/2-             150 KEV   AP                             
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EFGTH                                                             
+ 13C   L 14390     15(1/2,5/2)-        280 KEV   70                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C 3 L XREF=EEH                                                               
+ 13C   L 14582     10(7/2+,9/2+)       230 KEV   40                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C 3 L XREF=EEH                                                               
+ 13C   L 14983     10(7/2-)            380 KEV   60                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C 3 L XREF=ETEH                                                              
+ 13C   L 15108.2   12 3/2-             5.49 KEV  25                             
+ 13C 2 L WIDTHG=45 EV 3$ %IT=0.82 7$ %N=?$ %A=?$ ISPIN=3/2                      
+ 13C 3 L XREF=EQTEHKPC                                                          
+ 13C   G 11418.3   12 79     11[M1]                                             
+ 13C 2 G BM1W=0.58  8                                                           
+ 13C   G 12012.8   12 18      3[E1]                                             
+ 13C 2 G BE1W=0.006 1$                                                          
+ 13C   G 15098.8   12 100     7[M1+E2]    0.164  15                             
+ 13C 2 G BM1W=0.31 2$ BE2W=0.50 10$                                             
+ 13C   L 15270        9/2+                                                      
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=T                                                                 
+ 13C   L 15526     11(3/2-)            150 KEV   30                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C 3 L XREF=ETFH                                                              
+ 13C   L 16080     7 (7/2+)            150 KEV   15                             
+ 13C 2 L %IT=?$ %N=?$ %A=?$                                                     
+ 13C 3 L XREF=ETEFH                                                             
+ 13C   L 16150     50(5/2-)            230 KEV                                  
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EH                                                                
+ 13C   L 16183     28                  40 KEV    20                            ?
+ 13C 2 L %IT=100                                                                
+ 13C  cL T$tentative                                                            
+ 13C 3 L XREF=E                                                                 
+ 13C   L 16950     50                  330 KEV                                  
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EH                                                                
+ 13C   L 1736E+1   10                  190 KEV                                  
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EH                                                                
+ 13C   L 17533     3                   17 KEV    6                              
+ 13C 2 L %N=100$ ISPIN=3/2                                                      
+ 13C  cL ISPIN$Tentative                                                        
+ 13C 3 L XREF=T                                                                 
+ 13C   L 17699     5 (3/2,5/2)         170 KEV                                  
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EH                                                                
+ 13C   L 17920     50                                                       A  ?
+ 13C 2 L XREF=F                                                                 
+ 13C   L 18082     3                   12 KEV    7                              
+ 13C 2 L %N=100$ ISPIN=3/2                                                      
+ 13C  cL ISPIN$Tentative                                                        
+ 13C 3 L XREF=T                                                                 
+ 13C   L 18300     50                  300 KEV                                  
+ 13C 2 L %N=?$ %A=?$                                                            
+ 13C 3 L XREF=EH                                                                
+ 13C   L 18497     10                  91 KEV    23                            ?
+ 13C 2 L %IT=100                                                                
+ 13C  cL T$tentative                                                            
+ 13C 3 L XREF=E                                                                 
+ 13C   L 18699     5 (3/2+,5/2+)       100 KEV   15                             
+ 13C 2 L %IT=?$ %N=?$ %P=?$ %A=?$                                               
+ 13C  cL           The proton branch is tentative                               
+ 13C 3 L XREF=EDEH                                                              
+ 13C   L 19510       (5/2-)            500 KEV   GE                             
+ 13C 2 L %N=?$ %D=?$                                                            
+ 13C 3 L XREF=OTH                                                               
+ 13C   L 19900                         600 KEV   AP                             
+ 13C 2 L %N=?$ %P=?$ %D=?$                                                      
+ 13C 3 L XREF=OH                                                                
+ 13C   L 20021     13                  230 KEV   30                             
+ 13C 2 L %IT=100                                                                
+ 13C 3 L XREF=EH                                                                
+ 13C   L 20057     4                   11 KEV    8                              
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=T                                                                 
+ 13C   L 20110       (1/2-)            1090 KEV                                ?
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=T                                                                 
+ 13C   L 20110       (5/2+)            440 KEV                                 ?
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=T                                                                 
+ 13C   L 20200     70(7/2+)            560 KEV   90                             
+ 13C 2 L %IT=?$ %N=?$ %D=?$ %A=?$                                               
+ 13C 3 L XREF=NOST                                                              
+ 13C   L 20300       (7/2-)            1560 KEV                                ?
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=T                                                                 
+ 13C   L 20340       (9/2+)            320 KEV                                 ?
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=T                                                                 
+ 13C   L 20429     8                   115 KEV   25                             
+ 13C 2 L %IT=?$ %N=?$ %P=?$ %D=?$                                               
+ 13C 3 L XREF=OEH                                                               
+ 13C   L 20520     70                  510 KEV   70                             
+ 13C 2 L %IT=?$ %N=?$ %P=?$                                                     
+ 13C 3 L XREF=OT                                                                
+ 13C   L 206E+2    8                   5600 KEV  400                            
+ 13C 2 L %IT=?$ %N=?$ %D=?$                                                     
+ 13C 3 L XREF= NCS                                                              
+ 13C   L 2093E+1   10                  240 KEV   100                        A  ?
+ 13C  cL T$tentative                                                            
+ 13C 2 L XREF=H                                                                 
+ 13C   L 21280     15                  159 KEV   15                             
+ 13C 2 L %N=?$ %P=?$ %D=?$                                                      
+ 13C 3 L XREF=OPH                                                               
+ 13C   L 21466     8 (7/2+,9/2+)       270 KEV   20                             
+ 13C 2 L %IT=100                                                                
+ 13C 3 L XREF=EH                                                                
+ 13C   L 21703     4                   18 KEV    9                              
+ 13C 2 L %N=100$ ISPIN=3/2                                                      
+ 13C  cL ISPIN$Tentative                                                        
+ 13C 3 L XREF=TV                                                                
+ 13C   L 21810     20 (GE 5/2)         114 KEV   21                             
+ 13C 2 L %N=?$ %D=?$                                                            
+ 13C 3 L XREF=OH                                                                
+ 13C   L 2220E+1   10 (LE 5/2)         1100 KEV  500                            
+ 13C 2 L %N=?$ %D=?$                                                            
+ 13C 3 L XREF=OH                                                                
+ 13C   L 23000        (LE 5/2)         1000 KEV  AP                             
+ 13C 2 L %N=100                                                                 
+ 13C 3 L XREF=TH                                                                
+ 13C   L 24000                         4000 KEV  AP                             
+ 13C 2 L %IT=?$ %N=?$ %P=?$                                                     
+ 13C 3 L XREF=C                                                                 
+ 13C   L 26000                                                                 ?
+ 13C 2 L %IT=?$ %P=?$                                                           
+ 13C  cL T         |G=broad                                                     
+ 13C 3 L XREF=D                                                                 
+ 13C   L 26800                                                                  
+ 13C 2 L %N=?$ %D=?$                                                            
+ 13C 3 L XREF=O                                                                 
+ 13C   L 27500                         1000 KEV  AP                             
+ 13C 2 L %N=?$ %P=?$ %D=?$ %3H=?$                                               
+ 13C 3 L XREF=O                                                                 
+ 13C   L 30000                                                                  
+ 13C 2 L %IT=?$ %N=?$                                                           
+ 13C 3 L XREF=C                                                                 
+
+
+
+

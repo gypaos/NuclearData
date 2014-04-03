@@ -1,0 +1,872 @@
+ 20NE    ADOPTED LEVELS, GAMMAS        1998TI06                  98NP     199902
+ 20NE  H TYP=FUL$AUT=D. R. TILLEY, C. CHEVES, J. KELLEY, S. RAMAN, H. WELLER$   
+ 20NE2 H CIT=NP A636, 249 (1998)$CUT=21-APR-1997$                               
+ 20NE  Q -13886    7 16864.4 6 12843.50 7-4729.84 1    1997AU04                 
+ 20NE  XA20F B- DECAY                                                           
+ 20NE  XB20NA B+ DECAY                                                          
+ 20NE  XC12C(12C,A)                                                             
+ 20NE  XD16O(A,G)                                                               
+ 20NE  XE16O(A,A), 16O(A,2A)                                                    
+ 20NE  XF16O(6LI,D)                                                             
+ 20NE  XG16O(7LI,T)                                                             
+ 20NE  XH16O(12C,8BE)                                                           
+ 20NE  XI19F(P,G)                                                               
+ 20NE  XJ19F(P,P), 19F(P,D)                                                     
+ 20NE  XK19F(P,A)                                                               
+ 20NE c  See other reaction references in 1998Ti06                              
+ 20NE  L 0.0          0+               STABLE                                   
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=ABCDFGHI                                                          
+ 20NE  L 1633.674  15 2+               0.73 PS    4                             
+ 20NE2 L MOMM1=+1.08 8 (1989Ra17)$ MOME2=-0.23 3 (1989Ra17)$ ISPIN=0            
+ 20NE3 L XREF=ABCDFGHI                                                          
+ 20NE  G   1633.60215 100       [E2]                                            
+ 20NE2 G BE2W=20.3 10                                                           
+ 20NE  L 4247.7    11 4+               64 FS      6                             
+ 20NE2 L MOMM1=+0.5 6 (1989Ra17)$ ISPIN=0                                       
+ 20NE3 L XREF=ABCDFGH                                                           
+ 20NE  G     2613.811 100       [E2]                                            
+ 20NE2 G BE2W=22 2                                                              
+ 20NE  L 4966.51   20 2-               3.3 PS     4                             
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=ABCGFI                                                            
+ 20NE  G    3332.5420  99.4  2 [E1+M2+E3]                                       
+ 20NE2 G BE1W=7.3E-6 8$ BM2W=0.017 4$ BE3W=6 2                                  
+ 20NE cG           |d(M2/E1)=0.076 {I11}, |d(E3/E1)=0.043 {I16}                 
+ 20NE  G    4965.8520 0.6     2 [M2]                                            
+ 20NE2 G BM2W=0.0025 8                                                          
+ 20NE  L 5621.4    17 3-               139 FS    35                             
+ 20NE2 L %IT=7 3$ %A=93 3$ WIDTHG=2.4E-4 EV 6$ ISPIN=0                          
+ 20NE3 L XREF=ACDF                                                              
+ 20NE  G      654.918 4.8    16 [M1]                                            
+ 20NE2 G BM1W=2.0E-3 9                                                          
+ 20NE  G     3987.317 87.6   10 [E1]                                            
+ 20NE2 G BE1W=6.6E-6 19                                                         
+ 20NE  G     5620.617 7.6    10 [E3]                                            
+ 20NE2 G BE3W=11 4                                                              
+ 20NE  L 5787.7    26 1-               0.028 KEV  3                             
+ 20NE2 L %IT=0.016 3$ %A=100$ WIDTHG=4.6E-3 EV 8$ ISPIN=0                       
+ 20NE3 L XREF=ACDEFGH                                                           
+ 20NE  G       4154 3 82      5 [E1]                                            
+ 20NE2 G BE1W=1.1E-4 2                                                          
+ 20NE  G       5787 3 18      5 [E1]                                            
+ 20NE2 G BE1W=8.3E-6 3                                                          
+ 20NE  L 6706      47                                                           
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=B                                                                 
+ 20NE  L 6725      5  0+               19.0 KEV   9                             
+ 20NE2 L %IT=1.7E-4$ %A=100$ WIDTHG=0.033 EV$ ISPIN=0                           
+ 20NE3 L XREF=ADEF                                                              
+ 20NE  G       5090 5 100       [E2]                                            
+ 20NE2 G BE2W=3.6                                                               
+ 20NE  G       6724 5           [E0]                                            
+ 20NE  L 7004.0    36 4-               305 FS    62                             
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=ACF                                                               
+ 20NE  G     1383   4 25        [M1]                                            
+ 20NE2 G BM1W=6.9E-3                                                            
+ 20NE  G     2037   4 11        [E2]                                            
+ 20NE2 G BE2W=1.8                                                               
+ 20NE  G     2756   4 63.5      [E1]                                            
+ 20NE2 G BE1W=9.1E-5                                                            
+ 20NE  G     5369   4 0.5     2 [M2]                                            
+ 20NE2 G BM2W=1.5E-2 8                                                          
+ 20NE  L 7156.3     5 3-               8.2 KEV    3                             
+ 20NE2 L WIDTHG=16.1E-4 EV 15$ %IT=2.0E-5 2$ %A=100$ ISPIN=0                    
+ 20NE3 L XREF=CEFGH                                                             
+ 20NE  G       1369 3 40      5 [E2]                                            
+ 20NE2 G BE2W=50 8                                                              
+ 20NE  G     2908.412 60      5 [E1]                                            
+ 20NE2 G BE1W=7.9E-5 9                                                          
+ 20NE  L 7191      3  0+               3.4 KEV    2                             
+ 20NE2 L WIDTHG=4.4E-3 EV 8$ %IT=1.29E-4 25$ %A=100$ ISPIN=0                    
+ 20NE3 L XREF=CDE                                                               
+ 20NE  G       5556 3 100       [E2]                                            
+ 20NE2 G BE2W=0.31 6                                                            
+ 20NE  G       7190 3           [E0]                                            
+ 20NE  L 7421.9    12 2+               15.1 KEV   7                             
+ 20NE2 L %IT=1.9E-4 3$ %A=100$ WIDTHG=0.029 EV 4$ ISPIN=0                       
+ 20NE3 L XREF=BCDEF                                                             
+ 20NE  G     3173.917 7.6    LE                                                 
+ 20NE cG RI$author quotes I|g/|S(I|g)|<7.6%                                     
+ 20NE  G     5787.312 89.2   GE [M1+E2]   +8.4   +15-10                         
+ 20NE2 G BM1W=1.0E-4 3$ BE2W=1.7 2                                              
+ 20NE cG RI$author quotes I|g/|S(I|g)|>90.6% {I14}                              
+ 20NE  G    7420.4 12 10.8   LE                                                 
+ 20NE cG RI$author quotes I|g/|S(I|g)|<9.4% {I14}                               
+ 20NE  L 7833.4    15 2+               2 KEV                                    
+ 20NE2 L %IT=3.4E-3$ %A=100$ WIDTHG=0.069 EV 7$ ISPIN=0                         
+ 20NE3 L XREF=BCDE                                                              
+ 20NE  G    3585.4 19 2      LT                                                 
+ 20NE  G   6198.7  15 17      1 [M1]                                            
+ 20NE2 G BM1W=2.3E-3 3                                                          
+ 20NE  G    7831.8 15 83      1 [E2]                                            
+ 20NE2 G BE2W=0.73 9                                                            
+ 20NE  L 8453      4  5-               0.013 KEV  4                             
+ 20NE2 L %IT=0.10 4$ %A=99.90 4$ WIDTHG=0.013 EV 3$ ISPIN=0                     
+ 20NE3 L XREF=CDEF                                                              
+ 20NE  G       2832 5 100       [E2]                                            
+ 20NE2 G BE2W=27 6                                                              
+ 20NE  L 8700      AP 0+               800 KEV   GT                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 8708      7  1-               2.1 KEV    8                             
+ 20NE2 L %IT=3.3E-3 15$ %A=100$ WIDTHG=0.070 EV 17$ ISPIN=0                     
+ 20NE3 L XREF=CDE                                                               
+ 20NE  G       7073 7 13      8 [E1]                                            
+ 20NE2 G BE1W=5E-5 3                                                            
+ 20NE  G       8706 7 87      8 [E1]                                            
+ 20NE2 G BE1W=1.9E-4 5                                                          
+ 20NE  L 8777.6    22 6+               0.11 KEV   2                             
+ 20NE2 L %IT=0.091 21$ %A=100$ WIDTHG=0.100 EV 15$ ISPIN=0                      
+ 20NE3 L XREF=CDEFGH                                                            
+ 20NE  G     4529.325 100       [E2]                                            
+ 20NE2 G BE2W=20 3                                                              
+ 20NE  L 8820         (5-)             1 KEV     LT                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 8854      5  1-               19 KEV                                   
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 90.0E+2   18 2+               800 KEV   AP                             
+ 20NE2 L %A=?$ ISPIN=0                                                          
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 9031      7  4+               3 KEV                                    
+ 20NE2 L %IT=0.011$ %A=100$ WIDTHG=0.34 EV 4$ ISPIN=0                           
+ 20NE3 L XREF=CDE                                                               
+ 20NE  G       4782 7 2      LT                                                 
+ 20NE  G       7396 7 100       [E2]                                            
+ 20NE2 G BE2W=5.8 7                                                             
+ 20NE  L 9116      3  3-               3.2 KEV                                  
+ 20NE2 L %IT=8E-4$ %A=100$ WIDTHG=0.026 EV 3$ ISPIN=0                           
+ 20NE3 L XREF=CDE                                                               
+ 20NE  G       3495 4 17      4 [M1]                                            
+ 20NE2 G BM1W=4.9E-3 12                                                         
+ 20NE  G       4149 3 33      5 [M1]                                            
+ 20NE2 G BM1W=5.8E-3 11                                                         
+ 20NE  G       7480 3 50      5 [E1]                                            
+ 20NE2 G BE1W=6.2E-5 10                                                         
+ 20NE  L 9196      30 2+                                                        
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=B                                                                 
+ 20NE  L 9318       2 (2-)                                                      
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=CD                                                                
+ 20NE  G     7682.720 100                                                       
+ 20NE  L 9487      5  2+               29 KEV    15                             
+ 20NE2 L  WIDTHG=0.26 EV 10$ %IT=9E-4 6$ %A=100$ ISPIN=0                        
+ 20NE3 L XREF=BDE                                                               
+ 20NE  G       7848 3 100       [M1]                                            
+ 20NE2 G BM1W=2.5E-2 10                                                         
+ 20NE cG RI$authors report I|g/|S(I|g)=(100)%                                   
+ 20NE  G       9481 3                                                           
+ 20NE  L 9873      4  3+                                                        
+ 20NE2 L WIDTHG/WIDTH=0.82 27$ ISPIN=0                                          
+ 20NE3 L XREF=BC                                                                
+ 20NE  G       2451 5 3      AP                                                 
+ 20NE  G       4252 5 7      AP                                                 
+ 20NE  G       4905 4 5      LE                                                 
+ 20NE  G       5624 5 12      3                                                 
+ 20NE  G       8237 4 78                                                        
+ 20NE  G       9870 4 0.5    LT                                                 
+ 20NE  L 9935      12 (1+)             24.3 FS   LT                             
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  G       496712 22      5                                                 
+ 20NE  G       829912 78      5                                                 
+ 20NE  L 9990      8  4+               155 KEV   30                             
+ 20NE2 L WIDTHG=0.9 EV 4$ %IT=6E-4 3$ %A=100$ ISPIN=0                           
+ 20NE3 L XREF=CDE                                                               
+ 20NE  G       8354 8  100      [E2]                                            
+ 20NE2 G BE2W=8.3 37                                                            
+ 20NE cG RI$authors report I|g/|S(I|g)=(100)%                                   
+ 20NE  G       9987 8                                                           
+ 20NE  L 10262     5  5-               145 KEV   40                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEFGH                                                             
+ 20NE  L 10273.2   19 2+               0.3 KEV   LE                             
+ 20NE2 L WIDTHG=4.6 EV 5$ %IT=?$ %A=?$ ISPIN=1                                  
+ 20NE3 L XREF=BDE                                                               
+ 20NE  G   2440.4  33 0.22    6 [M1]                                            
+ 20NE2 G BM1W=2.6E-2 7                                                          
+ 20NE  G       2852 4 6.9     4 [M1]                                            
+ 20NE2 G BM1W=0.64 8                                                            
+ 20NE  G       4652 4 2.1     2 [E1]                                            
+ 20NE2 G BE1W=1.9E-3 3                                                          
+ 20NE  G       5306 3 1.3     1 [E1]                                            
+ 20NE2 G BE1W=8.0E-4 11                                                         
+ 20NE  G       8638 3 88.9    5 [M1]                                            
+ 20NE2 G BM1W=0.30 3                                                            
+ 20NE  G      10271 3 0.65   14 [E2]                                            
+ 20NE2 G BE2W=9.5E-2 26                                                         
+ 20NE  L 10406     5  3-               80 KEV                                   
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 10553     5  4+               16 KEV                                   
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 10584     5  2+               24 KEV                                   
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=BE                                                                
+ 20NE  L 10609     6  6-               16 FS      5                             
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  G       2156 8 4.5    12 [M1]                                            
+ 20NE2 G BM1W=6.1E-3 28                                                         
+ 20NE  G     3605   8 95.5   12 [E2]                                            
+ 20NE2 G BE2W=17 6                                                              
+ 20NE  L 10694     6  4-,3+                                                     
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  G       5726 6 75      4                                                 
+ 20NE  G       6445 6 25      4                                                 
+ 20NE  L 10800     75 4+               350 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EF                                                                
+ 20NE  L 10840     6  3-               45 KEV                                   
+ 20NE2 L %IT=?$ %A=?$ ISPIN=0                                                   
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 10843     4  2+               13 KEV                                   
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=BE                                                                
+ 20NE  L 10884     3  3+               21 FS     LT                             
+ 20NE2 L WIDTHG/WIDTH<0.3$ ISPIN=1                                              
+ 20NE3 L XREF=B                                                                 
+ 20NE  G       6635 4 23      5                                                 
+ 20NE  G       9248 3 77      5                                                 
+ 20NE  L 10917     6  3+                                                        
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  L 10940      9 2+                                                        
+ 20NE2 L XREF=B                                                                 
+ 20NE  L 109.7E+2  12 0+               580 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 11020     8  4+               24 KEV                                   
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 11090     3  4+               0.5 KEV   LE                             
+ 20NE2 L WIDTHG=0.34 EV 4$ %IT=?$ %A=?$ ISPIN=1                                 
+ 20NE3 L XREF=DE                                                                
+ 20NE  G       6841 4 99.50  25 [M1]                                            
+ 20NE2 G BM1W=5.0E-2 6                                                          
+ 20NE  G       9454 3 0.50   25 [E2]                                            
+ 20NE2 G BE2W=1.0E-2 5                                                          
+ 20NE  L 11116      9 2+                                                        
+ 20NE2 L XREF=B                                                                 
+ 20NE  L 11240     23 1-               175 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 11262.3   19 1+                                                        
+ 20NE2 L ISPIN=1                                                                
+ 20NE3 L XREF=BD                                                                
+ 20NE  G     9626.119 16      5 [M1]                                            
+ 20NE2 G BM1W=0.11 4                                                            
+ 20NE  G    11258.919 84      5 [M1]                                            
+ 20NE2 G BM1W=0.37 7                                                            
+ 20NE  L 11270     5  1-               0.3 KEV   LE                             
+ 20NE2 L WIDTHG=0.71 EV 6$ %IT=?$ %A=?$ ISPIN=1                                 
+ 20NE3 L XREF=DE                                                                
+ 20NE  G       1952 6 9       1 [M1]                                            
+ 20NE2 G BM1W=0.40 6                                                            
+ 20NE  G       2416 7 27.0   15 [M1]                                            
+ 20NE2 G BM1W=0.63 8                                                            
+ 20NE  G       6302 5 6.5    10 [M1]                                            
+ 20NE2 G BM1W=8.8E-3 7                                                          
+ 20NE  G       9634 5 2.5    10 [E1]                                            
+ 20NE2 G BE1W=4.0E-5 16                                                         
+ 20NE  G      11267 5 55      2 [E1]                                            
+ 20NE2 G BE1W=5.4E-4 7                                                          
+ 20NE  L 11320     9  2+               40 KEV    10                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=BE                                                                
+ 20NE  L 11528     6  3+,4-            21 FS     LE                             
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  G     4523  7                                                            
+ 20NE cG           Deexcites the 11528 and/or the 11555 level                   
+ 20NE  G       6560 6 70      3                                                 
+ 20NE  G       7279 6 30      3                                                 
+ 20NE  L 11555     6  (3+)                                                      
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  G     4550  7                                                            
+ 20NE cG           Deexcites the 11555 and/or the 11528 level                   
+ 20NE  G       9918 6                                                           
+ 20NE  L 11558     4  0+               1.1 KEV    4                             
+ 20NE2 L %IT=?$ %A=?$ ISPIN=0                                                   
+ 20NE3 L XREF=DE                                                                
+ 20NE  G       7309 5 8      LT                                                 
+ 20NE  G       9921 4 100                                                       
+ 20NE  L 11601     10 2-                                                        
+ 20NE2 L ISPIN=1                                                                
+ 20NE cL $Decay mode not specified                                              
+ 20NE  L 11653     5  (3+)                                                      
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  G       7404 6 86      3                                                 
+ 20NE  G      10016 5 14      3                                                 
+ 20NE  L 11885     7  2+               46 KEV                                   
+ 20NE2 L %IT=?$ %A=?$ ISPIN=0                                                   
+ 20NE3 L XREF=BE                                                                
+ 20NE  L 11928     4  4+               0.44 KEV  15                             
+ 20NE2 L WIDTHG=0.026 EV 6$ %IT=6E-3 3$ %A=100$ ISPIN=0                         
+ 20NE3 L XREF=DE                                                                
+ 20NE  G       7678 5 79     11 [M1]                                            
+ 20NE2 G BM1W=2.2E-3 6                                                          
+ 20NE  G      10291 4 21     11 [E2]                                            
+ 20NE2 G BE2W=1.8E-2 10                                                         
+ 20NE  L 11951     4  8+               0.035 KEV 10                             
+ 20NE2 L WIDTHG=7.7E-3 EV 11$ %IT=0.022 7$ %A=100$ ISPIN=0                      
+ 20NE3 L XREF=CDEFGH                                                            
+ 20NE  G       3173 5 100       [E2]                                            
+ 20NE2 G BE2W=9.0 13                                                            
+ 20NE  L 11985     16 1-               30 KEV     5                             
+ 20NE2 L %IT=?$ %A=?$ ISPIN=0                                                   
+ 20NE3 L XREF=CDE                                                               
+ 20NE  L 12098     6  2-                                                        
+ 20NE2 L ISPIN=1                                                                
+ 20NE3 L XREF=C                                                                 
+ 20NE  L 12137     5  6+                                                        
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 12221     4  2+               1 KEV     LT                             
+ 20NE2 L %IT=?$ %A=?$ ISPIN=1                                                   
+ 20NE3 L XREF=CD                                                                
+ 20NE  G      10584 4 100                                                       
+ 20NE cG RI$authors report I|g/|S(I|g)=(100)%                                   
+ 20NE  L 12253     10 4+               155 KEV   15                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 12256     3  3-               1 KEV     LT                             
+ 20NE2 L %IT=?$ %A=?$ ISPIN=1                                                   
+ 20NE3 L XREF=DE                                                                
+ 20NE  G       6634 4 37.0   15                                                 
+ 20NE  G      10619 3 63.0   15                                                 
+ 20NE  L 12327     10 2+               390 KEV   50                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 12401     5  3-               37.3 KEV   9                             
+ 20NE2 L WIDTHG=0.2 EV$ %IT=5E-4$ %A=100$ ISPIN=(1)                             
+ 20NE3 L XREF=CDE                                                               
+ 20NE  G       8151 6 70     AP [E1]                                            
+ 20NE2 G BE1W=7.4E-4                                                            
+ 20NE  G      10764 5 29     AP [E1]                                            
+ 20NE2 G BE1W=1.3E-4                                                            
+ 20NE  G      12397 5 1      AP                                                 
+ 20NE  L 12436     4  0+               24.4 KEV   5                             
+ 20NE2 L WIDTHG=0.17 EV 5$ %IT=7.0E-4 21$ %A=100$ ISPIN=0                       
+ 20NE3 L XREF=CDE                                                               
+ 20NE  G      10796 5 100       [E2]                                            
+ 20NE2 G BE2W=0.43 13                                                           
+ 20NE  L 12472     10 (2+)             124 KEV    6                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 12585     5  6+               72 KEV     9                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEFGH                                                             
+ 20NE  L 12592     15 (2+)             145 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 12713     5  5-               84 KEV     8                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 12743     10 (2+)             61 KEV    12                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 12836     5  1-               30 KEV     5                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 12957     5  2+               38 KEV     4                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 13048     5  4+               18 KEV     3                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 13060.7   21 2-               1.0 KEV                                  
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE  L 13095     6  2+               162 KEV   13                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13105     5  6+               102 KEV    5                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13137     5  3-               48 KEV     4                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13171.3   21 1+               2.3 KEV    2                             
+ 20NE2 L %IT=?$ %P=?$ %A=?$ ISPIN=(1)                                           
+ 20NE3 L XREF=IJK                                                               
+ 20NE  L 13222     10 0+               40 KEV    13                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEK                                                               
+ 20NE  L 13224     15 1-               80 KEV                                   
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 13226     5  3-               53 KEV     4                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13307.5   21 1+               0.9 KEV    1                             
+ 20NE2 L %IT=?$ %P=?$ %A=?                                                      
+ 20NE3 L XREF=IJK                                                               
+ 20NE  L 13338     5  7-               0.08 KEV   3                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 13341     5  4+               26 KEV     3                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13414     2  3-               24 KEV     3                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EIJK                                                              
+ 20NE  L 13426     5  (5-)             49 KEV     7                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13461     10 1-               195 KEV   25                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 13484     2  1+               6.4 KEV    3                             
+ 20NE2 L %IT=?$ %P=?$ %A=?$ ISPIN=1                                             
+ 20NE3 L XREF=IJK                                                               
+ 20NE  G     8515.620 5                                                         
+ 20NE  G    11846.520 95                                                        
+ 20NE  L 13507     5  1-               24 KEV     8                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=EJK                                                               
+ 20NE  L 13529     5  2+               61 KEV     8                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13530     15 (0+)             76 KEV    32                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13573     5  2+               12 KEV     5                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEK                                                               
+ 20NE  L 13586     3  2+               9 KEV      1                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=JK                                                                
+ 20NE  L 13642     3  0+               17 KEV     1                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=1                                                    
+ 20NE3 L XREF=CJK                                                               
+ 20NE  L 13676.0   23 (2-)             4.5 KEV    2                             
+ 20NE2 L %IT=?$ %P=?$ %A=?                                                      
+ 20NE3 L XREF=IJK                                                               
+ 20NE  L 13677     5  5-               11 KEV     2                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13692     10 7-               310 KEV   30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13736.0   25 1+               7.7 KEV    5                             
+ 20NE2 L %IT=?$ %P=?$ %A=?                                                      
+ 20NE3 L XREF=IJK                                                               
+ 20NE  L 13744     20 0+               80 KEV    AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13827     10 3-               136 KEV   15                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 13866     30 1-               175 KEV   AP                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=CEK                                                               
+ 20NE  L 13881.0   23 2+               0.14 KEV   5                             
+ 20NE2 L %IT=?$ %P=?$ %A=?$ ISPIN=1                                             
+ 20NE3 L XREF=CIJK                                                              
+ 20NE  G      8912 23 80                                                        
+ 20NE  G     12243 23 20                                                        
+ 20NE  L 13908     5  2+               74 KEV    10                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 13926.0   23 (0+)             3.5 KEV    4                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=K                                                                 
+ 20NE  L 13928     5  6+               65 KEV     3                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EFG                                                               
+ 20NE  L 13948     10 0+               79 KEV    15                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 13965     5  4+               8.1 KEV   10                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14020        1-               70 KEV    AP                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=K                                                                 
+ 20NE  L 14063.0   23 2+               140 KEV   AP                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=JK                                                                
+ 20NE  L 14115     5  2+               42 KEV     6                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14128     2  2-               4.7 KEV    7                             
+ 20NE2 L %IT=?$ %P=?$ %A=?                                                      
+ 20NE3 L XREF=IJK                                                               
+ 20NE  L 14150.0   23 2-               11.8 KEV  10                             
+ 20NE2 L %IT=?$ %P=?$ %A=?                                                      
+ 20NE3 L XREF=IJK                                                               
+ 20NE  L 14200        1+               14 KEV     1                             
+ 20NE2 L %IT=?$ %P=?                                                            
+ 20NE3 L XREF=IJ                                                                
+ 20NE  L 14270     10 4+               92 KEV     9                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14304     10 (6+)             60 KEV    13                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 14311     5  6+               117 KEV    8                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEFGH                                                             
+ 20NE  L 14313     15 (3-)             45 KEV    AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14370     3                   5 KEV     AP                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=JK                                                                
+ 20NE  L 14454     5  5-               15 KEV    AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14455     3  (0+,2+)          33 KEV     3                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=EJK                                                               
+ 20NE  L 14475     6  0+               68 KEV     2                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=JK                                                                
+ 20NE  L 14593     10 4+               260 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14597     7  1-               116 KEV    5                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 14653     10 (0+)             25 KEV                                   
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=JK                                                                
+ 20NE  L 14699.0   33 (1+)             36 KEV    10                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=EJK                                                               
+ 20NE  L 14731     10 (4+)             60 KEV    25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14761     5  6+               7.3 KEV   48                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14776     4  (1-)             110 KEV   20                             
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=JK                                                                
+ 20NE  L 14807     5  6+               86 KEV     7                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 14816     5  5-               117 KEV   13                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14839     10 (4+)             79 KEV    15                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 14888     10 2+               100 KEV   30                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 15047     10 2+               66 KEV    20                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=CEK                                                               
+ 20NE  L 15073     10 5-               160 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 15142     15 (2+)             60 KEV    AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 15159     5  6+               60 KEV    15                             
+ 20NE2 L %A=?$ ISPIN=0                                                          
+ 20NE3 L XREF=C                                                                 
+ 20NE  L 15174     10 5-               230 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 15230                         28 KEV                                   
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE  L 15270        (1-)             285 KEV                                  
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=CEFGH                                                             
+ 20NE  L 15330     5  4+               34 KEV    10                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 15346     15 6+                                                        
+ 20NE2 L ISPIN=0                                                                
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 15366     5  7-               110 KEV   10                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EFGH                                                              
+ 20NE  L 15436     15 (3-)             90 KEV    20                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=CEK                                                               
+ 20NE  L 15500                         55 KEV                                   
+ 20NE2 L %P=?$ %A=?                                                             
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 15700     15 (8-)                                                      
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 15874     9  8+               100 KEV   15                             
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=CFH                                                               
+ 20NE  L 15970        (6+)                                                      
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16010     25 (2+)             100 KEV                                  
+ 20NE2 L %P=?$ %A=?$ ISPIN=(1)                                                  
+ 20NE3 L XREF=K                                                                 
+ 20NE  L 16139     15                  38 KEV                                   
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=CEK                                                               
+ 20NE  L 16250                                                                  
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16329     11 4+               45 KEV                                   
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 16437     11 (0,2,4)+         35 KEV                                   
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16505     15 6+               24 KEV     4                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16559     15 5-               90 KEV    30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16581     15 7-               92 KEV     8                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 16628     20 3-               80 KEV    25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16630     20 (7-)                                                      
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=FGH                                                               
+ 20NE  L 16667     15 4+               100 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16717     15 5-               25 KEV    AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 16732.9   27 0+               2.0 KEV    5                             
+ 20NE2 L %IT=?$ %P=?$ %A=?$ ISPIN=2                                             
+ 20NE3 L XREF=IJK                                                               
+ 20NE  G       5469 6 100                                                       
+ 20NE2 G FL=11262.3                                                             
+ 20NE cG RI$authors report I|g/|S(I|g)=(100)%                                   
+ 20NE  G      10941 6                                                           
+ 20NE  G      15092 5                                                           
+ 20NE  L 16746     25 8+               160 KEV   50                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16847     15 5-               16 KEV     8                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 16871     20 6+               350 KEV   50                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17072     20 4+               180 KEV   30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17155     15 5-               26 KEV     5                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17213     15 4+               225 KEV   30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17284     15 3-               86 KEV    25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17295     15 8+               200 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EFGH                                                              
+ 20NE  L 17390     15                  10 KEV    LT                             
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17430     15 9-               220 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 17541     15 6+               86 KEV     9                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17550     10 (2+)             19 KEV                                   
+ 20NE2 L %N=?$ %P=?$ %A=?$ ISPIN=(1)                                            
+ 20NE3 L XREF=K                                                                 
+ 20NE  L 17606     15 5-               140 KEV   20                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17769     20 4+               125 KEV   AP                             
+ 20NE2 L %P=?$ %A=?$ ISPIN=0                                                    
+ 20NE3 L XREF=EK                                                                
+ 20NE  L 17851     15 5-               200 KEV   30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 17910     20 (0+)                                                      
+ 20NE2 L %N=?$ %P=?                                                             
+ 20NE  L 18005     15 7-               10 KEV    LT                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18024     5  5-               34 KEV     7                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18083     25 4+               140 KEV   60                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18125     5  7-               29 KEV     6                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 18286     10 6+               190 KEV   30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18430     7  2+               9.5 KEV   30                             
+ 20NE2 L WIDTHG AP 0.30 EV$ %IT=3E-3$ %N=?$ %P=?$ %A=?$ ISPIN=2                 
+ 20NE3 L XREF=IJK                                                               
+ 20NE  G       620821 100       [M1]                                            
+ 20NE2 G FL=12221                                                               
+ 20NE3 G BM1W=6E-2                                                              
+ 20NE cG RI$authors report I|g/|S(I|g)=(100)%                                   
+ 20NE  L 18430     20 7-               185 KEV   40                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18494     20 5-               130 KEV   30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18538     7  8+               138 KEV   33                             
+ 20NE2 L %A=?                                                                   
+ 20NE3 L XREF=C                                                                 
+ 20NE  L 18621     20 8+               185 KEV   30                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18745     25 6+               140 KEV   50                             
+ 20NE2 L %A=?$ ISPIN=0                                                          
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 18768     20 7-               140 KEV   35                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EF                                                                
+ 20NE  L 18960     25 8+               200 KEV   60                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19051     15 5-               90 KEV    AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19150     20 6+               200 KEV   50                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19284     15 6+               140 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19298     25 7-               430 KEV   60                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EF                                                                
+ 20NE  L 19443     10 6+               130 KEV   15                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19536     25 6+               250 KEV   60                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19655     20 6+               140 KEV   35                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19731     20 8+               330 KEV   60                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19845     40 6+               3.6E2 KEV 12                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19859     10 5-               170 KEV   25                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 19884     40 7-               120 KEV   AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EF                                                                
+ 20NE  L 19991     30 4+               1.3E2 KEV 10                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20027     15 6+               80 KEV    35                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20106     25 7-               190 KEV   35                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 201.5E+2  15                                                           
+ 20NE cL T         |G=broad                                                     
+ 20NE2 L %IT=?$ %N=?                                                            
+ 20NE  L 20168     35 6+               2.9E2 KEV 10                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20296     15 7-               255 KEV   40                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20341     20 5-               190 KEV   40                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20344     15 7-               135 KEV   35                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20419     30 6+               215 KEV   90                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20445     25 6+               370 KEV   55                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20468     30 5-               280 KEV   70                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20686     6  9-               78 KEV    11                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEG                                                               
+ 20NE  L 20760     30 7-               240 KEV   50                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EF                                                                
+ 20NE  L 20800     25 5-               170 KEV   60                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 20950     40 7-               300 KEV   50                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 21062     6  9-               60 KEV     6                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEGH                                                              
+ 20NE  L 2130E+1   10 7-               300 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EF                                                                
+ 20NE  L 2180E+1   10 7-               300 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEF                                                               
+ 20NE  L 2230E+1   10 7-               500 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEF                                                               
+ 20NE  L 2260E+1   30                                                           
+ 20NE cL T         |G=broad                                                     
+ 20NE2 L %IT=?$ %N=?                                                            
+ 20NE  L 22800     60 9-               500 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CE                                                                
+ 20NE  L 22870     40 9-               225 KEV   40                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=CEGH                                                              
+ 20NE  L 2340E+1   20 8+               500 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 23700     30 (9-)             200 KEV   LE                             
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=FG                                                                
+ 20NE  L 24210     25 8+               350 KEV                                  
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EG                                                                
+ 20NE  L 2490E+1   50                                                           
+ 20NE cL T         |G=broad                                                     
+ 20NE2 L %IT=?$ %N=?                                                            
+ 20NE  L 25100     50 8+               200 KEV   AP                             
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=EG                                                                
+ 20NE  L 25670     50                  400 KEV   AP                             
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=EG                                                                
+ 20NE  L 2710E+1   10 (9-)             700 KEV                                  
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=EFH                                                               
+ 20NE  L 27500        10+                                                       
+ 20NE cL T         |G=broad                                                     
+ 20NE2 L %IT=?$ %N=?                                                            
+ 20NE  L 28000        8+               1600 KEV                                 
+ 20NE2 L %A=100$ ISPIN=0                                                        
+ 20NE3 L XREF=E                                                                 
+ 20NE  L 2820E+1   30                  700 KEV                                  
+ 20NE2 L %A=100                                                                 
+ 20NE3 L XREF=E                                                                 

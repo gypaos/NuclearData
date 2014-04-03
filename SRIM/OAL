@@ -1,0 +1,47 @@
+                         (C) 1989 by J.P. Biersack and J.F. Ziegler
+       ==> Version - 5.2 <==
+ Ion =  O ( Mass = 18 )
+ Target = Al( 100 % ) 
+ Density = 2.6980E+00 g/cm3
+ Disk File Name = OAl
+ Stopping Units =  keV / (ug/cm2) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Ion        dE/dx      dE/dx     Projected  Longitudinal   Lateral
+  Energy      Elec.      Nuclear     Range     Straggling   Straggling
+-----------  ---------- ---------- ----------  ----------  ----------
+   5.00 MeV  6.548E+00  2.384E-02    3.77 um     2064 A      3736 A   
+   5.50 MeV  6.626E+00  2.204E-02    4.05 um     2122 A      3823 A   
+   6.00 MeV  6.690E+00  2.051E-02    4.33 um     2176 A      3904 A   
+   6.50 MeV  6.742E+00  1.920E-02    4.60 um     2228 A      3982 A   
+   7.00 MeV  6.783E+00  1.805E-02    4.88 um     2278 A      4056 A   
+   8.00 MeV  6.853E+00  1.615E-02    5.42 um     2432 A      4195 A   
+   9.00 MeV  6.944E+00  1.464E-02    5.95 um     2572 A      4324 A   
+  10.00 MeV  6.995E+00  1.340E-02    6.48 um     2703 A      4445 A   
+  11.00 MeV  7.015E+00  1.237E-02    7.01 um     2825 A      4561 A   
+  12.00 MeV  7.011E+00  1.149E-02    7.54 um     2942 A      4671 A   
+  13.00 MeV  6.980E+00  1.074E-02    8.06 um     3055 A      4778 A   
+  14.00 MeV  6.931E+00  1.008E-02    8.60 um     3164 A      4882 A   
+  15.00 MeV  6.874E+00  9.509E-03    9.13 um     3271 A      4983 A   
+-----------------------------------------------------------
+ Multiply Stopping by        for Stopping Units
+ -------------------        ------------------
+   2.6979E+01                 eV / Angstrom 
+   2.6979E+02                keV / micron   
+   2.6979E+02                MeV / mm       
+   1.0000E+00                keV / (ug/cm2) 
+   1.0000E+00                MeV / (mg/cm2) 
+   1.0000E+03                keV / (mg/cm2) 
+   4.4803E+01                 eV / (1E15 atoms/cm2)
+   3.9273E-01                L.S.S. reduced units

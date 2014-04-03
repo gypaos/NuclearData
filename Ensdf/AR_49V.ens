@@ -1,0 +1,2795 @@
+ 49V     ADOPTED LEVELS, GAMMAS                                  08NDS    200809
+ 49V   H TYP=FUL$AUT=T. W. Burrows{+a}$CIT=NDS 109, 1879 (2008)$CUT=14-Jul-2008$
+ 49V   Q -2626.5   2611552.9 266758.2  8 -9084   3     2003AU03
+ 49V   XB49CR B+ DECAY
+ 49V   XL12C(40CA,3PG),24MG(32S,3PAG),
+ 49V   XM46TI(A,PG)
+ 49V   XE48TI(P,G) E=960-2488 KEV RES
+ 49V   XF48TI(3HE,D),(3HE,PD),(D,N)
+ 49V   XG48TI(16O,15N)
+ 49V   XH49TI(P,N),(P,NG)
+ 49V   XI50CR(T,A) E=13 MEV
+ 49V   XJ51V(P,T) E=40.2 MEV
+ 49V   XK52CR(P,A) E=35 MEV
+ 49V   XN48TI(P,G),(3HE,PD), 52CR(P,A)
+ 49V   XO48TI(P,P),(P,P'),(P,P'G) RES
+ 49V  CL           RESONANCES: SEE 1978HA15 AND THE REFERENCES CITED BELOW FOR
+ 49V 2CL ADDITIONAL RESONANCE STATES AND MORE INFORMATION ON THE RESONANCE
+ 49V 3CL PARAMETERS. OTHERS: SEE 1995BU23
+ 49V  CL           BOUND-STATE ISPIN'S: FROM 50CR(3HE,A) IN 49CR
+ 49V  CL           WIDTHP, WIDTHG: FROM (P,G)
+ 49V  CL           %P,%G: FROM WIDTHP AND WIDTHG
+ 49V  CL           MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS: SEE 47V
+ 49V 2CL ADOPTED LEVELS, GAMMAS AND 46TI(P,G) E=0.4-1.8 MEV RES (1991BU05)
+ 49V 3CL FOR A COMPARISON OF RESULTS FROM MULTIDIMENSIONAL NONMETRIC SCALING
+ 49V 4CL ANALYSIS OF THE DATA FROM 1986DE13 BY 1993CA12 TO AN AVERAGE-SPIN
+ 49V 5CL METHOD ANALYSIS BY 1988VA08 AND 1991KI11 OF THE DATA AND RESULTS USING
+ 49V 6CL THE Nuclear Data Sheets "Strong" ARGUMENTS FOR SPIN AND PARITY
+ 49V 7CL ASSIGNMENTS.
+ 49V  CL E         FROM A LEAST-SQUARES FIT TO EG EXCEPT AS NOTED IN THE ^XREF
+ 49V 2CL COLUMN, COMMENTS, OR FOOTNOTES. RESONANCE
+ 49V 3CL E(LEVEL)=(0.97955873 4)E(P)+SP WITH SP=6758.2 8 (2003AU03)
+ 49V  CL J         FROM ANGULAR MOMENTUM TRANSFER IN (3HE,D), EXCEPT AS NOTED
+ 49V  CL T         FROM (A,PG), EXCEPT AS NOTED; SEE DISCUSSION OF
+ 49V 2CL DISCREPANCIES THERE AND IN (P,NG). WIDTH'S FROM WIDTHP AND WIDTHG IN
+ 49V 3CL (P,G)
+ 49V  CL BAND(A)   7/2- GS YRAST BAND
+ 49V  CL BAND(B)   KPI=3/2+ ROTATIONAL BAND
+ 49V  CL J(D)      FROM ANGULAR MOMENTUM TRANSFER IN (T,A)
+ 49V  CL BAND(E)   KPI=1/2+ ROTATIONAL BAND?
+ 49V  CL J(F)      FROM ANGULAR MOMENTUM TRANSFER IN (P,T)
+ 49V  CL BAND(G)   NEGATIVE-PARITY SIDE BAND
+ 49V  CL T(H)      FROM G(T) IN (P,NG). UPPER LIMIT ON THE MEAN LIVES FOR
+ 49V 2CL THESE TRANSITIONS WAS APPROXIMATELY 10 TO 48 PS.
+ 49V  CL E(I)      FROM (P,G). EXCLUDED FROM THE LEAST-SQUARES ADJUSTMENT SINCE
+ 49V 2CL THE CONNECTING TRANSITIONS HAVE NO UNCERTAINTIES ON EG OR WERE
+ 49V 3CL OBTAINED FROM THE ADOPTED EXCITATION ENERGIES
+ 49V  CL J(J)      FROM DEEXCITATION OF RESONANCES ASSUMING ^D,E2 FOR STRONG
+ 49V 2CL TRANSITIONS AND MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V  CL E(K)      FROM (P,A)
+ 49V  CL J(L)      L(3HE,D)=1; 3/2 FROM DEEXCITATION OF RESONANCES
+ 49V 2CL ASSUMING ^D,E2 FOR STRONG TRANSITIONS AND MULTIDIMENSIONAL NONMETRIC
+ 49V 3CL SCALING ANALYSIS
+ 49V  CL E(M)      FROM (3HE,D)
+ 49V  CL J(N)      FROM STRETCHED (DJ=1) DIPOLE OR STRETCHED (DJ=2) QUADRUPOLE
+ 49V 2CL CASCADE AND MEMBERSHIP IN 7/2- GS YRAST BAND
+ 49V  CL E(O)      ISPIN=5/2 ISOBARIC ANALOG RESONANCES. SEE (P,G),(3HE,PD),
+ 49V 2CL (P,A), BELOW, FOR CORRESPONDENCE WITH 49TI PARENTS
+ 49V  CL J(P)      JP=7/2-, ISPIN=5/2, IAS(49TI GS) FOR 6446 25 IN (P,|A)
+ 49V  CL J(Q)      1/2-,3/2,5/2 FROM G'S TO 3/2-, 3/2+, AND 5/2- ASSUMING
+ 49V 2CL ^D,E2; 1/2,3/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V  CL J(R)      3/2-,5/2 FROM G'S TO 3/2-, 3/2+, AND 7/2- ASSUMING ^D,E2;
+ 49V 2CL 3/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V  CL J(S)      3/2-,5/2 FROM G'S TO 3/2-, 3/2+, AND 7/2- ASSUMING ^D,E2;
+ 49V 2CL 5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V  CL J(T)      5/2 FROM G'S TO 3/2-, 3/2+, 7/2-, AND 7/2+ ASSUMING ^D,E2;
+ 49V 2CL 5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V  CL J(U)      JP=5/2-, ISPIN=5/2 FROM IAS IDENTIFICATION IN (3HE,PD)
+ 49V  CL J(V)      5/2+ FROM G'S TO 3/2-, 3/2+, AND 9/2+ ASSUMING
+ 49V 2CL ^D,E2; 5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V  CG           WIDTHG: FROM (P,G)
+ 49V  PN                                                                     6
+ 49V  CG E,RI      FROM (P,NG) FOR THE BOUND STATES AND (P,G) FOR THE UNBOUND
+ 49V 2CG STATES, EXCEPT AS NOTED
+ 49V  CG M,MR      FROM PG(THETA) IN (A,PG) FOR SECONDARY GAMMAS AND G(THETA)
+ 49V 2CG IN (P,G) FOR PRIMARY GAMMAS, EXCEPT AS NOTED
+ 49V  CG E(A),RI(B)$FROM B+ DECAY
+ 49V  tG RI(D)     {TV} The following branching ratios are discrepant with
+ 49V +tG  the adopted values:
+ 49V 2tG {U Ex }  {U    Branching ratios      }  {U From }
+ 49V +tG   |\  {u Ex }  {U          Branching ratios          }  {U   From   }
+ 49V 3tG  153  I{-|g}(62)/I{-|g}(153)=0.540 {I8}      |b{++}
+ 49V +tG       |\  2408  I{-|g}(1253)/I{-|g}(2408)=0.266 {I19}
+ 49V +tG             (|a,p|g)
+ 49V 4tG                     =1.087        (p,G)
+ 49V +tG    |\  2741  I{-|g}(563):I{-|g}(1139):I{-|g}(1586)=71:100:286
+ 49V +tG   ({+40}Ca,3p|g)
+ 49V 5tG  748  I{-|g}(595)/I{-|g}(658)=0.92 {I7}      (|a,p|g)
+ 49V +tG   |\  2786  I{-|g}(1631):I{-|g}(1764):I{-|g}(2786)
+ 49V 6tG 2234  I{-|g}(2144)/I{-|g}(2233)=2.33 {I21}   (|a,p|g)
+ 49V +tG   |\          =108 {I4}:100 {I4}:177 {I8}                  (|a,p|g)
+ 49V 7tG 2353  I{-|g}(1199):I{-|g}(1332):I{-|g}(2354)
+ 49V +tG           |\  3017  I{-|g}(2865):I{-|g}(2927):I{-|g}(3017)
+ 49V 8tG         =40 {I2}:49 {I2}:100 {I6}          (|a,p|g)
+ 49V +tG   |\          =100 {I6}:122 {I6}:49 {I6}                   (|a,p|g)
+ 49V 9tG 2388  I{-|g}(1639):I{-|g}(2299):I{-|g}(2389)
+ 49V +tG           |\  3134  I{-|g}(1979):I{-|g}(2114):I{-|g}(3134)
+ 49V AtG         =100 {I5}:65 {I7}:26 {I5}          (p,n|g)
+ 49V +tG   |\          =42 {I2}:14 {I2}:100 {I5}                    (|a,p|g)
+ 49V  CG M(E)      ^D+Q OR ^D(+Q) FROM PG(THETA) IN (A,PG). DPI=YES FROM LEVEL
+ 49V 2CG SCHEME
+ 49V  tG E(F)      {TV} Weighted average of the following photon energies:
+ 49V 2tG {U E{-x} }  {U Adopted  }  {U (|a,pn|g) }  {U (p,n|g)  }
+ 49V +tG   |\  {U E{-x} }  {U Adopted }   {U (a,pn|g) }  {U (p,n|g)  }
+ 49V 3tG  748   595.35 {I14}   595.3 {I2}    595.4 {I2}
+ 49V +tG    |\  2353  1331.7 {I7}    1331.8 {I9}   1331.5 {I10}
+ 49V 4tG        657.60 {I14}   657.7 {I2}    657.5 {I2}
+ 49V +tG    |\  2388  1639.3 {I6}    1639.6 {I7}   1638.7 {I10}
+ 49V 5tG 1140   987.61 {I26}   987.9 {I5}    987.5 {I3}
+ 49V +tG    |\        2235.5 {I16}   2235.3 {I25}  2235.6 {I20}
+ 49V 6tG       1049.79 {I17}  1050.0 {I3}   1049.7 {I2}
+ 49V +tG    |\        2298.6 {I15}   2299.2 {I22}  2298.1 {I20}
+ 49V 7tG 1155   133.80 {I17}   133.8 {I3}    133.8 {I2}
+ 49V +tG    |\        2388.6 {I14}   2388.2 {I20}  2388.9 {I20}
+ 49V 8tG       1064.63 {I19}  1064.8 {I5}   1064.6 {I2}
+ 49V +tG    |\  2408  1252.9 {I8}    1253.5 {I13}  1252.5 {I10}
+ 49V 9tG       1155.33 {I17}  1155.4 {I3}   1155.3 {I2}
+ 49V +tG    |\  2786  1631.0 {I5}    1630.9 {I5}   1631.2 {I10}
+ 49V AtG 1643  1490.24 {I18}  1490.2 {I2}   1490.4 {I4}
+ 49V +tG    |\        1764.5 {I4}    1746.6 {I4}   1764.1 {I10}
+ 49V BtG 1646   898.06 {I26}   898.0 {I3}    898.2 {I5}
+ 49V +tG    |\  3017  2865.0 {I16}   2864.6 {I24}  2865.2 {I20}
+ 49V CtG 1995   854.5 {I4}     854.5 {I5}    855 {I1}
+ 49V +tG      |\        2926.5 {I13}   2926.1 {I16}  2927.1 {I20}
+ 49V DtG                               854.2 {I10}
+ 49V +tG   |\        3017.6 {I14}   3017.9 {I20}  3017.2 {I20}
+ 49V EtG       1841.0 {I8}    1840.3 {I14}  1841.4 {I10}
+ 49V +tG   |\  3134  2112.8 {I16}   2114.0 {I25}  2112.1 {I20}
+ 49V FtG       1903.4 {I8}    1904.1 {I20}  1902 {I1}
+ 49V +tG      |\        3133.4 {I10}   3133.0 {I11}  3135 {I5}
+ 49V GtG                              1904.2 {I10}
+ 49V +tG   |\                               3134.4 {I20}
+ 49V HtG 2183  1026.8 {I7}    1027.2 {I12}  1027 {I2}
+ 49V ItG                              1026.4 {I10}
+ 49V JtG       2181.6 {I11}   2183.0 {I20}  2180.0 {I15}
+ 49V KtG                              2183.2 {I20}
+ 49V  tG E(G)      {TV} Weighted average of the following photon energies:
+ 49V 2tG  E{-x}    Adopted    {+12}C({+40}Ca,3p|g),    (|a,pn|g)    (p,n|g)
+ 49V +tG     |\   E{-x}    Adopted    {+12}C({+40}Ca,3p|g),   (|a,pn|g)
+ 49V +tG     (p,n|g)
+ 49V 3tG {U    }  {U          }  {U{+24}Mg({+32}S,3p|a|g)}   {U         }
+ 49V +tG   {U         }  |\  {U    }  {U          }  {U{+24}Mg({+32}S,3p|a|g)}
+ 49V +tG   {U         }  {U         }
+ 49V 4tG 1022  1021.63 {I14}     1021.5 {I4}     1021.6 {I2}   1021.7 {I2}
+ 49V +tG    |\  2263  1241.69 {I18}    1241.7 {I4}     1241.7 {I2}
+ 49V +tG    1241.2 {I10}
+ 49V 5tG 2178   575.4 {I9}        575 {I1}        575.5 {I16}
+ 49V +tG              |\  2728  1705.5 {I7}      1706 {I1}
+ 49V +tG                   1705.0 {I10}
+ 49V 6tG       1037.4 {I5}       1038 {I1}       1037.0 {I7}   1037.7 {I10}
+ 49V +tG   |\  2741   562.5 {I7}       563 {I1}        562.0 {I10}
+ 49V 7tG       1157.0 {I7}       1156 {I1}       1157.9 {I10}
+ 49V +tG              |\        1585.8 {I9}      1586 {I1}       1585.0 {I20}
+ 49V 8tG       2178.3 {I8}       2178 {I1}       2179.0 {I15}  2178.4 {I20}
+ 49V  CG M(H)      ^D+Q FROM PG(THETA) IN (A,PG). E1+M2 EXCLUDED BY MR AND
+ 49V 2CG COMPARISON TO RUL
+ 49V  tG E(I)      {TV} Unweighted average of the following photon energies:
+ 49V 2tG  E{-x}    Adopted   {+12}C({+40}Ca,3p|g),   (|a,pn|g)    (p,n|g)
+ 49V +tG     |\   E{-x}    Adopted  {+12}C({+40}Ca,3p|g),   (|a,pn|g)
+ 49V +tG    (p,n|g)
+ 49V 3tG {U    }  {U         }  {U{+24}Mg({+32}S,3p|a|g)}  {U         }
+ 49V +tG   {U         }  |\  {U    }  {U         }  {U{+24}Mg({+32}S,3p|a|g)}
+ 49V +tG   {U         }  {U      }
+ 49V 4tG 1140   392.7 {I6}       392 {I1}       393.9 {I9}    392.2 {I2}
+ 49V +tG    |\  2741  1138.9 {I9}      1138 {I1}       1139.7 {I14}
+ 49V 5tG       1140.7 {I3}                  1141.0 {I3}   1140.4 {I2}
+ 49V +tG    |\  2861   598.3 {I7}       599 {I1}        597.6 {I6}
+ 49V 6tG 2353  1198.9 {I11}                 1200.0 {I15}  1197.8 {I10}
+ 49V +tG   |\        1706 {I1}        1707 {I1}       1705.0 {I20}
+ 49V 7tG 2728   464.2 {I3}       463.9 {I4}     464.5 {I3}
+ 49V +tG               |\  3134  1979.5 {I15}                  1978.0 {I15}
+ 49V +tG   1981 {I3}
+ 49V  tG RI(J)     {TV} Average of the following branching ratios in percent:
+ 49V 2tG {U EG }  {UAdopted}  {U(|a,p|g)}
+ 49V +tG   {U              (p,n|g)              }
+ 49V 3tG  392   5.7 {I5}     7 {I1}
+ 49V +tG     5.2 {I6}                              {TV}Weighted
+ 49V 4tG  988  17.0 {I9}    15 {I1}
+ 49V +tG    16.6 {I15}  18.4 {I5}   13.7 {I17}  15.1 {I10}  {TV}Weighted
+ 49V 5tG 1050  24.1 {I11}   23 {I1}
+ 49V +tG    26.4 {I19}  26.8 {I11}  21.6 {I25}  22.6 {I10}  {TV}Unweighted
+ 49V 6tG 1140  54.2 {I18}   55 {I3}
+ 49V +tG    51.8 {I13}  48.9 {I6}   58.9 {I38}  56.6 {I10}  {TV}Unweighted
+ 49V 7tG {TV}See (p,n|g) for additional details.
+ 49V  CG M(K)      ^D+Q OR ^D(+Q) FROM PG(THETA) IN (A,PG). DPI=NO FROM LEVEL
+ 49V 2CG SCHEME
+ 49V  CG MR(L)     AS RECOMMENDED BY 1980KR22 AND 1978KR19
+ 49V  CG M(M),MR(N)$FROM COMPARISON TO RUL
+ 49V  tG E(O)      {TV} Unweighted average of the following photon energies:
+ 49V 2tG {U E{-x} }  {UAdopted }   {U|b{++} Decay}   {U (|a,pn|g) }
+ 49V +tG   {U (p,n|g)  }  |\  {U E{-x} }  {U Adopted }  {U|b{++} Decay }
+ 49V +tG   {U (|a,pn|g) }  {U (p,n|g)  }
+ 49V 3tG 1515  1423.6 {I3}   1423.3 {I3}              1423.9 {I2}
+ 49V +tG    |\  2235   572.5 {I25}                         570.0 {I15}
+ 49V 4tG       1514.4 {I4}   1514.1 {I2}              1514.8 {I3}
+ 49V +tG    |\                                          574.9 {I10}
+ 49V 5tG 2183  2090.7 {I7}   2091.1 {I7}   2092.0 {I10}  2089 {I2}
+ 49V +tG      |\        2142.9 {I10}  2143.7 {I6}   2144.0 {I10}  2140 {I2}
+ 49V 6tG                                        2090.7 {I20}  |\
+ 49V +tG                                          2143.8 {I20}
+ 49V 7tG                                                   |\
+ 49V +tG         2234.4 {I15}  2236.2 {I10}  2235.7 {I19}  2230.0 {I15}
+ 49V 8tG                                                   |\
+ 49V +tG                                          2235.6 {I20}
+ 49V  CG RI(P)     RESULTS FROM (40CA,3PG), (A,PG), AND OTHER (P,NG)
+ 49V 2CG MEASUREMENTS ARE DISCREPANT. THIS MAY BE DUE, IN PART, TO THE
+ 49V 3CG BOMBARDING ENERGIES AND THE HIGHER-LYING STATES EXCITED. NOTE, FOR
+ 49V 4CG EXAMPLE, THE 463G.
+ 49V  CG M(Q)      D,E2 FROM COMPARISON TO RUL. DJ=2 FROM LEVEL SCHEME
+ 49V  CG M(R)      D,E2 FROM COMPARISON TO RUL. DPI=YES FROM LEVEL SCHEME
+ 49V  CG E(S),RI(T)$FROM (P,G) E=960-{ 2488 KEV} RES
+ 49V  CG RI(U)     UNWEIGHTED AVERAGE OF RI(898G)/RI(1493G)=53% 3/47% 2 FROM
+ 49V 2CG (A,PG) AND 40% 4/60% 5 FROM (P,NG) AND
+ 49V 3CG RI(1027G):RI(2089G):RI(2187G)=21% 1:79% 4:<5% FROM (A,PG) AND
+ 49V 4CG RI(1027G):RI(2089G):RI(2187G)=25% 1:66% 1:9% 1 FROM (P,NG)
+ 49V  CG E(V),RI(W)$FROM (A,PG)
+ 49V  tG E(X)      {TV} Weighted average of the following photon energies:
+ 49V 2tG {U E{-x} }  {U Adopted  }  {U|b{++} Decay }  {U (|a,pn|g) }
+ 49V +tG   {U (p,n|g)  }
+ 49V 3tG 1661  1508.37 {I18}  1508.3 {I2}   1508.7 {I10}  1508.7 {I5}
+ 49V 4tG       1570.83 {I17}  1570.6 {I2}   1570.7 {I4}   1571.1 {I2}
+ 49V 5tG 2310  2155.7 {I12}              2156.4 {I15}  2155.2 {I20}
+ 49V 6tG       2218.6 {I8}    2218.6 {I10}  2219.3 {I14}  2218 {I3}
+ 49V 7tG                                         2217.8 {I20}
+ 49V 8tG       2310.6 {I14}                         2310 {I2}
+ 49V 9tG                                         2311.3 {I20}
+ 49V  CG E(Y),RI(Z)$FROM (40CA,3PG)
+ 49V  CG M(1)      STRETCHED (DJ=1) DIPOLE TRANSITION FROM RECOIL-G(THETA)
+ 49V 2CG IN (40CA,3PG)
+ 49V  CG RI(2)     NOTE THAT RI(572G) FROM (P,NG) MAY HAVE AN UNRESOLVED
+ 49V 2CG COMPONENT FROM 2178 STATE AND THAT RI(2233G) FROM (A,PG) MAY HAVE
+ 49V 3CG AN UNRESOLVED COMPONENT FROM THE 3388 STATE DISCREPANT.
+ 49V  CG MR(3)     SEE (A,PG) FOR POSSIBLE MR'S
+ 49V  CG M(4)      STRETCHED (DJ=2) QUADRUPOLE OR DJ=0 DIPOLE TRANSITION FROM
+ 49V 2CG RECOIL-G(THETA) IN (40CA,3PG)
+ 49V  CG M(5)      ^D+Q OR ^D(+Q) FROM G(THETA) IN (P,G). DPI=NO FROM LEVEL
+ 49V 2CG SCHEME
+ 49V   L 0.0         7/2-              330 D     15
+ 49V X L XREF=BLMEFGHIJK
+ 49V  CL J         J FROM ELECTRON PARAMAGNETIC RESONANCE (1976FU06, 1957WE17);
+ 49V 2CL PI FROM L=3 IN STRIPPING AND PICKUP
+ 49V  CL T         FROM 1983HU03 (NAI. 55FE (T=1007 D) STANDARD).
+ 49V 2CL OTHERS: SEE 1978LEZA
+ 49V 2 L MOMM1=4.47 5 (2005ST24,1957WE17)$%EC=100$ISPIN=3/2
+ 49V  CL MOMM1     ELECTRON PARAMAGNETIC RESONANCE (51V STANDARD)
+ 49V F L FLAG=A
+ 49V   L 90.6392   175/2-              228 PS    13
+ 49V X L XREF=BLMEFHIJK
+ 49V  CL J         5/2-,9/2- FROM DJ=1 M1 G TO 7/2-. NE 9/2 FROM ^D G FROM 3/2-
+ 49V  CL T         FROM G(T) IN (P,NG). SEE COMMENT ON CONFLICT WITH OTHER
+ 49V 2CL VALUES IN THIS DATASET
+ 49V F L FLAG=A
+ 49V   G 90.639    2 100       M1                      0.0287
+ 49V S G KC=0.0259 4$LC=0.00245 4$MC=0.000320 5$NC+=1.629E-5 23
+ 49V S G NC=1.629E-5 23
+ 49V  CG M         FROM ECC IN (P,NG) AND COMPARISON TO RUL. DPI=1 ^D G
+ 49V 2CG FROM RECOIL-G(THETA) IN (40C,3PG)
+ 49V  CG MR        SEE DISCUSSION IN (P,NG)
+ 49V B G BM1W=0.126 8
+ 49V F G FLAG=A
+ 49V   L 152.9282  173/2-              19.90 NS  24
+ 49V X L XREF=BMEFGHIJK
+ 49V  CL J         L(P)=1 IN STRIPPING AND PICKUP. E2 G TO 7/2-
+ 49V  CL T         FROM G(T) IN (P,NG). OTHERS: SEE B+ DECAY, (P,G), AND
+ 49V 2CL (P,NG).
+ 49V 2 L MOMM1=+2.37 12 (2005ST24,1972VI06)
+ 49V  CL MOMM1     ^TDPAD; SEE (P,G)
+ 49V   G 62.289    2 70.5    24(M1)                    0.0787
+ 49V S G KC=0.0710 10$LC=0.00676 10$MC=0.000885 13$NC+=4.47E-5 7
+ 49V S G NC=4.47E-5 7
+ 49V  CG RI        WEIGHTED AV OF RI(62G)/RI(153G)=72.4 35/100.0 52 FROM (A,PG)
+ 49V 2CG AND 68.9 32/100.0 32 FROM (P,NG).
+ 49V 3CG RI(62G)/RI(153G)=54.0 7/100.0 4 FROM B= DECAY AND 100/92 FROM (P,G)
+ 49V 4CG DISCREPANT
+ 49V  CG M         ^D FROM COMPARISON TO RUL. DPI=NO FROM THE LEVEL SCHEME
+ 49V B G BM1W=0.00176 8
+ 49V F G FLAG=DA
+ 49V   G 152.928   2 100     3 E2                      0.0725
+ 49V 3 G EKC=0.069 5$K/LM=7.93 27 (1967ME18)
+ 49V S G KC=0.0654 10$LC=0.00623 9$MC=0.000808 12$NC+=3.91E-5 6
+ 49V S G NC=3.91E-5 6
+ 49V  CG M         FROM ECC IN (P,NG) AND COMPARISON TO RUL
+ 49V B G BE2W=17.4 7
+ 49V F G FLAG=DAB
+ 49V   L 748.27    9 3/2+              5.3 PS    6
+ 49V X L XREF=BLMEFHIK
+ 49V  CL J         L(3HE,D)=2. MR(5/2) FROM PG(THETA) IN (A,PG) AND
+ 49V 2CL COMPARISON TO RUL EXCLUDES 5/2+
+ 49V 3 L ISPIN=3/2
+ 49V F L FLAG=B
+ 49V   G 595.35    14100.0   15(E1(+M2)) -0.02   2
+ 49V S G CC=0.000184 3$KC=0.0001664 25$LC=1.514E-5 23$MC=1.98E-6 3
+ 49V S G NC+=1.030E-7 16
+ 49V S G NC=1.030E-7 16
+ 49V  CG MR        <0.0180 15 FROM COMPARISON TO RUL
+ 49V B G BE1W=0.00024 3$BM2W=1.3 +26-13
+ 49V F G FLAG=DEF
+ 49V   G 657.60    1485.2    15(E1(+M2)) -0.01   2
+ 49V S G CC=0.0001450 21$KC=0.0001317 19$LC=1.197E-5 18$MC=1.567E-6 23
+ 49V S G NC+=8.15E-8 12
+ 49V S G NC=8.15E-8 12
+ 49V B G BE1W=0.000154 18$BM2W=0.16 +66-16
+ 49V F G FLAG=DEF
+ 49V   L 1021.62   1111/2-             3.4 PS    6
+ 49V X L XREF=BLMEFGHIJK
+ 49V  CL J         J FROM PG(THETA) IN (A,PG). PI FROM E2 G TO 7/2-
+ 49V F L FLAG=A
+ 49V   G 1021.63   14100       E2
+ 49V S G CC=0.0001310 19$KC=0.0001184 17$LC=1.079E-5 16$MC=1.413E-6 20
+ 49V S G NC+=7.35E-8 11
+ 49V S G NC=7.35E-8 11
+ 49V  CG M         Q(+O) FROM PG(THETA) IN (A,PG). NE M2(+E3) FROM COMPARISON
+ 49V 2CG TO RUL. DJ=2 Q OR DJ=0 ^D G FROM RECOIL-G(THETA) IN (40CA,3PG)
+ 49V  CG MR        -0.03 3 FROM PG(THETA)IN (A,PG). <0.00033 3 FROM
+ 49V 2CG COMPARISON TO RUL
+ 49V B G BE2W=14.0 25
+ 49V F G FLAG=G
+ 49V   L 1140.53   115/2+              1.3 PS    6
+ 49V X L XREF=LMEHKF(*)
+ 49V  CL J         J FROM PG(THETA) IN (A,PG). PI FROM M1+E2 G TO 3/2+
+ 49V 2CL (1975HA12)
+ 49V  CL T         OTHER: 0.17 PS +35-7 FROM (P,G)
+ 49V F L FLAG=B
+ 49V   G 392.7     6 10.5    10M1+E2
+ 49V S G CC=0.0015 8$KC=0.0013 7$LC=0.00012 6$MC=1.6E-5 8$NC+=8.E-7 4
+ 49V S G NC=8.E-7 4
+ 49V  CG MR        -0.26 12 OR -1.2 3 FROM (A,PG)
+ 49V F G FLAG=HIJ
+ 49V   G 987.61    2631.4    17(E1(+M2)) -0.04   8
+ 49V 4 G BE1W=7.E-5 4$BM2W=0.5 +21-5
+ 49V S G CC=6.16E-5 25$KC=5.59E-5 22$LC=5.07E-6 21$MC=6.6E-7 3$NC+=3.46E-8 14
+ 49V S G NC=3.46E-8 14
+ 49V  CG MR        WEIGHTED AV FROM (P,NG) AND (A,PG). MR<0.053 13 FROM
+ 49V 2CG COMPARISON TO RUL
+ 49V F G FLAG=EFJ
+ 49V   G 1049.79   1744.5    21E1+M2
+ 49V 3 G MR GT +0.05 LT +0.5$BE1W=8.E-5 4
+ 49V S G CC=0.00013 8$KC=0.00012 7$LC=1.1E-5 7$MC=1.4E-6 9$NC+=7.E-8 5
+ 49V S G NC=7.E-8 5
+ 49V  CG M         FROM ECC AND G(THETA) IN (P,NG)
+ 49V  CG MR        FROM G(THETA) IN (P,G). OTHER: +0.18 5 FROM (P,NG) NOT
+ 49V 2CG ADOPTED FROM COMPARISON TO RUL. MR<0.054 14 FROM COMPARISON TO RUL
+ 49V F G FLAG=FJ
+ 49V   G 1140.7    3 100     4 E1(+M2)   -0.05   6
+ 49V S G CC=7.00E-5 14$KC=4.27E-5 13$LC=3.87E-6 12$MC=5.07E-7 15$NC+=2.30E-5 4
+ 49V S G NC=2.65E-8 8$IPC=2.29E-5 4
+ 49V  CG M         FROM ECC IN (P,NG) AND PG(THETA) IN (A,PG)
+ 49V  CG MR        <0.048 12 FROM COMPARISON TO RUL
+ 49V B G BE1W=0.00014 7$BM2W=1.2 +30-12
+ 49V F G FLAG=IJ
+ 49V   L 1155.32   109/2-              1.1 PS    3
+ 49V X L XREF=BLMEF(*)GHIJK
+ 49V  CL J         J FROM PG(THETA) IN (A,PG). PI FROM M1+E2 G TO 7/2-
+ 49V F L FLAG=A
+ 49V   G 133.80    173.9     8 (M1(+E2)) -0.15   15     0.013  7
+ 49V S G KC=0.012 6$LC=0.0011 6$MC=0.00014 8$NC+=7.E-6 4
+ 49V S G NC=7.E-6 4
+ 49V B G BM1W=0.24 9$BE2W=7.E+2 +15-7
+ 49V F G FLAG=FKL
+ 49V   G 1064.63   1730.0    6 E2
+ 49V S G CC=0.0001180 17$KC=0.0001073 15$LC=9.77E-6 14$MC=1.280E-6 18
+ 49V S G NC+=6.66E-8 10
+ 49V S G NC=6.66E-8 10
+ 49V  CG M         Q FROM PG(THETA) IN (A,PG). NE M2 FROM COMPARISON TO RUL
+ 49V B G BE2W=7.9 22
+ 49V F G FLAG=F
+ 49V   G 1155.33   17100.0   10M1+E2     +0.70   7
+ 49V S G CC=8.89E-5 16$KC=7.78E-5 14$LC=7.07E-6 12$MC=9.26E-7 16$NC+=3.11E-6 8
+ 49V S G NC=4.84E-8 9$IPC=3.06E-6 8
+ 49V  CG M         DJ=1 ^D G FROM RECOIL-G(THETA) IN (40CA,3PG)
+ 49V B G BM1W=0.0065 19$BE2W=5.8 18
+ 49V F G FLAG=FHL
+ 49V   L 1183                                                                  ?
+ 49V X L XREF=I
+ 49V   L 1514.54   7 5/2-              31 FS     12
+ 49V X L XREF=BMEHIJK
+ 49V  CL J         ^D+Q G TO 7/2- AND M1+E2 G TO 3/2-
+ 49V  CL T         WEIGHTED AV FROM (A,PG) AND (P,G)
+ 49V   G 766       1 37      11(E1(+M2))                                       ?
+ 49V 3 G MR<0.0045 11$BE1W=0.006 3
+ 49V S G CC=0.00028 18$KC=0.00025 16$LC=2.3E-5 15$MC=3.0E-6 20$NC+=1.6E-7 10
+ 49V S G NC=1.6E-7 10
+ 49V  CG M         ^D FROM COMPARISON TO RUL. DPI=YES FROM LEVEL SCHEME
+ 49V F G FLAG=N
+ 49V   G 1361.61   7 100.0   22M1+E2     -0.57   5
+ 49V B G BM1W=0.10 4$BE2W=42 18
+ 49V S G CC=9.57E-5 16$KC=5.53E-5 9$LC=5.02E-6 8$MC=6.58E-7 10$NC+=3.47E-5 7
+ 49V S G NC=3.44E-8 6$IPC=3.46E-5 7
+ 49V F G FLAG=AHL
+ 49V   G 1423.6    3 20.3    11(M1(+E2)) -0.6    +6-21
+ 49V B G BM1W=0.017 12$BE2W=7 +12-7
+ 49V S G CC=1.06E-4 16$KC=5.1E-5 5$LC=4.6E-6 5$MC=6.1E-7 6$NC+=4.9E-5 11
+ 49V S G NC=3.2E-8 3$IPC=4.9E-5 11
+ 49V F G FLAG=KO
+ 49V   G 1514.4    4 58      3 D,E2
+ 49V F G FLAG=MO
+ 49V   L 1602.68   127/2+              0.47 PS   22
+ 49V X L XREF=ELMHK
+ 49V  CL J         M1+E2 G TO 5/2+ AND ^D,E2 G TO 9/2-
+ 49V F L FLAG=B
+ 49V   G 447.4     3 1.6     8 (E1)
+ 49V 4 G BE1W=0.00011 8
+ 49V S G CC=0.000376 6$KC=0.000340 5$LC=3.10E-5 5$MC=4.05E-6 6$NC+=2.10E-7 3
+ 49V S G NC=2.10E-7 3
+ 49V  CG M         ^D,E2 FROM ECC IN (P,NG). DPI=YES FROM LEVEL SCHEME
+ 49V  CG MR        0.6 5 FROM ECC IN (P,NG), <0.06 FROM COMPARISON TO
+ 49V 2CG RUL IF E1+M2
+ 49V F G FLAG=P
+ 49V   G 462.2     2 13.5    17M1(+E2)   -0.05   21
+ 49V S G CC=0.00053 5$KC=0.00048 4$LC=4.4E-5 4$MC=5.8E-6 5$NC+=3.01E-7 25
+ 49V S G NC=3.01E-7 25
+ 49V  CG M         ^D(+Q) FROM PG(THETA) IN (A,PG). NE E1+M2 FROM ECC IN
+ 49V XCG (P,NG)
+ 49V B G BM1W=0.036 18$BE2W=1.0 +85-10
+ 49V F G FLAG=P
+ 49V   G 854.5     3 15      4 (E2)                                         @
+ 49V B G BE2W=21 12
+ 49V S G CC=0.000205 3$KC=0.000185 3$LC=1.692E-5 24$MC=2.22E-6 4$NC+=1.149E-7 17
+ 49V S G NC=1.149E-7 17
+ 49V F G FLAG=PQ
+ 49V   G 1512.0    3 100     8 (E1)
+ 49V B G BE1W=0.00017 9
+ 49V S G CC=0.000300 5$KC=2.61E-5 4$LC=2.36E-6 4$MC=3.10E-7 5$NC+=0.000271 4
+ 49V S G NC=1.620E-8 23$IPC=0.000271 4
+ 49V F G FLAG=PR
+ 49V   G 1602.6    2 49.3    20(E1+M2)   +0.29   11
+ 49V B G BE1W=7.E-5 4$BM2W=10 9
+ 49V S G CC=3.50E-4 16$KC=2.8E-5 3$LC=2.5E-6 3$MC=3.3E-7 4$NC+=0.000320 19
+ 49V S G NC=1.71E-8 19$IPC=0.000320 19
+ 49V  CG MR        <0.14 4 FROM COMPARISON TO RUL
+ 49V F G FLAG=EP
+ 49V   L 1610        (9/2-,11/2-)                                              ?
+ 49V X L XREF=I
+ 49V F L FLAG=D
+ 49V   L 1643.19   18(3/2-,5/2)        36 FS     11
+ 49V X L XREF=MHE
+ 49V  CL J         NE 5/2 FROM ^D+Q G TO 3/2-. JPI=(3/2-) IF THE 49CR 6423
+ 49V 2CL STATE IS THE IAS (1985FU03); NE 1/2 FROM POSSIBLE ^D G FROM 5/2-
+ 49V   G 1490.24   18100       D+Q
+ 49V  CG M         FROM PG(THETA) IN (A,PG)
+ 49V F G FLAG=FT
+ 49V   G 1553        2.4     LT                                                ?
+ 49V F G FLAG=ST
+ 49V   L 1646.43   21(1/2+)            6.6 PS    10
+ 49V X L XREF=MEHI(*)K
+ 49V  CL J         PARENTHESES ADDED DUE TO TENTATIVE JPI ARGUMENTS FOR 1643
+ 49V 2CL STATE
+ 49V F L FLAG=E
+ 49V   G 898.06    2687      12D+Q
+ 49V F G FLAG=FU
+ 49V   G 1493.6    3 100     12(E1(+M2))
+ 49V 3 G MR<0.204 26$BE1W=1.2E-5 3
+ 49V S G CC=0.00020 9$KC=6.E-5 3$LC=5.E-6 3$MC=7.E-7 4$NC+=0.00014 12
+ 49V S G NC=3.5E-8 18$IPC=0.00014 12
+ 49V  CG M         ^D,E2 FROM COMPARISON TO RUL. DPI=YES FROM LEVEL SCHEME
+ 49V F G FLAG=NUV
+ 49V   L 1661.40   133/2-              16 FS     7
+ 49V X L XREF=BMEFGHJK
+ 49V  CL J         L(3HE,D)=1; 3/2,5/2 FROM PG(THETA) IN (A,PG)
+ 49V  CL T         FROM (A,PG). OTHER: SEE (P,G)
+ 49V   G 912.3     109.6     20(E1(+M2))
+ 49V 3 G MR<0.0095 26$BE1W=0.0021 10
+ 49V S G CC=0.00018 11$KC=0.00016 10$LC=1.5E-5 10$MC=2.0E-6 12$NC+=1.0E-7 7
+ 49V S G NC=1.0E-7 7
+ 49V F G FLAG=NR
+ 49V   G 1508.37   1865.4    20D,E2
+ 49V F G FLAG=MX
+ 49V   G 1570.83   17100.0   20M1(+E2)   -0.04   9
+ 49V S G CC=1.33E-4 2$KC=4.11E-5 6$LC=3.72E-6 6$MC=4.88E-7 7$NC+=8.74E-5 13
+ 49V S G NC=2.56E-8 4$IPC=8.73E-5 13
+ 49V B G BM1W=0.18 8$BE2W=0.3 +13-3
+ 49V F G FLAG=KX
+ 49V   G 1661.4    1017.3    20(E2(+M3))
+ 49V 3 G MR<0.00041 10$BE2W=24 11
+ 49V S G CC=0.00018 3$KC=8.E-5 4$LC=7.E-6 4$MC=9.E-7 5$NC+=9.E-5 7
+ 49V S G NC=4.9E-8 23$IPC=9.E-5 7
+ 49V F G FLAG=NQ
+ 49V   L 1994.7    4 3/2(+)            0.49 PS   21
+ 49V X L XREF=MEHKI(*)
+ 49V  CL J         3/2 FROM PG(THETA)'S TO 5/2+ AND 5/2- AND PG(THETA) FROM
+ 49V 2CL 5/2+ IN (A,PG). PI=+ IF SUGGESTION BY 1974TA05 THAT L(T,A)=2 IS
+ 49V XCL CORRECT
+ 49V F L FLAG=E
+ 49V   G 854.5     4 85      21(M1+E2)   -0.22   16                         @
+ 49V B G BM1W=0.020 10$BE2W=3 +5-3
+ 49V S G CC=1.47E-4 6$KC=0.000133 5$LC=1.21E-5 5$MC=1.59E-6 6$NC+=8.3E-8 3
+ 49V S G NC=8.3E-8 3
+ 49V F G FLAG=FK
+ 49V   G 1246.8    1046      5 D,E2                                         @
+ 49V F G FLAG=M
+ 49V   G 1841.0    8 100     5 (E1+M2)   -0.17   9
+ 49V  CG MR        <0.11 3 FROM COMPARISON TO RUL
+ 49V B G BE1W=5.5E-5 24$BM2W=2.1 +24-2
+ 49V S G CC=5.35E-4 16$KC=2.02E-5 13$LC=1.83E-6 12$MC=2.39E-7 15$NC+=0.000512 17
+ 49V S G NC=1.25E-8 8$IPC=0.000512 17
+ 49V F G FLAG=EF
+ 49V   G 1903.4    8 62      5 (E1(+M2))
+ 49V 3 G MR<0.16 4$BE1W=3.2E-5 14
+ 49V S G CC=0.00038 22$KC=3.4E-5 17$LC=3.1E-6 15$MC=4.1E-7 20$NC+=0.00034 24
+ 49V S G NC=2.1E-8 10$IPC=0.00034 24
+ 49V F G FLAG=FNR
+ 49V   L 2178.3    4 9/2+              0.56 PS   +49-28
+ 49V X L XREF=ELMHI(*)K(*)
+ 49V  CL J         J FROM PG(THETA)'S IN (A,PG) TO 7/2- AND 7/2+. PI FROM E2 G
+ 49V 2CL TO 5/2+
+ 49V F L FLAG=B
+ 49V   G 575.4     9 11.3    17D(+Q)     -0.07   15
+ 49V F G FLAG=GLW
+ 49V   G 1023      1           D,Q                                             ?
+ 49V 3 G RI GE 7.3 LE 250
+ 49V  CG RI        FROM RI(1023G)/RI(1157G)=5/11 AND
+ 49V 2CG RI(1023G)/RI(2178G)=5/2 IN (40CA,3PG)
+ 49V F G FLAG=MY
+ 49V   G 1037.4    5 33.9    17E2
+ 49V S G CC=0.0001260 18$KC=0.0001141 16$LC=1.040E-5 15$MC=1.361E-6 20
+ 49V S G NC+=7.08E-8 10
+ 49V S G NC=7.08E-8 10
+ 49V  CG M         FROM PG(THETA) IN (A,PG) AND ECC IN (P,NG)
+ 49V B G BE2W=17 +9-15
+ 49V F G FLAG=GW
+ 49V   G 1157.0    7 16.1    17 D
+ 49V F G FLAG=GW1
+ 49V   G 2178.3    8 100     5 D(+Q)     -0.02   5
+ 49V F G FLAG=GW
+ 49V   L 2182.0    4 7/2-              33 FS     12
+ 49V X L XREF=BEMFHIJK(*)G(*)
+ 49V F L FLAG=F
+ 49V   G 1026.8    7 32      3 (M1(+E2))
+ 49V  CG M         D,E2 FROM COMPARISON TO RUL. DPI=NO FROM LEVEL SCHEME
+ 49V 3 G MR<0.0084 18$BM1W=0.14 6
+ 49V S G CC=1.00E-4 2$KC=9.09E-5 13$LC=8.26E-6 12$MC=1.083E-6 16$NC+=5.66E-8 8
+ 49V S G NC=5.66E-8 8
+ 49V F G FLAG=FNRU
+ 49V   G 2090.7    7 100     9 (M1+E2)   -0.09   4
+ 49V S G CC=0.000318 5$KC=2.50E-5 4$LC=2.26E-6 4$MC=2.97E-7 5$NC+=0.000290 5
+ 49V S G NC=1.556E-8 22$IPC=0.000290 5
+ 49V B G BM1W=0.052 20$BE2W=0.23 23
+ 49V F G FLAG=KLOU
+ 49V   G 2181.6    118       5 D,Q
+ 49V F G FLAG=FMU
+ 49V   L 2204        (5/2-,7/2-)                                               ?
+ 49V X L XREF=FG(*)
+ 49V   L 2234.0    7 5/2               12 FS     8
+ 49V X L XREF=BMEHIJK
+ 49V  CL J         FROM G(THETA) IN (P,G)
+ 49V   G 572.5     2521.9    16D,E2                                            ?
+ 49V F G FLAG=MO2
+ 49V   G 2081.1    2026.6    16D,E2                                            ?
+ 49V   G 2142.9    10100.0   16D(+Q)     +0.04   14
+ 49V F G FLAG=DLO
+ 49V   G 2234.4    157.8     16D+Q
+ 49V F G FLAG=DO23
+ 49V   L 2263.30   2115/2-             0.65 PS   +38-19
+ 49V X L XREF=LMJK(*)H
+ 49V  CL J         11/2,15/2 FROM PG(THETA) IN (A,PG). MR(1241G) FOR J=11/2
+ 49V 2CL FROM PG(THETA) IN (A,PG) NOT CONSISTENT WITH ECC(1242G). PI=-
+ 49V 3CL FROM E2 G TO 11/2-
+ 49V F L FLAG=A
+ 49V   G 1241.69   18100       E2
+ 49V S G CC=9.96E-5 14$KC=7.55E-5 11$LC=6.86E-6 10$MC=8.99E-7 13$NC+=1.637E-5 24
+ 49V S G NC=4.69E-8 7$IPC=1.632E-5 24
+ 49V  CG M         FROM ECC IN (P,NG) AND COMPARISON TO RUL. DJ=2 Q OR
+ 49V 2CG DJ=0 ^D FROM RECOIL-G(THETA) IN (40CA,3PG)
+ 49V B G BE2W=28 +8-17
+ 49V F G FLAG=G
+ 49V   L 2265.3    3 5/2-              35 FS     9
+ 49V X L XREF=MEIK(*)H
+ 49V  CL J         L(T,A)=3; 3/2,5/2 FROM G(THETA) TO 3/2- IN (P,G)
+ 49V   G 621         5.3       D                                               ?
+ 49V F G FLAG=MST
+ 49V   G 2112.3    3 100     15D+Q
+ 49V  CG MR        SEE ALSO TABLE IN 1972KI06
+ 49V F G FLAG=TV3
+ 49V   L 2279        1/2-,3/2-                                                 ?
+ 49V X L XREF=F
+ 49V   L 2309.4    6 3/2-              14 FS     7
+ 49V X L XREF=BMEFHIJK
+ 49V  CL J         L(3HE,D)=1. ^D+Q G TO 5/2- IN (P,G)
+ 49V  CL T         FROM (P,G)
+ 49V   G 1560        19        (E1(+M2))                                       ?
+ 49V 3 G MR<0.028 8$BE1W=0.0007 4
+ 49V S G CC=0.00023 11$KC=5.E-5 3$LC=4.6E-6 24$MC=6.E-7 4$NC+=0.00017 14
+ 49V S G NC=3.2E-8 17$IPC=0.00017 14
+ 49V F G FLAG=NRST
+ 49V   G 2155.7    1286      5 D+Q
+ 49V F G FLAG=X3
+ 49V   G 2218.6    8 100     5 D+Q
+ 49V F G FLAG=X3
+ 49V   G 2310.6    1452      5 (E2)
+ 49V 4 G BE2W=12 6
+ 49V S G CC=0.000490 7$KC=2.24E-5 4$LC=2.03E-6 3$MC=2.66E-7 4$NC+=0.000465 7
+ 49V S G NC=1.393E-8 20$IPC=0.000465 7
+ 49V F G FLAG=QX
+ 49V   L 2353.4    4 9/2-              33 FS     12
+ 49V X L XREF=MHIJK
+ 49V  CL J         ^D+Q G TO 11/2- AND M1+E2 G TO 7/2-.
+ 49V   G 1198.9    118.9     18D,E2
+ 49V F G FLAG=DIM
+ 49V   G 1331.7    7 57.1    18(M1+E2)   -0.19   16
+ 49V B G BM1W=0.09 4$BE2W=4 +8-4
+ 49V S G CC=8.79E-5 20$KC=5.58E-5 11$LC=5.06E-6 10$MC=6.64E-7 13$NC+=2.64E-5 9
+ 49V S G NC=3.47E-8 7$IPC=2.63E-5 9
+ 49V F G FLAG=DFKL
+ 49V   G 2262.2    2010.7    18(E2(+M3))                                       ?
+ 49V 3 G MR<0.00213 5$BE2W=1.6 7
+ 49V S G CC=0.00033 14$KC=3.9E-5 16$LC=3.6E-6 15$MC=4.7E-7 20$NC+=0.00029 16
+ 49V S G NC=2.4E-8 10$IPC=0.00029 16
+ 49V F G FLAG=NQ
+ 49V   G 2353.2    7 100.0   18M1+E2     -0.54   23
+ 49V B G BM1W=0.022 10$BE2W=2.9 22
+ 49V S G CC=4.44E-4 14$KC=2.08E-5 4$LC=1.88E-6 3$MC=2.47E-7 4$NC+=0.000421 14
+ 49V S G NC=1.294E-8 21$IPC=0.000421 14
+ 49V F G FLAG=DHV
+ 49V   L 2388.0    5 5/2+              57 FS     20
+ 49V X L XREF=MEFHIK
+ 49V  CL J         L(T,A)=2; NE 3/2+ FROM ^D,E2 G TO 7/2-
+ 49V F L FLAG=E
+ 49V   G 393.6     1516.9    17(M1(+E2)) -0.0    4                             ?
+ 49V S G CC=0.00076 20$KC=0.00069 18$LC=6.3E-5 17$MC=8.3E-6 22$NC+=4.3E-7 11
+ 49V S G NC=4.3E-7 11
+ 49V B G BM1W=0.62 23
+ 49V F G FLAG=KLVW
+ 49V   G 1247.8    1211.9    17D,E2                                         @  ?
+ 49V F G FLAG=MVW
+ 49V   G 1639.3    6 100     5 M1+E2     -0.36   15
+ 49V B G BM1W=0.045 17$BE2W=5 5
+ 49V S G CC=1.57E-4 5$KC=3.86E-5 7$LC=3.49E-6 6$MC=4.58E-7 8$NC+=0.000115 4
+ 49V S G NC=2.40E-8 5$IPC=0.000115 4
+ 49V F G FLAG=DFHLW
+ 49V   G 2235.5    168.5     LT                                                ?
+ 49V F G FLAG=FW
+ 49V   G 2298.6    1528.8    17(E1(+M2))
+ 49V 3 G MR<0.096 18$BE1W=0.00012 5
+ 49V S G CC=0.0006 3$KC=2.4E-5 11$LC=2.2E-6 10$MC=2.9E-7 13$NC+=0.0005 3
+ 49V S G NC=1.5E-8 7$IPC=0.0005 3
+ 49V F G FLAG=DFNRW
+ 49V   G 2388.6    1411.9    17(E1(+M2))
+ 49V 3 G MR<0.17 4$BE1W=4.5E-5 17
+ 49V S G CC=0.0006 4$KC=2.3E-5 10$LC=2.0E-6 9$MC=2.7E-7 12$NC+=0.0006 4
+ 49V S G NC=1.4E-8 6$IPC=0.0006 4
+ 49V F G FLAG=DFNRW
+ 49V   L 2408.3    4 (7/2-)            8 FS      LT
+ 49V X L XREF=MEHIJK
+ 49V  CL J         5/2-,7/2,9/2- FROM ^D,E2 G'S TO 5/2- AND 9/2-. 7/2- FROM
+ 49V 2CL POSSIBLE ^D G TO 5/2+ AND POSSIBLE ^D,E2 G TO 11/2-
+ 49V   G 229.2     206.3     LT                                                ?
+ 49V F G FLAG=VW
+ 49V   G 1252.9    8 18.3    14D,E2
+ 49V F G FLAG=DFM
+ 49V   G 1268        33        D                                               ?
+ 49V F G FLAG=MST
+ 49V   G 1385.7    107.0     14D,E2                                            ?
+ 49V F G FLAG=M
+ 49V   G 2316.4    2015.5    14D,E2                                            ?
+ 49V   G 2408.4    4 100.0   14D(+Q)     +0.02   15
+ 49V F G FLAG=DV
+ 49V   L 2671.0    3 (11/2)-           11 FS     LT
+ 49V X L XREF=E(*)LMJK(*)
+ 49V  CL J         9/2-,11/2-,13/2- FROM M1+E2 G TO 11/2-. 11/2- FROM
+ 49V 2CL COMPARISON OF THEORETICAL AND EXPERIMENTAL SIGMA(THETA) IN (P,T)
+ 49V F L FLAG=G
+ 49V   G 1517      1 33        D,E2
+ 49V F G FLAG=MYZ
+ 49V   G 1649.2    3 100       M1+E2     -0.41   6
+ 49V S G CC=1.61E-4 3$KC=3.83E-5 6$LC=3.47E-6 5$MC=4.54E-7 7$NC+=0.0001193 22
+ 49V S G NC=2.38E-8 4$IPC=0.0001193 22
+ 49V  CG M         ^D+Q FROM PG(THETA) IN (A,PG). MR(9/2,11/2,13/2) AND
+ 49V 2CG COMPARISON TO RUL EXCLUDE E1+M2
+ 49V B G BM1W>0.28$BE2W>32
+ 49V F G FLAG=VZ
+ 49V   L 2671.3    9 7/2-,9/2,11/2+    33.3 PS   LT                            ?
+ 49V X L XREF=E(*)HK(*)
+ 49V  CL J         ^D,E2 G TO 11/2- AND ^D,Q,E3 G TO 5/2-
+ 49V F L FLAG=H
+ 49V   G 1649.3    10100.0   12D,E2                                            ?
+ 49V F G FLAG=M
+ 49V   G 2579.2    204.4     12D,Q,E3                                          ?
+ 49V F G FLAG=M
+ 49V   G 2672.8    206.7     12                                                ?
+ 49V   L 2680.0    15 (7/2,9/2)
+ 49V  CL J         POSSIBLE G TO 11/2-; G'S FROM (5/2-) AND (5/2+) RESONANCES
+ 49V X L XREF=EHIK(*)
+ 49V   G 1526      2 100     12                                                ?
+ 49V   G 1657      2 100     12                                                ?
+ 49V   L 2727.5    3 15/2-             0.10 PS   4
+ 49V X L XREF=LMHIJK
+ 49V  CL J         DJ=0 M1+E2 G TO 15/2-
+ 49V F L FLAG=G
+ 49V   G 464.2     3 100       M1(+E2)
+ 49V 4 G MR GT -0.04 LT +0.10
+ 49V 5 G BM1W=1.1 5$BE2W<1.2E+2 5
+ 49V S G CC=0.0009 4$KC=0.0008 4$LC=7.E-5 3$MC=1.0E-5 4$NC+=5.0E-7 20
+ 49V S G NC=5.0E-7 20
+ 49V  CG M         ^D(+Q) FROM PG(THETA) IN (A,PG). NE E1 FROM COMPARISON TO
+ 49V 2CG RUL. DJ=2 Q OR DJ=0 ^D G FROM RECOIL-G(THETA) IN (40CA,3PG)
+ 49V F G FLAG=IZ
+ 49V   G 1705.5    7 100       (E2)
+ 49V B G BE2W=18 8
+ 49V S G CC=0.000218 4$KC=3.91E-5 6$LC=3.55E-6 5$MC=4.65E-7 7$NC+=0.0001749 25
+ 49V S G NC=2.43E-8 4$IPC=0.0001748 25
+ 49V  CG M         ^D,E2 FROM COMPARISON TO RUL. DJ=2 Q OR DJ=0 ^D FROM
+ 49V 2CG RECOIL-G(THETA) IN (40CA,3PG). DJPI=2,NO FROM LEVEL SCHEME
+ 49V F G FLAG=GZ
+ 49V   L 2741.0    5 11/2+             0.39 PS   +36-17
+ 49V X L XREF=LM
+ 49V  CL J         11/2 FROM RECOIL-G(THETA) IN (40CA,3PG); ^D,E2 G TO 7/2+
+ 49V F L FLAG=B
+ 49V   G 562.5     7 27.1    21D,E2
+ 49V F G FLAG=DGMW
+ 49V   G 1138.9    9 100     5 (E2)
+ 49V 3 G BE2W=33 +15-33
+ 49V S G CC=0.0001040 15$KC=9.17E-5 13$LC=8.34E-6 12$MC=1.093E-6 16
+ 49V S G NC+=2.73E-6 7
+ 49V S G NC=5.69E-8 8$IPC=2.67E-6 7
+ 49V F G FLAG=DIQW
+ 49V   G 1585.8    9 81      5 (E1(+M2))
+ 49V 3 G BE1W=0.00012 +6-12
+ 49V S G CC=0.00024 12$KC=4.9E-5 25$LC=4.5E-6 23$MC=6.E-7 3$NC+=0.00018 15
+ 49V S G NC=3.1E-8 16$IPC=0.00018 15
+ 49V F G FLAG=DGRW
+ 49V   G 1719.0    1510      LT(E1(+M2))                                       ?
+ 49V 3 G BE1W=6.E-6 +7-6
+ 49V S G CC=0.00029 17$KC=4.2E-5 21$LC=3.8E-6 19$MC=5.0E-7 25$NC+=0.00025 19
+ 49V S G NC=2.6E-8 13$IPC=0.00025 19
+ 49V F G FLAG=RVW
+ 49V   L 2786.4    3 (9/2)-            11 FS     LT
+ 49V X L XREF=MFHJK(*)
+ 49V  CL J         7/2-,9/2,11/2- FROM ^D,E2 G'S TO 7/2- AND 11/2-. 9/2,11/2
+ 49V 2CL FROM PG(THETA) IN (A,PG); NE 9/2+ FROM MR(9/2 TO 7/2 OR 9/2) AND
+ 49V 3CL COMPARISON TO RUL. NE 11/2- FROM POSSIBLE ^D,E2 G'S TO 5/2- AND 7/2+
+ 49V   G 1184.3    106.7     23D,E2                                            ?
+ 49V F G FLAG=M
+ 49V   G 1631.0    5 53.3    23D+Q
+ 49V F G FLAG=DF3
+ 49V   G 1764.5    4 100.0   23D+Q,E2
+ 49V  CG M         ^D+Q,Q FROM PG(THETA) IN (A,PG). NE M2 FROM COMPARISON TO
+ 49V 2CG RUL
+ 49V F G FLAG=DF3
+ 49V   G 2697.2    208.9     23D,E2                                            ?
+ 49V F G FLAG=M
+ 49V   G 2786.4    5 53.3    23M1+E2,E2
+ 49V  CG M         ^D+Q,Q FROM PG(THETA) IN (A,PG). MR(9/2) AND COMPARISON
+ 49V 2CG TO RUL EXCLUDE E1+M2; NE M2 FROM COMPARISON TO RUL
+ 49V F G FLAG=DV3
+ 49V   L 2796.6    15                                                          ?
+ 49V X L XREF=HK(*)
+ 49V   G 1775.0    1561      10                                                ?
+ 49V   G 2796      4 100     10                                                ?
+ 49V   L 2808.3    7 5/2+              0.32 PS   6
+ 49V X L XREF=MHI
+ 49V  CL J         L(T,A)=2; NE 3/2+ FROM ^D,E2 G TO 7/2-. PROPOSED AS THE
+ 49V 2CL 7/2+ MEMBER OF THE KPI=1/2+ ROTATIONAL BAND BY 1975HA12 BUT THIS IS
+ 49V 3CL NOT CONSISTENT WITH L(T,A)
+ 49V   G 1206.6    1026      5 D,E2
+ 49V F G FLAG=M
+ 49V   G 1666.7    1024      5 D,E2
+ 49V F G FLAG=M
+ 49V   G 2058        54      17D,E2                                            ?
+ 49V F G FLAG=MVW
+ 49V   G 2655.7    2088      8 (E1(+M2))
+ 49V 3 G MR<0.25 3$BE1W=2.5E-5 6
+ 49V S G CC=0.0007 4$KC=1.9E-5 8$LC=1.7E-6 7$MC=2.2E-7 9$NC+=0.0007 4
+ 49V S G NC=1.2E-8 5$IPC=0.0007 4
+ 49V F G FLAG=NR
+ 49V   G 2808.5    20100     8 (E1(+M2))
+ 49V 3 G MR<0.28 4$BE1W=2.4E-5 6
+ 49V S G CC=0.0008 4$KC=1.7E-5 7$LC=1.5E-6 6$MC=2.0E-7 8$NC+=0.0008 4
+ 49V S G NC=1.1E-8 4$IPC=0.0008 4
+ 49V F G FLAG=NR
+ 49V   L 2810.9    5 5/2-,7/2-         12 FS     LT
+ 49V X L XREF=MEFHJK
+ 49V F L FLAG=G
+ 49V   G 628.4     1033      5 M1
+ 49V S G CC=0.000273 4$KC=0.000247 4$LC=2.25E-5 4$MC=2.95E-6 5$NC+=1.540E-7 23
+ 49V S G NC=1.540E-7 23
+ 49V B G BM1W>1.0
+ 49V F G FLAG=M
+ 49V   G 1673      2 25      6 D,E2                                            ?
+ 49V F G FLAG=M
+ 49V   G 2720.3    19100     5 D,E2
+ 49V F G FLAG=MV
+ 49V   G 2810.9    5 75      5 D,E2
+ 49V F G FLAG=MV
+ 49V   L 2861.5    5 13/2-             0.10 PS   6
+ 49V X L XREF=LMJ
+ 49V  CL J         FROM PG(THETA) IN (A,PG) AND E2 G TO 9/2-
+ 49V F L FLAG=A
+ 49V   G 134       1           (M1(+E2))               0.07   6                ?
+ 49V 3 G RI GE 0.4 LE 2.5$MR<0.49$BM1W GE 0.26 16 LE 1.7 11
+ 49V S G KC=0.06 5$LC=0.006 5$MC=0.0007 7$NC+=4.E-5 3
+ 49V S G NC=4.E-5 3
+ 49V  CG M         ^D FROM COMPARISON TO RUL. DPI=NO FROM THE LEVEL SCHEME
+ 49V  CG RI        FROM RI(134G)/RI(599G)=0.0125 AND
+ 49V 2CG RI(134G)/RI(1707G)=0.025 IN (40CA,3PG)
+ 49V F G FLAG=NY
+ 49V   G 598.3     7 28.2    13(M1(+E2))
+ 49V 3 G MR<0.5$BM1W=0.22 17
+ 49V S G CC=0.00043 13$KC=0.00039 12$LC=3.6E-5 11$MC=4.7E-6 14$NC+=2.4E-7 7
+ 49V S G NC=2.4E-7 7
+ 49V  CG M         DJ=1 ^D TRANSITION FROM RECOIL-G(THETA) IN (40CA,3PG).
+ 49V 2CG DPI=NO FROM LEVEL SCHEME
+ 49V F G FLAG=IN
+ 49V   G 1706      1 100     6 E2(+M3)   -0.09   17
+ 49V S G CC=2.18E-4 5$KC=4.0E-5 4$LC=3.6E-6 4$MC=4.7E-7 5$NC+=0.000174 9
+ 49V S G NC=2.46E-8 24$IPC=0.000174 9
+ 49V  CG M         Q+O FROM PG(THETA) IN (A,PG). NE M2+E3 FROM COMPARISON TO
+ 49V 2CG RUL. DJ=2 Q OR DJ=0 ^D FROM RECOIL-G(THETA) IN (40CA,3PG)
+ 49V B G BE2W=28 18$BM3W=6.E+5 +21-6
+ 49V F G FLAG=I
+ 49V   G 1840      1           D,E2                                            ?
+ 49V 3 G RI GE 1.4 LE 10
+ 49V  CG RI        FROM RI(1840G)/RI(599G)=1.4 AND
+ 49V 2CG RI(1840G)/RI(1707G)=10 IN (40CA,3PG)
+ 49V F G FLAG=MY
+ 49V   L 3017.3    7                   33.3 PS   LT
+ 49V X L XREF=MHJ
+ 49V F L FLAG=H
+ 49V   G 1414.1    1022.5    25D,Q                                             ?
+ 49V F G FLAG=M
+ 49V   G 2865.0    16100     5
+ 49V F G FLAG=DF
+ 49V   G 2926.5    1392      5
+ 49V F G FLAG=DF
+ 49V   G 3017.6    1435      5
+ 49V F G FLAG=DF
+ 49V   L 3133.9    5 (9/2,11/2,13/2)   0.22 PS   +8-4
+ 49V X L XREF=MF(*)I(*)J(*)K(*)
+ 49V  CL J         ^D G TO (11/2)-
+ 49V   G 462.9     3 100       D
+ 49V 3 G FL=2671.0
+ 49V F G FLAG=MVW
+ 49V   L 3134.0    6 7/2,9/2(+)        33.3 PS   LT
+ 49V X L XREF=EMF(*)HI(*)J(*)K(*)
+ 49V  CL J         7/2,9/2 FROM ^D+Q G TO 7/2- AND ^D,Q G TO 11/2-. |=9/2-
+ 49V 2CL FROM POSSIBLE ^D,Q,E3 G TO 3/2+. 1992DI02 ASSUMED 7/2- IN THEIR
+ 49V 3CL MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V F L FLAG=H
+ 49V   G 1979.5    1539.0    25D,Q
+ 49V F G FLAG=DIM
+ 49V   G 2112.8    1634.1    25D,Q
+ 49V F G FLAG=DFM
+ 49V   G 2385.7    2017.1    25D,Q,E3                                          ?
+ 49V F G FLAG=M
+ 49V   G 3043.5    2053.7    25                                                ?
+ 49V   G 3133.4    10100.0   25D+Q       +0.26   12
+ 49V F G FLAG=DF
+ 49V   L 3152.1    10                                                          ?
+ 49V X L XREF=FH
+ 49V   G 2012.0    15100     10                                                ?
+ 49V   G 2131.0    1561      10                                                ?
+ 49V   L 3224      1 (1/2,3/2,5/2-)
+ 49V  CL J         ^D,E2 G FROM (1/2-) RES
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 1566        100
+ 49V F G FLAG=ST
+ 49V   G 3074        100
+ 49V F G FLAG=ST
+ 49V   L 3239.5    9  7/2-             33.3 PS   LT
+ 49V X L XREF=EHJK
+ 49V F L FLAG=FH
+ 49V   G 1725.2    1050.8    17D,Q
+ 49V F G FLAG=M
+ 49V   G 3148.9    20100.0   17
+ 49V   G 3238.2    2013.1    17D,Q,E3
+ 49V F G FLAG=M
+ 49V   L 3242      2 (3/2,5/2,7/2-)
+ 49V X L XREF=E
+ 49V F L FLAG=IJ
+ 49V   L 3248        1/2+
+ 49V  CL E         FROM (T,A)
+ 49V X L XREF=FI
+ 49V F L FLAG=D
+ 49V   L 3259.5    4 (GE 9/2)
+ 49V X L XREF=EM
+ 49V  CL J         SEEN ONLY AT 7/2- RESONANCES
+ 49V 2 L T GT 2 PS LT 0.7 NS
+ 49V   G 473.1     2 100
+ 49V F G FLAG=VW
+ 49V   L 3303.2    9 3/2-,5/2,7/2,9/2  33.3 PS   LT
+ 49V X L XREF=H
+ 49V  CL J         ^D,E2 G TO 7/2- AND ^D,Q,E3 G TO 5/2-
+ 49V F L FLAG=H
+ 49V   G 1121.0    1054      6 D,E2
+ 49V F G FLAG=M
+ 49V   G 3213.5    2040      6 D,Q,E3
+ 49V F G FLAG=M
+ 49V   G 3302.6    20100     4
+ 49V   L 3305      3 (13/2-)
+ 49V X L XREF=J
+ 49V  CL J         FROM COMPARISON OF THEORETICAL AND EXPERIMENTAL
+ 49V 2CL SIGMA(THETA)'S IN (P,T)
+ 49V   L 3325      2 (1/2+ TO 7/2+)
+ 49V X L XREF=E
+ 49V F L FLAG=IJ
+ 49V   L 3325.2    4 (17/2-)
+ 49V X L XREF=LJK(*)
+ 49V  CL J         13/2,17/2 FROM DJ=1 ^D G TO 15/2-. J>15/2 FROM EXCIT IN
+ 49V 2CL (12C,3PG). MEMBER OF 7/2- GS YRAST BAND
+ 49V F L FLAG=A
+ 49V   G 464       1 36.84     D,Q
+ 49V F G FLAG=YZ4
+ 49V   G 597.1     5 21.05     D
+ 49V F G FLAG=YZ1
+ 49V   G 1061.9    5 100       D
+ 49V F G FLAG=YZ1
+ 49V   L 3340.5    11                  33.3 PS   LT
+ 49V X L XREF=HK(*)I(*)J(*)
+ 49V F L FLAG=H
+ 49V   G 1106.3    1037      5 D,E2
+ 49V   G 3341.2    20100     3
+ 49V   L 3341.8    7 (13/2+)
+ 49V X L XREF=MI(*)J(*)K
+ 49V  CL J         11/2-,13/2 FROM ^D,E2 G TO 15/2- AND ^D,Q G TO 9/2+. MEMBER
+ 49V 2CL OF KPI=3/2+ ROTATIONAL BAND
+ 49V 3 L T GT 3.5 PS LT 0.7 NS
+ 49V F L FLAG=B
+ 49V   G 601.0     8 72.5    25D,E2
+ 49V F G FLAG=MVW
+ 49V   G 670.5     8 78      5 D,E2
+ 49V 3 G FL=2671.0
+ 49V F G FLAG=MVW
+ 49V   G 1163.0    10100     5 D,Q
+ 49V F G FLAG=MVW
+ 49V   L 3342      2 (1/2+ TO 9/2+)
+ 49V  CL J         SEEN ONLY AT 5/2+ RESONANCE
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   L 3388      1 (3/2,5/2-)
+ 49V X L XREF=EI(*)K(*)
+ 49V  CL J         LE 7/2- FROM ^D,E2 G FROM 3/2- RESONANCE. STRONG G'S FROM
+ 49V 2CL (1/2-) RESONANCES; WEAK G FROM (7/2-) RESONANCE
+ 49V F L FLAG=I
+ 49V   G 1729        67
+ 49V F G FLAG=ST
+ 49V   G 1876        100
+ 49V F G FLAG=ST
+ 49V   L 3388.5    9 5/2,7/2           33.3 PS   LT
+ 49V X L XREF=HI(*)K(*)
+ 49V  CL J         ^D,Q G'S TO 9/2- AND 3/2+
+ 49V F L FLAG=H
+ 49V   G 602.3     1030      7 D,E2
+ 49V   G 1745      2 11.1    24D,Q                                             ?
+ 49V F G FL=1643.19
+ 49V   G 2233.7    2039      4 D,Q
+ 49V   G 2638.9    20100     4 D,Q
+ 49V   G 3296      2 29      13                                                ?
+ 49V   L 3405        (3/2)-
+ 49V X L XREF=EFJK(*)
+ 49V  CL J         L(3HE,D)=1 AND L(P,T)=2
+ 49V F L FLAG=I
+ 49V   L 3462.9    17(3/2+ TO 9/2+)    33.3 PS   LT
+ 49V  CL J         SEEN ONLY AT 5/2+ RESONANCES; G TO 7/2- AND POSSIBLE G TO
+ 49V 2CL 7/2+ EXCLUDE 1/2+
+ 49V X L XREF=EFHI
+ 49V F L FLAG=H
+ 49V   G 1862.0    15                                                          ?
+ 49V   G 3462.8    17
+ 49V   L 3479      3 (7/2-)                                                    ?
+ 49V X L XREF=J
+ 49V F L FLAG=F
+ 49V   L 3500.6    10                  33.3 PS   LT
+ 49V X L XREF=HK
+ 49V F L FLAG=H
+ 49V   G 1092.2    1082      15D,E2
+ 49V   G 3500.9    20100     8
+ 49V   L 3516      2 (3/2- TO 9/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IJ
+ 49V   L 3521      2 (LE 9/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IJ
+ 49V   L 3531      2 (LE 7/2-)                                                 ?
+ 49V X L XREF=EJ(*)K(*)
+ 49V F L FLAG=IJ
+ 49V   G 1870        25                                                        ?
+ 49V F G FLAG=ST
+ 49V   G 1887        42                                                        ?
+ 49V F G FL=1643.19
+ 49V F G FLAG=ST
+ 49V   G 3378        100                                                       ?
+ 49V F G FLAG=ST
+ 49V   L 3531.1    6 5/2-,7/2,9/2+     33.3 PS   LT
+ 49V X L XREF=HJ(*)K(*)
+ 49V  CL J         ^D,E2 G TO 9/2- AND ^D,Q,E3 G TO 3/2+ TO 9/2- AND 3/2-
+ 49V F L FLAG=H
+ 49V   G 1178.4    1074      3 D,E2
+ 49V F G FLAG=M
+ 49V   G 1348.4    1041      3 D,E2
+ 49V F G FLAG=M
+ 49V   G 2015.6    2038      3 D,Q
+ 49V F G FLAG=M
+ 49V   G 2375.7    2015      3
+ 49V   G 3378.5    20100     3 D,Q,E3
+ 49V F G FLAG=M
+ 49V   G 3531.0    2026      3
+ 49V   L 3603      2
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   L 3609      3 (7/2-)
+ 49V X L XREF=J
+ 49V F L FLAG=F
+ 49V   L 3612      6 (GE 11/2-)                                                ?
+ 49V X L XREF=KJ(*)
+ 49V  CL J         FROM LARGE BACK-ANGLE YIELDS IN (P,A)
+ 49V   L 3623.9    20LE 9/2            33.3 PS   LT
+ 49V X L XREF=HJ(*)
+ 49V  CL J         ^D,Q G TO 5/2+
+ 49V F L FLAG=H
+ 49V   G 2483.3    20100       D,Q
+ 49V F G FLAG=M
+ 49V   L 3639.8    8 (7/2-)            33.3 PS   LT
+ 49V X L XREF=EHJK
+ 49V  CL J         7/2,9/2 FROM ^D,Q G'S TO 5/2- AND 11/2-. (3/2,5/2,7/2-) FROM
+ 49V 2CL DEEXCITATION OF RESONANCES ASSUMING ^D,E2 FOR STRONG TRANSITIONS AND
+ 49V 3CL MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V F L FLAG=H
+ 49V   G 1461.5    1013      4 D,Q
+ 49V F G FLAG=M
+ 49V   G 2123.8    2050      6 D,Q
+ 49V F G FLAG=M
+ 49V   G 2618.1    20100     6 D,Q
+ 49V F G FLAG=M
+ 49V   G 3640.8    2022.2    19
+ 49V   L 3665.9    7 11/2              33.3 PS   LT
+ 49V X L XREF=H
+ 49V  CL J         ^D,Q,E3 G TO 7/2-, ^D,Q G TO 15/2-, AND ^D,E2 G TO 9/2-
+ 49V F L FLAG=H
+ 49V   G 1312.1    1035      3 D,E2
+ 49V F G FLAG=M
+ 49V   G 1402.7    1017      3 D,Q
+ 49V F G FLAG=M
+ 49V   G 3666.7    20100     3 D,Q,E3
+ 49V F G FLAG=M
+ 49V   L 3671      2 (1/2+ TO 9/2+)
+ 49V X L XREF=EK(*)
+ 49V  CL J         SEEN ONLY AT 5/2+ RESONANCES
+ 49V F L FLAG=I
+ 49V   L 3678      2 (7/2)-
+ 49V  CL J         1/2+ TO 7/2- FROM DEEXCITATION OF RESONANCES ASSUMING ^D,E2
+ 49V 2CL FOR STRONG TRANSITIONS AND MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS.
+ 49V 3CL 7/2- FROM L(P,T)
+ 49V X L XREF=EJK(*)F(*)
+ 49V F L FLAG=I
+ 49V   L 3694      6 3/2+,5/2+
+ 49V X L XREF=F(*)IK
+ 49V F L FLAG=DK
+ 49V   L 3721      2 (LE 7/2)-
+ 49V  CL J         PI=- FROM L(P,T). |<7/2- FROM DEEXCITATION OF RESONANCES
+ 49V 2CL ASSUMING ^D,E2 FOR STRONG TRANSITIONS AND MULTIDIMENSIONAL NONMETRIC
+ 49V 2CL SCALING ANALYSIS
+ 49V X L XREF=EJ
+ 49V F L FLAG=I
+ 49V   L 3741      2 1/2-,3/2-
+ 49V X L XREF=EF
+ 49V F L FLAG=I
+ 49V   G 2230        67
+ 49V F G FLAG=ST
+ 49V   G 3591        100
+ 49V F G FLAG=ST
+ 49V   G 3653        100
+ 49V F G FLAG=ST
+ 49V   L 3742.4    6 (19/2-)
+ 49V X L XREF=LJK
+ 49V  CL J         15/2,19/2 FROM DJ=2 Q OR DJ=0 ^D G TO 15/2- AND DJ=1 ^D TO
+ 49V 2CL 13/2,17/2. MEMBER OF 7/2- GS YRAST BAND
+ 49V F L FLAG=A
+ 49V   G 416.9     5 100       D+Q       -2.0    4
+ 49V  CG M,MR      FROM G(THETA) IN (32S,3PAG). DJ=1 ^D FROM RECOIL-G(THETA) IN
+ 49V 2CG (40CA,3PG)
+ 49V F G FL=3325.2
+ 49V F G FLAG=YZ
+ 49V   G 1479.1    9 93        D,Q
+ 49V F G FLAG=YZ4
+ 49V   L 3757      2 5/2-,7/2-
+ 49V X L XREF=EFI
+ 49V F L FLAG=I
+ 49V   L 3771      2 (1/2+ TO 9/2+)
+ 49V X L XREF=E
+ 49V F L FLAG=IJ
+ 49V   L 3782      2 (GE 9/2)
+ 49V  CL J         SEEN ONLY AT 7/2- RESONANCE
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   L 3795      3 (-)
+ 49V X L XREF=J
+ 49V F L FLAG=F
+ 49V   L 3816      2 (LE 7/2-)
+ 49V X L XREF=E
+ 49V  CL J         POSSIBLE ^D,E2 G FROM 3/2- RES
+ 49V F L FLAG=I
+ 49V   G 3725        100
+ 49V F G FLAG=ST
+ 49V   L 3825      3 (-)
+ 49V X L XREF=J
+ 49V F L FLAG=F
+ 49V   L 3841      2 1/2(+),3/2,5/2-
+ 49V  CL J         LE 5/2- FROM ^D,E2 G FROM (1/2-) RES. 1/2+,3/2,5/2 FROM
+ 49V 2CL DEEXCITATION OF RESONANCES ASSUMING ^D,E2 FOR STRONG TRANSITIONS
+ 49V 3CL AND MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=EK
+ 49V F L FLAG=I
+ 49V   G 2180        100
+ 49V F G FLAG=ST
+ 49V   G 2197        67
+ 49V F G FL=1643.19
+ 49V F G FLAG=ST
+ 49V   L 3885.2    27
+ 49V  CL E         WEIGHTED AV OF 3886 3 FROM (P,T) AND 3882 6 FROM (P,A)
+ 49V X L XREF=JK
+ 49V   L 3912      2 (3/2)-
+ 49V X L XREF=EFJI(*)
+ 49V F L FLAG=IL
+ 49V   G 1650        50
+ 49V 3 G FL=2265.3
+ 49V F G FLAG=ST
+ 49V   G 2270        83
+ 49V F G FLAG=ST
+ 49V   G 3761        100       D(+Q)     -1.3    20
+ 49V F G FLAG=ST
+ 49V   L 3927      2 (1/2+ TO 9/2+)
+ 49V X L XREF=EI(*)K
+ 49V F L FLAG=IJ
+ 49V   L 3960      2 (3/2-,5/2,7/2-)
+ 49V X L XREF=EK(*)
+ 49V F L FLAG=IJ
+ 49V   L 3975      3 (-)
+ 49V  CL E         FROM (P,T)
+ 49V X L XREF=IJK(*)
+ 49V F L FLAG=F
+ 49V   L 4002      2 (3/2)-
+ 49V X L XREF=EFIK
+ 49V F L FLAG=IL
+ 49V   G 1693        67
+ 49V F G FLAG=ST
+ 49V   G 2358        100
+ 49V F G FL=1643.19
+ 49V F G FLAG=ST
+ 49V   L 4035      2 (3/2- TO 9/2+)
+ 49V X L XREF=E
+ 49V F L FLAG=IJ
+ 49V   L 4048      3
+ 49V  CL E         FROM (P,T)
+ 49V X L XREF=IJ
+ 49V   L 4064      6
+ 49V X L XREF=K
+ 49V   L 4088      2 3/2(-),5/2,7/2-
+ 49V X L XREF=EI
+ 49V  CL J         NE 7/2- FROM PRIMARY G'S FROM 3/2- RESONANCES.
+ 49V 2CL NE 1/2,(3/2+) FROM DECAY TO 7/2-
+ 49V F L FLAG=I
+ 49V   G 1855        33
+ 49V F G FLAG=ST
+ 49V   G 2576        100
+ 49V F G FLAG=ST
+ 49V   G 3937        83
+ 49V F G FLAG=ST
+ 49V   G 4090        67
+ 49V F G FLAG=ST
+ 49V   L 4098      2 (LE 7/2-)
+ 49V X L XREF=JE
+ 49V F L FLAG=IJ
+ 49V   L 4129      2 (5/2)-
+ 49V X L XREF=EF
+ 49V  CL J         L(3HE,D)=3. NE 7/2- FROM DECAY TO 3/2+
+ 49V F L FLAG=I
+ 49V   G 3380        100
+ 49V F G FLAG=ST
+ 49V   L 4152      2
+ 49V X L XREF=EIK
+ 49V F L FLAG=I
+ 49V   L 4165      3                                                           ?
+ 49V X L XREF=J
+ 49V   L 4218      2 (3/2)-
+ 49V X L XREF=EFJ
+ 49V F L FLAG=IL
+ 49V   L 4253      2 1/2-,3/2-
+ 49V X L XREF=EFKJ(*)
+ 49V F L FLAG=I
+ 49V   G 2589        100
+ 49V F G FLAG=ST
+ 49V   G 2606        100
+ 49V F G FLAG=ST
+ 49V   L 4259      2 (3/2,5/2,7/2)
+ 49V X L XREF=EJ(*)
+ 49V F L FLAG=IJ
+ 49V   L 4270      2
+ 49V X L XREF=EJ(*)
+ 49V F L FLAG=I
+ 49V   L 4289      2 3/2+,5/2+
+ 49V X L XREF=EIJ(*)
+ 49V F L FLAG=DI
+ 49V   L 4316      11
+ 49V  CL E         UNWEIGHTED AV OF 4305 3 FROM (P,T) AND 4326 6 FROM (P,A)
+ 49V X L XREF=JK
+ 49V   L 4359      2
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   L 4373      2 1/2-,3/2-
+ 49V X L XREF=EFK
+ 49V F L FLAG=I
+ 49V   G 2064        60
+ 49V F G FLAG=ST
+ 49V   G 2138        60
+ 49V F G FLAG=ST
+ 49V   G 2712        100
+ 49V F G FLAG=ST
+ 49V   L 4397      2 5/2-,7/2-
+ 49V X L XREF=EIK
+ 49V F L FLAG=DI
+ 49V   L 4422      2
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   L 4436      6
+ 49V X L XREF=FK
+ 49V F L FLAG=K
+ 49V   L 4470      6
+ 49V X L XREF=K
+ 49V   L 4498      2 5/2(-),7/2(-)
+ 49V  CL J         G'S TO 3/2- AND 9/2-
+ 49V X L XREF=EK(*)
+ 49V F L FLAG=I
+ 49V   G 3343        43
+ 49V F G FLAG=ST
+ 49V   G 4345        100
+ 49V F G FLAG=ST
+ 49V   L 4502        1/2-,3/2-
+ 49V X L XREF=FIK(*)
+ 49V F L FLAG=M
+ 49V   L 4540      2
+ 49V X L XREF=EIK
+ 49V F L FLAG=I
+ 49V   L 4590      2
+ 49V X L XREF=EFK
+ 49V F L FLAG=I
+ 49V   G 2355        100
+ 49V 3 G FL=2234.0
+ 49V F G FLAG=ST
+ 49V   L 4599
+ 49V X L XREF=F
+ 49V   L 4635      2 (5/2)-
+ 49V  CL J         L(3HE,D)=3. |=7/2- FROM ^D,E2 G FROM (1/2-) RES
+ 49V X L XREF=EFIK
+ 49V F L FLAG=I
+ 49V   G 4548        100
+ 49V F G FLAG=ST
+ 49V   G 4639        60
+ 49V F G FLAG=ST
+ 49V   L 4662      6 3/2+,5/2+
+ 49V X L XREF=IK
+ 49V F L FLAG=DK
+ 49V   L 4740      2 3/2+,5/2+
+ 49V X L XREF=EIK
+ 49V F L FLAG=DI
+ 49V   L 4796      6 (GE 11/2)
+ 49V  CL J         FROM LARGE BACK-ANGLE YIELDS IN (P,A)
+ 49V X L XREF=K
+ 49V   L 4840      2 1/2-,3/2-
+ 49V X L XREF=EFIK
+ 49V F L FLAG=I
+ 49V   L 4863      6
+ 49V X L XREF=IK
+ 49V F L FLAG=K
+ 49V   L 4885      6
+ 49V X L XREF=FK
+ 49V F L FLAG=K
+ 49V   L 4947      2 1/2-,3/2-
+ 49V X L XREF=EFK(*)
+ 49V F L FLAG=I
+ 49V   G 4853        100
+ 49V F G FLAG=ST
+ 49V   L 4959        1/2+
+ 49V X L XREF=IK(*)
+ 49V F L FLAG=D
+ 49V   L 4988      6
+ 49V X L XREF=K
+ 49V   L 5010      6 5/2-,7/2-
+ 49V X L XREF=FIK
+ 49V F L FLAG=DK
+ 49V   L 5042      2
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   L 5057        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 5072        3/2+,5/2+
+ 49V X L XREF=I
+ 49V F L FLAG=D
+ 49V   L 5134      6
+ 49V X L XREF=FIK
+ 49V F L FLAG=K
+ 49V   L 5212      2 1/2-,3/2-
+ 49V X L XREF=EFK
+ 49V F L FLAG=I
+ 49V   G 2903        100
+ 49V F G FLAG=ST
+ 49V   L 5230      2
+ 49V X L XREF=EI
+ 49V F L FLAG=I
+ 49V   L 5257        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 5292      6 1/2+
+ 49V X L XREF=IK
+ 49V F L FLAG=DK
+ 49V   L 5347      6 (3/2+,5/2+)
+ 49V X L XREF=IK
+ 49V F L FLAG=DK
+ 49V   L 5387      6 1/2-,3/2-
+ 49V X L XREF=FIK
+ 49V F L FLAG=DK
+ 49V   L 5411      6 5/2-,7/2-
+ 49V X L XREF=FK
+ 49V F L FLAG=K
+ 49V   L 5522        1/2+
+ 49V X L XREF=I
+ 49V F L FLAG=D
+ 49V   L 5529.7    7 (21/2-)
+ 49V X L XREF=L
+ 49V F L FLAG=AN
+ 49V   G 1787      1 100       D
+ 49V  CG M         FROM RECOIL-G(THETA) IN (40CA,3PG)
+ 49V 3 G FL=3742.4
+ 49V F G FLAG=YZ
+ 49V   G 2204      1 43
+ 49V F G FL=3325.2
+ 49V F G FLAG=YZ
+ 49V   L 5554
+ 49V X L XREF=I
+ 49V   L 5597        1/2-,3/2-
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 5631        (3/2+,5/2+)                                               ?
+ 49V X L XREF=I
+ 49V F L FLAG=D
+ 49V   L 5676        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 5689.9    8 (23/2-)
+ 49V X L XREF=L
+ 49V F L FLAG=AN
+ 49V   G 160       1 2.7
+ 49V F G FLAG=YZ
+ 49V   G 1947      1 100       D,Q
+ 49V F G FL=3742.4
+ 49V F G FLAG=YZ4
+ 49V   L 5718        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 5826        5/2-,7/2-
+ 49V X L XREF=F
+ 49V   L 5889        1/2-,3/2-
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 5931        (3/2+,5/2+)                                               ?
+ 49V X L XREF=I
+ 49V F L FLAG=D
+ 49V   L 5947        5/2-,7/2-
+ 49V X L XREF=F
+ 49V   L 5987        1/2-,3/2-
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 6045        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 6058        (3/2+,5/2+)                                               ?
+ 49V X L XREF=I
+ 49V F L FLAG=D
+ 49V   L 6146        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 6184
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 6220        1/2-,3/2-
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 6258
+ 49V X L XREF=F
+ 49V   L 6286                                                                  ?
+ 49V X L XREF=I
+ 49V   L 6333        1/2-,3/2-
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 6368
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 6392
+ 49V X L XREF=IF(*)
+ 49V   L 6430
+ 49V X L XREF=IF(*)K(*)
+ 49V F L FLAG=OP
+ 49V   L 6474
+ 49V X L XREF=FIK(*)
+ 49V F L FLAG=MOP
+ 49V   L 6521
+ 49V X L XREF=FI
+ 49V F L FLAG=M
+ 49V   L 6555        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 6563        (3/2+,5/2+)                                               ?
+ 49V X L XREF=I
+ 49V F L FLAG=D
+ 49V   L 6603        1/2-,3/2-
+ 49V X L XREF=F
+ 49V   L 6661      30
+ 49V X L XREF=F
+ 49V   L 6683      30
+ 49V X L XREF=F
+ 49V   L 6711      30
+ 49V X L XREF=F
+ 49V   L 6816      30
+ 49V X L XREF=F
+ 49V   L 6844.9    8 (23/2-)
+ 49V X L XREF=L
+ 49V  CL J         DJ-1 ^D G FROM (25/2-) AND ^D G TO (23/2-). MEMBER OF
+ 49V 2CL NEGATIVE-PARITY SIDE BAND
+ 49V F L FLAG=G
+ 49V   G 1155      1 100       D
+ 49V F G FLAG=YZ1
+ 49V   G 1315      1 6.2
+ 49V F G FLAG=YZ
+ 49V   G 3102      1 12.5
+ 49V F G FL=3742.4
+ 49V F G FLAG=YZ
+ 49V   L 6856      30
+ 49V X L XREF=F
+ 49V   L 6892      30
+ 49V X L XREF=F
+ 49V   L 6943      30
+ 49V X L XREF=F
+ 49V   L 6978      30
+ 49V X L XREF=F
+ 49V   L 7054      30
+ 49V X L XREF=F
+ 49V   L 7099      30
+ 49V X L XREF=F
+ 49V   L 7137      30
+ 49V X L XREF=F
+ 49V   L 7240      30
+ 49V X L XREF=F
+ 49V   L 7290      30
+ 49V X L XREF=F
+ 49V   L 7365      30
+ 49V X L XREF=F
+ 49V   L 7430      30
+ 49V X L XREF=F
+ 49V   L 7478      30
+ 49V X L XREF=F
+ 49V   L 7554      30
+ 49V X L XREF=F
+ 49V   L 7605      30
+ 49V X L XREF=F
+ 49V   L 7645      30
+ 49V X L XREF=F
+ 49V   L 7745.0      3/2-              8.9 EV    30
+ 49V  CL J         3/2 FROM G(THETA) IN (P,G). E2+M3 G TO 7/2-
+ 49V X L XREF=EF(*)
+ 49V 2 L ISPIN=5/2$WIDTHP=8 EV 3$WIDTHG=0.88 EV 25$%P=90 4$%G=10 4
+ 49V F L FLAG=IO
+ 49V   G 3111        22.2      D,E2
+ 49V F G FLAG=M
+ 49V   G 3249        5.6       D,E2                                            ?
+ 49V F G FLAG=M
+ 49V   G 3620        27.8      D,E2
+ 49V F G FLAG=M
+ 49V   G 3658        94.4      D(+Q)     0.00    3
+ 49V   G 3741        11.1      D,E2
+ 49V F G FLAG=M
+ 49V   G 3830        55.6      D(+Q)     +0.01   2
+ 49V   G 3931        5.6       D,E2                                            ?
+ 49V F G FLAG=M
+ 49V   G 3999        50        D(+Q)     -0.01   2
+ 49V 3 G FL=3741
+ 49V   G 4355        11.1      D,E2
+ 49V 3 G FL=3388
+ 49V F G FLAG=M
+ 49V   G 5363        5.6       (E1(+M2))
+ 49V 3 G MR<0.10$BE1W=0.00062
+ 49V F G FL=2388.0
+ 49V S G CC=0.0016 5$KC=6.3E-6 16$LC=5.7E-7 14$MC=7.4E-8 19$NC+=0.0016 5
+ 49V S G NC=3.9E-9 10$IPC=0.0016 5
+ 49V F G FLAG=NR
+ 49V   G 5443        16.7      D+Q
+ 49V  CG MR        0.00 7 OR +3.9 10
+ 49V F G FL=2309.4
+ 49V   G 5486        5.6       D,E2
+ 49V 3 G FL=2265.3
+ 49V F G FLAG=M
+ 49V   G 5516        11.1      D+Q
+ 49V  CG MR        -0.11 23 OR -1.4 6
+ 49V F G FL=2234.0
+ 49V   G 6089        27.8      D+Q
+ 49V  CG MR        -0.23 4 OR +28 12
+ 49V F G FL=1661.40
+ 49V   G 6104        38.9      D+Q       +0.038  25
+ 49V   G 6995        5.6       (E1(+M2))                                       ?
+ 49V 3 G MR<0.19$BE1W=0.00028
+ 49V F G FLAG=MNR
+ 49V   G 7592        100       (M1+E2)   -0.023  14
+ 49V B G BM1W=0.017 5$BE2W=0.0004 +5-4
+ 49V F G FLAG=5
+ 49V   G 7654        72.2      (M1(+E2)) -0.01   2
+ 49V B G BM1W=0.012 4$BE2W=5.E-5 +20-5
+ 49V F G FLAG=5
+ 49V   G 7745        5.6        E2+M3    -0.02   1
+ 49V  CG M         Q+O FROM G(THETA) IN (P,G). NE M2+E3 FROM COMPARISON TO RUL
+ 49V B G BE2W=0.036 11$BM3W=1.7 +18-17
+ 49V   L 7750        3/2-              6.7 EV    20
+ 49V  CL J         3/2 FROM G(THETA) IN (P,G). E2(+M3) G TO 7/2-
+ 49V X L XREF=EF(*)
+ 49V 2 L ISPIN=5/2$WIDTHP=6 EV 2$WIDTHG=0.70 EV 20$%P=90 4$%G=10 4
+ 49V F L FLAG=IO
+ 49V   G 3116        6.7       D,E2
+ 49V F G FLAG=M
+ 49V   G 3627        6.7       D,E2
+ 49V F G FL=4129
+ 49V F G FLAG=M
+ 49V   G 3664        30        D(+Q)     +0.01   3
+ 49V   G 3746        33.3      (M1(+E2)) -0.01   2
+ 49V S G CC=0.000967 14$KC=9.96E-6 14$LC=9.00E-7 13$MC=1.179E-7 17
+ 49V S G NC+=0.000956 14
+ 49V S G NC=6.19E-9 9$IPC=0.000956 14
+ 49V B G BM1W=0.064 19$BE2W=0.0011 +44-11
+ 49V F G FLAG=5
+ 49V   G 3836        23.3      (M1(+E2)) -0.01   2
+ 49V S G CC=0.001000 14$KC=9.62E-6 14$LC=8.69E-7 13$MC=1.139E-7 16
+ 49V S G NC+=0.000990 14
+ 49V S G NC=5.98E-9 9$IPC=0.000989 14
+ 49V B G BM1W=0.041 12$BE2W=0.0007 +28-7
+ 49V F G FLAG=5
+ 49V   G 3993        6.7       D,E2
+ 49V F G FLAG=M
+ 49V   G 4005        30        (M1(+E2)) +0.01   2
+ 49V F G FL=3741
+ 49V S G CC=0.001060 15$KC=9.03E-6 13$LC=8.16E-7 12$MC=1.069E-7 15
+ 49V S G NC+=0.001050 15
+ 49V S G NC=5.61E-9 8$IPC=0.001050 15
+ 49V B G BM1W=0.047 14$BE2W=0.0007 +29-7
+ 49V F G FLAG=5
+ 49V   G 4343        10        D,E2
+ 49V F G FLAG=M
+ 49V   G 4360        6.7       D,E2
+ 49V F G FL=3388
+ 49V F G FLAG=M
+ 49V   G 5448        16.7      (M1+E2)   -0.09   6
+ 49V F G FL=2309.4
+ 49V S G CC=0.001480 21$KC=5.85E-6 9$LC=5.28E-7 8$MC=6.92E-8 10$NC+=0.001473 21
+ 49V S G NC=3.64E-9 5$IPC=0.001473 21
+ 49V B G BM1W=0.010 3$BE2W=0.007 +10-7
+ 49V F G FLAG=5
+ 49V   G 5491        3.3       D,E2
+ 49V F G FL=2265.3
+ 49V F G FLAG=M
+ 49V   G 6095        10        D+Q
+ 49V  CG MR        -0.32 7 OR -16 8
+ 49V F G FL=1661.40
+ 49V   G 6111        36.7      (E1(+M2)) +0.02   3
+ 49V  CG M         ^D(+Q) FROM G(THETA) IN (P,G). DPI=YES FROM LEVEL SCHEME
+ 49V F G FL=1646.43
+ 49V B G BE1W=0.00037 11$BM2W=0.018 +55-18
+ 49V   G 6235        3.3       D+Q
+ 49V   G 6611        3.3       (E1)
+ 49V B G BE1W=2.6E-5 8
+ 49V S G IPC=2.434E-3 34
+ 49V F G FLAG=R
+ 49V   G 7001        3.3       (E1(+M2)) +0.07   25
+ 49V  CG M         ^D(+Q) FROM G(THETA) IN (P,G). DPI=YES FROM LEVEL SCHEME
+ 49V B G BE1W=2.2E-5 7$BM2W=0.010 +72-10
+ 49V   G 7596        3.3       D+Q
+ 49V  CG MR        +0.13 15 OR +2.5 10
+ 49V   G 7660        100       (M1+E2)   +0.03   2
+ 49V B G BM1W=0.022 7$BE2W=0.0008 +12-8
+ 49V F G FLAG=5
+ 49V   G 7752        3.3       E2(+M3)   -0.03   38
+ 49V  CG M         Q(+O) FROM G(THETA) IN (P,G). NE M2 FROM COMPARISON TO RUL
+ 49V B G BE2W=0.029 9$BM3W=3 +76-3
+ 49V   L 7801.4    8 (25/2-)
+ 49V X L XREF=L
+ 49V F L FLAG=AN
+ 49V   G 956       1 88.9      D
+ 49V F G FL=6844.9
+ 49V F G FLAG=YZ1
+ 49V   G 2111      1 100       D
+ 49V F G FLAG=YZ1
+ 49V   G 2271      1 8.9
+ 49V F G FLAG=YZ
+ 49V   L 7838.7    21 (1/2-)
+ 49V X L XREF=EF
+ 49V F L FLAG=IQ
+ 49V   G 4098         9
+ 49V F G FL=3741
+ 49V   G 4451        21
+ 49V F G FL=3388
+ 49V   G 5574        12
+ 49V F G FL=2265.3
+ 49V   G 6177        47
+ 49V   G 6196        100
+ 49V   G 7090        26
+ 49V   G 7685        19
+ 49V   L 7910.2    21 (1/2-)
+ 49V X L XREF=EF
+ 49V F L FLAG=IQ
+ 49V   G 4522        29
+ 49V F G FL=3388
+ 49V   G 5600        62
+ 49V   G 5645        25
+ 49V F G FL=2265.3
+ 49V   G 5915        46
+ 49V   G 6248        62
+ 49V   G 6264        29
+ 49V F G FL=1646.43
+ 49V   G 7161        62
+ 49V   G 7756        100
+ 49V   L 7943.5    21 (3/2-)
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=EF
+ 49V F L FLAG=IOR
+ 49V   G 3690         6
+ 49V   G 3725         6
+ 49V   G 4031         6
+ 49V   G 4127         6
+ 49V   G 4265        28
+ 49V   G 4412         6
+ 49V F G FL=3531
+ 49V   G 4555        17
+ 49V F G FL=3388
+ 49V   G 5132        17
+ 49V F G FL=2810.9
+ 49V   G 5633        50
+ 49V   G 5678        100
+ 49V F G FL=2265.3
+ 49V   G 5708        11
+ 49V   G 5948        28
+ 49V   G 6281        83
+ 49V   G 6802        22
+ 49V   G 7194        11
+ 49V   G 7789        72
+ 49V   G 7851        78
+ 49V   G 7942        11
+ 49V   L 8013.0    21 (3/2-)
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=EF
+ 49V F L FLAG=IOR
+ 49V   G 4789         2
+ 49V   G 5703         6
+ 49V   G 6351         6
+ 49V   G 6872         5
+ 49V   G 7264        100
+ 49V   G 7859        15
+ 49V   G 7921         5
+ 49V   G 8012        23
+ 49V   L 8058.1    21 (3/2,5/2+)
+ 49V  CL J         3/2,5/2 FROM G'S TO 3/2-, 3/2+, 5/2-, AND 5/2+ ASSUMING
+ 49V 2CL ^D,E2; 3/2,5/2+ FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=I
+ 49V   G 4317        35
+ 49V F G FL=3741
+ 49V   G 4670         9
+ 49V F G FL=3388
+ 49V   G 4799         4
+ 49V   G 4816        13
+ 49V F G FL=3242
+ 49V   G 4834         4
+ 49V   G 5670         9
+ 49V   G 5748        17
+ 49V   G 5793        17
+ 49V F G FL=2265.3
+ 49V   G 5823        43
+ 49V   G 6063         9
+ 49V   G 6412        26
+ 49V F G FL=1646.43
+ 49V   G 6543        57
+ 49V   G 6917        43
+ 49V   G 7309        30
+ 49V   G 7904        100
+ 49V   G 7966        17
+ 49V   L 8071.8    21 (5/2)
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=IOS
+ 49V   G 5806        22
+ 49V F G FL=2265.3
+ 49V   G 6428        37
+ 49V F G FL=1643.19
+ 49V   G 7322         5
+ 49V   G 7917        100
+ 49V   G 7979        32
+ 49V   G 8070        49
+ 49V   L 8092.6      (1/2-)            53 EV     15
+ 49V X L XREF=EF
+ 49V  CL J         1/2-,3/2,5/2+ FROM ^D,E2 G'S TO 5/2- AND 1/2+. (1/2) FROM G
+ 49V 2CL ISOTROPY TO 3/2-
+ 49V 2 L ISPIN=5/2$WIDTHP=50 EV 15$WIDTHG=2.5 EV 7$%P=95.2 19$%G=4.8 19
+ 49V F L FLAG=IO
+ 49V   G 3456        3.1       (E2(+M3))
+ 49V 3 G MR<0.0012$BE2W=12
+ 49V S G CC=0.00074 25$KC=1.7E-5 6$LC=1.5E-6 5$MC=2.0E-7 7$NC+=0.0007 3
+ 49V S G NC=1.1E-8 4$IPC=0.0007 3
+ 49V F G FLAG=NQ
+ 49V   G 3718        7.8       D,E2
+ 49V F G FLAG=M
+ 49V   G 4089        4.7       D,E2
+ 49V F G FLAG=M
+ 49V   G 4179        4.7       D,E2
+ 49V F G FLAG=M
+ 49V   G 4249        6.2       D,E2
+ 49V F G FLAG=M
+ 49V   G 4349        6.2       D,E2
+ 49V F G FL=3741
+ 49V F G FLAG=M
+ 49V   G 4851        1.6       D,E2
+ 49V F G FL=3242
+ 49V F G FLAG=M
+ 49V   G 4866        6.2       D,E2
+ 49V F G FLAG=M
+ 49V   G 6429        1.6       D,E2
+ 49V F G FLAG=M
+ 49V   G 6447        9.4       (E1)
+ 49V B G BE1W=0.00063 18
+ 49V S G IPC=2.401E-3 34
+ 49V F G FLAG=R
+ 49V   G 7341        1.6       (E1)
+ 49V B G BE1W=7.2E-5 21
+ 49V S G IPC=2.591E-3 37
+ 49V F G FLAG=R
+ 49V   G 7936        100       D,E2
+ 49V  CG M         FROM COMPARISON TO RUL. G(THETA) ISOTROPIC IN (P,G)
+ 49V   G 7999        1.6       (E2+(M3))
+ 49V 3 G MR<0.032$BE2W=0.092
+ 49V F G FLAG=NQ
+ 49V   L 8104.2      3/2(-),5/2
+ 49V  CL J         3/2,5/2 FROM G'S TO 5/2-, 3/2-, 3/2+, AND 5/2+. NE 3/2+ FROM
+ 49V 2CL POSSIBLE G TO 7/2-. (1/2) FROM ISOTROPIC PRIMARY G'S IN (P,G)
+ 49V 3CL (1972KI06) DISCREPANT
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 4263        24
+ 49V   G 4716        12
+ 49V F G FL=3388
+ 49V   G 4880        16
+ 49V   G 5716        16
+ 49V   G 5796        28
+ 49V   G 6443        28
+ 49V   G 6460        100
+ 49V   G 6589        76
+ 49V   G 6963        16
+ 49V   G 7355        36
+ 49V   G 7950        16
+ 49V   G 8012        8
+ 49V   G 8103        4                                                         ?
+ 49V   L 8117.5      3/2
+ 49V X L XREF=E
+ 49V  CL J         FROM G(THETA)'S IN (P,G)
+ 49V 4 L WIDTHG=0.33 EV 9
+ 49V F L FLAG=I
+ 49V   G 3743        13.6      D,E2
+ 49V F G FLAG=M
+ 49V   G 4114        18.2      D,E2
+ 49V F G FLAG=M
+ 49V   G 4728        22.7      D,E2
+ 49V F G FL=3388
+ 49V F G FLAG=M
+ 49V   G 4892        13.6      D,E2
+ 49V F G FLAG=M
+ 49V   G 5730        13.6      D,E2
+ 49V F G FLAG=M
+ 49V   G 5808        13.6      D,E2
+ 49V F G FLAG=M
+ 49V   G 5853        13.6      D,E2
+ 49V F G FL=2265.3
+ 49V F G FLAG=M
+ 49V   G 5884        13.6      D,E2
+ 49V F G FLAG=M
+ 49V   G 6121        59.1      D+Q
+ 49V 3 G WIDTHG=0.05 EV
+ 49V  CG MR        -0.31 5 OR +4.6 10
+ 49V   G 6456        22.7      D+Q
+ 49V 3 G WIDTHG=0.02 EV
+ 49V  CG MR        +0.20 10 OR -19 10
+ 49V   G 6473        31.8      D+Q
+ 49V 3 G WIDTHG=0.02 EV
+ 49V  CG MR        +0.19 6 OR -2.9 5
+ 49V   G 6601        9.1       D,E2
+ 49V F G FLAG=M
+ 49V   G 6978        45.4      D+Q       -0.11   8
+ 49V 3 G WIDTHG=0.03 EV
+ 49V   G 7370        36.4      D+Q       +0.10   4
+ 49V 4 G WIDTHG=0.03 EV
+ 49V   G 7966        100       D+Q
+ 49V 4 G WIDTHG=0.05 EV
+ 49V  CG MR        +0.07 7 OR +3.5 15
+ 49V   G 8027        18.2      D(+Q)     +0.14   15
+ 49V 3 G WIDTHG=0.009 EV
+ 49V   G 8118        9.1       Q+O       -0.29   15
+ 49V   L 8131.5    21 (3/2-)
+ 49V X L XREF=E
+ 49V F L FLAG=IR
+ 49V   G 4528        8.4
+ 49V F G FL=3603
+ 49V   G 4600        12
+ 49V F G FL=3531
+ 49V   G 4743        8.4
+ 49V F G FL=3388
+ 49V   G 4889        2.4
+ 49V F G FL=3242
+ 49V   G 5743        11
+ 49V   G 6136        14
+ 49V   G 6469        20
+ 49V   G 6488        29
+ 49V   G 6616        24
+ 49V   G 6990        100
+ 49V   G 7382        14
+ 49V   G 7977        20
+ 49V   G 8039        6.0
+ 49V   G 8130        2.4
+ 49V   L 8192      30
+ 49V X L XREF=F
+ 49V   L 8246      30
+ 49V X L XREF=F
+ 49V   L 8290.3      3/2(-)
+ 49V X L XREF=EF
+ 49V  CL J         J FROM G(THETA)'S IN (P,G); PI=- BASED ON GREATER PROBABILITY
+ 49V 2CL FOR P-WAVE PENETRATION AND MR NE 0 TO 91 AND 153 STATES
+ 49V F L FLAG=I
+ 49V   G 4287        5.1
+ 49V   G 4548        5.1
+ 49V F G FL=3741
+ 49V   G 5980        12.8
+ 49V   G 6295        5.1       D+Q
+ 49V  CG MR        +0.34 25; -5.1 30
+ 49V   G 6627        5.1       D+Q
+ 49V  CG MR        -0.07 7; +5.7 30
+ 49V   G 6645        20.5      D+Q
+ 49V  CG MR        +0.20 8; -2.3 8 (J{-f}=1/2)
+ 49V   G 6773        2.6
+ 49V   G 7148        51.3
+ 49V   G 7540        100       D+Q
+ 49V  CG MR        +0.015 30; -4.2 8
+ 49V   G 8137        18        D+Q
+ 49V  CG MR        +0.54 15; +4.1 20
+ 49V   G 8197        7.7       D+Q
+ 49V  CG MR        +0.12 20; +2.9 10
+ 49V   G 8288        10.3      Q+O
+ 49V  CG MR        -0.07 7; +1.7 8
+ 49V   L 8371      30
+ 49V X L XREF=F
+ 49V   L 8405      30
+ 49V X L XREF=F
+ 49V   L 8416.1    9 (27/2-)
+ 49V X L XREF=L
+ 49V  CL J         DJ=1 ^D G TO 25/2- AND DJ=2 Q G TO 23/2-
+ 49V F L FLAG=AN
+ 49V   G 613       1 100       D
+ 49V F G FLAG=YZ1
+ 49V   G 5690      1 45        (Q)
+ 49V F G FLAG=YZ4
+ 49V   L 8444      30
+ 49V X L XREF=F
+ 49V   L 8525.3    21 (5/2)
+ 49V X L XREF=EF
+ 49V F L FLAG=IT
+ 49V   G 4566        14
+ 49V   G 4923        14
+ 49V   G 6118         3
+ 49V   G 6531         5
+ 49V   G 6863        57
+ 49V   G 6922         3
+ 49V   G 7010         5
+ 49V   G 7385        24
+ 49V   G 7777        19
+ 49V   G 8372        24
+ 49V   G 8434        100
+ 49V   G 8525         3
+ 49V   L 8628.2    21 (3/2-)
+ 49V X L XREF=EF
+ 49V F L FLAG=IR
+ 49V   G 5817        26
+ 49V F G FL=2810.9
+ 49V   G 6363        15
+ 49V F G FL=2265.3
+ 49V   G 6633        37
+ 49V   G 6965        22
+ 49V   G 6981        48
+ 49V   G 7487        100
+ 49V   G 7879        100
+ 49V   G 8474        15
+ 49V   G 8536         4
+ 49V   G 8627         4
+ 49V   L 8633.1    21 (5/2)
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=IOT
+ 49V   G 4504        17
+ 49V   G 4673        12
+ 49V   G 5117         8
+ 49V   G 5245         8
+ 49V F G FL=3388
+ 49V   G 6245         8
+ 49V   G 6323        29
+ 49V   G 6398        12
+ 49V   G 6450        17
+ 49V   G 6638        12
+ 49V   G 6970        12
+ 49V   G 6989        17
+ 49V F G FL=1643.19
+ 49V   G 7029        12
+ 49V   G 7117        42
+ 49V   G 7492        38
+ 49V   G 7884        29
+ 49V   G 8479        100
+ 49V   G 8541        38
+ 49V   G 8632         4
+ 49V   L 8640.9    21 (3/2-)
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=IR
+ 49V   G 4422         3
+ 49V   G 4639         3
+ 49V   G 4680         3
+ 49V   G 4728         6
+ 49V   G 4799         3
+ 49V   G 4899         3
+ 49V F G FL=3741
+ 49V   G 4919         9
+ 49V   G 5002         3
+ 49V   G 5401         6
+ 49V F G FL=3239.5
+ 49V   G 5623         3
+ 49V   G 5834         3
+ 49V   G 6330         3
+ 49V   G 6996        17
+ 49V F G FL=1643.19
+ 49V   G 7124        11
+ 49V   G 7891        66
+ 49V   G 8486        100
+ 49V   G 8548        43
+ 49V   G 8639         3
+ 49V   L 8642.9    21(3/2-,5/2)
+ 49V  CL J         3/2-,5/2 FROM G'S TO 3/2-, 3/2+, AND 7/2- ASSUMING
+ 49V 2CL ^D,E2; 3/2,5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=I
+ 49V   G 4383         6
+ 49V   G 4389         6
+ 49V   G 4640        11
+ 49V   G 4682         6
+ 49V   G 5254         6
+ 49V F G FL=3388
+ 49V   G 5317         6
+ 49V F G FL=3325
+ 49V   G 5400         6
+ 49V F G FL=3242
+ 49V   G 5508         6
+ 49V F G FL=3134.0
+ 49V   G 5625        22
+ 49V   G 5831         6
+ 49V F G FL=2810.9
+ 49V   G 6254         6
+ 49V   G 6332         6
+ 49V   G 6377         6
+ 49V F G FL=2265.3
+ 49V   G 6407        17
+ 49V   G 6647        17
+ 49V   G 6979        56
+ 49V   G 6995        39
+ 49V   G 7126        17
+ 49V   G 7501        50
+ 49V   G 7893        100
+ 49V   G 8488        44
+ 49V   G 8550        100
+ 49V   G 8641        11
+ 49V   L 8682.0    21 (5/2)
+ 49V X L XREF=EF
+ 49V F L FLAG=IS
+ 49V   G 5011         2
+ 49V   G 5044         2
+ 49V   G 5357         5
+ 49V F G FL=3325
+ 49V   G 5458         2
+ 49V   G 6274         2
+ 49V   G 6294         2
+ 49V   G 6417         5
+ 49V F G FL=2265.3
+ 49V   G 6447         2
+ 49V   G 6687         5
+ 49V   G 7019         9
+ 49V   G 7035         7
+ 49V F G FL=1646.43
+ 49V   G 7166        11
+ 49V   G 7541         2
+ 49V   G 7933         9
+ 49V   G 8528        100
+ 49V   G 8590         7
+ 49V   G 8681        50
+ 49V   L 8784.9    21 (5/2)
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=E
+ 49V F L FLAG=IOS
+ 49V   G 6377         6
+ 49V   G 6397         6
+ 49V   G 6789        16
+ 49V   G 7122        29
+ 49V   G 7269        16
+ 49V   G 7644        16
+ 49V   G 8036        26
+ 49V   G 8631        19
+ 49V   G 8693        71
+ 49V   G 8784        100
+ 49V   L 8788.8    21 (5/2-)
+ 49V  CL J         5/2- FROM G'S TO 3/2-, 3/2+, AND 9/2- ASSUMING
+ 49V 2CL ^D,E2; 5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=E
+ 49V F L FLAG=IO
+ 49V   G 5401         8
+ 49V F G FL=3388
+ 49V   G 5547         3
+ 49V F G FL=3242
+ 49V   G 5565         5
+ 49V   G 5772         8
+ 49V   G 6109         5
+ 49V   G 6381         5
+ 49V   G 6401         5
+ 49V   G 6479         5
+ 49V   G 6606         5
+ 49V   G 7185         3
+ 49V   G 7273         5
+ 49V   G 7633        11
+ 49V   G 7648         5
+ 49V   G 8040        16
+ 49V   G 8635        100
+ 49V   G 8697        38
+ 49V   G 8788        32
+ 49V   L 8851.5    21 (5/2-,7/2-)
+ 49V  CL J         5/2-,7/2- FROM G'S TO 3/2- AND 9/2- ASSUMING
+ 49V 2CL ^D,E2; 5/2,7/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=I
+ 49V   G 4723         6
+ 49V   G 4940         6
+ 49V   G 5464        16
+ 49V F G FL=3388
+ 49V   G 5628         6
+ 49V   G 5835         9
+ 49V   G 6046        12
+ 49V   G 6444         6
+ 49V   G 6464        25
+ 49V   G 6617        25
+ 49V   G 7248         3
+ 49V   G 7336         9
+ 49V   G 7696         3
+ 49V   G 7711        41
+ 49V   G 8698        100
+ 49V   G 8760         3
+ 49V   G 8851        22
+ 49V   L 8867.2    21 (5/2)
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=IT
+ 49V   G 4955         9
+ 49V   G 5026         9
+ 49V   G 5126         9
+ 49V F G FL=3741
+ 49V   G 5229         4
+ 49V   G 5403         4
+ 49V   G 5479         4
+ 49V F G FL=3388
+ 49V   G 5625         4
+ 49V F G FL=3242
+ 49V   G 5733        13
+ 49V F G FL=3134.0
+ 49V   G 5850         4
+ 49V   G 6459         4
+ 49V   G 6479         4
+ 49V   G 6557        22
+ 49V   G 6602         9
+ 49V F G FL=2265.3
+ 49V   G 6632         9
+ 49V   G 6871         4
+ 49V   G 7204        48
+ 49V   G 7263         4
+ 49V   G 7351        17
+ 49V   G 7726        35
+ 49V   G 8118        52
+ 49V   G 8713        100
+ 49V   G 8775        22
+ 49V   G 8866        35
+ 49V   L 8877.0    21 (5/2)
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=IOS
+ 49V   G 5489         3
+ 49V F G FL=3388
+ 49V   G 5552         3
+ 49V F G FL=3325
+ 49V   G 5638         3
+ 49V F G FL=3239.5
+ 49V   G 5653         3
+ 49V   G 5743         3
+ 49V F G FL=3134.0
+ 49V   G 5860         3
+ 49V   G 6066         3
+ 49V F G FL=2810.9
+ 49V   G 6489        12
+ 49V   G 6567         3
+ 49V   G 6642        12
+ 49V   G 7214         6
+ 49V   G 7361         6
+ 49V   G 7736        64
+ 49V   G 8128        33
+ 49V   G 8723        18
+ 49V   G 8785        27
+ 49V   G 8876        100
+ 49V   L 8880.9    21 (5/2)
+ 49V  CL J         (5/2) FROM G'S TO 3/2-, 3/2(+), 7/2-, AND 7/2+ ASSUMING
+ 49V 2CL ^D,E2; 5/2,7/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=I
+ 49V   G 4879         4
+ 49V   G 4969         4
+ 49V   G 5040         4
+ 49V   G 5065         4
+ 49V   G 5187         4
+ 49V   G 5417        13
+ 49V   G 5493         9
+ 49V F G FL=3388
+ 49V   G 5864        22
+ 49V   G 6473         4
+ 49V   G 6571        13
+ 49V   G 6646        13
+ 49V   G 6698        22
+ 49V   G 6885        22
+ 49V   G 7234        17
+ 49V F G FL=1646.43
+ 49V   G 7277         9
+ 49V   G 7365        13
+ 49V   G 7740        13
+ 49V   G 8789        100
+ 49V   G 8880        52
+ 49V   L 8890.7    21 (3/2-)
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=IR
+ 49V   G 4256         7
+ 49V   G 4518         7
+ 49V   G 4621         7
+ 49V   G 4638         3
+ 49V   G 4793         3
+ 49V   G 4931         3
+ 49V   G 5050         3
+ 49V   G 5075         3
+ 49V   G 5150        10
+ 49V F G FL=3741
+ 49V   G 5197         3
+ 49V   G 5503         7
+ 49V F G FL=3388
+ 49V   G 6581        10
+ 49V   G 6626        13
+ 49V F G FL=2265.3
+ 49V   G 6656         7
+ 49V   G 6895        10
+ 49V   G 7228        13
+ 49V   G 7244        43
+ 49V F G FL=1646.43
+ 49V   G 8142        100
+ 49V   G 8737        50
+ 49V   G 8799        23
+ 49V   G 8890         7
+ 49V   L 8893.6    21 (5/2-)
+ 49V  CL J         5/2- FROM G'S TO 3/2-, 3/2+, AND 9/2- ASSUMING
+ 49V 2CL ^D,E2; 5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V 3 L ISPIN=5/2
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=IO
+ 49V   G 4496         3
+ 49V   G 4634         3
+ 49V   G 4764         3
+ 49V   G 4981         6
+ 49V   G 5152         3
+ 49V F G FL=3741
+ 49V   G 5255         3
+ 49V   G 6082         3
+ 49V F G FL=2810.9
+ 49V   G 6087         3
+ 49V   G 6583         6
+ 49V   G 6628         9
+ 49V F G FL=2265.3
+ 49V   G 6658        18
+ 49V   G 6710         6
+ 49V   G 6897         9
+ 49V   G 7230        12
+ 49V   G 7289         9
+ 49V   G 7377         9
+ 49V   G 7737         3
+ 49V   G 7752        18
+ 49V   G 8144        12
+ 49V   G 8739        21
+ 49V   G 8801        38
+ 49V   G 8892        100
+ 49V   L 8895.6    21 (5/2)
+ 49V  CL J         5/2 FROM G'S TO 3/2-, 3/2+, 7/2-, AND 7/2+ ASSUMING
+ 49V 2CL ^D,E2; 3/2,5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=EF(*)
+ 49V F L FLAG=I
+ 49V   G 4636         7
+ 49V   G 5507         7
+ 49V F G FL=3388
+ 49V   G 5653         7
+ 49V F G FL=3242
+ 49V   G 6630        10
+ 49V F G FL=2265.3
+ 49V   G 6899         7
+ 49V   G 7232        31
+ 49V   G 7291         7
+ 49V   G 7379        14
+ 49V   G 7754        41
+ 49V   G 8146        100
+ 49V   G 8741        59
+ 49V   G 8803        41
+ 49V   G 8894        14
+ 49V   L 8902.5    21 (5/2)
+ 49V 3 L ISPIN=(5/2)
+ 49V X L XREF=EF(*8880,*8915)
+ 49V F L FLAG=IOSU
+ 49V   G 4614         5
+ 49V   G 5664        20
+ 49V F G FL=3239.5
+ 49V   G 5886        10
+ 49V   G 6593        15
+ 49V   G 6668        30
+ 49V   G 6907        20
+ 49V   G 7256        10
+ 49V F G FL=1646.43
+ 49V   G 7259        35
+ 49V   G 7387        10
+ 49V   G 7762        30
+ 49V   G 8154        65
+ 49V   G 8749        95
+ 49V   G 8811        55
+ 49V   G 8902        100
+ 49V   L 8912.2    21 (5/2)
+ 49V 3 L ISPIN=(5/2)
+ 49V X L XREF=EF(*8880,*8915)
+ 49V F L FLAG=IOSU
+ 49V   G 4515         5
+ 49V   G 4783         3
+ 49V   G 5000         5
+ 49V   G 5218         3
+ 49V   G 5309         3
+ 49V   G 5524         3
+ 49V F G FL=3388
+ 49V   G 5673         3
+ 49V F G FL=3239.5
+ 49V   G 6101        10
+ 49V F G FL=2810.9
+ 49V   G 6504         5
+ 49V   G 6602         5
+ 49V   G 6647         5
+ 49V F G FL=2265.3
+ 49V   G 6677         8
+ 49V   G 6916         8
+ 49V   G 7249         8
+ 49V   G 7265         3
+ 49V   G 7396         3
+ 49V   G 7771         8
+ 49V   G 8163        13
+ 49V   G 8758        21
+ 49V   G 8820        49
+ 49V   G 8911        100
+ 49V   L 8921.1    21 (5/2+)
+ 49V X L XREF=E
+ 49V F L FLAG=IV
+ 49V   G 6612        42
+ 49V   G 6739        16
+ 49V F G FL=2182.0
+ 49V   G 6743        16
+ 49V   G 6926        21
+ 49V   G 7275        42
+ 49V F G FL=1646.43
+ 49V   G 7318        53
+ 49V   G 7406        21
+ 49V   G 7781        16
+ 49V   G 8173        42
+ 49V   G 8768        100
+ 49V   G 8831        68
+ 49V   G 8921        89
+ 49V   L 8925.0    21 (7/2-)
+ 49V  CL J         5/2,7/2- FROM G'S TO 3/2-, 7/2-, AND 7/2+ ASSUMING
+ 49V 2CL ^D,E2; 7/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 4290         2
+ 49V   G 4890         2
+ 49V   G 5143         4
+ 49V   G 5537         4
+ 49V F G FL=3388
+ 49V   G 6690         4
+ 49V   G 7262         4
+ 49V   G 7321        15
+ 49V   G 7409         4
+ 49V   G 7784         6
+ 49V   G 8771        49
+ 49V   G 8833        13
+ 49V   G 8924        100
+ 49V   L 8927.9    21 (5/2)
+ 49V X L XREF=EF(*8915)
+ 49V F L FLAG=IOTU
+ 49V   G 5540        22
+ 49V F G FL=3388
+ 49V   G 5911        33
+ 49V   G 6618        22
+ 49V   G 6693        39
+ 49V   G 6932        11
+ 49V   G 7265        56
+ 49V   G 7281        83
+ 49V F G FL=1646.43
+ 49V   G 7324        11
+ 49V   G 7412        11
+ 49V   G 7787        56
+ 49V   G 8179        22
+ 49V   G 8774        50
+ 49V   G 8836        39
+ 49V   G 8927        100
+ 49V   L 8942.6    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 5249        14
+ 49V   G 5926        10
+ 49V   G 6555        14
+ 49V   G 6633        29
+ 49V   G 6708         5
+ 49V   G 6947        14
+ 49V   G 7280        62
+ 49V   G 7296        62
+ 49V F G FL=1646.43
+ 49V   G 7339        14
+ 49V   G 7427        14
+ 49V   G 7802        10
+ 49V   G 8194        29
+ 49V   G 8789        48
+ 49V   G 8851        52
+ 49V   G 8942        100
+ 49V   L 8945      25(1/2+)
+ 49V X L XREF=K
+ 49V 2 L ISPIN=(5/2)
+ 49V  CL J,ISPIN   FROM AGREEMENT IN EXPECTED ENERGY FOR IAS(49TI 2504, 1/2+)
+ 49V 2CL AND SIMPLE SENIORITY ESTIMATES IN (P,A)
+ 49V F L FLAG=O
+ 49V   L 8965.1    21 (5/2+)
+ 49V X L XREF=E
+ 49V F L FLAG=IV
+ 49V   G 4712         4
+ 49V   G 4747         4
+ 49V   G 4877         4
+ 49V   G 5005         8
+ 49V   G 5038         8
+ 49V   G 5053         8
+ 49V   G 5149         8
+ 49V   G 5224        17
+ 49V F G FL=3741
+ 49V   G 5577        12
+ 49V F G FL=3388
+ 49V   G 5741         4
+ 49V   G 5831         8
+ 49V F G FL=3134.0
+ 49V   G 5948        12
+ 49V   G 6285         8
+ 49V   G 6557         8
+ 49V   G 6785         8
+ 49V F G FL=2178.3
+ 49V   G 7449        38
+ 49V   G 7824        100
+ 49V   G 8216        42
+ 49V   G 8811        42
+ 49V   G 8873        50
+ 49V   G 8964        21
+ 49V   L 8998.5    21 (1/2-)
+ 49V  CL J         1/2-,3/2,5/2 FROM G'S TO 3/2-, 3/2+, AND 5/2- ASSUMING
+ 49V 2CL ^D,E2; 1/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 6733        27
+ 49V F G FL=2265.3
+ 49V   G 7351        11
+ 49V   G 8249        19
+ 49V   G 8844        100
+ 49V   L 9008.2    21 (5/2+)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 4920         6
+ 49V   G 5006         9
+ 49V   G 5096        14
+ 49V   G 5237         6
+ 49V   G 5267         9
+ 49V F G FL=3741
+ 49V   G 5330         9
+ 49V   G 5337         9
+ 49V   G 5666         9
+ 49V F G FL=3342
+ 49V   G 5991        11
+ 49V   G 6600         6
+ 49V   G 6620        29
+ 49V   G 6698        11
+ 49V   G 7012        14
+ 49V   G 7361         3
+ 49V   G 7404         3
+ 49V   G 7867        14
+ 49V   G 8259        14
+ 49V   G 8854        100
+ 49V   G 8916         9
+ 49V   G 9007         9
+ 49V   L 9029.8    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 4490         4
+ 49V   G 5359         2
+ 49V   G 5427         2
+ 49V   G 5642         2
+ 49V F G FL=3388
+ 49V   G 5791         9
+ 49V F G FL=3239.5
+ 49V   G 5896         2
+ 49V F G FL=3134.0
+ 49V   G 6013         7
+ 49V   G 6622         2
+ 49V   G 6642         4
+ 49V   G 6720         2
+ 49V   G 6794         7
+ 49V   G 7034        11
+ 49V   G 7367         7
+ 49V   G 7386        16
+ 49V F G FL=1643.19
+ 49V   G 7426         2
+ 49V   G 7889         4
+ 49V   G 8281         7
+ 49V   G 8876        11
+ 49V   G 8938         9
+ 49V   G 9029        100
+ 49V   L 9037.6    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IS
+ 49V   G 7897        96
+ 49V   G 8289        22
+ 49V   G 8884        93
+ 49V   G 8946        100
+ 49V   G 9037        59
+ 49V   L 9044.5    21 (7/2-)
+ 49V  CL J         3/2-,5/2,7/2- FROM G'S TO 3/2- AND 7/2- ASSUMING
+ 49V 2CL ARE ^D,E2; 7/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 5084        13
+ 49V   G 5132        13
+ 49V   G 5528        13
+ 49V F G FL=3516
+ 49V   G 5785        25
+ 49V   G 6373        19                                                     &  ?
+ 49V F G FL=2671.3
+ 49V   G 6373        19                                                     &  ?
+ 49V F G FL=2671.0
+ 49V   G 6734        69
+ 49V   G 6808        44
+ 49V   G 6860        69
+ 49V   G 7528        19
+ 49V   G 7903        81
+ 49V   G 8890        94
+ 49V   G 8952        69
+ 49V   G 9043        100
+ 49V   L 9056.2    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IS
+ 49V   G 6747        23
+ 49V   G 7061        20
+ 49V   G 7394        10
+ 49V   G 7541        10
+ 49V   G 7916         7
+ 49V   G 8308        27
+ 49V   G 8903        100
+ 49V   G 8965        53
+ 49V   G 9056        83
+ 49V   L 9071.9    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 5551        14
+ 49V F G FL=3516
+ 49V   G 5684         5
+ 49V F G FL=3388
+ 49V   G 6055        10
+ 49V   G 6261         5
+ 49V F G FL=2810.9
+ 49V   G 6684        10
+ 49V   G 6761        48
+ 49V   G 6836         5
+ 49V   G 6888        10
+ 49V   G 7076        19
+ 49V   G 7409        24
+ 49V   G 7425        29
+ 49V F G FL=1646.43
+ 49V   G 7468        10
+ 49V   G 7556        10
+ 49V   G 7931        19
+ 49V   G 8323        24
+ 49V   G 8918        81
+ 49V   G 8980        100
+ 49V   G 9071        57
+ 49V   L 9075.8    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 5116         5
+ 49V   G 5164        11
+ 49V   G 5355         5
+ 49V   G 5382         5
+ 49V   G 5751        11
+ 49V F G FL=3325
+ 49V   G 6059        16
+ 49V   G 6668        11
+ 49V   G 6765        32
+ 49V   G 6892        11
+ 49V   G 7080        32
+ 49V   G 7413        32
+ 49V   G 7432        32
+ 49V F G FL=1643.19
+ 49V   G 7472        26
+ 49V   G 7560        37
+ 49V   G 7935        37
+ 49V   G 8327        11
+ 49V   G 8922        53
+ 49V   G 8984        63
+ 49V   G 9075        100
+ 49V   L 9078.8    21 (3/2-)
+ 49V X L XREF=E
+ 49V F L FLAG=IR
+ 49V   G 6062         5
+ 49V   G 6691        10
+ 49V   G 7416         7
+ 49V   G 7435         7
+ 49V F G FL=1643.19
+ 49V   G 7563        10
+ 49V   G 8330        100
+ 49V   G 8925        16
+ 49V   G 8987         9
+ 49V   G 9078         9
+ 49V   L 9082.7    21 (3/2+)
+ 49V 2 L ISPIN=(5/2)
+ 49V  CL J,ISPIN   3/2,5/2 FROM G'S TO 3/2-, 3/2+, 5/2-, AND 5/2+ ASSUMING
+ 49V 2CL ^D,E2; 3/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS. JPI=3/2+,
+ 49V 3CL ISPIN=5/2 FROM AGREEMENT IN EXPECTED ENERGY FOR IAS(49TI 2664, (3/2)+)
+ 49V 4CL AND SIMPLE SENIORITY ESTIMATES IN (P,A)
+ 49V X L XREF=EK
+ 49V F L FLAG=IO
+ 49V   G 7420        27
+ 49V   G 7439        43
+ 49V   G 7942        57
+ 49V   G 8334        53
+ 49V   G 8929        13
+ 49V   G 8993        100
+ 49V   L 9089.5    21 (3/2-,5/2)
+ 49V  CL J         3/2-,5/2 FROM G'S TO 3/2-, 3/2+, AND 7/2- ASSUMING
+ 49V 2CL ^D,E2; 3/2-,5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 6702         7
+ 49V   G 7443         3
+ 49V F G FL=1646.43
+ 49V   G 8341        10
+ 49V   G 8936        100
+ 49V   G 8998        33
+ 49V   G 9089         5
+ 49V   L 9094.4    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=S
+ 49V   G 5183         7
+ 49V   G 5354         7
+ 49V F G FL=3741
+ 49V   G 5401         7
+ 49V   G 6078        14
+ 49V   G 6784         7
+ 49V   G 6859        11
+ 49V   G 7448        36
+ 49V F G FL=1643.19
+ 49V   G 7579        21
+ 49V   G 7954        36
+ 49V   G 8346        100
+ 49V   G 8941        25
+ 49V   G 9003        82
+ 49V   G 9094         4
+ 49V   L 9118.0    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 5730         5
+ 49V F G FL=3388
+ 49V   G 6101        33
+ 49V   G 6312        24
+ 49V   G 6807        10
+ 49V   G 6882        52
+ 49V   G 7122        48
+ 49V   G 7514        14
+ 49V   G 7602        100
+ 49V   G 7977        29
+ 49V   G 8369        24
+ 49V   G 8964        29
+ 49V   G 9026        81
+ 49V   G 9117        29
+ 49V   L 9131.7    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 6821         9
+ 49V   G 6866        13
+ 49V F G FL=2265.3
+ 49V   G 7469         9
+ 49V   G 7485        24
+ 49V F G FL=1646.43
+ 49V   G 7528        17
+ 49V   G 8383        11
+ 49V   G 8978        100
+ 49V   G 9040        24
+ 49V   G 9131        11
+ 49V   L 9135.6    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IS
+ 49V   G 7472        38
+ 49V   G 7488        21
+ 49V   G 8386        28
+ 49V   G 8981        100
+ 49V   G 9043        21
+ 49V   G 9134        49
+ 49V   L 9148.3    21 (5/2)
+ 49V  CL J         5/2 FROM G'S TO 3/2-, 3/2+, 7/2-, AND 7/2+ ASSUMING ^D,E2;
+ 49V 2CL 5/2,7/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 5618        25
+ 49V F G FL=3531
+ 49V   G 6760        35
+ 49V   G 6965        35
+ 49V   G 7153        65
+ 49V   G 7545        60
+ 49V   G 7633        50
+ 49V   G 8400        100
+ 49V   G 8995        45
+ 49V   G 9057        65
+ 49V   G 9148        20
+ 49V   L 9154.2    21 (5/2+)
+ 49V X L XREF=E
+ 49V F L FLAG=IV
+ 49V   G 5915         9
+ 49V F G FL=3239.5
+ 49V   G 5930         5
+ 49V   G 6348        14
+ 49V   G 6843        59
+ 49V   G 6888        23
+ 49V F G FL=2265.3
+ 49V   G 6974        14
+ 49V F G FL=2178.3
+ 49V   G 7491        36
+ 49V   G 7507        23
+ 49V   G 7638        59
+ 49V   G 8405        100
+ 49V   G 9000        50
+ 49V   G 9062        41
+ 49V   G 9153        23
+ 49V   L 9161.1    21 (1/2-,3/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IQ
+ 49V   G 5937         5
+ 49V   G 6895         7
+ 49V F G FL=2265.3
+ 49V   G 6925        16
+ 49V   G 7517        19
+ 49V F G FL=1643.19
+ 49V   G 8412         9
+ 49V   G 9007        100
+ 49V   G 9069        19
+ 49V   L 9167.9    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 4533         8
+ 49V   G 4746         8
+ 49V   G 4809        15
+ 49V   G 5133         8
+ 49V   G 5208        15
+ 49V   G 5427         8
+ 49V F G FL=3741
+ 49V   G 5474         8
+ 49V   G 5490         8
+ 49V   G 5565         8
+ 49V   G 5780        15
+ 49V F G FL=3388
+ 49V   G 5926        15
+ 49V F G FL=3242
+ 49V   G 6151        15
+ 49V   G 6362        23
+ 49V   G 6759        15
+ 49V   G 6779        15
+ 49V   G 6857        62
+ 49V   G 6902        15
+ 49V F G FL=2265.3
+ 49V   G 6932         8
+ 49V   G 7172         8
+ 49V   G 7505        69
+ 49V   G 7524        62
+ 49V F G FL=1643.19
+ 49V   G 7564        54
+ 49V   G 7652        46
+ 49V   G 8027        31
+ 49V   G 8419        23
+ 49V   G 9014        77
+ 49V   G 9076        31
+ 49V   G 9167        100
+ 49V   L 9168.9    21 (3/2-)
+ 49V  CL J         3/2-,5/2,7/2- FROM G'S TO 3/2- AND 7/2- ASSUMING
+ 49V 2CL ^D,E2; 1/2,3/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 5428         2
+ 49V F G FL=3741
+ 49V   G 5781         2
+ 49V F G FL=3388
+ 49V   G 5945         3
+ 49V   G 6858         5
+ 49V   G 7173         7
+ 49V   G 7506         5
+ 49V   G 7525        12
+ 49V F G FL=1643.19
+ 49V   G 7565         3
+ 49V   G 7653         3
+ 49V   G 9015        100
+ 49V   G 9077         3
+ 49V   G 9168         7
+ 49V   L 9174.8    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 6157        14
+ 49V   G 6863         9
+ 49V   G 7511        23
+ 49V   G 7570        11
+ 49V   G 8033        23
+ 49V   G 8425        40
+ 49V   G 9020        49
+ 49V   G 9082        17
+ 49V   G 9173        100
+ 49V   L 9182.6    21 (5/2)
+ 49V  CL J         3/2-,5/2,7/2+ FROM G'S TO 3/2+ AND 7/2- ASSUMING
+ 49V 2CL ^D,E2; 5/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 7667         7
+ 49V   G 8042        100
+ 49V   G 8434        74
+ 49V   G 9091        47
+ 49V   G 9182         5
+ 49V   L 9193.4    21 (5/2,7/2+)
+ 49V  CL J         3/2-,5/2,7/2+ FROM G'S TO 3/2+ AND 7/2- ASSUMING
+ 49V 2CL ^D,E2; 5/2,7/2 FROM MULTIDIMENSIONAL NONMETRIC SCALING ANALYSIS
+ 49V X L XREF=E
+ 49V F L FLAG=I
+ 49V   G 7197        100
+ 49V   G 7546        42
+ 49V   G 8444        100
+ 49V   G 9101        92
+ 49V   G 9192        83
+ 49V   L 9195.3    21 (5/2)
+ 49V X L XREF=E
+ 49V F L FLAG=IT
+ 49V   G 5674        14
+ 49V F G FL=3521
+ 49V   G 6178        14
+ 49V   G 6786        14
+ 49V   G 6806        14
+ 49V   G 6884        14
+ 49V   G 7532        38
+ 49V   G 7591        19
+ 49V   G 7679        38
+ 49V   G 8054        76
+ 49V   G 8446        90
+ 49V   G 9041        19
+ 49V   G 9103        24
+ 49V   G 9194        100
+ 49V   L 9568      10(1/2-)
+ 49V X L XREF=F
+ 49V 3 L ISPIN=(5/2)
+ 49V  CL J,ISPIN   FROM IAS IDENTIFICATION IN (3HE,PD)
+ 49V F L FLAG=O
+ 49V   L 9662      103/2-
+ 49V X L XREF=F
+ 49V 3 L ISPIN=5/2
+ 49V  CL J         FROM PD(THETA) IN (3HE,D),(3HE,PD),(D,N)
+ 49V F L FLAG=O
+ 49V   L 10230     10(5/2)-
+ 49V X L XREF=F
+ 49V  CL J         L(3HE,PD)=3. IAS(49TI 3855, 5/2-)
+ 49V 3 L ISPIN=5/2
+ 49V F L FLAG=O
+ 49V   L 10925     7 (5/2)+
+ 49V X L XREF=F
+ 49V  CL J         L(3HE,PD)=2. IAS(49TI 4507, 5/2+)
+ 49V 3 L ISPIN=5/2
+ 49V F L FLAG=O
+ 49V   L 11150     7 (9/2+)
+ 49V  CL J         L(3HE,D),(T,A)=4. IAS(49TI, 4770, 9/2+)
+ 49V X L XREF=F
+ 49V 3 L ISPIN=5/2
+ 49V F L FLAG=O

@@ -1,0 +1,355 @@
+  9BE    ADOPTED LEVELS, GAMMAS        2004TI06                  04NP     200602
+  9BE  H TYP=FUL$AUT=J.H. KELLEY, C.G. SHEU, J.L. GODWIN, ET AL.$               
+  9BE2 H CIT=NP A745 155 (2004)$CUT=31-Mar-2004$                                
+  9BE  Q -1068.1   11 1665.4  4 16888.2 4 -2467  50    2003AU03                 
+  9BE c  See other reaction references in (1988Aj01).                           
+  9BE c  For states belonging to                                                
+  9BE2c  E1 and E2 giant resonances see footnote j in Table 9.8 of (1984Aj01).  
+  9BE cG E         From level energy difference; recoil correction applied.     
+  9BE cG           See Tables 9.3, 9.4, 9.5, 9.9 and 9.10 in (2004Ti06). See    
+  9BE2cG also Montgomery et al. Can. J. Phys. 62 (1984) 764.                    
+  9BE cL E(A)$Decay mode not specified                                          
+  9BE  XA9LI B- DECAY                                                           
+  9BE  XB6LI(T,N),(T,P)                                                         
+  9BE  XC7LI(D,G)                                                               
+  9BE  XD7LI(D,P)                                                               
+  9BE  XE7LI(3HE,P),(3HE,PG)                                                    
+  9BE  XF7LI(3HE,PN)                                                            
+  9BE  XG7LI(A,D)                                                               
+  9BE  XH7LI(6LI,A)                                                             
+  9BE  XI9BE(G,G')                                                              
+  9BE  XJ9BE(G,N),(G,A),(G,2A)                                                  
+  9BE  XK9BE(G,P),(G,D),(G,T)                                                   
+  9BE  XL9BE(E,E),(E,E'),(E,EN),(E,EP)                                          
+  9BE  XM9BE(PI+,PI+),9BE(PI-,PI-)                                              
+  9BE  XN9BE(N,N'),9BE(N,2N)                                                    
+  9BE  XO9BE(P,P),(P,P')                                                        
+  9BE  XP9BE(D,D),(D,D')                                                        
+  9BE  XQ9BE(3HE,3HE'),9BE(3HE,2A)                                              
+  9BE  XR9BE(A,A'),9BE(A,2A)                                                    
+  9BE  XS9BE(6LI,6LI'),9BE(7LI,7LI')                                            
+  9BE  XT10BE(D,T)                                                              
+  9BE  XU10B(E,E'P)                                                             
+  9BE  XV10B(D,3HE)                                                             
+  9BE  XW10B(T,A)                                                               
+  9BE  XX11B(P,3HE)                                                             
+  9BE  XY11B(D,A),11B(D,AN)                                                     
+  9BE  XZ12C(N,A),12C(N,NA)                                                     
+  9BE  Xa13C(3HE,7BE)                                                           
+  9BE  L 0.0         3/2-              STABLE                                   
+  9BE2 L ISPIN=1/2 $ MOMM1=-1.1778 9 $ MOME2=+0.05288 38                        
+  9BE3 L XREF=ACEGHILMNOPQRSTUVWXYZa                                            
+  9BE  L 1684      20 1/2+             214 KEV    5                             
+  9BE2 L %IT=1.4E-6 $ %N AP 100                                                 
+  9BE3 L XREF=CEGHJLNOPQRTWYZ                                                   
+  9BE cL E         there are 13 reported values for the first excited state     
+  9BE2cL energy. The values range from 1600 keV to 1830 keV, and uncertainties  
+  9BE3cL are cited with |?10-30 keV accuracy. The neutron threshold affects     
+  9BE4cL the observed values. (1988Aj01,2004Ti06) accepted 1684 keV {I7} from   
+  9BE5cL {+9}Be(e,e') (1987Ku05). The evaluator accepts this value, but         
+  9BE6cL has increased the uncertainty. Other values are given in               
+  9BE7cL {+7}Li({+3}He,p), {+9}Be(|g,n), {+9}Be(e,e'), {+9}Be(p,p'),            
+  9BExcL {+10}B(t,|a) and {+11}B(d,|an).                                        
+  9BE cL WIDTH     From weighted average of 217 keV {I10} from {+9}Be(e,e'),    
+  9BE2cL 220 keV {I8} from {+10}B(t,|a),                                        
+  9BE3cL 224 keV {I25} from {+10}B(d,|a),                                       
+  9BE4cL and 200 keV {I10} from {+10}B(d,|a). Other values not included in the  
+  9BE5cL weighted average are 150 keV {I50} from {+9}Be(p,p') and 165 keV {I25} 
+  9BE6cL from {+10}Be(d,t).                                                     
+  9BE cL           |G{-|g}=0.30 eV {I12} (1987Ku05).                            
+  9BE  G 1684      20 100      E1                                               
+  9BE2 G WIDTHG=0.30 EV 12$BE1W=0.21 9                                          
+  9BE  L 2429.4    135/2-              0.78 KEV  13                             
+  9BE2 L %IT=1.2E-4 $ %N GT 7.0 10 $ %A GT 1                                    
+  9BE cL           %n to {+8}Be g.s.=7.0 {I10} {+7}Li({+3}He,pn) (1966Ch20).    
+  9BE3 L XREF=ACEFGHJLMNOPQRSTUVWXYZa                                           
+  9BE cL E         from weighted average of                                     
+  9BE2cL 2429.2 keV {I17} from {+7}Li({+3}He,p),                                
+  9BE3cL 2433 keV {I5} from {+9}Be(p,p'),                                       
+  9BE4cL 2434 keV {I5} from {+9}Be(p,p'),                                       
+  9BE5cL 2432 keV {I4} from {+9}Be(p,p'),                                       
+  9BE6cL 2430 keV {I5} from {+9}Be(p,p'),                                       
+  9BE7cL 2422 keV {I5} from {+11}B(d,|a),                                       
+  9BE8cL 2431 keV {I6} from {+11}B(d,|a),                                       
+  9BE9cL 2424 keV {I5} from {+11}B(d,|a).                                       
+  9BE cL WIDTH     From {+11}B(d,|a) and {+9}Be(e,e'). The value                
+  9BE2cL |G{-|g}/|G=1.16|*10{+-4} {I14} is determined from {+11}B(d,a |g); this 
+  9BE3cL can be used with |G{-|g}=9.1|*10{+-2} eV {I10} from {+9}Be(e,e')       
+  9BE4cL (1968Cl08) to deduce the |G.                                           
+  9BE cL           %n to {+8}Be g.s.=7.0 {I10} {+7}Li({+3}He,pn) (1966Ch20).    
+  9BE  G 2429.0    13 100      M1+E2                                            
+  9BE2 G WIDTHG=9.1E-2 EV 10$BM1W=0.30 3$BE2W=24.4 18                           
+  9BE  L 2.78E+3   121/2-              1.10 MEV  12                             
+  9BE2 L %N AP 100                                                              
+  9BE3 L XREF=ACEOa                                                             
+  9BE cL           %n decay mainly to {+8}Be g.s. From {+9}Li |b-decay          
+  9BExcL (1970Ch07).                                                            
+  9BE cL E         |G: from {+9}Li |b-decay (1970Ch07). Other values from       
+  9BE2cL {+7}Li({+3}He,p) are E{-x}=2900 keV {I250} and |G=1.00 MeV {I25}       
+  9BExcL (1971Ad01).                                                            
+  9BE  L 3049      9 5/2+              282 KEV   11                             
+  9BE2 L %IT=1E-6 $ %N GT 87                                                    
+  9BE3 L XREF=EFHJLNOPQRTWXYZ                                                   
+  9BE cL           %n to {+8}Be g.s.=87 {I13} from {+7}Li({+3}He,pn)            
+  9BExcL (1966Ch20,1968Co08).                                                   
+  9BE cL E         from weighted average of 3031 keV {I10} from                 
+  9BE2cL {+7}Li({+3}He,p), 3076 keV {I15} from {+7}Li({+3}He,p), 3040 keV {I10} 
+  9BE3cL from {+9}Be(|g,n), 3000 keV {I30} from {+9}Be(|g,n), 3077 keV {I9}     
+  9BE4cL from {+9}Be(|g,n), 3040 keV {I15} from {+9}Be(p,p'), 3040 keV {I15}    
+  9BE5cL from {+9}Be(d,d'), 3020 keV {I30} from {+9}Be(|a,|a'), 3020 keV {I30}  
+  9BE6cL from {+11}B(d,|a) and 3050 keV {I30} from {+11}B(d,|a). The            
+  9BE7cL uncertainty is enlarged by the evaluator. It appears that the value    
+  9BE8cL given in (1979Aj01) is based on three values, 3076 keV {I15}, 3040 keV 
+  9BE9cL {I10} and 3040 keV {I15}.                                              
+  9BE cL WIDTH     From weighted average of                                     
+  9BE2cL 289 keV {I22} from {+7}Li({+3}He,p),                                   
+  9BE3cL 294 keV {I20} from {+9}Be(d,d),                                        
+  9BE4cL 280 keV {I25} from and {+10}Be(d,t) and                                
+  9BE5cL 257 keV {I25} from {+11}B(d,|a). The value 549 keV {I12} was           
+  9BE6cL measured in {+9}Be(|g,n), but is excluded from the weighted average.   
+  9BE7cL Other values that have no significance in the weight are               
+  9BE8cL given in {+9}Be(e,e'), {+9}Be(p,p), {+9}Be(|a,|a) and {+10}B(t,|a).    
+  9BE  G 3048      9           E1                                               
+  9BE2 G WIDTHG=0.30 EV 25$BE1W=3.6E-2 30                                       
+  9BE  L 4704      25(3/2)+            743 KEV   55                             
+  9BE2 L %IT GT 1.6E-6 $ %N LT 100                                              
+  9BE3 L XREF=CEFJLOPQRYa                                                       
+  9BE cL           %n to {+8}Be g.s.=13 {I4} from {+7}Li({+3}He,pn) (1968Co08). 
+  9BE cL E         |G: from (1968Kr02) in {+7}Li({+3}He,p). Other values        
+  9BE2cL from {+7}Li({+3}He,p) (1968Co07) E{-x}=4.57 MeV {I10} and |G=0.8 MeV   
+  9BExcL {I2}.                                                                  
+  9BE  G 4703      25                                                           
+  9BE cG WIDTHG    (2J{-f}+1)/(2J{-I}+1)|G{-|g0}=2.4 eV {I12}                   
+  9BE  L 5.59E3    10 (3/2-)           1.33 MEV  36                         A   
+  9BE2 L XREF=OU                                                                
+  9BE cL E         |G: J|p: from {+9}Be(p,p') (1991Di03); also see {+10}B(e,e'p)
+  9BE2cL where E{-x}=5.72 MeV {I25} is reported.                                
+  9BE  G 5.59E3    10                                                           
+  9BE  L 6380      607/2-              1.21 MEV  23                             
+  9BE2 L %IT GT 6.8E-8 $ %N LT 100                                              
+  9BE3 L XREF=EFHJKMNOPQRSUVZ                                                   
+  9BE cL           %n to {+8}Be g.s. |<2; to {+8}Be*(3010)=55 {I14}.            
+  9BE cL           Prior to (2004Ti06) only one broad level had been confirmed  
+  9BE2cL for {+9}Be in the energy range between 6 and 7 MeV. New measurements,  
+  9BE3cL have confirmed the existence of a second level. As a result, the broad 
+  9BE4cL J|p=7/2- level                                                         
+  9BE5cL that had previously been placed at 6.76 MeV has been relocated at      
+  9BE6cL 6.42 MeV. The newly identified level, a J|p=9/2+, has been placed at   
+  9BE7cL 6.76 MeV. Both levels are broad, greater than |G=1.2 MeV, and          
+  9BE8cL the evaluator has made a best estimate for determining the xref        
+  9BE9cL assignments. The xref assignments are ambiguous because in many cases  
+  9BEAcL authors simply refer to the (at that time only) known broad state      
+  9BEBcL near 6.8 MeV.                                                          
+  9BE cL E         from {+9}Be(p,p') (1991Di03). Also see of 7/2- states        
+  9BE2cL reported at 6.40 MeV {I10} in {+9}Be(e,e'), and                        
+  9BE3cL 6.67 MeV {I14} reported in {+10}Be(e,e'p).                             
+  9BE cL WIDTH     From {+9}Be(p,p') (1991Di03).                                
+  9BE  G 6378      60          E2                                               
+  9BE2 G WIDTHG=8.2e-2 EV 35$BE2W=8.5 36                                        
+  9BE  L 6760      609/2+              1.33 MEV   9                             
+  9BE2 L XREF=EFJKO                                                             
+  9BE2 L %IT GT 0 $ %N LT 100                                                   
+  9BE cL E         |G: J|p: from {+9}Be(p,p') (1991Di03). Also see comment for  
+  9BE2cL 9be*(6380).                                                            
+  9BE  G 6757      60          E2                                               
+  9BE  L 7940      80(5/2-)            1000 KEV  AP                         A   
+  9BE2 L XREF=AOU                                                               
+  9BE cL E         |G: from {+9}Be(p,p') (1965Ha17). Also see {+10}Be(e,e'p)    
+  9BE2cL where E{-x}=7.81 MeV {I18} is reported.                                
+  9BE cL           J|p=(5/2-) from {+10}Be(e,e'p). Also see supporting          
+  9BE2cL information in (1993Ch06) discussion on |b-decay;                      
+  9BE3cL this level had previously been assigned J|p=(1/2-) based on branching  
+  9BE4cL ratios observed in |b-decay see (1988Aj01) Table 9.7.                  
+  9BE  L 11282     22 (7/2-)           575 KEV   50                             
+  9BE2 L %N GT 15                                                               
+  9BE3 L XREF=AEFJLORUVW                                                        
+  9BE cL           %n to {+8}Be g.s.=2|<; to {+8}Be*(3010)=14 {I4}.             
+  9BE cL E         from weighted average of 11290 keV {I30} from                
+  9BE2cL {+7}Li({+3}He,p), 11280 keV {I50} from {+9}Be(p,p) and                 
+  9BE3cL 11270 keV {I40} from {+10}B(t,|a). Other values in the literature are  
+  9BE4cL 11.3 MeV {I2} from {+9}Be(|g,n), and                                   
+  9BE5cL 11170 keV {I30} from {+10}B(e,e'p). The later was excluded from the    
+  9BE6cL weighted average.                                                      
+  9BE cL WIDTH     From weighted average of 620 keV {I70} from {+7}Li({+3}He,p) 
+  9BE2cL and 530 keV {I70} from {+10}B(t,|a).                                   
+  9BE cL           J|p: from {+10}Be(e,e'p). Also see {+9}Be(e,e') and          
+  9BE2cL {+9}Be(p,p') where (7/2+) was suggested.                               
+  9BE  L 11810     20 5/2-             400 KEV   30                             
+  9BE2 L %IT GT 0 $ %N LT 100 $ ISPIN=1/2                                       
+  9BE3 L XREF=AFHJXa                                                            
+  9BE cL           %n to {+8}Be g.s.=3|<; to {+8}Be*(3010)=12 {I4}.             
+  9BE cL E         |G: from {+7}Li({+3}He,p) (1968Co07). Other values in        
+  9BE2cL the literature are E{-x}=11.9 MeV {I2} and |G=0.5 MeV {I1}             
+  9BE3cL from {+7}Li({+6}Li,|a).                                                
+  9BE cL           J|p: from {+9}Li |b-decay (2003Pr11). Also see               
+  9BE2cL {+11}B(p,{+3}He) where (3/2-) was suggested.                           
+  9BE  G 11802     20                                                           
+  9BE  L 13790     30 (5/2-,7/2-)      590 KEV   60                             
+  9BE2 L %IT GT 0 $ %N LT 100 $ ISPIN=1/2                                       
+  9BE3 L XREF=EHLOX                                                             
+  9BE cL E         from weighted average of 13780 keV {I30} from                
+  9BE2cL {+7}Li({+3}He,p) and 13840 keV {I50} from {+9}Be(e,e').                
+  9BE cL WIDTH     From {+7}Li({+3}He,p).                                       
+  9BE cL           J|p: from {+9}Be(p,p') (1991Di03). Also see {+11}B(p,{+3}He) 
+  9BE2cL where (3/2-) was suggested.                                            
+  9BE  G 13779     30                                                           
+  9BE  L 14392.2   183/2-              365 EV    29                             
+  9BE2 L %IT=4.4 $ %A=43 $ %N=52.6 $ ISPIN=3/2 $ WIDTHG0=6.6 EV 4               
+  9BE3 L XREF=EILOQWX                                                           
+  9BE cL E         from {+11}B(p,{+3}He); see comments in {+11}B(p,{+3}He).     
+  9BE2cL Other values are given as                                              
+  9BE3cL 14396 keV {I5} from {+7}Li({+3}He,p), 14388 keV {I15} from             
+  9BExcL {+9}Be(e,e').                                                          
+  9BE cL WIDTH     Deduced from the values |G{-|g0}=6.6 eV {I4} (see discussion 
+  9BE2cL in {+9}Be(|g,|g)) and |G{-|g0}/|G=0.0181 {I9} from {+7}Li({+3}He,p |g) 
+  9BExcL (1978Di08).                                                            
+  9BE cL           (1976Mc10) measured the branching ratios                     
+  9BE2cL |G{-n}{-0}/|G=0.028 {I21} and |G{-n}{-1}/|G=0.50 {I11}; these can      
+  9BE3cL be used with |G=365 eV {I29} to deduce |G{-n}=192 eV {I43}.            
+  9BE cL WIDTHA    Using |G=365 eV {I29},                                       
+  9BE2cL |G{-|g}=16.1 eV {I14} and |G{-n}=192 eV {I43} we can deduce |G|a=156   
+  9BExcL eV {I43}.                                                              
+  9BE  G 9683      25 11.2   24E1                                               
+  9BE2 G WIDTHG=0.84 EV 19$BE1W=3.1E-3 7                                        
+  9BE  G 11336      9 16.1   34E1                                               
+  9BE2 G WIDTHG=1.20 EV 27$BE1W=2.8E-3 6                                        
+  9BE  G 11954.3   22 100    5 M1                                               
+  9BE2 G WIDTHG=7.48 EV 7$BM1W=0.208 20                                         
+  9BE  G 14380.0   18 88.3   44M1                                               
+  9BE2 G WIDTHG=6.6 EV 4$BM1W=0.106 6                                           
+  9BE  L 14.48E+3   9 (5/2-)           800 KEV   AP                         A   
+  9BE2 L XREF=UW                                                                
+  9BE cL E         from {+10}B(e,e'p). Other value 14.4 MeV {I3} {+9}Be(p,p').  
+  9BE cL WIDTH     From {+10}B(t,|a). Other value |?1.0 MeV {+9}Be(p,p').       
+  9BE cL           J|p: from {+10}B(e,e'p).                                     
+  9BE  L 15100     50                                                       A   
+  9BE2 L %IT GT 0                                                               
+  9BE3 L XREF=HLOX                                                              
+  9BE cL E         from {+9}Be(e,e').                                           
+  9BE cL WIDTH     From {+9}Be(p,p').                                           
+  9BE  L 15970     30                  300 KEV   AP                         A   
+  9BE2 L %IT GT 0 $ ISPIN=1/2                                                   
+  9BE3 L XREF=LOX                                                               
+  9BE cL E         |G: from {+9}Be(e,e'). Also see {+11}B(p,{+3}He) (1971Ha10)  
+  9BE2cL who report 15960 keV {I40}.                                            
+  9BE  G 15955     30                                                           
+  9BE  L 16671     8 (5/2+)            41 KEV    4                          A   
+  9BE2 L %IT GT 0                                                               
+  9BE3 L XREF=ELOW                                                              
+  9BE cL E         |G: from {+7}Li({+3}He,p). Other value                       
+  9BE2cL E{-x}=16631 keV {I15} from {+9}Be(e,e').                               
+  9BE  G 16654      8                                                           
+  9BE  L 16977.1   5 1/2-              389 EV    10                             
+  9BE2 L %IT=6.1 $ %N LT 74 $ %P AP 3.1 $ %D=15.9 $ %A LT 62 $ ISPIN=3/2        
+  9BE3 L XREF=CDILO                                                             
+  9BE cL E         from {+7}Li(d,|g) E{-res}=360.8 keV {I3} and the (2003Au03)  
+  9BE2cL mass excess tables.                                                    
+  9BE cL WIDTH     From {+9}Be(|g,X) resonance absorption following (1992Ki05). 
+  9BE2cL Other values 490 keV {I50} (1987Zi01) and 303 keV {I30} (1986Be33); see
+  9BE3cL discussion in (1992Ki05).                                              
+  9BE cL WIDTHG    =23.8 eV {I16} see comments in {+7}Li(d,|g).                 
+  9BE2cL |g-ray branching ratios are measured in (1971Sc19).                    
+  9BE cL WIDTHP    =12 eV {I+12-6} from (1992Ki05). Other value, using          
+  9BE2cL |G{-p}/|G{-|g0}|?0.5 (1965Im01) gives |G{-p}|?12.                      
+  9BE cL WIDTHD    =62 eV {I10} from (1992Ki05) and (1986Be33) using            
+  9BE2cL |w-|g=|w |G{-|g} widthd/|G.                                            
+  9BE cL WIDTHN0   |?36 eV from (1965Im01) using |G{-n0}/|G{-|g}|?1.5.          
+  9BE cL WIDTHN    |G|a: since |G=389 eV {I10}, we can subtract the known       
+  9BE2cL partial widths and obtain |G|a+|G{-n}=290 eV {I20}.                    
+  9BE3cL Then |G{-n}<290 eV and |G|a<255 eV.                                    
+  9BE  G 12264     25 12.9   13E1                                               
+  9BE2 G WIDTHG=2.2 EV 3 $ BE1W=4.0E-3 6                                        
+  9BE  G 14.19E3   12 13.3   42M1                                               
+  9BE2 G WIDTHG=2.2 EV 7 $ BM1W=3.7E-2 11                                       
+  9BE  G 14535.1   14 3.3    7 E2                                               
+  9BE2 G WIDTHG=0.56 EV 12 $ BE2W=0.94 21                                       
+  9BE  G 15279     20 11.8   6 E1                                               
+  9BE2 G WIDTHG=1.99 EV 15 $ BE1W=1.9E-3 2                                      
+  9BE  G 16959.9   5  100    6 M1                                               
+  9BE2 G WIDTHG=16.9 EV 10 $ BM1W=0.165 10                                      
+  9BE  L 17300     5 (5/2)-            195 KEV                                  
+  9BE2 L %IT GT 4.6E-5 $ %N LT 100 $ %P GT 0 $ %D GT 0 $ %A GT 0                
+  9BE3 L XREF=DJLO                                                              
+  9BE cL E         from {+7}Li(d,p) E{-res}=775 keV {I6} and the (2003Au03)     
+  9BE2cL mass excess tables.                                                    
+  9BE cL WIDTH     From {+7}Li(d,p).                                            
+  9BE  G 17282      5                                                           
+  9BE cG           (2J{-f}+1)/(2J{-I}+1)|G{-|g0}=7.3 eV {I13} (1973Be19).       
+  9BE  L 17495     5 (7/2)+            47 KEV                                   
+  9BE2 L %IT GT 1.7E-5 $ %N LT 100 $ %P GT 0 $ %D GT 0 $ %A GT 0                
+  9BE3 L XREF=DLOU                                                              
+  9BE cL E         from {+7}Li(d,p) E{-res}=1026 keV {I6} and the (2003Au03)    
+  9BE2cL mass excess tables. Also see {+9}Be(e,e') E{-x}=17480 keV {I20}.       
+  9BE cL WIDTH     From {+7}Li(d,p).                                            
+  9BE  G 17476      5                                                           
+  9BE cG           (2J{-f}+1)/(2J{-I}+1)|G{-|g0}=0.40 eV {I3} (1973Be19).       
+  9BE  L 18020     50                                                       A   
+  9BE2 L %IT GT 0                                                               
+  9BE3 L XREF=L                                                                 
+  9BE cL E         from {+9}Be(e,e').                                           
+  9BE  L 18580     40                                                           
+  9BE2 L %IT GT 0 $ %N LT 100 $ %P GT 0 $ %D GT 0 $ %A GT 0                     
+  9BE3 L XREF=DL                                                                
+  9BE cL E         from average of 18540 keV {I50} from {+7}Li(d,p)             
+  9BE2cL and 18620 keV {I50} from {+9}Be(e,e').                                 
+  9BE  L 18.65E+3  5 (5/2-)            0.3 MEV    1                            ?
+  9BE2 L %P LE 100                                                              
+  9BE3 L XREF=O                                                                 
+  9BE cL           T=(3/2)                                                      
+  9BE cL E         |G: from {+9}Be(p,p'). Also see (1985Pn01) who report on     
+  9BE2cL the decay of the {+9}Li hypernucleus to |p{+-} + 9be*(18.1 MeV {I1})   
+  9BE3cL |G|<300 keV. They report the state as J|p=5/2-, T=3/2                  
+  9BE4cL and indicate |a decay into {+8}Li+p.                                   
+  9BE  L 19200     50                  310 KEV   80                             
+  9BE2 L %N LT 100 $ %P GT 0 $ %D GT 0 $ %3H GT 0                               
+  9BE3 L XREF=DHJ                                                               
+  9BE cL E         |G: from {+7}Li(d,p).                                        
+  9BE  L 19465     45 (9/2+)           0.6 MEV    3                         A   
+  9BE2 L %IT GT 0                                                               
+  9BE3 L XREF=JLO                                                               
+  9BE cL E         from weighted average of 19510 keV {I50} from {+9}Be(e,e')   
+  9BE2cL and 19420 keV {I50} from {+9}Be(p,p'). Uncertainty is enlarged by      
+  9BExcL evaluator.                                                             
+  9BE cL WIDTH     From {+9}Be(p,p').                                           
+  9BE  L 19.9E+3   2                                                           ?
+  9BE2 L %IT GT 0 $ %N LE 100                                                   
+  9BE3 L XREF=J                                                                 
+  9BE cL E         from {+9}Be(|g,n) (1975Kn03).                                
+  9BE  L 20510     30                  0.6 MEV   1                             ?
+  9BE2 L %IT GT 0 $ %P LT 100 $ %D GT 0                                         
+  9BE3 L XREF=BDJO                                                              
+  9BE cL E         from (1964Te04) {+9}Be(|g,absorption) 20.47 MeV {I4} and     
+  9BE2cL {+9}Be(p,p'). The authors of (1964Te04) used (Haslam et al.,           
+  9BE3cL Can. J. Phys.                                                          
+  9BE4cL 31 (1953) 210) to deduce that the decay mode is primarily proton decay,
+  9BE5cL with some small contribution from d- and/or triton-decay.              
+  9BE cL WIDTH     From {+9}Be(p,p')                                            
+  9BE  L 20750     30                  0.68 MEV   9                             
+  9BE2 L %IT GT 0 $ %N LT 100 $ %P GT 0 $ %3H GT 0                              
+  9BE3 L XREF=JLO                                                               
+  9BE cL E         from weighted average of 20730 keV {I40} from (1964Te04)     
+  9BE2cL {+9}Be(|g,absorption), 20760 keV {I50} from {+9}Be(e,e') and 20800 keV 
+  9BE3cL {I100} from {+9}Be(p,p').                                              
+  9BE cL WIDTH     From {+9}Be(p,p').                                           
+  9BE  L 21.4E+3   2                                                           ?
+  9BE2 L %IT GT 0 $ %N LT 100                                                   
+  9BE3 L XREF=J                                                                 
+  9BE cL E         from {+9}Be(|g,n) (1975Kn03).                                
+  9BE  L 22.4E+3   2                                                           ?
+  9BE2 L %IT GT 0 $ %N LT 100                                                   
+  9BE3 L XREF=JO                                                                
+  9BE cL WIDTH     Broad                                                        
+  9BE cL E         from {+9}Be(|g,n) (1975Kn03).                                
+  9BE  L 23.8E+3   2                                                           ?
+  9BE2 L %IT GT 0 $ %N LT 100                                                   
+  9BE3 L XREF=J                                                                 
+  9BE cL E         from {+9}Be(|g,n) (1975Kn03).                                
+  9BE  L 27.0E+3   5                                                            
+  9BE2 L %IT GT 0 $ %N LT 100                                                   
+  9BE3 L XREF=J                                                                 
+  9BE cL WIDTH     Broad                                                        
+  9BE cL E         from {+9}Be(|g,n) (1975Kn03).                                
+
+
+
+

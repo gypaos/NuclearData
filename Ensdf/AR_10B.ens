@@ -1,0 +1,387 @@
+ 10B     ADOPTED LEVELS, GAMMAS        1988AJ01,1984AJ01         04NP     200705
+ 10B   H TYP=FUL$AUT=J.H. KELLEY, C.G.SHEU AND J.L. GODWIN, ET AL.$             
+ 10B 2 H CIT=NP A745 155 (2004)$CUT=31-Mar-2004$                                
+ 10B   Q -3648.0   6 8436.3  106585.9  6 -4461.0 4     2003AU03                 
+ 10B   XA10BE B- DECAY                                                          
+ 10B   XB10C B+ DECAY                                                           
+ 10B   XC6LI(A,G)                                                               
+ 10B   XD6LI(A,A),(A,A')                                                        
+ 10B   XE6LI(A,2A)                                                              
+ 10B   XF6LI(6LI,D)                                                             
+ 10B   XG7LI(3HE,G)                                                             
+ 10B   XH7LI(3HE,N)                                                             
+ 10B   XI7LI(A,N),(A,NG)                                                        
+ 10B   XJ7LI(12C,X)                                                             
+ 10B   XK9BE(P,G) RES                                                           
+ 10B   XL9BE(P,N) RES                                                           
+ 10B   XM9BE(P,P),(P,PN),(P,PA)                                                 
+ 10B   XN9BE(P,D),(P,A)                                                         
+ 10B   XO9BE(D,NG),(D,N)                                                        
+ 10B   XP9BE(3HE,D)                                                             
+ 10B   XQ9BE(A,T)                                                               
+ 10B   XR9BE(7LI,6HE)                                                           
+ 10B   XS9BE(12C,11B)                                                           
+ 10B   XT10B(G,N)                                                               
+ 10B   XU10B(E,E)                                                               
+ 10B   XV10B(P,P)                                                               
+ 10B   XW10B(D,D)                                                               
+ 10B   XX10B(3HE,3HE)                                                           
+ 10B   XY11B(G,N)                                                               
+ 10B   XZ11B(P,D)                                                               
+ 10B   Xa11B(3HE,A)                                                             
+ 10B   Xc11B(7LI,8LI)                                                           
+ 10B   Xd12C(PI+,PI+D),(PI-,PI-D)                                               
+ 10B   Xe12C(P,3HE)                                                             
+ 10B   Xf12C(D,A)                                                               
+ 10B   Xg12C(A,6LI)                                                             
+ 10B   Xh12C(14N,16O)                                                           
+ 10B   Xi13C(P,A)                                                               
+ 10B   Xj14N(D,6LI)                                                             
+ 10B   XkAG(14N,A6LI),(14N,P9BE)                                                
+ 10B  c  See also Tables 10.6, 10.7 and 10.11 in 1988Aj01                       
+ 10B  cG E         From level energy difference; recoil correction applied      
+ 10B  cG RI(A)     % branching ratios from Table 10.19 and 10.20 of (2004Ti06)  
+ 10B  PN                                                                     7  
+ 10B  cL E(B)$Decay mode not specified                                          
+ 10B   L 0.0         3+                  STABLE                                 
+ 10B 2 L MOMM1=+1.80064478 6$MOME2=+0.08472 56$ISPIN=0                          
+ 10B 3 L XREF= ABCFGIKOPQRSVWXZacdefghij                                        
+ 10B   L 718.380   111+                0.7070 NS 34                             
+ 10B 2 L MOMM1=+0.63 12$ISPIN=0$WIDTHG=6.453E-7 EV 32$   %IT=100                
+ 10B 3 L XREF= BCFGIKOPQRSUVWXZacdefghij                                        
+ 10B  cL E         from {+10}C |b decay (1989Ba28). The value 718.35 keV {I4}   
+ 10B 2cL was given in (1984Aj01) with no reference. Other values                
+ 10B 3cL are given in {+10}C |b-decay, {+7}Li(|a,n) and {+10}B(p,p).            
+ 10B  cL WIDTH     From {+10}B(p,p).                                            
+ 10B   G 718.353   19100       E2                                           A   
+ 10B 2 G WIDTHG=6.453E-7 EV 32$BE2W=3.240 16                                    
+ 10B   L 1740.05    40+                4.9 FS    21                             
+ 10B 2 L ISPIN=1$WIDTHG=0.094 EV 40  $   %IT=100                                
+ 10B 3 L XREF=BCIKOPQRSUVXZacdei                                                
+ 10B  cL E         from {+10}C |b-decay. Other less significant values are      
+ 10B 2cL given in {+10}C |b-decay, {+7}Li(|a,n) and {+10}B(p,p).                
+ 10B  cL WIDTH     From {+6}Li(|a,|g).                                          
+ 10B   G 1021.7      100       M1                                           A   
+ 10B 2 G WIDTHG=0.094 EV 40 $BM1W=4.2 18                                        
+ 10B   G 1740.0      0.2     LT                                             A   
+ 10B   L 2154.27   451+                1.48 PS   14                             
+ 10B 2 L ISPIN=0$WIDTHG=3.1E-4 EV 2 $   %IT=100                                 
+ 10B 3 L XREF=CFIKOPQRSUVWXZacdefghij                                           
+ 10B  cL E         from weighted average of values from {+7}Li(|a,n) and        
+ 10B 2cL {+10}B(p,p).                                                           
+ 10B  cL WIDTH     From weighted average of values from {+6}Li(|a,|g),          
+ 10B 2cL {+7}Li(|a,n), {+9}Be(d,n) and {+11}B({+3}He,|a). The value 2.7 ps {I7} 
+ 10B xcL from {+10}B(p,p) was excluded.                                         
+ 10B   G 414.1       51.6    16M1                                           A   
+ 10B 2 G WIDTHG=1.59E-4 EV 16$BM1W=0.107 11                                     
+ 10B   G 1435.8      27.3     9M1+E2     -3.75   55                         A   
+ 10B 2 G WIDTHG=8.5E-5 EV 8$BM1W=9.1E-5 27$BE2W=12.2 13                         
+ 10B   G 2154.1      21.1    16E2                                           A   
+ 10B 2 G WIDTHG=6.52E-5 EV 79$BE2W=1.33 16                                      
+ 10B   L 3587.13   48 2+               102 FS    7                              
+ 10B 2 L ISPIN=0$WIDTHG=4.28E-3 EV 37   $   %IT=100                             
+ 10B 3 L XREF=CFGKOPQUVWXYZaefghij                                              
+ 10B  cL E         from {+10}B(p,p).                                            
+ 10B  cL WIDTH     From weighted average of values from                         
+ 10B 2cL {+6}Li(|a,|g),{+6}Li({+6}Li,d), {+9}Be(p,d), {+9}Be(d,n), {+10}B(p,p)  
+ 10B xcL and {+11}B({+3}He,|a).                                                 
+ 10B   G 1432.7      14       2M1+E2     -0.38       9                      A   
+ 10B 2 G WIDTHG=6.1E-4 EV 10$BM1W=8.5E-3 15 $ BE2=11.9 54                       
+ 10B   G 1846.7      0.3     LT                                             A   
+ 10B   G 2868.3      67       3M1+E2     9.09      8                        A   
+ 10B 2 G WIDTHG=2.85E-3 EV 27$BE2W=13.9 14 $BM1 LT 5E-4                         
+ 10B   G 3586.4      19       3M1+E2     1.5      6                         A   
+ 10B 2 G WIDTHG=8.2E-4 EV 23$BM1W=2.6E-4 15 $BE2W=0.90 28                       
+ 10B   L 4774.0    5 3+                7.8 EV    12                             
+ 10B 2 L ISPIN=0$WIDTHG=0.018 EV 2  $ %IT=0.23 $ %A=99.8                        
+ 10B 3 L XREF=CFGIJOPQVWZaefgijk                                                
+ 10B  cL E         from {+10}B(p,p); other values have no significance in a     
+ 10B 2cL weighted average.                                                      
+ 10B  cL WIDTH     From {+6}Li(|a,|g)                                           
+ 10B   G 4054.8      99.5     1E2                                           A   
+ 10B 2 G WIDTHG=1.79E-2 EV 15$BE2W=15.4 13                                      
+ 10B   G 4772.8      0.5      1M1+E2                                        A   
+ 10B 2 G WIDTHG=0.9E-4 EV 2$BM1W LT 4.8E-5 $BE2W LT 4.2E-2                      
+ 10B   L 5110.3    6 2-                0.978 KEV 66                             
+ 10B 2 L ISPIN=0  $ %IT=3.3E-3 $ %A AP 100 $ WIDTHG=3.28E-2 EV 53               
+ 10B 3 L XREF=CJKOPQVXaf                                                        
+ 10B  cL E         from {+10}B(p,p). See other values in {+9}Be(d,n),           
+ 10B 2cL {+11}B({+3}He,|a) and {+12}C(d,|a).                                    
+ 10B  cL WIDTH     From {+6}Li(|a,|g).                                          
+ 10B   G 3369.6      5        5M2                                           A   
+ 10B 2 G WIDTHG=1.8E-3 EV 18$BM2W LT 120                                        
+ 10B   G 4390.9      31       7E1                                           A   
+ 10B 2 G WIDTHG=1.0E-2 EV 3$BE1W=3.7E-4 11                                      
+ 10B   G 5108.9      64       7E1                                           A   
+ 10B 2 G WIDTHG=2.1E-2 EV 4$BE1W=5.0E-4 10                                      
+ 10B   L 5163.9    6 2+                1.79 EV   40                             
+ 10B 2 L ISPIN=1$WIDTHG=1.51 EV 27   $ %IT AP 84 $ %A=16                        
+ 10B 3 L XREF=CKOPQUVYZaei                                                      
+ 10B  cL E         from {+10}B(p,p). See other values in {+9}Be(d,n) and        
+ 10B xcL {+11}B({+3}He,|a).                                                     
+ 10B  cL WIDTH     From {+6}Li(|a,|g).                                          
+ 10B   G 1576.7      7.8      3M1                                           A   
+ 10B 2 G WIDTHG=0.12 EV 3$BM1W=1.41 38                                          
+ 10B  cG MR        0.00 {I2} (1979Ke08)                                         
+ 10B   G 3009.1      65.3     9M1                                           A   
+ 10B 2 G WIDTHG=0.98 EV 26$BM1W=1.71 46                                         
+ 10B  cG MR        0.02 {I3} (1979Ke08)                                         
+ 10B   G 3423.1      0.5     LTE2                                           A   
+ 10B 2 G WIDTHG=7.5E-3 EV $BE2W LT 15                                           
+ 10B   G 4444.4      22.6     6M1                                           A   
+ 10B 2 G WIDTHG=0.34 EV 9$BM1W=0.18 5                                           
+ 10B  cG MR        0.03 {I3} (1979Ke08)                                         
+ 10B   G 5162.5      4.4      4M1+E2     0.12         5                     A   
+ 10B 2 G WIDTHG=0.067 EV 18$BM1W=2.3E-2 6 $BE2W LT 0.7                          
+ 10B  cG MR        0.12 {I5} (1979Ke08)                                         
+ 10B   L 5182       81+                110 KEV   10                             
+ 10B 2 L ISPIN=0$WIDTHG=0.06 EV 2   $ %IT=5.4E-5 $ %A AP 100                    
+ 10B 3 L XREF=CDJKOPQVWZ                                                        
+ 10B  cL E         from weighted average of values from {+6}Li(|a,|g),          
+ 10B 2cL {+6}Li(|a,|a) and {+11}B({+3}He,|a).                                   
+ 10B  cL WIDTH     From {+10}B(p,p); also see 200 keV {I30} from {+6}Li(|a,|g)  
+ 10B 2cL and |G<10 keV from {+6}Li(|a,|a).                                      
+ 10B   G 3439.2      100     APM1                                           A   
+ 10B 2 G WIDTHG=6E-2 EV 3$BM1W=7.0E-2 35                                        
+ 10B   L 5919.5    6 2+                5.82 KEV   6                             
+ 10B 2 L ISPIN=0$WIDTHG=0.14 EV 2   $ %IT=2.4E-3 $ %A AP 100                    
+ 10B 3 L XREF=CDJKOPQUVWXaefgi                                                  
+ 10B  cL E         from {+10}B(p,p); see other values in {+9}Be(d,n) and        
+ 10B xcL {+11}B({+3}He,|a).                                                     
+ 10B  cL WIDTH     From {+6}Li(|a,|a). See other value in {+6}Li(|a,|g).        
+ 10B   G 5199.7      18       5M1                                           A   
+ 10B 2 G WIDTHG=0.025 EV 7$BM1W=8.6E-3 24                                       
+ 10B   G 5917.6      82       5M1                                           A   
+ 10B 2 G WIDTHG=0.112 EV 22$BM1W=2.6E-2 5                                       
+ 10B   L 6024.9    5 4+                0.052 KEV 19                             
+ 10B 2 L WIDTHG=0.11 EV 2    $ %IT=0.21 $ %A=99.79                              
+ 10B 3 L XREF=CDJOPQUVWXZafgij                                                  
+ 10B  cL E         from weighted average of values from {+6}Li(|a,|a),          
+ 10B 2cL {+10}B(p,p) and {+11}B({+3}He,|a).                                     
+ 10B  cL WIDTH     From weighted average of values from {+6}Li(|a,|g) and       
+ 10B xcL {+6}Li(|a,|a).                                                         
+ 10B   G 6023.1      100     APM1+E2     -3.16   12                         A   
+ 10B 2 G WIDTHG=0.114 EV 15$BM1W=2.3E-2 4 $BE2W=12.4 18                         
+ 10B  cG RI        other |g-ray branches <3%                                    
+ 10B   L 6129.1    253-                1.52 KEV  8                              
+ 10B 2 L WIDTHG LE 21 EV   $ %IT LT 1.4 $ %D AP 3.1 $ %A GT 95.5                
+ 10B 3 L XREF=DJOPQUVWXaf                                                       
+ 10B  cL E         the two significant values, 6132.3 keV {I9} from             
+ 10B 2cL {+6}Li(|a,|a) and 6127.2 keV {I7} from {+10}B(p,p), are not in         
+ 10B 3cL agreement. The evaluator adopts the weighted average, but has enlarged 
+ 10B xcL the uncertainty.                                                       
+ 10B  cL WIDTH     From {+6}Li(|a,|a)(1981He05). Also see |G=2.36 keV {I3} from 
+ 10B 2cL {+6}Li(|a,|a) reported in (1967Me08).                                  
+ 10B   L 6560.1    10(4)-              25.2 KEV  11                             
+ 10B 2 L %IT GE 0 $ %A AP 100                                                   
+ 10B 3 L XREF=DJOPQUVWXZaefk                                                    
+ 10B  cL E         from {+6}Li(|a,|a). See other values in {+9}Be(d,n),         
+ 10B 2cL {+10}B(p,p) and {+11}B({+3}He,|a).                                     
+ 10B  cL WIDTH     From weighted average of values from {+6}Li(|a,|a),          
+ 10B 2cL {+10}B(p,p) and {+11}B({+3}He,|a).                                     
+ 10B   L 6875      5 1-                120 KEV   4                              
+ 10B 2 L WIDTHG=1.49 EV 54$ ISPIN=0&1 $ %IT=1.24E-3$ %P GT 0 $ %D GT 0 $ %A GT 0
+ 10B 3 L XREF=CJKMNO                                                            
+ 10B  cL E         from weighted average of values from {+9}Be(p,|g) and        
+ 10B xcL {+9}Be(d,n).                                                           
+ 10B  cL WIDTH     From weighted average of values from {+6}Li(|a,|g) and       
+ 10B xcL {+9}Be(p,|g).                                                          
+ 10B   G 953.5       3.5     10E1                                           A   
+ 10B 2 G WIDTHG=0.054 EV 21$BE1W=0.20 8                                         
+ 10B   G 1708.9      3       1 E1                                           A   
+ 10B 2 G WIDTHG=0.046 EV 19$BE1W=2.9E-2 12                                      
+ 10B   G 1762.5      4       1 M1                                           A   
+ 10B 2 G WIDTHG=0.062 EV 22$BM1W=0.054 19                                       
+ 10B   G 4717.5      13      1 E1                                           A   
+ 10B 2 G WIDTHG=0.20 EV 5$BE1W=6.0E-3 15                                        
+ 10B   G 5131.4      53      2 E1                                           A   
+ 10B 2 G WIDTHG=0.82 EV 20$BE1W=1.9E-2 5                                        
+ 10B   G 6152.6      20      2 E1                                           A   
+ 10B 2 G WIDTHG=0.31 EV$BE1W=4.2E-3 11                                          
+ 10B   G 6872        4.6     LTM2                                           A   
+ 10B 2 G WIDTHG LT 0.09 EV$BM2W GT 84                                           
+ 10B   L 7004      5 3+                98 KEV     6                             
+ 10B 2 L %P GT 0 $ %D GT 0 $ %A GT 0                                            
+ 10B 3 L XREF=DJNOQVWXafj                                                       
+ 10B  cL           T=(0)                                                        
+ 10B  cL E         from weighted average of values from {+6}Li(|a,n),           
+ 10B 2cL {+9}Be(d,n), {+10}B(p,p) and {+11}B({+3}He,|a).                        
+ 10B  cL WIDTH     From weighted average of values from {+6}Li(|a,n),           
+ 10B 2cL {+10}B(p,p) and {+11}B({+3}He,|a).                                     
+ 10B  cL           J|p: from {+11}B({+3}He,2|a)                                 
+ 10B   L 7428      5 1-                94 KEV     9                             
+ 10B 2 L ISPIN=0&1 $ %IT=5.1E-3 $ %P GT 0 $ %D GT 0 $ %A GT 0                   
+ 10B 3 L XREF=CKMNQ $ WIDTHG=4.76 EV 70                                         
+ 10B  cL E         from weighted average of values from {+6}Li(|a,|g) and       
+ 10B xcL {+9}Be(p,|g).                                                          
+ 10B  cL WIDTH     From weighted average of values from {+6}Li(|a,|g) and       
+ 10B xcL {+9}Be(p,|g).                                                          
+ 10B  cL           J|p: in (2004Ti06) spin                                      
+ 10B 2cL assignments for E{-x}=7430, 7470 and 7480 are J|p=1-,2+,2-,            
+ 10B 3cL respectively. In (1988Aj01) the corresponding values are               
+ 10B 4cL J|p=2(-), 1+, and 2+, however, discussion in (1956Mo90, 1956We37,      
+ 10B 5cL 1959Ma20, 1962El06, 1964Ho02, 1969Mo29, 1973Ro24, 2004Ti06) favors     
+ 10B 6cL the assignments of (2004Ti06).                                         
+ 10B   G 2317        32        M1                                           A   
+ 10B 2 G WIDTHG=1.52 EV 38$BM1W=5.8 15                                          
+ 10B   G 5272        22        E1                                           A   
+ 10B 2 G WIDTHG=1.03 EV 30$BE1W=2.2E-2 7                                        
+ 10B   G 5686        5       LTE1                                           A   
+ 10B 2 G WIDTHG LT 0.23 EV $BE1W LT 4.0E-3                                      
+ 10B   G 6707        46        E1                                           A   
+ 10B 2 G WIDTHG=2.21 EV 50$BE1W=2.3E-2 5                                        
+ 10B   L 7470       42+                65 KEV    10                             
+ 10B 2 L WIDTHG=11.7 EV 7 $ %P AP 100 $ %IT=1.8E-2                              
+ 10B 3 L XREF=KMOQUV(*)X(*)a(*)i(*)                                             
+ 10B  cL E         from {+9}Be(p,|g) and {+9}Be(p,p).                           
+ 10B  cL WIDTH     From {+9}Be(p,p).                                            
+ 10B  cL           J|p: in (2004Ti06) spin                                      
+ 10B 2cL assignments for E{-x}=7430, 7470 and 7480 are J|p=1-,2+,2-,            
+ 10B 3cL respectively. In (1988Aj01) the corresponding values are               
+ 10B 4cL J|p=2(-), 1+, and 2+, however, discussion in (1956Mo90, 1956We37,      
+ 10B 5cL 1959Ma20, 1962El06, 1964Ho02, 1969Mo29, 1973Ro24, 2004Ti06) favors     
+ 10B 6cL the assignments of (2004Ti06).                                         
+ 10B   L 7479      2 2-                74 KEV    4                              
+ 10B 2 L WIDTHG=5.3 EV 25 $ ISPIN=1 $ %IT=7.2E-3 $ %P GT 0                      
+ 10B 3 L XREF= KMQV(*)X(*)a(*)i(*)                                              
+ 10B  cL E         |G: from {+9}Be(p,|g) and {+9}Be(p,p).                       
+ 10B  cL           J|p: in (2004Ti06) spin                                      
+ 10B 2cL assignments for E{-x}=7430, 7470 and 7480 are J|p=1-,2+,2-,            
+ 10B 3cL respectively. In (1988Aj01) the corresponding values are               
+ 10B 4cL J|p=2(-), 1+, and 2+, however, discussion in (1956Mo90, 1956We37,      
+ 10B 5cL 1959Ma20, 1962El06, 1964Ho02, 1969Mo29, 1973Ro24, 2004Ti06) favors     
+ 10B 6cL the assignments of (2004Ti06).                                         
+ 10B   L 7559.9    4 0+                2.65 KEV  18                             
+ 10B 2 L WIDTHG=6.24 EV 63$ ISPIN=1 $ %IT=0.23 $ %P GT 0                        
+ 10B 3 L XREF=JKMOQa                                                            
+ 10B  cL E         from {+9}Be(p,|g). Also see 7562 keV {I2} from {+9}Be(p,p).  
+ 10B  cL WIDTH     From {+9}Be(p,|g).                                           
+ 10B   G 2380        14       2M1                                           A   
+ 10B 2 G WIDTHG=0.87 EV 15$BM1W=3.1 6                                           
+ 10B   G 5404.0      9        2M1                                           A   
+ 10B 2 G WIDTHG=0.32 EV 11$BM1W=0.10 3                                          
+ 10B   G 6839.1      77       5M1                                           A   
+ 10B 2 G WIDTHG=4.8 EV 6$BM1W=0.72 9                                            
+ 10B   L 7666      27(1+)              247 KEV   19                            ?
+ 10B 2 L %P=30 $ %D GT 0 $%A GT 0                                               
+ 10B 3 L XREF=JMN                                                               
+ 10B  cL           T=(0)                                                        
+ 10B  cL E         from {+9}Be(p,p)                                             
+ 10B  cL WIDTH     From weighted average of values from {+9}Be(p,p) and         
+ 10B xcL {+9}Be(p,d).                                                           
+ 10B   L 7750      302-                210 KEV   60                             
+ 10B 2 L XREF=KMOQa $ WIDTHG=5.6 EV 11                                          
+ 10B 3 L %P AP 65 $ %IT AP 2.6E-3                                               
+ 10B  cL           T=(0)                                                        
+ 10B  cL E         |G: from {+9}Be(p,|g).                                       
+ 10B   G 2639        4.8       M1                                           A   
+ 10B 2 G WIDTHG=0.27 EV 14$BM1W=0.70 35                                         
+ 10B   G 4162        3.4       E1                                           A   
+ 10B 2 G WIDTHG=0.19 EV 11$BE1W=8.3E-3 48                                       
+ 10B   G 5594        3.7       E1                                           A   
+ 10B 2 G WIDTHG=0.21 EV 11$BE1W=3.8 20                                          
+ 10B   G 7028        11        E1                                           A   
+ 10B 2 G WIDTHG=0.64 EV 29$BE1W=5.8E-3 26                                       
+ 10B   G 7746        77        E1                                           A   
+ 10B 2 G WIDTHG=4.3 EV 11$BE1W=2.9E-2 8                                         
+ 10B   L 7811      17 1-               260 KEV   30                             
+ 10B 2 L XREF=J                                                                 
+ 10B 3 L %P AP 90 $ %A GT 0                                                     
+ 10B  cL E         |G: from                                                     
+ 10B 2cL {+9}Be(p,p) also see E{-x}=7870 keV {I10} with                         
+ 10B 3cL |G=240 keV {I50} in {+11}B({+3}He,|a).                                 
+ 10B   L 7960      70                  285 KEV   91                             
+ 10B 2 L XREF=J                                                                 
+ 10B 3 L %A GT 0                                                                
+ 10B  cL E         |G: from {+7}Li({+12}C,a6li).                                
+ 10B   L 8070      502+                0.8 MEV   2                              
+ 10B 2 L %IT GT 0 $ %P AP 7 $ %D GT 0                                           
+ 10B 3 L XREF=MNOU                                                              
+ 10B  cL E         |G: from {+9}Be(d,n).                                        
+ 10B   L 8680        (1+,2+)           220 KEV   AP                            ?
+ 10B 2 L XREF=ENj                                                               
+ 10B 3 L %P GT 0 $ %D GT 0                                                      
+ 10B  cL E         from average of 8656 keV from {+9}Be(p,p), 8700 keV from     
+ 10B 2cL {+9}Be(p,d) and 8680 keV from {+14}N(d,{+6}Li).                        
+ 10B  cL WIDTH     From {+9}Be(p,d); also see |G|?300 keV from {+9}Be(p,p).     
+ 10B   L 8887      3 3-                96 KEV    4                              
+ 10B 2 L ISPIN=1 $ %N GT 0 $ %P=85 $ %A GT 0                                    
+ 10B 3 L XREF=JLMNQe                                                            
+ 10B  cL E         |G: from weighted average of values in {+9}Be(p,p)           
+ 10B 2cL and {+9}Be(p,n) and {+9}Be(p,d).                                       
+ 10B   L 8895      1 2+                39 KEV    1                              
+ 10B 2 L ISPIN=1 $ %IT=1.3E-3 $ %P=35 $ %A GT 0  $ WIDTHG=0.5 EV                
+ 10B 3 L XREF=JKMNQUe                                                           
+ 10B  cL E         |G: from weighted average of values in {+9}Be(p,|g)          
+ 10B 2cL and {+9}Be(p,p) and {+9}Be(p,d).                                       
+ 10B   G 8890                  E2                                               
+ 10B 2 G WIDTHG=0.5 EV 2$BE2W=8.5 34                                            
+ 10B   L 9580      60                  257 KEV   64                            ?
+ 10B 2 L %A GT 0                                                                
+ 10B 3 L XREF=J                                                                 
+ 10B  cL           T=0                                                          
+ 10B  cL E         |G: from {+7}Li({+12}C,X).                                   
+ 10B   L 9700                          630 KEV   AP                            ?
+ 10B 2 L %N GT 0 $ %P GT 0 $ %A GT 0                                            
+ 10B 3 L XREF=ELN                                                               
+ 10B  cL           T=(1)                                                        
+ 10B  cL E         |G: from {+9}Be(p,n).                                        
+ 10B   L 10825      9(2+,3+,4+)        0.35 MEV  7                              
+ 10B 2 L %IT GT 0 $ %N GT 0 $ %P GT 0                                           
+ 10B 3 L XREF=KLMNUa                                                            
+ 10B  cL E         from {+9}Be(p,n). Also see {+9}Be(p,p) and {+11}B({+3}He,|a).
+ 10B  cL WIDTH     From weighted average of values in {+9}Be(p,p) and           
+ 10B xcL {+11}B({+3}He,|a).                                                     
+ 10B   L 11511     30                  316 KEV   44                             
+ 10B 2 L %IT GT 0 $ %A GT 0                                                     
+ 10B 3 L XREF=NUZa                                                              
+ 10B  cL E         from weighted average of values from {+11}B(p,d) and         
+ 10B 2cL {+11}B({+3}He,|a). Also see {+9}Be(p,n).                               
+ 10B  cL WIDTH     From {+11}B({+3}He,|a).                                      
+ 10B   L 12564     26(0+,1+,2+)        106 KEV   26                             
+ 10B 2 L %IT GT 0 $ %P GT 0                                                     
+ 10B 3 L XREF=KMUa                                                              
+ 10B  cL E         |G: from {+11}B({+3}He,|a).                                  
+ 10B   L 13494     50(0+,1+,2+)        300 KEV   50                             
+ 10B 2 L %IT GT 0 $ %P GT 0                                                     
+ 10B 3 L XREF=KUa                                                               
+ 10B  cL E         |G: from {+11}B({+3}He,|a).                                  
+ 10B   L 14.34E+3   1                  0.8 MEV   2                              
+ 10B 2 L %IT GT 0 $ %P GT 0 $ %A GT 0                                           
+ 10B 3 L XREF=DKZa                                                              
+ 10B  cL E         from weighted average of values from {+11}B(p,d) and         
+ 10B xcL {+11}B({+3}He,|a).                                                     
+ 10B  cL WIDTH     From {+11}B({+3}He,|a).                                      
+ 10B   L 18.2E+3   2                   1.5 MEV   3                          B  ?
+ 10B 2 L XREF=a                                                                 
+ 10B  cL E         |G: from {+11}B({+3}He,|a).                                  
+ 10B   L 18430       2-                340 KEV                                  
+ 10B 2 L ISPIN=1 $ %IT GT 0 $ %3HE GT 0                                         
+ 10B 3 L XREF=G                                                                 
+ 10B  cL E         |G: from {+7}Li({+3}He,|g).                                  
+ 10B   L 18800       2+,1+             600 KEV   LT                             
+ 10B 2 L %IT GT 0 $ %3HE GT 0 $ %A LT 13.4                                      
+ 10B 3 L XREF=G                                                                 
+ 10B  cL E         |G: from {+7}Li({+3}He,|g).                                  
+ 10B   L 19290       2-                190 KEV   14                             
+ 10B 2 L ISPIN=1 $ %IT GT 0 $ %N GT 0 $ %P GT 0 $ %3HE GT 0 $ %A LT 10.5        
+ 10B 3 L XREF=GH                                                                
+ 10B  cL E         from {+7}Li({+3}He,|g) and {+7}Li({+3}He,n).                 
+ 10B  cL WIDTH     From weighted average of values from {+7}Li({+3}He,|g)       
+ 10B 2cL and {+7}Li({+3}He,n).                                                  
+ 10B   L 20.1E+3   1 1-                350 KEV   20                             
+ 10B 2 L ISPIN=1 $ %IT GT 0 $ %N GT 0 $ %P GT 0 $ %3H GT 0 $ %3HE GT 0 $ %A GT 0
+ 10B 3 L XREF=GHT                                                               
+ 10B  cL E         from {+10}B(|g,n).                                           
+ 10B  cL WIDTH     From weighted average of values from {+7}Li({+3}He,|g)       
+ 10B 2cL and {+7}Li({+3}He,n).                                                  
+ 10B   L 21100                                                                 ?
+ 10B 2 L %IT GT 0 $ %3HE GT 0                                                   
+ 10B 3 L XREF=G                                                                 
+ 10B  cL E         from {+7}Li({+3}He,|g).                                      
+ 10B   L 23.1E+3   1                                                            
+ 10B 2 L %IT GT 0 $ %N GT 0                                                     
+ 10B 3 L XREF=T                                                                 
+ 10B  cL WIDTH     Broad                                                        
+ 10B  cL E         from {+10}B(|g,n).                                           
+                                                                             

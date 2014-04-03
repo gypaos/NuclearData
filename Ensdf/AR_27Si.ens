@@ -1,0 +1,495 @@
+ 27SI    ADOPTED LEVELS, GAMMAS                                  11NDS    201108
+ 27SI  H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CIT=NDS 112, 1875 (2011)$           
+ 27SI2 H CUT=30-Nov-2010$                                                       
+ 27SI  Q -11669    2613314.69187463.20 16-9336.0 7     2011AUZZ,2003AU03        
+ 27SI c                                                                         
+ 27SI c  2004Va22: Measured |g-ray transition cross-section from 1.1. GeV proton
+ 27SI2c  spallation on {+28}Si; 5.0(9) and 2.5(8) mb for 782.7(3) and 960.3(7)  
+ 27SI3c  keV |g-rays, respectively.                                             
+ 27SI c                                                                         
+ 27SI c  1999Ue03: Measured Gamow Teller (GT) transition strengths B(GT)        
+ 27SI2c  of 0.32(3), 0.079(9), 0.28(7),0.09(1), 0.13(1) for excitation levels   
+ 27SI3c  of 0.0, 2160, 2650+2870, 3800, 4290 keV, respectively, from            
+ 27SI4c  {+27}Al({+6}Li,{+6}He) reaction, E=100 MeV/nucleon.                    
+ 27SI c                                                                         
+ 27SI cG E$Deduced by the evaluator from level energy differences.              
+ 27SI cG E(A)$From ({+16}O,n|g)                                                 
+ 27SI cG RI$Weighted averages of values from different reactions.               
+ 27SI cG M$Quoted from 1985Ti09 (p,n|g) or measured |d values, except otherwise 
+ 27SI2cG noted.                                                                 
+ 27SI cG M(B)$From ({+16}O,n|g)                                                 
+ 27SI cG MR$Weighted averages of values from 1967Da13, 1967Le15,                
+ 27SI2cG 1971Ma26, 1974Ri04, 1974Pr03, and 1977St32, except otherwise noted.    
+ 27SI3cG Sign convention as of the ENSDF policy.                                
+ 27SI cL E$From (p,n|g), except otherwise noted                                 
+ 27SI cL E(Z)$Weighted average of data from (p,n|g)-1971We12, 1972Mo02, 1985Ti09
+ 27SI2cL and (|a,n|g)-1977St32.                                                 
+ 27SI cL E(Y)$Weighted average of data from ({+3}He,|a) and ({+3}He,t)          
+ 27SI cL E(X)$From ({+16}O,n|g)                                                 
+ 27SI cL E(W)$From (p,|g)                                                       
+ 27SI cL J(V)$From ({+16}O,n|g)-2009Lo05 based on |g(|q), meanlife, and analogy 
+ 27SI2cL with mirror states in {+27}Al.                                         
+ 27SI cL J(T)$Assigned in 1996Og01 ({+27}P |b{++} decay) based on Gamow-Teller  
+ 27SI2cL strength function and logft values.                                    
+ 27SI cL T$Weighted average of data from 1986Ti02, 1985Ti09, 1972Ha22, 1971Ma49,
+ 27SI2cL 1971We12, and 1971Bi24, except otherwise noted. |G (keV) widths from   
+ 27SI3cL (p,|g) (1984Bu09).                                                     
+ 27SI cL T(U)$From ({+16}O,n|g)                                                 
+ 27SI  XA27P B+ DECAY                                                           
+ 27SI  XK28S B+P DECAY                                                          
+ 27SI  XG12C(16O,NG)                                                            
+ 27SI  XC24MG(A,NG)                                                             
+ 27SI  XJ25MG(3HE,N)                                                            
+ 27SI  XF26AL(P,G)                                                              
+ 27SI  XL26AL(3HE,D)                                                            
+ 27SI  XB27AL(P,NG)                                                             
+ 27SI  XE27AL(3HE,T)                                                            
+ 27SI  XI28SI(P,D)                                                              
+ 27SI  XD28SI(3HE,A)                                                            
+ 27SI  XH29SI(P,T)                                                              
+ 27SI PN                                                                     6  
+ 27SI  L 0.0         5/2+              4.15 S    4                              
+ 27SI2 L XREF=ABCHIJK                                                           
+ 27SI cL J$L=2 in (p,t) and from comparison of angular distribution measurement 
+ 27SI2cL with DWBA calculations (1974Na14); L=0 in {+25}Mg({+3}He,n),           
+ 27SIxcL J|p({+25}Mg)=5/2+                                                      
+ 27SI cL T$From the Limitation of Relative Statistical Weight Method (LWM) of   
+ 27SI2cL 4.14 s 2 (1958Mi85), 4.19 s 2 (1968Bl16), 4.17 s 1 (1968Go10), 4.109 s 
+ 27SI3cL 4 (1975Az01), and 4.206 s 8 (1976Ge06). LWM has used weighted average  
+ 27SI4cL and expanded the uncertainty to include the most precise value         
+ 27SI5cL of 4.109 s 4. An average value of 4.135 s {I19} is reported in 2008Se10
+ 27SI6cL from a compilation of half-lives.                                      
+ 27SI3 L %EC+%B+=100                                                            
+ 27SIB L MOME2=+0.063 14                                                        
+ 27SIB L MOMM1=0.8654 3                                                         
+ 27SI cL MOME2$From 2002Ma43 and 1999MaZK; other: 0.061(4) (1998MaZJ). 2005St24 
+ 27SI2cL lists data of 1999MaZK and 1998MaZJ (same research group).             
+ 27SI cL MOMM1$From 1999MaZK; others: (-)0.8652(4) (1998MaZJ) and (-)0.8554 {I4}
+ 27SI2cL (1984Hu11); reported in 1989Ra17 and 2005St24. 1998MaZJ and 1999MaZK   
+ 27SI3cL (same research group) corrected for diamagnetism. All three values are 
+ 27SI4cL measured using the |b-NMR method.                                      
+ 27SI  L 780.9     2 1/2+              35 PS     4                          Z   
+ 27SI2 L XREF=BCDHIK                                                            
+ 27SI cL J$L=0 (p,t)                                                            
+ 27SI  G 780.8       100        E2                                              
+ 27SI cG M$From experimental B(E2) value (1971We12 - (p,n|g))                   
+ 27SI  L 957.4     2 3/2+              1.20 PS    8                         Z   
+ 27SI2 L XREF=BCDGHIK                                                           
+ 27SI cL J$L=2 (p,t), 957.3|g (M1+E2) to 5/2+                                   
+ 27SI  G 176.4           6.4229  (M1)                                           
+ 27SIB G BM1W=0.17 6                                                            
+ 27SI  G 957.3          100.022 (M1+E2)  +0.50   4                              
+ 27SIB G BM1W=0.0157 8$BE2W=23 3                                                
+ 27SI  L 2163.6    2 7/2+              44 FS     5                          Z   
+ 27SI2 L XREF=BCDGHI                                                            
+ 27SI cL J$L=4 (p,t), 2163.5|g (M1+E2) to 5/2+                                  
+ 27SI  G 1206.1        0.5   LT                                                 
+ 27SI  G 1382.6        0.5   LT                                                 
+ 27SI  G 2163.5         100.0  (M1+E2)   -0.43   4                              
+ 27SIB G BM1W=0.041 12$BE2W=8.5 16                                              
+ 27SI  L 2647.6    3 5/2+              17 FS      2                         Z   
+ 27SI2 L XREF=BCDGHIJ                                                           
+ 27SI cL J$L=0 in {+25}Mg({+3}He,n), J|p({+25}Mg)=5/2+; L=2 (p,t)               
+ 27SI  G 1690.1           100 4 (M1+E2)  -0.083  14                             
+ 27SIB G BM1W=0.21 3$BE2W=2.6 10                                                
+ 27SI  G 1866.6           3.913(E2)                                             
+ 27SIB G BE2W=9 3                                                               
+ 27SI  G 2647.4            26 4 (M1+E2)  -0.40   6                              
+ 27SIB G BM1W=0.0120 24$BE2W=1.5 5                                              
+ 27SI  L 2866.3    3 (3/2,5/2)+         3 FS     LT                         Z   
+ 27SI2 L XREF=BCDGH                                                             
+ 27SI cL J$L=2 (p,t)                                                            
+ 27SI  G 702.6         0.52  LT                                                 
+ 27SI  G 1908.8         1    LT                                                 
+ 27SI  G 2085.3           4.211  (M1)                                           
+ 27SI  G 2866.1         100.021  (M1+E2)                                        
+ 27SI  L 2909.9    2 9/2+              52 FS     6                          Z   
+ 27SI2 L XREF=BCDGHI                                                            
+ 27SI cL J$L=4 (p,t), 2909.7|g to 5/2+ (E2+M3)                                  
+ 27SI  G 262.2         0.5   LT                                                 
+ 27SI  G 746.2            6.422 (M1)                                            
+ 27SIB G BM1W=0.061 23                                                          
+ 27SI  G 1952.4        0.5   LT                                                 
+ 27SI  G 2128.9        0.5   LT                                                 
+ 27SI  G 2909.7         100.022 (E2+(M3))-0.03   6                              
+ 27SI cG M,MR$From 1972Ba06 ({+3}He,|a). Other: +0.05 {I7} (1977St32 -(|a,n|g)) 
+ 27SIB G BE2W=10.1 13                                                           
+ 27SI  L 3540.2    11 1/2+              5 FS     LT                             
+ 27SI2 L XREF=BDGH                                                              
+ 27SI cL J$L=0 (p,t)                                                            
+ 27SI  G 2582.6            61 7                                                 
+ 27SI  G 2759.1           100 7                                                 
+ 27SI  L 3803.6    11 3/2+              7 FS     LT                         Z   
+ 27SI2 L XREF=BCDGH                                                             
+ 27SI cL J$L=0 (p,t), 3803.3|g to (M1+E2) to 5/2+                               
+ 27SI  G 1155.9            15 8 (M1)                                            
+ 27SI  G 3022.5            10 8                                                 
+ 27SI  G 3803.3           100 5 (M1)                                            
+ 27SI cG M,MR$From 1974Pr03 ({+3}He,|a)                                         
+ 27SI  L 4138.1    141/2-,(3/2-)         6 FS    3                              
+ 27SI2 L XREF=BDGI                                                              
+ 27SI cL J$L=1 (p,d)                                                            
+ 27SI  G 3180.4            11 5                                                 
+ 27SI  G 3356.9           100 5 (E1)                                            
+ 27SI  L 4289.2    9 5/2+               3.5 FS   14                             
+ 27SI2 L XREF=BCDGHI                                                            
+ 27SI cL J$L=2 (p,t), (p,d); 4289|g to 5/2+, 3331|g to 3/2+                     
+ 27SI  G 2125.5            13 8 M1+(E2)  +0.09    16                            
+ 27SI  G 3331.5            7910 M1+E2    +0.21   3                              
+ 27SIB G BM1W=0.07 3$BE2W=1.4 8                                                 
+ 27SI  G 4288.8           100 8 M1                                              
+ 27SIB G BM1W=0.041 18                                                          
+ 27SI  L 4447.3    5 (11/2+)           390 FS     40                        Z   
+ 27SI2 L XREF=BCDG                                                              
+ 27SI cL J$2283|g (E2) 7/2+, 1537.3|g M1+E2 to 9/2+                             
+ 27SI  G 1537.3          12.423 M1+E2    +0.9    7                              
+ 27SI  G 1799.6         2.2  LT                                                 
+ 27SI  G 2283.5         100.023 (E2)                                            
+ 27SIB G BE2W=4.2 5                                                             
+ 27SI  G 3489.6         2.2  LT                                                 
+ 27SI  G 3666.1         2.2  LT                                                 
+ 27SI  G 4446.9         2.2  LT                                                 
+ 27SI  L 4474.8    7 7/2+,(9/2+)         7 FS    LT                         Z   
+ 27SI2 L XREF=BCDGI                                                             
+ 27SI cL J$L=4 (p,d), 4474|g to 5/2+                                            
+ 27SI  G 4474.4      100                                                        
+ 27SI  L 4703.8    115/2+                5 FS    LT                             
+ 27SI2 L XREF=BDGHJ                                                             
+ 27SI cL J$L=0 in {+25}Mg({+3}He,n), J|p({+25}Mg)=5/2+                          
+ 27SI  G 2540.0         17.9 LT                                                 
+ 27SI  G 3746.1            7915 M1+(E2)  +1.8    LT                             
+ 27SI  G 4703.3           10015 M1+E2    +0.4    3                              
+ 27SI  L 5062      2 5/2+                21 FS   6                              
+ 27SI2 L XREF=BDGHI                                                             
+ 27SI cL J$L=2 (p,d), 4104|g M1+E2 to 3/2+                                      
+ 27SI  G 2414              2811                                                 
+ 27SI  G 4104             10011 M1+E2    +0.07   4                              
+ 27SIB G BM1W=0.012 4                                                           
+ 27SI  L 5208      2                      35 FS  LT                             
+ 27SI2 L XREF=BH                                                                
+ 27SI  G 2297           100  38                                                 
+ 27SI  G 3044              3519                                                 
+ 27SI  G 5207            73  40                                                 
+ 27SI  L 5227      5 1/2-,3/2-                                                  
+ 27SI2 L XREF=DI                                                                
+ 27SI cL J$L=1 in (p,d)                                                         
+ 27SI  L 5262.0    5 (3/2+ TO 9/2+)                                             
+ 27SI2 L XREF=F                                                                 
+ 27SI cL J$|g-ray feeding from resonance state (p,|g)                           
+ 27SI  L 5282.8    4 (7/2,11/2)+       17 FS     4                          Z   
+ 27SI2 L XREF=BCDG                                                              
+ 27SI cL J$From |g-ray angular correlation and meanlife measurements (1977St32 -
+ 27SI2cL (|a,n|g).                                                              
+ 27SI  G 2372.7           100 3                                                 
+ 27SI  G 2635.0         5.1  LT                                                 
+ 27SI  G 3119.0            28 3                                                 
+ 27SI  G 4325.0         2.6  LT                                                 
+ 27SI  G 4501.4         2.6  LT                                                 
+ 27SI  G 5282.2         2.6  LT                                                 
+ 27SI  L 5316.7    5                    31 FS    LT                         Z   
+ 27SI2 L XREF=BCD                                                               
+ 27SI  G 3152.9      100                                                        
+ 27SI  L 5391.7    16(3/2,5/2)+         31 FS    LT                             
+ 27SI2 L XREF=BD(5402)I                                                         
+ 27SI cL J$L=2 (p,d)                                                            
+ 27SI  L 5497      2                    10 FS    LT                             
+ 27SI2 L XREF=BD(5505)HJ(5510)                                                  
+ 27SI  L 5547      4                                                            
+ 27SI2 L XREF=DI                                                                
+ 27SI  L 5580      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 5613      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 5783      6                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 5897      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6028      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6059      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6323      4                                                            
+ 27SI2 L XREF=DI(*)                                                             
+ 27SI  L 6346      4                                                            
+ 27SI2 L XREF=DI(*)                                                             
+ 27SI  L 6457      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6513      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6572      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6587      6                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6626      3 1/2+                                                       
+ 27SI2 L XREF=AD                                                                
+ 27SI cL E,J$level energy from ({+3}He,|a). J|p from L=0 (1977Be13 - (p,t))     
+ 27SI2 L ISPIN=3/2                                                              
+ 27SI  L 6715      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6743      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 6780      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7005      8                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7059      5                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7080      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7134      5                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7223      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7239      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7260      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7276      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7324      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7341      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 7383      4                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 7428      4                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 7436      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 7469.3    6   (5/2+)                                               X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 6511.1    6   100      D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7531.6    5     5/2+            4.2 FS  LT                         X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI cL J         L(p)=2 resonance ({+16}O,n|g)                                
+ 27SI2 L FLAG=UV                                                                
+ 27SI  G 4883.5    5                                                        A   
+ 27SI  G 6573.5    9            D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7590.1    1    9/2+             13.9 FS 21                         X   
+ 27SI2 L XREF=DEGK                                                              
+ 27SI cL J         L(p)=0 resonance ({+16}O,n|g)                                
+ 27SI2 L FLAG=UV                                                                
+ 27SI  G 3115.6    14                                                       A   
+ 27SI  G 3143      3                                                        A   
+ 27SI  G 5425.9    1                                                        A   
+ 27SI  L 7651.6    1   (11/2+)            8.3 FS 21                         X   
+ 27SI2 L XREF=DEFGL                                                             
+ 27SI2 L FLAG=UV                                                                
+ 27SI  G 2371      4                                                        A   
+ 27SI  G 3204.1    1           D+Q                                          A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7694.3     9  (5/2+)             3.5 FS LT                         X   
+ 27SI2 L XREF=G                                                                 
+ 27SI2 L FLAG=UV                                                                
+ 27SI  G 5530.1    9  100      D+Q                                          A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7704.8    1   (7/2-)            0.7 FS  LT                         X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=UV                                                                
+ 27SI  G 5056.7    1  100      D                                            A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7738.8    1   (9/2+)           15 FS    3                          X   
+ 27SI2 L XREF=DEFGL                                                             
+ 27SI2 L FLAG=UV                                                                
+ 27SI cL           |G<0.3 keV (p,|g)                                            
+ 27SI  G 2421.6    4                                                        A   
+ 27SI  G 2455.9    4                                                        A   
+ 27SI  G 3291.3    1                                                        A   
+ 27SI  G 4828.7    5           D+Q                                          A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  G 5575.7    2                                                        A   
+ 27SI2 G FL=2163.6                                                              
+ 27SI  L 7795.2    19 (7/2+)                                                X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 5631.0    19  100     D+Q                                          A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7831.5    2 (9/2-)            6 FS      4                          X   
+ 27SI2 L XREF=DEFG                                                              
+ 27SI cL J$Assigned in 2009Lo01 ({+16}O,n|g). Other: (7/2+ to 11/2+) in 1984Bu09
+ 27SI2cL (p,|g).                                                                
+ 27SI2 L FLAG=UV                                                                
+ 27SI cL           |G<1.0 keV (p,|g)                                            
+ 27SI  G 2329.8    8                                                        A   
+ 27SI  G 3383.8    2                                                        A   
+ 27SI  G 4921.0    4                                                        A   
+ 27SI  G 5668.0    3                                                        A   
+ 27SI  L 7837.9    2   (1/2+)           0.7 FS   LT                             
+ 27SI2 L XREF=G                                                                 
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 6879.6    2   100      D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7899.7     6  (5/2+)           10 FS    7                          X   
+ 27SI2 L XREF=EG                                                                
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 3424.9    8                                                        A   
+ 27SI  G 6941.1    8            D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7909.0     7  (3/2+)                                               X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 7127.1    7   100      D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 7966.6     8  (5/2+)           8 FS     6                          X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI  G 7008.2    8   100                                                  A   
+ 27SI  L 8031.9     9  (5/2+)                                               X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 5384.2    9                                                        A   
+ 27SI  G 7071.6    19           D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 8070       3  (3/2-)                                               X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 7112      3   100      D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 8139.3     6  (1/2)             0.7 FS  LT                         X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 7180.9    6   100      D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 8156      2                   0.5 KEV   LT                         W   
+ 27SI2 L XREF=DEF                                                               
+ 27SI  L 8167.3    12 (11/2+)          0.5 KEV   LT                         X   
+ 27SI2 L XREF=DEFG                                                              
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 3719.4    12           D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  G 5261      4                                                        A   
+ 27SI  L 8175      3 (1/2,3/2)+                                             T   
+ 27SIX L XREF=A                                                                 
+ 27SI  L 8183.7     4  (3/2-)            2.8 FS  21                         X   
+ 27SI2 L XREF=FG                                                                
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 7401.7    4  100       D                                           A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 8200.1     7 (1/2,5/2)          9 FS    5                              
+ 27SIX L XREF=G                                                                 
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 7241.7    7  100                                                   A   
+ 27SI  L 8208.1    22 (7/2-)                                                X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 5298.3    22 100                                                   A   
+ 27SI  L 8224      2  (7/2+)            0.5 KEV   LT                        W   
+ 27SI2 L XREF=DEF                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  L 8287      3 (7/2+ TO 13/2+)   1.0 KEV   LT                         W   
+ 27SI2 L XREF=DF                                                                
+ 27SI2 L FLAG=V                                                                 
+ 27SI  L 8299      5                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 8327      2  (1/2,3/2)+                                            T   
+ 27SIX L XREF=AD(8310)E                                                         
+ 27SI cL E$From {+27}P |b{++} decay                                             
+ 27SI  L 8344.8     7 (7/2)                                                     
+ 27SIX L XREF=G                                                                 
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 5434.0    19                                                       A   
+ 27SI  G 6180.6    7                                                        A   
+ 27SI  L 8356      2 (3/2+ TO 9/2+)    0.5 KEV   LT                         W   
+ 27SI2 L XREF=DEF                                                               
+ 27SI cL J$Assigned in 1984Bu09 based on |g-ray feeding to 5/2+ (g.s.) and 7/2+ 
+ 27SI2cL (2163.6 keV) states.                                                   
+ 27SI  L 8375.8     9  (5/2+)            2.1 FS  14                         X   
+ 27SI2 L XREF=DEG                                                               
+ 27SI2 L FLAG=V                                                                 
+ 27SI  G 7417.3    9 100        D+Q                                         A   
+ 27SI2 G FLAG=B                                                                 
+ 27SI  L 8450      2 (1/2,3/2)+                                             T   
+ 27SI2 L XREF=AD(8440)E                                                         
+ 27SI cL E$From {+27}P |b{++} decay                                             
+ 27SI  L 8486      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 8523      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 8544      3                   4.8 KEV   7                              
+ 27SI2 L XREF=F                                                                 
+ 27SI  L 8557      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 8586      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 8669      3                   5.4 KEV   6                          W   
+ 27SI2 L XREF=D(8660)EF                                                         
+ 27SI  L 8724      4                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 8776      5                   16 KEV    4                          W   
+ 27SI2 L XREF=DE(8782)F                                                         
+ 27SI  L 8822      5                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 8864      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 8872      5                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 8931      4                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 8984      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9026      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9066      4 (1/2,3/2)+                                             T   
+ 27SI2 L XREF=AD                                                                
+ 27SI cL E$From {+27}P |b{++} decay                                             
+ 27SI  L 9074      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9140      2                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9164      12                                                           
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 9184      3                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 9215      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 9227      4                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 9237      2                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9256      4                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 9274      2                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9308      3                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9339      6                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9363      4                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9386      13                                                           
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 9409      3                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 9428      3                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 9438      18                                                           
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 9477      3                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 9547      4                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9576      4                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9615      6                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9655      4                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9715      2                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9764      2                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9791      2                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 9834      2                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 9856      3                                                            
+ 27SI2 L XREF=E                                                                 
+ 27SI  L 9895      2                                                            
+ 27SI2 L XREF=D                                                                 
+ 27SI  L 9916      2                                                        Y   
+ 27SI2 L XREF=DE                                                                
+ 27SI  L 9934      5                                                            
+ 27SI2 L XREF=E                                                                 
+

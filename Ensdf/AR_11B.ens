@@ -1,0 +1,364 @@
+ 11B     ADOPTED LEVELS, GAMMAS        1990AJ01                  12NP     201203
+ 11B   H TYP=FUL$AUT=J.H. KELLEY, C.G. SHEU$CIT=NP A880, 88 (2012)$             
+ 11B 2 H CUT=1-Jan-2011$                                                        
+ 11B   XA11BE B- DECAY                                                          
+ 11B   XB11C B+ DECAY                                                           
+ 11B   XC4HE(7LI,A)                                                             
+ 11B   XD6LI(6LI,P)                                                             
+ 11B   XE7LI(A,G) RES                                                           
+ 11B   XF7LI(A,N)                                                               
+ 11B   XG7LI(A,A)                                                               
+ 11B   XH7LI(6LI,DG),6LI(6LI,GP)                                                
+ 11B   XI7LI(7LI,T)                                                             
+ 11B   XJ7LI(7LI,ALPHA7LI)                                                      
+ 11B   XK7LI(9BE,ALPHA7LI)                                                      
+ 11B   XL9BE(D,G)                                                               
+ 11B   XM9BE(D,P),(D,A),(D,T)                                                   
+ 11B   XN9BE(T,N)                                                               
+ 11B   XO9BE(3HE,P)                                                             
+ 11B   XP9BE(A,D)                                                               
+ 11B   XQ9BE(6LI,A)                                                             
+ 11B   XR9BE(11B,11B')                                                          
+ 11B   XS10BE(P,G) RES                                                          
+ 11B   XT10BE(P,N)                                                              
+ 11B   XU10B(N,G) E=TH                                                          
+ 11B   XV10B(N,N) RES                                                           
+ 11B   XW10B(N,T) RES                                                           
+ 11B   XX10B(N,A) RES                                                           
+ 11B   XY10B(P,PI+)                                                             
+ 11B   XZ10B(D,P)                                                               
+ 11B   Xa10B(T,D)                                                               
+ 11B   Xb10B(7LI,6LI)                                                           
+ 11B   Xc10B(9BE,8BE)                                                           
+ 11B   Xd10B(13C,12C)                                                           
+ 11B   Xe11B(G,G)                                                               
+ 11B   Xf11B(G,N),(G,P),(G,D),(G,T)                                             
+ 11B   Xg11B(E,E')                                                              
+ 11B   Xh11B(PI+,PI+)                                                           
+ 11B   Xi11B(N,N'G)                                                             
+ 11B   Xj11B(P,P')                                                              
+ 11B   Xk11B(D,D')                                                              
+ 11B   Xl11B(3HE,3HE)                                                           
+ 11B   Xm11B(A,A')                                                              
+ 11B   Xn11B(6LI,6LI),(7LI,7LI)                                                 
+ 11B   Xo11B(12C,12C)                                                           
+ 11B   Xp12C(G,P)                                                               
+ 11B   Xq12C(E,E'P)                                                             
+ 11B   Xr12C(PI+,PI+P)                                                          
+ 11B   Xs12C(N,D)                                                               
+ 11B   Xt12C(P,2P)                                                              
+ 11B   Xu12C(P,PI+D)                                                            
+ 11B   Xv12C(D,3HE)                                                             
+ 11B   Xw12C(T,ALPHAG)                                                          
+ 11B   Xx12C(A,5LI)                                                             
+ 11B   Xy12C(6LI,7BE)                                                           
+ 11B   Xz12C(10BE,ALPHA7LI)                                                     
+ 11B   X112C(11B,11B),(11B,ALPHA7LI)                                            
+ 11B   X213C(P,3HE)                                                             
+ 11B   X313C(D,A)                                                               
+ 11B   X413C(11B,11B')                                                          
+ 11B   X514C(P,A)                                                               
+ 11B   X614C(11B,11B)                                                           
+ 11B   X714N(N,A)                                                               
+ 11B   X815N(A,8BE)                                                             
+ 11B   X916O(D,7BE)                                                             
+ 11B  cG E         From level energy difference; recoil correction applied      
+ 11B 2cG except where noted.                                                    
+ 11B   Q -1982.4   10 11454.1 6 11228.5 4 -8664.0 4    2011AUZZ                 
+ 11B  cQ           From mass excess ({+11}B)=8667.93 keV 42                     
+ 11B  PN                                                                     7  
+ 11B   L 0           3/2-              STABLE                                   
+ 11B 2 L ISPIN=1/2$MOMM1=+2.6886489 10 (1989Ra17)$MOME2=0.04065 26 (1970Ne05)   
+ 11B 3 L XREF=ABDEHILNOPQRUYZabcdeghijklmnopqrstuvwxy123456789                  
+ 11B   L 2124.693  271/2-              0.117 EV  4                              
+ 11B 2 L XREF=ADHILNOPQRYZaegijklmnopqrstuvwxy123456789                         
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+11}Be |b-decay.                                                      
+ 11B  cL WIDTH     From {+11}B(|g,|g').                                         
+ 11B   G 2124.473  27100       M1                                               
+ 11B 2 G WIDTHG=0.117 EV 4$BM1W=0.58 2                                          
+ 11B   L 4444.98    75/2-              0.55 EV   5                              
+ 11B 2 L XREF=ADEHILNOPQRUYZabcdegijklmnopqrstvw123456789                       
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+10}B(n,|g) thermal neutron capture.                                  
+ 11B  cL WIDTH     From 0.56 keV {I2} from {+11}B(|g,|g), 0.69 keV {I5} from    
+ 11B 2cL {+11}B(e,e') and 0.47 keV {I3} {+11}B(n,n'|g).                         
+ 11B   G 4444.03    8  100.    M1+E2     +0.158  +25-21                         
+ 11B 2 G WIDTHG=0.55 EV 5$BM1W=0.29 3$BE2W=6.1 22                               
+ 11B   L 5020.30   303/2-              1.97 EV   7                              
+ 11B 2 L XREF=ADHILOPQRYZabegijklmnpqstuvwy12345679                             
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+11}Be |b-decay. Also see 5021.1 keV {I6} from {+11}B(p,p').          
+ 11B  cL WIDTH     From {+11}B(|g,|g').                                         
+ 11B   G 2895.30   4014.4    6 M1+E2     +0.19   +10-17                         
+ 11B 2 G WIDTHG=0.28 EV 2$BM1W=0.54 3$BE2W=40 +80-9                             
+ 11B   G 5018.98   4085.6    6 M1+E2     -.036   13                             
+ 11B 2 G WIDTHG=1.69 EV 6$BM1W=0.63 2$BE2W=0.57 +49-35                          
+ 11B   L 6741.85    87/2-              0.030 EV  7                              
+ 11B 2 L XREF=DEHLOPQRUYZabcdejklmnpqwy2345689                                  
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+10}B(n,|g) thermal neutron capture.                                  
+ 11B  cL WIDTH     From {+11}B(|g,|g').                                         
+ 11B   G 2296.63   13  30    2 M1                                               
+ 11B 2 G WIDTHG=9.0E-3 EV 22$BM1W=3.5E-2 8                                      
+ 11B   G 6739.53   16  70    2 E2                                               
+ 11B 2 G WIDTHG=2.1E-2 EV 5$BE2W=1.26 30                                        
+ 11B  cG           |d(E2/M3)=-0.45 {I18} is reported but this is not reasonable.
+ 11B   L 6791.80   301/2+              0.39 EV   5                              
+ 11B 2 L XREF=ADEHLOPQRYZaejlmopqty3469                                         
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+11}Be |b-decay.                                                      
+ 11B  cL WIDTH     From {+11}B(|g,|g')                                          
+ 11B   G 1771.31   30 4.0    3 E1                                               
+ 11B 2 G FL=5020.30                                                             
+ 11B 3 G WIDTHG=1.56E-2 EV 23$BE1W=8.3E-3 12                                    
+ 11B   G 4665.90   4028.5    11E1                                               
+ 11B 2 G WIDTHG=0.111 EV 15$BE1W=3.25E-3 43                                     
+ 11B   G 6789.81   5067.5    11E1                                               
+ 11B 2 G WIDTHG=0.26 EV 3$BE1W=2.5E-3 3                                         
+ 11B   L 7285.51   435/2+              1.14 EV   8                              
+ 11B 2 L XREF=ADEHINOPQRYZaegijlmpqvw469                                        
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+11}Be |b-decay.                                                      
+ 11B  cL WIDTH     From {+11}B(|g,|g').                                         
+ 11B   G 2264.9      7.5     10E1+M2     +0.028  +73-75                         
+ 11B 2 G WIDTHG=8.6E-2 EV 13$BE1W=2.2E-2 3$BM2W LE 190                          
+ 11B   G 2840.23     5.5     10E1+M2     -.08    +16-12                         
+ 11B 2 G WIDTHG=6.3E-2 EV 12$BE1W=8.1E-3 16$BM2W LE 180                         
+ 11B   G 7282.92     87.0    20E1+M2     +.0001  +22-21                         
+ 11B 2 G WIDTHG=0.99 EV 7$BE1W=7.6E-3 6$BM2W LE 33                              
+ 11B   L 7977.84   423/2+              1.15 EV   15                             
+ 11B 2 L XREF=ADEHOQRYZegijlnpqvw46                                             
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+11}Be |b-decay.                                                      
+ 11B  cL WIDTH     From {+11}B(|g,|g')                                          
+ 11B   G 692.31    100.85    4 M1                                               
+ 11B 2 G WIDTHG=9.8E-3 EV 14$BM1W=1.4 2                                         
+ 11B   G 5851.47   4253.2    12E1                                               
+ 11B 2 G WIDTHG=0.61 EV 8$BE1W=9.1E-3 12                                        
+ 11B   G 7974.73     46.2    11E1                                               
+ 11B 2 G WIDTHG=0.53 EV 7$BE1W=3.1E-3 4                                         
+ 11B   L 8560.1    17(3/2-)            1.00 EV   9                              
+ 11B 2 L XREF=DHINOQRYZegijklmnpqw3456                                          
+ 11B  cL E         from E{-x}=8563 keV {I4} from {+10}B(d,p) and                
+ 11B 2cL E{-x}=8559.4 keV {I1}.9 from {+11}B(p,p').                             
+ 11B  cL WIDTH     From {+11}B(|g,|g').                                         
+ 11B   G 3539.38     9       1 M1                                               
+ 11B 2 G WIDTHG=9.0E-2 EV 13$BM1W=9.7E-2 14                                     
+ 11B   G 4114.6      5       1 M1                                               
+ 11B 2 G WIDTHG=5.0E-2 EV 11$BM1W=3.4E-2 8                                      
+ 11B   G 6433.6      30      2 M1                                               
+ 11B 2 G WIDTHG=0.30 EV 3$BM1W=5.4E-2 5                                         
+ 11B   G 8556.7      56      2 M1                                               
+ 11B 2 G WIDTHG=0.56 EV 5$BM1W=4.3E-2 4                                         
+ 11B   L 8920.47   115/2-              4.374 EV  23                             
+ 11B 2 L %IT=99.8 $ %A=0.14  $ WIDTHG=4.368 EV 21 $ WIDTHA=5.9E-3 EV 9          
+ 11B 3 L XREF=DEHNOQUYZbcegijklnwy235                                           
+ 11B  cL E         from least squares fit to |g-ray energies observed in        
+ 11B 2cL {+10}B(n,|g) thermal neutron capture.                                  
+ 11B  cL WIDTH     From {+7}Li(|a,|g).                                          
+ 11B   G 4474.5     3  4.5   5 M1+E2     -0.061  +25-22                         
+ 11B 2 G WIDTHG=0.20 EV 2$BM1W=0.10 1$BE2W=0.34 27                              
+ 11B   G 8916.67   16  95    1 M1+E2     0.000   14                             
+ 11B 2 G WIDTHG=4.15 EV  5$BM1W=0.28 3$BE2W LT 0.01                             
+ 11B   L 9183.5    107/2+              1.8 EV    +15-11                         
+ 11B 2 L %IT=9.4 $ %A=91.6 $ WIDTHG=0.17 EV +6-3 $ WIDTHA=1.6 EV +15-11         
+ 11B 3 L XREF=DEJOQYZbcfjl17                                                    
+ 11B  cL E         from E{-x}=9183 keV {I1} from {+7}Li(|a,|g) and              
+ 11B 2cL E{-x}=9185 keV {I2} from {+11}B(p,p').                                 
+ 11B  cL WIDTH     From {+7}Li(|a,|g).                                          
+ 11B   G 2441.8      12.5    11E1                                               
+ 11B 2 G WIDTHG=2.1E-2 EV 8$BE1W=4.3E-3 16                                      
+ 11B   G 4739.0      86.6    23E1                                               
+ 11B 2 G WIDTHG=0.15 EV 5$BE1W=4.1E-3 14                                        
+ 11B   G 9180.9      0.9     3 M2                                               
+ 11B 2 G WIDTHG=1.5E-3 EV 7$BM2W=0.32 15                                        
+ 11B   L 9271.7    105/2+              4 KEV     AP                             
+ 11B 2 L %IT AP 0.03 $ %A AP 99.97 $ WIDTHG=1.15 EV 16                          
+ 11B 3 L XREF=DEKOOQYZgjlz17                                                    
+ 11B  cL E         from E{-x}=9271 keV {I1} from {+7}Li(|a,|g) and              
+ 11B 2cL E{-x}=9274.4 keV {I2}.0 from {+11}B(p,p').                             
+ 11B  cL WIDTH     From {+7}Li(|a,|g).                                          
+ 11B   G 2529.       11.9     6                                                 
+ 11B   G 4826.       69.7    14                                                 
+ 11B   G 9269.       18.4     9                                                 
+ 11B   L 9820      25(1/2+)                                                     
+ 11B 2 L XREF=q                                                                 
+ 11B  cL E         from {+12}C(e,e'p).                                          
+ 11B   L 9873      4 3/2+              109 KEV   14                             
+ 11B 2 L %A GT 0                                                                
+ 11B 3 L XREF=AGOw7                                                             
+ 11B  cL E         from {+7}Li(|a,|a) and {+9}Be({+3}He,p).                     
+ 11B  cL WIDTH     From {+7}Li(|a,|a) and {+9}Be({+3}He,p).                     
+ 11B   L 10262     8 3/2-              163 KEV   22                             
+ 11B 2 L %IT GE 10.5 $ %A LE 89.5  $ WIDTHG0=17 KEV                             
+ 11B 3 L XREF=CEGKOlz17                                                         
+ 11B  cL E         from {+7}Li(|a,|g), {+7}Li(|a,|a), {+9}Be({+3}He,p) and      
+ 11B xcL {+12}C({+11}B,{+11}B').                                                
+ 11B  cL WIDTH     From {+7}Li(|a,|a) and {+9}Be({+3}He,p), also see |G=337 keV 
+ 11B 2cL {I44} from {+12}C({+11}B,{+11}B').                                     
+ 11B  cL WIDTHA    |G|a=4 keV (also<9 keV) is reported in                       
+ 11B 2cL {+4}He({+7}Li,|a) (2011Ya02), but |G=163 keV {I22}=|G|a + |G{-|g} since
+ 11B 3cL no other decay paths are open.                                         
+ 11B   L 10330     8 5/2-              112 KEV   10                             
+ 11B 2 L %IT GE 8.9E-3 $ %A AP 100 $ WIDTHG0 AP 1 EV                            
+ 11B 3 L XREF=CEGJOZz5                                                          
+ 11B  cL E         from {+7}Li(|a,|g), {+7}Li(|a,|a), {+9}Be({+3}He,p) and      
+ 11B xcL {+10}B(d,p).                                                           
+ 11B  cL WIDTH     From {+7}Li(|a,|a), {+9}Be({+3}He,p), {+10}B(d,p) and        
+ 11B 2cL {+14}C(p,|a); the value |G=54 keV {I17} from {+10}B(d,p) is included   
+ 11B 3cL though it is rather low.                                               
+ 11B  cL WIDTHA    |G|a=19 keV {I4} is reported in                              
+ 11B 2cL {+4}He({+7}Li,|a) (2011Ya02), but |G=112 keV=|G|a + |G{-|g} since      
+ 11B 3cL no other decay paths are open.                                         
+ 11B   L 10602     4 7/2+              91 KEV    20                             
+ 11B 2 L %IT AP 2E-4 $ %A AP 100 $ WIDTHG0 LT 0.2 EV                            
+ 11B 3 L XREF=CEGKOXgl17                                                        
+ 11B  cL E         from {+7}Li(|a,|a), {+9}Be({+3}He,p), {+12}C({+11}B,{+11}B') 
+ 11B xcL and {+14}C(p,|a).                                                      
+ 11B  cL WIDTH     From unweighted average of |G=70 keV {I10} from              
+ 11B 2cL {+7}Li(|a,|a), |G=122 keV {I20} from {+9}Be({+3}He,p) and |G=83 keV    
+ 11B 3cL {I22} from {+12}C({+11}B,{+11}B'). Also see |G=186 keV {I25} from      
+ 11B 3cL {+14}C(p,|a). Though it is rather low.                                 
+ 11B  cL WIDTHA    |G|a=10 keV {I3} is reported in                              
+ 11B 2cL {+4}He({+7}Li,|a) (2011Ya02), but |G=91 keV=|G|a + |G{-|g} since       
+ 11B 3cL no other decay paths are open.                                         
+ 11B   L 10960     505/2-              4.5 MEV   AP                             
+ 11B 2 L %A GT 0                                                                
+ 11B 3 L XREF=G7                                                                
+ 11B  cL E         from {+7}Li(|a,|a).                                          
+ 11B  cL WIDTH     From {+7}Li(|a,|a); the text gives two plausible values,     
+ 11B 2cL first Table 1 "Anomolies in the scattering" gives the value            
+ 11B 3cL |G>0.9 MeV, however Table 2 describes parameters from a                
+ 11B 4cL seven level fit to the data where |G|?4.5 MeV is given.                
+ 11B 5cL Also see (2011Ya11) who suggest a J|p=5/2+ level at 11.06 MeV {I4}     
+ 11B 6cL with |G|a=32 keV {I20}.                                                
+ 11B   L 11272     149/2+              110 KEV   20                             
+ 11B 2 L %A AP 100 $ %IT GT 0                                                   
+ 11B 3 L XREF=CGKOgl7                                                           
+ 11B  cL E         from {+7}Li(|a,|a) and {+9}Be({+3}He,p).                     
+ 11B  cL WIDTH     From {+9}Be({+3}He,p).                                       
+ 11B  cL WIDTHA    |G|a=35 keV {I4} is reported in                              
+ 11B 2cL {+4}He({+7}Li,|a) (2011Ya02); the resonance is observed in             
+ 11B 3cL {+7}Li(|a,|g), but not in p- or n-decay channels.                      
+ 11B   L 11450     17                  93 KEV    17                             
+ 11B 2 L %A GT 0                                                                
+ 11B 3 L XREF=GJOQ                                                              
+ 11B  cL E         from E{-x}=11480 keV {I30} from {+7}Li(|a,|a) and            
+ 11B 2cL E{-x}=11437 keV {I20} from {+9}Be({+3}He,p).                           
+ 11B  cL WIDTH     From |G=70 keV {I30} from {+7}Li(|a,|a) and                  
+ 11B 2cL |G=103 keV {I20} from {+9}Be({+3}He,p).                                
+ 11B   L 11600     205/2+              180 KEV   20                             
+ 11B 2 L %N LT 100 $ %A LT 100                                                  
+ 11B 3 L XREF=FGOXj5                                                            
+ 11B  cL E         |G: from {+7}Li(|a,|a), {+9}Be({+3}He,p) and {+14}C(p,|a).   
+ 11B   L 11893     135/2-              194 KEV    6                             
+ 11B 2 L %N LT 100 $ %A LT 100                                                  
+ 11B 3 L XREF=FGKOX                                                             
+ 11B  cL E         from {+7}Li(|a,n), {+7}Li(|a,|a) and {+9}Be({+3}He,p).       
+ 11B  cL WIDTH     From {+7}Li(|a,n).                                           
+ 11B   L 12.04E+3  137/2+              1 MEV     AP                             
+ 11B 2 L %N LT 100$ %A LT 100                                                   
+ 11B 3 L XREF=GX                                                                
+ 11B  cL E         |G: from {+7}Li(|a,|a).                                      
+ 11B 2cL In (2011Ya02) a state is reported at 11.59 MeV with J|p=(7/2-),        
+ 11B 3cL |G|a=270 keV and |G{-n}=580 keV.                                       
+ 11B   L 12554     131/2+,(3/2+)       205 KEV   20                             
+ 11B 2 L ISPIN=3/2 $ %IT GE 6E-3 $ %P LT 100 $ %A LT 100                        
+ 11B 3 L XREF=GJKOQSTfl                                                         
+ 11B  cL E         |G: from {+7}Li(|a,|a), {+9}Be({+3}He,p), {+10}Be(p,|g) and  
+ 11B 2cL {+11}B({+3}He,{+3}He).                                                 
+ 11B  cL WIDTHG    From |G{-|g0}=10 eV {I+7-5} and |G{-|g1}/|G{-|g0}=0.25 {I8}. 
+ 11B   L 12917     111/2-              230 KEV   20                             
+ 11B 2 L ISPIN=3/2 $ %IT GE 1.3E-2 $ %P LT 100 $ %A LT 100                      
+ 11B 3 L XREF=GKOSTj25                                                          
+ 11B  cL E         |G: from {+9}Be({+3}He,p), {+10}Be(p,|g), {+13}C(p,{+3}He)   
+ 11B xcL and {+14}C(p,|a).                                                      
+ 11B  cL WIDTHG    From |G{-|g0}=29 eV {I9} and |G{-|g1}/|G{-|g0}<0.06          
+ 11B   L 13137     409/2-              426 KEV   40                             
+ 11B 2 L %N LT 100 $ %3H GT 0 $ %A LT 100                                       
+ 11B 3 L XREF=CFJKOVWX                                                          
+ 11B  cL E         |G: from {+9}Be({+3}He,p). Also see {+7}Li(|a,|a).           
+ 11B  cL WIDTHA    In (2011Ya02) a state is reported at 13.03 MeV with          
+ 11B 3cL |G|a=140 keV {I+110-80}.                                               
+ 11B   L 13160       5/2+,7/2+         363 KEV                                  
+ 11B 2 L %N=? $ %A=?                                                            
+ 11B 3 L XREF=QVX                                                               
+ 11B  cL E         from {+9}Be({+6}Li,|a).                                      
+ 11B  cL WIDTH     From R-matrix fit in {+10}B(n,|a): E{-x}=13.2 MeV and |G     
+ 11B 2cL =363 keV.                                                              
+ 11B   L 14040     8011/2+             0.5 MEV   2                              
+ 11B 2 L %N=? $ %A=?                                                            
+ 11B 3 L XREF=FGKVX                                                             
+ 11B  cL E         from {+7}Li(|a,n) and {+7}Li(|a,|a).                         
+ 11B  cL WIDTH     From {+7}Li(|a,|a); also see |G=855 keV from {+10}B(n,|a).   
+ 11B   L 14340     205/2+              253 KEV   19                             
+ 11B 2 L ISPIN=3/2 $ %IT GE 6.3E-3 $ %P LT 100                                  
+ 11B 3 L XREF=KOPSl                                                             
+ 11B  cL E         from {+9}Be({+6}Li,|a) and {+11}B({+3}He,{+3}He').           
+ 11B  cL WIDTH     From {+9}Be({+3}He,p), {+10}B(p,|g) and                      
+ 11B xcL {+11}B({+3}He,{+3}He).                                                 
+ 11B  cL WIDTHG    From |G{-|g0}=14.5 and |G{-|g1}/|G{-|g0}<0.10.               
+ 11B   L 14563     11                  30 KEV    LE                             
+ 11B 2 L %N=? $ %3H=? $ %A=?                                                    
+ 11B 3 L XREF=FJOPVWl5                                                          
+ 11B  cL E         from {+9}Be({+3}He,p) and {+14}C(p,|a).                      
+ 11B  cL WIDTH     From {+9}Be({+3}He,p) and {+9}Be(|a,d).                      
+ 11B   L 15290     25(3/2,5/2,7/2)+    282 KEV   15                             
+ 11B 2 L ISPIN=3/2 $ %IT=? $ %N=? $ %P=? $ %A=?                                 
+ 11B 3 L XREF=SVXj5                                                             
+ 11B  cL ISPIN$tentative                                                        
+ 11B  cL E         |G: from {+14}C(p,|a). Also see |G=635 keV {I180} from       
+ 11B 2cL {+10}B(p,|g).                                                          
+ 11B   L 16432     10                  30 KEV    LE                             
+ 11B 2 L ISPIN=3/2 $ %P=? $ %D=? $ %A=?                                         
+ 11B 3 L XREF=LMOj5                                                             
+ 11B  cL E         from {+9}Be(d,p) and {+9}Be({+3}He,p).                       
+ 11B  cL WIDTH     From {+9}Be({+3}He,p).                                       
+ 11B   L 17310                         1 MEV     AP                             
+ 11B 2 L %N=? $ %D=? $ %3H=? $ %A=?                                             
+ 11B 3 L XREF=MWX                                                               
+ 11B  cL E         |G: from {+9}Be(d,p).                                        
+ 11B   L 17500     30                  116 KEV   25                             
+ 11B 2 L ISPIN=3/2 $ %IT=? $ %N=? $ %P=? $ %D=? $ %A=?                          
+ 11B 3 L XREF=FKLMO                                                             
+ 11B  cL E         from E{-x}=17435 keV {I50} from {+9}Be(d,|g){+7}Li and       
+ 11B 2cL E{-x}=17520 keV {I30} from {+7}Li(|a,n).                               
+ 11B  cL WIDTH     From |G=184 keV {I41} from {+9}Be(d,|g) and                  
+ 11B 2cL |G=91 keV {I25} from {+9}Be({+3}He,p).                                 
+ 11B   L 18.00E3   10                  0.87 MEV  10                             
+ 11B 2 L ISPIN=3/2                                                              
+ 11B 3 L XREF=O                                                                 
+ 11B  cL $Decay mode not specified                                              
+ 11B  cL E         |G: from {+9}Be({+3}He,p).                                   
+ 11B   L 18370     50(1/2,3/2,5/2)+    260 KEV   80                             
+ 11B 2 L %IT=? $ %D=?                                                           
+ 11B 3 L XREF=L                                                                 
+ 11B  cL E         |G: {+9}Be(d,|g).                                            
+ 11B   L 19125     26 +                115 KEV   25                             
+ 11B 2 L ISPIN=3/2                                                              
+ 11B 3 L XREF=O5                                                                
+ 11B  cL E         from {+9}Be({+3}He,p) and {+14}C(p,|a).                      
+ 11B  cL WIDTH     From {+9}Be({+3}He,p); also see |G=294 keV {I10} from        
+ 11B xcL {+14}C(p,|a).                                                          
+ 11B   L 19700       (1/2+)                                                     
+ 11B 2 L %IT=? $ %D=?                                                           
+ 11B 3 L XREF=LT                                                                
+ 11B  cL WIDTH     Broad                                                        
+ 11B  cL E         from {+9}Be(d,|g). Also see E{-x}=19.5 MeV from {+9}Be(d,p)  
+ 11B 2cL and {+10}B(n,|a).                                                      
+ 11B   L 21270     50                  300 KEV   30                             
+ 11B 2 L ISPIN=3/2                                                              
+ 11B 3 L XREF=O                                                                 
+ 11B  cL E         |G: from {+9}Be({+3}He,p).                                   
+ 11B   L 23700       (1/2,3/2,5/2)+                                             
+ 11B 2 L %IT=? $ %D=?                                                           
+ 11B 3 L XREF=L                                                                 
+ 11B  cL E         from {+9}Be(d,|g).                                           
+ 11B   L 26500                                                                  
+ 11B 2 L %IT=? $ %N=?                                                           
+ 11B 3 L XREF=f                                                                 
+ 11B  cL WIDTH     Broad                                                        
+ 11B  cL E         from {+11}B(|g,n).                                           
+                                                                                
+

@@ -1,0 +1,469 @@
+ 22NE    ADOPTED LEVELS, GAMMAS        1998EN04                  05NDS    200512
+ 22NE  H TYP=ERR$AUT=J. Tuli$DAT=5-Jul-2007$COM=Fixed FL value$                 
+ 22NE  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 106, 1 (2005)$CUT=1-Nov-2004$       
+ 22NE  Q -2842.3   4 10364.26 4 15266.118-9668.1 6     2003AU03                 
+ 22NE  XA22F B- DECAY                                                           
+ 22NE  XB22NA B+ DECAY                                                          
+ 22NE  XJ4HE(19F,PG)                                                            
+ 22NE  XD18O(A,G)                                                               
+ 22NE  XE18O(A,N)                                                               
+ 22NE  XO18O(6LI,D)                                                             
+ 22NE  XP18O(7LI,T),(7LI,TG)                                                    
+ 22NE  XG19F(A,PG)                                                              
+ 22NE  XF20NE(T,P)                                                              
+ 22NE  XN21NE(N,G) E=THERMAL                                                    
+ 22NE  XK21NE(D,P)                                                              
+ 22NE  XI22NE(G,G')                                                             
+ 22NE  XH22NE(E,E')                                                             
+ 22NE  XM22NE(P,P')                                                             
+ 22NE  XL23NA(T,A)                                                              
+ 22NE  XQ16O(7LI,T)                                                             
+ 22NE  XRCOULOMB EXCITATION                                                     
+ 22NE  XS7LI(18O,TG)                                                            
+ 22NE  XT11B(13C,D)                                                             
+ 22NE  XU23NA(D,3HE)                                                            
+ 22NE  XV26MG(D,6LI)                                                            
+ 22NE  XW26MG(3HE,7BE)                                                          
+ 22NE PN                                                                     6  
+ 22NE  L 0           0+                 STABLE                                  
+ 22NEX L XREF=ABDEFGHIJKLMNOPQRSTUVW                                            
+ 22NE  L 1274.577  7 2+                3.63 PS   5                              
+ 22NE2 L MOMM1=+0.65 2 $ MOME2=-0.17 3                                          
+ 22NEX L XREF=ABDFGHKLNOPQRSTUVW                                                
+ 22NE cL J$E2 to 0+                                                             
+ 22NE  G 1274.537  7 100       E2                                               
+ 22NEB G BE2W=12.5 5                                                            
+ 22NE  L 3357.7    3 4+                225 FS    6                              
+ 22NEX L XREF=ADFGKLOPQTUVW                                                     
+ 22NE2 L MOMM1=+2.2 6                                                           
+ 22NE cL J$L=4 in ({+6}Li,d)                                                    
+ 22NE  G 2082.6    5 100       E2                                               
+ 22NEB G BE2W=17.5 4                                                            
+ 22NE  L 4455.8    3 2+                37 FS     6                              
+ 22NEX L XREF=ADFGHJKLOPQTUVW                                                   
+ 22NE cL J$E2 to 0+                                                             
+ 22NE  G 3179.4    9    100.021M1+E2     +0.09   2                              
+ 22NEB G BM1W>0.065$BE2W>0.21                                                   
+ 22NE  G 4456             3.121E2                                               
+ 22NEB G BE2W>0.26                                                              
+ 22NE  L 5146.3    4 2-                0.8 PS    2                              
+ 22NEX L XREF=DFGJKLPTUV                                                        
+ 22NE cL J$E1 to 2+, L=1+3 in (t,p)                                             
+ 22NE  G 689.8     6       89 6 E1+M2    -0.29   2                              
+ 22NEB G BE1W=0.0015 4                                                          
+ 22NE  G 3871.0    6      100 6 E1+M2    +0.96   8                              
+ 22NE  L 5331.8    7 1+                1.1 FS    2                              
+ 22NEX L XREF=DGHIKLT                                                           
+ 22NE cL J$M1 to 0+ and 2+                                                      
+ 22NE  G 4058.6    20      49 8 M1+E2    +1.9    5                              
+ 22NE  G 5333.3    20     100 8 M1                                              
+ 22NEB G BM1W=0.088 19                                                          
+ 22NE  L 5363.2    6 2+                69 FS     12                             
+ 22NEX L XREF=FGKLOPTV                                                          
+ 22NE cL J$E2 to 0+                                                             
+ 22NE  G 4088.4    11   100   4 M1+E2    -0.12   6                              
+ 22NE  G 5362.7    11   16    4 E2                                              
+ 22NEB G BE2W>0.087                                                             
+ 22NE  L 5523.7    6 (4)+              23 FS     3                              
+ 22NEX L XREF=AFGJKLOPTV                                                        
+ 22NE cL J$L=4 in ({+6}Li,d) but J=3 from {+11}B({+13}C,d)                      
+ 22NE  G 2166.1    5    100.0 3 M1+E2    -0.04   3                              
+ 22NEB G BM1W=0.112 18                                                          
+ 22NE  G 4247.9    10     1.6 3 E2                                              
+ 22NEB G BE2W=0.093 23                                                          
+ 22NE  L 5641.4    6 3+                3 FS      LT                             
+ 22NEX L XREF=AFGJKLPTV                                                         
+ 22NE cL J$M1 to 2+, L=2 in (d,p)                                               
+ 22NE  G 2283.9    7       45 3 M1+E2    -0.12   17                             
+ 22NEB G BM1W>0.038                                                             
+ 22NE  G 4366.1    10     100 3 M1+E2    +0.18   3                              
+ 22NE  L 5910.1    9 3-                33 FS     11                             
+ 22NEX L XREF=AFGLOPTV                                                          
+ 22NE cL J$E1 to 2+. |g to 4+                                                   
+ 22NE  G 1454.9    20      21 6 E1+M2    +0.19   10                             
+ 22NE  G 2551.8    20      21 6                                                 
+ 22NE  G 4635.5    20     100 4 E1+M2    +0.17   6                              
+ 22NE  L 6120.1    9 2+                24 FS     9                              
+ 22NEX L XREF=FGHKLOPTV                                                         
+ 22NE cL J$E2 to 0+                                                             
+ 22NE  G 1664.6    18      17 4 M1+E2    +1.1    3                              
+ 22NE  G 4844.7    16     100 4 M1+E2    +2.3    3                              
+ 22NE  G 6119.0    26       4 3 E2                                              
+ 22NE cG M$M3 admixture from (e,e') is impossible for 2+ to 0+ transition       
+ 22NE  L 6234.3    130+                240 FS    80                             
+ 22NEX L XREF=FGOPQV                                                            
+ 22NE cL J$L=0 in (t,p)                                                         
+ 22NE  G 901       2    100                                                     
+ 22NE  L 6310.3    8 (6)+              48 FS     4                              
+ 22NEX L XREF=DGJL Q(6350)T                                                     
+ 22NE cL J$E2 to 4+; L=6 in {+16}O({+7}Li,t)                                    
+ 22NE  G 2952.1    10   100    E2                                               
+ 22NEB G BE2W=13.7 17                                                           
+ 22NE  L 6346.5    8 4+                13 FS     3                              
+ 22NEX L XREF=ADFGJKLPQTV                                                       
+ 22NE cL J$L=4 in (t,p)                                                         
+ 22NE  G 2987.7    9 100       M1+E2     +0.68   16                             
+ 22NE  L 6635.4    6 3+                49 FS     21                             
+ 22NEX L XREF=FGJKLTV                                                           
+ 22NE cL J$M1 to 4+, |g to 2+, L=2 in (d,p)                                     
+ 22NE  G 3276.8    9      100 6 M1+E2    -0.9    2                              
+ 22NE  G 5360.5    8       89 6                                                 
+ 22NE  L 6691      4 1-                240 FS    130                            
+ 22NEX L XREF=FGLPV                                                             
+ 22NE cL J$L=1 in (t,p)                                                         
+ 22NE  G 5416      11      45 9                                                 
+ 22NE  G 6690      11     100 9 (E1)                                            
+ 22NE  L 6819.4    7 2+                 3 FS     LT                             
+ 22NEX L XREF=FGJKLPTV                                                          
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  G 1455.9    18     43 16                                                 
+ 22NE  G 1673.3    18     57 16                                                 
+ 22NE  G 2363.1    18    100 16 M1+E2    +2.5    4                              
+ 22NE  G 5544.1    16     70 16 M1+E2    +0.10   10                             
+ 22NE  L 6855.5    7 1+                280 AS    110                            
+ 22NEX L XREF=DFGHIKLMT                                                         
+ 22NE cL J$M1 to 0+ and 2+                                                      
+ 22NE cL T$From (e,e') and |g adopted branching ratio.                          
+ 22NE  G 5578.2    16      3910 M1+E2    +1.3    5                              
+ 22NE  G 6852.5    16     10010 M1                                              
+ 22NEB G BM1W=0.21 5                                                            
+ 22NE  L 6900.3    17(0,1)+            76 FS     8                              
+ 22NEX L XREF=FGLP                                                              
+ 22NE cL J$L=0 in ({+7}Li,t), E2 |g to 2+                                       
+ 22NE  G 5625.2    20 100       E2                                              
+ 22NE  L 7050.9    141-                100 FS    30                             
+ 22NEX L XREF=FGKLPT                                                            
+ 22NE cL J$L=1 in (t,p)                                                         
+ 22NE  G 5776      3    100  5                                                  
+ 22NE  G 7050      3     16  5                                                  
+ 22NE  L 7340.7    9  0+               3 FS      LT                             
+ 22NEX L XREF=AGKLOPTV                                                          
+ 22NE cL J$L=0 in ({+7}Li,t)                                                    
+ 22NE  G 2007.0    23   100  8 (M1)                                             
+ 22NE  G 2884.7    11    75  8 (E2)                                             
+ 22NE  L 7342.8    8 (3,4)+            35 FS     21                             
+ 22NEX L XREF=FGT                                                               
+ 22NE cL J$M1 to 4+, |g to 3-                                                   
+ 22NE  G 1433.6    20     24 11                                                 
+ 22NE  G 3983.5    10    100 11 M1+E2    -0.7    3                              
+ 22NE  L 7405.9    6  3-               32 FS     10                             
+ 22NEX L XREF=FGKLPTV                                                           
+ 22NE cL J$E1 to 2+, (|a,p|g)                                                   
+ 22NE  G 2259.8    12     100 3 M1+E2    +1.3    4                              
+ 22NE  G 6130.4    7       56 3  E1                                             
+ 22NE  L 7422.1    12(5+)              3 FS      LT                             
+ 22NEX L XREF=AFGLT                                                             
+ 22NE cL J$From (|a,p|g)                                                        
+ 22NE  G 1898.4    14 100                                                       
+ 22NE  L 7469      2                   55 FS     21                            ?
+ 22NEX L XREF=GKL                                                               
+ 22NE  G 1559      3  100                                                       
+ 22NE  L 7491.0    8 1-                                                         
+ 22NEX L XREF=DFGLP                                                             
+ 22NE cL J$E1 to 0+                                                             
+ 22NE  G 1369      5       10 6                                                 
+ 22NE  G 2126      5       10 6                                                 
+ 22NE  G 6212      5       23 6                                                 
+ 22NE  G 7479      5      100 6 E1                                              
+ 22NE  L 7643.0    6 2+                470 AS    200                            
+ 22NEX L XREF=FGHKOPTV                                                          
+ 22NE cL J$E2 to 0+                                                             
+ 22NE  G 3186.7    15      42 5                                                 
+ 22NE  G 6367.5    13     100 5 M1+E2     0.08   5                              
+ 22NE  G 7641.7    8       12 5 E2                                              
+ 22NE  L 7664.8    6 2-                 130 AS   60                             
+ 22NEX L XREF=FGHK                                                              
+ 22NE cL J$M2 to 0+                                                             
+ 22NE  G    1428.7 20                                                           
+ 22NE  G   3208            19                                                   
+ 22NE  G   6390           100   E1+M2     -0.08  5                              
+ 22NE  G   7664            18   M2                                              
+ 22NE  L 7722.0    1 3-                                                         
+ 22NEX L XREF=FGKOPTV                                                           
+ 22NE cL J$L=2 in ({+7}Li,t)                                                    
+ 22NE  G 1602.0    20      1916                                                 
+ 22NE  G 2197.4    14      2516                                                 
+ 22NE  G 2575.8    14      2216                                                 
+ 22NE  G 3265.5    14     10016                                                 
+ 22NE  G 4362.8    11      7816                                                 
+ 22NE  G 6446.4    1       6916 E1+M2                                           
+ 22NE  L 7922.6    8 (2)+                                                       
+ 22NEX L XREF=FGKPTV                                                            
+ 22NE cL J$L=2 in (t,p) but J=3 from {+11}B({+13}C,d)                           
+ 22NE  G 580       2                                                            
+ 22NEF G FL=7342.8                                                              
+ 22NE  G 1102      3                                                            
+ 22NE  G 2396.9    20                                                           
+ 22NE  G 6648        100       M1(+E2)   -0.00   7                              
+ 22NE  L 8076.4    7       (4)+                                                 
+ 22NEX L XREF=FGKPT                                                             
+ 22NE cL J$L=2 in (d,p) but J=3 from {+11}B({+13}C,d)                           
+ 22NE  G    1765.8 17     50 22                                                 
+ 22NE  G    2713.3 18     36 22                                                 
+ 22NE  G    4717.7 14     10022                                                 
+ 22NE  G    6801.2 14     92 22                                                 
+ 22NE  L 8134.3    9 2+                                                         
+ 22NEX L XREF=FGKOPTV                                                           
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  G    1314.9 16      8 3                                                  
+ 22NE  G  6858.6   4     100 3  M1+E2     0.48   5                              
+ 22NE  L 8161.8    9 2+,3,4+                                                    
+ 22NEX L XREF=FG                                                                
+ 22NE cL J$|g's to 2+ and 4+                                                    
+ 22NE  G    1342.8 21      8  8                                                 
+ 22NE  G    4802.9 13     44  8                                                 
+ 22NE  G    6886.4 13   100   8                                                 
+ 22NE  L 8375.9    10 (3)-                                                      
+ 22NEX L XREF=FGKPTV                                                            
+ 22NE cL J$L=3 in (t,p) but J=5 from {+11}B({+13}C,d)                           
+ 22NE  G     712.2 19     8   7                                                 
+ 22NE  G     1476   3     8   7                                                 
+ 22NE  G    5016.6 16   100   7                                                 
+ 22NE  G    7100.1 16    28   7                                                 
+ 22NE  L 8452      7                                                            
+ 22NEX L XREF=V                                                                 
+ 22NE  L 8488.7    8 2+                                                         
+ 22NEX L XREF=FGKPT                                                             
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  G     412.7 18    32  32                                                 
+ 22NE  G    1144.9 14   100  32                                                 
+ 22NEF G FL=7342.8                                                              
+ 22NE  G    2254.5 23    82  32                                                 
+ 22NE  G    2847.9 16    71  32                                                 
+ 22NE  G    5130.3 12    71  32                                                 
+ 22NE  L 8553      3 (1,2)+              0.35 FS 13                             
+ 22NEX L XREF=FGIK                                                              
+ 22NE cL J$L=2 in (d,p), |g to 0+ and 1-                                        
+ 22NE  G 1864      4      72 12                                                 
+ 22NE  G 8551      4      10012                                                 
+ 22NE  L 8573      10                                                           
+ 22NEX L XREF=V                                                                 
+ 22NE  L 8596.0    11   2+                                                      
+ 22NEX L XREF=FGKPT                                                             
+ 22NE cL J$L=2 in ({+7}Li,t)                                                    
+ 22NE  G     519.1 17    100  6                                                 
+ 22NE  G    3449.7 14     20  6                                                 
+ 22NE  L 8740.0    9 (3)-                                                       
+ 22NEX L XREF=FGKTV                                                             
+ 22NE cL J$L=3 in (t,p) but J=5 from {+11}B({+13}C,d)                           
+ 22NE  G    1396.3 16      1912                                                 
+ 22NEF G FL=7342.8                                                              
+ 22NE  G      1690 3       2812                                                 
+ 22NE  G    4284.4 16     10012                                                 
+ 22NE  G    5381.6 14      2812                                                 
+ 22NE  L 8854.9    13      4+                                                   
+ 22NEX L XREF=FGK                                                               
+ 22NE cL E$L=2 in (d,p)                                                         
+ 22NE  G    1449.3 17     39 10                                                 
+ 22NE  G    2544.1 18    100 10                                                 
+ 22NE  L 8899.0    8                                                            
+ 22NEX L XREF=DGKMT                                                             
+ 22NE cL J$Reported as doublet of 1- and (4,5)+ 1998En04.                       
+ 22NE  G    1477.2 20     54 33                                                 
+ 22NE  G    1559.1 20    100 33                                                 
+ 22NEF G FL=7342.8                                                              
+ 22NE  G    2589.1 19     79 33                                                 
+ 22NE  G    3258.4 20     54 33                                                 
+ 22NE  G    3536.6 20     58 33                                                 
+ 22NE  L 8976      3                                                            
+ 22NEX L XREF=FGOT                                                              
+ 22NE  G      1312 3      56 11                                                 
+ 22NE  G      1925 3     100 11                                                 
+ 22NE  L 9045      3  2+,3-                                                     
+ 22NEX L XREF=FGKV                                                              
+ 22NE cL J$|g's to 4+, 1-                                                       
+ 22NE  G 1402      3      71 24                                                 
+ 22NE  G 1994      3      92 24                                                 
+ 22NE  G 5685      3     100 24                                                 
+ 22NE  L 9097      3 1-                0.08 FS   +4-2                           
+ 22NEX L XREF=FKOT                                                              
+ 22NE cL J$L=1 in (d,p)                                                         
+ 22NE  G 4641      3 100                                                        
+ 22NE  L 9162      3                                                            
+ 22NEX L XREF=IO                                                                
+ 22NE  G 9162      3 100                                                        
+ 22NE  L 9177.4    7  (4)+                                                      
+ 22NEX L XREF=FGMT                                                              
+ 22NE cL J$L=4 in (t,p)  but J=5 from {+11}B({+13}C,d)                          
+ 22NE  G    3266.8 20     64 11                                                 
+ 22NE  G    4721.4 11     25 11                                                 
+ 22NE  G    5818.6 8     100 11                                                 
+ 22NE  L 9178      3   1+              84 AS     3                              
+ 22NEX L XREF=I                                                                 
+ 22NE cL J$From (pol |g,|g).                                                    
+ 22NE  L 9229      3   2+                                                       
+ 22NEX L XREF=FGOV                                                              
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  G  1565     3      79 9                                                  
+ 22NE  G  2178     3     100 9                                                  
+ 22NE  L 9250      3                                                            
+ 22NEX L XREF=G                                                                 
+ 22NE  G 1528      3     100 11                                                 
+ 22NE  G 3130      3      56 11                                                 
+ 22NE  L 9324      2                                                            
+ 22NEX L XREF=GT                                                                
+ 22NE  G    1601.9 20 100                                                       
+ 22NE  L 9508      7                                                            
+ 22NEX L XREF=FGOT                                                              
+ 22NE  L 9541      8   2+                                                       
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  L  9625     12                                                           
+ 22NEX L XREF=GOT                                                               
+ 22NE  G  3314     20     45                                                    
+ 22NE  G  6465     20    100                                                    
+ 22NE  L 9652      8                                                            
+ 22NEX L XREF=FT                                                                
+ 22NE  L 9725      7  (3-)                                                      
+ 22NEX L XREF=FGO                                                               
+ 22NE cL J$L=(3) in ({+7}Li,t)                                                  
+ 22NE  L 9842      8  (2+)                                                      
+ 22NEX L XREF=FGO                                                               
+ 22NE cL J$L=(2) in ({+7}Li,t)                                                  
+ 22NE  L 10066     8  (0+)                                                      
+ 22NEX L XREF=FO                                                                
+ 22NE cL J$L=(0) in ({+7}Li,t)                                                  
+ 22NE  L 10137     7   2+                                                       
+ 22NEX L XREF=FGO                                                               
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  L 10208.9   13  1-              2 KEV     LT                             
+ 22NEX L XREF=DFGIO                                                             
+ 22NE cL J$L=1 in ({+6}Li,d), gamma to 0+                                       
+ 22NE  G    8934.3 13      25 6                                                 
+ 22NE  G   10208.9 13     100 6 E1                                              
+ 22NE  L 10282.7   13  (0+,1-,2+)      2 KEV     LT                             
+ 22NEX L XREF=DGO                                                               
+ 22NE cL J$From (|a,|g) angular distributions                                   
+ 22NE  G    2791.7 13      23 7                                                 
+ 22NE  G    3427.2 13      45 9                                                 
+ 22NE  G    4950.9 13     10012                                                 
+ 22NE  G    5826.9 13       2 1                                                 
+ 22NE  G    9008.1 13      5712                                                 
+ 22NE  L 10297.3   13  (0+,1-,2+)       2 KEV    LT                             
+ 22NEX L XREF=DF                                                                
+ 22NE cL J$From (|a,|g) angular distributions                                   
+ 22NE  G    2806.3 13      19 5                                                 
+ 22NE  G    3441.8 13      16 5                                                 
+ 22NE  G    4965.5 13      30 7                                                 
+ 22NE  G    5841.5 13      11 4                                                 
+ 22NE  G    9022.7 13     10012  M1+E2      0.04 5                              
+ 22NEF G FL=1274.577                                                            
+ 22NE  L 10384     15                                                           
+ 22NEX L XREF=FGNO                                                              
+ 22NE  L 10423     10                                                           
+ 22NEX L XREF=FGO                                                               
+ 22NE  G     4094  20                                                           
+ 22NE  L 10469     8  3-                                                        
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=3 in (t,p)                                                         
+ 22NE  L 10493.3   19 2+                                                        
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  L    10551  15 2+                                                        
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  L 10616     3                    6 KEV                                   
+ 22NEX L XREF=DEFGO                                                             
+ 22NE  G     4270         100 8                                                 
+ 22NE  G     7260          52 8                                                 
+ 22NE  L 10696     4                    4 KEV    LT                             
+ 22NEX L XREF=DO                                                                
+ 22NE  G 7340          100                                                      
+ 22NE  L 10706     4                    10 KEV   LT                             
+ 22NEX L XREF=DF                                                                
+ 22NE  G 9430          100                                                      
+ 22NE  L 10749     3                    6 KEV                                   
+ 22NEX L XREF=DEG                                                               
+ 22NE  G 4439      3   100                                                      
+ 22NE  G 7391      3    92                                                      
+ 22NE  L 10857     3    3-              6 KEV                                   
+ 22NEX L XREF=DEFO                                                              
+ 22NE cL J$L=3 in (t,p)                                                         
+ 22NE  G 9582      3   100                                                      
+ 22NE  L 10921     3    1-              24 KEV                                  
+ 22NEX L XREF=DEFM                                                              
+ 22NE cL J$L=1 in (t,p)                                                         
+ 22NE  G 9646      3   100    9                                                 
+ 22NE  G 10921     3    79    9                                                 
+ 22NE  L 11032     6   (8+)             10 KEV   LT                             
+ 22NE cL J$From {+19}F(|a,p|g) angular correlations                             
+ 22NEX L XREF=DGO                                                               
+ 22NE  G 4686      6   100                                                      
+ 22NE  L 11064     10 2+                                                        
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=2 in (t,p)                                                         
+ 22NE  L 11130     5  6,7               5 KEV    LT                             
+ 22NEX L XREF=DGO                                                               
+ 22NE cL J$From {+19}F(|a,p|g) angular correlations                             
+ 22NE  G 4784      5   100                                                      
+ 22NE  L 11194     3                    7 KEV                                   
+ 22NEX L XREF=DEF                                                               
+ 22NE  G 2295      3   100    4                                                 
+ 22NE  G 9919      3    18    4                                                 
+ 22NE  L 11271     4                    12 KEV                                  
+ 22NEX L XREF=DEFO                                                              
+ 22NE  G 6125      4   100   15                                                 
+ 22NE  G 7913      4    81   15                                                 
+ 22NE  L 11433     6                    48 KEV                                  
+ 22NEX L XREF=DEF                                                               
+ 22NE  G 10158     6   100                                                      
+ 22NE  L 11465     3   7                3 KEV    LT                             
+ 22NE cL J$From {+19}F(|a,p|g) angular correlations                             
+ 22NEX L XREF=DEG                                                               
+ 22NE  G 6319      3   100    4                                                 
+ 22NE  G 10190     3    33    4                                                 
+ 22NE  G 11465     3    49    4                                                 
+ 22NE  L 11533     10                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  G 5213      10  100                                                      
+ 22NE  L 11577     5                    18 KEV                                  
+ 22NEX L XREF=EF                                                                
+ 22NE  L 11656     10                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 11686     5                    9 KEV                                   
+ 22NEX L XREF=DE                                                                
+ 22NE  L 11708     15                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 11772     10  3-                                                       
+ 22NEX L XREF=DF                                                                
+ 22NE cL J$L=3 in (t,p)                                                         
+ 22NE  L 11896     10                                                           
+ 22NEX L XREF=DFM                                                               
+ 22NE  L 12000     10                                                           
+ 22NEX L XREF=M                                                                 
+ 22NE  L 12071     15                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 12218     15                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 12280     10                                                           
+ 22NEX L XREF=D                                                                 
+ 22NE  L 12390     10  3-                                                       
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=3 in (t,p)                                                         
+ 22NE  L 12450     20  (0+,1-)                                                  
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=0,1 in (t,p)                                                       
+ 22NE  L 12643     15                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 12862     15  (3-)                                                     
+ 22NEX L XREF=F                                                                 
+ 22NE cL J$L=(3) in (t,p)                                                       
+ 22NE  L 12910     15                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 13078     20                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 13274     20                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 13384     15                                                           
+ 22NEX L XREF=F                                                                 
+ 22NE  L 13460     10                                                           
+ 22NEX L XREF=M                                                                 
+ 22NE  L 13890     20                                                           
+ 22NEX L XREF=M                                                                 
+ 22NE  L 14060     20                                                           
+ 22NEX L XREF=M                                                                 
+ 22NE  L 15580     40                                                           
+ 22NEX L XREF=M                                                                 
+ 22NE  L 16510     10                                                           
+ 22NEX L XREF=M                                                                 
+

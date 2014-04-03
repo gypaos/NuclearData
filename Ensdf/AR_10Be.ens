@@ -1,0 +1,250 @@
+ 10BE    ADOPTED LEVELS, GAMMAS        2004TI06                  04NP     200705
+ 10BE  H TYP=FUL$AUT=J.H. KELLEY, C.G.SHEU AND J.L. GODWIN, ET AL.$             
+ 10BE2 H CIT=NP A745 155 (2004)$CUT=31-Mar-2004$                                
+ 10BE  Q 556.0     6 6812.2  6 19636.6 19-7413.3 9     2003AU03                 
+ 10BE  XA6LI(6HE,A6HE),(6HE,10BE)                                               
+ 10BE  XB7LI(T,G),(T,N),(T,P),(T,T)                                             
+ 10BE  XC7LI(3HE,PI+)                                                           
+ 10BE  XD7LI(A,P)                                                               
+ 10BE  XE7LI(7LI,A),(7LI,AG)                                                    
+ 10BE  XF9BE(N,G) E=THERMAL                                                     
+ 10BE  XG9BE(N,N),(N,N'),(N,2N)                                                 
+ 10BE  XH9BE(N,P),(N,D),(N,T)                                                   
+ 10BE  XI9BE(P,PI+)                                                             
+ 10BE  XJ9BE(D,P),(D,PG)                                                        
+ 10BE  XK9BE(A,3HE)                                                             
+ 10BE  XL9BE(7LI,6LI),(8LI,7LI)                                                 
+ 10BE  XM9BE(9BE,8BE)                                                           
+ 10BE  XN9BE(11BE,10BEG),(11B,10B)                                              
+ 10BE  XO9BE(14N,13N)                                                           
+ 10BE  XP10BE(P,P'),(D,D)                                                       
+ 10BE  XQ10B(G,PI+)                                                             
+ 10BE  XR10B(MU-,NU)                                                            
+ 10BE  XS10B(PI-,G)                                                             
+ 10BE  XT10B(N,P),(D,2P)                                                        
+ 10BE  XU10B(T,3HE)                                                             
+ 10BE  XV10B(7LI,7BE)                                                           
+ 10BE  XW11LI B-N DECAY                                                         
+ 10BE  XX11BE(P,D)                                                              
+ 10BE  XY11B(D,3HE)                                                             
+ 10BE  XZ11B(7LI,10BEG)                                                         
+ 10BE  Xa12C(6HE,10BE)                                                          
+ 10BE  Xb12C(6LI,8B)                                                            
+ 10BE  Xc12C(9BE,11C)                                                           
+ 10BE  Xd12C(10BE,X)                                                            
+ 10BE  Xe12C(11B,13N)                                                           
+ 10BE  Xf12C(12BE,A6HE)                                                         
+ 10BE  Xg12C(12C,10BE)                                                          
+ 10BE  Xh12C(15N,17F)                                                           
+ 10BE  Xi13C(T,6LI)                                                             
+ 10BE  Xj14C(18O,22NE)                                                          
+ 10BE  Xk11B(T,AG)                                                              
+ 10BE  Xl9BE(N,G) RES                                                           
+ 10BE cG E         From level energy difference; recoil correction applied      
+ 10BE cL T(A)$Not corrected for experimental system resolution and therefore    
+ 10BE2cL upper limits.                                                          
+ 10BE PN                                                                     7  
+ 10BE  L 0.0         0+                1.51E+6 Y 4                              
+ 10BE2 L ISPIN=1 $ %B-=100                                                      
+ 10BE3 L XREF=ABDEFIJKLMNOPQSTUVWXYZabceghij                                    
+ 10BE cL T         from weighted average of T{-1/2}=1.51 Ma 6 (Hofmann et al.,  
+ 10BE2cL Nucl. Instrum. Meth. Phys. Res. |b 24-25 (1987) 276),                  
+ 10BE3cL T{-1/2}=1.53 Ma 5% (1993Mi26), and T{-1/2}=1.48 Ma 5% (1993Mi26).      
+ 10BE  L 3368.03   3 2+                125 FS    12                             
+ 10BE2 L ISPIN=1 $ %IT=100                                                      
+ 10BE3 L XREF=ABCDEFIJKLMNOPQRSTUVWXYZabceghij                                  
+ 10BE cL           B(E2)=52 e{+2} fm{+4} 6 (1987Ra01).                          
+ 10BE cL E         from {+9}Be(n,|g) (1983Ke11). Other value: 3368.34 keV {I43} 
+ 10BE2cL (1999Bu26).                                                            
+ 10BE2 L WIDTHG=3.66E-3 EV 35                                                   
+ 10BE  G 3367.415  30 100      E2                                               
+ 10BE2 G WIDTHG=3.66E-3 EV 35$BE2W=8.00 76                                      
+ 10BE  L 5958.39   5 2+                55 FS     LT                             
+ 10BE2 L ISPIN=1 $ %IT=100                                                      
+ 10BE3 L XREF=DFJKLMPRTUWYbeghi                                                 
+ 10BE cL E         from {+9}Be(n,|g) (1983Ke11). Other value: 5958.3 keV {I3}   
+ 10BE2cL (1969Al17).                                                            
+ 10BE  G 2589.999  60 90     GTM1                                               
+ 10BE  G 5955.9     5 10     LTE2                                               
+ 10BE  L 5959.9    6 1-                                                         
+ 10BE2 L ISPIN=1 $ %IT=100                                                      
+ 10BE3 L XREF=DJKLMNOTYb                                                        
+ 10BE cL E         from {+9}Be(d,p) (1969Al17).                                 
+ 10BE  G 2591.5     617       8E1                                               
+ 10BE  G 5958.0     683       8E1                                               
+ 10BE cG           Uncertanties in branching ratios are asymmetric: 17 {I+6-10} 
+ 10BE2cG and 83 {I+10-6}; from (d,p).                                           
+ 10BE  L 6179.3    7 0+                0.8 PS    +3-2                           
+ 10BE2 L ISPIN=1 $ %IT AP 100                                                   
+ 10BE3 L XREF=DJW                                                               
+ 10BE cL           Decay: may also decay by pair production.                    
+ 10BE cL E         from {+9}Be(d,p) (1969Al17). Other value: 6070 keV {I130}    
+ 10BE2cL (1973Da09).                                                            
+ 10BE  G 219.4      3 24      2E1                                               
+ 10BE2 G WIDTHG=1.44E-4 EV 53$BE1W=4.3E-2 16                                    
+ 10BE3 G FL=5959.9                                                              
+ 10BE  G 2811       7 76      2E2                                               
+ 10BE2 G WIDTHG=4.5E-4 EV 17$BE2W=2.5 9                                         
+ 10BE  G 6178                  E0                                               
+ 10BE  L 6263.3    502-                                                         
+ 10BE2 L ISPIN=1 $ %IT=100                                                      
+ 10BE3 L XREF=DJKNO                                                             
+ 10BE cL E         from {+9}Be(d,p) (1969Al17).                                 
+ 10BE  G  303.4    50 1      LE                                                 
+ 10BE3 G FL=5959.9                                                              
+ 10BE  G 2894.9    5099       1E1                                               
+ 10BE  G 6261.2    50 1       1M2                                               
+ 10BE  L 7371      1 3-                15.7 KEV  5                              
+ 10BE2 L ISPIN=1 $ %IT GT 0 $ %N GT 0                                           
+ 10BE3 L XREF=DEGIJKLMThl                                                       
+ 10BE cL E         from {+9}Be(n,n).                                            
+ 10BE  G 1412         15     11E1                                               
+ 10BE2 G WIDTHG=0.11 EV 8 $BE2W=1.2E-1 9                                        
+ 10BE3 G FL=5958.39                                                             
+ 10BE cG           |G{-|g} from (1994Ki09)                                      
+ 10BE  G 4002         85      8E1                                               
+ 10BE2 G WIDTHG=0.62 EV 6 $BE2W=3.1E-2 3                                        
+ 10BE cG           |G{-|g} from (1994Ki09)                                      
+ 10BE  L 7542      1 2+                6.3 KEV   8                              
+ 10BE2 L ISPIN=1 $ %N GT 0 $ %A=3.5 12                                          
+ 10BE3 L XREF=DEGJKLSTbg                                                        
+ 10BE cL E         from {+9}Be(n,n).                                            
+ 10BE  L 9270        (4-)              150 KEV   20                             
+ 10BE2 L ISPIN=1 $ %N GT 0                                                      
+ 10BE3 L XREF=DEGJKMOT                                                          
+ 10BE  L 9560      202+                141 KEV   10                         A   
+ 10BE2 L ISPIN=1 $ %N GT 0 $ %A=0.16 4                                          
+ 10BE3 L XREF=DEGJKLMSTUYbdegh                                                  
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (1997Cu03, 2001Cu06). Other
+ 10BE2cL |G: 291 keV {I20} from {+9}Be(d,p).                                    
+ 10BE  L 10150     203-                296 KEV   15                         A   
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=AELd                                                              
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2001Cu06). Other value:   
+ 10BE2cL 10200 {I100} (2004Ah02, 2004As02).                                     
+ 10BE  L 10570     30 GE 1                                                      
+ 10BE2 L ISPIN=1 $ %N GT 0 $ %A GT 0                                            
+ 10BE3 L XREF=DEGJh                                                             
+ 10BE cL E         from {+9}Be(d,p) (1974An27).                                 
+ 10BE  L 11230     50                  200 KEV   80                         A   
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2001Cu06, 2003Fl02).      
+ 10BE  L 11760     20(4+)              121 KEV   10                             
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=DEIJKLMbh                                                         
+ 10BE cL E         |G: from {+9}Be(d,p) (1974An27). Other value: 11790 {I60}    
+ 10BE2cL (2003As04).                                                            
+ 10BE  L 11.93E3   10(5-)              200 KEV   80                         A  ?
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=Ef                                                                
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2001Cu06, 2003Fl02).      
+ 10BE  L 13.05E3   10                  290 KEV   130                        A   
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2001Cu06).                
+ 10BE  L 13850     50                  330 KEV   150                        A   
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=EM                                                                
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2001Cu06). Other values:  
+ 10BE2cL 13780 keV {I60} from {+9}Be({+9}Be,{+8}Be), and 13600 keV {I100} from  
+ 10BExcL {+12}C({+15}N,{+17}F).                                                 
+ 10BE  L 14.68E3   10                  310 KEV   140                        A   
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=Ef                                                                
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2001Cu06).                
+ 10BE  L 15.30E3   20(6-)              800 KEV   200                            
+ 10BE2 L XREF=h                                                                 
+ 10BE cL E         |G: from {+12}C({+15}N,{+17}F) (2001Bo35).                   
+ 10BE  L 17.12E3   20(2-)              150 KEV   AP                             
+ 10BE2 L XREF=Df                                                                
+ 10BE cL E         |G: from {+7}Li(|a,p) (1994Ha16).                            
+ 10BE  L 17790                         112 KEV   35                             
+ 10BE2 L %IT GT 0 $ %N GT 0 $ %3H GT 0 $ %A GT 0                                
+ 10BE3 L XREF=BDE                                                               
+ 10BE cL E         from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02), {+7}Li(t,|g)       
+ 10BE2cL (1978Su02), {+7}Li(|a,p) (1994Ha16). |G: from (2002Li15).              
+ 10BE  L 18150     50(0-)               90 KEV   30                         A   
+ 10BE2 L %3H GT 0                                                               
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,t+{+7}Li) (2002Li15, 2003Fl02).           
+ 10BE2cL |G: from (2002Li15).                                                   
+ 10BE  L 18550                         310 KEV                              A   
+ 10BE2 L %N GT 0 $ %3H GT 0                                                     
+ 10BE3 L XREF=BDEH                                                              
+ 10BE cL E         from {+7}Li({+7}Li,t+{+7}Li) (2002Li15). |G: from (2003Fl02).
+ 10BE  L 19800                                                                 ?
+ 10BE2 L %P GT 0                                                                
+ 10BE2 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,p+{+9}Li) (2003Fl02).                     
+ 10BE  L 20.80E3   10                                                           
+ 10BE2 L %A GT 0                                                                
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                    
+ 10BE  L 21216     23(2-)                                                       
+ 10BE cL           T=(2)                                                        
+ 10BE2 L %N GT 0 $ %P GT 0 $ %3H GT 0                                           
+ 10BE3 L XREF=BH                                                                
+ 10BE cL E         |G: from {+7}Li(t,p) (1990Gu36). |G: sharp                   
+ 10BE  L 21.80E3   10                  200 KEV   AP                         A   
+ 10BE2 L %P=0 $ %D GT 0                                                         
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,p+{+9}Li) (2003Fl02).                 
+ 10BE  L 22.40E3   10                  250 KEV   AP                         A   
+ 10BE2 L %N GT 0 $ %P GT 0 $ %3H GT 0                                           
+ 10BE3 L XREF=EH                                                                
+ 10BE cL E         |G: from {+7}Li({+7}Li,p+{+9}Li) (2003Fl02).                 
+ 10BE  L 23.00E3   10                                                           
+ 10BE2 L %P GT 0                                                                
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,p+{+9}Li) (2003Fl02). Also see {+7}Li(t,X)
+ 10BE2cL (1990Gu36).                                                            
+ 10BE  L 23350     50                                                           
+ 10BE2 L %N GT 0 $ %P GT 0 $ %D GT 0 $ %3H GT 0 $ %A GT 0                       
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                    
+ 10BE  L 23650     50                                                           
+ 10BE2 L %P GT 0 $ %3H GT 0 $ %A GT 0                                           
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                    
+ 10BE  L 24.00E3   10                  150 KEV   AP                         A   
+ 10BE2 L %D GT 0 $ %3H GT 0 $ %A GT 0                                           
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                
+ 10BE  L 24250     50                  200 KEV   AP                         A   
+ 10BE2 L %P GT 0 $ %D GT 0 $ %3H GT 0 $ %A GT 0                                 
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                
+ 10BE  L 24.60E3   10                  150 KEV   AP                         A   
+ 10BE2 L %P GT 0 $ %D GT 0                                                      
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,p+{+9}Li) (2003Fl02).                 
+ 10BE  L 24.80E3   10                  100 KEV   AP                         A   
+ 10BE2 L %P GT 0 $ %D GT 0                                                      
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,p+{+9}Li) (2003Fl02).                 
+ 10BE  L 25.05E3   10                  150 KEV   AP                         A   
+ 10BE2 L %D GT 0 $ %A GT 0                                                      
+ 10BE2 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                
+ 10BE  L 25.60E3   10                                                           
+ 10BE2 L %P GT 0 $ %D GT 0 $ %A GT 0                                            
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                    
+ 10BE  L 25950     50                  300 KEV   AP                         A   
+ 10BE2 L %D GT 0                                                                
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li({+7}Li,d+{+8}Li) (2003Fl02).                 
+ 10BE  L 26.30E3   10                  100 KEV   AP                         A   
+ 10BE2 L %D GT 0 $ %3H GT 0                                                     
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         |G: from {+7}Li(d+{+8}Li) (2003Fl02).                        
+ 10BE  L 26.80E3   10                                                           
+ 10BE2 L %P GT 0 $ %D GT 0 $ %A GT 0                                            
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                    
+ 10BE  L 27.20E3   20                                                           
+ 10BE2 L %P GT 0 $ %D GT 0 $ %3H GT 0 $ %A GT 0                                 
+ 10BE3 L XREF=E                                                                 
+ 10BE cL E         from {+7}Li({+7}Li,|a+{+6}He) (2003Fl02).                    
+

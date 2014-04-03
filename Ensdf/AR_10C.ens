@@ -1,0 +1,51 @@
+ 10C     ADOPTED LEVELS, GAMMAS        2004TI06                  04NP     200705
+ 10C   H TYP=FUL$AUT=J.H. KELLEY, C.G.SHEU AND J.L. GODWIN, ET AL.$             
+ 10C 2 H CIT=NP A745 155 (2004)$CUT=31-Mar-2004$                                
+ 10C   Q -23.10E3  4021283.1 21 4006.0 10-5101.2   50  2003AU03                 
+ 10C   XA1H(10C,P10C)                                                           
+ 10C   XB7LI(3HE,PI-)                                                           
+ 10C   XC9BE(P,PI-)                                                             
+ 10C   XD10B(P,N)                                                               
+ 10C   XE10B(3HE,T)                                                             
+ 10C   XF12C(P,T)                                                               
+ 10C   XG13C(3HE,6HE)                                                           
+ 10C  cG E         From level energy difference; recoil correction applied      
+ 10C  cL E(B)$Decay mode not specified                                          
+ 10C  PN                                                                     6  
+ 10C   L 0.0         0+                19.290 S  12                             
+ 10C 2 L ISPIN=1 $ %EC+%B+=100                                                  
+ 10C 3 L XREF=ACDEFG                                                            
+ 10C  cL T         from weighted average of T{-1/2}=19.270 s {I80} (1963Ba52),  
+ 10C 2cL T{-1/2}=19.282 s {I20} (1974Az01), T{-1/2}=19.300 s {I41} (1990Ba02),  
+ 10C 3cL and T{-1/2}=19.294 s {I16} (1990Ba02). Others: 19.151 s {I26}          
+ 10C 4cL (Robinson 1974 NPA) and 19.480 s {I50} (Earwaker 1962 Nature)          
+ 10C   L 3353.7    6 2+                107 FS    17                             
+ 10C 2 L XREF=ABCDEFG $ %IT=100                                                 
+ 10C  cL E         from weighted average of 3352.7 keV {I15} from {+10}B(p,n)   
+ 10C 2cL and 3353.9 keV {I7} from {+12}C(p,t).                                  
+ 10C  cL WIDTH     |G{-|g}: from {+10}B(p,n) (1968Fi09).                        
+ 10C   G 3353.6      100       E2                                               
+ 10C 2 G WIDTHG=4.25E-3 EV 69 $BE2W=9.5 15                                      
+ 10C   L 5220      40                  225 KEV   45                         B   
+ 10C 2 L XREF=CDEF                                                              
+ 10C  cL E         |G: from {+10}B({+3}He,t)                                    
+ 10C  cL J         one of these two states is presumably a 2+ state             
+ 10C   L 5380      70                  300 KEV   60                         B   
+ 10C 2 L XREF=CDEF                                                              
+ 10C  cL E         |G: from {+10}B({+3}He,t)                                    
+ 10C  cL J         one of these two states is presumably a 2+ state             
+ 10C   L 6580      20(2+)              190 KEV   35                         B   
+ 10C 2 L XREF=CDEF                                                              
+ 10C  cL E         |G: from {+10}B({+3}He,t)                                    
+ 10C   L 9000      AP                                                       B   
+ 10C 2 L XREF=D                                                                 
+ 10C  cL E         from {+10}B(p,n)                                             
+ 10C   L 10000     AP                                                       B   
+ 10C 2 L XREF=D                                                                 
+ 10C  cL E         from {+10}B(p,n)                                             
+ 10C   L 16500     AP(2+)                                                   B   
+ 10C 2 L XREF=D                                                                 
+ 10C  cL E         from {+10}B(p,n)                                             
+ 10C  cL           J|p: presumed analog of {+10}B*(18.80) (1993Wa06).           
+                                                                                
+

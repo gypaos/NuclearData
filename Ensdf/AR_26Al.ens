@@ -1,0 +1,1265 @@
+26AL    ADOPTED LEVELS, GAMMAS                                  98NP     200004
+26AL  H TYP=FUL$AUT=P. M. ENDT, J.BLACHOT, R.B. FIRESTONE, and J.ZIPKIN$       
+26AL2 H CIT=NP A633, 1 (1998)$CUT=1-Jan-2000$                                  
+26AL c  See abstract for special evaluation policies used in the               
+26AL2c  A=26 or Comments dataset in ENSDF                                      
+26AL cG E$Deduced from level-energy differences, corrected for                 
+26AL2cG recoil.                                                                
+26AL cG RI$Relative photon branching from each level.                          
+26AL PN                                                                     6  
+   26AL  XA26SI B+ DECAY                                                          
+   26AL  XB25MG(P,G)                                                              
+   26AL  XC26MG(P,N)                                                              
+   26AL  XD25MG(3HE,D)                                                            
+   26AL  XE25MG(A,T)                                                              
+   26AL  XF24MG(3HE,PG)                                                           
+26AL  XG27AL(P,D)                                                              
+   26AL  XH27P B+P DECAY                                                          
+   26AL  XI23NA(A,NG)                                                             
+26AL  XJ28SI(D,A)                                                              
+   26AL  Q  -5066     3 11365.9 7 6306.58 5-9453.2 5     1995AU04                 
+   26AL  L 0.0          5+               7.17E+5 Y 24                             
+   26AL2 L %EC+%B+=100$ ISPIN=0                                                   
+   26ALX L XREF=ABCDFGHIJ                                                         
+   26AL cL $T{-1/2}=7.17E5 y 24 is a weighted average (c**2/n-1=0.64) of          
+26AL2cL 7.16E5 y 32 (1972Sa02), 7.05E5 y 24 (1983NoZZ), 7.02E5 y 56 (1983MiZZ) 
+   26AL3cL and 7.80E5 y 50 (1983Th04). The uncertainty of 0.24E5 y is the minimum 
+   26AL4cL uncertainty of the experimental input values.                          
+   26AL  L 228.305   13 0+               6.3452 S  19                          M  
+   26AL2 L %EC+%B+=100$ ISPIN=1                                                   
+   26ALX L XREF=ABCDFGH                                                           
+   26AL cL T$weighted average of 6.346 s {I5} (1969Fr08), 6.351 s {I10}           
+   26AL2cL (1972Ha82), 6.346 s {I5} (1975Az01), 6.3395 s {I45} (1977Al11), and    
+   26AL3cL 6.3462 s {I26} (1983Ko22).                                             
+   26AL  L 416.852    3 3+               1.25 NS   3                              
+   26AL2 L MOMM1=+2.0 5$ ISPIN=0                                                  
+   26ALX L XREF=ABDFGJ                                                            
+   26AL  G    416.848   100       [E2]                                            
+   26ALB G BE2W=7.86 21                                                           
+   26AL  L 1057.739  12 1+               25 FS     5                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=ABCDFGIJ                                                          
+   26AL  G    829.420   100       M1                                              
+   26ALB G BM1W=1.5 3                                                             
+   26AL  L 1759.034   8 2+               4.2 PS    3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=ABDFGIJ                                                           
+   26AL  G    701.285   2.04   10                                                 
+   26AL  G   1342.145   100.00 10                                                 
+   26AL  L 1850.62    3 1+               32 FS     3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=ABCDFGJ                                                           
+   26AL  G    1433.73   0.70   10 [E2]                                            
+   26ALB G BE2W=4.4 8                                                             
+   26AL  G    1622.26   100.00 10 M1                                              
+   26ALB G BM1W=0.160 15                                                          
+   26AL  L 2068.86    5 4+               310 FS    50                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BCD(*)FG(*)IJ                                                     
+   26AL  G    1651.95   100.0  15                                                 
+   26AL  G    2068.77   44.9   15 (M1+)E2                                         
+   26AL cG MR        |?|@                                                         
+   26ALB G BE2W=3.3 6                                                             
+   26AL  L 2069.47    3 2+               14 FS     2                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BCD(*)FG(*)J                                                      
+   26AL  G     218.85   0.053  13 [M1]                                            
+   26ALB G BM1W=0.060 17                                                          
+   26AL  G     310.43   0.23    3 [M1]                                            
+   26ALB G BM1W=0.091 18                                                          
+   26AL  G    1011.71   100.0  12 M1(+E2)  0       AP                             
+   26ALB G BM1W=1.14 17                                                           
+   26AL  G    1652.56   28.4   11 [M1]                                            
+   26ALB G BM1W=0.075 11                                                          
+   26AL  G    1841.09   4.0     5 E2                                              
+   26ALB G BE2W=12.6 24                                                           
+   26AL  L 2071.64    4 1+               370 FS    70                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=ABCD(*)FG(*)IJ                                                    
+   26AL  G     221.02   0.045  11                                                 
+   26AL  G    1654.73   11.9   10 [E2]                                            
+   26ALB G BE2W=2.9 6                                                             
+   26AL  G    1843.26   100     1 M1                                              
+   26ALB G BM1W=0.0085 17                                                         
+   26AL  L 2365.150  18 3+               1.0 PS    2                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDFGIJ                                                            
+   26AL  G    295.678   100     2 [M1]                                            
+   26ALB G BM1W=0.43 9                                                            
+   26AL  G    606.108   2.90   10                                                 
+   26AL  G   1307.375   26.9    8 [E2]                                            
+   26ALB G BE2W=4.4 9                                                             
+   26AL  G   1948.219   64.7   20                                                 
+   26AL  G   2365.034   1.75    8 [E2]                                            
+   26ALB G BE2W=0.015 3                                                           
+   26AL  L 2545.367  17 3+               0.69 PS   17                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDFGIJ                                                            
+   26AL  G    475.892   100.0  15 [M1]                                            
+   26ALB G BM1W=0.20 5                                                            
+   26AL  G    786.320   4.9     3                                                 
+   26AL  G   1487.582   3.7     3 [E2]                                            
+   26ALB G BE2W=0.62 16                                                           
+   26AL  G   2128.421   38.2   15 M1+E2    +1.5    4                              
+   26ALB G BM1W=0.00026 12$BE2W=0.74 22                                           
+   26AL  G   2545.232   0.31    9 [E2]                                            
+   26ALB G BE2W=0.0035 14                                                         
+   26AL  L 2660.92    5 2+               2.1 PS    3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDFGJ                                                             
+   26AL  G     589.27   5.6    13                                                 
+   26AL  G     591.44   41.0   16 [M1]                                            
+   26ALB G BM1W=0.0126 19                                                         
+   26AL  G     810.29   2.5     3                                                 
+   26AL  G     901.87   1.02    8                                                 
+   26AL  G    1603.13   14.8    5                                                 
+   26AL  G    2243.96   100     3                                                 
+   26AL  L 2740.03    3 1+               30 FS     3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=ABCGJ                                                             
+   26AL  G    2323.07   0.81   20 [E2]                                            
+   26ALB G BE2W=0.49 13                                                           
+   26AL  G    2511.59   100.00 20 M1                                              
+   26ALB G BM1W=0.046 5                                                           
+   26AL  L 2913.40    5 2+               68 FS     4                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDFGIJ                                                            
+   26AL  G     843.92   100.0  13 [M1]                                            
+   26ALB G BM1W=0.365 23                                                          
+   26AL  G    1062.76   1.55    6                                                 
+   26AL  G    1154.34   1.17    6                                                 
+   26AL  G    1855.59   1.17    6                                                 
+   26AL  G    2496.42   43.7   13                                                 
+   26AL  L 3073.63    4 3+               190 FS    30                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDGJ                                                              
+   26AL  G    1004.14   100.0   6 [M1]                                            
+   26ALB G BM1W=0.095 16                                                          
+   26AL  G    1222.98   3.23   10 [E2]                                            
+   26ALB G BE2W=6.4 11                                                            
+   26AL  G    1314.56   0.44    5                                                 
+   26AL  G    2015.81   14.7    5 [E2]                                            
+   26ALB G BE2W=2.4 4                                                             
+   26AL  G    2656.63   0.60   24                                                 
+   26AL  G    3073.43   0.95   11 [E2]                                            
+   26ALB G BE2W=0.019 4                                                           
+   26AL  L 3159.889  13 2+               4.2 FS    14                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BDFG                                                              
+   26AL  G    614.514   2.24    8 [M1]                                            
+   26ALB G BM1W=0.32 11                                                           
+   26AL  G    794.726   0.35    8 [M1]                                            
+   26ALB G BM1W=0.023 10                                                          
+   26AL  G   1088.224   4.25   13 [M1]                                            
+   26ALB G BM1W=0.11 4                                                            
+   26AL  G   1309.233   0.55    5 [M1]                                            
+   26ALB G BM1W=0.008 3                                                           
+   26AL  G   1400.814   23.1    6 [M1]                                            
+   26ALB G BM1W=0.28 10                                                           
+   26AL  G   2102.058   25.7    8 M1(+E2)  0       AP                             
+   26ALB G BM1W=0.09 3                                                            
+   26AL  G   2742.881   100.0  11 M1(+E2)  0       AP                             
+   26ALB G BM1W=0.16 6                                                            
+   26AL  G   2931.406   0.69    8 E2                                              
+   26ALB G BE2W=0.60 22                                                           
+   26AL  L 3402.65    6 5+               67 FS     12                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BFGIJ                                                             
+   26AL  G    1037.48   0.84   11 [E2]                                            
+   26ALB G BE2W=7.4 17                                                            
+   26AL  G    1333.75   9.3     4                                                 
+   26AL  G    2985.61   100.0  18 [E2]                                            
+   26ALB G BE2W=4.4 8                                                             
+   26AL  G    3402.41   64.9   18 (M1+)E2                                         
+   26AL cG MR        |?|@                                                         
+   26ALB G BE2W=1.5 3                                                             
+   26AL  L 3507.63    8 6+               17 FS     3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BGIJ                                                              
+   26AL  G    1438.73   0.32    7 [E2]                                            
+   26ALB G BE2W=3.8 11                                                            
+   26AL  G    3507.37   100.0   1 (M1+)E2                                         
+   26AL cG MR        |?|@                                                         
+   26ALB G BE2W=13.7 25                                                           
+   26AL  L 3596.34    4 3+               17 FS     3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDFGJ                                                             
+   26AL  G    1526.82   100.00 22 [M1]                                            
+   26ALB G BM1W=0.33 6                                                            
+   26AL  G    1745.66   1.07    7 [E2]                                            
+   26ALB G BE2W=4.4 9                                                             
+   26AL  G    2538.47   3.48   11 [E2]                                            
+   26ALB G BE2W=2.2 4                                                             
+   26AL  G    3179.28   0.20    4                                                 
+   26AL  G    3596.07   4.02   22 [E2]                                            
+   26ALB G BE2W=0.45 9                                                            
+   26AL  L 3674.92    5 4+               155 FS    20                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    1129.53   3.5     4                                                 
+   26AL  G    1309.73   14.2    7                                                 
+   26AL  G    1606.01   1.75   18                                                 
+   26AL  G    1915.81   48.0   14 [E2]                                            
+   26ALB G BE2W=8.5 12                                                            
+   26AL  G    3257.85   100.0  16                                                 
+   26AL  G    3674.64   7.7     4                                                 
+   26AL  L 3680.68    6 3+               8.3 FS    14                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDFGJ                                                             
+   26AL  G     520.79   0.28    4 [M1]                                            
+   26ALB G BM1W=0.049 11                                                          
+   26AL  G     767.27   0.13    5                                                 
+   26AL  G    1611.16   100.00 21 [M1]                                            
+   26ALB G BM1W=0.59 10                                                           
+   26AL  G    1829.99   0.19    4 [E2]                                            
+   26ALB G BE2W=1.3 4                                                             
+   26AL  G    1921.57   1.23    6                                                 
+   26AL  G    2622.80   2.79   21 [E2]                                            
+   26ALB G BE2W=3.1 6                                                             
+   26AL  G    3263.61   1.77    8                                                 
+   26AL  G    3680.40   0.77    8 [E2]                                            
+   26ALB G BE2W=0.16 4                                                            
+   26AL  L 3723.81    4 1+               4.2 FS    14                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=ABCFG                                                             
+   26AL  G    1062.87   0.35    9                                                 
+   26AL  G    2665.92   0.44    9                                                 
+   26AL  G    3495.25   100.0   1 M1                                              
+   26ALB G BM1W=0.12 4                                                            
+   26AL  L 3750.90    4 2+               22 FS     6                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDFGJ                                                             
+   26AL  G     591.00   23.2   14 [M1]                                            
+   26ALB G BM1W=0.76 22                                                           
+   26AL  G     837.49   0.57   10                                                 
+   26AL  G    1385.71   0.19   10                                                 
+   26AL  G    1681.37   100     3 [M1]                                            
+   26ALB G BM1W=0.14 4                                                            
+   26AL  G    1900.20   0.39   10                                                 
+   26AL  G    1991.78   0.28    9                                                 
+   26AL  G    2693.01   13.9    4                                                 
+   26AL  G    3333.82   9.0    12                                                 
+   26AL  L 3753.63   13 0+               5 FS      2                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BFJ                                                               
+   26AL  G    1013.58   2.2     3 M1                                              
+   26ALB G BM1W=0.08 4                                                            
+   26AL  G    1681.93   11.0    3 M1                                              
+   26ALB G BM1W=0.09 4                                                            
+   26AL  G    1902.93   3.0     4 M1                                              
+   26ALB G BM1W=0.017 7                                                           
+   26AL  G    2695.74   100.0   5 M1                                              
+   26ALB G BM1W=0.19 8                                                            
+   26AL  L 3921.96   24 7+,(5+)          19 FS     4                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    3921.64   100                                                       
+   26AL  L 3962.83    5 3+               37 FS     5                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BFGJ                                                              
+   26AL  G    1222.77   0.7     3 [E2]                                            
+   26ALB G BE2W=6 3                                                               
+   26AL  G    1301.88   2.1    10                                                 
+   26AL  G    1597.63   4.9     4                                                 
+   26AL  G    1893.29   100.0  14 [M1]                                            
+   26ALB G BM1W=0.062 9                                                           
+   26AL  G    2112.12   2.3     3 [E2]                                            
+   26ALB G BE2W=1.28 25                                                           
+   26AL  G    2203.70   3.1     4                                                 
+   26AL  G    2904.92   15.9    6 [E2]                                            
+   26ALB G BE2W=1.8 3                                                             
+   26AL  G    3545.72   5.6     4                                                 
+   26AL  G    3962.50   7.9     4 [E2]                                            
+   26ALB G BE2W=0.19 3                                                            
+   26AL  L 3977.91    9 0-               1.0 PS    GT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BFGJ                                                              
+   26AL  G    1906.19   1.5     3 E1                                              
+   26AL  G    2127.20   100.0  16 E1                                              
+   26AL  G    2919.99   59.7   16 E1                                              
+   26AL  L 4191.92    6 3+               5 FS      2                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BD(*)FG                                                           
+   26AL  G     595.57   1.50   12 [M1]                                            
+   26ALB G BM1W=0.18 8                                                            
+   26AL  G    1278.49   0.66    7 [M1]                                            
+   26ALB G BM1W=0.008 4                                                           
+   26AL  G    1530.95   0.9     3                                                 
+   26AL  G    1646.50   3.57   17 [M1]                                            
+   26ALB G BM1W=0.021 9                                                           
+   26AL  G    1826.70   15.8    9 [M1]                                            
+   26ALB G BM1W=0.07 3                                                            
+   26AL  G    2122.97   40.6   12 [M1]                                            
+   26ALB G BM1W=0.11 5                                                            
+   26AL  G    2432.76   6.6     3                                                 
+   26AL  G    3774.77   100.0  15 [M1]                                            
+   26ALB G BM1W=0.048 20                                                          
+   26AL  G    4191.56   0.41   10 [E2]                                            
+   26ALB G BE2W=0.046 22                                                          
+   26AL  L 4205.86    5 4+               62 FS     10                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD(*)FG                                                           
+   26AL  G     530.93   0.061  15                                                 
+   26AL  G    1132.20   0.79    5                                                 
+   26AL  G    1292.43   0.95    8 [E2]                                            
+   26ALB G BE2W=3.5 7                                                             
+   26AL  G    1544.89   12.3    8 [E2]                                            
+   26ALB G BE2W=18 4                                                              
+   26AL  G    1660.44   4.8     3                                                 
+   26AL  G    1840.64   10.3    8                                                 
+   26AL  G    2136.91   16.1   11                                                 
+   26AL  G    2446.70   1.67   11 [E2]                                            
+   26ALB G BE2W=0.25 5                                                            
+   26AL  G    3788.71   100.0  15                                                 
+   26AL  G    4205.49   4.4     3                                                 
+   26AL  L 4349.34    7 3+               9 FS      3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BFG                                                               
+   26AL  G    2279.76   100.0   6 [M1]                                            
+   26ALB G BM1W=0.19 7                                                            
+   26AL  G    2590.17   0.85   10                                                 
+   26AL  G    3291.38   1.9     2 [E2]                                            
+   26ALB G BE2W=0.64 23                                                           
+   26AL  G    3932.17   2.8     6                                                 
+   26AL  G    4348.95   0.64   11 [E2]                                            
+   26ALB G BE2W=0.053 20                                                          
+   26AL  L 4430.72    6 2-               59 FS     13                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BFGJ                                                              
+   26AL  G    1270.80   5.7     5 [E1]                                            
+   26ALB G BE1W=0.00022 6                                                         
+   26AL  G    1885.28   1.6     5 [E1]                                            
+   26ALB G BE1W=1.9E-5 8                                                          
+   26AL  G    2065.48   3.0    10  [E1]                                           
+   26ALB G BE1W=2.7E-5 11                                                         
+   26AL  G    2361.13   100     5 [E1]                                            
+   26ALB G BE1W=0.00060 14                                                        
+   26AL  G    2579.96   1.0     5 [E1]                                            
+   26AL  G    2671.54   4.8    10 [E1]                                            
+   26ALB G BE1W=2.0E-5 6                                                          
+   26AL  G    3372.74   1.1     3 [E1]                                            
+   26ALB G BE1W=2.3E-6 8                                                          
+   26AL  G    4013.53   48      5 [E1]                                            
+   26ALB G BE1W=5.9E-5 15                                                         
+   26AL  L 4480.48    9 0-               62 FS     12                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    1740.39   37.0   14 E1                                              
+   26ALB G BE1W=0.00039 8                                                         
+   26AL  G    2408.72   100.0  23 E1                                              
+   26ALB G BE1W=0.00039 8                                                         
+   26AL  G    2629.72   77.3   23 E1                                              
+   26ALB G BE1W=0.00023 5                                                         
+   26AL  G    3422.50   11.8   11 E1                                              
+   26ALB G BE1W=1.6E-5 4                                                          
+   26AL  L 4547.92    6 2+               10 FS     LT                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G     867.22   0.48    6 [M1]                                            
+   26AL  G    1634.46   1.00    8                                                 
+   26AL  G    1807.82   1.48   10                                                 
+   26AL  G    1886.93   0.42   10                                                 
+   26AL  G    2002.47   11.0    4 [M1]                                            
+   26AL  G    2182.67   6.87   21                                                 
+   26AL  G    2476.15   2.71   13                                                 
+   26AL  G    2697.15   0.17    6                                                 
+   26AL  G    2788.72   14.6    4                                                 
+   26AL  G    3489.93   100.0  21                                                 
+   26AL  G    4130.71   68.8   21                                                 
+   26AL  G    4319.23   1.19   10 E2                                              
+   26AL  L 4599.17    5 3+               5 FS      2                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G     848.26   3.8     4 [M1]                                            
+   26ALB G BM1W=0.13 6                                                            
+   26AL  G     918.47   1.66   10 [M1]                                            
+   26ALB G BM1W=0.045 19                                                          
+   26AL  G     924.23   6.5     4 [M1]                                            
+   26ALB G BM1W=0.17 7                                                            
+   26AL  G    1525.49   2.10   21 [M1]                                            
+   26ALB G BM1W=0.012 6                                                           
+   26AL  G    1685.71   7.1     4 [M1]                                            
+   26ALB G BM1W=0.031 13                                                          
+   26AL  G    1938.17   13.8    6 [M1]                                            
+   26ALB G BM1W=0.040 16                                                          
+   26AL  G    2053.72   10.5    4 [M1]                                            
+   26ALB G BM1W=0.026 11                                                          
+   26AL  G    2233.92   5.45   21                                                 
+   26AL  G    2530.18   5.45   21                                                 
+   26AL  G    2839.97   100.0  19 [M1]                                            
+   26ALB G BM1W=0.09 4                                                            
+   26AL  G    4181.95   53.0   17                                                 
+   26AL  L 4622.38    5 2-               53 FS     18                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    1462.45   3.4     6 [E1]                                            
+   26ALB G BE1W=5E-5 2                                                            
+   26AL  G    1548.70   14.1   13 [E1]                                            
+   26ALB G BE1W=0.00018 7                                                         
+   26AL  G    1882.28   100     3 [E1]                                            
+   26ALB G BE1W=0.00069 24                                                        
+   26AL  G    1961.38   60.0   16 [E1]                                            
+   26ALB G BE1W=0.00037 13                                                        
+   26AL  G    2076.92   6.6    19 [E1]                                            
+   26ALB G BE1W=3.4E-5 16                                                         
+   26AL  G    2257.12   3.8     9 [E1]                                            
+   26ALB G BE1W=1.5E-5 7                                                          
+   26AL  G    2552.77   57.2   25 [E1]                                            
+   26ALB G BE1W=0.00016 6                                                         
+   26AL  G    2771.60   28.4   22 [E1]                                            
+   26ALB G BE1W=6.2E-5 22                                                         
+   26AL  G    3564.38   4.7     9 [E1]                                            
+   26ALB G BE1W=4.8E-6 19                                                         
+   26AL  G    4205.16   35.9   25 [E1]                                            
+   26ALB G BE1W=2.2E-5 8                                                          
+   26AL  L 4705.37    4 4+               3 FS      LT                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G    1024.67   0.9     4 [M1]                                            
+   26AL  G    1631.68   1.1     4 [M1]                                            
+   26AL  G    2159.91   27.9    9 [M1]                                            
+   26AL  G    2340.11   44.7   14 [M1]                                            
+   26AL  G    2636.37   1.05   18                                                 
+   26AL  G    4288.14   0.53   18                                                 
+   26AL  G    4704.91   100.0  18                                                 
+   26AL  L 4773.35    6 4+               82 FS     12                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDGJ                                                              
+   26AL  G     581.42   13.7   10 [M1]                                            
+   26ALB G BM1W=0.056 10                                                          
+   26AL  G    1092.65   1.27   10                                                 
+   26AL  G    1098.41   0.4     1                                                 
+   26AL  G    1176.98   0.87   13                                                 
+   26AL  G    1370.66   2.0     7                                                 
+   26AL  G    1699.66   11.7    7                                                 
+   26AL  G    1859.88   19.3    7 [E2]                                            
+   26ALB G BE2W=3.9 6                                                             
+   26AL  G    2112.34   87      3 [E2]                                            
+   26ALB G BE2W=9.4 15                                                            
+   26AL  G    2227.88   18.0    7                                                 
+   26AL  G    2408.08   27      1                                                 
+   26AL  G    2704.34   10      1                                                 
+   26AL  G    3014.13   1.3     3 [E2]                                            
+   26ALB G BE2W=0.024 7                                                           
+   26AL  G    4356.10   100     3                                                 
+   26AL  G    4772.88   40.3   17                                                 
+   26AL  L 4939.64    9 1-               69 FS     14                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    1185.98   5.25   25 E1                                              
+   26ALB G BE1W=0.00028 6                                                         
+   26AL  G    1779.69   1.3     4 [E1]                                            
+   26ALB G BE1W=2.1E-5 8                                                          
+   26AL  G    2199.51   0.6     4 [E1]                                            
+   26AL  G    2278.61   1.0     3 [E1]                                            
+   26ALB G BE1W=8E-6 3                                                            
+   26AL  G    2867.83   7.1    15 [E1]                                            
+   26ALB G BE1W=2.7E-5 8                                                          
+   26AL  G    2870.00   6.1    15                                                 
+   26AL  G    3088.82   1.0     4 [E1]                                            
+   26ALB G BE1W=3.0E-6 14                                                         
+   26AL  G    3180.40   0.63   25 [E1]                                            
+   26ALB G BE1W=1.8E-6 8                                                          
+   26AL  G    3881.59   1.5     5 [E1]                                            
+   26ALB G BE1W=2.3E-6 9                                                          
+   26AL  G    4710.87   100.0  13 E1                                              
+   26ALB G BE1W=8.6E-5 18                                                         
+   26AL  L 4940.79    5 5+               24 FS     6                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    1265.84   0.56   19                                                 
+   26AL  G    1433.12   3.33   19                                                 
+   26AL  G    1867.09   0.46   15 [E2]                                            
+   26ALB G BE2W=0.56 24                                                           
+   26AL  G    2395.30   39.8   15 [E2]                                            
+   26ALB G BE2W=14 4                                                              
+   26AL  G    2575.50   38.1   11 [E2]                                            
+   26ALB G BE2W=9.3 24                                                            
+   26AL  G    2871.76   1.3     4                                                 
+   26AL  G    4523.51   100.0  19 [E2]                                            
+   26ALB G BE2W=1.5 4                                                             
+   26AL  G    4940.28   2.0     4                                                 
+   26AL  L 4952.30    4 3+               10 FS     3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BGJ                                                               
+   26AL  G     760.37   2.3     4 [M1]                                            
+   26ALB G BM1W=0.066 23                                                          
+   26AL  G    1792.34   100.0  18 [M1]                                            
+   26ALB G BM1W=0.22 7                                                            
+   26AL  G    2038.81   1.58   18                                                 
+   26AL  G    2212.17   1.75   18 [E2]                                            
+   26ALB G BE2W=2.3 8                                                             
+   26AL  G    2406.81   1.1     4                                                 
+   26AL  G    2882.66   44.0   14 [M1]                                            
+   26ALB G BM1W=0.023 7                                                           
+   26AL  G    3101.48   4.6     4 [E2]                                            
+   26ALB G BE2W=1.1 4                                                             
+   26AL  G    3894.25   3.3     4 [E2]                                            
+   26ALB G BE2W=0.26 9                                                            
+   26AL  G    4535.02   16.5    5                                                 
+   26AL  L 5006.66   16 2-               120 FS    30                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    2093.17   4.2     8 [E1]                                            
+   26ALB G BE1W=1.9E-5 6                                                          
+   26AL  G    2266.52   3.5     8 [E1]                                            
+   26ALB G BE1W=1.3E-5 5                                                          
+   26AL  G    2345.63   3.5     9 [E1]                                            
+   26ALB G BE1W=1.1E-5 4                                                          
+   26AL  G    2937.01   100     3 [E1]                                            
+   26ALB G BE1W=0.00016 5                                                         
+   26AL  G    3155.83   2.9    12 [E1]                                            
+   26ALB G BE1W=3.8E-6 19                                                         
+   26AL  G    3247.41   10.8   15 [E1]                                            
+   26ALB G BE1W=1.3E-5 4                                                          
+   26AL  G    3948.60   29.2   15 [E1]                                            
+   26ALB G BE1W=2.0E-5 5                                                          
+   26AL  L 5010.24    7 1+               6 FS      LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    1256.58   2.4     8 M1                                              
+   26AL  G    4781.46   100.0   8 M1                                              
+   26AL  L 5131.93    5 4+               3 FS      LT                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G     782.58   0.72    7 [M1]                                            
+   26AL  G     926.05   1.17    5 [M1]                                            
+   26AL  G     939.99   0.20    2                                                 
+   26AL  G    1169.07   4.5    13 [M1]                                            
+   26AL  G    1451.21   1.01   15                                                 
+   26AL  G    1456.97   0.27    5                                                 
+   26AL  G    1535.54   9.2     2 [M1]                                            
+   26AL  G    1729.22   11.2    5                                                 
+   26AL  G    1971.96   0.61    7 [E2]                                            
+   26AL  G    2058.21   42.8   13 [M1]                                            
+   26AL  G    2586.42   2.17   16                                                 
+   26AL  G    2766.62   100     2 [M1]                                            
+   26AL  G    3062.27   11.4   22 [E2]                                            
+   26AL  G    3062.88   35.9   22 [M1]                                            
+   26AL  G    3372.66   0.11    2 [E2]                                            
+   26AL  G    4714.62   1.4     2                                                 
+   26AL  G    5131.38   0.94    7                                                 
+   26AL  L 5141.68    6 2+               4 FS      LT                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G    1178.82   1.6     3 [M1]                                            
+   26AL  G    1545.29   1.7     4 [M1]                                            
+   26AL  G    2776.37   0.86   12                                                 
+   26AL  G    3069.84   1.0     4                                                 
+   26AL  G    3382.41   14.8   12                                                 
+   26AL  G    4083.59   3.6     5                                                 
+   26AL  G    4724.36   100.0  25                                                 
+   26AL  L 5195.11   12 0+               24 FS     LT                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    1471.25   35.7   24 M1                                              
+   26AL  G    3123.27   100     7 M1                                              
+   26AL  G    3344.26   21.4   24 M1                                              
+   26AL  G    4137.02   81      7 M1                                              
+   26AL  L 5245.28    4 4+               12 FS     3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G     539.90   5.9     4 [M1]                                            
+   26ALB G BM1W=0.32 9                                                            
+   26AL  G     895.92   0.70    9                                                 
+   26AL  G    1039.40   0.93   11                                                 
+   26AL  G    1053.34   100.0  22 [M1]                                            
+   26ALB G BM1W=0.72 19                                                           
+   26AL  G    1282.42   3.91   22                                                 
+   26AL  G    1494.33   0.17    7 [E2]                                            
+   26ALB G BE2W=1.1 5                                                             
+   26AL  G    1564.55   0.93    9 [M1]                                            
+   26ALB G BM1W=0.0021 6                                                          
+   26AL  G    1570.31   0.41   11                                                 
+   26AL  G    1648.88   4.6    11                                                 
+   26AL  G    1737.59   0.54    9 [E2]                                            
+   26ALB G BE2W=1.6 5                                                             
+   26AL  G    1842.56   3.3    11                                                 
+   26AL  G    2171.55   11.3    4                                                 
+   26AL  G    2331.77   12.2    4 [E2]                                            
+   26ALB G BE2W=8.4 22                                                            
+   26AL  G    2584.22   6.3     2 [E2]                                            
+   26ALB G BE2W=2.6 7                                                             
+   26AL  G    2699.76   5.4     4                                                 
+   26AL  G    2879.96   19.8    7                                                 
+   26AL  G    3175.60   8.3     4 [E2]                                            
+   26ALB G BE2W=1.2 4                                                             
+   26AL  G    3485.99   16.1    7 [E2]                                            
+   26ALB G BE2W=1.5 4                                                             
+   26AL  G    4827.94   8.5     4                                                 
+   26AL  G    5244.71   7.8     4                                                 
+   26AL  L 5395.53    7 4-               65 FS     50                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G     773.14   0.85   11 [E2]                                            
+   26AL  G     796.35   4.13   22 [E1]                                            
+   26AL  G    1203.58   13.3    4 [E1]                                            
+   26AL  G    1720.55   0.33    9 [E1]                                            
+   26AL  G    1799.12   6.52   22 [E1]                                            
+   26AL  G    1992.80   0.24   11 [E1]                                            
+   26AL  G    2321.79   4.13   22 [E1]                                            
+   26AL  G    2849.99   2.83   22 [E1]                                            
+   26AL  G    3030.19   7.83   22 [E1]                                            
+   26AL  G    3326.44   4.57   22 [E1]                                            
+   26AL  G    4978.16   100.0  22 [E1]                                            
+   26AL  G    5394.93   71.7   22 [E1]                                            
+   26AL  L 5431.23   10 1-               12 FS     6                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G     883.29   2.33   21 [E1]                                            
+   26ALB G BE1W=0.0006 3                                                          
+   26AL  G     950.73   0.82   21 M1                                              
+   26AL  G    1677.54   79      9 E1                                              
+   26AL  G    2770.15   1.5     3 [E1]                                            
+   26AL  G    3359.36   36     15 [E1]                                            
+   26AL  G    3361.53   100    15 [E1]                                            
+   26AL  G    3580.34   18.8    6 [E1]                                            
+   26AL  G    3671.92   2.4     3 [E1]                                            
+   26AL  G    4373.09   82      6 [E1]                                            
+   26AL  G    5202.36   55.8   18 E1                                              
+   26AL  L 5456.71    5 3-               17 FS     4                              
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G     751.33   1.1     3 [E1]                                            
+   26ALB G BE1W=0.00045 17                                                        
+   26AL  G     908.77   15.3    8 [E1]                                            
+   26ALB G BE1W=0.0036 9                                                          
+   26AL  G    1705.75   1.4     6 [E1]                                            
+   26ALB G BE1W=4.9E-5 24                                                         
+   26AL  G    1775.96   1.4     6 [E1]                                            
+   26ALB G BE1W=4.4E-5 22                                                         
+   26AL  G    1781.72   1.4     6 [E1]                                            
+   26ALB G BE1W=4.4E-5 22                                                         
+   26AL  G    1860.30   1.1     3 [E1]                                            
+   26ALB G BE1W=3.0E-5 11                                                         
+   26AL  G    2296.71   14.4    8 [E1]                                            
+   26ALB G BE1W=0.00021 5                                                         
+   26AL  G    2382.96   15.6    8 [E1]                                            
+   26ALB G BE1W=0.00020 5                                                         
+   26AL  G    2795.63   53.3   25 [E1]                                            
+   26ALB G BE1W=0.00043 11                                                        
+   26AL  G    2911.17   3.3     6 [E1]                                            
+   26ALB G BE1W=2.3E-5 7                                                          
+   26AL  G    3091.36   6.1     6 [E1]                                            
+   26ALB G BE1W=3.6E-5 10                                                         
+   26AL  G    3387.00   27.5   11 [E1]                                            
+   26ALB G BE1W=0.00012 3                                                         
+   26AL  G    3697.39   18.3    8 [E1]                                            
+   26ALB G BE1W=6.3E-5 16                                                         
+   26AL  G    5039.33   100     8 [E1]                                            
+   26ALB G BE1W=0.00014 4                                                         
+   26AL  L 5461.87   13 0+,(1,2)         20 FS     LT                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G    2301.87   26      9                                                 
+   26AL  G    2548.34   87     17                                                 
+   26AL  G    2721.69   74     13                                                 
+   26AL  G    2800.79   35      9                                                 
+   26AL  G    3610.98   35     13                                                 
+   26AL  G    3702.55   100    13                                                 
+   26AL  G    4403.73   78     13                                                 
+   26AL  L 5487.93    6 5+,(4-)          17 FS     6                              
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)G(*)                                                         
+   26AL  G    2085.19   5.3    19                                                 
+   26AL  G    2414.18   100     5                                                 
+   26AL  G    3122.58   14      3                                                 
+   26AL  G    3418.83   22      3                                                 
+   26AL  G    5487.30   16      3                                                 
+   26AL  L 5494.51    5 2+               5 FS      LT                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)G(*)                                                         
+   26AL  G     946.57   2.42   22 [M1]                                            
+   26AL  G    1898.09   3.1    10                                                 
+   26AL  G    2334.51   4.7     6 [M1]                                            
+   26AL  G    3424.80   100.0  11 [M1]                                            
+   26AL  L 5513.48    4 4+               35 FS     4                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G     381.55   0.70   14 [M1]                                            
+   26ALB G BM1W=0.029 7                                                           
+   26AL  G     808.10   1.62   16 [M1]                                            
+   26ALB G BM1W=0.0072 11                                                         
+   26AL  G    1164.11   3.11   19                                                 
+   26AL  G    1321.52   100     3 [M1]                                            
+   26ALB G BM1W=0.101 12                                                          
+   26AL  G    1762.52   0.78   19 [E2]                                            
+   26ALB G BE2W=0.60 17                                                           
+   26AL  G    1917.06   1.1     3                                                 
+   26AL  G    2599.94   2.89   22 [E2]                                            
+   26ALB G BE2W=0.32 5                                                            
+   26AL  G    2852.39   1.97   22 [E2]                                            
+   26ALB G BE2W=0.136 22                                                          
+   26AL  G    2967.93   1.97   24                                                 
+   26AL  G    3148.12   16.5    5                                                 
+   26AL  G    3444.37   11.6    5                                                 
+   26AL  G    3754.15   71.9   22 [E2]                                            
+   26ALB G BE2W=1.26 15                                                           
+   26AL  G    5096.09   25.7   11                                                 
+   26AL  G    5512.85   30.3   11                                                 
+   26AL  L 5544.56    7 2+               15 FS     13                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G    1581.68   6.4    11 [M1]                                            
+   26AL  G    1793.59   71      4 [M1]                                            
+   26AL  G    1820.68   4.3    14                                                 
+   26AL  G    1948.14   18      4 [M1]                                            
+   26AL  G    2470.80   7.1    14                                                 
+   26AL  G    2631.02   16      3                                                 
+   26AL  G    2883.47   7.9    14                                                 
+   26AL  G    2999.01   8.6    18                                                 
+   26AL  G    3179.20   48      3                                                 
+   26AL  G    3472.67   8.6    14                                                 
+   26AL  G    3693.66   3.2    11                                                 
+   26AL  G    3785.23   40.7   25                                                 
+   26AL  G    4486.40   10.0   18                                                 
+   26AL  G    5127.16   100     7                                                 
+   26AL  G    5315.67   5.7    14 E2                                              
+26AL  L 5569.16   19 (4,5)                                                     
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G     863.77   23      7                                                 
+   26AL  G    3500.05   39     11                                                 
+   26AL  G    5568.52   100    13                                                 
+   26AL  L 5584.99    6 1                6 FS      LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  G    1037.05   7.2     4 [M1]                                            
+   26AL  G    1831.29   2.8     4 M1                                              
+   26AL  G    2424.98   1.2     4                                                 
+   26AL  G    2671.44   3.0     4                                                 
+   26AL  G    3825.65   1.6     5                                                 
+   26AL  G    5356.09   100.0   8 M1                                              
+   26AL  L 5598.30    6 (2,3)-           19 FS     7                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    2438.29   100     8 [E1]                                            
+   26ALB G BE1W=0.0011 5                                                          
+   26AL  G    3528.57   78      8 [E1]                                            
+   26ALB G BE1W=0.00029 11                                                        
+   26AL  G    5180.89   73      8 [E1]                                            
+   26ALB G BE1W=8E-5 4                                                            
+   26AL  L 5671.04    7 1+               30 FS     LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  G    1917.33   100     4 M1                                              
+   26AL  G    1990.28   6.5    16 [E2]                                            
+   26AL  G    2511.02   46.9   20 [M1]                                            
+   26AL  G    4612.86   15.9   24                                                 
+   26AL  G    5253.61   11.8   18 [E2]                                            
+   26AL  G    5442.12   22      4 M1                                              
+   26AL  L 5676.07    5 4-               22 FS     10                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    1076.88   3.56   18 [E1]                                            
+   26ALB G BE1W=0.00045 21                                                        
+   26AL  G    1484.10   15.6    4 [E1]                                            
+   26ALB G BE1W=0.0008 4                                                          
+   26AL  G    1995.31   3.02   18 [E1]                                            
+   26ALB G BE1W=6E-5 3                                                            
+   26AL  G    2001.07   0.49   18 [E1]                                            
+   26AL  G    3130.50   7.78   22 [E1]                                            
+   26ALB G BE1W=4.0E-5 19                                                         
+   26AL  G    3310.69   1.76   18 [E1]                                            
+   26ALB G BE1W=8E-6 4                                                            
+   26AL  G    3606.94   0.84   16 [E1]                                            
+   26ALB G BE1W=2.8E-6 14                                                         
+   26AL  G    5258.64   100.0  22 [E1]                                            
+   26ALB G BE1W=0.00011 5                                                         
+   26AL  G    5675.40   88.9   22 [E1]                                            
+   26ALB G BE1W=8E-5 4                                                            
+   26AL  L 5692.15    5 3-               2.8 FS    11                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDG                                                               
+   26AL  G     550.46   0.52   16 [E1]                                            
+   26ALB G BE1W=0.0038 19                                                         
+   26AL  G    1092.96   0.55   18 [E1]                                            
+   26AL  G    1144.20   0.48   20 [E1]                                            
+   26AL  G    1486.24   0.95   18 [E1]                                            
+   26ALB G BE1W=0.00035 16                                                        
+   26AL  G    1500.18   41.6   14 [E1]                                            
+   26ALB G BE1W=0.015 6                                                           
+   26AL  G    2011.39   4.1     3 [E1]                                            
+   26ALB G BE1W=0.00061 25                                                        
+   26AL  G    2095.72   0.66   14 [E1]                                            
+   26ALB G BE1W=9E-5 4                                                            
+   26AL  G    2532.13   37.5   11 [E1]                                            
+   26ALB G BE1W=0.0028 11                                                         
+   26AL  G    2618.38   1.57   20 [E1]                                            
+   26ALB G BE1W=0.00011 5                                                         
+   26AL  G    3031.04   0.70   20 [E1]                                            
+   26ALB G BE1W=3.1E-5 15                                                         
+   26AL  G    3622.41   0.70   18 [E1]                                            
+   26ALB G BE1W=1.8E-5 9                                                          
+   26AL  G    3932.79   37.3   11 [E1]                                            
+   26ALB G BE1W=0.0007 3                                                          
+   26AL  G    5274.72   100.0  23 [E1]                                            
+   26ALB G BE1W=0.0008 4                                                          
+   26AL  L 5726.38    5 4+               5 FS      LT                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G    1377.00   2.2     3 [M1]                                            
+   26AL  G    1763.49   16.5    8 [M1]                                            
+   26AL  G    2051.37   1.9     3                                                 
+   26AL  G    2129.95   6.5     5 [M1]                                            
+   26AL  G    2323.62   22      3 [M1]                                            
+   26AL  G    3361.00   13.5    5                                                 
+   26AL  G    3657.24   16.2    8                                                 
+   26AL  G    5308.94   89      3                                                 
+   26AL  G    5725.70   100     3                                                 
+   26AL  L 5849.21    8 2+               10 FS     6                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BG                                                                
+   26AL  G     707.52   6.5    13 [M1]                                            
+   26AL  G    1301.25   17.5   19 [M1]                                            
+   26AL  G    1657.23   31      4 [M1]                                            
+   26AL  G    2935.63   15      6                                                 
+   26AL  G    3108.98   6.7    19                                                 
+   26AL  G    3779.44   100     6 [M1]                                            
+   26AL  G    4089.83   15      4                                                 
+   26AL  G    5431.75   17      4                                                 
+   26AL  L 5882.65    9 3+               12 FS     LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G     740.96   5.3    23 [M1]                                            
+   26AL  G     750.71   5.1    23 [M1]                                            
+   26AL  G    1177.25   5.3    19 [M1]                                            
+   26AL  G    1260.24   7.2    16 [E1]                                            
+   26AL  G    1283.45   5.3    12 [M1]                                            
+   26AL  G    1334.69   100     5 [M1]                                            
+   26AL  G    1690.67   4.0    16 [M1]                                            
+   26AL  G    2722.61   21.6   16                                                 
+   26AL  G    2808.86   2.3     9                                                 
+   26AL  G    3812.88   27.0   16                                                 
+   26AL  G    4031.69   9.5    14 [E2]                                            
+   26AL  G    4123.26   7       3                                                 
+   26AL  G    5465.18   32.6   23                                                 
+   26AL  L 5916.10    6 2-               2 FS      LT                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G     774.41   2.7     5 [E1]                                            
+   26AL  G    1724.12   14.5    9 [E1]                                            
+   26AL  G    2165.10   5       3 [E1]                                            
+   26AL  G    2756.05   7.5     9 [E1]                                            
+   26AL  G    3002.51   4.3     9 [E1]                                            
+   26AL  G    3550.69   3.6     9 [E1]                                            
+   26AL  G    3846.32   48.6   16 [E1]                                            
+   26AL  G    4065.14   10.7   25 [E1]                                            
+   26AL  G    4156.71   15.0   11 [E1]                                            
+   26AL  G    4857.87   14      5 [E1]                                            
+   26AL  G    5498.62   100     5 [E1]                                            
+   26AL  L 5924.19    7 4+               12 FS     LT                             
+   26AL2 L ISPIN=1                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G    2243.41   40      6 [M1]                                            
+   26AL  G    2521.41   7.3    13                                                 
+   26AL  G    3378.59   100     6                                                 
+   26AL  G    3855.02   23      4                                                 
+   26AL  G    5923.46   38      4                                                 
+   26AL  L 5949.93    8 1-               30 FS     LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    2196.20   47      6 E1                                              
+   26AL  G    2789.88   100     9 [E1]                                            
+   26AL  G    3880.15   50      9 [E1]                                            
+   26AL  G    5720.95   32      6 E1                                              
+   26AL cG           Also, additional |g ray (I|g=65 {I9}) from 5949.9 level.     
+   26AL  L 6028.02    4 1+               4 FS      LT                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    1021.34   2.5     5 [E1]                                            
+   26AL  G    1088.36   12.3   14 [E1]                                            
+   26AL  G    2050.02   2.0     7 E1                                              
+   26AL  G    2277.01   8.0    20 [M1]                                            
+   26AL  G    2304.10   50.2   16 [M1]                                            
+   26AL  G    3114.42   35.0   11 [M1]                                            
+   26AL  G    3287.77   8.0    16                                                 
+   26AL  G    3956.05   6.6    14                                                 
+   26AL  G    4268.61   2.7    11                                                 
+   26AL  G    4969.77   100     5                                                 
+   26AL  L 6084.07    5 5-               90 FS     20                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G     688.53   1.29   13 [E1]                                            
+   26ALB G BE1W=0.00019 5                                                         
+   26AL  G    1310.68   1.32   16                                                 
+   26AL  G    1378.66   15.9    7 [M1]                                            
+   26ALB G BM1W=0.0083 19                                                         
+   26AL  G    2409.03   19.6   18                                                 
+   26AL  G    2576.30   13.9    5                                                 
+   26AL  G    4014.87   100     4                                                 
+   26AL  G    6083.30   27.0    9                                                 
+   26AL  L 6086.47   11 (1-,2+)          14 FS     11                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G    4016.67   66     21                                                 
+   26AL  G    4235.48   62     21                                                 
+   26AL  G    4327.05   34     10                                                 
+   26AL  G    5857.45   100    21                                                 
+   26AL cG           Also, additional |g ray (I|g=83 {I21}) from 6086.5           
+   26AL2cG level.                                                                 
+   26AL  L 6120.01    7 (4 TO 6)+        10 FS     3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    2444.97   9.0    12                                                 
+   26AL  G    2717.21   38.2   15                                                 
+   26AL  G    4050.81   100.0  15                                                 
+26AL  L 6197.56   19 (1,2+)                                                    
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G    5968.51   100       E2                                              
+   26AL  L 6238.4     3 1                7 FS      LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  G     1096.7   27.9   25                                                 
+   26AL  G     1690.4   36.4   25                                                 
+   26AL  G     1807.6   4.6    14                                                 
+   26AL  G     2260.4   25      7                                                 
+   26AL  G     2484.6   18.2   25                                                 
+   26AL  G     2514.5   1.8    11                                                 
+   26AL  G     3078.3   4.6    18                                                 
+   26AL  G     3324.8   4.3    14                                                 
+   26AL  G     3498.1   14      7                                                 
+   26AL  G     4168.6   100     4                                                 
+   26AL  G     4387.4   6.4    21                                                 
+   26AL  G     4478.9   8.2    21                                                 
+   26AL  G     5180.1   50      4                                                 
+   26AL  G     6009.3   54      4                                                 
+   26AL  L 6254.06   20 3-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 6270.19   11 1+               9 FS      LT                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G    1075.06   9       3 M1                                              
+   26AL  G    3110.10   22      3                                                 
+   26AL  G    6041.13   100     5 M1                                              
+   26AL cG           Also, additional |g ray (I|g=41 {I5}) from 6270.2 level.     
+   26AL  L 6280.33    9 3+               14 FS     LT                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  G    1138.62   37     17 [M1]                                            
+   26AL  G    1148.37   29     14 [M1]                                            
+   26AL  G    1681.10   29     11 [M1]                                            
+   26AL  G    2088.32   66     11 [M1]                                            
+   26AL  G    3120.24   100    23 [M1]                                            
+   26AL  G    4210.49   26     11                                                 
+   26AL  L 6343.46    8 4                6 FS      LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  G    1211.50   14.6   15 [E1]                                            
+   26AL  G    1638.03   8.3    22 [E1]                                            
+   26AL  G    1744.23   100     4 [E1]                                            
+   26AL  G    2151.44   30.4   22 [E1]                                            
+   26AL  G    3269.61   11.1   24 [E1]                                            
+   26AL  G    3797.79   28.3   22 [E1]                                            
+   26AL  G    3977.98   8.3    11 [E1]                                            
+   26AL  G    4274.22   18.9   11 [E1]                                            
+   26AL  L 6363.99    8 3+               22 FS     11                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BD                                                                
+   26AL  G    2158.03   26      7                                                 
+   26AL  G    2171.97   6       4                                                 
+   26AL  G    2612.95   23      3                                                 
+   26AL  G    2683.16   48      4                                                 
+   26AL  G    2688.92   44     15                                                 
+   26AL  G    3818.32   19      7                                                 
+   26AL  G    3998.51   30      7                                                 
+   26AL  G    4294.75   30      7                                                 
+   26AL  G    4604.52   100    11                                                 
+   26AL  G    5946.40   44      7                                                 
+   26AL  L 6398.64   21 2-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  L 6414.46   10 0+                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BDF                                                               
+   26AL  G    4563.41   100    17 M1                                              
+   26AL  G    5356.13   67     17 M1                                              
+   26AL  L 6436.44   11 5+               17 FS     LT                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDF                                                               
+   26AL  G    1304.47   100    10 [E1]                                            
+   26AL  G    1731.01   90      8 [E1]                                            
+   26AL  G    4367.18   18      5 [E1]                                            
+   26AL  G    6018.84   49      8 [E1]                                            
+   26AL  L 6495.94    7 5+                8 FS      LT                            
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  L 6550.68    7 5-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  L 6598.32   16 5+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 6610.40    6 3-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  L 6680.45    7 2+               1.2 EV    3                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  L 6695       1 7                                                         
+   26ALX L XREF=B                                                                 
+   26AL2 L ISPIN=0                                                                
+   26AL  G 3187                                                                   
+   26AL  L 6724.25    7 4-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  L 6783.79    5 2-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 6789.30    4 3-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BD                                                                
+   26AL  L 6801.12    4 3+               0.34 EV   6                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 6801.60   16 1+,(1-,2-)       0.34 EV   6                              
+   26AL2 L ISPIN=0+1                                                              
+   26ALX L XREF=B                                                                 
+   26AL  L 6815.74   10 6+,(4,5)         15 FS     LT                             
+   26AL2 L ISPIN=0                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  L 6817.86    9 4+               0.7 EV    3                              
+   26AL2 L ISPIN=1                                                                
+26ALX L XREF=BD(*)                                                             
+   26AL  L 6851.50   11 2+                                                        
+   26AL2 L ISPIN=1+0                                                              
+   26ALX L XREF=B                                                                 
+   26AL  L 6874.29    8 1+               0.43 EV   23                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 6875.73    6 2+                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 6891.70    4 6-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDEG                                                              
+   26AL  L 6936.20    8 1+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 6964.48    9 3-                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=BDE                                                               
+   26AL  L 7000.91    9 2+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7015.01   11 5+               0.18 EV   5                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7051.22    7 3+               0.95 EV   11                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7085.97   16 1-                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7092.78    9 2+               0.68 EV   12                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7108.71    8 4-               75 EV     20                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BE                                                                
+   26AL  L 7141.80    5 2-               200 EV    50                             
+26AL2 L ISPIN=0(&1)                                                            
+   26ALX L XREF=BC                                                                
+   26AL  L 7152.84    6 3+               90 EV     25                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7160.97    9 3-               90 EV     25                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7167.65    6 4-               80 EV     20                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDE                                                               
+   26AL  L 7198.44   12 1+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7222.42    9 5+                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7237.68    5 3-               100 EV    25                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7253.6     2 2-               3.4 KEV   5                              
+26AL2 L ISPIN=1(&0)                                                            
+   26ALX L XREF=B                                                                 
+26AL  L 7285.62   11 0-,(1,2)                                                  
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7291.33    9 4+,(3+)          55 EV     15                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7308.22    5 2+                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7347.89   10 4-               1.3 KEV    2                             
+26AL2 L ISPIN=1(&0)                                                            
+   26ALX L XREF=BE                                                                
+   26AL  L 7366.25   11 5+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7396.92    5 2+               45 EV     11                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7398.70   10 3-               1.9 KEV    3                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7409.62    8 4-               230 EV    60                             
+26AL2 L ISPIN=1(&0)                                                            
+   26ALX L XREF=BE                                                                
+   26AL  L 7425.07    7 4+               65 EV     15                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+26AL  L 7439.50   14 0(1,2)                                                    
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7444.16   16 1-               45 EV     10                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7455.34   19 1+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7464.44   11 3+                                                        
+   26AL2 L ISPIN=0&1                                                              
+   26ALX L XREF=B                                                                 
+   26AL  L 7495.38    4 3+               80 EV     20                             
+   26AL2 L ISPIN=0&1                                                              
+   26ALX L XREF=B                                                                 
+   26AL  L 7497       2 2-               750 EV    200                            
+26AL2 L ISPIN=0(&1)                                                            
+   26ALX L XREF=B                                                                 
+   26AL  L 7529.26    5 6-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BDEG                                                              
+   26AL  L 7539.52   11 2-               2.1 KEV   3                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7548.20    9 5-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=BEG                                                               
+   26AL  L 7557.56   25 2+               170 EV    40                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7561.2     2 2+               3.1 KEV   5                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7591.55   10 4+,(3+)          17 EV     4                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7596.06   12 5+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7604.80   10 2-               500 EV    80                             
+26AL2 L ISPIN=0(&1)                                                            
+   26ALX L XREF=B                                                                 
+   26AL  L 7622.68   10 1+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7627.52   12 5+               10 EV     3                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7647.8     4 1+,(2+)          23 EV     14                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7761.84   10 3-                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7772.25    6 3+                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7773       2 1                5.3 KEV   8                              
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7813.63   18 1+               2.7 KEV   3                              
+   26AL2 L ISPIN=0+1                                                              
+   26ALX L XREF=B                                                                 
+   26AL  L 7824.66   15 4-               930 EV    140                            
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7831.61    7 4+               110 EV    30                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7865.0     3 2+               6.6 KEV   10                             
+26AL2 L ISPIN=0(&1)                                                            
+   26ALX L XREF=B                                                                 
+   26AL  L 7874.29   15 3+               1.2 KEV    2                             
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7879.6     3 1+               3.7 KEV   4                              
+   26AL2 L ISPIN=0&1                                                              
+   26ALX L XREF=B                                                                 
+   26AL  L 7891.17    9 4+               900 EV    140                            
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7921.27   14 (5,6)+                                                    
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7938.79    8 3+               1.7 KEV   3                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7953.35    6 4+               320 EV    50                             
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 7982       2 2+               12 KEV    2                              
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 8000.63    7 1-               850 EV    130                            
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 8008.08    9 2+               850 EV    130                            
+26AL CL            ISPIN=(0)                                                   
+   26ALX L XREF=B                                                                 
+   26AL  L 8011          5-              140 EV    40                             
+   26ALX L XREF=BDEG                                                              
+   26AL2 L ISPIN=1                                                                
+   26AL  L 8067          5-              200 EV    50                             
+   26ALX L XREF=BDEG                                                              
+   26AL2 L ISPIN=1                                                                
+   26AL  L 8531       1 4                                                         
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 8602       1 (5,6)+                                                    
+   26ALX L XREF=B                                                                 
+   26AL  L 8747       1 6+                                                        
+26AL CL            ISPIN=(1)                                                   
+   26ALX L XREF=B                                                                 
+   26AL  L 8924       1 4                                                         
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 9060       1 4                                                         
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 9271       1 6-                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 9271       1 4                                                         
+   26ALX L XREF=B                                                                 
+   26AL  L 9286       1 5                                                         
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+26AL  L 9311       1 (3+,4)                                                    
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 9720       1 7+                                                        
+   26ALX L XREF=B                                                                 
+26AL  L 9720       1 (3,4)                                                     
+   26ALX L XREF=B                                                                 
+   26AL  L 9960      10 5-                                                        
+   26AL CL E$From 1993YA14                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 9986       1 7+                                                        
+   26AL2 L ISPIN=1                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 10660     10 6-                                                        
+   26AL CL E$From 1993YA14                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+   26AL  L 13910     20 6-                                                        
+   26AL CL E$From 1993YA14                                                        
+   26AL2 L ISPIN=0                                                                
+   26ALX L XREF=B                                                                 
+
+
+
+   ~                  

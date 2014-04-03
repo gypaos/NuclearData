@@ -1,0 +1,744 @@
+ 26MG    ADOPTED LEVELS, GAMMAS        1998EN04                  98NP     200004
+ 26MG  H TYP=FUL$AUT=P. M. ENDT, J.BLACHOT, R.B. FIRESTONE, and J.ZIPKIN$       
+ 26MG2 H CIT=NP A633, 1 (1998)$CUT=1-JAN-2000$                                  
+ 26MG c  See abstract for special evaluation policies used in the               
+ 26MG2c  A=26 or Comments dataset in ENSDF                                      
+ 26MG cG E$Deduced from level-energy differences, corrected for                 
+ 26MG2cG recoil, unless otherwise specified.                                    
+ 26MG cG RI$Relative photon branching from each level.                          
+ 26MG cG E$From level energy differences, corrected for recoil.                 
+ 26MG cL E(A)$From {+26}Al |e decay.                                            
+ 26MG PN                                                                     6  
+ 26MG  XA26NA B- DECAY                                                          
+ 26MG  XB26AL EC DECAY (7.17E+5 Y)                                              
+ 26MG  XC26AL EC DECAY (6.3452 S)                                               
+ 26MG  XD27NA B-N DECAY                                                         
+ 26MG  XE25MG(N,G)                                                              
+ 26MG  XF25MG(D,PG)                                                             
+ 26MG  XG26MG(P,P')                                                             
+ 26MG  XH23NA(A,PG)                                                             
+ 26MG  XI26MG(A,A'G),22NE(A,N)                                                  
+ 26MG  XJ25MG(A,3HE)                                                            
+ 26MG  XK24MG(T,P)                                                              
+ 26MG  XL26MG(G,G')                                                             
+ 26MG  XM27AL(T,A)                                                              
+ 26MG  XN27AL(D,3HE)                                                            
+ 26MG  XO26MG(E,E')                                                             
+ 26MG  Q  -4004.14  611093.07 4 14146.012-10615.0 2    1995AU04                 
+ 26MG  L 0.0          0+               STABLE                                   
+ 26MGX L XREF=ABCDEFGHIJKLMNO                                                   
+ 26MG  L 1808.73    3 2+               476 FS    12                         A   
+ 26MG2 L MOMM1=+1.0 3$ MOME2=-0.135 20                                          
+ 26MGX L XREF=ABDEFGHIKO                                                        
+ 26MG  G    1808.66 3 100       E2                                              
+ 26MGB G BE2W=13.4 4                                                            
+ 26MG  L 2938.34   4  2+               141 FS    8                          A   
+ 26MGX L XREF=ABEFGHIKO                                                         
+ 26MG  G    1129.58 5 100.0   6 M1+E2    -0.12   2                              
+ 26MGB G BM1W=0.097 12$BE2W=6.2 22                                              
+ 26MG cG MR$average of several values from 1978En02.                            
+ 26MG  G    2938.16 4 10.7    6 E2                                              
+ 26MGB G BE2W=0.35 7                                                            
+ 26MG  L 3588.56    9 0+               6.44 PS   14                             
+ 26MGX L XREF=EFGHKO                                                            
+ 26MG  G   1779.76 10 100       E2                                              
+ 26MGB G BE2W=1.075 24                                                          
+ 26MG  L 3941.55    4 3+               0.85 PS   12                             
+ 26MGX L XREF=AEFGHK                                                            
+ 26MG  G    1003.19 6 100.0  16 M1+E2    -0.05   4                              
+ 26MGB G BM1W=0.0159 23                                                         
+ 26MG  G    2132.73 5 61.3   16 M1(+E2)  +0.01   2                              
+ 26MGB G BM1W=0.00102 15                                                        
+ 26MG  G    3941.23 4 0.8    LT                                                 
+ 26MG  L 4318.88    6 4+               272 FS    16                             
+ 26MGX L XREF=AEGKO                                                             
+ 26MG  G    2510.02 7 100       [E2]                                            
+ 26MGB G BE2W=4.6 3                                                             
+ 26MG  G    4318.50 6 3      LT                                                 
+ 26MG  L 4332.57    5 2+               20 FS     3                              
+ 26MGX L XREF=AEGHKO                                                            
+ 26MG  G    1394.19 6 19.3   10                                                 
+ 26MG  G    2523.71 6 100.0  13                                                 
+ 26MG  G    4332.18 5 7.6    8  E2                                              
+ 26MGB G BE2W=0.24 9                                                            
+ 26MG  L 4350.08    5 3+               105 FS    20                             
+ 26MGX L XREF=AEGHIO                                                            
+ 26MG  G     408.53 6 0.35    8                                                 
+ 26MG  G    1411.70 6 93     4  M1+E2    -0.31   6                              
+ 26MGB G BM1W=0.032 7$BE2W=9 4                                                  
+ 26MG  G    2541.22 6 100    4  M1+E2    -0.10   4                              
+ 26MGB G BM1W=0.0067 14                                                         
+ 26MG  G    4349.69 5   2    LT                                                 
+ 26MG  L 4835.13    5 2+               28 FS     6                              
+ 26MGX L XREF=AEFGHKO                                                           
+ 26MG  G    1896.72 6 100.0  14 M1(+E2)  -0.04   6                              
+ 26MGB G BM1W=0.104 23                                                          
+ 26MG  G    3026.21 6 4.8     5                                                 
+ 26MG  G    4834.65 5 13.1   12 E2                                              
+ 26MGB G BE2W=0.10 4                                                            
+ 26MG  L 4901.30    9 4+               29 FS     6                              
+ 26MGX L XREF=AEFGHKO                                                           
+ 26MG  G    959.73 10 4      1                                                  
+ 26MG  G   1962.88 10 2      1  [E2]                                            
+ 26MG  G   3092.37 10 100    1  E2(+M3)  -0.02   14                             
+ 26MGB G BE2W=14 3                                                              
+ 26MG  L 4972.29   12 0+               440 FS    60                             
+ 26MGX L XREF=EFGHIKO                                                           
+ 26MG  G   2033.86 13 100     4 E2                                              
+ 26MGB G BE2W=7.5 12                                                            
+ 26MG  G   3163.35 12 8       4 E2                                              
+ 26MG  L 5291.74    5 2+               10 FS     LT                             
+ 26MGX L XREF=EFGHIKO                                                           
+ 26MG  G    1350.15 6 3.4     7 [M1]                                            
+ 26MG  G    2353.29 6 100.0  14                                                 
+ 26MG  G    3482.76 6 6.6     9                                                 
+ 26MG  G    5291.16 5 3.9     7 E2                                              
+ 26MG  L 5476.11   7  4+               21 FS     6                              
+ 26MGX L XREF=EFGHIKO                                                           
+ 26MG  G    1157.20 9 100     4 M1+E2    +0.09   7                              
+ 26MGB G BM1W=0.38 12                                                           
+ 26MG  G    1534.51 8 51      4 M1+E2    -0.27   4                              
+ 26MGB G BM1W=0.079 24$BE2W=14 6                                                
+ 26MG  G    3667.10 8 25      2 [E2]                                            
+ 26MGB G BE2W=1.2 4                                                             
+ 26MG  L 5691.11   17 1+               8 FS      LT                             
+ 26MGX L XREF=EFGHO                                                             
+ 26MG  G   1358.50 18 6       2                                                 
+ 26MG  G   2752.61 17 46      3                                                 
+ 26MG  G   3882.07 17 100     5                                                 
+ 26MG  G   5690.44 17 11      3 D                                               
+ 26MG  L 5715.60   10 4+               70 FS     35                             
+ 26MGX L XREF=AEFGHIO                                                           
+ 26MG  G    814.29 13 4      LT M1(+E2)  +0.1    3                              
+ 26MG  G   1365.48 11 92      5 M1+E2    -0.17   3                              
+ 26MG  G   1773.98 11 100     5 M1+E2    -0.12   4                              
+ 26MG  G   2777.10 11 58      5 [E2]                                            
+ 26MG  L 6125.48    4 3+               14 FS     6                              
+ 26MGX L XREF=AEFGHIKN                                                          
+ 26MG  G    409.88 11 0.4    1                                                  
+ 26MG  G     833.73 6 3.4    4                                                  
+ 26MG  G   1224.15 10 1.3    3                                                  
+ 26MG  G    1290.32 6 5.2    4                                                  
+ 26MG  G    1775.33 6 100.0  14 [M1]                                            
+ 26MGB G BM1W=0.24 11                                                           
+ 26MG  G    1792.84 6 6.5    6                                                  
+ 26MG  G    2183.83 6 13.7   7                                                  
+ 26MG  G    3186.93 6 5.8    6                                                  
+ 26MG  G    4316.37 5 4.8    6                                                  
+ 26MG  L 6256       1 0+               52 FS     24                             
+ 26MGX L XREF=FGIKO                                                             
+ 26MG  G     564.9 10 8       4 D                                               
+ 26MG  G    4446.9 10 100     4 E2                                              
+ 26MGB G BE2W=1.3 6                                                             
+ 26MG  L 6622       1 4+               19 FS     5                              
+ 26MGX L XREF=FGHIN                                                             
+ 26MG  G    1145.9 10 19      2 [M1]                                            
+ 26MGB G BM1W=0.069 20                                                          
+ 26MG  G    1720.6 10 100     8 M1(+E2)  -0.26   +60-10                         
+ 26MGB G BM1W=0.11 3                                                            
+ 26MG  G    2271.8 10 44      6                                                 
+ 26MG  G    2289.3 10 23      4 [E2]                                            
+ 26MGB G BE2W=11 4                                                              
+ 26MG  G    2303.0 10 23      4                                                 
+ 26MG  L 6634.31   15 (0 TO 4)+        7 FS      LT                             
+ 26MGX L XREF=EFH                                                               
+ 26MG  G   3695.69 16 100    1                                                  
+ 26MG  G   4825.10 15 6      1                                                  
+ 26MG  L 6745.76   16 2+               16 FS     8                              
+ 26MGX L XREF=EFGHIKN                                                           
+ 26MG  G   3807.12 16 59      5                                                 
+ 26MG  G   4936.53 16 100     5                                                 
+ 26MG  L 6876.42    4 3-               85 FS     35                             
+ 26MGX L XREF=EFGIKNO                                                           
+ 26MG  G    2041.20 6 4.7     6                                                 
+ 26MG  G    2543.72 6 6.1     9                                                 
+ 26MG  G    2557.41 7 4.4     4                                                 
+ 26MG  G    2934.69 6 4.2     9 [E1]                                            
+ 26MGB G BE1W=7E-5 3                                                            
+ 26MG  G    3937.76 6 26.2   12                                                 
+ 26MG  G    5067.16 5 100.0  19                                                 
+ 26MG  L 6978       1 5+               14 FS     5                              
+ 26MGX L XREF=FGIN                                                              
+ 26MG  G    1262.4 10 8       2                                                 
+ 26MG  G    1501.8 10 100     8 M1+E2    -0.21   5                              
+ 26MGB G BM1W=0.22 9                                                            
+ 26MG  G    2076.6 10 22      4 M1+E2    -1.0    6                              
+ 26MG  G    2627.8 10 9       2 [E2]                                            
+ 26MGB G BE2W=3.2 14                                                            
+ 26MG  G    2659.0 10 34      4 M1+E2    -0.4    2                              
+ 26MGB G BM1W=0.012 5                                                           
+ 26MG  G    3036.3 10 28      4 E2(+M3)  0       AP                             
+ 26MGB G BE2W=4.8 19                                                            
+ 26MG  L 7061.90   10 1-               7 FS      LT                             
+ 26MGX L XREF=EFGIKNO                                                           
+ 26MG  G   3473.09 13 94      8 E1                                              
+ 26MG  G   4123.21 11 28      6                                                 
+ 26MG  G   5252.60 10 56      8 [E1]                                            
+ 26MG  G   7060.87 10 100    14                                                 
+ 26MG  L 7099.66   10 2+               14 FS     LT                             
+ 26MGX L XREF=EFGIKNO                                                           
+ 26MG  G   2264.42 11 40     6                                                  
+ 26MG  G   3157.90 11 18     4                                                  
+ 26MG  G   4160.96 11 100    10                                                 
+ 26MG  G   5290.35 10 32      4                                                 
+ 26MG  G   7098.62 10 10      4                                                 
+ 26MG  L 7200      20 (0,1)+                                                    
+ 26MGX L XREF=G                                                                 
+ 26MG  L 7242       1  3+              7 FS      LT                             
+ 26MGX L XREF=FGN                                                               
+ 26MG  G    2406.8 10 40      8                                                 
+ 26MG  G    2891.7 10 88     16                                                 
+ 26MG  G    2909.3 10 100    16                                                 
+ 26MG  G    2922.9 10 76     16                                                 
+ 26MG  G    3300.2 10 96     16                                                 
+ 26MG  L 7261.39    4 (2,3)-           7 FS      LT                             
+ 26MGX L XREF=EFGK                                                              
+ 26MG  G    2426.14 6 25.1    8                                                 
+ 26MG  G    2911.14 6 8.0     6 [E1]                                            
+ 26MG  G    2928.64 6 9.4     6                                                 
+ 26MG  G    3319.61 6 47.4   18 [E1]                                            
+ 26MG  G    4322.66 6 15.2    8 [E1]                                            
+ 26MG  G    5452.05 5 100.0  25 [E1]                                            
+ 26MG  L 7282.74    5 4-               24 FS     8                              
+ 26MGX L XREF=EFGKN                                                             
+ 26MG  G   1567.09 11 9.2     8                                                 
+ 26MG  G   2381.32 10 10.2   10                                                 
+ 26MG  G    2932.48 7 18.2   20                                                 
+ 26MG  G    2963.68 8 62      4 E1+M2    +0.5    4                              
+ 26MGB G BE1W=0.0004 2                                                          
+ 26MG  G    3340.96 6 100     4 E1(+M2)  +0.03   7                              
+ 26MGB G BE1W=0.00052 19                                                        
+ 26MG  L 7348.87    5 3-                                                        
+ 26MGX L XREF=EFGIKN                                                            
+ 26MG  G    1872.69 9 1.5    4                                                  
+ 26MG  G    2513.61 7 42     3                                                  
+ 26MG  G    3016.11 7 11.9   12                                                 
+ 26MG  G    3029.80 8 3.2     4                                                 
+ 26MG  G    4410.13 6 100     4                                                 
+ 26MG  G    5539.51 6 31.5   19                                                 
+ 26MG  L 7371.2     2    2+                                                     
+ 26MGX L XREF=EFGIN                                                             
+ 26MG  G   3020.93 21 27      4                                                 
+ 26MG  G   3429.41 20 100    15                                                 
+ 26MG  G   5561.83 20 27      4                                                 
+ 26MG  G   7370.08 20 54     15                                                 
+ 26MG  L 7395       1 5+               14 FS     LT                             
+ 26MGX L XREF=FGIKN                                                             
+ 26MG  G    1679.3 10 100     6 M1+E2    -0.14   2                              
+ 26MG  G    2493.6 10 36      4                                                 
+ 26MG  G    3044.7 10 26      2 [E2]                                            
+ 26MG  G    3075.9 10 14      4                                                 
+ 26MG  G    3453.2 10 24      2 [E2]                                            
+ 26MG  L 7428       3 (0,1)+                                                    
+ 26MGX L XREF=GKN                                                               
+ 26MG  L 7541.73    5  2-              7 FS      LT                             
+ 26MGX L XREF=EFG                                                               
+ 26MG  G    3191.44 7 8.7    11                                                 
+ 26MG  G    3208.95 7 100     4 [E1]                                            
+ 26MG  G    3599.91 6 38      3 [E1]                                            
+ 26MG  G    4602.95 6 84      4 [E1]                                            
+ 26MG  G    5732.32 6 39      3 [E1]                                            
+ 26MG  L 7677       1    4+            10 FS     LT                             
+ 26MGX L XREF=FGKN                                                              
+ 26MG  G    1551.5 10 35      4                                                 
+ 26MG  G    1961.3 10 100     8                                                 
+ 26MG  G    2775.5 10 44      6                                                 
+ 26MG  G    3357.9 10 29      4                                                 
+ 26MG  L 7697.3     6  1-                                                       
+ 26MGX L XREF=EGKN                                                              
+ 26MG  G     7696.1 6 100                                                      ?
+ 26MG  L 7725.74   16  3+                                                       
+ 26MGX L XREF=EFGN                                                              
+ 26MG  G   3406.62 17 100     4                                                 
+ 26MG  G   3783.89 16 19      4                                                 
+ 26MG  L 7773       1  4+              7 FS      LT                             
+ 26MGX L XREF=FGN                                                               
+ 26MG  G    2296.8 10 30      8                                                 
+ 26MG  G    2937.7 10 30      8                                                 
+ 26MG  G    3453.9 10 20      6                                                 
+ 26MG  G    3831.1 10 100    14                                                 
+ 26MG  G    4834.2 10 20      6                                                 
+ 26MG  L 7816       2 (2,3)+                                                    
+ 26MGX L XREF=FGIK                                                              
+ 26MG  G    3483.2 20 100                                                       
+ 26MG  L 7824       3   3-                                                      
+ 26MGX L XREF=FGN                                                               
+ 26MG  G       3882 3 100    13                                                 
+ 26MG  G       4885 3 100    13                                                 
+ 26MG  G       6015 3 50     10                                                 
+ 26MG  L 7840       2 2+                                                        
+ 26MGX L XREF=F                                                                 
+ 26MG  G    3520.9 20 47     10                                                 
+ 26MG  G    4251.1 20 100    12 E2                                              
+ 26MG  G    4901.2 20 63     12                                                 
+ 26MG  G    6030.5 20 23      7                                                 
+ 26MG  L 7851       3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 7953       1 5-               14 FS     6                              
+ 26MGX L XREF=FGKN                                                              
+ 26MG  G    2237.3 10 47      5 E1+M2    -0.19   15                             
+ 26MGB G BE1W=0.0015 7                                                          
+ 26MG  G    3633.8 10 100     5 E1+M2    +0.13   11                             
+ 26MGB G BE1W=0.0008 4                                                          
+ 26MG  L 8033       2  2+                                                       
+ 26MGX L XREF=FGN                                                               
+ 26MG  G    5094.1 20 100                                                       
+ 26MG  L 8052.9     6 2-                                                        
+ 26MGX L XREF=EFGKN                                                             
+ 26MG  G     6243.4 6 100                                                       
+ 26MG  L 8184.96   10  3-                                                       
+ 26MGX L XREF=EFGIN                                                             
+ 26MG  G   5246.05 11 28      4                                                 
+ 26MG  G   6375.39 10 100     4                                                 
+ 26MG  L 8201       1 6+               14 FS     LT                             
+ 26MGX L XREF=FGIN                                                              
+ 26MG  G    1223.0 14 44      4 M1(+E2)  -0.03   4                              
+ 26MG  G    3299.5 10 78      7 E2(+M3)  0       AP                             
+ 26MG  G    3881.8 10 100     9 E2(+M3)  0       AP                             
+ 26MG  L 8227.56   16  1-              1.0 FS    2                              
+ 26MGX L XREF=EFGKN                                                             
+ 26MG  G   6417.98 16 85      6                                                 
+ 26MG  G   8226.16 16 100     6                                                 
+ 26MG  L 8250.70   10 3+                                                        
+ 26MGX L XREF=EFGN                                                              
+ 26MG  G   5311.78 11 100                                                       
+ 26MG  L 8399       3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 8458.87   13  3+                                                       
+ 26MGX L XREF=EFGN                                                              
+ 26MG  G   6649.23 13 100                                                       
+ 26MG  L 8464       2   (2+ TO 6+)                                              
+ 26MGX L XREF=EF                                                                
+ 26MG  G    4144.8 20 100                                                       
+ 26MG  L 8472       1 6+               14 FS     LT                             
+ 26MGX L XREF=FGIN                                                              
+ 26MG  G    1494.0 14 38      5 M1+E2    -0.32   10                             
+ 26MG  G    3570.4 10 100     6 E2(+M3)  0       AP                             
+ 26MG  G    4152.8 10 21      3 [E2]                                            
+ 26MG  L 8503.74    9  1-                                                       
+ 26MGX L XREF=EFGN                                                              
+ 26MG  G   6694.08 10 39      6                                                 
+ 26MG  G    8502.25 9 100     6                                                 
+ 26MG  L 8532.27    9  2+                                                       
+ 26MGX L XREF=EFGN                                                              
+ 26MG  G   4181.83 10 66     11                                                 
+ 26MG  G   5593.28 10 100    13                                                 
+ 26MG  G   6722.61 10 47      9                                                 
+ 26MG  L 8577       3  1+                                                       
+ 26MGX L XREF=GN                                                                
+ 26MG  L 8625       1 5-               29 FS     6                              
+ 26MGX L XREF=FGIKN                                                             
+ 26MG  G    2002.9 14 100     4 E1+M2    +0.03   1                              
+ 26MGB G BE1W=0.0028 6                                                          
+ 26MG  G    4305.7 10 18      4 E1(+M2)  -0.13   14                             
+ 26MGB G BE1W=5.1E-5 16                                                         
+ 26MG  L 8670       1 (3,5)            7 FS      LT                             
+ 26MGX L XREF=FGN                                                               
+ 26MG  G    3193.7 10 54      8 D+Q      +0.5    LT                             
+ 26MG cG MR$also, >-0.5. Measured values: +0.35 {I15} (for J=3);                
+ 26MG2cG -0.13 {I+7-26} (for J=5).                                              
+ 26MG  G    4350.7 10 100     8 D+Q      +0.13   LT                             
+ 26MG cG MR$also, >-0.13. Measured values: +0.03 {I+3-9} (for J=3);             
+ 26MG2cG +0.09 {I+4-9} (for J=5).                                               
+ 26MG  L 8705.73    9  4+                                                       
+ 26MGX L XREF=EFGIN                                                             
+ 26MG  G   3229.41 11 29      7                                                 
+ 26MG  G   4386.45 11 100    11                                                 
+ 26MG  G   4763.71 10 64      9                                                 
+ 26MG  G   5766.70 10 29      7                                                 
+ 26MG  L 8863.8     5 2+                                                        
+ 26MGX L XREF=EFGKN                                                             
+ 26MG  G     5924.7 5 69      8                                                 
+ 26MG  G     7054.0 5 100     8                                                 
+ 26MG  L 8903.50    6  3-                                                       
+ 26MGX L XREF=EFGN                                                              
+ 26MG  G    1554.58 8 7.9    14                                                 
+ 26MG  G    1620.71 8 21      2                                                 
+ 26MG  G    1642.05 7 22      2                                                 
+ 26MG  G    3611.49 8 30      3                                                 
+ 26MG  G   4001.87 11 30      3                                                 
+ 26MG  G    4552.99 8 100     7                                                 
+ 26MG  G    4961.44 7 97      7                                                 
+ 26MG  G    5964.43 7 36      3                                                 
+ 26MG  L 8930       2  4+                                                       
+ 26MGX L XREF=FGN                                                               
+ 26MG  G    2307.9 22 50     11                                                 
+ 26MG  G    3214.2 20 100    14                                                 
+ 26MG  G    3453.6 20 75     14                                                 
+ 26MG  G    4987.9 20 53     11                                                 
+ 26MG  L 8959.4     5  1-                                                       
+ 26MGX L XREF=EGN                                                               
+ 26MG  L 9020       2                                                           
+ 26MGX L XREF=F                                                                 
+ 26MG  L 9044.7     3  2-                                                       
+ 26MGX L XREF=EFGN                                                              
+ 26MG  L 9064       1 5+               7 FS      LT                             
+ 26MGX L XREF=FGIN                                                              
+ 26MG  G    1668.9 14 26      5 D+Q      +0.6    4                              
+ 26MG  G    4162.3 10 26      5                                                 
+ 26MG  G    4744.7 10 100     8 D(+Q)    0.00    11                             
+ 26MG  L 9111       1 6+               10 FS     LT                             
+ 26MGX L XREF=FGIN                                                              
+ 26MG  G    1715.9 14 16      4 [M1]                                            
+ 26MG  G    2488.9 14 16      4 [E2]                                            
+ 26MG  G    3634.6 10 100    12 E2(+M3)  0       AP                             
+ 26MG  G    4209.3 10 32      6 [E2]                                            
+ 26MG  G    4791.6 10 36      6 [E2]                                            
+ 26MG  L 9169       1 6-               26 FS     8                              
+ 26MGX L XREF=FGHMN                                                             
+ 26MG  G    1216.0 14 100     7 M1+E2    -0.14   6                              
+ 26MGB G BM1W=0.25 8                                                            
+ 26MG  G    1773.9 14 39      6 E1+M2    +0.07   5                              
+ 26MGB G BE1W=0.0011 4                                                          
+ 26MG  G    1886.2 10 24      4 E2(+M3)  0       AP                             
+ 26MGB G BE2W=26 10                                                             
+ 26MG  G    2190.9 14 22      4 [E1]                                            
+ 26MGB G BE1W=0.00034 13                                                        
+ 26MG  L 9206       2                                                           
+ 26MGX L XREF=HM                                                                
+ 26MG  L 9238.7     5 1(+)             340 AS    40                             
+ 26MGX L XREF=EGLMN                                                             
+ 26MG  G     9236.9 5 100.0  23 M1                                              
+ 26MGB G BM1W=0.072 9                                                           
+ 26MG cG           Also, additional |g ray (I|g=13.6 {I23}) from                
+ 26MG2cG 9239 level.                                                            
+ 26MG  L 9261       2 4+                                                        
+ 26MGX L XREF=GHK                                                               
+ 26MG  G    5318.9 20 100                                                       
+ 26MG  L 9281       3 (2+,3-)                                                   
+ 26MGX L XREF=G                                                                 
+ 26MG  L 9291       2                                                           
+ 26MGX L XREF=HM                                                                
+ 26MG  L 9304       2                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 9317       2                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 9325.51    6  (2+ TO 4+)                                               
+ 26MGX L XREF=EGH                                                               
+ 26MG  G   4423.81 11  27     4                                                 
+ 26MG  G    4489.96 8  27     4                                                 
+ 26MG  G    4974.92 8  32     5                                                 
+ 26MG  G    4992.42 8  48     5                                                 
+ 26MG  G    5383.36 7  16     3                                                 
+ 26MG  G    6386.33 7  100    8                                                 
+ 26MG  L 9371       2 4+                                                        
+ 26MGX L XREF=G(*)HKM                                                           
+ 26MG  G    5428.8 20 100                                                       
+ 26MG  L 9383       1 6+               7 FS      LT                             
+ 26MGX L XREF=G(*)HN                                                            
+ 26MG  G    1182.0 14 15      3 [M1]                                            
+ 26MG  G    2404.9 14 74     10                                                 
+ 26MG  G    2760.8 14 38      5 E2(+M3)  0       AP                             
+ 26MG  G    3667.1 10 100    13 E2(+M3)  0       AP                             
+ 26MG  G    5063.6 10 28      5 [E2]                                            
+ 26MG  L 9427.74    7  3+                                                       
+ 26MGX L XREF=EGHMN                                                             
+ 26MG  G   4526.02 11  23     6                                                 
+ 26MG  G    6488.53 8  100    8                                                 
+ 26MG  G    7617.81 8  33     5                                                 
+ 26MG  L 9471       2  (0 TO 5)+                                                
+ 26MGX L XREF=GHMN                                                              
+ 26MG  L 9541       1 5+               14 FS     LT                             
+ 26MGX L XREF=GHMN                                                              
+ 26MG  G    2441.2 10 5.3    16 D(+Q)    +0.3    5                              
+ 26MG  G    3825.1 10 23      3                                                 
+ 26MG  G    4639.3 10 34      7                                                 
+ 26MG  G    5221.6 10 100    10 D+Q      +0.06   5                              
+ 26MG  L 9560       3 1+               630 AS    110                            
+ 26MGX L XREF=GLM                                                               
+ 26MG  G       9558 3 100     7 M1                                              
+ 26MGB G BM1W=0.028 6                                                           
+ 26MG cG           Also, additional |g ray (I|g=41 {I7}) from 9560 level.       
+ 26MG  L 9574.02    6 (2- TO 4)                                                 
+ 26MGX L XREF=EGHN                                                              
+ 26MG  G    2291.17 84.0     24                                                 
+ 26MG  G    2697.45 74.1     24                                                 
+ 26MG  G    3448.29 70.5     24                                                 
+ 26MG  G    4281.91 8100      5                                                 
+ 26MG  G    5631.81 74.5     17                                                 
+ 26MG  L 9579       3 4+                                                        
+ 26MGX L XREF=GK                                                                
+ 26MG  L 9590       2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 9617.0     9 (1 TO 3)-                                                 
+ 26MGX L XREF=EGMN                                                              
+ 26MG  L 9681       2 (0 TO 5)+                                                 
+ 26MGX L XREF=GHMN                                                              
+ 26MG  L 9714       3  4+                                                       
+ 26MGX L XREF=GM                                                                
+ 26MG  L 9771       2                                                           
+ 26MGX L XREF=GHM                                                               
+ 26MG  L 9779       3 1+                                                        
+ 26MGX L XREF=G                                                                 
+ 26MG  L 9814       2                                                           
+ 26MGX L XREF=G(*)HM                                                            
+ 26MG  L 9829       1 (5,7)+           37 FS     10                             
+ 26MGX L XREF=G(*)HM                                                            
+ 26MG  G    1357.0 14 6.7    11                                                 
+ 26MG  G    1627.9 14 100.0  22 M1(+E2)  +0.24   LT                             
+ 26MGB G BM1W=0.12 3                                                            
+ 26MG cG MR$also, >-0.24. Measured values: +0.19 {I+5-11}                       
+ 26MG2cG (for J|p=5+); -0.03 {I+1-4} (for J|p=7+).                              
+ 26MG  G    2433.9 14 5.6    11                                                 
+ 26MG  L 9856.52    6 2+                                                        
+ 26MGX L XREF=GK                                                                
+ 26MG  G    5020.87 8 62     10                                                 
+ 26MG  G    5523.32 8 100    12                                                 
+ 26MG  G    5914.25 7 31     10                                                 
+ 26MG  G    9854.51 6 43     10                                                 
+ 26MG  L 9883       3 (2+,3-)                                                   
+ 26MGX L XREF=GM                                                                
+ 26MG  L 9902       2  3+                                                       
+ 26MGX L XREF=GH                                                                
+ 26MG  L 9927       2                                                           
+ 26MGX L XREF=HM                                                                
+ 26MG  L 9939       2                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 9967       2 2+                                                        
+ 26MGX L XREF=GHKM                                                              
+ 26MG  G    5065.2 20 100     9                                                 
+ 26MG  G    7027.6 20 67      9                                                 
+ 26MG  L 9982       2                                                           
+ 26MGX L XREF=G(*)H                                                             
+ 26MG  L 9989       1 6+               7 FS      LT                             
+ 26MGX L XREF=G(*)H                                                             
+ 26MG  G    1517.0 14 25      4 M1+E2    -0.17   10                             
+ 26MG  G    3010.8 14 100     7 M1+E2    -0.09   5                              
+ 26MG  G    5669.5 10 20      4 [E2]                                            
+ 26MG  L 10040      2 5-                                                        
+ 26MGX L XREF=GHKM                                                              
+ 26MG  G    4324.0 20 100    13                                                 
+ 26MG  G    5138.2 20 51      9                                                 
+ 26MG  G    5720.4 20 71      9                                                 
+ 26MG  L 10069      2                                                           
+ 26MGX L XREF=HKM                                                               
+ 26MG  L 10102.41  15  (1,2+)                                                   
+ 26MGX L XREF=G                                                                 
+ 26MG  G   7163.01 16 35      8                                                 
+ 26MG  G  10100.30 15 100     8                                                 
+ 26MG  L 10126.70  10 (0+ TO 4+)                                                
+ 26MGX L XREF=GHM                                                               
+ 26MG  G   7187.29 11  52     9                                                 
+ 26MG  G  10124.58 10 100     9                                                 
+ 26MG  L 10136      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10148      2 1+               110 AS    15                             
+ 26MGX L XREF=GL                                                                
+ 26MG  G   10145.9 20 100     3 M1                                              
+ 26MGB G BM1W=0.134 20                                                          
+ 26MG cG           Also, additional |g ray (I|g=43 {I3}) from 10148 level.      
+ 26MG  L 10159      3 0+                                                        
+ 26MGX L XREF=GK                                                                
+ 26MG  L 10184      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 10220.1    3  3+                                                       
+ 26MGX L XREF=GM                                                                
+ 26MG  G     8409.9 3  100                                                      
+ 26MG  L 10234      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 10271      3 2+                                                        
+ 26MGX L XREF=GKM                                                               
+ 26MG  L 10319      2 1+               580 AS    140                            
+ 26MGX L XREF=GLM                                                               
+ 26MG  G   10316.8 20 100       M1                                              
+ 26MGB G BM1W=0.035 9                                                           
+ 26MG  L 10328      3  5-                                                       
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10341      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10350.37  12 (0+ TO 4+)                                                
+ 26MGX L XREF=GH                                                                
+ 26MG  G   8540.13 12  100                                                      
+ 26MG  L 10362.42   7 (2+ TO 4+)                                                
+ 26MGX L XREF=GHM                                                               
+ 26MG  G   3262.54 12  62     5                                                 
+ 26MG  G   4885.82 10  46     8                                                 
+ 26MG  G    6011.59 9  49     8                                                 
+ 26MG  G    8552.18 8  100   10                                                 
+ 26MG  L 10377      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 10400     15                                                           
+ 26MGX L XREF=M                                                                 
+ 26MG  L 10414      3 4+                                                        
+ 26MGX L XREF=GKM                                                               
+ 26MG  L 10487      3                                                           
+ 26MGX L XREF=GM                                                                
+ 26MG  L 10493      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10516      3                                                           
+ 26MGX L XREF=GKM                                                               
+ 26MG  L 10529      2                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 10567      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10576      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 10599.96   7 (1+ TO 4+)                                                
+ 26MGX L XREF=GH                                                                
+ 26MG  G    6249.07 9 31      8                                                 
+ 26MG  G    6266.58 9 100    17                                                 
+ 26MG  G    6657.49 8 86     17                                                 
+ 26MG  G    7660.41 8 39      6                                                 
+ 26MG  L 10646      2 1+               75 AS     20                             
+ 26MGX L XREF=GL                                                                
+ 26MG  G   10643.7 20 100       M1                                              
+ 26MGB G BM1W=0.24 7                                                            
+ 26MG  L 10650      2 (4- TO 7-)       21 FS     6                              
+ 26MGX L XREF=H                                                                 
+ 26MG  G    1481.0 22 56      8                                                 
+ 26MG  G    3254.8 22 100     8                                                 
+ 26MG  L 10681.9    3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10693      3                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 10707      3                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 10718.75   9                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10726      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10745.98  12                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10767      2                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 10805.9    4  (0+ TO 4+)                                               
+ 26MGX L XREF=G                                                                 
+ 26MG  G     8995.5 4  100                                                      
+ 26MG  L 10824      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10881      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10893      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10915      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10927      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10945      3                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 10978      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 10998      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 11012      3                                                           
+ 26MGX L XREF=GH                                                                
+ 26MG  L 11048      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 11084      3                                                           
+ 26MGX L XREF=G                                                                 
+ 26MG  L 11112.0    2 2+               1.80 KEV  18                             
+ 26MGX L XREF=EG                                                                
+ 26MG  L 11142      6                                                           
+ 26MGX L XREF=I                                                                 
+ 26MG  L 11153.2    2                  25 EV     2                              
+ 26MGX L XREF=EG                                                                
+ 26MG  L 11163.3    5 2+,(3+)          7.6 KEV   11                             
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11169.4    2                  1.91 KEV  14                             
+ 26MGX L XREF=EG(*)                                                             
+ 26MG  L 11171.1    7                  20 EV      3                             
+ 26MGX L XREF=EG(*)                                                             
+ 26MG  L 11183.0    2                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11188.8    2                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG cL           Probable multiplet.                                          
+ 26MG  L 11191      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 11194.5    2 2+               10 KEV    2                              
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11243.3    2                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG cL           Probable multiplet.                                          
+ 26MG  L 11274.4    2                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11279.5    2                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11286.6    3                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11289.2    3                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11294.7    5                  2.6 KEV   2                              
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11311.0    5                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11328.3    5                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG cL           Probable multiplet.                                          
+ 26MG  L 11329      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 11343.7    5                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG cL           Probable multiplet.                                          
+ 26MG  L 11362.0    6                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11364.9    6                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11372.5    6                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11392.7    6                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11425.4    7                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11439.8    7                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11457      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 11463.9    8                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11499.4    8                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11508.1    9                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11540.8    9                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11570      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 11586      1                                                           
+ 26MGX L XREF=E                                                                 
+ 26MG  L 11612      5                                                           
+ 26MGX L XREF=I                                                                 
+ 26MG  L 11647      5                  3 KEV     LT                             
+ 26MGX L XREF=I                                                                 
+ 26MG  L 11795     10                  3 KEV     LT                             
+ 26MGX L XREF=I                                                                 
+ 26MG  L 11828      3  2+              3 KEV     LT                             
+ 26MGX L XREF=I                                                                 
+ 26MG  L 11890      2  1-              3 KEV     LT                             
+ 26MGX L XREF=I                                                                 
+ 26MG  L 11910      2  1-              6 KEV     1                              
+ 26MGX L XREF=I                                                                 
+ 26MG  L 11945     10 6-                                                        
+ 26MGX L XREF=FGJ                                                               
+ 26MG  L 11950      2  3-              3 KEV     1                              
+ 26MGX L XREF=F                                                                 
+ 26MG  L 12049      2  3-              6 KEV     2                              
+ 26MGX L XREF=I                                                                 
+ 26MG  L 12088      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 12110      2  0+              25 KEV     2                             
+ 26MGX L XREF=I                                                                 
+ 26MG  L 12142      2  1-              15 KEV     2                             
+ 26MGX L XREF=I                                                                 
+ 26MG  L 12196      2                                                           
+ 26MGX L XREF=H                                                                 
+ 26MG  L 12345      2  0+              40 KEV     5                             
+ 26MGX L XREF=I                                                                 
+ 26MG  L 12479      2 6-                                                        
+ 26MGX L XREF=FGHJ                                                              
+ 26MG  G    2649.9 22 100    10                                                 
+ 26MG  G    4277.6 22 64     10                                                 
+ 26MG  L 12865     10 6-                                                        
+ 26MGX L XREF=FGJ                                                               
+ 26MG  L 12958     10 (0 TO 6)-                                                 
+ 26MGX L XREF=FJ                                                                
+ 26MG  L 13958     10 (0 TO 6)-                                                 
+ 26MGX L XREF=FJ                                                                
+ 26MG  L 14542     10 6-                                                        
+ 26MGX L XREF=FGJ                                                               
+ 26MG  L 16580     10 6-                                                        
+ 26MGX L XREF=FGJ                                                               
+ 26MG  L 18050     50 6-                                                        
+ 26MG2 L ISPIN=2                                                                
+ 26MGX L XREF=G                                                                 
+

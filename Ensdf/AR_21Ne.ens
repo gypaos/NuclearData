@@ -1,0 +1,483 @@
+ 21NE    ADOPTED LEVELS, GAMMAS                                  04NDS    200412
+ 21NE  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 103, 269 (2004)$CUT=30-Sep-2003$    
+ 21NE  Q -3547.6   7 6761.16 4 13003.34 8-7347.8812    2003AU03                 
+ 21NE cG RI(A)$From {+21}F |b- decay.                                           
+ 21NE cL E$From least squares fit of gamma-ray energies to the level scheme.    
+ 21NE CL BAND(A)$ KPI=3/2+ BAND                                                 
+ 21NE CL BAND(B)$ KPI=3/2- BAND                                                 
+ 21NE  XA18O(A,NG)                                                              
+ 21NE  XC4HE(18O,NG)                                                            
+ 21NE  XD12C(13C,AG)                                                            
+ 21NE  XE19F(3HE,P),(3HE,PG)                                                    
+ 21NE  XG13C(12C,A)                                                             
+ 21NE  XH21NE(N,N')                                                             
+ 21NE  XK2H(20NE,PG)                                                            
+ 21NE  XL20NE(D,P)                                                              
+ 21NE  XO22NE(P,D)                                                              
+ 21NE  XP22NE(D,T)                                                              
+ 21NE  XQ22NE(3HE,A)                                                            
+ 21NE  XS21F B- DECAY                                                           
+ 21NE  XT21NA B+ DECAY                                                          
+ 21NE  XW16O(7LI,NPG)                                                           
+ 21NE  XV20NE(N,G) E=THERMAL                                                    
+ 21NE PN                                                                     6  
+ 21NE  L 0.0         3/2+              STABLE                               A   
+ 21NEX L XREF=ACDEGHKLOPQSTVW                                                   
+ 21NE2 L MOMM1=-0.661797 5$MOME2=+0.103 8                                       
+ 21NE cL J$From atomic beam measurement (1956Hu70), L(d,p)=2.                   
+ 21NE  L 350.727   8 5/2+              7.13 PS   14                         A   
+ 21NEX L XREF=ACDEGKLOPQSTVW                                                    
+ 21NE2 L MOMM1=0.49 4                                                           
+ 21NE cL J$L=2 (d,p), M1+E2 to 3/2+                                             
+ 21NE  G 350.725   8 100        M1+E2    -0.074  4                              
+ 21NEB G BM1W=0.0716 15$BE2W=24 3                                               
+ 21NE  L 1745.911  187/2+              52 FS     3                          A   
+ 21NEX L XREF=ACDEGKOQSW                                                        
+ 21NE cL J$M1+E2 to 5/2+, (|a,n|g) n|g(|q) and |g|g(|q)                         
+ 21NE  G 1395.131  17   100.018 M1+E2    -0.14   2                          A   
+ 21NEB G BM1W=0.145 9$BE2W=11 4                                                 
+ 21NE  G 1745.8    1     5.04 9E2(+M3)   -0.03   4                          A   
+ 21NEB G BE2W=9.8 22$BM3W=2.E+4 +6-2                                            
+ 21NE  L 2788.23   9 1/2-              81 PS     5                              
+ 21NEX L XREF=ACDGKOPQVW                                                        
+ 21NE cL J$L=1 in (d,t) and ({+3}He,|a).  E1 to 3/2+                            
+ 21NE  G    2437.8425   100.0 8M2(+E3)   +0.12   3                              
+ 21NEB G BM2W=0.48 3$BE3W=13 7                                                  
+ 21NE  G 2787.87   10    20.1 8E1(+M2)    0.6    LT                             
+ 21NE  L 2794.16   4 1/2+              5.5 FS    7                              
+ 21NEX L XREF=ACEGKLOQSTVW                                                      
+ 21NE cL J$L=0 in ({+3}He,|a)                                                   
+ 21NE  G    2793.94 5    100  3 M1                                              
+ 21NE  L 2866.60   159/2+              40 FS     3                          A   
+ 21NEX L XREF=ACDEGKOQW                                                         
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q), M1+E2 to 7/2+                    
+ 21NE  G 1120.0    3      100 3 M1+E2    -0.08   2                              
+ 21NEB G BM1W=0.247 24$BE2W=9 5                                                 
+ 21NE  G 2516.0    2       61 3E2+(M3)   -0.03   4                              
+ 21NEB G BE2W=15.8 17$BM3W=2.E+4 +5-2                                           
+ 21NE  L 3662.64   203/2-              65 FS     6                          B   
+ 21NEX L XREF=ADEGKLOPQVW                                                       
+ 21NE cL J$L=1 in (d,p), E1 to 3/2+                                             
+ 21NE  G 870        1     10  4                                                 
+ 21NE  G 873.3      4      65 4 M1+E2    -0.09   4                              
+ 21NEB G BM1W=0.180 22$BE2W=14 13                                               
+ 21NE  G    3311.9225   100   4E1(+M2)   +0.05   7                              
+ 21NEB G BE1W=0.000207 23$BM2W=0.2 +6-2                                         
+ 21NE  L 3735.59   145/2+              10 FS     LT                             
+ 21NEX L XREF=ADEGLOQS                                                          
+ 21NE cL J$L=2 (d,p),(p,d),({+3}He,|a), (|a,n|g) |g|g(|q)                       
+ 21NE  G 1989       1     9   1                                                 
+ 21NE  G 3384.6     2    15   2 M1+E2    -0.55   10                             
+ 21NEB G BM1W>0.0046$BE2W>0.72                                                  
+ 21NE  G 3735.2     2   100   2 M1+E2    -0.15   2                              
+ 21NEB G BM1W>0.032$BE2W>0.29                                                   
+ 21NE  L 3883.96   215/2-              27 FS     3                          B   
+ 21NEX L XREF=ADEGKOQSW                                                         
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G  221       1     6.015                                                 
+ 21NE  G 1095       1     0.6 3                                                 
+ 21NE  G 3533.2     4     100 4 E1(+M2)  +0.07   4                              
+ 21NEB G BE1W=0.00048 7$BM2W=0.9 +10-9                                          
+ 21NE  G 3883.5     3      42 4 E1(+M2)  +0.03   3                              
+ 21NEB G BE1W=0.00015 3$BM2W=0.04 +9-4                                          
+ 21NE  L 4431.8    5 11/2+             22 FS     3                          A   
+ 21NEX L XREF=ADGOQW                                                            
+ 21NE cL J$From (|a,n|g) n|g(|q)                                                
+ 21NE  G 1567.2    10     100 5 M1+E2    -0.10   3                              
+ 21NEB G BM1W=0.19 3$BE2W=6 4                                                   
+ 21NE  G 2687              30 5                                                 
+ 21NE  L 4525.86   16 5/2+             7 FS      LT                             
+ 21NEX L XREF=ADEGLOPQSW                                                        
+ 21NE cL J$From (pol d,p), (|a,n|g) |g|g(|q)                                    
+ 21NE  G 2779.4    3      5.0 5                                             A   
+ 21NE  G 4174.3    3      100 2                                             A   
+ 21NE  G 4525.84   24    29.7 8                                             A   
+ 21NE  L 4684.56   153/2+              11 FS     3                              
+ 21NEX L XREF=ADEKOPQSV                                                         
+ 21NE cL J$L=2 in ({+3}He,p|g), |g's to 1/2+ and 5/2+                           
+ 21NE  G 1890.4    3      3.8 6 (M1)                                        A   
+ 21NE  G    4333.3525   100   3 M1                                          A   
+ 21NE  G    4683.9425    59.021 M1                                          A   
+ 21NE  L 4725.34   5 3/2-              7 FS      3                              
+ 21NEX L XREF=ADEGKLOQV                                                         
+ 21NE cL J$L=1 in (d,p)                                                         
+ 21NE  G    1931.08 6    20  2                                                  
+ 21NE  G    4374.13 6   100  2                                                  
+ 21NE  L 5335.2    4  7/2-             7 FS      LT                         B   
+ 21NEX L XREF=ADEGLQW                                                           
+ 21NE cL J$L=2 in (d,p), (|a,n|g) |g|g(|q)                                      
+ 21NE  G 1451.2    10      5  1                                                 
+ 21NE  G 2467.6    10      12 3                                                 
+ 21NE  G 4984.1    10     100 3                                                 
+ 21NE  L 5431.8    5 (5/2+,7/2)         8 FS     LT                             
+ 21NEX L XREF=ADEGQ                                                             
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 2564.7    10      13 3                                                 
+ 21NE  G 3685.2    10      26 4                                                 
+ 21NE  G 5080.7    10     100 4  M1+E2     +0.84 +40-24                         
+ 21NE  L 5549.8     83/2+              28 FS     9                              
+ 21NEX L XREF=AEGLQ                                                             
+ 21NE cL J$L=2 in (d,p), (|a,n|g) |g|g(|q)                                      
+ 21NE  G 1024       2      56 8                                                 
+ 21NE  G 1815       2     10012                                                 
+ 21NE  G 2754       2      6420                                                 
+ 21NE  G 2760       2      7220                                                 
+ 21NE  G 5199       2      2412                                                 
+ 21NE  G 5550       2      8412 M1+E2    -0.27   3                              
+ 21NEB G BM1W=0.0013 5$BE2W=0.022 10                                            
+ 21NE  L 5630.8    5  7/2+             7 FS      LT                             
+ 21NEX L XREF=AG                                                                
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 1895.0    10      9  6                                                 
+ 21NE  G 3884.1    10      20 7                                                 
+ 21NE  G 5279.6    10     100 7                                                 
+ 21NE  G 5630.2    10      14 6                                                 
+ 21NE  L 5689.77   5  1/2-             6 FS      2                              
+ 21NEX L XREF=ADGLQV                                                            
+ 21NE cL J$L=1 in (d,p), (|a,n|g) |g|g(|q)                                      
+ 21NE  G 964               11 4                                                 
+ 21NE  G    2895.3210     100 6                                                 
+ 21NE  G    5688.97 6    77   6                                                 
+ 21NE  L 5773.7    14(3/2,5/2)         12 FS     LT                             
+ 21NEX L XREF=AD                                                                
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 5422      2       1812                                                 
+ 21NE  G 5773      2      10012                                                 
+ 21NE  L 5818.7    8 7/2-              24 FS     LT                             
+ 21NEX L XREF=ADGQW                                                             
+ 21NE cL J$L=2 in (d,p)                                                         
+ 21NE  G 1294      2       16 7                                                 
+ 21NE  G 1934      2     100 13  M1+E2   +0.09   4                              
+ 21NEB G BM1W>0.023$BE2W>0.044                                                  
+ 21NE  G 2082      2      38 10  E1+M2   -0.04   4                              
+ 21NEB G BE1W>0.00028                                                           
+ 21NE  G 2154      2       12 7                                                 
+ 21NE  G 2953      2       75 7  E1(+M2) +0.02   3                              
+ 21NEB G BE1W>0.00020                                                           
+ 21NE  G 4073      2       16 7                                                 
+ 21NE  G 5468      2       53 7                                                 
+ 21NE  L 5820.9    14 3/2+             55 FS     12                             
+ 21NEX L XREF=AEL                                                               
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q), L=2 in (d,p)                     
+ 21NE  G 3025      2       9210                                                 
+ 21NE  G 5471      2      10010                                                 
+ 21NE  L 5992.61   12 3/2-             13 FS     LT                             
+ 21NEX L XREF=ADLPQV                                                            
+ 21NE cL J$L=1 in (d,t), (|a,n|g) |g|g(|q)                                      
+ 21NE  G    5641.0025     54  5                                                 
+ 21NE  G    5991.7113   100   5                                                 
+ 21NE  L 6033.3    3 9/2-              19 FS     2                              
+ 21NEX L XREF=ADGLQW                                                            
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 698.1     6       39 9                                                 
+ 21NE  G 2149.3    6       3011                                                 
+ 21NE  G 3166.2    6       83 5 E1(+M2)  -0.08   13                             
+ 21NEB G BE1W=0.00053 8$BM2W=2 +5-2                                             
+ 21NE  G 4286.7    6      100 5 E1+M2    -0.08   +5-4                           
+ 21NEB G BE1W=0.00026 4$BM2W=0.4 +6-4                                           
+ 21NE  L 6175.2    10(5/2,7/2)+         9 FS     4                              
+ 21NEX L XREF=ADEGLQ                                                            
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 2438      2       3612  M1+E2   -1.6    +15-6                          
+ 21NE  G 4429      2      10012  M1+E2   -0.09   +5-4                           
+ 21NE  G 5824      2       8012                                                 
+ 21NE  G 6175      2       11 7                                                 
+ 21NE  L 6260.3    7   (7/2+)          14 FS     LT                             
+ 21NEX L XREF=GW                                                                
+ 21NE cL J$From {+16}O({+3}He,np|g)                                             
+ 21NE  G 3393      1       7716                                                 
+ 21NE  G 5909      1      100 8                                                 
+ 21NE  L 6266.7    8 9/2+              24 FS     12                             
+ 21NEX L XREF=ADELQ                                                             
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 1833.2    16       5 3                                                 
+ 21NE  G 3400.1    16     100 8  M1+E2   +0.02   +5-8                           
+ 21NEB G BM1W>0.028                                                             
+ 21NE  G 4520.6    16       7 4                                                 
+ 21NE  G 5916.1    16      20 7                                                 
+ 21NE  L 6411.9    10                                                           
+ 21NEX L XREF=W                                                                 
+ 21NE  G 3545      1                                                            
+ 21NE  L 6448.3    9 (9/2,13/2+)       14 FS     LT                         A   
+ 21NEX L XREF=ADEGLQ                                                            
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 2015      3      100 7  M1+E2   -0.3    LT                             
+ 21NE cG MR$+0.21 {I5} (for J|p=9/2+)                                           
+ 21NEB G BM1W>0.14                                                              
+ 21NE  G 3581.9    15      25 7                                                 
+ 21NE  L 6543.5    10 (9/2)                                                     
+ 21NEX L XREF=W                                                                 
+ 21NE cL J$(|a,n|g) |g|g(|q)                                                    
+ 21NE  G 4797       1 100                                                       
+ 21NE  L 6554.2    7  9/2              15 FS     LT                             
+ 21NEX L XREF=ADEGLQ                                                            
+ 21NE  G 2122.5    12      17 5                                                 
+ 21NE cG E$Energy adjusted by evaluator to fit level scheme                     
+ 21NE  G 3687.6    12      37 6                                                 
+ 21NE  G 4808.2    12     100 9 D+Q      +0.0    2                              
+ 21NE  L 6607.7    13(3/2,5/2)+         7 FS     LT                             
+ 21NEX L XREF=ADGLQ                                                             
+ 21NE cL J$L=2 in (d,p)                                                         
+ 21NE  G 6256.0    18     100 5 M1+E2    +0.8    +6-4                           
+ 21NE  G 6606.6    18       5 5                                                 
+ 21NE  L 6639.8    10 9/2(-)           15 FS     3                          B   
+ 21NEX L XREF=ADGLW                                                             
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q), parity from band structure.      
+ 21NE  G 1090      2     24.422                                                 
+ 21NE  G 2208      2     33.322                                                 
+ 21NE  G 3773      2      100 4 D+Q      +0.09   15                             
+ 21NE  G 4893      2       64 4 Q+O      +0.03   6                              
+ 21NE  L 6749.3    17                   10 FS     3                             
+ 21NEX L XREF=ADGL                                                              
+ 21NE  G 3013      3       32 5                                                 
+ 21NE  G 6398      3      100 7                                                 
+ 21NE  G 6748      3       37 7                                                 
+ 21NE  L 6857      20                                                          ?
+ 21NEX L XREF=EL                                                                
+ 21NE  L 6900.5    14(1/2,3/2)-                                                 
+ 21NEX L XREF=EGHLPQ                                                            
+ 21NE cL J$L=1 in (d,t)                                                         
+ 21NE  L 7006.7    5 7/2+              12 FS     LT                             
+ 21NEX L XREF=ADE                                                               
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 3271      1      5.719                                                 
+ 21NE  G 4139      1       11 6                                                 
+ 21NE  G 5260      1      100 8 (M1+E2)  -0.35   6                              
+ 21NEB G BM1W>0.0058$BE2W>0.14                                                  
+ 21NE  G 6655      1       58 8 (E2+M3)  -0.21   4                              
+ 21NEB G BE2W>0.31$BM3W>1.4E+3                                                  
+ 21NE  G 7006      1       13 4                                                 
+ 21NE  L 7022.6    10 (7/2+)           13 FS     3                              
+ 21NEX L XREF=GW                                                                
+ 21NE  G 5276      1 100                                                        
+ 21NE  L 7042.1    5 (9/2)+                                                     
+ 21NEX L XREF=ADEW                                                              
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 1610      1     10.916                                                 
+ 21NE  G 4176      1     38   3                                                 
+ 21NE  G 5295      1    100   5 M1+E2    -0.27   6                              
+ 21NE cG MR$+0.27 {I6} (for J|p=5/2+)                                           
+ 21NEB G BM1W>0.0051$BE2W<0.20                                                  
+ 21NE  G 6690      1        8 5                                                 
+ 21NE  L 7109      4                                                            
+ 21NEX L XREF=AE                                                                
+ 21NE  L 7154      5                                                            
+ 21NEX L XREF=AEG                                                               
+ 21NE cL E$Possible doublet                                                     
+ 21NE  L 7211      3 1/2+               107 KEV  6                              
+ 21NEX L XREF=HP                                                                
+ 21NE  L 7226      5                                                            
+ 21NEX L XREF=AE                                                                
+ 21NE  L 7294      20                                                           
+ 21NEX L XREF=E                                                                 
+ 21NE  L 7320      5                                                            
+ 21NEX L XREF=AE                                                                
+ 21NE  L 7356.9    14(7/2,9/2+)          8 FS    LT                             
+ 21NEX L XREF=ADEG                                                              
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 4490      2       33 8                                                 
+ 21NE  G 5610      2      100 8                                                 
+ 21NE  L 7422.8    7  (9/2,11/2-)                                               
+ 21NEX L XREF=ADEGW                                                             
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 2087      1        4 4                                                 
+ 21NE  G 4556      1      100 4 (D+Q)    +0.12   +3-2                           
+ 21NE cG MR$-0.12 {I+2-3} (for J|p=7/2+)                                        
+ 21NE  L 7465      10 (1/2,3/2)-                                                
+ 21NEX L XREF=EGP                                                               
+ 21NE cL J$L=1 in (d,t)                                                         
+ 21NE  L 7547      10                                                           
+ 21NEX L XREF=E                                                                 
+ 21NE  L 7600      5                                                            
+ 21NEX L XREF=AE                                                                
+ 21NE  L 7627      10 3/2-             14 KEV    4                              
+ 21NEX L XREF=HP                                                                
+ 21NE  L 7649.1    10(7/2+,5/2+)       10 FS     LT                             
+ 21NEX L XREF=ADEG                                                              
+ 21NE  G 4782       2      2012                                                 
+ 21NE  G 5902       2     10014                                                 
+ 21NE  G 7297       2      5916                                                 
+ 21NE  G 7648       2      4814                                                 
+ 21NE  L 7740      10                                                           
+ 21NEX L XREF=E                                                                 
+ 21NE  L 7810      10                                                           
+ 21NEX L XREF=EG                                                                
+ 21NE  L 7960.3    10 (11/2-)                                               B   
+ 21NEX L XREF=W                                                                 
+ 21NE  G 5093      1 100                                                        
+ 21NE  L 7979      103/2-              6 KEV     2                              
+ 21NEX L XREF=EH                                                                
+ 21NE  L 7982.1    6 (7/2,11/2)+                                                
+ 21NEX L XREF=ADG                                                               
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 3550       1      38 5                                                 
+ 21NE  G 5115       1     100 3  M1+E2   +0.19   4                              
+ 21NE cG MR$+0.19 {I4} (for J|p=7/2+)                                           
+ 21NE  G 6235       1      14 3                                                 
+ 21NE  L 8008      101/2-              32 KEV    6                              
+ 21NEX L XREF=H                                                                 
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  L 8062      103/2+              8 KEV     3                              
+ 21NEX L XREF=EH                                                                
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  L 8154.9    6 (9/2)+            21 FS     LT                             
+ 21NEX L XREF=ADEGW                                                             
+ 21NE  G 2121      1       12 6                                                 
+ 21NE  G 5288      1       39 9                                                 
+ 21NE  G 6408      1      100 9 (D+Q)    -0.05   4                              
+ 21NE  L 8222.2    11                                                           
+ 21NEX L XREF=GW                                                                
+ 21NE  G 3790      1                                                            
+ 21NE  L 8241.2    8 (11/2)+           10 FS     LT                             
+ 21NEX L XREF=ADEG                                                              
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 3809      1       92 8  D+Q        -1.2 2                              
+ 21NE  G 5374      1      100 8                                                 
+ 21NE  L 8287      10                                                           
+ 21NEX L XREF=EG                                                                
+ 21NE  L 8303      10 3/2-             27 KEV    5                              
+ 21NEX L XREF=HP                                                                
+ 21NE cL J$L=1 in (d,t), (|a,n|g) |g|g(|q)                                      
+ 21NE  L 8360      103/2+              10 KEV    3                              
+ 21NEX L XREF=EH                                                                
+ 21NE cL J$From {+20}Ne(n,n)                                                    
+ 21NE cL E$Possible doublet                                                     
+ 21NE  L 8402      20                                                           
+ 21NEX L XREF=E                                                                 
+ 21NE  L 8430      10                                                           
+ 21NEX L XREF=E                                                                 
+ 21NE  L 8465      10                                                           
+ 21NEX L XREF=EG                                                                
+ 21NE  L 8522      3                   6 KEV                                    
+ 21NEX L XREF=AEH                                                               
+ 21NE  L 8591      7 3/2+              38 KEV    7                              
+ 21NEX L XREF=AEH                                                               
+ 21NE cL J$From {+20}Ne(n,n)                                                    
+ 21NE  L 8664.5    10                                                           
+ 21NEX L XREF=AEGH                                                              
+ 21NE cL J$From {+20}Ne(n,n)                                                    
+ 21NE  G 2631      1   100                                                      
+ 21NE  L 8680      7 3/2-              54 KEV    6                              
+ 21NEX L XREF=H                                                                 
+ 21NE  L 8782      4 3/2-              50 KEV    6                              
+ 21NEX L XREF=AEGH                                                              
+ 21NE  L 8801      3                   5 KEV     LT                             
+ 21NEX L XREF=A                                                                 
+ 21NE  L 8849      5                   10 KEV                                   
+ 21NEX L XREF=AE                                                                
+ 21NE  L 8859.2    14(3/2,5/2)+        2.5 KEV   4                              
+ 21NEX L XREF=AEHPQ                                                             
+ 21NE cL J$L=1 in (d,t)                                                         
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 8930      3                    5 KEV                                   
+ 21NEX L XREF=AEG                                                               
+ 21NE  L 8991      53                   2.5 KEV                                 
+ 21NEX L XREF=A                                                                 
+ 21NE  L 9077      10                                                           
+ 21NEX L XREF=E                                                                 
+ 21NE  L 9148.9    161/2+               7.6 KEV  11                             
+ 21NEX L XREF=G                                                                 
+ 21NE cL J$L=0 in (d,t)                                                         
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 9188      15                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 9251      15                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 9282      15                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 9367      15                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 9402.0    7 (13/2-)                                                    
+ 21NEX L XREF=AG                                                                
+ 21NE cL J$From (|a,n|g) n|g(|q) and |g|g(|q)                                   
+ 21NE  G 1979      1       37 5                                                 
+ 21NE  G 3368      1      100 7                                                 
+ 21NE  G 4970      1       17 5                                                 
+ 21NE  L 9475      15                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 9637      15                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 9700      15                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 9859.1    9                                                            
+ 21NEX L XREF=AG                                                                
+ 21NE  G 3411      1       79 8                                                 
+ 21NE  G 3825      1      100 7                                                 
+ 21NE  L 9943.6    14                                                           
+ 21NEX L XREF=AGPQ                                                              
+ 21NE  G 3495      1 100                                                        
+ 21NE  L 9963      6  (1/2,3/2)-                                                
+ 21NEX L XREF=PQ                                                                
+ 21NE cL J$L=1 in (d,t)                                                         
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 10043     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 10180     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 10353     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 10447     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 10542     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 10631.1   15(3/2+,5/2+)        1.0 KEV   6                             
+ 21NEX L XREF=HP                                                                
+ 21NE cL J$L=2 in (d,t)                                                         
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 10655.9   15                  0.6 KEV   6                              
+ 21NEX L XREF=H                                                                 
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 10734     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 10826     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 10912.9   14(1/2,3/2)-        9.8 KEV   5                              
+ 21NEX L XREF=GHP                                                               
+ 21NE cL J$L=1 in (d,t)                                                         
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 11095     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 11280.2   15                  18.7 KEV  11                             
+ 21NEX L XREF=H                                                                 
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 11380     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 11453     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 11591     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 11642     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 11704     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 11874     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L    11989.014 (15/2-)                                               B   
+ 21NEX L XREF=GW                                                                
+ 21NE cL J$From {+16}O({+7}Li,np|g) |g,|g(|q)                                   
+ 21NE  G 5540      1 100                                                        
+ 21NE  L 12204     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 12315     2                    7 KEV    4                              
+ 21NE2 L ISPIN=3/2                                                              
+ 21NEX L XREF=GH                                                                
+ 21NE  L 12451     2                    8 KEV    3                              
+ 21NEX L XREF=GH                                                                
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 12563     20                                                           
+ 21NEX L XREF=G                                                                 
+ 21NE  L 12946     5                    33 KEV   10                             
+ 21NEX L XREF=H                                                                 
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE  L 13801     3 (1/2-,3/2-)        24 KEV   5                              
+ 21NEX L XREF=HP                                                                
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE cL J$L=1 in (d,t)                                                         
+ 21NE  L 16058     8 (1/2-,3/2-)        55 KEV   16                             
+ 21NEX L XREF=HP                                                                
+ 21NE2 L ISPIN=3/2                                                              
+ 21NE cL J$L=1 in (d,t)                                                         
+ 21NE  L 16356     5                    44 KEV   10                             
+ 21NEX L XREF=H                                                                 
+ 21NE2 L ISPIN=3/2                                                              
+

@@ -1,0 +1,1758 @@
+ 33S     ADOPTED LEVELS, GAMMAS                                  11NDS    201105
+ 33S   H TYP=FUL$AUT=JUN CHEN AND BALRAJ SINGH$CIT=NDS 112, 1393 (2011)$        
+ 33S 2 H CUT=31-Mar-2011$                                                       
+ 33S   Q -5582.59  448641.638 2 9569.95 4-7115.74      2009AuZZ,2003Au03        
+ 33S  cQ $S(n)=-8641.6380 {i22} and Q(|a)=-7115.7415 {i23}, deduced from the    
+ 33S 2cQ masses in 2009AuZZ.                                                    
+ 33S  cQ $Q(|b{+-}n)=-21328 {i7} (2003Au03,2009AuZZ)                            
+ 33S   XA33P B- DECAY (25.35 D)                                                 
+ 33S   XB33CL EC DECAY (2.511 S)                                                
+ 33S   XQ2H(32S,PG)                                                             
+ 33S   XC18O(18O,XG)                                                            
+ 33S   XD29SI(A,N),(A,A),(A,G):RES                                              
+ 33S   XP29SI(6LI,D)                                                            
+ 33S   XE30SI(A,NG)                                                             
+ 33S   XF31P(3HE,P),(3HE,PG)                                                    
+ 33S   XH32S(N,G) E=THERMAL                                                     
+ 33S   XG32S(N,G) E=RES                                                         
+ 33S   XI32S(N,G),(N,N):RESONANCES                                              
+ 33S   XJ32S(D,P),(POL D,P)                                                     
+ 33S   XK32S(D,PG)                                                              
+ 33S   XR32S(13C,12C)                                                           
+ 33S   XS33S(P,P'G)                                                             
+ 33S   XOCOULOMB EXCITATION                                                     
+ 33S   XL34S(P,D),(POL P,D)                                                     
+ 33S   XM34S(POL D,T)                                                           
+ 33S   XN34S(3HE,A),(3HE,AG)                                                    
+ 33S   XT34S(32S,33S)                                                           
+ 33S   XU35CL(P,3HE)                                                            
+ 33S   XV35CL(D,A)                                                              
+ 33S  cG E$ Values with |DE are primarily from (|a,n|g) and/or                  
+ 33S 2cG (n,|g) (E=thermal). Weighted averages taken when the quoted            
+ 33S 3cG uncertainties are comparable in the two reactions. Others are deduced  
+ 33S 4cG from level-energy differences.                                         
+ 33S  cG RI$ Primarily from (|a,n|g), (d,p|g) and (n,|g). Weighted average taken
+ 33S 2cG when I|g are available from more than one reference, unless otherwise  
+ 33S 3cG noted.                                                                 
+ 33S  cG M$ From (|a,n|g) and/or (|d,p|g) by |g(|q) or |g|g(|q). |g(|q) or      
+ 33S 2cG |g|g(|q) give D and Q; M1 and E2, or, E1 and M2 have been used         
+ 33S 3cG when spin-parities are established from other methods.                 
+ 33S  cG MR$ From (|a,n|g) and/or (|d,p|g). Weighted average taken when values  
+ 33S 2cG from both are available                                                
+ 33S  cL E$ From least-squares fit to Adopted E|g data when available.          
+ 33S 2cL In other cases weighted averages are taken of values available         
+ 33S 2cL from different reactions                                               
+ 33S  cL J$ From the comparison of the DWBA prediction of cross section with    
+ 33S 2cL experimental data in particle-transfer reactions or/and from           
+ 33S 3cL angular distribution measurements of |g-rays or/and from the R-matrix  
+ 33S 4cL analysis of the resonance data.                                        
+ 33S 5cL In particle-transfer reactions, target J|p=0+ for {+32}S in            
+ 33S 6cL (d,p) reaction, J|p=0+ for {+34}S in (p,d) and (d,t) reactions,        
+ 33S 7cL J|p=1/2- for {+29}Si in ({+6}Li,d) reaction, J|p=3/2+ for {+35}Cl      
+ 33S 8cL in (p,{+3}He) and (d,|a) reactions.                                    
+ 33S 9cL When assigning J|p to a level based on |g transition from a            
+ 33S AcL level to a level of known J|p, evaluators use the following rules:     
+ 33S BcL if E|g<4 MeV, transitions are only considered to be E1,M1 or E2; if    
+ 33S CcL E|g>4 MeV, M2 and E3 are considered to be possible.                    
+ 33S  cL J(A)$ From the analysis of the resonance data in (|a,n).               
+ 33S  cL J(B)$ R-matrix analysis in (n,|g) (resonance)                          
+ 33S  CL T$LABEL=T{-1/2} or |G                                                  
+ 33S  cL T$ From (|a,n|g) and/or (d,p|g) using DSAM (Doppler shift attenuation  
+ 33S 2cL method). Weighted averages taken when values from both are available.  
+ 33S 3cL Level widths given are the sum of the neutron widths and gamma widths  
+ 33S 4cL extracted from the R-Matrix analysis of the resonance data of (n,|g),  
+ 33S 5cL unless otherwise noted.                                                
+ 33S  PN                                                                     6  
+ 33S  t                                                                         
+ 33S  t           ------------------------------------------------------------- 
+ 33S  t            Possible J|p for {+33}S from L values in transfer reactions  
+ 33S  t                                                                         
+ 33S  t            Reactions        Target J|p          L            J|p        
+ 33S  t           ------------------------------------------------------------- 
+ 33S  t            1p1n transfer                                                
+ 33S  t            {+31}P({+3}He,p)          1/2+             0        1/2+,3/2+
+ 33S  t                                                1        1/2:5/2, |p=-   
+ 33S  t                                                2        1/2:7/2, |p=+   
+ 33S  t                                                3        3/2:9/2, |p=-   
+ 33S  t                                                4        5/2:11/2, |p=+  
+ 33S  t           ------------------------------------------------------------- 
+ 33S  t            1n transfer                                                  
+ 33S  t            {+32}S(d,p)            0+              0        1/2+         
+ 33S  t            {+34}S(p,d)            0+              1        1/2-,3/2-    
+ 33S  t            {+34}S(d,t)                            2        1/2+,3/2+    
+ 33S  t            {+34}S({+3}He,d)                          3        5/2-,7/2- 
+ 33S  t                                                4        7/2+,9/2+       
+ 33S  t           ------------------------------------------------------------- 
+ 33S  t            1p1n transfer                                                
+ 33S  t            {+35}Cl(p,{+3}He)         3/2+           0        3/2+       
+ 33S  t            {+35}Cl(d,|a)                          1        1/2:7/2,|p=- 
+ 33S  t                                               2        1/2:9/2, |p=+    
+ 33S  t                                               3        3/2:11/2, |p=-   
+ 33S  t                                               4        3/2:13/2, |p=+   
+ 33S  t           ------------------------------------------------------------- 
+ 33S  t            2p2n transfer                                                
+ 33S  t            {+29}Si({+6}Li,d)         1/2+            0        1/2+      
+ 33S  t                                               1        1/2-,3/2-        
+ 33S  t                                               2        3/2+,5/2+        
+ 33S  t                                               3        5/2-,7/2-        
+ 33S  t                                               4        7/2+,9/2+        
+ 33S  t           ------------------------------------------------------------- 
+ 33S  t                                                                         
+ 33S   L 0.0         3/2+               STABLE                                  
+ 33S 2 L MOMM1=+0.6438212 14 (1973Lu06,1989Ra17,2005St24)                       
+ 33S 2 L MOME2=-0.084 8 (1986El09,1989Ra17,2005St24)                            
+ 33S 2 L ISPIN=1/2                                                              
+ 33S X L XREF=ABCDEFGHIJKLMNO                                                   
+ 33S  cL J$ spin from microwave absorption (1948To13,1952Es07) and              
+ 33S 2cL NMR(1953We51); parity from  L(pol d,t)=2 and L-1/2 from analyzing      
+ 33S 3cL powers                                                                 
+ 33S  cL MOMM1$From NMR (1973Lu06). Others: +0.6431603 and +0.643247 {I11}      
+ 33S 2cL (NMR,2005An15), +0.64348 {I9} (1953We51), +0.634 {I10} (1952Es07),     
+ 33S 3cL +0.64292 {I14} (1951Dh01)                                              
+ 33S  cL MOME2$ hyperfine structure using collinear laser spectroscopy          
+ 33S 2cL (1986El09). Others: -0.064 {I10} (microwave spectroscopy,1954Bi40,     
+ 33S 3cL 1989Ra17). -0.056 (1962Ko22,value of 1954Bi40 reanalyzed), -0.06       
+ 33S 4cL (1953Bu92), -0.050 (1953De16), -0.05 {+5-3} (1948To13). Theory:        
+ 33S 5cL -0.0678 {I13} (multi-configurational Hartree-Fock, 1990Su19),          
+ 33S 6cL -0.0663 {I2} (Hartree-Fock-density functional,2000Ba85)                
+ 33S   L 840.982   121/2+              1.15 PS   12                             
+ 33S X L XREF=BCDEFGHJKLMN                                                      
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ L(pol d,t)=0 and L+1/2 from analyzing powers                        
+ 33S   G   840.974 14 100      M1+E2     +0.18   5                              
+ 33S B G BM1W=0.031 4$BE2W=6 4                                                  
+ 33S   L 1967.19    35/2+              94 FS     14                             
+ 33S X L XREF=BCDEFGHJKLMNO                                                     
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S  cL T$ Weighted average of 94 fs {I14} in (|a,n|g), 104 fs {I21} in        
+ 33S 2cL (d,p|g) and 55 fs {I42} in Coulomb Excitation.                         
+ 33S   G   1126.0  6 7.5     11 E2                                              
+ 33S  cG E$ unweighted average from ({+18}O,X|g) and (|a,n|g)                   
+ 33S  DG $1125         1.3    3                                  in B           
+ 33S  DG $1126.5    10 0.63   3  E2                              in C           
+ 33S  DG $1126                                                   in D           
+ 33S  DG $1125.4    2 7.5     11 E2                              in E           
+ 33S  DG $1130        0.5     LE                                 in K           
+ 33S B G BE2W=37 8                                                              
+ 33S   G   1967.20 6 100.0   11 M1+E2    -0.60   12                             
+ 33S  DG $1967.3    9  100.0  14                                 in B           
+ 33S  DG $1967.6    10 100    4  M1+E2                           in C           
+ 33S  DG $1966                                                   in D           
+ 33S  DG $1966.4    1 100.0   11 M1+E2    -0.55   13             in E           
+ 33S  DG $1968                                                   in F           
+ 33S  DG $1980      30 100    25                                 in G           
+ 33S  DG $1967.20   6 100     11                                 in H           
+ 33S  DG $1970        100        M1+E2    -0.78   26             in K           
+ 33S  DG $1960        100     LT                                 in O           
+ 33S B G BM1W=0.021 4$BE2W=8 3                                                  
+ 33S   L 2313.399  143/2+              109 FS    17                             
+ 33S X L XREF=BDEFGJKLMNO                                                       
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L-1/2 from analyzing powers                        
+ 33S   G    346.19 14   1.6   3 (M1)                                            
+ 33S  DG $346.1       6       LT (D)                             in E           
+ 33S  DG $346.19    14 1.6    3                                  in H           
+ 33S  DG $340         5       LE                                 in K           
+ 33S B G BM1W=0.055 14                                                          
+ 33S   G  1472.411 13 100    3  M1+E2    -0.12   10                             
+ 33S  DG $1472        100     6                                  in B           
+ 33S  DG $1476                                                   in D           
+ 33S  DG $1471.6    1 100     3  M1+E2   -0.12   10              in E           
+ 33S  DG $|G|g=1.294 meV (1969Br28)                              in E           
+ 33S  DG $1471                                                   in F           
+ 33S  DG $1470      30 100    25                                 in G           
+ 33S  DG $1472.411  13 100    11                                 in H           
+ 33S  DG $1470        100     3  E2+M3    +0.45   9              in K           
+ 33S B G BM1W=0.044 8$BE2W=1.2 +20-12                                           
+ 33S   G  2313.34  7 40      3  M1+E2    -0.28   7                              
+ 33S  DG $2312        39.9    24                                in B            
+ 33S  DG $2316                                                  in D            
+ 33S  DG $2312.6    1 41      3  M1+E2    -0.28   7             in E            
+ 33S  DG $2313                                                  in F            
+ 33S  DG $2310      30 108    25                                in G            
+ 33S  DG $RI:sum of this transition and that from 3220 keV to 840 keV level     
+ 33S  DG $,E{-R}=30 keV (1970Lu15)                              in G            
+ 33S  DG $2313.34   7  42     5                                 in H            
+ 33S  DG $2310        54      3  M1+E2    -1.3    6             in K            
+ 33S B G BM1W=0.0043 8$BE2W=0.26 13                                             
+ 33S   L 2867.626  205/2+               10.8 FS  35                             
+ 33S X L XREF=BDEFGHJKLMNO                                                      
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S   G 554.2          2    LT                                                ?
+ 33S F G FL=2313.399                                                            
+ 33S  DG $554                                                    in D           
+ 33S  DG $553.6       5       LT                                 in E           
+ 33S  DG $560         3       LE                                 in K           
+ 33S   G 900.4          1    LT                                                ?
+ 33S  DG $899.7       10      LT M1                              in E           
+ 33S  DG $900         3       LE                                 in K           
+ 33S B G BM1W=0.014 +15-14                                                      
+ 33S   G 2026.6      1.5     2  E2                                              
+ 33S  DG $2026        1.5    2                                   in B           
+ 33S  DG $2025.9      6       LT E2                              in E           
+ 33S  DG $BM1W<7.8E-2 (1972Hi06)                                 in E           
+ 33S  DG $BE2W<6.8 (1972Hi06)                                    in E           
+ 33S  DG $2030        3       LE                                 in K           
+ 33S B G BE2W=3.6 13                                                            
+ 33S   G   2867.47 4 100     2  M1+E2    +0.12   4                              
+ 33S  DG $2867.7    9 100.0   18                                 in B           
+ 33S  DG $2870                                                   in D           
+ 33S  DG $2866.4    1 100        M1+E2    +0.12   4              in E           
+ 33S  DG $|G|g=19.934 meV (1969Br28)                             in E           
+ 33S  DG $2870        100     20                                  in G          
+ 33S  DG $2867.47   4 100     10                                  in H          
+ 33S  DG $2870        100                                         in K          
+ 33S B G BM1W=0.08 3$BE2W=0.6 5                                                 
+ 33S   L 2934.74    97/2-               28.2 PS  14                             
+ 33S X L XREF=CDEFHJKLNO                                                        
+ 33S  cL E$2950.2 {I8} doublet in ({+3}He,|a)                                   
+ 33S  cL J$ L(d,p)=L(p,d)=L({+3}He,|a)=L({+32}S,{+33}S)=3; |g(|q)               
+ 33S 2cL in (|a,n|g) and (d,p|g); DCO in ({+18}O,X|g)                           
+ 33S   G 621.3       6       LT                                                ?
+ 33S  DG $621.7       3       LT                                 in E           
+ 33S  DG $630         8       LE                                 in K           
+ 33S   G    967.5  1 100      3  E1(+M2) -0.04   4                              
+ 33S  cG MR$ unweighted average of -0.003 {I12} in (|a,n|g) and -0.08 {I9} in   
+ 33S 2cG (d,p|g)                                                                
+ 33S  DG $968.4     10 100    5  E1+M2                           in C           
+ 33S  DG $967.4     1 100     3 E1+M2     -0.003  12             in E           
+ 33S  DG $967.91    32 100    19                                 in H           
+ 33S  DG $970         100     8 E1+M2     -0.08   9              in K           
+ 33S B G BE1W=1.29E-5 9$BM2W=(0.10 +21-10)                                      
+ 33S   G 2093.7      6       LT                                                ?
+ 33S  DG $2094        3       LT                                 in E           
+ 33S  DG $2100        8       LE                                 in K           
+ 33S   G   2934.8  5 93      4  (M2+E3)  -0.32   17                             
+ 33S  cG MR$ unweighted average of -0.15 {I2} in (|a,n|g) and -0.48 {I9} in     
+ 33S 2cG (d,p|g)                                                                
+ 33S  DG $2935.6    10 96     5  M2+E3                           in C           
+ 33S  DG $2937                                                   in D           
+ 33S  DG $2933.8    1 64        M2+E3     -0.15   2              in E           
+ 33S  DG $2935.0    6 81      19                                 in H           
+ 33S  DG $2940        92      4 M2+E3     -0.48   9              in K           
+ 33S  DG $2950                                                   in N           
+ 33S B G BM2W=0.21 3$BE3W=15 15                                                 
+ 33S   L 2969.18    87/2+               59 FS    8                              
+ 33S X L XREF=EHJKLNO                                                           
+ 33S  cL E$2950.2 {I8} doublet in ({+3}He,|a)                                   
+ 33S  cL J$ |g(|q) in (|a,n|g)                                                  
+ 33S   G 655.8       2       LT                                                ?
+ 33S  DG $656.1       2       LT                                 in E           
+ 33S   G   1002.3  3 11      2  M1(+E2)  -0.005  16                             
+ 33S  DG $1002.3    2 11      2 M1+E2     -0.005  16             in E           
+ 33S  DG $1002                                                   in F           
+ 33S  DG $1000        25                                         in K           
+ 33S B G BM1W=(0.034 8)$BE2W=(0.003 +22-3)                                      
+ 33S   G 2128.1      17      LT                                                ?
+ 33S  DG $2128.4      15      LT                                 in E           
+ 33S   G   2968.7  1    100   2 (E2(+M3))-0.01   1                              
+ 33S  DG $2974                                                   in D           
+ 33S  DG $2968.7    1 90      2 E2+M3     -0.01   1              in E           
+ 33S  DG $|G|g=7.311 meV (1969Br28)                              in E           
+ 33S  DG $2970                                                   in F           
+ 33S  DG $2970        100                                        in K           
+ 33S B G BE2W=5.5 9                                                             
+ 33S   L 3220.692  153/2-               27 FS     5                             
+ 33S X L XREF=DEFGHJKLNO                                                        
+ 33S  cL J$ L(d,p)=L(p,d)=L({+3}He,|a)=1; |g(|q) in (|a,n|g) and                
+ 33S 2cL (d,p|g); circular polarization in (n,|g) (E=thermal)                   
+ 33S  cL T$ weighted average of 30 fs {II5} in (n,|g) (E=thermal), 33 fs {I12}  
+ 33S 2cL in (|a,n|g) and 21 fs {I6} in (d,p|g)                                  
+ 33S   G 251.5       5       LT                                                ?
+ 33S  DG $250.3       5       LT                                 in E           
+ 33S  DG $250         5       LE                                 in K           
+ 33S   G 286.0       5       LT                                                ?
+ 33S  DG $284         3       LT                                 in E           
+ 33S  DG $280         7       LE                                 in K           
+ 33S   G  353.034  19 0.65   7 (E1)                                             
+ 33S  DG $352.8       3       LT                                 in E           
+ 33S  DG $353.034   19 0.65   7                                  in H           
+ 33S  DG $350         5       LE                                 in K           
+ 33S B G BE1W=0.0021 5                                                          
+ 33S   G  907.315  20 0.65   7 (E1)                                             
+ 33S  DG $906.4       5       LT                                 in E           
+ 33S  DG $907.315   20 0.65   7                                  in H           
+ 33S  DG $910         5       LE                                 in K           
+ 33S B G BE1W=0.00012 3                                                         
+ 33S   G   1253.59 4 0.44    7 (E1)                                             
+ 33S  DG $1252.5      3       LT                                 in E           
+ 33S  DG $1253.59   4 0.44    7                                  in H           
+ 33S  DG $1250        2       LE                                 in K           
+ 33S B G BE1W=3.2E-5 8                                                          
+ 33S   G   2379.59 7 100     3  E1(+M2)  +0.02   +36-9                          
+ 33S  DG $2379.0    1 100     3 E1                               in E           
+ 33S  DG $2379                                                   in F           
+ 33S  DG $2380      20 100    16                                 in G           
+ 33S  DG $2379.59   7 100     16                                 in H           
+ 33S  DG $2380        100     3 E1+M2                            in K           
+ 33S B G BE1W=(0.00106 21)$BM2W=(0.3 +124-3)                                    
+ 33S   G   3220.49 3 64      3  E1(+M2)   0.00   9                              
+ 33S  DG $3225                                                   in D           
+ 33S  DG $3219.9    1 59      3  E1+M2     0.00   9              in E           
+ 33S  DG $3221                                                   in G           
+ 33S  DG $3220      20 58     26                                 in G           
+ 33S  DG $3220.49   3 57      12                                 in H           
+ 33S  DG $3220        69      3 E1+M2                            in K           
+ 33S B G BE1W=(0.00027 6)                                                       
+ 33S   L 3537.2    10                                                           
+ 33S X L XREF=C                                                                 
+ 33S  cL J$ (3/2-:11/2-) from |g to 7/2-, but 3/2- or 5/2 are highly unlikely   
+ 33S 2cL because this level is not seen in decay, (n|g) or any other experiment.
+ 33S   G 602.5     10                                                           
+ 33S   L 3779.9    10(9/2+)                                                     
+ 33S X L XREF=C                                                                 
+ 33S  cL J$ from DCO in ({+18}O,X|g)                                            
+ 33S   G 845.1     10          (D)                                              
+ 33S  cG M$ from ({+18}O,X|g)                                                   
+ 33S   L 3831.6     3 5/2+              30 FS    8                              
+ 33S X L XREF=BDEFHJKLMNO                                                       
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S   G 610.9       8       LT                                                ?
+ 33S  DG $611         11      LT                                 in E           
+ 33S  DG $610         4       LE                                 in K           
+ 33S   G 862.4       19      7   [M1]                                           
+ 33S  DG $861         19      7                                  in E           
+ 33S  DG $860         16      LE                                 in K           
+ 33S B G BM1W=0.12 6                                                            
+ 33S   G 896.8       16      LT                                                ?
+ 33S  DG $896         15      LT                                 in E           
+ 33S  DG $890         16      LE                                 in K           
+ 33S   G 964.0       10      LT                                                ?
+ 33S  DG $968                                                    in D           
+ 33S  DG $963                                                    in F           
+ 33S  DG $960         10      LE                                 in K           
+ 33S   G   1518.7  20 31     7   [M1+E2]                                        
+ 33S  DG $1519        100     LT                                 in B           
+ 33S  DG $1518.7    20 30     12                                 in H           
+ 33S  DG $1520        32      7                                  in K           
+ 33S  cG $B(M1)(W.u.)=0.034 {I14} if M1, B(E2)(W.u.)=62 {I24} if E2             
+ 33S   G 1864.4      13      4   [M1+E2]                                        
+ 33S  DG $1860        13      4                                  in K           
+ 33S  cG $B(M1)(W.u.)=0.0078 {I34} if M1, B(E2)(W.u.)=9.2 {I40} if E2           
+ 33S   G 2990.5      14      LT                                                ?
+ 33S  DG $2992        8       LT                                 in E           
+ 33S  DG $2990        19      LE                                 in K           
+ 33S   G   3831.9  9 100     7  (M1+E2)  +0.38   4                              
+ 33S  DG $3832        23      LT                                 in B           
+ 33S  DG $3837                                                   in D           
+ 33S  DG $3831.7      100     7 M1+E2     +0.38   4              in E           
+ 33S  DG $3831.9    9 100     30                                 in H           
+ 33S  DG $3830        100     9                                  in K           
+ 33S B G BM1W=0.0061 18$BE2W=0.25 9                                             
+ 33S   L 3934.73    6 3/2+             24 FS     7                              
+ 33S X L XREF=BDEFGHJKLN                                                        
+ 33S  cL J$ L(p,d)=L({+3}He,|a)=2; |g(|q) in (|a,n|g) and (d,p|g)               
+ 33S   G 714.0       9       LT                                                ?
+ 33S  DG $715         13      LT                                 in E           
+ 33S  DG $720         5       LE                                 in K           
+ 33S   G 965.5       5       LT                                                ?
+ 33S  DG $970         5       LE                                 in K           
+ 33S   G 1000.0      10      LT                                                ?
+ 33S  DG $1000        10      LE                                 in K           
+ 33S   G   1067.1  3 10      1   [M1+E2]                                        
+ 33S  DG $1068        13      LT                                 in E           
+ 33S  DG $1067.1    3 11      7                                  in H           
+ 33S  DG $1070        10      1                                  in K           
+ 33S  cG $B(M1)(W.u.)=0.042 {I14} if M1, B(E2)(W.u.)=154 {I50} if E2            
+ 33S   G   1621.4  3 7       4   [M1+E2]                                        
+ 33S  DG $1619                                                   in D           
+ 33S  DG $1621        20      LT                                 in E           
+ 33S  DG $1621.4    3 7       4                                  in H           
+ 33S  DG $1630        8       5                                  in K           
+ 33S  cG $B(M1)(W.u.)=0.008 {I6} if M1, B(E2)(W.u.)=14 {I10} if E2              
+ 33S   G   1967.6  3 20      3    [M1+E2]                                       
+ 33S  DG $1967                                                   in F           
+ 33S  DG $1967.6    3 21      18                                 in H           
+ 33S  DG $1970        20      3                                  in K           
+ 33S  cG $B(M1)(W.u.)=0.014 {I5} if M1, B(E2)(W.u.)=14 {I5} if E2               
+ 33S   G   3093.7  3 27      3    [M1+E2]                                       
+ 33S  cG MR$ -1.7<|d<-0.0 (1975Bu15)                                            
+ 33S  DG $3094        100     LT                                 in B           
+ 33S  DG $3093.7    2 32      8                                  in E           
+ 33S  DG $3093                                                   in F           
+ 33S  DG $3093.7    3 28      11                                 in H           
+ 33S  DG $3100        26      3                                  in K           
+ 33S B G BM1W=0.0024 8$BE2W=1.0 4                                               
+ 33S   G   3935.0  5 100     5  (M1+E2)  +0.21   9                              
+ 33S  cG MR$ from 1973Ca20. -0.23 {I17} or +0.21 {I9} for J|p=5/2+ (1973Ca20)   
+ 33S  DG $3935        32      LT                                 in B           
+ 33S  DG $3935                                                   in D           
+ 33S  DG $3935.0    5 100     8 M1+E2                            in E           
+ 33S  DG $3935                                                   in F           
+ 33S  DG $3934.7    12 100    25                                 in H           
+ 33S  DG $3940        100     5                                  in K           
+ 33S B G BM1W=0.0082 25$BE2W=0.10 9                                             
+ 33S   L 4048.56    8 9/2+             211 FS    53                             
+ 33S X L XREF=DEHJKL                                                            
+ 33S  cL J$ |g(|q) in (|a,n|g)                                                  
+ 33S   G 217.0       2.3     LT                                                ?
+ 33S  DG $218         2.3     LT                                 in E           
+ 33S   G 827.9       2.3     LT                                                ?
+ 33S  DG $829         2.3     LT                                 in E           
+ 33S   G   1079.2  1 11.5    11 (M1+E2)  -0.33   4                              
+ 33S  DG $1079.2    1 11.5    11M1+E2     -0.33   4              in E           
+ 33S B G BM1W=0.0068 19$BE2W=2.6 10                                             
+ 33S   G 1113.8      3.4     11(E1)                                             
+ 33S  DG $1113        3.4     11                                 in E           
+ 33S B G BE1W=6.E-5 3                                                           
+ 33S   G 1180.9      2.3     LT                                                ?
+ 33S  DG $1181        2.3     LT                                 in E           
+ 33S   G 1735.1      3.4     LT                                                ?
+ 33S  DG $1735        3.4     LT                                 in E           
+ 33S   G   2081.5  1 100.0   11 (E2(+M3))-0.02   3                              
+ 33S  DG $ 2081.5    1 100.0   11E2+M3     -0.02   3             in E           
+ 33S B G BE2W=8.7 23                                                            
+ 33S   G 3207.4      6.9     LT                                                ?
+ 33S  DG $ 3207        6.9     LT                                in E           
+ 33S   G 4048.3      4.6     LT                                                ?
+ 33S  DG $4049                                                   in D           
+ 33S  DG $4047.6      4.6     LT                                 in E           
+ 33S   L 4055.35   11 1/2+              12 FS     8                             
+ 33S X L XREF=BDEFGHKL                                                          
+ 33S  cL J$ L(p,d)=0                                                            
+ 33S   G 834.6                                                                  
+ 33S  cG RI$ 1.6 {I4} per 100 neutron capture in (n,|g) (E=thermal) (1966Va10)  
+ 33S  DG $835         1.6     4                                  in H           
+ 33S   G 1086.2      25      LT                                                ?
+ 33S  DG $1084        25      LT                                 in E           
+ 33S   G 1187.7      25      LT                                                ?
+ 33S  DG $1187        25      LT                                 in E           
+ 33S  DG $1180                                                   in F           
+ 33S   G 1741.9      30      LT                                                ?
+ 33S  DG $1740        30      LT                                 in E           
+ 33S   G 3214.2                                                                 
+ 33S  cG E$ from ({+3}He,p|g)                                                   
+ 33S  DG $3212        100     LT                                 in B           
+ 33S  DG $3207                                                   in F           
+ 33S   G   4055.19 15 100        [M1+E2]                                        
+ 33S  DG $4053        83      24                                 in B           
+ 33S  DG $4055.0    5 100                                        in E           
+ 33S  DG $4049                                                   in F           
+ 33S  DG $4055.21   15 100    14                                 in H           
+ 33S  cG $B(M1)(W.u.)=0.020 {I14} if M1, B(E2)(W.u.)=5 {I3} if E2               
+ 33S   L 4095.09   177/2+               31 FS    8                              
+ 33S X L XREF=EJKL                                                              
+ 33S  cL J$ |g(|q) in (|a,n|g); and RUL                                         
+ 33S   G 263.5       3.4     LT                                                ?
+ 33S  DG $  264       3.4     LT                                 in E           
+ 33S   G 874.4       2.3     LT                                                ?
+ 33S  DG $875         2.3     LT                                 in E           
+ 33S   G 1125.9      34      LT                                                ?
+ 33S  DG $1125        34      LT                                 in E           
+ 33S   G 1160.3      3.4     LT                                                ?
+ 33S  DG $1160        3.4     LT                                 in E           
+ 33S   G 1227.4      8.0     23  [M1+E2]                                        
+ 33S  DG $1228        8.0     23                                 in E           
+ 33S  cG $B(M1)(W.u.)=0.020 {I10} if M1, B(E2)(W.u.)=54 {I24} if E2             
+ 33S   G 1781.6      34      LT                                                ?
+ 33S  DG $1781        34      LT                                 in E           
+ 33S   G   2127.7  2 100.0   11 (M1+E2)  +0.19   2                              
+ 33S  DG $2127.7    2 100.0   11M1+E2     +0.19   2              in E           
+ 33S B G BM1W=0.046 14$BE2W=1.5 6                                               
+ 33S   G 3253.9      3.4     LT                                                ?
+ 33S  DG $3254        3.4     LT                                 in E           
+ 33S   G   4096.0  5 5.7     11 E2                                              
+ 33S  DG $4096.0    5 5.7     11E2                               in E           
+ 33S B G BE2W=0.09 4                                                            
+ 33S   L 4144.32    6 5/2               24 FS    7                              
+ 33S X L XREF=BEFHJKL                                                           
+ 33S  cL J$ |g(|q) in (|a,n|g); |g to 7/2-                                      
+ 33S   G 312.7       9       LT                                                 
+ 33S  DG $312         9       LT                                 in E           
+ 33S   G   923.48  24 7.9    17                                                 
+ 33S  DG $923         8       LT                                 in E           
+ 33S  DG $923.48    24 7.9    17                                 in H           
+ 33S   G 1175.1      9       LT                                                 
+ 33S  DG $1173        9       LT                                 in E           
+ 33S   G   1209.2  3  9.0    14                                                 
+ 33S  DG $1208        9       LT                                 in E           
+ 33S  DG $1209.23   27 9.0    14                                 in H           
+ 33S   G 1276.7      10      LT                                                 
+ 33S  DG $1276        10      LT                                 in E           
+ 33S   G 1830.9      11      LT                                                 
+ 33S  DG $1829        11      LT                                 in E           
+ 33S   G 2177.1      9       LT                                                 
+ 33S  DG $2176        9       LT                                 in E           
+ 33S   G 3303.2      8       LT                                                 
+ 33S  DG $3302        8       LT                                 in E           
+ 33S   G   4144.14 17 100                                                       
+ 33S  cG MR$ -2.47 {I13} for J|p=5/2+ (1975Bu15)                                
+ 33S  DG $4144        100     LT                                 in B           
+ 33S  DG $4144.0    3 100                 -2.47   13             in E           
+ 33S  DG $4144.19   17 100    14                                 in H           
+ 33S   L 4210.848  20 3/2-              32 FS    8                              
+ 33S X L XREF=DEFGHJKLO                                                         
+ 33S  cL J$ L(d,p)=1; |g|g(|q) in (n,|g) (E=thermal) and                        
+ 33S 2cL |g(|q) in (|a,n|g) and (d,p|g)                                         
+ 33S   G 379.2       12      LT                                                ?
+ 33S  DG $380         12      LT                                 in E           
+ 33S   G 990.1       10      LT                                                ?
+ 33S  DG $986                                                    in D           
+ 33S  DG $991         10      LT                                 in E           
+ 33S  DG $990         3.2     LE                                 in K           
+ 33S   G 1241.6      7.6     LT                                                ?
+ 33S  DG $1241        12      LT                                 in E           
+ 33S  DG $1240        3.2     LE                                 in K           
+ 33S   G 1276.1      7.6     LT                                                ?
+ 33S  DG $1276        12      LT                                 in E           
+ 33S  DG $1270        3.2     LE                                 in K           
+ 33S   G 1343.2      8.6     LT                                                ?
+ 33S  DG $1344        14      LT                                 in E           
+ 33S  DG $1344                                                   in F           
+ 33S  DG $1340        3.2     LE                                 in K           
+ 33S   G   1897.48 4 7.9     8 (E1)                                             
+ 33S  DG $1897        10      LT                                 in E           
+ 33S  DG $1897.48   4 7.9     8                                  in H           
+ 33S  DG $1900        7.5     22                                 in K           
+ 33S B G BE1W=0.00017 5                                                         
+ 33S   G 2243.6      8.6     LT                                                ?
+ 33S  DG $2245                                                   in D           
+ 33S  DG $2240        8       LE                                 in K           
+ 33S   G   3369.68 2 100     2 E1(+M2)   -0.05   18                             
+ 33S  DG $3369.5    2 100      D(+Q)      -0.05   18             in E           
+ 33S  DG $3370        100     50                                 in G           
+ 33S  DG $3369.68   3 100     9                                  in H           
+ 33S  DG $3370        100     2                                  in K           
+ 33S B G BE1W=0.00039 11$BM2W=(0.4 +28-4)                                       
+ 33S   G 4210.6      6.8     LT                                                ?
+ 33S  DG $4211                                                   in D           
+ 33S  DG $4210        7       LT                                 in E           
+ 33S  DG $4210        7.5     LE                                 in K           
+ 33S   L 4375.4     3 1/2+              24 FS    10                             
+ 33S X L XREF=BEFJL                                                             
+ 33S  cL J$ L(p,d)=0                                                            
+ 33S   G 2408.1                                                                 
+ 33S  cG E$ from {+33}Cl |e decay                                               
+ 33S  DG $2409        100     LT                                 in B           
+ 33S   G   4375.0  3 100        [M1+E2]                                         
+ 33S  DG $4375        28      LT                                 in B           
+ 33S  DG $4375.0    3 100                 -5.1    10             in E           
+ 33S  DG $4377                                                   in F           
+ 33S  cG $B(M1)(W.u.)=0.011 {I5} if M1, B(E2)(W.u.)=2.4 {I10} if E2             
+ 33S   L 4423.73    5(1/2+,3/2)         19 FS    10                             
+ 33S X L XREF=BDEFHJKL                                                          
+ 33S  cL J$ |g(|q) in (|a,n|g) and (d,p|g)                                      
+ 33S   G 592.1       3.8     LT                                                 
+ 33S  DG $600         3.8     LE                                 in K           
+ 33S   G 1203.0      3.8     LT                                                 
+ 33S  DG $1210        3.8     LT                                 in K           
+ 33S   G 1454.5      3.8     LT                                                 
+ 33S  DG $1460        3.8     LE                                 in K           
+ 33S   G 1489.0      3.8     LT                                                 
+ 33S  DG $1490        3.8     LE                                 in K           
+ 33S   G 1556.1      3.8     LT                                                 
+ 33S  DG $1560        3.8     LE                                 in K           
+ 33S   G   2110.3  4 13      4                                                  
+ 33S  DG $2110.3    4 13.2    44                                 in H           
+ 33S  DG $2120        13.2    38                                 in K           
+ 33S   G   2456.12 24 35     6                                                  
+ 33S  cG RI$ relative intensity I|g=44 {I6} from (|a,n|g); another |g-ray at    
+ 33S 2cG E|g=3583 with I|g=56 {I6} (1973Ca20)                                   
+ 33S  DG $2461                                                   in D           
+ 33S  DG $2457        44      6                                  in E           
+ 33S  DG $2456.12   24 35.0   56                                 in H           
+ 33S  DG $2460        35.8    57                                 in K           
+ 33S   G   3583.1  5 39      6                                                  
+ 33S  cG RI$ the strongest |g-ray in (|a,n|g) with relative intensity           
+ 33S 2cG I|g=56 {I6}; another |g-ray at E|g=2457 with I|g=44 {I6} (1973Ca20)    
+ 33S  cG MR$ -3.3 {I6} for J|p=3/2+, -0.00 for J=1/2, +0.23 {I5} for            
+ 33S 2cG J=3/2 (1975Bu15)                                                       
+ 33S  DG $3584        100     LT                                 in B           
+ 33S  DG $3583.6    2 56      6           -3.3    6              in E           
+ 33S  DG $3582.52   13 38.9   56                                 in H           
+ 33S  DG $3590        39.6    57                                 in K           
+ 33S   G   4423.5  5 100     9                                                  
+ 33S  DG $4424        74      LT                                 in B           
+ 33S  DG $4425                                                   in D           
+ 33S  DG $4423.5    5 100     22                                 in H           
+ 33S  DG $4430        100.0   94                                 in K           
+ 33S   L 4730.10   11 9/2-              57 FS     15                            
+ 33S X L XREF=EHJL                                                              
+ 33S  cL J$ |g(|q) in (|a,n|g)                                                  
+ 33S   G   1760.8  1 100.0   12 E1(+M2)  -0.02   3                              
+ 33S  DG $1760.8    1 100.0   12          -0.02   3              in E           
+ 33S B G BE1W=0.0017 5$BM2W=(1.0 +31-10)                                        
+ 33S   G   1795.6  2 22.0    12 M1+E2    +1.0    3                              
+ 33S  DG $1795.6    1 22.0    12          +1.0    3              in E           
+ 33S B G BM1W=0.0060 25$BE2W=8 3                                                
+ 33S   L 4747.3     7 1/2+,3/2+,5/2+     7 FS    LT                             
+ 33S X L XREF=BEFJL                                                             
+ 33S  cL J$allowed |b-decay from 3/2+ parent, log| {Ift}=5.35.                  
+ 33S 2cL L(d,p)=(0) for a composite structure suggests (1/2+)                   
+ 33S   G 3906.1      11      33  [M1+E2]                                        
+ 33S  DG $3909        11      3                                  in E           
+ 33S  DG $3905        80      LT                                 in B           
+ 33S  cG $B(M1)(W.u.)>0.005 if M1, B(E2)(W.u.)>1.4 if E2                        
+ 33S   G   4748    1 100     3  [M1+E2]                                         
+ 33S  DG $4746        100     27                                 in B           
+ 33S  DG $4748      1 90      3                                  in E           
+ 33S  DG $4747                                                   in F           
+ 33S  cG $B(M1)(W.u.)>0.026 if M1, B(E2)(W.u.)>4.8 if E2                        
+ 33S   L 4795.2    15(11/2-)                                                    
+ 33S X L XREF=C                                                                 
+ 33S  cL J$ DCO in ({+18}O,X|g)                                                 
+ 33S   G 1015.3    10          (D)                                              
+ 33S   L 4866.70   2211/2-             250 FS    63                             
+ 33S X L XREF=CEJ                                                               
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ |g(|q) in (|a,n|g).                                                 
+ 33S  cL J$ in (pol d,t), L=2                                                   
+ 33S   G   1931.9  2 100       (E2(+M3)) -0.01   1                              
+ 33S  DG $1931.2    10                                           in C           
+ 33S  DG $1931.9    2 100       E2+M3     -0.01   1              in E           
+ 33S B G BE2W=13 4                                                              
+ 33S   L 4917.87    41/2-               90 FS    30                             
+ 33S X L XREF=DEFGHJN                                                           
+ 33S  cL J$ L(d,p)=L({+3}He,|a)=1; circular polarization in (n,|g) (E=thermal)  
+ 33S   G 707.07    16 1.0    1   [M1+E2]                                        
+ 33S  DG $707.07    16 1.0    1                                  in H           
+ 33S  cG $B(M1)(W.u.)=0.0062 {I22} if M1, B(E2)(W.u.)=50 {I18} if E2            
+ 33S   G 862.55    19 1.0    2 (E1)                                             
+ 33S  DG $862.55    19 1.0    2                                  in H           
+ 33S B G BE1W=0.00010 4                                                         
+ 33S   G 983.20    7  2.7    4 (E1)                                             
+ 33S  DG $983.20    7 2.7     4                                  in H           
+ 33S B G BE1W=0.00018 7                                                         
+ 33S   G 1697.21   8  100    7  [M1+E2]                                         
+ 33S  DG $1697        100                                        in E           
+ 33S  DG $1698        100     50                                 in G           
+ 33S  DG $1697.21   8  100    7                                  in H           
+ 33S  cG $B(M1)(W.u.)=0.044 {I16} if M1, B(E2)(W.u.)=62 {I22} if E2             
+ 33S   G 4076.2    7  3.1    9  E1                                              
+ 33S  DG $4076.2    7  3.1    9                                  in H           
+ 33S B G BE1W=3.0E-6 14                                                         
+ 33S   G 4917.39   7  5.2    9 (E1)                                             
+ 33S  DG $4920                                                   in D           
+ 33S  DG $4917.39   7  5.2    9                                  in H           
+ 33S B G BE1W=2.8E-6 11                                                         
+ 33S   L 4941.8    105/2-,7/2-          27 FS     11                            
+ 33S X L XREF=EFHJL                                                             
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   G 2007.0      100        [M1+E2]                                         
+ 33S  DG $2006        100                                        in E           
+ 33S  cG $B(M1)(W.u.)=0.10 {I4} if M1, B(E2)(W.u.)=102 {I42} if E2              
+ 33S   L 5178      4  (5/2-,7/2-)                                               
+ 33S X L XREF=JLN                                                               
+ 33S  cL J$ L({+3}He,|a)=(3); L(p,d)=(3,4)                                      
+ 33S   L 5209.4    20(1/2:9/2-)         14 FS    LT                             
+ 33S X L XREF=EJ                                                                
+ 33S  cL J$ |g to 3/2+                                                          
+ 33S   G   5209    2 100                                                        
+ 33S  DG $5209      2 100                                        in E           
+ 33S   L 5273      4                                                            
+ 33S X L XREF=JL                                                                
+ 33S   L 5282.5    20(1/2:9/2-)         21 FS    8                              
+ 33S X L XREF=E                                                                 
+ 33S  cL J$ |g to 3/2+                                                          
+ 33S   G   5282    2 100                                                        
+ 33S  DG $5282      2 100                                        in E           
+ 33S   L 5286.28    5 (3/2,5/2)(+)                                              
+ 33S X L XREF=FHJLN                                                             
+ 33S  cL J$ gammas to 1/2+ and 3/2+; L({+3}He,|a)=(2)                           
+ 33S   G 2972.65   11 89     19                                                 
+ 33S  DG $2972.65   11 100    23                                 in H           
+ 33S   G 4445.02   7  100    19                                                 
+ 33S  DG $4445.02   7  100    15                                 in H           
+ 33S   L 5342      4 3/2+,5/2+                                                  
+ 33S X L XREF=JL                                                                
+ 33S  cL J$ L(p,d)=2                                                            
+ 33S   L 5351      6                                                            
+ 33S X L XREF=HJ                                                                
+ 33S   L 5395      2                                                            
+ 33S X L XREF=CFJLN                                                             
+ 33S   G 597       1                                                           ?
+ 33S  cG E$ from ({+18}O,X|g)                                                   
+ 33S   L 5479.79   13 1/2+                                                      
+ 33S X L XREF=DFHJLMN                                                           
+ 33S 2 L ISPIN=3/2                                                              
+ 33S  cL J$ L(pol d,t)=0 and L+1/2 from analyzing powers                        
+ 33S   G 1268.9                                                                 
+ 33S  cG E$ from (|a,|g) (resonance)                                            
+ 33S  DG $1268                                                   in D           
+ 33S   G 2544.9      21                                                         
+ 33S  DG $2529        21.4                                       in N           
+ 33S  cG E$ from ({+3}He,|a|g)                                                  
+ 33S   G 3512.4                                                                 
+ 33S  DG $3513                                                   in D           
+ 33S  cG E$ from (|a,|g) (resonance)                                            
+ 33S   G   4638.8  8 100     23                                                 
+ 33S  DG $4632.7    10 100                                       in F           
+ 33S  DG $4638.8    8 100     23                                 in H           
+ 33S  DG $4637        100                                        in N           
+ 33S   G   5479.7  8 18      6                                                  
+ 33S  DG $5479                                                   in D           
+ 33S  DG $5475.0    16 17.6                                      in F           
+ 33S  DG $5479.7    8 18      6                                  in H           
+ 33S  DG $5479        21.4                                       in N           
+ 33S   L 5597      6 (1/2+)                                                     
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=(0)                                                          
+ 33S   L 5612.83    4 (1/2+)                                                    
+ 33S X L XREF=FHJL                                                              
+ 33S  cL E$ 5617 {I4} in (p,d)                                                  
+ 33S  cL J$ L(d,p)=(0)=L(p,d)=0                                                 
+ 33S   G 1677.96   10 62     9                                                  
+ 33S  DG $1677.96   10 62     9                                  in H           
+ 33S   G 4771.14   7  100    15                                                 
+ 33S  DG $4771.14   7  100    15                                 in H           
+ 33S F G FL=840.982                                                             
+ 33S   G 5611.88   27 19     3                                                  
+ 33S  DG $5611.88   27 19     3                                  in H           
+ 33S   L 5621.07   7 1/2+                                                       
+ 33S X L XREF=HJNL                                                              
+ 33S  cL E$ 5617 {I4} in (p,d)                                                  
+ 33S  cL J$ L(d,p)=(0)=L(p,d)=L({+3}He,|a)=0                                    
+ 33S   L 5710.875  221/2-                                                       
+ 33S X L XREF=DGHJKLO                                                           
+ 33S  cL J$ L(d,p)=L({+6}Li,d)=1; |g|g(|q) in (n|g) (E=thermal)                 
+ 33S   G   97.90   4 0.14    2                                                  
+ 33S  DG $97.90     4 0.14    2                                  in H           
+ 33S   G   1500.15 13 0.31   6                                                  
+ 33S  DG $1500.15   13 0.31   6                                  in H           
+ 33S   G   2490.15 7  20.2   13                                                 
+ 33S  DG $2490.15   7  20.2   13                                 in H           
+ 33S  DG $2490                                                   in K           
+ 33S   G   3397.40 11 8.5    8                                                  
+ 33S  DG $3400        100     50                                 in G           
+ 33S  DG $3397.40   11 8.5    8                                  in H           
+ 33S  DG $3397                                                   in K           
+ 33S   G   4869.49 8 100                                                        
+ 33S  DG $4880                                                   in D           
+ 33S  DG $4870      30 60     20                                 in G           
+ 33S  DG $4869.49   8  12.7   4                                  in H           
+ 33S  DG $4870                                                   in K           
+ 33S   G 5710.36   4  1.5    2                                                  
+ 33S  DG $5720                                                   in D           
+ 33S  DG $5710.36   4  1.5    2                                  in H           
+ 33S   L 5719.4     81/2-,3/2-,5/2-                                             
+ 33S X L XREF=FLN                                                               
+ 33S  cL J$ L({+3}He,p)=1. L(p,d)=(4) is either in disagreement or corresponds  
+ 33S 2cL to a different level                                                   
+ 33S   L 5804      24 (5/2+)                                                    
+ 33S X L XREF=M                                                                 
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ in (pol d,t), L=2 and 1d{-5/2} neutron transfer assumed.            
+ 33S   L 5864      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 5883.4    10                                                           
+ 33S X L XREF=FG                                                                
+ 33S   G 5042.0      100                                                        
+ 33S  DG $5042        100                                        in G           
+ 33S   L 5888.45    33/2-                                                       
+ 33S X L XREF=GHJ                                                               
+ 33S  cL J$ L(d,p)=1; |g|g(|q) in (n|g) (E=thermal)                             
+ 33S   G   970.0   6 0.38    19                                                 
+ 33S  DG $970.0     6 0.38    19                                 in H           
+ 33S   G   1677.96 10 2.5    4                                                  
+ 33S  DG $1677.96   10 2.5    4                                  in H           
+ 33S F G FL=4210.848                                                            
+ 33S   G   1744.06 7 6.1     7                                                  
+ 33S  DG $1744.06   7 6.1     7                                  in H           
+ 33S   G   2667.59 4 23      3                                                  
+ 33S  DG $2667.59   4 23      3                                  in H           
+ 33S   G   3020.35 31 6.6    16                                                 
+ 33S  DG $3020.35   31 6.6    16                                 in H           
+ 33S   G   3921.08 7 4.0     6                                                  
+ 33S  DG $3921.08   7 4.0     6                                  in H           
+ 33S   G   5047.03 11 100    6                                                  
+ 33S  DG $5047.03   11 100    6                                  in H           
+ 33S   G   5887.98 11 24.1   25                                                 
+ 33S  DG $5887.98   11 24.1   25                                 in H           
+ 33S   L 5915      4 1/2+                                                       
+ 33S X L XREF=JFL                                                               
+ 33S  cL $ L(p,d)=0                                                             
+ 33S   L 5982      6 (1/2-,3/2-)                                                
+ 33S X L XREF=JN                                                                
+ 33S  cL J$ L({+3}He,|a)=(1)                                                    
+ 33S   L 5990.3    22                                                           
+ 33S X L XREF=CF                                                                
+ 33S   G 597       1                                                           ?
+ 33S  cG E$ from ({+18}O,X|g)                                                   
+ 33S   L 6063      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6079.6    10                                                           
+ 33S X L XREF=DF                                                                
+ 33S   G 6079.0                                                                 
+ 33S  cG E$ from ({+3}He,p|g)                                                   
+ 33S  DG $6091                                                   in F           
+ 33S   L 6101      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6131      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6236      6                                                            
+ 33S X L XREF=FJ                                                                
+ 33S   L 6263      6                                                            
+ 33S X L XREF=FJ                                                                
+ 33S   L 6310      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6326      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6363      4 5/2+                                                       
+ 33S X L XREF=FJLMN                                                             
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ L(pol d,t)=2 an L+1/2 from analyzing powers                         
+ 33S   L 6373.7    10(1/2:7/2)(+)                                               
+ 33S X L XREF=FJ                                                                
+ 33S  cL J$ L({+3}He,p)=(2)                                                     
+ 33S   G 6373.0                                                                 
+ 33S  cG E$ from ({+3}He,p|g)                                                   
+ 33S  DG $6380                                                   in F           
+ 33S   L 6416      6 (1/2-,3/2-)                                                
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=(1)                                                          
+ 33S   L 6424.97    41/2-,3/2-                                                  
+ 33S X L XREF=HJ                                                                
+ 33S  cL J$ L(d,p)=1                                                            
+ 33S   G   2214.00 8 29.5    37                                                 
+ 33S  DG $2214.00   8 29.5    37                                 in H           
+ 33S   G   2280.54 15 6.9    13                                                 
+ 33S  DG $2280.54   15 6.9    13                                 in H           
+ 33S   G   4457.72 21 2.2    3                                                  
+ 33S  DG $4457.72   21 0.035  5                                                 
+ 33S   G   5583.53 15 100    6                                                  
+ 33S  DG $5583.53   15 100    6                                  in H           
+ 33S   G   6424.34 5  7.5    11                                                 
+ 33S  DG $6424.34   5  7.5    11                                 in H           
+ 33S   L 6487      6 (1/2+)                                                     
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=(0)                                                          
+ 33S   L 6513      6                                                            
+ 33S X L XREF=FJ                                                                
+ 33S   L 6526      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6559      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6616      6 (1/2+)                                                     
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=(0)                                                          
+ 33S   L 6676.732  20 (1/2+,3/2)                                                
+ 33S X L XREF=FH                                                                
+ 33S  cL J$ gammas to 1/2+ and 5/2+; strong |g from 1/2+ capture state          
+ 33S   G 2465.84   14 24     5                                                  
+ 33S  DG $2465.84   14 24     5                                  in H           
+ 33S   G 2532.07   28 16     3                                                  
+ 33S  DG $2532.07   28 16     3                                  in H           
+ 33S   G 3455.84   6  61     10                                                 
+ 33S  DG $3455.84   6  61     10                                 in H           
+ 33S   G 3809.49   14 20     3                                                  
+ 33S  DG $3809.49   14 20     3                                  in H           
+ 33S F G FL=2867.626                                                            
+ 33S   G 4362.98   5  100    13                                                 
+ 33S  DG $4362.98   5  100    13                                 in H           
+ 33S   G 4708.66   9  31      5                                                 
+ 33S F G FL=1967.19                                                             
+ 33S  DG $4708.66   9  31      5                                 in H           
+ 33S   G 5835.21   5  50     6                                                  
+ 33S  DG $5835.21   5  50     6                                  in H           
+ 33S   G 6676.03   4  87     10                                                 
+ 33S  DG $6676.03   4  87     10                                 in H           
+ 33S   L 6688      6 5/2-,7/2-                                                  
+ 33S X L XREF=FJ                                                                
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 6710      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6720      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6788      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 6890.8    10                                                           
+ 33S X L XREF=HJ                                                                
+ 33S   G 6890.0      100                                                        
+ 33S  DG $6890        0.1                                        in H           
+ 33S   L 6904      4  3/2+                                                      
+ 33S X L XREF=FJLMN                                                             
+ 33S 2 L ISPIN=3/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L-1/2 from analyzing powers                        
+ 33S   L 6967      4  (1/2:7/2)+                                                
+ 33S X L XREF=FJLO                                                              
+ 33S  cL J$ L({+3}He,p)=2                                                       
+ 33S   L 6999      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7017      6                                                            
+ 33S X L XREF=HJ                                                                
+ 33S   L 7037      5                                                            
+ 33S X L XREF=FJL                                                               
+ 33S   L 7133      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7164      6 (1/2:7/2)(+)                                               
+ 33S X L XREF=FJ                                                                
+ 33S  cL J$ L({+3}He,p)=(2)                                                     
+ 33S   L 7183      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7187.732  213/2-                                                       
+ 33S X L XREF=HJL                                                               
+ 33S  cL J$ L(d,p)=1; |g|g(|q) in (n,|g) (E=thermal)                            
+ 33S   G   6346.12 20 5.5    10                                                 
+ 33S  DG $6346.12   20 5.5    10                                 in H           
+ 33S   G   7186.98 4  100    11                                                 
+ 33S  DG $7186.98   4  100    11                                 in H           
+ 33S   L 7254      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7330      6                                                            
+ 33S X L XREF=JO                                                                
+ 33S   L 7338      5  5/2+                                                      
+ 33S X L XREF=FJLM                                                              
+ 33S 2 L ISPIN=3/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S   L 7353      6 5/2-,7/2-                                                  
+ 33S X L XREF=JN                                                                
+ 33S  cL J$ L({+3}He,|a)=3                                                      
+ 33S   L 7359      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7369      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7401      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7415.879  21 1/2                                                       
+ 33S X L XREF=HJ                                                                
+ 33S  cL J$ |g|g(|q) in (n,|g) (E=thermal)                                      
+ 33S   G   6574.56 37 26     4                                                  
+ 33S  DG $6574.56   37 26     4                                  in H           
+ 33S   G   7415.13 19 100    11                                                 
+ 33S  DG $7415.13   19 100    11                                 in H           
+ 33S   L 7452       61/2-,3/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=1                                                            
+ 33S   L 7460       6                                                           
+ 33S X L XREF=FJN                                                               
+ 33S   L 7475       6                                                           
+ 33S X L XREF=J                                                                 
+ 33S   L 7488.23   16(1/2:9/2-)                                                 
+ 33S X L XREF=HJ                                                                
+ 33S  cL J$ |g to 3/2+                                                          
+ 33S   G   7487.6  9 100                                                        
+ 33S  DG $7487.6    9 100     23                                 in H           
+ 33S   L 7506.310  22 (1/2:7/2-)                                                
+ 33S X L XREF=HJ                                                                
+ 33S  cL J$ |g to 1/2+                                                          
+ 33S   G   6664.60 22 100    12                                                 
+ 33S  DG $6664.60   22 100    12                                 in H           
+ 33S   G   7505.24 36 63     9                                                  
+ 33S  DG $7505.24   36 63     9                                  in H           
+ 33S   L 7562      6                                                            
+ 33S X L XREF=JL                                                                
+ 33S   L 7615       6 5/2-,7/2-                                                 
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S  cL E$ this level may be the same as 7615.74 in (n,|g), but                
+ 33S 2cL the spins implied from L(d,p) and |g transitions are different         
+ 33S   L 7615.75    3 1/2,3/2,5/2+                                              
+ 33S X L XREF=H                                                                 
+ 33S  cL J$ weak primary |g from 1/2+ capture state                             
+ 33S   G   4749.09 22 58     9                                                  
+ 33S  DG $4749.09   22 58     9                                  in H           
+ 33S F G FL=2867.626                                                            
+ 33S   G 5301.71   46 32     5                                                  
+ 33S  DG $5301.71   46 32     5                                  in H           
+ 33S   G 5648.0      96      14                                                 
+ 33S  DG $5648.07   7 96      14                                 in H           
+ 33S   G 7614.62   8 100     16                                                 
+ 33S  DG $7614.62   8 100     16                                 in H           
+ 33S   L 7629      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7658      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7693      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7711      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7749      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7766      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7779      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7797      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7828      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7840      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7862      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7892      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7905      6 (1/2+,3/2+)                                                
+ 33S X L XREF=FJ                                                                
+ 33S  cL E$ probably doublet; L({+3}He,p)=0                                     
+ 33S   L 7919.8    10                                                           
+ 33S X L XREF=F                                                                 
+ 33S  cL E$ from ({+3}He,p)                                                     
+ 33S   G 7078.0                                                                 
+ 33S  cG E$ from ({+3}He,p|g)                                                   
+ 33S  DG $7078                                                   in F           
+ 33S   L 7983      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 7991      6                                                            
+ 33S X L XREF=J                                                                 
+ 33S   L 8014      6                                                            
+ 33S X L XREF=FJ                                                                
+ 33S   L 8107      10                                                           
+ 33S X L XREF=FO                                                                
+ 33S   L 8234      24 5/2+                                                      
+ 33S X L XREF=M                                                                 
+ 33S 2 L ISPIN=1/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S   L 8329.8     7                                                           
+ 33S X L XREF=DF                                                                
+ 33S   G 8328.7                                                                 
+ 33S  cG E$ from (|a,|g) (resonance)                                            
+ 33S  DG $  8334                                                 in D           
+ 33S   L 8368.09    3 (1/2:7/2-)                                                
+ 33S X L XREF=H                                                                 
+ 33S  cL J$ |g to 1/2+                                                          
+ 33S   G   7528.2  9 67      20                                                 
+ 33S  DG $7528.2    9 67      20                                 in H           
+ 33S   G   8366.8  6 100     20                                                 
+ 33S  DG $8366.8    6 100     20                                 in H           
+ 33S   L 8584      10 5/2-,7/2-                                                 
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 8641.646  14 1/2+                                                     S
+ 33S X L XREF=H                                                                 
+ 33S  cL J$ s-wave capture in 0+ g.s. of {+32}S                                 
+ 33S   G   273.559 24 0.12   2                                                  
+ 33S  DG $273.559   24 0.12   2                                  in H           
+ 33S   G  1025.874 31 0.27   3                                                  
+ 33S  DG $1025.874  31 0.27   3                                  in H           
+ 33S   G  1135.314 17 0.82   8                                                  
+ 33S  DG $1135.314  17 0.82   8                                  in H           
+ 33S   G   1153.40 16 0.07   2                                                  
+ 33S  DG $1153.40   16 0.07   2                                  in H           
+ 33S   G  1225.744 15 1.1    1                                                  
+ 33S  DG $1225.744  15 1.1    1                                  in H           
+ 33S   G  1453.900 19 0.93   8                                                  
+ 33S  DG $1453.900  19 0.93   8                                  in H           
+ 33S   G   1760    30 0.17                                                      
+ 33S F G FL=6890.8                                                              
+ 33S  DG $1760      30 0.17                                      in H           
+ 33S   G   1964.82 3  2.1    2                                                  
+ 33S  DG $1964.82   3  2.1    2                                  in H           
+ 33S   G   2216.66 6  3.3    4                                                  
+ 33S  DG $2216.66   6  3.3    4                                  in H           
+ 33S   G   2753.17 10 9.2    3                                                  
+ 33S  DG $2753.17   10 9.2    3                                  in H           
+ 33S   G   2930.59 3  28.0   7                                                  
+ 33S  DG $2930.59   3  28.0   7                                  in H           
+ 33S   G   3029.1  5  0.30   7                                                  
+ 33S  DG $3029.1    5  0.30   7                                  in H           
+ 33S   G   3161.70 13 0.25   5                                                  
+ 33S  DG $3161.70   13 0.25   5                                  in H           
+ 33S   G   3355.18 6  0.35   7                                                  
+ 33S  DG $3355.18   6  0.35   7                                  in H           
+ 33S   G   3723.61 7  4.5    3                                                  
+ 33S  DG $3723.61   7  4.5    3                                  in H           
+ 33S   G   4217.62 5  0.37   5                                                  
+ 33S  DG $4217.62   5  0.37   5                                  in H           
+ 33S   G   4430.60 15 8.2    3                                                  
+ 33S  DG $4430.60   15 8.2    3                                  in H           
+ 33S   G   4585.72 27 0.045  6                                                  
+ 33S  DG $4585.72   27 0.045  6                                  in H           
+ 33S   G   5420.52 3 100.0   13                                                 
+ 33S  DG $5420.52   3 100.0   13                                 in H           
+ 33S   G   5773.53 6 0.140   17                                                 
+ 33S  DG $5773.53   6 0.140   17                                 in H           
+ 33S   G   6327.74 5  0.21   3                                                  
+ 33S  DG $6327.74   5  0.21   3                                  in H           
+ 33S   G   6673.62 8  0.08   1                                                  
+ 33S  DG $6673.62   8  0.08   1                                  in H           
+ 33S   G   7799.59 3  4.85   23                                                 
+ 33S F G FL=840.982                                                             
+ 33S  DG $7799.59   3  4.85   23                                 in H           
+ 33S   G   8640.40 3  3.28   23                                                 
+ 33S  DG $8640.40   3  3.28   23                                 in H           
+ 33S   L 8644      10 3/2+,5/2+                                                 
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=2                                                            
+ 33S   L 8671.7     4 1/2-             64.7 EV   11                             
+ 33S X L XREF=GIJ                                                               
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=1                
+ 33S   G 2960.7       30     6                                                  
+ 33S F G FL=5710.875                                                            
+ 33S  DG $2960      30 30     6                                  in G           
+ 33S   G 3753.6       10     4                                                  
+ 33S F G FL=4917.87                                                             
+ 33S  DG $3750      30 10     4                                  in G           
+ 33S   G 4460.5       12     3  M1                                              
+ 33S  DG $4454         12     3 M1                               in G           
+ 33S  DG $BM1W=0.016 (1974Ke18)                                  in G           
+ 33S B G BM1W=0.016                                                             
+ 33S   G 5450.5       16      6  M1                                             
+ 33S  DG $5450      30 16      6 M1                              in G           
+ 33S  DG $BM1W=0.04 (1974Ke18)                                   in G           
+ 33S B G BM1W=0.04                                                              
+ 33S   G 5803.5       8      4                                                  
+ 33S  DG $5800      30 8      4                                  in G           
+ 33S   G 6357.6       20     4   E1                                             
+ 33S  DG $6360      30 20     4 E1                               in G           
+ 33S  DG $|G{-g}=50 meV (1967Be36)                               in G           
+ 33S  DG $BE1W=1E-4 (1974Ke18)                                   in G           
+ 33S B G BE1W=1E-4                                                              
+ 33S   G 6703.8       20      6                                                 
+ 33S  DG $6700      30 20      6                                 in G           
+ 33S  DG $|G{-g}=30 meV (1967Be36)                               in G           
+ 33S  DG $BE1W=1E-4 (1974Ke18)                                   in G           
+ 33S   G 7829.7       100    10 E1                                              
+ 33S  DG $7800      20 100    10E1                               in G           
+ 33S  DG $|G{-g}=300 meV (1967Be36)                              in G           
+ 33S  DG $BE1W=7E-4 (1974Ke18)                                   in G           
+ 33S B G BE1W=7E-4                                                              
+ 33S   G 8670.5      6       2  E1                                              
+ 33S  DG $8670        3       1 E1                               in G           
+ 33S  DG $|G{-g}=40 meV (1967Be36)                               in G           
+ 33S  DG $BE1W=6E-5 (1974Ke18)                                   in G           
+ 33S B G BE1W=6E-5                                                              
+ 33S   L 8684.1     4 (1/2,3/2,5/2-)                                            
+ 33S  cL $|G{-n}<(2.0 eV {I4})/(2J+1), |G{-|g}=0.076 eV {i5}                    
+ 33S X L XREF=GI                                                                
+ 33S  cL J$ |g to 1/2-                                                          
+ 33S   G 2973.1      13      3                                                  
+ 33S  DG $2972        13      3                                  in G           
+ 33S   G 4472.9      15      3                                                  
+ 33S  DG $4467        15      3                                  in G           
+ 33S   G 5462.9      100     7                                                  
+ 33S  DG $5458        100     7                                  in G           
+ 33S   G 6370.0      15      3                                                  
+ 33S  DG $6368        15      3                                  in G           
+ 33S   G 6716.2      8                                                          
+ 33S  DG $6715        8                                          in G           
+ 33S   G 7842.1      10      3                                                  
+ 33S  DG $7842        10      3                                  in G           
+ 33S   G 8682.9      13      2                                                  
+ 33S  DG $8683        13      2                                  in G           
+ 33S   L 8686.997  15 3/2+,5/2+                                                 
+ 33S  cL $|G{-n}<2/(2J+1) eV, |G{-|g}=0.050 eV {i5}                             
+ 33S X L XREF=IJ                                                                
+ 33S  cL J$ L(d,p)=2                                                            
+ 33S   L 8729      105/2-,7/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 8736.16   1  3/2-             117 EV    2                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 8741.21   2  1/2+             15.0 KEV  1                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 8746.3    5 1/2+              20 KEV    3                              
+ 33S X L XREF=GJ                                                                
+ 33S  cL J$ L(d,p)=0                                                            
+ 33S  cL T$ from (d,p)                                                          
+ 33S   G 3035.3                                                                 
+ 33S  DG $3035                                                   in G           
+ 33S   G 4535.1                                                                 
+ 33S  DG $4535                                                   in G           
+ 33S  DG $|G{-|g}=0.66 eV {I15} (1992Ki23)                       in G           
+ 33S   G 5525.1                                                                 
+ 33S  DG $5525                                                   in G           
+ 33S  DG $|G{-|g}=1.17 eV {I12} (1988Ki02), 1.36 eV {I15} (1992Ki23)            
+ 33S   G 7904.3                                                                 
+ 33S  DG $7905                                                   in G           
+ 33S  DG $|G{-|g}=0.87 eV {I13} (1988Ki02), 1.01 eV {I15} (1992Ki23)            
+ 33S   G 8745.1                                                                 
+ 33S  DG $8745                                                   in G           
+ 33S  DG $|G{-|g}=0.85 eV {I11} (1988Ki02), 0.99 eV {I15} (1992Ki23)            
+ 33S   L 8750.39   2  3/2-             558 EV    5                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 8754.4     6                                                           
+ 33S X L XREF=G                                                                 
+ 33S   G 3043.4       33     17                                                 
+ 33S  DG $3043         33     17                                 in G           
+ 33S   G   5530    20 100    13                                                 
+ 33S  DG $5530      20 100    13                                 in G           
+ 33S   G 7912.4       63     10                                                 
+ 33S  DG $7913         63     10                                 in G           
+ 33S   G 8753.2       70     7                                                  
+ 33S  DG $8753         70     7                                  in G           
+ 33S   L 8782.34   7                                                            
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}<6/(2J+1) eV, |G{-|g}=0.27 eV {i2}                              
+ 33S   L 8796.94   2  5/2+             4.3 EV    2                              
+ 33S X L XREF=IM                                                                
+ 33S 2 L ISPIN=3/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S   L 8809.06   7                                                            
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}<8/(2J+1) eV, |G{-|g}=0.89 eV {I5}                              
+ 33S   L 8838.89   4  1/2-             3.120 KEV 12                             
+ 33S X L XREF=IJ                                                                
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=1                
+ 33S   L 8848.2     4                                                           
+ 33S X L XREF=G                                                                 
+ 33S   G 4792.5                                                                 
+ 33S  DG $4795                                                   in G           
+ 33S   G 4913.1                                                                 
+ 33S  DG $4915                                                   in G           
+ 33S   G 5627.0                                                                 
+ 33S  DG $5625                                                   in G           
+ 33S  DG $|G{-|g}=0.08 eV {I4} (1992Ki03)                        in G           
+ 33S   G 6534.1                                                                 
+ 33S  DG $6535                                                   in G           
+ 33S   G 8006.2                                                                 
+ 33S  DG $8005                                                   in G           
+ 33S  DG $|G{-|g}=0.25 eV {I5} (1988Ki02), 0.35 eV {I4} (1992Ki03)              
+ 33S   G 8846.9                                                                 
+ 33S  DG $8845                                                   in G           
+ 33S  DG $|G{-|g}=0.64 eV {I22} (1988Ki02),0.22 eV {I4} (1992Ki03)              
+ 33S   L 8873      105/2-,7/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 8894.93   4  5/2+             4.6 EV    4                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 8905.69   4  1/2-             1.63 KEV  1                              
+ 33S X L XREF=IJ                                                                
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=1                
+ 33S   L 8921.47   5  3/2-             1.142 KEV 4                          B   
+ 33S X L XREF=IJ                                                                
+ 33S   L 8939      105/2-,7/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 8941.56   5  5/2+             8.7 EV    7                          B   
+ 33S X L XREF=JI                                                                
+ 33S   L 8944.43   5                                                            
+ 33S X L XREF=JI                                                                
+ 33S  cL $|G{-n}=(8 eV {I2})/(2J+1), |G{-|g}=2.13 eV {I17}                      
+ 33S   L 8953.14   5                                                            
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(11.2 eV {I24})/(2J+1), |G{-|g}=1.76 eV {I15}                  
+ 33S   L 8975      105/2-,7/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 8977.09   6  3/2-             22.7 EV   5                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 8984.39   6  5/2+             8.7 EV    3                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9007.10   6  1/2+             7.971 KEV 14                             
+ 33S X L XREF=IJ                                                                
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=0                
+ 33S   L 9009.8    12                                                           
+ 33S X L XREF=DI                                                                
+ 33S  cL $|G{-n}=(37.6 eV {I32})/(2J+1), |G{-|g}=0.91 eV {I12}                  
+ 33S   G 680.0                                                                  
+ 33S  DG $676                                                    in D           
+ 33S   L 9011.1     8                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}<22/(2J+1) eV, |G{-|g}=0.65 eV {I10}                            
+ 33S   L 9030.75   7 3/2+,5/2+                                                  
+ 33S X L XREF=JI                                                                
+ 33S  cL $|G{-n}<(27.2 eV {I20})/(2J+1), |G{-|g}=1.93 eV {I15}                  
+ 33S  cL J$ L(d,p)=2                                                            
+ 33S   L 9041.70   7  3/2-             75.0 EV   14                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9054.42   5                                                            
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}<24/(2J+1) eV, |G{-|g}=0.46 eV {I10}                            
+ 33S   L 9087.5900 8  3/2+             55.2 EV   13                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9090.59   8  5/2+             84 EV     1                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9115      10                                                           
+ 33S X L XREF=J                                                                 
+ 33S   L 9139.66   9 3/2+,5/2+                                                  
+ 33S X L XREF=JI                                                                
+ 33S  cL J$ L(d,p)=2                                                            
+ 33S  cL $|G{-n}<(53.2 eV {I38})/(2J+1), |G{-|g}=2.79 eV {I25}                  
+ 33S   L 9158.72   10                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(57.4 eV {I22})/(2J+1), |G{-|g}=2.48 eV {I25}                  
+ 33S   L 9175      10                                                           
+ 33S X L XREF=J                                                                 
+ 33S   L 9200.5    11                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(40.8 eV {I44})/(2J+1), |G{-|g}=1.72 eV {I25}                  
+ 33S   L 9210.24   11 3/2-             163 EV    6                              
+ 33S X L XREF=I                                                                 
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=1                   
+ 33S   L 9211.3    10 5/2+             1.286 KEV 6                              
+ 33S X L XREF=DJI                                                               
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=2                
+ 33S   G 5990.0                                                                 
+ 33S  DG $5975                                                   in D           
+ 33S   L 9245      105/2-,7/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 9268.07   13                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(37.0 eV {I92})/(2J+1), |G{-|g}=0.7 eV {I2}                    
+ 33S   L 9271.53   13 5/2+             504 EV    4                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9280      105/2-,7/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 9287.77   13 3/2+             32.0 EV   16                             
+ 33S X L XREF=I                                                                 
+ 33S  cL J$ Breit-Wigner analysis in (n,|g) (resonance)                         
+ 33S   L 9296.89   14 3/2+             416 EV    8                              
+ 33S X L XREF=I                                                                 
+ 33S  cL J$ Breit-Wigner analysis in (n,|g) (resonance)                         
+ 33S   L 9308.40   10                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}<44/(2J+1) eV, |G{-|g}=0.86 eV {I25}                            
+ 33S   L 9316.43   14 1/2+             11.28 KEV 9                              
+ 33S X L XREF=JI                                                                
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=0                
+ 33S   L 9345.4     8 1/2-             3.78 KEV  5                          B   
+ 33S X L XREF=DI                                                                
+ 33S   G 9344.0                                                                 
+ 33S  DG $9345                                                   in D           
+ 33S   L 9346      3 5/2-,7/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=3                                                            
+ 33S   L 9357.9     7                                                           
+ 33S X L XREF=DI                                                                
+ 33S  cL $|G{-n}<48/(2J+1) eV, |G{-|g}=0.4 eV {I2}                              
+ 33S   G 1028.1                                                                 
+ 33S  DG $1028                                                   in D           
+ 33S   G 9356.5                                                                 
+ 33S  DG $9352                                                   in D           
+ 33S   L 9360.54   16 3/2-             1.257 KEV 16                             
+ 33S X L XREF=IJ                                                                
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance)                             
+ 33S   L 9394.68   17 5/2-,7/2-                                                 
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(342 eV {I72})/(2J+1), |G{-|g}=1.5 eV {I2}                     
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 9397.22   17 3/2-             1.48 KEV  3                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9402.03   17 3/2+             149 EV    12                             
+ 33S X L XREF=JI                                                                
+ 33S  cL J$ Breit-Wigner analysis in (n,|g) (resonance) and L(d,p)=2            
+ 33S   L 9409.37   17 3/2+             24 EV     2                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9435.93   18 5/2+             588 EV    5                              
+ 33S X L XREF=MJI                                                               
+ 33S 2 L ISPIN=3/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S   L 9450.45   15 5/2-,7/2-                                                 
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(486 eV {I18})/(2J+1), |G{-|g}=5.5 eV {I4}                     
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 9460      101/2-,3/2-                                                  
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=1                                                            
+ 33S   L 9481.62   19                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(102 eV {I8})/(2J+1), |G{-|g}=3.9 eV {I4}                      
+ 33S   L 9484.51   19                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(100 eV {I8})/(2J+1), |G{-|g}=3.4 eV {I5}                      
+ 33S   L 9499.81   20 (7/2)-                                                    
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(474 eV {I12})/(2J+1), |G{-|g}=17 eV {I1}                      
+ 33S   L 9515.91   20                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(248 eV {I12})/(2J+1), |G{-|g}=1.4 eV {I3}                     
+ 33S   L 9524.3    5                   4.9 KEV   4                              
+ 33S X L XREF=I                                                                 
+ 33S  cL T$ from 2000Ab40                                                       
+ 33S   L 9534.02   21 5/2+             715 EV    25                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9535.14   21 3/2-             3.011 KEV 55                             
+ 33S X L XREF=JI                                                                
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=1                
+ 33S   L 9560.53   22 5/2+             1.091 KEV 12                             
+ 33S X L XREF=JI                                                                
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) and L(d,p)=2                
+ 33S   L 9598.04   23 1/2-             6.95 KEV  18                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9605      5 1/2+              10 KEV    4                              
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=0                                                            
+ 33S  cL T$ total width from (d,p)                                              
+ 33S   L 9619.59   24 (3/2)-           1.60 KEV  6                              
+ 33S X L XREF=I                                                                 
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=1                   
+ 33S  cL $|G{-n}=(3216 eV {I116})/(2J+1), |G{-|g}=0.34 eV {I34}                 
+ 33S   L 9655.26   25 5/2-,7/2-                                                 
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(418 eV {I52})/(2J+1), |G{-|g}=4.9 eV {I6}                     
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 9657.10   25 1/2+             1.56 KEV  8                              
+ 33S X L XREF=I                                                                 
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance)                             
+ 33S   L 9659.23   25 1/2-             2.99 KEV  11                             
+ 33S X L XREF=I                                                                 
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=1                   
+ 33S   L 9664      5 1/2-,3/2-         11 KEV    4                              
+ 33S X L XREF=J                                                                 
+ 33S  cL J$ L(d,p)=1                                                            
+ 33S  cL T$ from (d,p)                                                          
+ 33S   L 9665.54   26 5/2+             1.558 KEV 10                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9671.16   30                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}<74/(2J+1) eV, |G{-|g}=2.6 eV {I10}                             
+ 33S   L 9674.94   26 1/2+             279 EV    21                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9676.97   26                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(62 eV {I40})/(2J+1)                                           
+ 33S   L 9693.65   27 5/2-,7/2-                                                 
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(604 eV {I54})/(2J+1), |G{-|g}=4 eV {I1}                       
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 9696.36   27                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(132 eV {I56})/(2J+1)                                          
+ 33S   L 9700.63   27 3/2-             439 EV    14                         B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9715.46   27                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(64 eV {I28})/(2J+1)                                           
+ 33S   L 9722.93   28 3/2-             810 EV    30                             
+ 33S X L XREF=I                                                                 
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance)                             
+ 33S   L 9747.45   28 1/2-             1.54 KEV  7                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9757.34   293/2+,5/2+                                                  
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(318 eV {I44})/(2J+1)                                          
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=2                   
+ 33S   L 9767.52   29 1/2+             1.23 KEV  11                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9771.78   29 3/2+             0.43 KEV  4                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9780.22   305/2-,7/2-                                                  
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(741 eV {I52})/(2J+1)                                          
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 9808.82   30 3/2-             342 EV    12                         B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9823.36   31 3/2+             1.278 KEV 25                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9845.65   32 (7/2-)                                                    
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(21.8 keV {I5})/(2J+1)                                         
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 9847.59   32 (3/2-)                                                    
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(4.81 keV {I38})/(2J+1)                                        
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=1                   
+ 33S   L 9858.93   33 (5/2-)                                                    
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(2.75 keV {I11})/(2J+1)                                        
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 9878.42   33 3/2-             3.17 KEV  9                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9892.19   34 1/2+             11.0 KEV  7                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9909.05   35 3/2+             197 EV    25                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9925.82   35 5/2+             0.37 KEV  3                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9940.85   36 5/2+             1.59 KEV  3                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9952.48   36                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(345 eV {I94})/(2J+1)                                          
+ 33S   L 9960.72   37 7/2-             1.27 KEV  3                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9977.98   37 5/2+             0.11 KEV  4                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9984.28   38 3/2-             2.76 KEV  4                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 9997.08   38 1/2-             0.68 KEV  6                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 9999.89   38 5/2+             372 EV    17                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 10017.63  39 1/2+             0.87 KEV  13                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 10024.12  39 3/2-             3.06 KEV  6                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 10052.4    51/2+                                                       
+ 33S X L XREF=D                                                                 
+ 33S  cL J$ |g(|q) in (|a,n|g)                                                  
+ 33S   G 694.5                                                                  
+ 33S  DG $699                                                    in D           
+ 33S   G   707.0                                                                
+ 33S F G FL=9345.4                                                              
+ 33S  DG $706                                                    in D           
+ 33S   G 1042.6                                                                 
+ 33S 2 G FL=9009.8                                                              
+ 33S  DG $1041                                                   in D           
+ 33S   G 1722.6                                                                 
+ 33S  DG $1717                                                   in D           
+ 33S   G 4572.3                                                                 
+ 33S  DG $4572                                                   in D           
+ 33S   G 6003.3                                                                 
+ 33S  DG $6002                                                   in D           
+ 33S   G 8084.1                                                                 
+ 33S  DG $8085                                                   in D           
+ 33S   G 10050.8                                                                
+ 33S  DG $10051                                                  in D           
+ 33S   L 10053.21  40 5/2-,7/2-                                                 
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(1.513 keV {I66})/(2J+1)                                       
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 10070.66  41                                                           
+ 33S X L XREF=I                                                                 
+ 33S   L 10076.34  41 (5/2)                                                     
+ 33S X L XREF=DI                                                                
+ 33S  cL J$ from the analysis of the resonance data in (|a,n), combined for     
+ 33S 2cL 10076.4 and 10083.5 level                                              
+ 33S   L 10083.45  42 (5/2)                                                     
+ 33S X L XREF=DI                                                                
+ 33S  cL J$ from the analysis of the resonance data in (|a,n), combined for     
+ 33S 2cL 10076.4 and 10083.5 level                                              
+ 33S   L 10120.87  43 3/2+             4.07 KEV  9                          B   
+ 33S X L XREF=I                                                                 
+ 33S   L 10129.21  44                                                           
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(1.055 keV {I146})/(2J+1)                                      
+ 33S   L 10132.41  44 5/2              1.24 KEV  4                          A   
+ 33S X L XREF=DI                                                                
+ 33S   L 10142                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10157.71  45 5/2-,7/2-                                                 
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G{-n}=(1.205 keV {I194})/(2J+1)                                      
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=3                   
+ 33S   L 10164.69  45 (5/2+)                                                    
+ 33S X L XREF=DI                                                                
+ 33S  cL $|G{-n}=(5.80 keV {I26})/(2J+1)                                        
+ 33S  cL J$ R-matrix analysis in (n,|g) (resonance) where L=2                   
+ 33S   L 10180.39  46 3/2              4.6 KEV   4                          A   
+ 33S X L XREF=DI                                                                
+ 33S   L 10198.13  47 1/2+             0.60 KEV  25                         B   
+ 33S X L XREF=I                                                                 
+ 33S   L 10217.13  47 5/2+             7.4 KEV   3                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 10250.29  49 1/2+             2.8 KEV   3                          B   
+ 33S X L XREF=DI                                                                
+ 33S   L 10309     11 7/2+                                                  A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10333                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10342     10 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10355     30 5/2+                                                      
+ 33S X L XREF=DM                                                                
+ 33S 2 L ISPIN=3/2                                                              
+ 33S  cL J$ L(pol d,t)=2 and L+1/2 from analyzing powers                        
+ 33S   L 10378                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10389                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10405                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10413     10 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10422     10 (1/2-,5/2-)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10441.8    5 3/2(+)                                                    
+ 33S X L XREF=D                                                                 
+ 33S  cL J$ |g(|q) in (|a,n|g)                                                  
+ 33S   G 1432.0                                                                 
+ 33S 2 G FL=9009.8                                                              
+ 33S  DG $1431                                                   in D           
+ 33S   G 4730.6                                                                 
+ 33S  DG $4727                                                   in D           
+ 33S   G 6017.5                                                                 
+ 33S  DG $6016                                                   in D           
+ 33S   G 7471.7                                                                 
+ 33S  DG $7467                                                   in D           
+ 33S   G 8473.4                 D+Q      +0.255                                 
+ 33S  DG $8475                  M1+E2     +0.255                 in D           
+ 33S   G 10440.0                                                                
+ 33S  DG $10441                                                  in D           
+ 33S   L 10457     12 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10491.5    4 (3/2,5/2-)                                                
+ 33S X L XREF=D                                                                 
+ 33S  cL J$ 3/2 from the analysis of the resonance data in (|a,n),              
+ 33S 2cL 5/2- from |g(|q) in (|a,n|g)                                           
+ 33S   G 1291.0                                                                 
+ 33S  DG $1291                                                   in D           
+ 33S   G 6280.0                 D+Q      +0.211                                 
+ 33S  DG $6281                  M1+E2     +0.211                 in D           
+ 33S   G 7269.9                 D+Q      +0.126                                 
+ 33S  DG $7266                  M1+E2     +0.126                 in D           
+ 33S   G 7622.9                                                                 
+ 33S  DG $7621                                                   in D           
+ 33S   G 8177.0                                                                 
+ 33S  DG $8175                                                   in D           
+ 33S   G 8523.1                                                                 
+ 33S  DG $8525                                                   in D           
+ 33S   G 10489.7                                                                
+ 33S  DG $10491                                                  in D           
+ 33S   L 10504     10 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10518     10 (1/2,5/2)+                                            A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10536                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10579        (1/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10590                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10600                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10614     10 7/2-                                                  A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10641     10 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10653                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10665                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10679     15 (3/2)                                                 A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10689     10 (1/2+,5/2-)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10699                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10706.2    4 (1/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   G 4986.4                                                                 
+ 33S  DG $4986                                                   in D           
+ 33S   G 6281.8                                                                 
+ 33S  DG $6281                                                   in D           
+ 33S   G 6494.7                                                                 
+ 33S  DG $6495                                                   in D           
+ 33S   G 7770.5                                                                 
+ 33S  DG $7769                                                   in D           
+ 33S   G 8391.7                                                                 
+ 33S  DG $8390                                                   in D           
+ 33S   G 8737.8                                                                 
+ 33S  DG $8740                                                   in D           
+ 33S   G 10704.3                                                                
+ 33S  DG $10706                                                  in D           
+ 33S   L 10723                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10746     10 1/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10761.4    5 5/2(-)                                                    
+ 33S X L XREF=D                                                                 
+ 33S  cL J$ |g(|q) in (|a,g)                                                    
+ 33S   G 5041.6                                                                 
+ 33S  DG $5042                                                   in D           
+ 33S   G 5843.0                                                                 
+ 33S  DG $5842                                                   in D           
+ 33S   G 6549.9                                                                 
+ 33S  DG $6551                                                   in D           
+ 33S   G 6825.9                                                                 
+ 33S  DG $6827                                                   in D           
+ 33S   G 7825.7                                                                 
+ 33S  DG $7825                                                   in D           
+ 33S   G 8446.8                D+Q       +0.206                                 
+ 33S  DG $8446                  M1+E2     +0.206                 in D           
+ 33S  DG $M1+E2 in 1978Ok02,but should be E1+M2 based on the J|p                
+ 33S   L 10779.3    5 3/2(+)                                                    
+ 33S X L XREF=D                                                                 
+ 33S  cL J$ |g(|q) in (|a,n|g)                                                  
+ 33S   G 6946.9                                                                 
+ 33S  DG $6941                                                   in D           
+ 33S   G 7910.7                 D+Q      +0.114                                 
+ 33S  DG $7909                  M1+E2     +0.114                                
+ 33S   G 8810.8                                                                 
+ 33S  DG $8812                                                   in D           
+ 33S   G 9936.7                 D+Q      +0.195                                 
+ 33S  DG $9938                  M1+E2     +0.195                 in D           
+ 33S   L 10801                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10822                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10832                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10842     10 (1/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10864                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10879                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10891     10 5/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10913     10 (1/2-,5/2+)      21.1 KEV  12                         A   
+ 33S X L XREF=DI                                                                
+ 33S  cL $|G from 2000Ab40                                                      
+ 33S   L 10938     15 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10952     10 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10960                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 10979     10 7/2-                                                  A   
+ 33S X L XREF=D                                                                 
+ 33S   L 10986     18 (3/2,5/2)                                                 
+ 33S X L XREF=D                                                                 
+ 33S  cL J$ from the comparison of the theoretical angular distribution         
+ 33S 2cL with the experimental data in (|a,n|g)                                 
+ 33S   L 11001     10 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11014     10 (1/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11026                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 11045                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 11064     10 (5/2+,9/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11084     10 (3/2+,9/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11100                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 11114                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 11115     10 (1/2+,3/2-)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11150     10 (7/2-,9/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11159     10 (1/2-,9/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11173     20 3/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11185     10 3/2-                                                  A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11212                                                              A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11224     10 (1/2-,3/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11250                                                              A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11264     10 1/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11282     10 (1/2+,7/2-)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11295                                                                  
+ 33S X L XREF=D                                                                 
+ 33S   L 11308     10 (5/2+,9/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11369     10 (3/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11378     10 (1/2+,7/2-)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11400     10 (1/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11435     10 5/2                                                   A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11479     10 (3/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11593     10 (1/2-,7/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11619     10 (1/2+,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11663     10 (5/2+,7/2-)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11712     10 5/2+                                                  A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11756     10 (1/2-,3/2+)      9.9 KEV   7                          A   
+ 33S X L XREF=DI                                                                
+ 33S  cL $|G from 2000Ab40                                                      
+ 33S   L 11799     10 (3/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11826     10 (3/2+,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11865     10 (1/2+,9/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 11940     10 (1/2-,5/2+)                                           A   
+ 33S X L XREF=D                                                                 
+ 33S   L 12760                         25.5 KEV  15                             
+ 33S X L XREF=I                                                                 
+ 33S  cL $ |G from 2000Ab40                                                     
+ 33S   L 14410                         25.7 KEV  20                             
+ 33S X L XREF=I                                                                 
+ 33S  cL $ |G from 2000Ab40                                                     
+ 33S   L 17360                         58 KEV    13                             
+ 33S X L XREF=I                                                                 
+ 33S  cL $|G from 2000Ab40                                                      
+

@@ -1,0 +1,588 @@
+ 31S     ADOPTED LEVELS, GAMMAS                                  13NDS    201303
+ 31S   H TYP=FUL$AUT=CHRISTIAN OUELLET AND BALRAJ SINGH$CIT=NDS 114, 209 (2013)$
+ 31S 2 H CUT=15-Feb-2013$                                                       
+ 31S   Q -11985.8  33 13054.8 4 6130.9 4 -9083.0527    2012WA38                 
+ 31S  cQ Q-$From mass excess for {+31}Cl=-7056.8 {I33} deduced from             
+ 31S 2cQ identification of IAS in {+31}S at 6280.2 keV {I3} and IMME            
+ 31S 3cQ (2011SaZM). 2012Wa38 give 11980 {I50}                                  
+ 31S  cQ $S(2n)=32030 {I50}, S(2p)=11725.39 {I23} (2012Wa38)                    
+ 31S  t     -------------------------------------                               
+ 31S  t        Isospin T=3/2 (quadruplet) states                                
+ 31S  t         {+31}Si         {+31}S         |DE(2)                           
+ 31S  t        0,3/2+     6281,3/2+                                             
+ 31S  t      752,1/2+     6975,1/2+     -58                                     
+ 31S  t     1695,5/2+                                                           
+ 31S  t     2317,3/2+                                                           
+ 31S  t     2788,(5/2+)                                                         
+ 31S  t     3133,7/2+                                                           
+ 31S  t     3532,3/2-                                                           
+ 31S  t                                                                         
+ 31S  t     |DE(2)=E({+31}S)-E({+31}P)-6281                                     
+ 31S  t     --------------------------------------                              
+ 31S  t     --------------------------------------                              
+ 31S  t               Mirror States (T=1/2)                                     
+ 31S  t         {+31}P           {+31}S              |DE                        
+ 31S  t       0,1/2+          0,1/2+                                            
+ 31S  t    1266,3/2+       1249,3/2+         -17                                
+ 31S  t    2233,5/2+       2235,5/2+         +2                                 
+ 31S  t    3134,1/2+       3079,1/2+         -55                                
+ 31S  t    3295,5/2+       3285,(5/2)+       -10                                
+ 31S  t    3414,7/2+       3351,(7/2)+       -63                                
+ 31S  t    3507,3/2+       3436,3/2+         -71                                
+ 31S  t    4190,5/2+       4080,3/2+,5/2+    -110                               
+ 31S  t    4260,3/2+       4209,(1/2:5/2)+   -51                                
+ 31S  t    4431,7/2-       4451,(7/2)-       +20                                
+ 31S  t    4592,3/2+       4521, 3/2+        -71                                
+ 31S  t    4634,7/2+       4584,(7/2)+       -50                                
+ 31S  t    4780,5/2+       4720,(1/2:5/2)+   -60                                
+ 31S  t    5015,(1/2,3/2)- 4971,3/2-,5/2-    -44                                
+ 31S  t    5256,1/2+       5158,1/2+         -98                                
+ 31S  t    5342,9/2+       5301,(9/2+)       -41                                
+ 31S  t    5530,(5/2,7/2)+ 5510,3/2+,5/2+    -20                                
+ 31S  t                                                                         
+ 31S  t     |DE=E({+31}S)-E({+31}P)                                             
+ 31S  t    For other possible mirror states see discussion in                   
+ 31S 2t    2012Do07 and 2009Wr02                                                
+ 31S  t     ---------------------------------------------                       
+ 31S  c  Mass measurement by Penning trap method: 2010Ka30,                     
+ 31S 2c  mass excess=-19042.55 keV {I24}, Q value for |e decay=5397.99 {I24}    
+ 31S  c  2012Zh06: {+9}Be({+40}Ar,X) E=57 MeV/nucleon, measured fragment yield, 
+ 31S 2c  momentum distributions at HIRFL facility; deduced target dependence    
+ 31S 3c  on production cross section                                            
+ 31S  cG E,RI$Primarily from {+31}Cl |e decay, ({+20}Ne,n|g) and (|a,n|g).      
+ 31S 2cG Weighted averages taken of available data, unless otherwise stated     
+ 31S  cG E(A),RI(A)$From {+31}Cl |e decay                                       
+ 31S  cG E(B)$From {+28}Si(|a,n|g)                                              
+ 31S  cG E(Z),RI(Z)$Estimated values from ({+3}He,|a|g)                         
+ 31S  cL E$From least-squares fit to E|g for levels populated in                
+ 31S 2cL |g-ray studies, others are weighted averages of available values.      
+ 31S 3cL In |g-ray fitting following E|g were left out due to their fits:       
+ 31S 4cL 846|g from 3077 level, 1091|g from 6393 level, and 2049|g from         
+ 31S 5cL 6636 level. Their inclusion results in reduced |h{+2}=3.9, larger      
+ 31S 6cL critical |h{+2}=1.9                                                    
+ 31S  cL J$For levels populated in ({+20}Ne,n|g) and ({+16}O,n2|a|g), ascending 
+ 31S 2cL spins are assumed as the excitation energy rises. The yrast            
+ 31S 3cL sequences of positive and negative parities are also assumed           
+ 31S 4cL in spin assignments. In particle-transfer reactions,                   
+ 31S 5cL target J|p=0+ for ({+3}He,|a), (d,t) and (p,d) reactions;              
+ 31S 6cL 1/2+ for ({+3}He,n); 3/2+ for (p,t)                                    
+ 31S  cL E(X)$Member of yrast |p=+ sequence                                     
+ 31S  cL E(Y)$Member of yrast |p=- sequence                                     
+ 31S   XA31CL EC DECAY (190 MS)                                                 
+ 31S   XB32AR ECP DECAY (98 MS)                                                 
+ 31S   XR9BE(32S,31SG)                                                          
+ 31S   XC12C(20NE,NG),16O(16O,NG)                                               
+ 31S   XD24MG(16O,N2AG)                                                         
+ 31S   XE28SI(A,N)                                                              
+ 31S   XT28SI(A,NG)                                                             
+ 31S   XF28SI(6LI,T)                                                            
+ 31S   XG28SI(12C,9BE)                                                          
+ 31S   XH29SI(3HE,N),(3HE,NG)                                                   
+ 31S   XI30SI(POL P,PI-)                                                        
+ 31S   XJ31P(P,N)                                                               
+ 31S   XK31P(3HE,T) E=20 MEV                                                    
+ 31S   XU31P(3HE,T) E=25 MEV                                                    
+ 31S   XO32S(G,NG)                                                              
+ 31S   XP32S(P,D),(POL P,D)                                                     
+ 31S   XN32S(D,T)                                                               
+ 31S   XL32S(3HE,A),(POL 3HE,A)                                                 
+ 31S   XM32S(3HE,AG)                                                            
+ 31S   XQ33S(P,T)                                                               
+ 31S  PN                                                                     6  
+ 31S   L 0.0          1/2+             2.5534 S  18                         X   
+ 31S X L XREF=ABCDEFGHIJKLMNOPQRT                                               
+ 31S 2 L %EC+%B+=100$                                                           
+ 31S 2 L MOMM1=0.48793 8 (1976Mi16,1989Ra17,2011StZZ)                           
+ 31S  cL J$From L-transfer and Ay(|q) in {+32}S(pol p,d) and                    
+ 31S 2cL {+32}S(pol {+3}He,|a)                                                  
+ 31S  cL T$from 2012Ba54, |b detection of a pure source separated using         
+ 31S 2cL Penning-trap. Others: 2.60 s 3 (1991Mi18), 2.562 s {I7} (1980Wi13),    
+ 31S 3cL 2.543 s {I8} (1977Az01), 2.605 s {I12} (1974Al03), 2.56 s {I10}        
+ 31S 4cL (1963Ne05), 2.61 s {I5} (1960Li05), 2.58 s {I6} (1960Wa04), 1963Va37,  
+ 31S 5cL 2.72 s {I2} (1958Mi85), 2.40 s {I7} (1954Hu30,conference abstract),    
+ 31S 6cL 2.66 s {I3} (1952Ha30), 3.2 s {I3} (1951Bo56), 2.6 s {I2} (1949Mc17),  
+ 31S 7cL 3.18 s {I4} (1941El03), 3.2 s {I2} (1941Wh02). Weighted average (NRM   
+ 31S 8cL method) of 2012Ba54, 1991Mi18, 1980Wi13, 1977Az01, 1974Al03, 1963Ne05, 
+ 31S 9cL 1960Li05, 1960Wa04 values is 2.5540 s 23. Evaluators prefer to adopt   
+ 31S AcL value from 2012Ba54 due to super-pure source by Penning-trap method    
+ 31S  cL MOMM1$ |b{+-} NMR method (1976Mi16). Also 1980HuZX thesis on |b{+-}    
+ 31S 2cL measurement.                                                           
+ 31S   L 1248.87    9 3/2+             0.50 PS   12                         X   
+ 31S X L XREF=ABCDE(1090)FJHLMNOPQRT                                            
+ 31S  cL J$|DJ=1, M1+E2 |g to 1/2+; L(p,t)=0(+2)                                
+ 31S  cL T$ from DSAM in {+32}S({+3}He,|a|g) (1971En02).                        
+ 31S 2cL Other: 0.8 ps {I5} (stat) {I+9-6} (syst), and 2.2 ps {I33} (stat) {I36}
+ 31S 3cL (syst) (2010Do03) from lineshape analysis in ({+37}Ca,X|g); first from 
+ 31S 4cL cluster HPGe detectors, second from Miniball HPGe detectors, both      
+ 31S 5cL of RISING |g spectrometer                                              
+ 31S   G 1248.86   10 100       M1+E2     +0.35  2                              
+ 31S  cG E$ weighted average of all available values, except 1247.6 {I3} from   
+ 31S 2cG 2011SaZM in {+31}Cl decay. Inclusion of this value gives a weighted    
+ 31S 3cG average of 1248.77 {I16}, but with reduced |h{+2}=3.5                  
+ 31S B G BM1W=0.020 6$BE2W=7.0 20                                               
+ 31S  cG M,MR$From |a|g(|q) in {+32}S({+3}He,|a|g)                              
+ 31S   L 2234.29   14 5/2+             222 FS    55                         X   
+ 31S X L XREF=ACDEFHIJLMNOPQRT                                                  
+ 31S  cL J$|DJ=2, E2 |g to 1/2+; L(p,t)=2+4                                     
+ 31S  cL T$ from DSAM in {+32}S({+3}He,|a|g)                                    
+ 31S   G 985.5     3  0.3    1                                              A   
+ 31S   G 2234.2    2  100    1  E2                                          A   
+ 31S B G BE2W=7.8 22$                                                           
+ 31S  cG M,MR$|a|g(|q) in {+32}S({+3}He,|a|g) gives |d(M3/E2)=-0.05 {I4} but    
+ 31S 2cG RUL=10 for B(M3)(W.u.) suggests |d very near zero                      
+ 31S   L 3077.26   20 1/2+                                                      
+ 31S X L XREF=AEHI(3190)JLMOPQ                                                  
+ 31S  cL J$L({+3}He,|a)=0. Also L({+3}He,n)=0 and L(p,t)=2                      
+ 31S   G 846.0     3  49     3                                              A   
+ 31S F G FL=2234.29                                                             
+ 31S  cG E,RI$ poor energy fit, level-energy difference=842.9.                  
+ 31S 2cG Branching ratio in {+31}Cl |e decay is in disagreement with            
+ 31S 3cG |<9.4 from ({+3}He,|a|g). It is possible that 846.0|g in {+31}Cl decay 
+ 31S 4cG is mixed with some impurity                                            
+ 31S   G 1830      10 15     LE                                             Z  ?
+ 31S   G 3077.1    2  100    6                                              A   
+ 31S   L 3284.67   16   (5/2)+                                                  
+ 31S X L XREF=ACDFHLMNPQT                                                       
+ 31S  cL J$L({+3}He,|a)=L(d,t)=L(p,t)=2; |DJ=(0), D+Q |g to 5/2+                
+ 31S   G 210       10 22     LE                                             Z  ?
+ 31S   G 1049.8    4  32.6   33 D+Q                                             
+ 31S  cG E,RI$ unweighted average from {+31}Cl decay and ({+20}Ne,n|g)          
+ 31S  cG M$DCO in ({+20}Ne,n|g); |DJ=0, D+Q transition                          
+ 31S   G 2035.6    3  100    4  M1+E2                                           
+ 31S  cG MR$+0.21 {I11} or +1.9 {I2} for J(3284)=5/2; +1.3 {I6} for J(3284)=3/2 
+ 31S 2cG (1970Mo08)                                                             
+ 31S   G 3284.6    3  23.7   18                                                 
+ 31S   L 3351.30   19 (7/2)+                                                X   
+ 31S X L XREF=CDFHJLMOQT                                                        
+ 31S  cL J$3/2,7/2 from |a|g(|q) in ({+3}He,|a|g); 1/2 to 7/2 with |p=+         
+ 31S 2cL from L(p,t)=2 and L({+3}He,n)=(2); |DJ=1 |g from (9/2-) in (|a,n|g).   
+ 31S   G 270       10 8      LE [M3]                                        Z  ?
+ 31S   G 1110      10 27     LE                                             Z  ?
+ 31S   G 2102.4    2  100                                                       
+ 31S   G 3351      6  8      LE [M3]                                           ?
+ 31S  cG $E|g from (|g,n|g), I|g from ({+3}He,|a|g).                            
+ 31S  cG $|d(E4/M3)=-0.5 {I5} or -2 {I3} for J(3351)=7/2; |d(E2/M1)=+0.8 {I6}   
+ 31S xcG for 3/2                                                                
+ 31S   L 3435.7     3  3/2+                                                     
+ 31S X L XREF=AFHJLMQ                                                           
+ 31S  cL J$L({+3}He,|a)=2; L(p,t)=0+2                                           
+ 31S   G 360       10  4     LE                                             Z  ?
+ 31S   G 1200      10                                                           
+ 31S  cG E$from ({+3}He,|a|g)                                                   
+ 31S   G 2186.6    3  62     12                                             A   
+ 31S  cG ${+32}S({+3}He,|a|g) only resolved the summed branching of the 2190 and
+ 31S 2cG 1200 |g-rays which is 100 {I4}                                         
+ 31S   G 3436.1    7  100    12 M1+E2    -0.6    2                          A   
+ 31S  cG M,MR$From |a|g(|q) in {+32}S({+3}He,|a|g)                              
+ 31S   L 4080      10 3/2+,5/2+                                                 
+ 31S X L XREF=FHLNPQ                                                            
+ 31S  cL J$L({+3}He,n)=L({+3}He,|a)=L(d,t)=2; L(p,t)=2+4; 5/2 favored by        
+ 31S 2cL possible mirror state of 4190, 5/2+ in {+31}P                          
+ 31S   L 4209.15   18 (1/2,3/2,5/2)+                                            
+ 31S X L XREF=AHLQ                                                              
+ 31S  cL J$L(p,t)=2; |g to 1/2+; 3/2 favored by possible mirror state of        
+ 31S 2cL 4260, 3/2+ in {+31}P                                                   
+ 31S   G 2960.1     2 62     5                                              A   
+ 31S   G 4208.9     3  100   5                                              A   
+ 31S   L 4450.65   25 (7/2)-            0.71 PS  15                         Y   
+ 31S X L XREF=CDFHLPT                                                           
+ 31S  cL J$L({+3}He,|a)=L(p,d)=3; |DJ=1 |g to (5/2)+; probable mirror state of  
+ 31S 2cL 4431, 7/2- in {+31}P (2008Pa27)                                        
+ 31S  cL T$from DSAM lineshape (2008Pa27) in {+16}O({+16}O,n|g) at 29 MeV using 
+ 31S 2cL Gammasphere array of 100 HPGe detectors.                               
+ 31S   G 1166.2    3  100    4  (E1)                                            
+ 31S  cG M$DCO in ({+20}Ne,n|g) and |DJ|p                                       
+ 31S B G BE1W=0.00060 14                                                        
+ 31S   G 2215                   [E1]                                           ?
+ 31S   L 4520.5    3   3/2+                                                     
+ 31S X L XREF=AHLQ                                                              
+ 31S  cL J$L(p,t)=0; L({+3}He,|a)=2                                             
+ 31S   G 4520.1     3  100                                                  A   
+ 31S   L 4583.98   24 (7/2)+                                                    
+ 31S X L XREF=CDFHLQ                                                            
+ 31S  cL J$L(p,t)=2; L({+3}He,|a)=(4); |DJ=1 |g to (5/2)+                       
+ 31S   G 1233.8    5  100    5                                                  
+ 31S   G 1299.1    2  60     4  D                                               
+ 31S  cG M$DCO in ({+20}Ne,n|g)                                                 
+ 31S   L 4602      18                                                           
+ 31S X L XREF=L                                                                 
+ 31S   L 4707      3   3/2+,5/2+                                                
+ 31S X L XREF=H(*)L(*)P                                                         
+ 31S  cL J$L(p,d)=2                                                             
+ 31S  cL E$ this level may be the same as 4720.2 if the uncertainty happens     
+ 31S 2cL to be underestimated                                                   
+ 31S   L 4720.2    4  (1/2,3/2,5/2)+                                            
+ 31S X L XREF=AH(*)L(*)Q                                                        
+ 31S  cL J$log| {Ift}=5.5 from 3/2+; L(p,t)=2; 5/2 favored by possible          
+ 31S 2cL mirror state of 4780, 5/2+ in {+31}P. 3/2+,5/2+ is consistent with     
+ 31S 3cL L({+3}He,|a)=2 for 4719 {I9} group                                     
+ 31S   G 4719.8    4  100                                                   A   
+ 31S   L 4867.5    4  (1/2-,3/2-)                                              ?
+ 31S X L XREF=AHLQ                                                              
+ 31S  cL J$L({+3}He,|a)=(1)                                                     
+ 31S   G 4867.1    4   100                                                  A   
+ 31S   L 4971      3   (3/2)-                                                   
+ 31S X L XREF=HLK                                                               
+ 31S  cL J$L({+3}He,|a)=1; 3/2 favored by possible mirror state of 5015, (3/2-) 
+ 31S 2cL in {+31}P                                                              
+ 31S   L 4988      8                                                            
+ 31S X L XREF=P                                                                 
+ 31S   L 5022      3                                                            
+ 31S X L XREF=HLK                                                               
+ 31S   L 5157.5     3 1/2+                                                      
+ 31S X L XREF=AHLPK                                                             
+ 31S  cL J$L({+3}He,|a)=L(p,d)=0                                                
+ 31S   G 5157.0     3  100                                                  A   
+ 31S   L 5300.7     3   (9/2+)                                              X   
+ 31S X L XREF=CDLKT                                                             
+ 31S  cL J$|DJ=1 |g to (7/2)+ in ({+20}Ne,n|g)                                  
+ 31S   G 1949.2    2  100        D                                              
+ 31S   L 5331      5                                                            
+ 31S X L XREF=P                                                                 
+ 31S   L 5408.2     9                                                           
+ 31S X L XREF=A(?)LPK                                                           
+ 31S   G 5407.7    9  100                                                       
+ 31S   L 5439      3                                                            
+ 31S X L XREF=LK                                                                
+ 31S   L 5518      3   3/2+,5/2+                                                
+ 31S X L XREF=PHLK                                                              
+ 31S  cL J$L(p,d)=2; 5/2 favored by possible mirror state of 5530, (5/2+) in    
+ 31S xcL {+31}P                                                                 
+ 31S   L 5678      3                                                            
+ 31S X L XREF=HKLP                                                              
+ 31S   L 5775       3  3/2+,5/2+                                                
+ 31S X L XREF=AHLPK                                                             
+ 31S  cL J$L({+3}He,|a)=L(p,d)=2.                                               
+ 31S   G 3540      3  100                                                       
+ 31S   L  5786.2   8 (1/2+,3/2+,5/2+)                                           
+ 31S X L XREF=A                                                                 
+ 31S  cL J$log| {Ift}=5.6 from 3/2+                                             
+ 31S   G 5785.6    8  100                                                       
+ 31S   L 5824      3                                                            
+ 31S X L XREF=LK                                                                
+ 31S   L 5896      3   3/2+,5/2+                                                
+ 31S X L XREF=HLPK                                                              
+ 31S  cL J$L({+3}He,|a)=2                                                       
+ 31S   L 5959      10  3/2+,5/2+                                                
+ 31S X L XREF=P                                                                 
+ 31S  cL J$L(p,d)=2                                                             
+ 31S   L 5977.9     7 (9/2+)                                                    
+ 31S X L XREF=CHLK                                                              
+ 31S  cL J$L({+3}He,|a)=(4); |g to (7/2)+                                       
+ 31S   G 1393.9    6  100                                                       
+ 31S F G FL=4583.98                                                             
+ 31S   L 6138.6     6  (7/2+)                                                   
+ 31S X L XREF=KTU                                                               
+ 31S  cL J$|DJ=0 or |DJ=2 |g to 3/2+ from |g(|q) in (|a,n|g) (2012Do07); 9/2    
+ 31S 2cL assigned from |s(|q) distribution in ({+3}He,t) (2011Pa14), but 7/2    
+ 31S 3cL cannot be ruled out. However, 3/2+ is clearly in disagreement with     
+ 31S 4cL |s(|q) in ({+3}He,t)                                                   
+ 31S  cL $ Possible mirror state of 6233, (3/2,5/2,7/2)+ in {+31}P (2012Do07)   
+ 31S   G 2785.7    20                                                       B   
+ 31S   G 4889.5    6            (Q)                                         B   
+ 31S   L 6160.0     6  (5/2-,7/2+)                                              
+ 31S X L XREF=CHKLPTU                                                           
+ 31S  cL J$5/2 from |DJ=1 |g to (7/2)- from ({+20}Ne,n|g); 7/2 from |DJ=0 |g to 
+ 31S 2cL (7/2)- in (|a,n|g) (2012Do07). The |s(|q) distribution in ({+3}He,t)   
+ 31S 3cL (2011Pa14) supports 5/2                                                
+ 31S  cL $ 2012Do07 associated this level with 6399, 7/2+ in {+31}P,            
+ 31S 2cL but 6399 level is assigned 7/2(-) in {+31}P Adopted Levels             
+ 31S   G 1709.2    6            D                                               
+ 31S  cG M$DCO in ({+20}Ne,n|g) gives |DJ=1, but |DJ=0 in (|a,n|g)              
+ 31S   G 2875.3    8                                                            
+ 31S   L 6255.3     5 1/2+                                                      
+ 31S X L XREF=AH(*)KLPU                                                         
+ 31S 2 L ISPIN=1/2                                                              
+ 31S  cL J$L(p,d)=L({+3}He,|a)=0; |s(|q) in ({+3}He,t) (2011Pa14)               
+ 31S  cL $ Possible mirror state of 6337, 1/2+ in {+31}P (2012Do07)             
+ 31S   G 6254.6    5  100                                                   A   
+ 31S   L 6280.60   16 3/2+                                                      
+ 31S X L XREF=AH(*)KQ(6268)U                                                    
+ 31S 2 L ISPIN=3/2                                                              
+ 31S  cL J$L(p,t)=0; log| {Ift}=3.509 {I13} from 3/2+ parent; IAS of {+31}Cl    
+ 31S xcL g.s.                                                                   
+ 31S  cL E$lowest T=3/2 state (1979Na07)                                        
+ 31S  cL $ Possible mirror state of 6381, 3/2+ in {+31}P (2012Do07)             
+ 31S   G 2995.6    3  11.9   6                                              A   
+ 31S   G 4046.2    2  100.0  25                                             A   
+ 31S   G 5031.5    3  15.0   13                                             A   
+ 31S   G 6279.5    3  20.0   13                                             A   
+ 31S   L 6327.0     5  (3/2)                                                    
+ 31S X L XREF=KLTU                                                              
+ 31S  cL J$3/2 from |DJ=0 |g to 3/2+ from |g(|q) in (|a,n|g) (2012Do07).        
+ 31S 2cL 1/2+ from |s(|q) distribution in ({+3}He,t) (2011Pa14) is in           
+ 31S 3cL disagreement with anisotropic pattern of 5077.7|g in (|a,n|g) data.    
+ 31S 4cL 3/2+ may not by completely ruled out by |s(|q) data in ({+3}He,t) as   
+ 31S 5cL well as |g(|q) data in (|a,n|g). Possible mirror state of 6496, 3/2-   
+ 31S xcL in {+31}P (2012Do07)                                                   
+ 31S   G 5077.7    5            (D)                                             
+ 31S   L 6357.32   22 (5/2-)                                                    
+ 31S X L XREF=KTU                                                               
+ 31S  cL E,J$5/2 from |DJ=1 |g to 3/2+ in (|a,n|g) (2012Do07). The |s(|q)       
+ 31S 2cL distribution in (3He,t) gives 3/2+ (2011Pa14), which is                
+ 31S 3cL inconsistent with |g(|q) data for 5108|g in (|a,n|g).                  
+ 31S 4cL Possible mirror state of 6594, 5/2- in {+31}p (2012Do07)               
+ 31S   G 5108.0     2             D                                         B   
+ 31S   L 6376.7     3  (9/2-)                                               Y   
+ 31S X L XREF=CKQTU                                                             
+ 31S  cL J$|DJ=1 |g to (7/2)- in (|a,n|g) (2012Do07); |s(|q) distribution in    
+ 31S 2cL ({+3}He,t) (2011Pa14)                                                  
+ 31S  cL $ Possible mirror state of 6501, 9/2- in {+31}P (2012Do07)             
+ 31S   G 1925.9    2  100         D                                             
+ 31S  cG M$DCO in ({+20}Ne,n|g) and |g(|q) in (|a,n|g)                          
+ 31S   G 3025.4    3              D                                             
+ 31S  cG M$|g(|q) in (|a,n|g)                                                   
+ 31S   L 6392.43   22  (5/2+)                                                   
+ 31S X L XREF=H(6361)T                                                          
+ 31S  cL J$|DJ=1 |g to 3/2+ in (|a,n|g) (2012Do07). An L=2, 6361 {I25} group in 
+ 31S 2cL ({+3}He,n) may correspond to any of the 6357, 6377 or 6392 levels, but 
+ 31S 3cL positive parity implied by L value is consistent only with that for    
+ 31S xcL 6392 level                                                             
+ 31S  cL $ Possible mirror state of 6461, 5/2+ in {+31}P (2012Do07)             
+ 31S   G 5143.1     2             D                                             
+ 31S   L 6394.36   22  (11/2+)                                              X   
+ 31S X L XREF=CDKLTU                                                            
+ 31S  cL J$|DJ=2 |g to (7/2)+; |DJ=1 |g to (9/2+) in (|a,n|g) (2012Do07)        
+ 31S  cL $ Possible mirror state of 6453, 11/2+ in {+31}P (2012Do07)            
+ 31S   G 1091.1    4  12.0   13   D                                             
+ 31S F G FL=5300.7                                                              
+ 31S  cG E$ poor fit, level-energy difference=1091.7                            
+ 31S  cG M$|g(|q) in (|a,n|g)                                                   
+ 31S   G 3042.9    1  100    5    Q                                             
+ 31S  cG M$DCO in ({+20}Ne,n|g) and |g(|q) in (|a,n|g)                          
+ 31S   L 6401      3                                                            
+ 31S X L XREF=KPNU                                                              
+ 31S   L 6420.7    6  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=A                                                                 
+ 31S  cL J$log| {Ift}=5.7 from 3/2+ parent                                      
+ 31S   G 6420.0    6  100                                                       
+ 31S   L 6541.9     4 (3/2-)                                                    
+ 31S X L XREF=HLPKTU                                                            
+ 31S  cL J$|DJ=(0) |g to 3/2+ from |g(|q) (2012Do07). 9/2 from |s(|q) in        
+ 31S 2cL ({+3}He,t) (2011Pa14) is in disagreement with |g(|q) data in (|a,n|g)  
+ 31S  cL $ Possible mirror state of 6610, 3/2- in {+31}P (2012Do07)             
+ 31S   G 5292.5    4   100      (D)                                             
+ 31S   L 6582.9    20 (7/2)                                                     
+ 31S X L XREF=KL(6593)TU                                                        
+ 31S  cL J$assignment in (|a,n|g) by 2012Do07 based on mirror analogy           
+ 31S 2cL with (5/2,7/2)- level at 6842 in {+31}P, which is now assigned (5/2)-  
+ 31S 3cL in {+31}P Adopted Levels. 7/2 assigned from |s(|q) in ({+3}He,t)       
+ 31S xcL (2011Pa14)                                                             
+ 31S  cL $ Possible mirror state of 6842, (5/2)- in {+31}P (2012Do07)           
+ 31S   G 3298.0    20                                                           
+ 31S   L 6636.3     3  (9/2-)                                                   
+ 31S X L XREF=CKLQTU                                                            
+ 31S  cL J$|DJ=1 |g to (7/2)+ in (|a,n|g) (2012Do07); |s(|q) in ({+3}He,t)      
+ 31S xcL (2011Pa14).                                                            
+ 31S  cL $ Possible mirror state of 6796, 9/2- in {+31}P (2012Do07)             
+ 31S   G 2049.2    6                                                            
+ 31S  cG E$ poor fit. Level-energy difference=2052.2                            
+ 31S   G 2186.1    12                                                           
+ 31S  cG E$unweighted average of 2184.9 {I4} in (|a,n|g) and 2187.2 {I5} in     
+ 31S xcG ({+20}Ne,n|g)                                                          
+ 31S   G 3284.8    2            D                                               
+ 31S  cG M$DCO in ({+20}Ne,n|g) and |g(|q) in (|a,n|g)                          
+ 31S   L 6720      2  (5/2)                                                     
+ 31S X L XREF=HLKU                                                              
+ 31S  cL J$|s(|q) distribution in ({+3}He,t) (2011Pa14)                         
+ 31S   L 6749      2  3/2+                                                      
+ 31S X L XREF=KLU                                                               
+ 31S  cL J$|s(|q) distribution in ({+3}He,t) (2011Pa14)                         
+ 31S   L 6796      25                                                           
+ 31S X L XREF=H                                                                 
+ 31S   L 6833.2     3   (11/2-)                                             Y   
+ 31S X L XREF=CDLNKU                                                            
+ 31S  cL J$|DJ=2 |g to (7/2)-; |DJ=1 |g to (9/2+) in ({+20}Ne,n|g); |s(|q)      
+ 31S 2cL in ({+3}He,t) (2011Pa14)                                               
+ 31S   G 1532.2    2  38.7   18  D                                              
+ 31S  cG M$DCO in ({+20}Ne,n|g)                                                 
+ 31S   G 2382.8    3  100    4   Q                                              
+ 31S  cG M$DCO in ({+20}Ne,n|g)                                                 
+ 31S   L 6836      2                                                           ?
+ 31S X L XREF=K                                                                 
+ 31S   L 6848      9                                                            
+ 31S X L XREF=PQ                                                                
+ 31S   L 6872      2  (11/2)                                                    
+ 31S X L XREF=KLU                                                               
+ 31S  cL J$|s(|q) distribution in ({+3}He,t) (2011Pa14)                         
+ 31S   L 6937      2  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=AH(*)KQ(6919)U                                                    
+ 31S  cL J$log| {Ift}=4.9 from 3/2+ parent                                      
+ 31S   L 6961      3                                                            
+ 31S X L XREF=KU                                                                
+ 31S   L 6975      3     1/2+                                                   
+ 31S X L XREF=H(*)LKU                                                           
+ 31S  cL J$L({+3}He,|a)=0                                                       
+ 31S   L 7010      10                                                           
+ 31S X L XREF=H(*)Q                                                             
+ 31S  cL E,J$1/2+,3/2+ from L({+3}He,n)=0 corresponds to either 7010 or         
+ 31S 2cL 7037 level                                                             
+ 31S   L 7037      2  3/2+,5/2+                                                 
+ 31S X L XREF=AH(*)KL(7036)P(7044)U                                             
+ 31S  cL J$L(p,d)=L({+3}He,|a)=2                                                
+ 31S   L 7052      2                                                            
+ 31S X L XREF=KU                                                                
+ 31S   L 7140      10                                                           
+ 31S X L XREF=HQ                                                                
+ 31S   L 7156      2   3/2+,5/2+                                                
+ 31S X L XREF=ALK                                                               
+ 31S  cL J$L({+3}He,|a)=2                                                       
+ 31S   L 7196      2                                                            
+ 31S X L XREF=LK                                                                
+ 31S   L 7280.0    10                                                          ?
+ 31S X L XREF=A                                                                 
+ 31S   G 7279.1    10  100                                                     ?
+ 31S   L 7304.0     5  (11/2+)                                                  
+ 31S X L XREF=CLK                                                               
+ 31S  cL J$|DJ=2 |g to (7/2)+; |g to (11/2+)                                    
+ 31S   G 909.4     5  18.9   24                                                 
+ 31S   G 3952.7    6  100    7  Q                                               
+ 31S  cG M$DCO in ({+20}Ne,n|g)                                                 
+ 31S   L 7355      3  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=A                                                                 
+ 31S  cL J$log| {Ift}=5.6 from 3/2+                                             
+ 31S   L 7416.8    10                                                          ?
+ 31S X L XREF=A                                                                 
+ 31S   G 7415.8    10                                                          ?
+ 31S   L 7469      3                                                            
+ 31S X L XREF=HK                                                                
+ 31S   L 7501      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 7517      3  1/2+&3/2+,5/2+                                            
+ 31S X L XREF=A(?)HLPK                                                          
+ 31S  cL E,J$L(p,d)=0+2 for a doublet                                           
+ 31S   L 7585      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 7631.8    7  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=A                                                                 
+ 31S  cL J$log| {Ift}=5.0 from 3/2+                                             
+ 31S   G 7630.8    7   100                                                      
+ 31S   L 7644.5    8  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=AHLK                                                              
+ 31S  cL J$log| {Ift}=5.2 from 3/2+                                             
+ 31S   G 7643.5    8  100                                                       
+ 31S   L 7699      3  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=AK                                                                
+ 31S  cL J$log| {Ift}=4.5 from 3/2+                                             
+ 31S   L 7724      3  (1/2-,3/2,5/2)                                            
+ 31S X L XREF=LPK                                                               
+ 31S  cL E,J$this level is a multiplet in ({+3}He,|a) with L=1+2 transfer       
+ 31S 2cL favored over L=1+3                                                     
+ 31S   L 7744      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 7774      3 (1/2+,3/2+,5/2+)                                           
+ 31S X L XREF=AHK                                                               
+ 31S  cL J$log| {Ift}=5.6 from 3/2+                                             
+ 31S   L 7824      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 7859      3                                                            
+ 31S X L XREF=HK                                                                
+ 31S   L 7894      3   (1/2+,3/2+,5/2+)                                         
+ 31S X L XREF=AH(?)K                                                            
+ 31S  cL J$log| {Ift}=4.9 from 3/2+                                             
+ 31S   L 7907      3 1/2+                                                       
+ 31S X L XREF=PK                                                                
+ 31S  cL J$L(p,d)=0                                                             
+ 31S   L 7932      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 7945      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 7973      3                                                            
+ 31S X L XREF=HK                                                                
+ 31S   L 8015      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 8022      3  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=A                                                                 
+ 31S  cL E$this level may be the same as 8015 and/or 8030                       
+ 31S  cL J$log| {Ift}=4.6 from 3/2+                                             
+ 31S   L 8030      3                                                           ?
+ 31S X L XREF=K                                                                 
+ 31S   L 8045      3   1/2+&3/2+,5/2+                                           
+ 31S X L XREF=H(?)PK                                                            
+ 31S  cL E,J$L(p,d)=0+2 for a doublet                                           
+ 31S   L 8060      3                                                           ?
+ 31S X L XREF=K                                                                 
+ 31S   L 8071      3                                                            
+ 31S X L XREF=HK                                                                
+ 31S   L 8109      10 (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=A(8122)K(8106)                                                    
+ 31S  cL J$log| {Ift}=5.4 from 3/2+                                             
+ 31S   L 8131      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S  cL J$ |>1/2 from L({+3}He,t)|>1 from 1/2+ target                          
+ 31S   L 8178      3                                                            
+ 31S X L XREF=HPK                                                               
+ 31S   L 8209      3                                                           ?
+ 31S X L XREF=K                                                                 
+ 31S   L 8229      3                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 8268      10 (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=AK                                                                
+ 31S  cL J$log| {Ift}=5.4 from 3/2+                                             
+ 31S   L 8330      8                                                            
+ 31S X L XREF=H(*)KI                                                            
+ 31S   L 8382      10                                                           
+ 31S X L XREF=H(*)K                                                             
+ 31S   L 8426      4  (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=AHK                                                               
+ 31S  cL J$log| {Ift}=5.0 from 3/2+                                             
+ 31S   L 8461.4     5  (13/2-)                                              Y   
+ 31S X L XREF=C                                                                 
+ 31S  cL J$|g to (11/2-)                                                        
+ 31S   G 1628.2    4  100    9                                                  
+ 31S F G FL=6833.2                                                              
+ 31S   G 2084.4    11 30     LT                                                ?
+ 31S   L 8498      3  1/2+                                                      
+ 31S X L XREF=AKP(8517)                                                         
+ 31S  cL J$L(p,d)=0                                                             
+ 31S   L 8562      8                                                            
+ 31S X L XREF=K                                                                 
+ 31S   L 8702      17 (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=A                                                                 
+ 31S  cL J$log| {Ift}=5.2 from 3/2+ parent                                      
+ 31S   L 8789      6   3/2+,5/2+                                                
+ 31S X L XREF=P                                                                 
+ 31S  cL J$L(p,d)=2                                                             
+ 31S   L 8813      15                                                           
+ 31S X L XREF=KP(*)                                                             
+ 31S   L 8878      22(1/2+,3/2+,5/2+)                                           
+ 31S X L XREF=A(8860)K(8904)P(*)                                                
+ 31S  cL E$weighted average of 8860 {I17} and 8904 {I20}                        
+ 31S  cL J$log| {Ift}=5.7 from 3/2+ parent                                      
+ 31S   L 8969      20                                                           
+ 31S X L XREF=K                                                                 
+ 31S   L 9004      20                                                           
+ 31S X L XREF=K                                                                 
+ 31S   L 9050      23 (1/2+,3/2+,5/2+)                                          
+ 31S X L XREF=A(9031)K(9077)                                                    
+ 31S  cL J$log| {Ift}=5.4 from 3/2+ parent                                      
+ 31S   L 9155.2    12  (13/2+)                                              X   
+ 31S X L XREF=CK                                                                
+ 31S  cL J$|DJ=1 |g to (11/2+)                                                  
+ 31S   G 1852.1    14  8     LT                                                ?
+ 31S   G 2760.7    11  100   6    D                                             
+ 31S  cG M$DCO in ({+20}Ne,n|g)                                                 
+ 31S F G FL=6394.36                                                             
+ 31S   L 9207      5                                                            
+ 31S X L XREF=PK                                                                
+ 31S   L 9226      25                                                           
+ 31S X L XREF=K                                                                 
+ 31S   L 9332      30                                                           
+ 31S X L XREF=K                                                                 
+ 31S   L 9423      7   3/2+,5/2+                                                
+ 31S X L XREF=PK                                                                
+ 31S  cL J$L(p,d)=2                                                             
+ 31S   L 9606      14                                                           
+ 31S X L XREF=P                                                                 
+ 31S   L 9853      12                                                           
+ 31S X L XREF=P                                                                 
+ 31S   L 10146.2   11    (13/2-)                                                
+ 31S X L XREF=C                                                                 
+ 31S  cL J$|g to (11/2-)                                                        
+ 31S   G 3312.9    10  100                                                      
+ 31S F G FL=6833.2                                                              
+ 31S   L 10577     13                                                           
+ 31S X L XREF=IP                                                                
+ 31S   L 13.30E3   10                                                           
+ 31S X L XREF=GI                                                                
+

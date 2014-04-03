@@ -1,0 +1,336 @@
+ 25AL    ADOPTED LEVELS, GAMMAS                                  09NDS    200908
+ 25AL  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 110, 1691 (2009)$CUT=1-Feb-2008$    
+ 25AL  Q  -12740   10 16931   3 2271.6  5-9156.9  9    2003AU03                 
+ 25AL cG E$From level energy differences corrected for recoil energy.           
+ 25AL cL E(X)$5/2[202]                                                          
+ 25AL cL E(Y)$1/2[211]                                                          
+ 25AL cL E(Z)$1/2[200]                                                          
+ 25AL cL E(W)$3/2[202]                                                          
+ 25AL  XA25SI B+ DECAY                                                          
+ 25AL  XB27S B+2P DECAY                                                         
+ 25AL  XC24MG(P,G),(P,P'G)                                                      
+ 25AL  XD24MG(3HE,D),(POL 3HE,D)                                                
+ 25AL  XE28SI(P,A)                                                              
+ 25AL  XF27AL(P,T)                                                              
+ 25AL  XG25AL(POL P,P)                                                          
+ 25AL  XH24MG(D,N)                                                              
+ 25AL  XI25MG(3HE,T)                                                            
+ 25AL PN                                                                     6  
+ 25AL  L 0            5/2+             7.183 S   12                             
+ 25AL2 L %EC+%B+=100$ MOMM1=3.6455 12                                           
+ 25ALX L XREF=ABCDFGH                                                           
+ 25ALF L FLAG=X                                                                 
+ 25AL cL T$weighted average of 7.24 s {I3} (1958Mu05), 7.23 s {I2} (1971Ju03),  
+ 25AL2cL 7.177 s {I23} (1973Ta04), and 7.174 s {I7} (1975Az01).                 
+ 25AL cL J$Superallowed beta decay to mirror nucleus {+25}Mg with logft=3.6.    
+ 25AL  L 451.7      5 1/2+             2.29 NS   4                              
+ 25ALX L XREF=BCD                                                               
+ 25ALF L FLAG=Y                                                                 
+ 25AL cL T$Weighted average of 1.88 ns 10 (1961Ri08), 2.25 ns 10 (1963Ga07),    
+ 25AL2cL 2.31 ns 7 (1963Mc07), and 2.27 ns 6 (1964Be34)                         
+ 25AL cL J$L=0 in ({+3}He,d)                                                    
+ 25AL  G      451.7 5 100       [E2]                                            
+ 25ALB G BE2W=3.03 6                                                            
+ 25AL  L 944.9      5 3/2+             4.3 PS    11                             
+ 25ALX L XREF=ACDEFH                                                            
+ 25ALF L FLAG=Y                                                                 
+ 25AL cL J$M1+E2 to 1/2+ and 5/2+                                               
+ 25AL cL T$From 1972Al28                                                        
+ 25AL  G      493.3 7 100     7 M1+E2    -0.09   6                              
+ 25ALB G BM1W=0.026 7$BE2W=5 +7-5                                               
+ 25AL  G      944.9 5 64      7 M1+E2    -0.38   15                             
+ 25ALB G BM1W=0.0021 7$BE2W=2.0 15                                              
+ 25AL  L 1612.5     5 (7/2)+           12 FS     2                              
+ 25ALX L XREF=ACDEFHI                                                           
+ 25ALF L FLAG=X                                                                 
+ 25AL cL J$M1+E2 to 5/2+, Band assignment. M1+E2 from (9/2)+, no feeding        
+ 25AL2cL to 1/2+. 3/2+,5/2+ is also possible.                                   
+ 25AL  G     1612.4 5 100       M1+E2    +0.17   4                              
+ 25ALB G BM1W=0.34 12$BE2W=25 12                                                
+ 25AL  L 1789.5     5 5/2+             393 FS    36                             
+ 25ALX L XREF=CDEFH                                                             
+ 25ALF L FLAG=Y                                                                 
+ 25AL cL J$M1+E2 to 3/2+,5/2+, E2 to 1/2+, L=2 in ({+3}He,d)                    
+ 25AL  G      844.6 7 100     8 M1+E2    +0.17   2                              
+ 25ALB G BM1W=0.036 5$BE2W=8.7 23                                               
+ 25AL  G     1337.8 7 95      8 E2(+M3)  -0.1    3                              
+ 25ALB G BE2W=(29 5)$BM3W=(1.1E6 +68-11)                                        
+ 25AL  G     1789.4 5 55      8 M1+E2    +1.0    2                              
+ 25ALB G BM1W=0.0011 3$BE2W=2.0 6                                               
+ 25AL  L 2485.3     9 1/2+                4 FS   2                              
+ 25ALX L XREF=CDFH                                                              
+ 25ALF L FLAG=Z                                                                 
+ 25AL cL T$|G{-|g}/|G=0.91 {I4}                                                 
+ 25AL cL J$L=0 in ({+3}He,d)                                                    
+ 25AL  G     1540.210 19.1   14                                                 
+ 25AL  G     2033.410 100     4 M1                                              
+ 25ALB G BM1W=0.5 3                                                             
+ 25AL  G     2485.1 9 3.3     4                                                 
+ 25AL  L 2673.3     6 3/2+               4 FS    3                              
+ 25ALX L XREF=ACDEFH                                                            
+ 25ALF L FLAG=Z                                                                 
+ 25AL cL J$M1+E2 to 1/2+, 5/2+                                                  
+ 25AL cL T$|G{-|g}/|G=0.125 {I9}                                                
+ 25AL  G      883.8 8 100.0  19                                                 
+ 25AL  G     1728.3 8 1.2    5                                                  
+ 25AL  G     2221.5 8 73.4   16 M1(+E2)  +0.05   5                              
+ 25ALB G BM1W=(0.16 12)$BE2W=(0.5 +10-5)                                        
+ 25AL  G     2673.1 6 59.1   12 M1+E2    +0.36   11                             
+ 25ALB G BM1W=0.048 18                                                          
+ 25AL  L 2720.2     5 7/2+             201 FS    14                             
+ 25ALX L XREF=CDEF                                                              
+ 25ALF L FLAG=Y                                                                 
+ 25AL cL J$M1+E2 to 5/2+, E2 to 3/2+, |g|g(|q) in (p,|g).                       
+ 25AL  G      930.7 7 46     22 M1+E2    +0.18   14                             
+ 25ALB G BM1W=0.038 20$BE2W=8 +14-8                                             
+ 25AL  G     1775.2 7 100    16 E2(+M3)  -0.08   15                             
+ 25ALB G BE2W=(23 6)$BM3W=(3.E+5 +13-3)                                         
+ 25AL  G     2720.0 5 13     10                                                 
+ 25AL  L 3062.0     7 3/2-             1.3 KEV   4                              
+ 25ALX L XREF=CD                                                                
+ 25AL cL J$E1(+M2) to 1/2+, 5/2+                                                
+ 25AL cL T$|G{-p}|G{-|g}/|G=122 {I18} (1975Tr04)                                
+ 25AL  G     2117.0 8 16      4 E1+M2    +0.06   4                              
+ 25AL  G     2610.2 8 100     5 E1(+M2)  0.00    2                              
+ 25AL  G     3061.8 7 17      4 E1(+M2)  -0.03   6                              
+ 25AL  L 3424.2     8 (9/2)+             9.0 FS  14                             
+ 25ALX L XREF=CD                                                                
+ 25ALF L FLAG=X                                                                 
+ 25AL cL T$|G{-p}|G{-|g}/|G=6.5 {I13} (1975Tr04)                                
+ 25AL cL J$|g|g(|q) in (p,|g) consistent with 9/2+,5/2+,                        
+ 25AL2cL E2(+M3) to 5/2+ and M1+E2 to (7/2)+ favors 9/2+                        
+ 25AL3cL assignment.  Band assignment. Not populated by {+25}Si                 
+ 25AL4cL beta decay.                                                            
+ 25AL  G     1811.6 9 100     5 M1+E2    +0.14   3                              
+ 25ALB G BM1W=0.34 6$BE2W=12 6                                                  
+ 25AL  G     3423.9 8 19      5 E2                                              
+ 25ALB G BE2W=4.8 16                                                            
+ 25AL  L 3695.5     7 7/2-                17 FS  8                              
+ 25ALX L XREF=CEFH                                                              
+ 25AL cL J$E1(+M2) to 5/2+ and 7/2+, |g|g(|q) in (p,|g)                         
+ 25AL cL T$|G{-p}|G{-|g}/|G=35 {I5} (1975Tr04)                                  
+ 25AL  G      975.3 8 5       3 E1(+M2)  -0.20   25                             
+ 25ALB G BE1W=(0.0016 12)$BM2W=(3.E+2 +8-3)                                     
+ 25AL  G     1905.9 8 100     6 E1(+M2)  -0.01   2                              
+ 25ALB G BE1W=(0.0044 21)$BM2W=(0.6 +23-6)                                      
+ 25AL  G     3695.2 7 49      6 E1(+M2)  -0.02   2                              
+ 25ALB G BE1W=(0.00029 15)$BM2W=(0.04 +9-4)                                     
+ 25AL  L 3823.0    20 1/2-             36 KEV    7                              
+ 25ALX L XREF=CD                                                                
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25AL cL T$|G{-p}|G{-|g}/|G=700 {I100} (1975Tr04)                               
+ 25AL  G     1337.720 8.2     4                                                 
+ 25AL  G     2877.920 100     3                                                 
+ 25AL  G     3371.120 51      8                                                 
+ 25AL  L 3859.1     8 5/2+             0.1 KEV                                  
+ 25ALX L XREF=ACDF                                                              
+ 25ALF L FLAG=Z                                                                 
+ 25AL cL J$M1+E2 to 3/2+,7/2+                                                   
+ 25AL cL T$|G{-p}|G{-|g}/|G=65 {I10} (1975Tr04)                                 
+ 25AL  G      797.111 0.60    7                                                 
+ 25AL  G     1138.9 9 14.7    5 M1(+E2)  -0.01   6                              
+ 25AL  G     1185.8 9 12.3    3 M1+E2    +0.11   5                              
+ 25AL  G     2069.5 9 9.5     3 M1(+E2)  0.00    5                              
+ 25AL  G     2246.5 9 3.03   11                                                 
+ 25AL  G     2914.0 9 100     3 M1(+E2)  +0.03   3                              
+ 25AL  G     3407.2 9 0.62    6                                                 
+ 25AL  G     3858.8 8 15.5    5 M1+E2    +0.07   5                              
+ 25AL  L 4026       2 (9/2,5/2)+       18 FS     3                              
+ 25ALX L XREF=CD                                                                
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25AL cL T$(2J+1)|G{-p}|G{-|g}/|G~10 (1975Tr04)                                 
+ 25AL  G       2412 2 67     17                                                 
+ 25AL  G       4026 2 100    17                                                 
+ 25AL  L 4192       4 3/2+             0.5 KEV   GT                             
+ 25ALX L XREF=ACD                                                               
+ 25AL cL J$M1+E2 to 1/2+, |g|g(|q) in (p,|g)                                    
+ 25AL cL T$|G{-p}|G{-|g}/|G=260 {I10} (1975Tr04)                                
+ 25AL  G       3247 4 100       M1+E2    -0.07   3                              
+ 25AL  G       3740 4 100       M1+E2    +0.18   1                              
+ 25AL  L 4516       5 (9/2)+           6.5 EV    GT                             
+ 25ALX L XREF=CD                                                                
+ 25AL cL J$From |g|g(|q) in (p,|g), b and assignment                            
+ 25AL cL T$|G{-p}|G{-|g}/|G<0.1 (1975Tr04)                                      
+ 25ALF L FLAG=Y                                                                 
+ 25AL  L 4582       2 5/2+                                                      
+ 25ALC L XREF=AC                                                                
+ 25AL cL J$Logft=5.1 from 5/2+, |g|g(|q) in (p,|g)                              
+ 25AL  G 3636       4 100                                                       
+ 25AL  L 4906       4  (7/2)+          10 KEV    LT                             
+ 25ALX L XREF=ACD                                                               
+ 25AL cL J$Logft=5.7 from 5/2+, |g|g(|q) in (p,|g),                             
+ 25AL2cL band assignment                                                        
+ 25AL cL T$|G{-p}|G{-|g}/|G=52 {I11} (1975Tr04)                                 
+ 25ALF L FLAG=Z                                                                 
+ 25AL  L 5045                            10 KEV  LT                             
+ 25ALX L XREF=C                                                                 
+ 25AL  L 5068       5                     4 KEV  LT                             
+ 25ALX L XREF=CD                                                                
+ 25AL  L 5083                            50 KEV  AP                             
+ 25ALX L XREF=C                                                                 
+ 25AL  L 5101      10                  4 KEV     LT                             
+ 25ALX L XREF=D                                                                 
+ 25AL  L 5116       7                  47 KEV    5                              
+ 25ALX L XREF=D                                                                 
+ 25AL  L 5232       4                                                           
+ 25ALX L XREF=D                                                                 
+ 25AL  L 5285         1/2+             185 KEV                                  
+ 25ALX L XREF=C                                                                 
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25AL  L 5526       7                  18 KEV    AP                             
+ 25ALX L XREF=D                                                                 
+ 25AL  L 5597       6 (3/2,5/2,7/2)+   55 KEV    20                             
+ 25AL cL T$From 1992Ha28                                                        
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25ALX L XREF=ACG                                                               
+ 25AL  L 5686       7                                                           
+ 25ALX L XREF=D                                                                 
+ 25AL  L 5785       7 1/2+             15 KEV    AP                             
+ 25ALX L XREF=CD                                                                
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25AL  L 5804       4 (3/2,5/2,7/2)+                                            
+ 25ALX L XREF=ADG                                                               
+ 25AL cL J$Logft=5.0 from 5/2+                                                  
+ 25AL  L 6063       7                                                           
+ 25ALX L XREF=DG                                                                
+ 25AL  L 6122       3 3/2+             51 KEV    2                              
+ 25ALX L XREF=CDGI                                                              
+ 25ALF L FLAG=W                                                                 
+ 25AL cL T$|Gp=30 keV 1                                                         
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6170       2 (3/2,5/2,7/2)+                                            
+ 25ALX L XREF=A                                                                 
+ 25AL cL J$Logft=5.6 from 5/2+                                                  
+ 25AL  L 6322       5 7/2              0.4 KEV   GT                             
+ 25ALX L XREF=CD                                                                
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25AL cL T$|G{-p}|G{-|g}/|G<3 (1975Tr04)                                        
+ 25AL  L 6385      3  3/2-             15 KEV    LT                             
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp/|Gtot=0.10 keV                                                   
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6409      10                  58 KEV    7                              
+ 25ALX L XREF=CD                                                                
+ 25AL  L 6517       7  3/2+            64 KEV    16                             
+ 25ALX L XREF=DG                                                                
+ 25AL cL T$|Gp=5 keV 1                                                          
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6620       9 3/2+,5/2+,7/2+                                            
+ 25ALX L XREF=A                                                                 
+ 25AL cL J$Logft=5.7 from 5/2+                                                  
+ 25AL  L 6650       5  5/2+            58 KEV    9                              
+ 25ALX L XREF=CDI                                                               
+ 25ALF L FLAG=W                                                                 
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6734      22  7/2-            195 KEV   39                             
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp=18 keV 2                                                         
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6740       5  1/2+            152 KEV   11                             
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp=137 keV 7                                                        
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6770      7                                                            
+ 25ALX L XREF=CD                                                                
+ 25AL  L 6829      4   5/2+            58 KEV    9                              
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp=9 keV 1                                                          
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6877      7  (3/2,5/2,7/2)+                                            
+ 25ALX L XREF=ADG                                                               
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6895      3  7/2-             53 KEV    4                              
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp=17 keV 1                                                         
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 6909      10 3/2+                                                      
+ 25ALX L XREF=DG                                                                
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25AL  L 6944      10                  104 KEV   10                             
+ 25ALX L XREF=D                                                                 
+ 25AL  L 7022                                                                   
+ 25ALX L XREF=CG                                                                
+ 25AL  L 7055      9   3/2-            616 KEV   20                             
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp=449 keV 12                                                       
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 7118      5   3/2+            117 KEV   4                              
+ 25ALX L XREF=ACDGI                                                             
+ 25AL cL T$|Gp=88 keV 3                                                         
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 7150       7  5/2-            20 KEV    6                              
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp=1.4 keV 1                                                        
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 7183       7                                                           
+ 25ALX L XREF=D                                                                 
+ 25AL  L 7240       3     5/2+          19 KEV   4                              
+ 25ALX L XREF=ACDGI                                                             
+ 25AL cL T$|Gp=5 keV 1                                                          
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 7297       3    3/2-           66 KEV   6                              
+ 25ALX L XREF=CG                                                                
+ 25AL cL T$|Gp=51 keV 3                                                         
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 7409       3    5/2-           12 KEV   LT                             
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp/|Gtot=0.06 keV                                                   
+ 25AL  L 7422       5  (7/2)+                                                   
+ 25ALX L XREF=CDI                                                               
+ 25AL cL J$From (pol p,p'), band assignment                                     
+ 25ALF L FLAG=W                                                                 
+ 25AL  L 7588                                                                   
+ 25ALX L XREF=C                                                                 
+ 25AL  L 7646          (3/2,5/2,7/2)+  50 KEV    15                             
+ 25ALX L XREF=ACG                                                               
+ 25AL cL J$Logft=4.9 from 5/2+                                                  
+ 25AL  L 7684       3   7/2-           21 KEV    3                              
+ 25ALX L XREF=AG                                                                
+ 25AL cL T$|Gp=1.5 keV 2                                                        
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 7717      10   3/2+           230 KEV   20                             
+ 25ALX L XREF=G                                                                 
+ 25AL cL T$|Gp=103 keV 7                                                        
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 7770                            340 KEV 15                             
+ 25ALX L XREF=C                                                                 
+ 25AL  L 7819      20                  209 KEV   20                             
+ 25ALX L XREF=DG                                                                
+ 25AL  L 7848                           20 KEV   8                              
+ 25ALX L XREF=C                                                                 
+ 25AL  L 7892       2 5/2-               94 KEV  15                             
+ 25ALX L XREF=AG                                                                
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL cL T$|Gp=3.6 keV 15                                                       
+ 25AL  L 7901       2 5/2+             0.105 KEV 18                             
+ 25AL2 L ISPIN=3/2                                                              
+ 25AL cL T$|Gp=18 eV 4                                                          
+ 25ALX L XREF=CFG                                                               
+ 25AL cL J$Logft=3.25 from 5/2+ isobaric analog state                           
+ 25AL  G       6288 2 74      6 (M1+E2)  +0.07   6                              
+ 25AL  G       6955 2 26      4 M1(+E2)  +0.02   3                              
+ 25AL  G       7900 2 100     6 M1+E2    +0.11   2                              
+ 25AL  L 7936      20                  35 KEV    10                             
+ 25ALX L XREF=CG                                                                
+ 25AL  L 7970       2 3/2+             1.30 KEV  14                             
+ 25AL2 L ISPIN=3/2                                                              
+ 25AL cL T$|Gp=232 eV 12                                                        
+ 25ALX L XREF=CG                                                                
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  G       7969 2  100      (M1+E2)  +0.08   6                              
+ 25AL  L 8026                          20 KEV    10                             
+ 25ALX L XREF=C                                                                 
+ 25AL  L 8077         (7/2,9/2)+       15 KEV    7                              
+ 25ALX L XREF=C                                                                 
+ 25AL cL J$From |g|g(|q) in (p,|g)                                              
+ 25AL  L 8089      3  5/2-             40 KEV    9                              
+ 25ALX L XREF=CF                                                                
+ 25AL cL T$|Gp=4.9 keV 1                                                        
+ 25AL cL J$From (pol p,p')                                                      
+ 25AL  L 8186      3  (3/2,5/2,7/2)+   40 KEV    10                             
+ 25ALX L XREF=ACI                                                               
+ 25AL cL J$Logft=4.1 from 5/2+                                                  
+ 25AL  L 9073       7 (3/2,5/2,7/2)+                                            
+ 25ALX L XREF=A                                                                 
+ 25AL cL J$Logft=4.3 from 5/2+                                                  
+

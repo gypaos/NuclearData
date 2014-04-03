@@ -1,0 +1,149 @@
+ 24AL    ADOPTED LEVELS, GAMMAS                                  07NDS    200710
+ 24AL  H TYP=ERR$AUT=J. TULI$DAT=12-Dec-2007$COM=Fixed typos noted by PNPI$     
+ 24AL  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 108, 2319 (2007)$CUT=3-Oct-2006$    
+ 24AL  Q -10812    20 14898  19 1872    3-9330   7     2003AU03                 
+ 24AL  XA24AL IT DECAY (131.3 MS)                                               
+ 24AL  XB24SI B+ DECAY                                                          
+ 24AL  XC24MG(3HE,T)                                                            
+ 24AL  XD24MG(P,N)                                                              
+ 24AL PN                                                                     6  
+ 24AL  L 0            4+               2.053 S   4                              
+ 24AL2 L %EC+%B+=100$ %B+A=0.035 6$%B+P=0.0016 3                                
+ 24ALX L XREF=ABCD                                                              
+ 24AL cL %B+A$ from 1979Ho08. %|b+p/|b+|a=0.047 {I2} (1994Ba54)                 
+ 24AL cL T$from 1985Ad10. Other value: 2.054 s {I9} (1971Go18).                 
+ 24AL cL J$Mirror state to {+24}Na ground state.                                
+ 24AL  L 425.8      1 1+               130 MS    3                           M  
+ 24AL2 L %IT=82.5 30$ %EC+%B+=17.5 30$ %ECA=0.028 6                             
+ 24ALX L XREF=ABCD                                                              
+ 24AL cL           %IT, %|e+%|b{++}, %|e|a: from 1979Ho08.                      
+ 24AL cL T$weighted average of 129 ms {I5} (1968Ar03), 133 ms {I10} (1971To12), 
+ 24AL2cL 127 ms {I6} (1979Ho08), 128 ms {I6} (1979Sh11), and 132.7 ms {I41}     
+ 24AL3cL (1988Bu12).                                                            
+ 24AL cL J$Mirror state to {+24}Na first excited state at E=472 keV.            
+ 24AL2cL B(M3){-W} consistent with M3.                                          
+ 24AL  G 425.8      1 100      M3                                               
+ 24ALB G BM3W=2.37 10                                                           
+ 24AL  L 511        4 2+                                                        
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=2 in ({+3}He,t), mirror state to {+24}Na second excited state at   
+ 24AL2cL E=563 keV                                                              
+ 24AL  L 1111       3 (1,2,3)+                                                  
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=2 in ({+3}He,t)                                                    
+ 24AL  L 1275       5 (3,4,5)+                                                  
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=4 in ({+3}He,t)                                                    
+ 24AL  L 1563      7  (3,4,5,6)+                                                
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=4 in ({+3}He,t)                                                    
+ 24AL  L 1638      8  (3,4,5)+                                                  
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=4 in ({+3}He,t)                                                    
+ 24AL  L 2369      4  (3,4,5)+                                                  
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=4 in ({+3}He,t)                                                    
+ 24AL  L 2546      7  (3,4,5)+                                                  
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=4 in ({+3}He,t)                                                    
+ 24AL  L 2832      6  (1,2,3)+                                                  
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=2 in ({+3}He,t)                                                    
+ 24AL  L 2920      23 (1,2,3)+                                                  
+ 24ALX L XREF=D                                                                 
+ 24AL cL J$L=2 in ({+3}He,t)                                                    
+ 24AL  L 3027      10 1+                                                        
+ 24ALX L XREF=BCD                                                               
+ 24AL cL J$log| {Ift}=4.6 from 0+                                               
+ 24AL  L 3306      13 (1,2,3)+                                                  
+ 24ALX L XREF=CD                                                                
+ 24AL cL J$L=2 in ({+3}He,t)                                                    
+ 24AL  L 3370      34 1+                                                        
+ 24ALX L XREF=B                                                                 
+ 24AL cL J$log| {Ift}=4.2 from 0+                                               
+ 24AL  L 3384      16                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 3492      10                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 3608      16                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 3716      10                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 3909      6                                                            
+ 24ALX L XREF=CD                                                                
+ 24AL  L 4057      17                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 4129      24                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 4315      10                                                           
+ 24ALX L XREF=CD                                                                
+ 24AL  L 4400      44  1+                                                       
+ 24ALX L XREF=B                                                                 
+ 24AL cL J$log| {Ift}=4.2 from 0+                                               
+ 24AL  L 4488      10                                                           
+ 24ALX L XREF=CD                                                                
+ 24AL  L 4670      47  1+                                                       
+ 24ALX L XREF=B                                                                 
+ 24AL cL J$log| {Ift}=4.6 from 0+                                               
+ 24AL  L 4762      8                                                            
+ 24ALX L XREF=CD                                                                
+ 24AL  L 4970      50  1+                                                       
+ 24ALX L XREF=B                                                                 
+ 24AL cL J$log| {Ift}=4.5 from 0+                                               
+ 24AL  L 5045      33                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 5337      10                                                           
+ 24ALX L XREF=D                                                                 
+ 24AL  L 5430      54 1+                                                        
+ 24ALX L XREF=B                                                                 
+ 24AL cL J$log| {Ift}=4.7 from 0+                                               
+ 24AL  L 5470      17                                                           
+ 24ALX L XREF=CD                                                                
+ 24AL cL E$E=5545 {I25} in (p,n)                                                
+ 24AL2 L ISPIN=1                                                                
+ 24AL  L 5531      19                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 5614      22                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 5692      26                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 5788      34  1+                                                       
+ 24ALX L XREF=BC                                                                
+ 24AL cL J$log| {Ift}=4.4 from 0+                                               
+ 24AL  L 5908      16                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 5957       6 0+                                                        
+ 24ALX L XREF=B                                                                 
+ 24ALT L ISPIN=2                                                                
+ 24AL cL J$Superallowed logft=3.1 from 0+                                       
+ 24AL  L 6005      14                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 6170      16                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 6250      62 1+                                                        
+ 24ALX L XREF=B                                                                 
+ 24AL cL J$log| {Ift}=3.5 from 0+                                               
+ 24AL  L 6324      48                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 6462      24                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 6530      65  1+                                                       
+ 24ALX L XREF=B                                                                 
+ 24AL cL J$log| {Ift}=4.3 from 0+                                               
+ 24AL  L 6554      15                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 6697      19                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 6797      23                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 6925      32                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 7086       8                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 7360       3                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 7441      18                                                           
+ 24ALX L XREF=C                                                                 
+ 24AL  L 7679      20                                                           
+ 24ALX L XREF=C                                                                 
+

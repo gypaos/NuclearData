@@ -1,0 +1,1460 @@
+ 23NA    ADOPTED LEVELS, GAMMAS                                  07NDS    200703
+ 23NA  H TYP=ERR$AUT=J. Tuli$DAT=3-Jan-2012$COM=M(2364) E2 from M1+E2$          
+ 23NA  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 108, 1 (2007)$CUT=1-Feb-2006$       
+ 23NA  Q  -4056.1  1312418.7 4  8794.11 2-10467.41     2003AU03                 
+ 23NA cL E$From least-squares fit of gamma energies to level scheme             
+ 23NA cL T$Weighted average of all values, except where noted.                  
+ 23NA  XA23NE B- DECAY                                                          
+ 23NA  XB23MG EC DECAY                                                          
+ 23NA  XC12C(12C,PG)                                                            
+ 23NA  XD12C(15N,A)                                                             
+ 23NA  XE22NE(P,G)                                                              
+ 23NA  XF22NE(3HE,D),(3HE,DG)                                                   
+ 23NA  XG23NA(G,G')                                                             
+ 23NA  XH23NA(N,N'G)                                                            
+ 23NA  XI23NA(P,P'),(P,P'G)                                                     
+ 23NA  XJ25MG(D,A)                                                              
+ 23NA  XK22NE(D,N),(D,NG)                                                       
+ 23NA  XL22NA(N,G) E=THERMAL                                                    
+ 23NA  XM24MG(T,A),(T,AG)                                                       
+ 23NA  XN26MG(P,AG)                                                             
+ 23NA  XO24MG(D,3HE)                                                            
+ 23NA PN                                                                     6  
+ 23NA  L 0            3/2+             STABLE                                   
+ 23NA2 L MOMM1=+2.217520 2$ MOME2=+0.1006 20                                    
+ 23NAX L XREF=ABCDEFGHIJKLMNO                                                   
+ 23NA cL J$Atomic beam, optical spectroscopy: 1933Gr03, 1933Jo04, 1934El02,     
+ 23NA2cL 1934Ra01.  Parity from systematics of light nuclei and (n,|g)          
+ 23NA3cL primary gamma population of 4+ ground state in {+24}Na.                
+ 23NA  L 439.990    9 5/2+             1.24 PS   8                              
+ 23NA cL T$ From {+12}C({+15}N,|a|g)                                            
+ 23NAX L XREF=ABCDEFGIJKMNO                                                     
+ 23NA cL J$M1+E2 |g to 5/2+, L=2 in ({+3}He,d)                                  
+ 23NA  G   439.986 10 100       M1+E2    +0.058  3                              
+ 23NAB G BM1W=0.208 14$BE2W=24 3                                                
+ 23NA  L 2076.011  22 7/2+             24 FS     2                              
+ 23NAX L XREF=ACDEGHIJKMN                                                       
+ 23NA cL T$From {+22}Ne(p,|g)(p,p')                                             
+ 23NA cL J$M1+E2 |g to 5/2+ and E2+M3 |g to 7/2+                                
+ 23NA  G    1635.96 3 100.00 14 M1+E2    +0.19   1                              
+ 23NAB G BM1W=0.186 16$BE2W=16.6 22                                             
+ 23NA  G    2076.7  5 8.93   14 E2(+M3)  -0.13   1                              
+ 23NAB G BE2W=12.7 11                                                           
+ 23NA  L 2390.732  13 1/2+             594 FS    81                             
+ 23NAX L XREF=BCDEFGIJKMNO                                                      
+ 23NA cL J$ E2 to 5/2+, L=0 in {+22}Ne(d,n)(d,n|g)                              
+ 23NA  G  1950.652 21 52.1    8 E2                                              
+ 23NAB G BE2W=3.0 4                                                             
+ 23NA  G  2390.599 18 100.0   6                                                 
+ 23NA  L 2639.85    4 1/2-             58 FS     11                             
+ 23NAX L XREF=C(*)DEFGHIJKMNO                                                   
+ 23NA cL T$From {+22}Ne(p,|g)(p,p')                                             
+ 23NA cL J$L=1 in {+22}Ne({+3}He,d),({+3}He,d|g)                                
+ 23NA  G    2639.70 5 100                                                       
+ 23NAB G BE1W=0.00068 10                                                        
+ 23NA  L 2703.500  25 9/2+             95 FS     4                              
+ 23NAX L XREF=CDEHIJMN                                                          
+ 23NA cL T$From {+12}C({+12}C,p|g)                                              
+ 23NA cL J$M1+E2 to 7/2+ and E2 to 5/2+                                         
+ 23NA  G     627.48 4 54.4    9 M1+E2    +0.10   2                              
+ 23NAB G BM1W=0.327 16$BE2W=55 22                                               
+ 23NA  G    2263.39 3 100.0   9 E2(+M3)  -0.01   3                              
+ 23NAB G BE2W=16.7 8                                                            
+ 23NA  L 2982.060  19 3/2+             2.5 FS    4                              
+ 23NAX L XREF=ACDEFGIJKMN                                                       
+ 23NA cL J$M1+E2 to 5/2+ and L=2 in {+22}Ne({+3}He,d),({+3}He,d|g)              
+ 23NA  G     591.32 4 0.51   17                                                 
+ 23NAB G BM1W=0.11 4                                                            
+ 23NA  G    2541.92 4 70.1    3 M1+E2    -0.09   3                              
+ 23NAB G BM1W=0.22 4$BE2W=1.8 13                                                
+ 23NA  G    2981.85 4 100.0   3 M1(+E2)  -0.01   2                              
+ 23NAB G BM1W=0.19 4                                                            
+ 23NA  L 3677.60    4 3/2-             24 FS     4                              
+ 23NAX L XREF=CDEFIJMNO                                                         
+ 23NA cL J$M1+E2 |g to 3/2- and L=1 in {+22}Ne({+3}He,d),({+3}He,d|g)           
+ 23NA  G     695.53 9 0.64   13                                                 
+ 23NAB G BE1W=0.00052 13                                                        
+ 23NA  G    1037.71 9 24.7    6 M1+E2    -0.13   4                              
+ 23NAB G BM1W=0.16 3$BE2W=16 11                                                 
+ 23NA  G    1286.83 8 1.65   13                                                 
+ 23NAB G BE1W=0.00021 3                                                         
+ 23NA  G    3237.36 8 100.0   8 E1(+M2)  -0.02   4                              
+ 23NAB G BE1W=0.00081 14                                                        
+ 23NA  L 3848.069  22 5/2-             88 FS     13                             
+ 23NAX L XREF=CDEFIJMN                                                          
+ 23NA cL J$E1(+M2) to 7/2+, |g to 3/2+                                          
+ 23NA  G     865.99 6 3.3     3                                                 
+ 23NAB G BE1W=0.00029 5                                                         
+ 23NA  G    1208.18 7 7.36   16                                                 
+ 23NAB G BE2W=29 4                                                              
+ 23NA  G    1771.99 6 100.0  11 E1(+M2)  -0.02   5                              
+ 23NAB G BE1W=0.00104 16                                                        
+ 23NA  G    3407.81 4 15.5   15 E1+M2    -0.21   14                             
+ 23NAB G BE1W=2.2E-5 4$BM2W=0.4 +5-4                                            
+ 23NA  G    3847.72 4 37.5   10                                                 
+ 23NAB G BE1W=3.8E-5 6                                                          
+ 23NA  L 3914.239  19 5/2+               9 FS    2                              
+ 23NAX L XREF=CDEFGIJMN                                                         
+ 23NA cL J$M1+E2 to 3/2+, M1(+E2) to 7/2+                                       
+ 23NA  G     932.16 4 2.9     3                                                 
+ 23NAB G BM1W=0.076 15                                                          
+ 23NA  G    1523.45 4 1.38   13                                                 
+ 23NAB G BE2W=23 5                                                              
+ 23NA  G    1838.15 5 11.3    3 M1(+E2)  +0.12   12                             
+ 23NAB G BM1W=0.035 8                                                           
+ 23NA  G    3473.97 4 10.19  13                                                 
+ 23NA  G    3913.88 4 100.0   4 M1+E2    +0.22   3                              
+ 23NAB G BM1W=0.031 7$BE2W=0.65 23                                              
+ 23NA  L 4429.64    8 1/2+             218 AS    12                             
+ 23NAX L XREF=CEFGIJKMNO                                                        
+ 23NA cL J$M1 to 1/2+ and L=0 in {+22}Ne({+3}He,d),({+3}He,d|g)                 
+ 23NA  G   2038.80 16   9     3 M1                                              
+ 23NAB G BM1W=1.0 4                                                             
+ 23NA  G   4429.17 16 100     3                                                 
+ 23NAB G BM1W=1.13 9                                                            
+ 23NA  L 4774.61    5 7/2+             1.4 FS    LT                             
+ 23NAX L XREF=DEFIJKMN                                                          
+ 23NA cL J$M1+E2 to 7/2+ and L=4 in {+24}Mg(t,|a).                              
+ 23NA  G   2071.01 10 11      7                                                 
+ 23NA  G   2698.43 10 44.5   16 M1(+E2)  -0.04   10                             
+ 23NAB G BM1W>0.23?                                                             
+ 23NA  G   4334.18 10 100.0  16 M1+E2    +0.18   2                              
+ 23NA  L 5378.57   11 5/2+             143 AS    21                             
+ 23NAX L XREF=CDEFGIJKMNO                                                       
+ 23NA cL J$M1(+E2) to 3/2+ and 7/2+                                             
+ 23NA  G    2396.37   12.4   10                                                 
+ 23NAB G BM1W=0.65 23                                                           
+ 23NA  G    3302.29   39      3 M1(+E2)  +0.06   4                              
+ 23NAB G BM1W=0.95 16                                                           
+ 23NA  G    4938.00   100     3 M1+E2    -0.16   6                              
+ 23NAB G BM1W=0.72 11$BE2W=5 4                                                  
+ 23NA  G    5377.88   22.8   14 M1(+E2)  -0.02   5                              
+ 23NAB G BM1W=0.130 21                                                          
+ 23NA  L 5534.0     3 11/2+            15 FS     10                             
+ 23NAX L XREF=CDFIJMN                                                           
+ 23NA cL J$M1+E2 to 9/2+, E2(+M3) to 7/2+                                       
+ 23NA  G    2829.8 12 100.0  13 M1+E2    +0.17   1                              
+ 23NAB G BM1W=0.15 +30-15$BE2W=4 +8-4                                           
+ 23NA  G    3457.5 25 26.6   13 E2(+M3)  -0.1    3                              
+ 23NAB G BE2W=12 +25-12                                                         
+ 23NA  L 5741.75   10 5/2+             394 AS    27                             
+ 23NAX L XREF=CDEFGIJKMN                                                        
+ 23NA cL J$M1+E2 to 3/2+ and L=2 in {+22}Ne({+3}He,d)                           
+ 23NA  G     5301.1 3 41      8 M1+E2    -0.19   12                             
+ 23NAB G BM1W=0.105 24$BE2W=0.9 +11-9                                           
+ 23NA  G     5741.0 3 100     8 M1+E2    +0.19   3                              
+ 23NAB G BM1W=0.20 3$BE2W=1.5 5                                                 
+ 23NA  L 5766.03    7 3/2+              351 AS   41                             
+ 23NAX L XREF=DEGIJM                                                            
+ 23NA cL J$M1+E2 |g to 3/2+, |g's to 1/2- and 5/2-                              
+ 23NA  G   1917.87 16 2.9    14                                                 
+ 23NA  G   3125.94 16 8.6    18                                                 
+ 23NAB G BE1W=0.0029 8                                                          
+ 23NA  G   5325.37 16 81      5 M1+E2    -0.07   8                              
+ 23NAB G BM1W=0.174 24$BE2W=0.20 +46-20                                         
+ 23NA  G   5765.25 16 100     5 M1+E2    -0.09   5                              
+ 23NAB G BM1W=0.169 23$BE2W=0.3 3                                               
+ 23NA  L 5776       6                                                           
+ 23NAX L XREF=DFJ                                                               
+ 23NA  L 5926.81   12 7/2+             13 FS     5                              
+ 23NAX L XREF=CDEFIJMN                                                          
+ 23NA cL J$M1+E2 to 5/2+, E2(+M3) to 3/2+                                       
+ 23NA  G    1152.2  3 3.53   19                                                 
+ 23NA  G     2012.5 3 12.5    6                                                 
+ 23NA  G     3850.4 3 25.3   24                                                 
+ 23NA  G     5486.1 3 44.6   17 M1+E2    +4.4    6                              
+ 23NAB G BM1W=0.00012 6$BE2W=0.51 20                                            
+ 23NA  G     5926.0 3 100     2 E2(+M3)  +0.01   2                              
+ 23NAB G BE2W=(0.8 4)                                                           
+ 23NA  L 5964.42   12 3/2-             11 FS     LT                             
+ 23NAX L XREF=CFGHKO                                                            
+ 23NA cL J$D |g to 1/2+, |g to 7/2+                                             
+ 23NA  G     1534.7 5 10      4                                                 
+ 23NA  G     2286.7 5 30     10                                                 
+ 23NA  G     3324.3 5 100    20 D+Q      0.0     2                              
+ 23NA  G     3573.4 5 20     10                                                 
+ 23NA  G     5523.7 5 20      8                                                 
+ 23NA  G     5963.6 5 20      8                                                 
+ 23NA  L 6042.19    4 7/2-               6 FS    2                              
+ 23NAX L XREF=CDEFIJMN                                                          
+ 23NA cL J$M1+E2 to 5/2-, p|g(|q)                                               
+ 23NA  G    2127.84 9 5.7    10                                                 
+ 23NAB G BE1W=0.00039 12                                                        
+ 23NA  G    2194.01 9 100     4 M1+E2    -0.13   3                              
+ 23NAB G BM1W=0.17 6$BE2W=4.0 23                                                
+ 23NA  G    2364.46 9 24      6 (E2)                                            
+ 23NAB G BE2W=39 16                                                             
+ 23NA  G    5601.46 9 69      8 E1+M2    +0.17   6                              
+ 23NAB G BE1W=0.00027 10$BM2W=1.1 9                                             
+ 23NA  L 6114.9     7 (7/2,9/2,11/2)+  27 FS     9                              
+ 23NAX L XREF=CDFIJMN                                                           
+ 23NA cL J$M1+E2 to 9/2+                                                        
+ 23NA  G    3410.5 15 100       M1+E2    0.26    33                             
+ 23NAB G BM1W=0.016 6$BE2W=0.6 +15-6                                            
+ 23NA  G       4039   20                                                        
+ 23NA  L 6194.60    9 5/2-             70 FS     LT                             
+ 23NAX L XREF=DEFIJMN                                                           
+ 23NA cL J$|g to 1/2- and 5/2-, p|g(|q)                                         
+ 23NA  G     2346.4 2 94     15                                                 
+ 23NA  G     2516.9 2 100    21                                                 
+ 23NA  G     3554.4 2 68     15                                                 
+ 23NA  G     6193.7 2 32     15                                                 
+ 23NA  L 6235.4     8 (9/2,11/2)+      15 FS     7                              
+ 23NAX L XREF=CDEFIJMN                                                          
+ 23NA cL J$M1+E2 to 9/2+ and 11/2+                                              
+ 23NA  G   699.0   14 14      3 M1+E2     +1.05  70                             
+ 23NAB G BM1W=0.25 22$BE2W=4.E+3 3                                              
+ 23NA  G   3532.6  20 100     3 M1+E2     -0.03  15                             
+ 23NAB G BM1W=0.029 14$BE2W=0.01 +14-10                                         
+ 23NA  L 6307.96   11 1/2+                                                      
+ 23NAX L XREF=EFIJKMN                                                           
+ 23NA cL J$L=0 in {+22}Ne(d,n)                                                  
+ 23NA  G   3916.87 14 100                                                       
+ 23NA  L 6354.51   15 9/2-             21 FS     5                              
+ 23NAX L XREF=CDEFIJMN                                                          
+ 23NA cL J$E1(+M2) |g to 9/2+, |g's to 5/2- and 11/2+                           
+ 23NA  G      820.5 3 3.9     2                                                 
+ 23NAB G BE1W=0.0015 6                                                          
+ 23NA  G     2506.3 3 100     6                                                 
+ 23NAB G BE2W=38 12                                                             
+ 23NA  G     3650.7 3 28      5 E1(+M2)  0.0     +12-3                          
+ 23NAB G BE1W=0.00015 5                                                         
+ 23NA  G     4278.1 3 20      5                                                 
+ 23NAB G BE1W=5.4E-5 22                                                         
+ 23NA  L 6577.79    8 9/2+             11 FS     LT                             
+ 23NAX L XREF=CFGHN                                                             
+ 23NA cL J$M1+E2 to 7/2+, p|g(|q)                                               
+ 23NA  G   2663.38 18 33      7                                                 
+ 23NA  G   3873.94 18 42      9                                                 
+ 23NA  G   4501.30 18 100    12 M1+E2    -0.25   10                             
+ 23NA  G   6136.91 18 58      9                                                 
+ 23NA  L 6618.0     3 (3/2,5/2,7/2)+   0.7 FS    LT                             
+ 23NAX L XREF=CDEFIJ                                                            
+ 23NA cL J$M1+E2 to 5/2+                                                        
+ 23NA  G     1843.2 9 3.07   11                                                 
+ 23NA  G     2703.5 9 1.21   22                                                 
+ 23NA  G     4541.4 9 1.21   22                                                 
+ 23NA  G     6177.0 9 100.0   7 M1+E2      +0.09 1                              
+ 23NA  G     6616.9 9 4.2     6                                                 
+ 23NA  L 6735.51    9 3/2+             415 AS    50                             
+ 23NAX L XREF=CEFGIJ                                                            
+ 23NA cL J$|g to 7/2+ and L=2 in {+22}Ne({+3}He,d)                              
+ 23NA  G     3057.7 2 38     10                                                 
+ 23NAB G BE1W=0.010 4                                                           
+ 23NA  G     4659.0 2 71     13                                                 
+ 23NAB G BE2W=43 11                                                             
+ 23NA  G     6294.6 2 100    13                                                 
+ 23NA  L 6819.61   12 5/2-             8 FS      LT                             
+ 23NAX L XREF=CEFIJ                                                             
+ 23NA cL J$M1+E2 |g to 5/2-, p|g(|q)                                            
+ 23NA  G     2971.3 3 100    11 M1+E2      -0.29 9                              
+ 23NA  G     3141.8 3 67     11                                                 
+ 23NA  L 6867.69   12 3/2+,5/2+        6 FS      LT                             
+ 23NAX L XREF=CEFIJ                                                             
+ 23NA cL J$D+Q |g to 5/2+, L=2 in {+22}Ne({+3}He,d)                             
+ 23NA  G     6426.7 2 100     4 D+Q        +0.5  4                              
+ 23NA  G     6866.6 2 22      4                                                 
+ 23NA  L 6920.6     1 3/2-                                                      
+ 23NAX L XREF=EFIJK                                                             
+ 23NA cL J$|g to 5/2+, L=1 in {+22}Ne({+3}He,d)                                 
+ 23NA  G   6479.61 16 43      3                                                 
+ 23NA  G   6919.49 16 100     3                                                 
+ 23NA  L 6947.40    6 (3/2)+           28 FS     LT                             
+ 23NAX L XREF=CEFGH                                                             
+ 23NA cL J$|g's to 1/2+, 1/2- and L=(2) in {+22}Ne({+3}He,d),                   
+ 23NA2cL M1+E2 |g from 5/2+                                                     
+ 23NA  G   3032.94 16 30      5                                                 
+ 23NA  G   3964.97 16 100     7  D+Q       +0.1  2                              
+ 23NA  G   4307.10 16 26      7                                                 
+ 23NA  G   4556.18 16 48      7                                                 
+ 23NA  G   6506.41 16 61     10                                                 
+ 23NA  G   6946.27 16 55     10                                                 
+ 23NA  L 7070.83   11                                                           
+ 23NAX L XREF=CEGIJ                                                             
+ 23NA  G   3156.35 19 8.9    10                                                 
+ 23NA  G   7069.65 19 100.0  10                                                 
+ 23NA  L 7081.90   19 3/2-             258 AS    31                             
+ 23NAX L XREF=EFGIJK                                                            
+ 23NA cL J$|g to 5/2+, L=1 in {+22}Ne(d,n)                                      
+ 23NA  G    4441.6 20 36      4                                                 
+ 23NA  G     6640.9 3 45      6                                                 
+ 23NAB G BE1W=0.0028 5                                                          
+ 23NA  G     7080.7 3 100     4                                                 
+ 23NAB G BE1W=0.0052 6                                                          
+ 23NA  L 7122       2                                                           
+ 23NAX L XREF=CFGI                                                              
+ 23NA  G       7121 3 100                                                      ?
+ 23NA  L 7133.3     3 3/2+             200 AS    26                             
+ 23NAX L XREF=EFGIJ                                                             
+ 23NA cL J$|g's to 1/2+, 7/2+, L=2 in {+22}Ne({+3}He,d)                         
+ 23NA  G     4150.7 9 30      5                                                 
+ 23NA  G     5056.6 9 30      7                                                 
+ 23NA  G     6692.2 9 68      5                                                 
+ 23NA  G     7132.0 9 100     5                                                 
+ 23NA  L 7150       3                                                           
+ 23NAX L XREF=J                                                                 
+ 23NA  L 7186       3                                                           
+ 23NAX L XREF=CEFIJ                                                             
+ 23NA  L 7267.7     6                  18 FS     6                              
+ 23NAX L XREF=CDFIJ                                                             
+ 23NA  G 1032.6    23      21 4                                                 
+ 23NA  G 1153.0    10      68 6                                                 
+ 23NA  G 4563.5    20     100 9                                                 
+ 23NA  L 7277.11   14 (5/2,7/2)        9 FS      6                              
+ 23NAX L XREF=EFI                                                               
+ 23NA cL J$D+Q to 5/2-,7/2+                                                     
+ 23NA  G     3428.8 3 66      8  D+Q       -0.2  1                              
+ 23NA  G     5200.5 3 100     8  D+Q       +0.07 6                              
+ 23NA  L 7391.1    17  (3/2-)                                                   
+ 23NAX L XREF=DEFIJ                                                             
+ 23NA cL J$L=1 in {+22}Ne({+3}He,d)                                             
+ 23NA  L 7412.40   12                  35 FS     LT                             
+ 23NAX L XREF=DEFI                                                              
+ 23NA  G     3497.9 3 53     13                                                 
+ 23NA  G     5335.7 3 69     11                                                 
+ 23NA  G     6971.3 3 100    11                                                 
+ 23NA  L 7451.51   25 5/2+             3 FS      LT                             
+ 23NAX L XREF=DEFIJK                                                            
+ 23NA cL J$M1+E2 to 5/2+, L=2 in {+22}Ne({+3}He,d)                              
+ 23NA  G     3603.1 9 8.3    13                                                 
+ 23NA  G     5060.2 9 3.3    11                                                 
+ 23NA  G     7010.4 9 100.0  17 M1+E2      -0.8  2                              
+ 23NA  L 7487.82   10 (1/2,3/2)-       3 FS      LT                             
+ 23NAX L XREF=EFIJ                                                              
+ 23NA cL J$D |g's to 1/2+, 1/2-, 3/2+ and L=1 in {+22}Ne({+3}He,d)              
+ 23NA  G   3809.90 19 100    16                                                 
+ 23NA  G   4847.43 19 44     11 D                                               
+ 23NA  G   5096.50 19 78     13 D                                               
+ 23NA  L 7566.21   165/2-              3 FS      LT                             
+ 23NAX L XREF=CEFGIJ                                                            
+ 23NA cL J$E1+M2 |g from 7/2-, |g to 3/2+                                       
+ 23NA  G   7125.0  3      33  7                                                 
+ 23NA  G   7564.9  3      100 7                                                 
+ 23NA  L 7686       2                                                           
+ 23NAX L XREF=CDFIJ                                                             
+ 23NA  L 7724.44   10                                                           
+ 23NAX L XREF=EFIJ                                                              
+ 23NA  G   4741.86 17 33      7                                                 
+ 23NA  G   7723.05 17 100     7                                                 
+ 23NA  L 7750.52   11                                                           
+ 23NAX L XREF=EFIJ                                                              
+ 23NA  G     4767.9 2 100     4                                                 
+ 23NA  G     7309.3 2 100     4                                                 
+ 23NA  L 7834.13   10 5/2+,7/2         3.5 FS    LT                             
+ 23NAX L XREF=DEFIJ                                                             
+ 23NA cL J$D+Q |g to 5/2+, |g to 9/2+                                           
+ 23NA  G   3919.53 19 34     10                                                 
+ 23NA  G   5130.01 19 38     12                                                 
+ 23NA  G   7392.85 19 100    16 D+Q       -0.07  7                              
+ 23NA  L 7872.83    8 3/2,5/2+         3.5 FS    LT                             
+ 23NAX L XREF=CEIJ                                                              
+ 23NA cL J$D+Q |g to 5/2+, |g to 1/2+                                           
+ 23NA  G    4890.2116 57     14                                                 
+ 23NA  G    5481.3916 37      9                                                 
+ 23NA  G    7431.5416 100    14 D+Q       -0.8   6                              
+ 23NA  L 7876.22   25                  12 FS     LT                             
+ 23NAX L XREF=E                                                                 
+ 23NA  G     4027.7 9 51      9                                                 
+ 23NA  G     4198.2 9 57     11                                                 
+ 23NA  G     7874.7 9 100     6                                                 
+ 23NA  L 7891.19   15 5/2+             164 AS    21                             
+ 23NA2 L ISPIN=3/2                                                              
+ 23NA cL J$D+Q to 3/2+,5/2+, L=2 in {+22}Ne({+3}He,d)                           
+ 23NAX L XREF=EFGIK                                                             
+ 23NA  G     5814.4 3 16      8                                                 
+ 23NA  G     7449.9 3 48      8 D+Q       0.0    2                              
+ 23NAB G BM1W=0.113 11                                                          
+ 23NA  G     7889.7 3 100     8 D+Q       -0.06  4                              
+ 23NAB G BM1W=0.194 15                                                          
+ 23NA  L 7964.9    12                                                           
+ 23NAX L XREF=DEFIJ                                                             
+ 23NA  G       5888 2 87     16                                                 
+ 23NA  G       7524 2 100    18                                                 
+ 23NA  L 7982       3                  28 FS     LT                             
+ 23NAX L XREF=CDFJ                                                              
+ 23NA  L 7991       2                                                           
+ 23NAX L XREF=CGI                                                               
+ 23NA  G       7990 3 100                                                      ?
+ 23NA  L 8061.1    15 5/2+,7/2,9/2+                                             
+ 23NAX L XREF=CDEFIJ                                                            
+ 23NA cL J$|g's to 5/2+,9/2+                                                    
+ 23NA  G       5357 3 100    40                                                 
+ 23NA  G       7620 3 100    40                                                 
+ 23NA  L 8100       9                                                           
+ 23NAX L XREF=FJ                                                                
+ 23NA  L 8122       7                                                           
+ 23NAX L XREF=FJ                                                                
+ 23NA  L 8149       5                                                           
+ 23NAX L XREF=FJ                                                                
+ 23NA  L 8173       7                                                           
+ 23NAX L XREF=FJ                                                                
+ 23NA  L 8220       5                                                           
+ 23NAX L XREF=FJ                                                                
+ 23NA  L 8261.0     5                                                           
+ 23NAX L XREF=EFIJ                                                              
+ 23NA  L 8302.01   13   5/2            60 FS     LT                             
+ 23NAX L XREF=EFIK                                                              
+ 23NA cL J$L=3 in {+22}Ne(d,n), |g from 3/2+                                    
+ 23NA  G     7860.6 2 100    25                                                 
+ 23NA  L 8328       3                                                           
+ 23NAX L XREF=CIJ                                                               
+ 23NA  L 8360.0     5                                                           
+ 23NAX L XREF=EFGIJ                                                             
+ 23NA  G     6283.1 9 28      4                                                 
+ 23NA  G     7918.5 9 60      6                                                 
+ 23NA  G     8358.4 9 100     6                                                 
+ 23NA  L 8417.43   10 3/2+             21 FS     LT                             
+ 23NAX L XREF=EFIJK                                                             
+ 23NA cL J$L=2 in {+22}Ne(d,n), M1+E2 |g from 5/2+                              
+ 23NA  G    5434.6818 41     14                                                 
+ 23NA  G    6025.8518 100    14                                                 
+ 23NA  G    8415.7718 41     14                                                 
+ 23NA  L 8475.6     3  3/2+,5/2+                                                
+ 23NAX L XREF=CDEFIJ                                                            
+ 23NA cL J$L=2 in {+22}Ne({3}He,d)                                              
+ 23NA  G     8034.2 5 100                                                      ?
+ 23NA  L 8503       3                                                           
+ 23NAX L XREF=FIJ                                                               
+ 23NA  L 8558       3                                                           
+ 23NAX L XREF=FIJ                                                               
+ 23NA  L 8611.1     9                                                           
+ 23NAX L XREF=EFIJ                                                              
+ 23NA  L 8631.0     6                                                           
+ 23NAX L XREF=CEGI                                                              
+ 23NA  G     8629.3 9 100                                                       
+ 23NA  L 8646.7    20 1/2+                                                      
+ 23NAX L XREF=DFGIJ                                                             
+ 23NA cL J$L=0 in {+22}Ne({+3}He,d)                                             
+ 23NA  G       8645 2 100                                                       
+ 23NA  L 8663.8     5 1/2+             128 AS    16                             
+ 23NA2 L ISPIN=(3/2)                                                            
+ 23NAX L XREF=EFGIK                                                             
+ 23NA cL J$L=0 in {+22}Ne({+3}He,d)                                             
+ 23NA  G     5681.0   5       3                                                 
+ 23NA  G     6023.1   8       4 E1                                              
+ 23NAB G BE1W=0.0020 11                                                         
+ 23NA  G     6272.1   6       4 M1                                              
+ 23NAB G BM1W=0.035 24                                                          
+ 23NA  G     8662.0   100     3                                                 
+ 23NA  L 8721       2                                                           
+ 23NAX L XREF=CFGIJ                                                             
+ 23NA  G       8720 2 100                                                      ?
+ 23NA  L 8797       3                                                           
+ 23NAX L XREF=DFIJK                                                             
+ 23NA  L 8822       3                                                           
+ 23NAX L XREF=CDIJ                                                              
+ 23NA cL J$from 1998En04                                                        
+ 23NA  L 8829.5     5 1/2+             211 AS    70                             
+ 23NAX L XREF=CEFGK                                                             
+ 23NA cL J$L=0 in {+22}Ne({+3}He,d)                                             
+ 23NA  G     6437.8 7 100    16 M1                                              
+ 23NAB G BM1W=0.25 10                                                           
+ 23NA  G     8827.7 7 56     16                                                 
+ 23NA  L 8862         1/2+                                                     ?
+ 23NAX L XREF=F                                                                 
+ 23NA cL J$L=0 in {+22}Ne({+3}He,d)                                             
+ 23NA  L 8894         1/2+                                                     ?
+ 23NAX L XREF=F                                                                 
+ 23NA cL J$L=0 in {+22}Ne({+3}He,d)                                             
+ 23NA  L 8946       3  5/2-,7/2-       21 FS     10                             
+ 23NAX L XREF=FIJK                                                              
+ 23NA cL J$L=3 in {+22}Ne({+3}He,d)                                             
+ 23NA  L 8972       3  3/2+,5/2+                                                
+ 23NAX L XREF=CFIJ                                                              
+ 23NA cL J$L=2 in {+22}Ne({+3}He,d)                                             
+ 23NA  L 9000                                                                  ?
+ 23NAX L XREF=F                                                                 
+ 23NA  L 9038.7    10                   9 FS     6                              
+ 23NAX L XREF=CDFIJ                                                             
+ 23NA  G    1770.4 11 32      3                                                 
+ 23NA  G    2803.9 12 100     5                                                 
+ 23NA  G    3503.1 36 35      3                                                 
+ 23NA  L 9072       3                                                           
+ 23NAX L XREF=IJ                                                                
+ 23NA  L 9103       3                                                           
+ 23NAX L XREF=FIJ                                                               
+ 23NA  L 9113       3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 9171       3                                                           
+ 23NAX L XREF=DFIJ                                                              
+ 23NA  L 9211.02   23 3/2+               4.1 FS  15                             
+ 23NAX L XREF=EFGIJO                                                            
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-, p|g(|q)                              
+ 23NA  G 1723.1     8     7.7                                                   
+ 23NA  G 3016.2     8     11                                                    
+ 23NA  G 3246.3     8     57                                                    
+ 23NA  G 4780.8     8     7.7                                                   
+ 23NA  G 5296.1     8     100                                                   
+ 23NA  G 5362.3     8     7.0                                                   
+ 23NA  G 5532.7     8     10                                                    
+ 23NA  G 6228.3     8     83                                                    
+ 23NA  G 6570.1     8     33                                                    
+ 23NA  G 6819.2     8     8.0                                                   
+ 23NA  G 8769.2     8     7.0                                                   
+ 23NA  G 9209.0     8     2.3                                                   
+ 23NA  L 9252.1     3 1/2+                                                      
+ 23NAX L XREF=EFIO                                                              
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, p|g(|q)                                    
+ 23NA  G 2331.4    10 1.7                                                       
+ 23NA  G 3485.8    10 5.2                                                       
+ 23NA  G 4821.9    10 3.9                                                       
+ 23NA  G 5337.2    10 1.5                                                       
+ 23NA  G 5573.8    10 8.9                                                       
+ 23NA  G 6269.1    10 70                                                        
+ 23NA  G 6611.2    10 18                                                        
+ 23NA  G 6860.3    10 8                                                         
+ 23NA  G 9250.1    10 100                                                       
+ 23NA  L 9286       3  3/2+,5/2+                                                
+ 23NAX L XREF=FIJ                                                               
+ 23NA cL J$L=2 in {+22}Ne({+3}He,d)                                             
+ 23NA  L 9322       3                                                           
+ 23NAX L XREF=FIJ                                                               
+ 23NA  L 9396.39    8 7/2-                                                      
+ 23NAX L XREF=EFIJ                                                              
+ 23NA cL J$M1+E2 |g's to 5/2- and 9/2-                                          
+ 23NA  G 978.9      3 0.83                                                      
+ 23NA  G 1520.1     3 92        D+Q       +0.08  7                              
+ 23NA  G 1645.8     3 11                                                        
+ 23NA  G 1830.1     3 13        E1+M2     +0.13  7                              
+ 23NA  G 1944.8     3 8.3                                                       
+ 23NA  G 1983.9     3 42        D+Q                                             
+ 23NA  G 2119.2     3 83        D+Q       -0.04  6                              
+ 23NA  G 2211       3 17                                                        
+ 23NA  G 2576.6     3 100       M1+E2     +0.06  2                              
+ 23NA  G 2818.4     3 37                                                        
+ 23NA  G 3041.7     3 17        M1+E2     +0.24  7                              
+ 23NA  G 3201.6     3 62        M1+E2     -0.11  2                              
+ 23NA  G 3353.9     3 81        M1+E2     +0.03  6                              
+ 23NA  G 3654.3     3 83        E1+M2     +0.02  2                              
+ 23NA  G 4621.3     3 5.8                                                       
+ 23NA  G 5481.5     3 23                                                        
+ 23NA  G 5547.6     3 100       M1+E2     +0.02  2                              
+ 23NA  G 6691.9     3 39                                                        
+ 23NA  G 8954.5     3 25        E1+M2     +2.6   7                              
+ 23NA  L 9401.2     4                                                           
+ 23NAX L XREF=EJ                                                                
+ 23NA  L 9404.80   18 1/2+             65 EV                                    
+ 23NAX L XREF=E                                                                 
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, p|g(|q)                                    
+ 23NA  G 1680.3     5  0.5                                                      
+ 23NA  G 3638.5     5  0.4                                                      
+ 23NA  G 4974.6     5  3.5                                                      
+ 23NA  G 5726.4     5  8.7                                                      
+ 23NA  G 6421.8     5  9.7                                                      
+ 23NA  G 6763.9     5  4.1                                                      
+ 23NA  G 8962.9     5  1.3                                                      
+ 23NA  G 9402.7     5  100                                                      
+ 23NA  L 9426.10   14 3/2-                                                      
+ 23NAX L XREF=EFIJ                                                              
+ 23NA cL J$E1+M2 |g to 1/2+ and 5/2+                                            
+ 23NA  G 1938.2     5  6        M1+E2     +0.098 9                              
+ 23NA  G 2344.1     5           M1+E2     +0.11  15                             
+ 23NA  G 2606.3     5           M1+E2     +0.18  4                              
+ 23NA cG MR$or <-8                                                              
+ 23NA  G 2690.4     5           E1+M2     +0.04  5                              
+ 23NA  G 3117.9     5           E1+M2     -0.01  3                              
+ 23NA cG MR$or -1.7 {I2}                                                        
+ 23NA  G 3461.4     5           M1+E2     +0.01  5                              
+ 23NA  G 3659.8     5           E1+M2     -0.18  6                              
+ 23NA  G 4995.9     5           E1+M2     +0.005 10                             
+ 23NA  G 5511.2     5           E1+M2     -0.07  2                              
+ 23NA  G 5577.3     5           M1+E2     -0.28  2                              
+ 23NA  G 6785.2     5           M1+E2     +0.25  4                              
+ 23NA  G 7034.2     5           E1+M2     +0.022 4                              
+ 23NA  G 8984.2     5           E1+M2     +0.40  5                              
+ 23NA cG MR$or +6 {I2}                                                          
+ 23NA  G 9424.0    5            E1+M2     +0.35  3                              
+ 23NA cG MR$or +1.5 {I2}                                                        
+ 23NA  L 9475       4                                                           
+ 23NAX L XREF=FIJ                                                               
+ 23NA  L 9487.75   22 3/2                                                       
+ 23NAX L XREF=E                                                                 
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-                                       
+ 23NA  G 3179.5     8 4.4                                                       
+ 23NA  G 3292.8     8 1.4                                                       
+ 23NA  G 3523.0     8 3.1                                                       
+ 23NA  G 3721.3     8 5.6                                                       
+ 23NA  G 4108.7     8 3.3                                                       
+ 23NA  G 5057.5     8 5.8                                                       
+ 23NA  G 5573.7     8 9.2                                                       
+ 23NA  G 5809.3     8 2.5                                                       
+ 23NA  G 6504.7     8 6.9                                                       
+ 23NA  G 6846.7     8 50                                                        
+ 23NA  G 7095.8     8 2.2                                                       
+ 23NA  G 9045.8     8 100            D+Q  -1.2    +2-8                          
+ 23NA  G 9485.6     8 83             D+Q  +0.36   10                            
+ 23NA cG MR$or +1.7 {I5}                                                        
+ 23NA  L 9541       3                                                           
+ 23NAX L XREF=FI                                                                
+ 23NA  L 9582       3                                                           
+ 23NAX L XREF=GHI                                                               
+ 23NA  L 9608.20    5 3/2+             6 EV                                     
+ 23NAX L XREF=EFI                                                               
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-, p|g(|q)                              
+ 23NA  G 1735.3     2 0.7                                                       
+ 23NA  G 1883.7     2 1.2                                                       
+ 23NA  G 2120.3     2 1.4                                                       
+ 23NA  G 2218       2 0.2                                                       
+ 23NA  G 2537.2     2 1.6                                                       
+ 23NA  G 2660.6     2 2.8                                                       
+ 23NA  G 2788.4     2 0.9                                                       
+ 23NA  G 2872.5     2 0.5                                                       
+ 23NA  G 3300.0     2 0.5                                                       
+ 23NA  G 3643.5     2 0.2                                                       
+ 23NA  G 3841.8     2 1.4                                                       
+ 23NA  G 3866.1     2 5.1                                                       
+ 23NA  G 4229.2     2 2.1                                                       
+ 23NA  G 5177.9     2 1.2                                                       
+ 23NA  G 5693.2     2 42                                                        
+ 23NA  G 5759.4     2 4.2                                                       
+ 23NA  G 6625.1     2 4.2                                                       
+ 23NA  G 6967.2     2 4.2                                                       
+ 23NA  G 7216.3     2 1.9                                                       
+ 23NA  G 9166.2     2 100                                                       
+ 23NA  G 9606.0     2 56                                                        
+ 23NA  L 9627       2                                                           
+ 23NAX L XREF=GIJ                                                               
+ 23NA  G 9625       2                                                           
+ 23NA  L 9652.2     3 3/2+                                                      
+ 23NAX L XREF=EF                                                                
+ 23NA cL J$|g to 1/2+ and 7/2+                                                  
+ 23NA  G 2784.3    10 3.3                                                       
+ 23NA  G 4877.0    10 41                                                        
+ 23NA  G 5737.2    10 2.2                                                       
+ 23NA  G 5803.3    10 1.5                                                       
+ 23NA  G 5973.8    10 6.5                                                       
+ 23NA  G 7260.2    10 1.7                                                       
+ 23NA  G 7574.9    10 2.2                                                       
+ 23NA  G 9210.2    10 100                                                       
+ 23NA  G 9650.0    10 59                                                        
+ 23NA  L 9655.6     3 (3/2+)           105 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g to 1/2+ and 7/2+.  J|p=1/2+ from p|g(|q).                         
+ 23NA  G 4880.4    10 11                                                        
+ 23NA  G 5225.3    10 2.7                                                       
+ 23NA  G 5740.6    10 1.4                                                       
+ 23NA  G 5977.2    10 64                                                        
+ 23NA  G 6672.5    10 1.8                                                       
+ 23NA  G 7014.6    10 8.6                                                       
+ 23NA  G 7263.6    10 1.4                                                       
+ 23NA  G 9213.6    10 36                                                        
+ 23NA  G 9653.4    10 100                                                       
+ 23NA  L 9674.1     3 3/2+                                                      
+ 23NAX L XREF=EFIJ                                                              
+ 23NA cL J$|g's to 1/2+ and 7/2+                                                
+ 23NA  G 1782.8    10 3.6                                                       
+ 23NA  G 2806.2    10 28                                                        
+ 23NA  G 3479.2    10 6.1                                                       
+ 23NA  G 3907.7    10 9.7                                                       
+ 23NA  G 5759.1    10 21                                                        
+ 23NA  G 5825.2    10 3.9                                                       
+ 23NA  G 5995.7    10 9.7                                                       
+ 23NA  G 6691.0    10 21                                                        
+ 23NA  G 7282.1    10 3.0                                                       
+ 23NA  G 7596.7    10 58                                                        
+ 23NA  G 9232.1    10 100       D+Q        -0.11 7                              
+ 23NA cG MR$or -2.1 {I12}                                                       
+ 23NA  G 9671.9    10 39        D+Q        -3.7  5                              
+ 23NA  L 9682.7     3 3/2+                                                      
+ 23NAX L XREF=EF                                                                
+ 23NA cL J$D+Q |g's to 3/2+, 5/2+, p|g(|q)                                      
+ 23NA  G 1380.7    10 1.8                                                       
+ 23NA  G 2116.4    10 21                                                        
+ 23NA  G 2231.1    10 16                                                        
+ 23NA  G 2600.6    10 8.9                                                       
+ 23NA  G 4907.5    10 13                                                        
+ 23NA  G 5767.7    10 11                                                        
+ 23NA  G 5833.8    10 89                                                        
+ 23NA  G 6004.3    10 30                                                        
+ 23NA  G 6699.6    10 54                                                        
+ 23NA  G 7605.3    10 5.0                                                       
+ 23NA  G 9240.7    10 8.6          D+Q     -1.2  +15-11                         
+ 23NA  G 9680.5    10 100          D+Q     -0.36 10                             
+ 23NA cG MR$or -5.7 {I+57-20}                                                   
+ 23NA  L 9700.8     3 3/2+             29 EV                                    
+ 23NAX L XREF=EFIK                                                              
+ 23NA cL J$|g's to 1/2+ and 7/2+                                                
+ 23NA  G 1809.6    10 0.6                                                       
+ 23NA  G 1950.3    10 0.6                                                       
+ 23NA  G 1976.4    10 0.4                                                       
+ 23NA  G 2965.2    10 0.8                                                       
+ 23NA  G 3958.7    10 4.0                                                       
+ 23NA  G 5270.6    10 0.6                                                       
+ 23NA  G 5785.9    10 4.2                                                       
+ 23NA  G 6022.5    10 5.2                                                       
+ 23NA  G 6717.8    10 8.1                                                       
+ 23NA  G 7059.9    10 17                                                        
+ 23NA  G 7308.9    10 1.5                                                       
+ 23NA  G 7622.5    10 3.1                                                       
+ 23NA  G 9258.9    10 62                                                        
+ 23NA  G 9698.7    10 100                                                       
+ 23NA  L 9732.53    5 7/2                                                       
+ 23NAX L XREF=EFIJ                                                              
+ 23NA cL J$D+Q to 5/2+ and 9/2+                                                 
+ 23NA  G 1256.8     5 7.0                                                       
+ 23NA  G 1430.5     2 4.5                                                       
+ 23NA  G 1671       3 3.0                                                       
+ 23NA  G 1856.2     9 6.0                                                       
+ 23NA  G 1898.32   25 3.0                                                       
+ 23NA  G 1981.9     2 5.0       D+Q       +0.02  4                              
+ 23NA  G 2320.0     3 1.0                                                       
+ 23NA  G 2455.3     3 3.0                                                       
+ 23NA  G 2912.7     3 6.0       D+Q       -0.11  4                              
+ 23NA  G 3154.50   25 14        D+Q       -0.01  3                              
+ 23NA  G 3537.6     3 7.5       D+Q       -3.4   7                              
+ 23NA  G 3690.02   15 70        D+Q       +0.05  4                              
+ 23NA  G 3990.4     3 18        D+Q        0.00  3                              
+ 23NA  G 4353.53   20 20        D+Q       +0.02  3                              
+ 23NA  G 5817.50   14 21                                                        
+ 23NA  G 5883.65   13 95        D+Q       -0.05  2                              
+ 23NA  G 7027.88   13 85        D+Q       -0.02  2                              
+ 23NA  G 7655.15   13 34        D+Q       +0.118 5                              
+ 23NA  G 9290.52   13 100       D+Q       +0.033 7                              
+ 23NA  L 9738       3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 9755.5     4 3/2+                                                      
+ 23NAX L XREF=CGHIO                                                             
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-, p|g(|q)                              
+ 23NA  G 5325.3    10 1.0                                                       
+ 23NA  G 5840.5    10 7.1                                                       
+ 23NA  G 5906.6    10 14                                                        
+ 23NA  G 6077.0    10 17                                                        
+ 23NA  G 7114.5    10 100                                                       
+ 23NA  G 7363.5    10 1.4                                                       
+ 23NA  G 9313.5    10 13                                                        
+ 23NA  G 9753.3    10 16                                                        
+ 23NA  L 9802       2                   8 FS     6                              
+ 23NAX L XREF=CIJ                                                               
+ 23NA  G       2535   57      4                                                 
+ 23NA  G       3566   100     4                                                 
+ 23NA  G       4268   39      4                                                 
+ 23NA  L 9815.70   10 5/2+                                                      
+ 23NAX L XREF=DEIF                                                              
+ 23NA cL J$|g's to 1/2+ and 9/2+                                                
+ 23NA  G 1513.6     5  0.3                                                      
+ 23NA  G 1851       2  4.7                                                      
+ 23NA  G 1924.4     5  0.9                                                      
+ 23NA  G 1942.8     5  1.6                                                      
+ 23NA  G 2403.2     5  2.2                                                      
+ 23NA  G 2682.0     9  2.8                                                      
+ 23NA  G 2744.7     5  9.4                                                      
+ 23NA  G 2868.1     5  11                                                       
+ 23NA  G 3080.0     5  2.2                                                      
+ 23NA  G 3197.6     7  1.6                                                      
+ 23NA  G 3888.5     5  1.6                                                      
+ 23NA  G 4049.3     5  24       M1+E2     -0.039 13                             
+ 23NA  G 4073.5     5  5.0                                                      
+ 23NA  G 5040.5     4  4.4                                                      
+ 23NA  G 5385.4     4  7.5                                                      
+ 23NA  G 5900.6     4  15                                                       
+ 23NA  G 5966.8     4  0.6                                                      
+ 23NA  G 6832.6     4  100                                                      
+ 23NA  G 7111.0     4  21                                                       
+ 23NA  G 7423.7     4  1.9                                                      
+ 23NA  G 7738.3     4  50                                                       
+ 23NA  G 9373.7     4  23                                                       
+ 23NA  G 9813.5     4  20                                                       
+ 23NA  L 9835.4     3 3/2+             47 EV                                    
+ 23NAX L XREF=EFI                                                               
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-, p|g(|q)                              
+ 23NA  G 1944.1    10 3.8                                                       
+ 23NA  G 2702.0    13 5.0                                                       
+ 23NA  G 2764.4    10 0.8                                                       
+ 23NA  G 3099.7    10 3.5                                                       
+ 23NA  G 3640.5    10 11                                                        
+ 23NA  G 4093.2    10 4.0                                                       
+ 23NA  G 4456.4    10 5.5                                                       
+ 23NA  G 5405.1    10 12                                                        
+ 23NA  G 5920.3    10 30                                                        
+ 23NA  G 5986.5    10 8.5                                                       
+ 23NA  G 6156.9    10 0.5                                                       
+ 23NA  G 6852.2    10 0.5                                                       
+ 23NA  G 7443.4    10 30                                                        
+ 23NA  G 9393.3    10 35                                                        
+ 23NA  G 9833.1    10 100                                                       
+ 23NA  L 9850.15   20 1/2+             150 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, p|g(|q)                                    
+ 23NA  G 5419.8     5 11                                                        
+ 23NA  G 6171.6     5 33                                                        
+ 23NA  G 6866.9     5 6.7                                                       
+ 23NA  G 7209.0     5 97                                                        
+ 23NA  G 7458.1     5 100                                                       
+ 23NA  G 9408.9     5 0.9                                                       
+ 23NA  G 9847.8     5 55                                                        
+ 23NA  L 9872       3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 9890.9     2 3/2                                                       
+ 23NAX L XREF=EFI                                                               
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-                                       
+ 23NA  G 4124.5    6  8.7                                                       
+ 23NA  G 4511.9    6  8.7                                                       
+ 23NA  G 5975.8    6  42                                                        
+ 23NA  G 6042.0    6  24                                                        
+ 23NA  G 6212.4    6  33                                                        
+ 23NA  G 7249.8    6  92                                                        
+ 23NA  G 7498.9    6  34                                                        
+ 23NA  G 9448.8    6  75                                                        
+ 23NA  G 9888.6    6  100                                                       
+ 23NA  L 9917.00   25 (3/2+,5/2,7/2+)                                           
+ 23NAX L XREF=EFI                                                               
+ 23NA cL J$|g's to 3/2+, 7/2+                                                   
+ 23NA  G 3049.1    6  13                                                        
+ 23NA  G 5141.8    6  18                                                        
+ 23NA  G 6001.9    6  100                                                       
+ 23NA  G 6068.1    6  55                                                        
+ 23NA  G 9474.9    6  55                                                        
+ 23NA  G 9914.7    6  10                                                        
+ 23NA  L 9939       3                                                           
+ 23NAX L XREF=FI                                                                
+ 23NA  L 9958       3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 9984       3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 10003.21  22 1/2-             475 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 1/2-, 3/2+, 3/2-, p|g(|q)                              
+ 23NA  G 4038.4    8  5.5                                                       
+ 23NA  G 4236.8    6  23                                                        
+ 23NA  G 5572.8    6  6.4                                                       
+ 23NA  G 6324.7    6  7.4                                                       
+ 23NA  G 7020.0    6  4.0                                                       
+ 23NA  G 7362.1    6  100                                                       
+ 23NA  G 7611.1    6  26                                                        
+ 23NA  G 10000.9   6  40                                                        
+ 23NA  L 10017.43  22 5/2+             69 EV                                    
+ 23NAX L XREF=DEFIK                                                             
+ 23NA cL J$|g's to 1/2+ and 9/2+                                                
+ 23NA  G 1386.4    14 0.3                                                       
+ 23NA  G 1599.9    10 0.9       M1+E2     +0.37  4                              
+ 23NAB G BM1W=2.19 6$BE2W=7.7E+2 15                                             
+ 23NA  G 2141.1    14 0.9       D+Q       -0.09  7                              
+ 23NA  G 2565.7    14 1.8       E1+M2     -0.49  3                              
+ 23NAB G BE1W=0.0369 9$BM2W=6.2E+3 6                                            
+ 23NA  G 2740.1    10 0.9                                                       
+ 23NA  G 2884.0    13 0.6                                                       
+ 23NA  G 3096.6    10 0.9                                                       
+ 23NA  G 3281.6    10 0.6                                                       
+ 23NA  G 3399.0    10 11       M1+E2      0.00   1                              
+ 23NAB G BM1W=3.168 3$BE2W=0.001814 3                                           
+ 23NA  G 3974.8    10 0.3                                                       
+ 23NA  G 4250.9    10 0.9       M1+E2     -0.15  4                              
+ 23NAB G BM1W=0.1296 16$BE2W=1.1 6                                              
+ 23NA  G 4276.0    10 1.2                                                       
+ 23NA  G 4638.3    10 2.1       M1+E2     -0.05  4                              
+ 23NA cG MR$or +1.3 {I2}                                                        
+ 23NAB G BM1W=0.2374 10$BE2W=0.18 +30-18                                        
+ 23NA  G 5242.1    10 0.9                                                       
+ 23NA  G 6102.3    10 56        E1+M2     +0.05  2                              
+ 23NAB G BE1W=0.10559 22$BM2W=3.E+1 3                                           
+ 23NA  G 6168.4    10 15        E1+M2      0.00  2                              
+ 23NAB G BE1W=0.027                                                             
+ 23NA  G 6338.9    10 35        E1+M2     -0.020 6                              
+ 23NAB G BE1W=0.059 4$BM2W=2.7                                                  
+ 23NA  G 7034.2    10 100       M1+E2     -0.032 5                              
+ 23NAB G BM1W=3.25$BE2W=0.44                                                    
+ 23NA  G 7312.7    10 0.3                                                       
+ 23NA  G 7625.3    10 1.2                                                       
+ 23NA  G 7939.9    10 15        M1+E2     -0.276 14                             
+ 23NAB G BM1W=0.31$BE2W=2.52                                                    
+ 23NA  G 9575.3    10 44        M1+E2     -0.207 13                             
+ 23NAB G BM1W=0.543 3$BE2W=1.68 21                                              
+ 23NA  G 10015.1   10 4.7       M1+E2     -0.126 11                             
+ 23NAB G BM1W=0.052 15$BE2W=0.055 10                                            
+ 23NA  L 10036      3                                                           
+ 23NAX L XREF=FI                                                                
+ 23NA  L 10049.1    4  3/2+,5/2,7/2+                                            
+ 23NAX L XREF=E                                                                 
+ 23NA cL J$|g's to 3/2+ and 7/2+                                                
+ 23NA  G 6200.1    6  73                                                        
+ 23NA  G 7971.6    6  55                                                        
+ 23NA  G 9607.0    6  100                                                       
+ 23NA  L 10070.9    4 (5/2,7/2)                                                 
+ 23NAX L XREF=EI                                                                
+ 23NA  G 7993.4    6  100                                                       
+ 23NA  G 9628.7    6  64                                                        
+ 23NA  G 10068.5   6  14                                                        
+ 23NA  L 10075.89  16 5/2-                                                      
+ 23NAX L XREF=EF                                                                
+ 23NA cL J$|g's to 1/2- and 7/2+                                                
+ 23NA  G 3257.6    11  13                                                       
+ 23NA  G 4033.3    5  23                                                        
+ 23NA  G 4111.1    7  6.4                                                       
+ 23NA  G 4333.7    6  10                                                        
+ 23NA  G 5300.6    5  82                                                        
+ 23NA  G 6226.9    5  73                                                        
+ 23NA  G 6397.3    5  18                                                        
+ 23NA  G 7092.7    5  68                                                        
+ 23NA  G 7434.7    5  4.1                                                       
+ 23NA  G 7998.4    5  100                                                       
+ 23NA  G 9633.7    5  30                                                        
+ 23NA  G 10073.5   5  26                                                        
+ 23NA  L 10085.29  15 1/2+             1270 EV                                  
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 5/2+, p|g(|q)                                          
+ 23NA  G 3137.7    5  15                                                        
+ 23NA  G 3164.5    5  26                                                        
+ 23NA  G 3349.5    5  18                                                        
+ 23NA  G 3777.0    5  100                                                       
+ 23NA  G 4318.8    5  85                                                        
+ 23NA  G 5654.9    5  12                                                        
+ 23NA  G 6406.7    5  24                                                        
+ 23NA  G 7102.1    5  5.8                                                       
+ 23NA  G 7693.2    5  18                                                        
+ 23NA  G 9643.1    5  27                                                        
+ 23NA  G 10082.9   5  54                                                        
+ 23NA  L 10114.81  24 1/2+             4200 EV                                  
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 3/2+, 3/2-, p|g(|q)                                    
+ 23NA  G 4150.0    7  5.6                                                       
+ 23NA  G 4348.3    5  9.7                                                       
+ 23NA  G 7131.6    5  100                                                       
+ 23NA  G 7722.7    5  2.1                                                       
+ 23NA  G 10112.4   5  12                                                        
+ 23NA  L 10125.92  16 5/2                                                       
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 3/2+, 3/2-, 7/2+, 7/2-                                       
+ 23NA  G 4083.3    6  11                                                        
+ 23NA  G 4161.1    5  7.9                                                       
+ 23NA  G 4384.2    7  33                                                        
+ 23NA  G 4746.8    6  11                                                        
+ 23NA  G 6210.8    5  15                                                        
+ 23NA  G 6276.9    5  20                                                        
+ 23NA  G 6447.3    5  88                                                        
+ 23NA  G 7142.6    5  10                                                        
+ 23NA  G 8048.4    5  100                                                       
+ 23NA  G 9683.7    5  71                                                        
+ 23NA  G 10123.5   5  50                                                        
+ 23NA  L 10164.2    5                                                           
+ 23NAX L XREF=EI                                                                
+ 23NA  L 10169.59  6  5/2+             65 EV                                    
+ 23NAX L XREF=EFI                                                               
+ 23NA cL J$M1+E2 |g's to 3/2+ and 7/2+                                          
+ 23NA  G 1693.8    6  1.3                                                       
+ 23NA  G 2109      3  2.2                                                       
+ 23NA  G 2296.6    3  5.6       D+Q        +0.09 3                              
+ 23NA  G 2335.3    3  3.8       D+Q        0.00  3                              
+ 23NA  G 2892.3    4  1.8                                                       
+ 23NA  G 3301.6    3  15                                                        
+ 23NA  G 3433.8    3  1.1                                                       
+ 23NA  G 3974.6    3  2.0       E1+M2      +0.05 17                             
+ 23NAB G BE1W=0.0171 3$BM2W=12 +84-12                                           
+ 23NA  G 4127.0    3  2.4       E1+M2      +0.06 7                              
+ 23NAB G BE1W=0.018$BM2W=18 +42-18                                              
+ 23NA  G 4242.4    4  4.2       M1+E2      +0.18 4                              
+ 23NA cG MR$or >-4                                                              
+ 23NAB G BM1W=0.75$BE2W=9 4                                                     
+ 23NA  G 4427.3    4  5.8       M1+E2      -0.41 8                              
+ 23NA cG MR$or +2.7 {I7}                                                        
+ 23NAB G BM1W=0.81 5$BE2W=46 16                                                 
+ 23NA  G 4790.5    3  15                                                        
+ 23NA  G 5394.3    2  24        M1+E2      +0.30 2                              
+ 23NAB G BM1W=1.98$BE2W=41 5                                                    
+ 23NA  G 6254.4    2  1.3                                                       
+ 23NA  G 6320.6    2  1.8                                                       
+ 23NA  G 7186.3    2  100       M1+E2      +0.14 2                              
+ 23NAB G BM1W=3.7$BE2W=9 3                                                      
+ 23NA  G 7464.8    2  4.4       M1+E2      +0.03 5                              
+ 23NAB G BM1W=0.15$BE2W=0.016 +54-16                                            
+ 23NA  G 8092.1    2  3.3                                                       
+ 23NA  G 9727.4    2  18        M1+E2      +1.33 9                              
+ 23NAB G BM1W=0.100 9$BE2W=12.3 6                                               
+ 23NA  G 10167.2   2  8.9       M1+E2      -3.4  19                             
+ 23NAB G BM1W=0.010 10$BE2W=7.1 7                                               
+ 23NA  L 10183      3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 10214      3                                                          ?
+ 23NAX L XREF=I                                                                 
+ 23NA  L 10221      3                                                           
+ 23NAX L XREF=DF                                                                
+ 23NA  L 10231.70  11 5/2+             4 EV                                     
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$M1+E2 to 3/2+ and 7/2+                                               
+ 23NA  G 1756.9    7  0.7                                                       
+ 23NA  G 1814.2    5  2.9                                                       
+ 23NA  G 1929.6    5  0.7                                                       
+ 23NA  G 2665.3    5  1.3                                                       
+ 23NA  G 2819.1    5  1.1                                                       
+ 23NA  G 3098.0    10 4.7                                                       
+ 23NA  G 3284.0    4  2.0                                                       
+ 23NA  G 3363.7    5  2.7        M1+E2     +0.12 10                             
+ 23NAB G BM1W=0.061$BE2W=0.5 +9-5                                               
+ 23NA  G 3613.3    10 8.2        M1+E2     -0.03 2                              
+ 23NAB G BM1W=0.15$BE2W=0.07 +10-7                                              
+ 23NA  G 4189.1    4  8.2        E1+M2     -0.02 3                              
+ 23NAB G BE1W=0.0037$BM2W=0.4 +12-4                                             
+ 23NA  G 4304.5    5  40         M1+E2     +0.04 2                              
+ 23NAB G BM1W=0.44$BE2W=0.25 25                                                 
+ 23NA  G 4465.2    4  1.3                                                       
+ 23NA  G 4489.4    5  0.7                                                       
+ 23NA  G 6316.5    4  24                                                        
+ 23NA  G 6382.7    4  0.7                                                       
+ 23NA  G 6553.1    4  10         E1+M2     -0.02 2                              
+ 23NAB G BE1W=0.0012$BM2W=0.05 +10-5                                            
+ 23NA  G 7839.5    4  8.0        E2                                             
+ 23NAB G BE2W=1.6                                                               
+ 23NA  G 9789.5    4  100        M1+E2     +0.30 3                              
+ 23NAB G BM1W=0.085$BE2W=0.53 10                                                
+ 23NA  G 10229.3   4  4.7        M1+E2     +0.03 2                              
+ 23NAB G BM1W=0.0038$BE2W=0.00022 +29-22                                        
+ 23NA  L 10243.7   5  1/2+             2450 EV                                  
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, p|g(|q)                                    
+ 23NA  G 2519.1    14 14                                                        
+ 23NA  G 4477.2    14 12                                                        
+ 23NA  G 5813.3    14 4                                                         
+ 23NA  G 6565.1    14 100                                                       
+ 23NA  G 7260.4    14 10                                                        
+ 23NA  G 7603.0    18 12                                                        
+ 23NA  G 7851.5    14 38                                                        
+ 23NA  G 9801.5    14 10                                                        
+ 23NA  L 10281.54  19 3/2+                                                      
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2- and 7/2+                                                
+ 23NA  G 3147.8    12 3.1                                                       
+ 23NA  G 4316.7     9 6.2                                                       
+ 23NA  G 4515.0     6 16                                                        
+ 23NA  G 4902.4     6 3.1                                                       
+ 23NA  G 5506.2     6 3.3                                                       
+ 23NA  G 6366.3     6 100                                                       
+ 23NA  G 7298.2     6 11                                                        
+ 23NA  G 7640.7     6 14                                                        
+ 23NA  G 7889.3     6 36                                                        
+ 23NA  G 9839.2     6 38                                                        
+ 23NA  G 10279.0    6 25                                                        
+ 23NA  L 10318.06  21 3/2-             2000 EV                                  
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-, p|g(|q)                              
+ 23NA  G 5887.6    6  41                                                        
+ 23NA  G 6469.0    6  13                                                        
+ 23NA  G 6639.4    6  8.2                                                       
+ 23NA  G 7334.7    6  25                                                        
+ 23NA  G 7677.2    6  59                                                        
+ 23NA  G 7925.8    6  3.5                                                       
+ 23NA  G 9875.7    6  100                                                       
+ 23NA  G 10315.5   6  44                                                        
+ 23NA  L 10338.76  24 (3/2)            190 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-.  p|g(|q) gives 1/2-                  
+ 23NA  G 3417.8    7  9.1                                                       
+ 23NA  G 3518.8    8  2.7                                                       
+ 23NA  G 4030.4    7  11                                                        
+ 23NA  G 4373.9    9  4.2                                                       
+ 23NA  G 6660.1    7  15                                                        
+ 23NA  G 7355.4    7  88                                                        
+ 23NA  G 7697.9    7  18                                                        
+ 23NA  G 7946.5    7  45                                                        
+ 23NA  G 9896.4    7  10                                                        
+ 23NA  G 10336.2   7  100                                                       
+ 23NA  L 10346.11  19 5/2+             8 EV                                     
+ 23NAX L XREF=C(*) D(*)EI                                                       
+ 23NA cL J$|g's to 1/2+, 7/2+, 7/2-                                             
+ 23NA  G 4303.5    7  4.1                                                       
+ 23NA  G 4579.6    7  12                                                        
+ 23NA  G 4603.8    7  8.3                                                       
+ 23NA  G 4967.0    7  5.5                                                       
+ 23NA  G 5570.8    7  6.6                                                       
+ 23NA  G 6430.9    7  27                                                        
+ 23NA  G 6497.0    7  2.4                                                       
+ 23NA  G 6667.5    7  5.2                                                       
+ 23NA  G 7362.8    7  13                                                        
+ 23NA  G 7953.9    7  12                                                        
+ 23NA  G 8268.5    7  52                                                        
+ 23NA  G 9903.8    7  97          D+Q      +0.21 8                              
+ 23NA  G 10343.6   7  100         D+Q      -0.27 5                              
+ 23NA  L 10353.84  18 3/2+             210 EV                                   
+ 23NAX L XREF=C(*) D(*)EI                                                       
+ 23NA cL J$|g's to 1/2+, 1/2-, 7/2+                                             
+ 23NA  G 2462.5    7  5.0                                                       
+ 23NA  G 3618.0    7  1.5                                                       
+ 23NA  G 4587.3    7  9.4                                                       
+ 23NA  G 4611.5    7  5.9                                                       
+ 23NA  G 4974.7    7  10                                                        
+ 23NA  G 5923.4    7  4.1                                                       
+ 23NA  G 6438.6    7  2.6                                                       
+ 23NA  G 6504.7    7  88                                                        
+ 23NA  G 6675.2    7  24                                                        
+ 23NA  G 7370.5    7  12                                                        
+ 23NA  G 7713.0    7  100                                                       
+ 23NA  G 7961.6    7  8.2                                                       
+ 23NA  G 8276.2    7  7.6                                                       
+ 23NA  G 9911.5    7  11                                                        
+ 23NA  G 10351.3   7  4.4                                                       
+ 23NA  L 10440.6   3  5/2+             25 EV                                    
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 3/2-, 3/2+, 7/2+, p|g(|q)                                    
+ 23NA  G 2023.1    10 9.2                                                       
+ 23NA  G 3028.0    10 5.8                                                       
+ 23NA  G 3822.2    14 9.4                                                       
+ 23NA  G 5061.4    10 3.3                                                       
+ 23NA  G 6525.4    10 25                                                        
+ 23NA  G 6761.9    10 1.4                                                       
+ 23NA  G 7457.2    10 100                                                       
+ 23NA  G 8363.0    10 26                                                        
+ 23NA  G 9998.3    10 56                                                        
+ 23NA  G 10438.1   10 42                                                        
+ 23NA  L 10448.7   4  5/2+,7/2+                                                 
+ 23NAX L XREF=E                                                                 
+ 23NA cL J$|g's to 3/2+ and 9/2+                                                
+ 23NA  G 1972.9    13 17                                                        
+ 23NA  G 2557.3    12 7.9                                                       
+ 23NA  G 4406.1    12 16                                                        
+ 23NA  G 6533.5    12 48                                                        
+ 23NA  G 6599.6    12 100                                                       
+ 23NA  G 7743.8    12 48                                                        
+ 23NA  G 8371.1    12 55                                                        
+ 23NA  G 10006.4   12 7.9                                                       
+ 23NA  G 10446.2   12 2.4                                                       
+ 23NA  L 10478.90  23 3/2+             470 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2-, 1/2+, 5/2-, 5/2+, p|g(|q)                              
+ 23NA  G 2754.2    7  7.4                                                       
+ 23NA  G 3660.4    12 4.2                                                       
+ 23NA  G 4712.3    7  10                                                        
+ 23NA  G 4737      3  45                                                        
+ 23NA  G 5099.6    7  100                                                       
+ 23NA  G 6563.6    7  35                                                        
+ 23NA  G 6629.7    7  7.7                                                       
+ 23NA  G 7838.0    7  4.5                                                       
+ 23NA  G 8086.5    7  10                                                        
+ 23NA  G 10036.5   7  11                                                        
+ 23NA  G 10476.2   7  87                                                        
+ 23NA  L 10501.95  25 3/2-             920 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2-, 1/2+, 5/2-, 5/2+, p|g(|q)                              
+ 23NA  G 4760      3  1.3                                                       
+ 23NA  G 6071.4    7  1.9                                                       
+ 23NA  G 6652.8    7  13                                                        
+ 23NA  G 6823.2    7  9.1                                                       
+ 23NA  G 7518.5    7  3.8                                                       
+ 23NA  G 7861.1    7  3.2                                                       
+ 23NA  G 8109.6    7  9.1                                                       
+ 23NA  G 10059.5   7  47                                                        
+ 23NA  G 10499.3   7  100                                                       
+ 23NA  L 10507.82  21 1/2+             560 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, p|g(|q)                                    
+ 23NA  G 3425.6    8  20                                                        
+ 23NA  G 3586.9    7  14                                                        
+ 23NA  G 4199.4    7  6.2                                                       
+ 23NA  G 4542.9    9  9.7                                                       
+ 23NA  G 4741.2    7  11                                                        
+ 23NA  G 6077.3    7  31                                                        
+ 23NA  G 6829.1    7  30                                                        
+ 23NA  G 7524.4    7  38                                                        
+ 23NA  G 7867.0    7  100                                                       
+ 23NA  G 8115.5    7  34                                                        
+ 23NA  G 10065.4   7  11                                                        
+ 23NA  G 10505.2   7  38                                                        
+ 23NA  L 10519.10  15 5/2+             100 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$M1+E2 to 3/2+ and 7/2+                                               
+ 23NA  G 1888.0    12 0.7                                                       
+ 23NA  G 2101.6     7 1.7        M1+E2     +0.02 2                              
+ 23NAB G BM1W=8.8$BE2W=5 +11-5                                                  
+ 23NA  G 2159.0    12 0.2                                                       
+ 23NA  G 2627.7     8 3.8        M1+E2     -0.01 4                              
+ 23NAB G BM1W=10$BE2W=1.0 +77-10                                                
+ 23NA  G 2684.8     7 0.7        D+Q       +0.01 5                              
+ 23NA  G 2952.7     8 0.3                                                       
+ 23NA  G 3067.4    12 0.8        M1+E2     -0.52 7                              
+ 23NAB G BE1W=0.04$BM2W=5.2E+3 12                                               
+ 23NA  G 3106.5     8 0.3                                                       
+ 23NA  G 3385.3    12 2.3                                                       
+ 23NA  G 3571.4     7 0.7        M1+E2     -0.06 3                              
+ 23NAB G BM1W=0.73$BE2W=1.4 14                                                  
+ 23NA  G 3598.2     7 0.7                                                       
+ 23NA  G 3651.1     7 1.9        M1+E2     +0.04 5                              
+ 23NAB G BM1W=1.9$BE2W=1.5 +37-15                                               
+ 23NA  G 3699.2     8 0.5        E1+M2     +0.06 13                             
+ 23NAB G BE1W=0.018$BM2W=22 +94-22                                              
+ 23NA  G 3783.3     7 0.5                                                       
+ 23NA  G 3900.6    12 1.8        M1+E2     +0.06 4                              
+ 23NAB G BM1W=1.4$BE2W=2.3 +31-23                                               
+ 23NA  G 4210.7     7 0.2                                                       
+ 23NA  G 4554.2     9 0.4                                                       
+ 23NA  G 4752.5     7 2.6        M1+E2     +0.17 2                              
+ 23NAB G BM1W=1.1$BE2W=9.6 22                                                   
+ 23NA  G 4776.8     8 1.5        M1+E2     +0.04 6                              
+ 23NAB G BM1W=0.66$BE2W=0.3 +10-3                                               
+ 23NA  G 5139.9     7 0.6                                                       
+ 23NA  G 6088.6     7 0.4                                                       
+ 23NA  G 6840.4     7 2.1        E1+M2     0.00  4                              
+ 23NAB G BE1W=0.012                                                             
+ 23NA  G 7535.7     7 3.5        M1+E2     +0.01 3                              
+ 23NAB G BM1W=0.39                                                              
+ 23NA  G 7814.2     7 0.8                                                       
+ 23NA  G 8126.8     7 2.4        E2                                             
+ 23NAB G BE2W=21                                                                
+ 23NA  G 8441.4     7 4.2        M1+E2     +0.43 2                              
+ 23NA cG MR$or +3.0 {I2}                                                        
+ 23NAB G BM1W=0.28$BE2W=4.9 4                                                   
+ 23NA  G 10076.7    7 25         M1+E2     -0.19 3                              
+ 23NAB G BM1W=1.1$BE2W=2.7 9                                                    
+ 23NA  G 10519.1    7 40         M1+E2     -0.13 2                              
+ 23NAB G BM1W=1.6$BE2W=1.6 5                                                    
+ 23NA  L 10534.09  25 3/2+,5/2+                                                 
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+ and 7/2+                                                
+ 23NA  G 3613.2    7  15                                                        
+ 23NA  G 5758.7    7  11                                                        
+ 23NA  G 6855.4    7  15                                                        
+ 23NA  G 7550.7    7  3.3                                                       
+ 23NA  G 8141.8    7  9.5                                                       
+ 23NA  G 8456.4    7  7.1                                                       
+ 23NA  G 10091.7   7  20                                                        
+ 23NA  G 10531.5   7  100                                                       
+ 23NA  L 10549.1    3 5/2+             540 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 7/2+, p|g(|q)                                          
+ 23NA  G 2657.8    10 6.0                                                       
+ 23NA  G 2824.6    9  6.5                                                       
+ 23NA  G 4582.3    10 14                                                        
+ 23NA  G 4806.9    10 7.0                                                       
+ 23NA  G 5170.0    9  16                                                        
+ 23NA  G 6118.7    9  70                                                        
+ 23NA  G 6633.9    9  75                                                        
+ 23NA  G 6870.5    9  4.0                                                       
+ 23NA  G 7565.8    9  95                                                        
+ 23NA  G 8156.9    9  46                                                        
+ 23NA  G 8471.5    9  17                                                        
+ 23NA  G 10106.8   9  42                                                        
+ 23NA  G 10546.6   9  100                                                       
+ 23NA  L 10574.5   3  3/2-             1100 EV                                  
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 1/2-, 5/2+, 5/2-, p|g(|q)                              
+ 23NA  G 3753.5    8  9.5                                                       
+ 23NA  G 5195.4    8  4.0                                                       
+ 23NA  G 6144.1    8  7.0                                                       
+ 23NA  G 6659.3    8  7.0                                                       
+ 23NA  G 6725.5    8  61                                                        
+ 23NA  G 6895.9    8  9.5                                                       
+ 23NA  G 7591.2    8  5.7                                                       
+ 23NA  G 7933.3    8  4.3                                                       
+ 23NA  G 8182.3    8  19                                                        
+ 23NA  G 10132.2   8  100                                                       
+ 23NA  L 10592      3                                                           
+ 23NAX L XREF=DI                                                                
+ 23NA  L 10616.9    3 3/2+,5/2+        425 EV                                   
+ 23NAX L XREF=EI                                                                
+ 23NA cL J$|g's to 1/2+, 7/2+                                                   
+ 23NA  G 3748.9    8  8.9                                                       
+ 23NA  G 4850.3    8  11                                                        
+ 23NA  G 6701.6    8  16                                                        
+ 23NA  G 6938.2    8  30                                                        
+ 23NA  G 8224.6    8  5.6                                                       
+ 23NA  G 8539.2    8  8.1                                                       
+ 23NA  G 10174.5   8  100                                                       
+ 23NA  G 10614.3   8  6.1                                                       
+ 23NA  L 10665      3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 10678      3  (3/2-)          23 KEV                                   
+ 23NAX L XREF=IO                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10704      2  (3/2-)          400 EV                                   
+ 23NAX L XREF=CH                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10770      3(5/2+,3/2+)       5 EV      LT                             
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10823      3(3/2+)            1700 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10824      4(3/2-)            26000 EV                                 
+ 23NAX L XREF=IK                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10839      3(5/2+,3/2+)       100 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10870      4(3/2-)            21000 EV                                 
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10906      4(1/2-)            53 EV                                    
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10907      4(1/2-)            2850 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10908      4(5/2+)            900 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10918      3(1/2+)            55 EV                                    
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10930      4(3/2+)            3500 EV                                  
+ 23NAX L XREF=IK                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10953      4(1/2+)            5200 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10954      4(7/2-)            65 EV                                    
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10968      4(5/2+,3/2+)       400 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10973      3(3/2+)            18 EV                                    
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10981      3(3/2-)            6000 EV                                  
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10993      3(1/2+)            20600 EV                                 
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 10994      4(3/2+)            60 EV                                    
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11004      3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11040      3(1/2+)            500 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11088      3(1/2-)            800 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11109      4(5/2+)            135 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11112      3(3/2+)            4100 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11133      3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 11155      3                                                           
+ 23NAX L XREF=I                                                                 
+ 23NA  L 11198      4(3/2+)            800 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11238      4(3/2-)            12200 EV                                 
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11250      4(3/2+)            20000 EV                                 
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11267      4(3/2-)            600 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11273      4(3/2+)            1750 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11277      4(3/2+)            500 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11280      4(3/2+)            4000 EV                                  
+ 23NAX L XREF=IK                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11286      4(1/2+)            11000 EV                                 
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11303      4(3/2+)            300 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11329      4(1/2-)            80000 EV                                 
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11334      4(5/2+)            4000 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11335      4(3/2-)            2000 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11336      4(3/2+)            750 EV                                   
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11351      4(1/2-)            4000 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11355      4(1/2+)            13500 EV                                 
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11426      4(1/2-)            35000 EV                                 
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11496      4(7/2-)            5500 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11520      4(5/2+)            3050 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11525      4(5/2+)            6900 EV                                  
+ 23NAX L XREF=I                                                                 
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11539      4(5/2+)            130 EV                                   
+ 23NAX L XREF=IK                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11554      41/2+              3100 EV                                  
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11585      4(5/2+)            600 EV                                   
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11613      4(3/2-)            3200 EV                                  
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11665      4(1/2-,3/2-)       14000 EV                                 
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11692      4(1/2+)            1900 EV                                  
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11701      4(3/2-)            7000 EV                                  
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11709      4(5/2+)            3200 EV                                  
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11748      4(7/2-)            2300 EV                                  
+ 23NAX L XREF=DIK                                                               
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11765      4(1/2-)            15000 EV                                 
+ 23NAX L XREF=DI                                                                
+ 23NA cL J$From {+23}Na(p,p')                                                   
+ 23NA  L 11880                                                                  
+ 23NAX L XREF=K                                                                 
+ 23NA  L 12050                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 12330                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 12556.8   14 (5/2,7/2)+       116 EV    20                             
+ 23NAX L XREF=D                                                                 
+ 23NA  L 12592.5   19                  14 FS     LT                             
+ 23NAX L XREF=C                                                                 
+ 23NA  G 2792             25                                                    
+ 23NA  G 5323.6    19     50                                                    
+ 23NA  G 6355             25                                                    
+ 23NA  L 12820                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 12920                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 13050                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 13210                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 13720                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 14080                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 14375                                                                  
+ 23NAX L XREF=DK                                                                
+ 23NA  L 14440                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 14980                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 15450                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 15900                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 15980                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 16320                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 16600                                                                  
+ 23NAX L XREF=D                                                                 
+ 23NA  L 19594.9   21 (5/2+)           1.9 KEV   8                              
+ 23NAX L XREF=E                                                                 
+ 23NA2 L ISPIN=5/2                                                              
+ 23NA cL J$Assignment based on excitation function and observation of a sharp   
+ 23NA2cL at the expected energy from the isobaric mass multiplet equation.      
+

@@ -1,0 +1,403 @@
+ 15O     ADOPTED LEVELS, GAMMAS        1991AJ01                  91NP     200204
+ 15O   H TYP=ERR$AUT=J. Kelley$COM=fixed typo$DAT=14-Mar-2008$                  
+ 15O   H TYP=MOD$AUT=J. Blachot$COM=added T reference$DAT=15-MAR-2001$          
+ 15O   H TYP=FUL$AUT=F. AJZENBERG-SELOVE$CIT=NP A523,1 (1991)$CUT=1-Jul-1990$   
+ 15O  D  ADDED PN RECORD.                                                       
+ 15O 2D  REORDERED GAMMAS FROM 8922 LEVEL (TWB. 940526)                         
+ 15O   Q -13.92E+3 13 13222.4 5 7297.0 5 -10220.0 11   1997AU04                 
+ 15O  PN                                                                     6  
+ 15O   XA12C(3HE,X) RES                                                         
+ 15O   XB12C(A,N)                                                               
+ 15O   XC12C(6LI,T)                                                             
+ 15O   XD12C(12C,9BE)                                                           
+ 15O   XE13C(3HE,N)                                                             
+ 15O   XF14C(P,PI-)                                                             
+ 15O   XG14N(P,G) RES                                                           
+ 15O   XH14N(P,N) RES                                                           
+ 15O   XI14N(P,P) RES                                                           
+ 15O   XJ14N(P,3HE) RES                                                         
+ 15O   XK14N(P,A) RES                                                           
+ 15O   XL14N(D,N)                                                               
+ 15O   XM14N(3HE,D)                                                             
+ 15O   XN15N(P,N)                                                               
+ 15O   XO15N(3HE,T)                                                             
+ 15O   XP16O(G,N)                                                               
+ 15O   XQ16O(P,PN)                                                              
+ 15O   XR16O(P,D)                                                               
+ 15O   XS16O(D,T)                                                               
+ 15O   XT16O(3HE,A)                                                             
+ 15O   XU17O(P,T)                                                               
+ 15O  cL E(A)      Decay mode not specified                                     
+ 15O  cG MR        The signature has been changed, where necessary, from        
+ 15O 2cG that given in 1991Aj01 in order to conform to the convention used in   
+ 15O 3cG the nuclear data sheets.                                               
+ 15O   L 0.0          1/2-             122.24 S  16                             
+ 15O  cL T$From 1977Az01                                                        
+ 15O 2 L %EC+%B+=100$ MOMM1=0.7189 8 (1989Ra17)$ ISPIN=1/2                      
+ 15O 3 L XREF=ABCDEFGLMNOPQRSTU                                                 
+ 15O   L 5183      1  1/2+             5.7 FS    7                              
+ 15O 2 L XREF=CEGLMOPRST                                                        
+ 15O   G 5182      1  100      [E1]                                             
+ 15O 2 G BE1W=0.0014 2                                                          
+ 15O   L 5240.9    3  5/2+             2.25 PS   21                             
+ 15O 2 L MOMM1=+0.65 7 (1989Ra17)                                               
+ 15O 3 L XREF=BCDEGLMNOPRSTU                                                    
+ 15O   G 5239.9    3  100      [M2+E3]   -0.10   4                              
+ 15O 2 G BM2W=0.55 6$BE3W=4 2                                                   
+ 15O   L 6176.3    17 3/2-             1.74 FS   LT                             
+ 15O 2 L XREF=CEGLMNOPQRSTU                                                     
+ 15O   G 6174.9    17 100      [M1+E2]   +0.125  7                              
+ 15O 2 G BM1W>0.053$ BE2W>0.28                                                  
+ 15O   L 6793.1    17 3/2+             20 FS     LT                             
+ 15O 2 L XREF=CEGLMOT                                                           
+ 15O   G 6791.4    17 100      [E1(+M2)] +0.02   2                              
+ 15O 2 G BE1W>1.9E-4                                                            
+ 15O   L 6859.4    9  5/2+             11.1 FS   17                             
+ 15O 2 L XREF=BCEGLMOPTU                                                        
+ 15O   G 1618.4    10 100      [M1(+E2)] +0.04   3                              
+ 15O 2 G BM1W=0.46 7                                                            
+ 15O   L 7275.9    6  7/2+             0.49 PS   11                             
+ 15O 2 L XREF=BCDEFLMNORTU                                                      
+ 15O   G 2034.9    7  100.0  12[M1]                                             
+ 15O 2 G BM1W=0.0051 10                                                         
+ 15O   G 7274.0    6  4.0    12  [E3]                                           
+ 15O 2 G BE3W=6.4 25                                                            
+ 15O   L 7556.5    4  1/2+             0.99 KEV  10                             
+ 15O 2 L WIDTHG=0.042 EV$ %IT=0.0042$ %P=99.9958                                
+ 15O 3 L XREF=EGLMNORT                                                          
+ 15O   G 697.1     10 11     LT                                                 
+ 15O  cG RI        I|g<0.25I|g(763|g)                                           
+ 15O   G 763.4     17 40.3   11[M1]                                             
+ 15O 2 G BM1W=1.0                                                               
+ 15O   G 1380.1    17 100.0  7 [E1]                                             
+ 15O 2 G BE1W=0.022                                                             
+ 15O   G 2373      1  27.5   11[M1]                                             
+ 15O 2 G BM1W=0.0024                                                            
+ 15O   G 7554.5    4  6.1    9 [E1]                                             
+ 15O 2 G BE1W=8.5E-6                                                            
+ 15O   L 8284.0    5  3/2+             3.6 KEV   7                              
+ 15O 2 L WIDTHG=0.46 EV 6$ %IT=0.027$ %P=99.973                                 
+ 15O 3 L XREF=CEGLMT                                                            
+ 15O   G 1424.5    10 2.3    6 [M1]                                             
+ 15O 2 G BM1W=0.09 3                                                            
+ 15O  cG           B(M1)(W.u.): value is based on adopted branchings and |G{-|g}
+ 15O 2cG from table 15.17                                                       
+ 15O   G 2107.5    17 4.1    12[E1]                                             
+ 15O 2 G BE1W=0.0026 8                                                          
+ 15O  cG           B(E1)(W.u.): value is based on adopted branchings and |G{-|g}
+ 15O 2cG from table 15.17                                                       
+ 15O   G 3042.8    6 79.3    10[M1]                                             
+ 15O 2 G BM1W=0.33 5                                                            
+ 15O  cG           B(M1)(W.u.): value is based on adopted branchings and |G{-|g}
+ 15O 2cG from table 15.17                                                       
+ 15O   G 3100.7    11 2.3    2                                                  
+ 15O   G 8281.5    5 100.0   5 [E1]                                             
+ 15O 2 G BE1W=0.00103 13                                                        
+ 15O  cG           B(E1)(W.u.): value is based on adopted branchings and |G{-|g}
+ 15O 2cG from table 15.17                                                       
+ 15O   L 8743      6  1/2+             32 KEV                                   
+ 15O 2 L %IT=0.0015$ %P=99.9985                                                 
+ 15O 3 L XREF=EGT                                                               
+ 15O   G 2566      6  56     5 [E1]                                             
+ 15O 2 G BE1W=0.023                                                             
+ 15O   G 3560      6 100     5 [M1]                                             
+ 15O 2 G BM1W=0.34                                                              
+ 15O   L 8922      2  5/2+             3.3 KEV   3                              
+ 15O 2 L %IT=?$ %P=100                                                          
+ 15O 3 L XREF=BCEGRT                                                            
+ 15O   G 2063      2  72     8                                                  
+ 15O   G 2746      3  62     8                                                  
+ 15O   G 3738      2  100    8                                                  
+ 15O   G 8919      2  23     11                                                 
+ 15O   L 8922      2  1/2+             7.5 KEV                                  
+ 15O 2 L %IT=?$ %P=100                                                          
+ 15O 3 L XREF=BEGRT                                                             
+ 15O   G 2063      2  20     20                                                 
+ 15O   G 2738      2  40     20                                                 
+ 15O   G 2746      3  40     20                                                 
+ 15O   G 8919      2 100     50                                                 
+ 15O   L 8982.1    17(1/2)-            3.9 KEV   4                              
+ 15O 2 L %IT=?$ %P=100                                                          
+ 15O 3 L XREF=CEGT                                                              
+ 15O   G 3799      1  6.4    11                                                 
+ 15O   G 8979.2    17 100.0  11                                                 
+ 15O   L 9484      8 (3/2)+            200 KEV   AP                             
+ 15O 2 L WIDTHG=9.1 EV 20$ %IT AP 0.0046$ %P=100                                
+ 15O 3 L XREF=GT                                                                
+ 15O   G 9481      8 100                                                        
+ 15O   L 9488      3  5/2-             10.1 KEV  5                              
+ 15O 2 L WIDTHG=2.4 EV$ %IT=0.024$ %P=99.976                                    
+ 15O 3 L XREF=CEGT                                                              
+ 15O   G 2212      3  5.9      [E1]                                             
+ 15O 2 G BE1W=0.025                                                             
+ 15O   G 2628      3  4.0      [E1]                                             
+ 15O 2 G BE1W=0.011                                                             
+ 15O   G 3311      3  0.8      [M1]                                             
+ 15O 2 G BM1W=0.022                                                             
+ 15O  cG           B(M1)(W.u.): value in table 2 is too large since             
+ 15O 2cG |G{-|g}(3311) should be 0.017 eV rather than 0.22 eV, based on         
+ 15O 3cG branching in table 15.17                                               
+ 15O   G 4246      3  7.6      [E1]                                             
+ 15O 2 G BE1W=0.0048                                                            
+ 15O   G 9481      3  100      [E2]                                             
+ 15O 2 G BE2W=15                                                                
+ 15O   L 9609      2  3/2-             8.8 KEV   5                              
+ 15O 2 L WIDTHG=5.0 EV$ %IT=0.057$ %P=99.943                                    
+ 15O 3 L XREF=BCEGT                                                             
+ 15O   G 3433      2  2.5      [M1]                                             
+ 15O 2 G BM1W=0.1                                                               
+ 15O   G 4367      2  24       [E1]                                             
+ 15O 2 G BE1W=0.029                                                             
+ 15O   G 9606      2  100      [M1]                                             
+ 15O 2 G BM1W=0.21                                                              
+ 15O   L 9662      3 (7/2,9/2)-        2 KEV     1                              
+ 15O 2 L %P=100                                                                 
+ 15O 3 L XREF=BCEIT                                                             
+ 15O   L 10290       (5/2-)            3 KEV     1                              
+ 15O 2 L %P=100                                                                 
+ 15O 3 L XREF=CEIT                                                              
+ 15O  cL           Author suggests that the 10290 and 10300 may be the          
+ 15O 2cL same state                                                             
+ 15O   L 10300        5/2+             11 KEV    2                              
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=CEIT                                                              
+ 15O  cL           Author suggests that the 10290 and 10300 may be the          
+ 15O 2cL same state                                                             
+ 15O   L 10461     5 (9/2+)            2 KEV     LT                             
+ 15O 2 L %IT=?$ %P=?                                                            
+ 15O 3 L XREF=BCDEGT                                                            
+ 15O   G 3185      5  61     10                                                 
+ 15O   G 3602      5  6.5    LT                                                 
+ 15O   G 5219      5  100    10                                                 
+ 15O   L 10480       (3/2-)            25 KEV    5                              
+ 15O 2 L WIDTHG=0.35 EV 7$ %IT=0.0014 4$ %P=100$                                
+ 15O 3 L XREF=BEGIS                                                             
+ 15O   G 3686         7      LT                                                 
+ 15O  cG E         note incorrect final level in table 15.17. 9.79 MeV should   
+ 15O 2cG be 6.79 MeV.                                                           
+ 15O   G 4303         7      LT                                                 
+ 15O   G 5238         67     10                                                 
+ 15O   G 10476       100     10                                                 
+ 15O   L 10506       (3/2)+            140 KEV   40                            ?
+ 15O 2 L %IT=?$ %P=100                                                          
+ 15O 3 L XREF=GI                                                                
+ 15O   L 10917     12 7/2+             90 KEV                                   
+ 15O 2 L %P=100                                                                 
+ 15O 3 L XREF=IT                                                                
+ 15O   L 10938     3  1/2+             99 KEV    5                              
+ 15O 2 L WIDTHG=32 EV 5$ %IT=0.032 6$ %P=100$                                   
+ 15O 3 L XREF=GIT                                                               
+ 15O   G 4144      3  18     LT                                                 
+ 15O   G 4761      3  50     18[E1]                                             
+ 15O 2 G BE1W=0.16 5                                                            
+ 15O   G 5754      3  77     7 [M1]                                             
+ 15O 2 G BM1W=2.7 5                                                             
+ 15O   G 10934     3  100    18[E1]                                             
+ 15O 2 G BE1W=0.026 8                                                           
+ 15O   L 11025     3  1/2-             25 KEV    2                              
+ 15O 2 L WIDTHG=1.4 EV 4$ %IT=0.0056 16$ %P=100$                                
+ 15O 3 L XREF=GIT                                                               
+ 15O   G 11021     3  100      [M1]                                             
+ 15O 2 G BM1W=0.05 2                                                            
+ 15O   L 11151     7                   10 KEV    LT                             
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=CIT                                                               
+ 15O   L 11218     3  3/2+             40 KEV    4                              
+ 15O 2 L WIDTHG=7.4 EV 6$ %IT=0.0185 24$ %P=99.9815 24                          
+ 15O 3 L XREF=GIT                                                               
+ 15O   G 4424      3  6      LT                                                 
+ 15O   G 5975      3  16     7 [M1]                                             
+ 15O 2 G BM1W=0.20 4                                                            
+ 15O   G 6034      3  19     7 [M1]                                             
+ 15O 2 G BM1W=0.22 5                                                            
+ 15O   G 11213     3  100    7 [E1]                                             
+ 15O 2 G BE1W=0.0095 10                                                         
+ 15O   L 11565     15                  10 KEV    LT                             
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=CIT                                                               
+ 15O   L 11569     15 5/2-             20 KEV    15                             
+ 15O 2 L WIDTHG=1.9 EV 3$ %IT=0.010 7$ %P=99.990 7                              
+ 15O 3 L XREF=CGL                                                               
+ 15O   G 4775      15 5      LT                                                 
+ 15O   G 5392      15 32     15[M1]                                             
+ 15O 2 G BM1W=0.12 6                                                            
+ 15O   G 6326      15 100    15[E1]                                             
+ 15O 2 G BE1W=0.012 1                                                           
+ 15O   G 11564     15 29     15[E2]                                             
+ 15O 2 G BE2W=0.8 5                                                             
+ 15O   L 11616     15(3/2,1/2)-        80 KEV    50                             
+ 15O 2 L %IT=?$ %P=100$                                                         
+ 15O 3 L XREF=GI                                                                
+ 15O   L 11719     8                   10 KEV    LT                             
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=BCIT                                                              
+ 15O   L 11748     3  5/2+             99 KEV    5                              
+ 15O 2 L WIDTHG=10 EV 2$ %IT=0.010 2$ %P=99.990 2                               
+ 15O 3 L XREF=GI                                                                
+ 15O   G 5571      3  100    13[E1]                                             
+ 15O 2 G BE1W=0.071 14                                                          
+ 15O   G 6505      3  89     13[M1]                                             
+ 15O 2 G BM1W=0.9 2                                                             
+ 15O   L 11846     3  5/2-             65 KEV    3                              
+ 15O 2 L WIDTHG=1.4 EV 6$ %IT=0.0022 9$ %P=99.9978 9                            
+ 15O 3 L XREF=GI                                                                
+ 15O   G 6603      3  100      [E1]                                             
+ 15O 2 G BE1W=0.011 5                                                           
+ 15O   L 11980     10 5/2-             20 KEV    5                              
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=CIT                                                               
+ 15O   L 12129     15 5/2+             200 KEV   50                             
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=I                                                                 
+ 15O   L 12222     20                  100 KEV   50                             
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=I                                                                 
+ 15O   L 12255     13 5/2+             135 KEV   15                             
+ 15O 2 L %P=100$ ISPIN=3/2                                                      
+ 15O 3 L XREF=U                                                                 
+ 15O   L 12295     10                                                       A   
+ 15O 2 L XREF=C                                                                 
+ 15O   L 12471     3  5/2-,(3/2-)      77 KEV    4                              
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=I                                                                 
+ 15O   L 12600     10                                                       A   
+ 15O 2 L XREF=C                                                                 
+ 15O   L 12800                         250 KEV   AP                             
+ 15O 2 L %IT=?$ %P=100$                                                         
+ 15O 3 L XREF=G                                                                 
+ 15O   L 12835     3                   16 KEV    1                              
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=BCDI                                                              
+ 15O   L 13008      3                  215 KEV   3                              
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=I                                                                 
+ 15O   L 13025      3                  40 KEV    30                             
+ 15O 2 L %P=?$ %3HE=?$                                                          
+ 15O 3 L XREF=AI                                                                
+ 15O  cL           The {+3}He decay mode is tentative                           
+ 15O   L 13450       (1/2,3/2)+        1000 KEV  AP                             
+ 15O 2 L %IT=?$ %P=?$ %A=?$                                                     
+ 15O 3 L XREF=GIK                                                               
+ 15O  cL           The |a decay mode is tentative                               
+ 15O   L 13490       (3/2+)                                                    ?
+ 15O 2 L %P=?$                                                                  
+ 15O 3 L XREF=I                                                                 
+ 15O   L 13600        5/2+                                                      
+ 15O 2 L %P=?$ %A=?$                                                            
+ 15O 3 L XREF=K                                                                 
+ 15O   L 13700        3/2-                                                      
+ 15O 2 L %P=100$                                                                
+ 15O 3 L XREF=I                                                                 
+ 15O   L 13790        3/2-                                                      
+ 15O 2 L %N=?$ %P=?$ %3HE=?$ %A=?$                                              
+ 15O 3 L XREF=AIK                                                               
+ 15O   L 13870                         150 KEV   AP                             
+ 15O 2 L %IT=?$ %P=100$                                                         
+ 15O 3 L XREF=G                                                                 
+ 15O   L 14030     40(1/2-,3/2-)       160 KEV   20                             
+ 15O 2 L %N=?$ %P=?$ %3HE=?$                                                    
+ 15O 3 L XREF=A                                                                 
+ 15O   L 14170        5/2-                                                      
+ 15O 2 L %P=?$ %A=?$                                                            
+ 15O 3 L XREF=K                                                                 
+ 15O   L 14270     10 1/2+             340 KEV   30                             
+ 15O 2 L %N=?$ %P=?$ %3HE=?$ %A=?$                                              
+ 15O 3 L XREF=ABCHIJK                                                           
+ 15O   L 14340        5/2+             240 KEV                                  
+ 15O 2 L %P=?$ %3HE=?$ %A=?$                                                    
+ 15O 3 L XREF=AK                                                                
+ 15O  cL           The |G and the {+3}He decay modes are tentative              
+ 15O   L 14465     10 3/2+,5/2+        100 KEV   10                             
+ 15O 2 L %N=?$ %P=?$ %3HE=?$ %A=?$                                              
+ 15O 3 L XREF=AHIK                                                              
+ 15O   L 14700     40                  170 KEV   35                             
+ 15O 2 L %N=?$ %P=?$ %3HE=?$                                                    
+ 15O 3 L XREF=AH                                                                
+ 15O   L 14950     40                  400 KEV   25                             
+ 15O 2 L %N=?$ %P=?$ %3HE=?$ %A=?$                                              
+ 15O 3 L XREF=AHIJK                                                             
+ 15O   L 15050     10(13/2+)                                                A   
+ 15O 2 L XREF=BCD                                                               
+ 15O   L 15100       (1/2,3/2)+        1000 KEV  AP                             
+ 15O 2 L %IT=?$ %P=100$                                                         
+ 15O 3 L XREF=G                                                                 
+ 15O   L 15450     30                  70 KEV    20                             
+ 15O 2 L %P=?$ %3HE=?$ %A=?$                                                    
+ 15O 3 L XREF=A                                                                 
+ 15O   L 15540     10                                                           
+ 15O 2 L %P=?$ %3HE=?$ %A=?$                                                    
+ 15O 3 L XREF=AC                                                                
+ 15O  cL           The decay modes shown are tentative                          
+ 15O   L 15600     10                                                           
+ 15O 2 L %P=?$ %3HE=?$ %A=?$                                                    
+ 15O 3 L XREF=AC                                                                
+ 15O  cL           The decay modes shown are tentative                          
+ 15O   L 15650     10                                                       A   
+ 15O 2 L XREF=BC                                                                
+ 15O   L 15800     10                                                           
+ 15O 2 L %N=?$ %3HE=?$                                                          
+ 15O 3 L XREF=AC                                                                
+ 15O   L 15900     15 1/2-,3/2-        350 KEV                                  
+ 15O 2 L %3HE=?$ %A=?$                                                          
+ 15O 3 L XREF=A                                                                 
+ 15O   L 16050     20                  185 KEV   AP                             
+ 15O 2 L %N=?$ %P=?$ %3HE=?$ %A=?$                                              
+ 15O 3 L XREF=AHIK                                                              
+ 15O   L 16100     20                                                           
+ 15O 2 L %N=?$ %3HE=?$ %A=?$                                                    
+ 15O 3 L XREF=A                                                                 
+ 15O  cL           The neutron decay mode is tentative                          
+ 15O   L 16210     20                  140 KEV   AP                             
+ 15O 2 L %N=?$ %P=?$ %3HE=?$ %A=?$                                              
+ 15O 3 L XREF=AIJK                                                              
+ 15O  cL           The neutron decay mode is tentative                          
+ 15O   L 16430     75 1/2+             560 KEV   100                            
+ 15O 2 L %N=?$ %3HE=?$ %A=?$                                                    
+ 15O 3 L XREF=AHJ                                                               
+ 15O   L 16750     50                                                           
+ 15O 2 L %N=?$ %3HE=?$                                                          
+ 15O 3 L XREF=AT                                                                
+ 15O   L 17050     60(1/2,3/2)+        700 KEV   70                             
+ 15O 2 L %IT=?$ %P=?$ %3HE=?$ ISPIN=1/2                                         
+ 15O 3 L XREF=AGIK                                                              
+ 15O   L 17460     20                                                       A   
+ 15O 2 L XREF=C                                                                 
+ 15O   L 17510     20 1/2-,3/2-        640 KEV   120                            
+ 15O 2 L %IT=?$ %N=?$ %3HE=?$ %A=?$                                             
+ 15O 3 L XREF=AC                                                                
+ 15O   L 17990     50 1/2-,3/2-        200 KEV                                  
+ 15O 2 L %3HE=100                                                               
+ 15O 3 L XREF=A                                                                 
+ 15O   L 18230     50                                                           
+ 15O 2 L %N=?$ %P=?$ %3HE=?$                                                    
+ 15O 3 L XREF=A                                                                 
+ 15O   L 18670     60(1/2,3/2)+        520 KEV   110                            
+ 15O 2 L %IT=?$ %3HE=?$ ISPIN=1/2                                               
+ 15O 3 L XREF=AG                                                                
+ 15O   L 19030     50                  1120 KEV  300                            
+ 15O 2 L %IT=?$ %N=?$ %3HE=?$                                                   
+ 15O 3 L XREF=AR                                                                
+ 15O   L 19570     80(1/2,3/2)+        780 KEV   270                            
+ 15O 2 L %IT=?$ %3HE=?$ ISPIN=1/2                                               
+ 15O 3 L XREF=A                                                                 
+ 15O   L 19910     50                                                           
+ 15O 2 L %N=?$ %3HE=?$                                                          
+ 15O 3 L XREF=A                                                                 
+ 15O   L 20420     70(3/2,1/2)+        970 KEV   240                            
+ 15O 2 L %IT=?$ %P=?$ %3HE=?$ ISPIN=1/2                                         
+ 15O 3 L XREF=AG                                                                
+ 15O   L 21560     70(3/2,1/2)+        730 KEV   120                            
+ 15O 2 L %IT=?$ %P=?$ %3HE=?$ ISPIN=1/2                                         
+ 15O 3 L XREF=AGR                                                               
+ 15O   L 23.8E+3   1                   500 KEV   LE                             
+ 15O 2 L %IT=?$ %3HE=?$                                                         
+ 15O 3 L XREF=A                                                                 
+ 15O   L 26000       (13/2-)           600 KEV   AP                            ?
+ 15O 2 L %3HE=100                                                               
+ 15O 3 L XREF=A                                                                 
+ 15O   L 28000       (9/2-,11/2-)      2500 KEV  AP                            ?
+ 15O 2 L %3HE=100                                                               
+ 15O 3 L XREF=A                                                                 
+ 15O   L 29000                         2500 KEV  AP                            ?
+ 15O 2 L %3HE=100                                                               
+ 15O 3 L XREF=A                                                                 

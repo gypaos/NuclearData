@@ -1,0 +1,347 @@
+ 11C     ADOPTED LEVELS, GAMMAS        1990AJ01                  12NP     201203
+ 11C   H TYP=FUL$AUT=J.H. KELLEY, C.G. SHEU$CIT=NP A880, 88 (2012)$             
+ 11C 2 H CUT=1-Jan-2011$                                                        
+ 11C   XA1H(11C,11C)                                                            
+ 11C   XB6LI(6LI,N)                                                             
+ 11C   XC6LI(10B,11C)                                                           
+ 11C   XD7BE(A,G)                                                               
+ 11C   XE9BE(3HE,N)                                                             
+ 11C   XF10B(P,G) RES                                                           
+ 11C   XG10B(P,P),(P,A)                                                         
+ 11C   XH10B(D,N)                                                               
+ 11C   XI10B(3HE,D)                                                             
+ 11C   XJ10B(7LI,6HE)                                                           
+ 11C   XK11B(P,N)                                                               
+ 11C   XL11B(3HE,T)                                                             
+ 11C   XM12C(PI+,P)                                                             
+ 11C   XN12C(P,D)                                                               
+ 11C   XO12C(D,T)                                                               
+ 11C   XP12C(3HE,A)                                                             
+ 11C   XQ12C(3HE,PT)                                                            
+ 11C   XR13C(PI+,D)                                                             
+ 11C   XS13C(P,T)                                                               
+ 11C   XT14N(P,A)                                                               
+ 11C   XU16O(D,7LI)                                                             
+ 11C   XV16O(9BE,ALPHA7BE)                                                      
+ 11C   XW10B(P,N)                                                               
+ 11C  cG $Mostly from (1965Ol03) and (1968Ea03): see Table 11.20 in             
+ 11C 2cG (1980Aj01) for other references and additional information             
+ 11C  cG E         From level energy difference; no recoil correction           
+ 11C  cG RI        % branching from each level                                  
+ 11C  cG E(B)      See (1983Wi09)                                               
+ 11C  cG E(C)      See also (1979An16)                                          
+ 11C  cG E(D)      See (1984Ha13)                                               
+ 11C  cL T(A)      From (1979An16). See also (1981Ca06) for mean life of        
+ 11C 2cL {+11}C*(4319, 4804, 6478)                                              
+ 11C  PN                                                                     7  
+ 11C   Q -13826    6013119.7 10 8689.4 10-7543.6  9    2011AUZZ                 
+ 11C  cQ           Based on mass excess ({+11}C)=10650.4 {I9}                   
+ 11C 3cQ Here the mass excess for {+11}N = 24477 keV 60 differs from            
+ 11C 3cQ that in (2011AuZZ) (24303 keV 46).                                     
+ 11C   L 0           3/2-              20.364 M  14                             
+ 11C 2 L ISPIN=1/2$%EC+%B+=100$MOMM1=-0.964 1 (1969Wo03)                        
+ 11C 3 L MOME2=0.03426 (1978LeZA)                                               
+ 11C 4 L XREF=ABEFHIJKLMNOPQRSTU                                                
+ 11C  cL T         T{-1/2}=1221.8 s {I8}=20.364 min {I14}.                      
+ 11C 2cL From weighted average of T{-1/2}=20.334 min {I24} (2002Wo02),          
+ 11C 3cL 20.382 min {I20} (1975Az01), 20.34 min {I4} (1964Ka31)                 
+ 11C 4cL and 20.40 min {I4} (1969Aw02).                                         
+ 11C  cL WIDTH     Other values are T{-1/2}=20.370 min {I29} (ddep)             
+ 11C 2cL 20.32 min {I12} (1975Be28), 19.8 min {I8} (1973Ho43), 20.0 min {I3}    
+ 11C 3cL (1973SiYS), 20.8 min {I4} (1965Pa10),                                  
+ 11C 4cL 20.11 min {I13} (1958Ar15), 20.8 min {I2} (1957Pr53),                  
+ 11C 5cL 20.26 min {I10} (1955Ba63), 20.74 min {I10} (1953Ku09),                
+ 11C 6cL 20.0 min {I1} (1951Di12), 20.0 min {I4} (1944Si30), 20.50 min {I60}    
+ 11C 7cL (1941So01), 20.35 min {I8} (1941Sm11).                                 
+ 11C   L 2000.0    4 1/2-              7.1 FS    5                              
+ 11C 2 L XREF=ABEFHIJKLMNOPQSTU                                                 
+ 11C  cL E         from weighted average of 2000.6 keV {I9} from                
+ 11C 2cL {+10}B({+3}He,d), 1999.7 keV {I5} from {+12}C(p,d) and                 
+ 11C 3cL 2000.5 keV {I9} from {+12}C({+3}He,|a).                                
+ 11C  cL WIDTH     From {+12}C({+3}He,|a).                                      
+ 11C   G 2000.0      100       M1                                               
+ 11C 2 G WIDTHG=6.43E-2 EV 45$BM1W=0.38 3                                       
+ 11C   L 4318.8    125/2-              8.3 FS    LT                         A   
+ 11C 2 L XREF=ABEFHIJKLMNOPQSTU                                                 
+ 11C  cL E         from {+12}C({+3}He,|a); also see 4332 keV {I10} from         
+ 11C xcL {+10}B({+3}He,d).                                                      
+ 11C  cL WIDTH     From {+10}B(p,|g).                                           
+ 11C  cL           It: branching ratios from (1961Do03): {+10}B(p,|g) and       
+ 11C 2cL (1968Ea03): {+12}C({+3}He,|a).                                         
+ 11C   G 2318          2     LT                                                 
+ 11C   G 4318.8      100                                                        
+ 11C   L 4804.2    123/2-              7.6 FS    LT                         A   
+ 11C 2 L XREF=BEFHIJKLMNPQSTU                                                   
+ 11C  cL E         from {+12}C({+3}He,|a); also see 4808 keV {I10} from         
+ 11C xcL {+10}B({+3}He,d).                                                      
+ 11C  cL WIDTH     From {+10}B(p,|g).                                           
+ 11C  cL           It:branching ratios from (1965Ol03): {+9}Be({+3}He,n) and    
+ 11C 2cL {+10}B(d,n), (1961Do03): {+10}B(p,|g), (1962Fr06):{+10}B(d,n) and      
+ 11C 3cL (1968Ea03): {+12}C({+3}He,|a).                                         
+ 11C   G 2804.2      14.8    14                                                 
+ 11C   G 4804.2      85.2    14                                                 
+ 11C   L 6339.2    141/2+              76.2 FS   LT                             
+ 11C 2 L XREF=BEHIKPQU                                                          
+ 11C  cL E         from {+12}C({+3}He,|a); also see 6345 keV {I10} from         
+ 11C xcL {+10}B({+3}He,d).                                                      
+ 11C  cL WIDTH     From {+9}Be({+3}He,n).                                       
+ 11C  cL           It: branching ratios from (1965Ro07): {+9}Be({+3}He,n) and   
+ 11C 2cL (1968Ea03): {+12}C({+3}He,|a).                                         
+ 11C   G 1535         3      LT                                                 
+ 11C   G 2020         7      LT                                                 
+ 11C   G 4339.2      33.5    21                                                 
+ 11C   G 6339.2      66.5    21                                                 
+ 11C   L 6478.2    137/2-              5.5 FS    LT                         A   
+ 11C 2 L XREF=ABEFHIJKLMNPRSU                                                   
+ 11C  cL E         from {+12}C({+3}He,|a); also see 6476 keV {I10} from         
+ 11C xcL {+10}B({+3}He,d).                                                      
+ 11C  cL WIDTH     From {+10}B(p,|g).                                           
+ 11C  cL           It: branching ratios from (1962Fr06):{+10}B(d,n), (1962Br26):
+ 11C 2cL {+10}B(d,n) and (1968Ea03): {+12}C({+3}He,|a).                         
+ 11C   G 1674         2      LT                                                 
+ 11C   G 2159.4      11.5    14                                                 
+ 11C   G 4477         2      LT                                                 
+ 11C   G 6478.2      88.5    14                                                 
+ 11C  cG RI        cascades via {+11}C*(2000, 4804)<2%                          
+ 11C   L 6904.8    145/2+              48 FS     LT                             
+ 11C 2 L XREF=BEHIJKLNPSU                                                       
+ 11C  cL E         from {+12}C({+3}He,|a); also see 6903 keV {I10} from         
+ 11C xcL {+10}B({+3}He,d).                                                      
+ 11C  cL WIDTH     From {+6}Li({+6}Li,n).                                       
+ 11C  cL           It: branching ratios to {+11}C*(0,2,4.3,4.8 MeV)             
+ 11C 2cL from (1968Ea03): {+12}C({+3}He,|a). See also (1965Ol03) who report     
+ 11C 3cL Branching=89(3), <2, 11(3), <3, <5 and <5% for                         
+ 11C 4cL decay to {+11}C*(0,2,4.3,4.8,6.3,6.5,6.9 MeV).                         
+ 11C   G 427         5       LT                                                 
+ 11C   G 566         5       LT                                                 
+ 11C   G 2100.6      4.5     10                                                 
+ 11C   G 2586.0      4.5     10                                                 
+ 11C   G 4904         1      LT                                                 
+ 11C   G 6904.8      91      2                                                  
+ 11C   L 7.4E3       3/2+                                                      ?
+ 11C 2 L XREF=HK                                                                
+ 11C   L 7499.7    153/2+              63 FS     LT                             
+ 11C 2 L XREF=BEIKLNPS                                                          
+ 11C  cL E         from {+12}C({+3}He,|a). Also see 7498 keV {I10} from         
+ 11C 2cL {+10}B({+3}He,d), and a reported J|p=3/2+ state at E{-x}=7400 keV      
+ 11C xcL {I40} observed in {+10}B(d,n).                                         
+ 11C  cL WIDTH     From {+6}Li({+6}Li,n).                                       
+ 11C  cL           It: branching ratios from (1965Ol03) who report              
+ 11C 2cL Branching=36(2), 64(2), <3, <3, <3, <3, <4 to                          
+ 11C 3cL {+11}C*(0,2,4.3,4.8,6.3,6.5,6.9 MeV) and                               
+ 11C 4cL from (1968Ea03) who report                                             
+ 11C 5cL Branching=37(3), 63(8), <1, <1 for                                     
+ 11C 6cL decay to {+11}C*(0,2,4.3,4.8 MeV).                                     
+ 11C   G 595          4      LT                                                 
+ 11C   G 1021         3      LT                                                 
+ 11C   G 1160         3      LT                                                 
+ 11C   G 2695         1      LT                                                 
+ 11C   G 3181         1      LT                                                 
+ 11C   G 5499.7      64      2                                                  
+ 11C   G 7499.7      36      2                                                  
+ 11C   L 8104.5    173/2-              6 EV      +12-2                          
+ 11C  cL E         from {+12}C({+3}He,|a), also see 8107 keV {I5} from          
+ 11C xcL {+7}Be(|a,|g).                                                         
+ 11C  cL WIDTH     From {+7}Be(|a,|g).                                          
+ 11C 2 L WIDTH=6 EV +12-2 $ WIDTHA=6 EV +12-2 $WIDTHG=0.350 EV 56               
+ 11C  cL WIDTH     |G=|G|a+|G{-|g}. In (1985Aj01) a footnote on the adopted     
+ 11C 2cL table indicated |G=11 eV {I7}; however this assumed a symmetric        
+ 11C 3cL uncertainty in the |G|a.                                               
+ 11C 3 L XREF=CDEHILNP                                                          
+ 11C 4 L %IT=5.5 36 $ %A=94.5 36                                                
+ 11C  cL $%IT=5.5 +2.5-3.6; %|a=94.5 +3.6-2.5                                   
+ 11C  cL           |G=|G{-|g}+|G|a                                              
+ 11C  cL           It: Branching from (1984Ha13): {+7}Be(|a,|g).                
+ 11C   G 6104.5      26      5 M1                                           D   
+ 11C 2 G WIDTHG=9.1E-2 EV 23$BM1W=1.9E-2 5                                      
+ 11C   G 8104.5      74      12M1                                           D   
+ 11C 2 G WIDTHG=0.26 EV 6$BM1W=2.3E-2 5                                         
+ 11C   L 8420      2 5/2-              0.030 FS  8                              
+ 11C  cL E         |G: from {+7}Be(|a,|g)                                       
+ 11C 2 L WIDTH=15.7 EV 40 $WIDTHG/WIDTH=0.20 5 (1983Wi09) $ %IT=20 5$ %A=80 5   
+ 11C 3 L XREF=BCDEFHIJLNPS                                                      
+ 11C  cL           |G=|G{-|g}+|G|a                                              
+ 11C  cL           It: Branching from (1984Ha13): {+7}Be(|a,|g).                
+ 11C   G 4101          7     LT                                                 
+ 11C   G 8420        100       M1                                           D   
+ 11C 2 G WIDTHG=3.1 EV 11$BM1W=0.25 9                                           
+ 11C   L 8654      4 7/2+              5 KEV     LE                             
+ 11C 2 L XREF=CEFHIJLNV $ %A AP 100 (1988Le17) $ %IT GT 0                       
+ 11C  cL E         from {+10}B(d,n), (1963Ov02) finds this state 45 keV {I4}    
+ 11C 2cL below the E{-x}=8700 keV state; this yields E{-x}=8654 keV {I5}. Also  
+ 11C 3cL from {+10}B(d,n) (1955Ma76) E{-x}=8653 keV {I5}. The weighted averge   
+ 11C 4cL of these values is 8654 keV {I4}.                                      
+ 11C  cL WIDTH     From {+10}B(p,|g).                                           
+ 11C  cL           |G(c.m.)|<4.5 keV; |G{-|g}/|G<0.06 (1983Wi09)                
+ 11C   L 8699      2 5/2+              15 KEV    1                              
+ 11C 2 L %IT LT 10 (1983Wi09) $ %P GT 90                                        
+ 11C 3 L XREF=EFHIJL                                                            
+ 11C  cL E         from E{-res}=10 keV {I2} and                                 
+ 11C 2cL Q(|b{+-})value=8689.4 keV {I8} in {+10}B(p,|g) (1983Wi09).             
+ 11C  cL WIDTH     From {+10}B({+3}He,d).                                       
+ 11C  cL           |G(c.m.)=14.5 keV {I25} and |G{-|g}/|G|<0.1 (1983Wi09),      
+ 11C 2cL based on direct capture data; however, based on resonance parameters   
+ 11C 3cL  |G(c.m.)=16 keV {I1} and |G{-|g}/|G|=2.60|*10{+-4} {I15} (1983Wi09).  
+ 11C  cL           It: Branching from (1983Wi09): {+10}B(p,|g).                 
+ 11C   G 2221        13.6    46                                             B   
+ 11C   G 3895        2.4     15                                             B   
+ 11C   G 4380        42      10                                             B   
+ 11C   G 8699        42      10                                             B   
+ 11C   L 9200      505/2+              500 KEV   90                             
+ 11C 2 L %IT GT 0 $ %P LT 100                                                   
+ 11C 3 L XREF=FN                                                                
+ 11C  cL E         |G: from {+10}B(p,|g).                                       
+ 11C  cL           Additional levels seen in H at 8970,9130,9280,9690           
+ 11C  cL           It: Branching from (1983Wi09): {+10}B(p,|g).                 
+ 11C   G 2722        20      10                                             B   
+ 11C   G 4881        6       5                                              B   
+ 11C   G 9200        74      18                                             B   
+ 11C   L 9645      50(3/2-)            210 KEV   40                             
+ 11C 2 L %IT GT 0$ %P LT 100 $ %A LT 100                                        
+ 11C 3 L XREF=FGN                                                               
+ 11C  cL E         |G: from {+10}B(p,|g), {+10}B(p,p) and {+10}B(p,|a).         
+ 11C 2cL Also see the uncertain E{-x}=9690 keV {I30} level observed in          
+ 11C 3cL {+10}B(d,n).                                                           
+ 11C  cL           Additional levels seen 9730 L                                
+ 11C  cL           It: Branching from (1983Wi09): {+10}B(p,|g). Also see        
+ 11C xcL (1979An16).                                                            
+ 11C   G 4846        8       4                                              B   
+ 11C 2 G FLAG=C                                                                 
+ 11C   G 5331        32      10                                             B   
+ 11C 2 G FLAG=C                                                                 
+ 11C   G 9650        60      5                                              B   
+ 11C 2 G FLAG=C                                                                 
+ 11C   L 9780      50(5/2-)            240 KEV   50                             
+ 11C 2 L %IT GT 0  $ %P LT 100                                                  
+ 11C 3 L XREF=FGN                                                               
+ 11C  cL E         |G: from {+10}B(p,|g).                                       
+ 11C  cL           Additional levels seen 9850 V                                
+ 11C  cL           It: Branching from (1983Wi09): {+10}B(p,|g). Also see        
+ 11C xcL (1979An16).                                                            
+ 11C   G 3302        12      4                                              B   
+ 11C 2 G FLAG=C                                                                 
+ 11C   G 4976        4       2                                              B   
+ 11C 2 G FLAG=C                                                                 
+ 11C   G 5461        8       2                                              B   
+ 11C 2 G FLAG=C                                                                 
+ 11C   G 9780        76      16                                             B   
+ 11C 2 G FLAG=C                                                                 
+ 11C   L 9970      50(7/2-)            120 KEV   20                             
+ 11C 2 L %IT GT 0 $ %P LT 100                                                   
+ 11C 3 L XREF=F                                                                 
+ 11C  cL           It: Branching from (1983Wi09): {+10}B(p,|g).                 
+ 11C   G 3492        10      7                                              B   
+ 11C   G 5651        90      10                                             B   
+ 11C   L 10083     5 7/2+              230 KEV   AP                             
+ 11C 2 L %IT GT 0 $ %P AP 36$ %A AP 64                                          
+ 11C 3 L XREF=FGHILN                                                            
+ 11C  cL E         |G: from {+10}B(p,|g).                                       
+ 11C  cL           It: Branching from (1983Wi09): {+10}B(p,|g).                 
+ 11C   G 3605        13      6                                              B   
+ 11C   G 5764        67      8                                              B   
+ 11C   L 10679     5 9/2+              200 KEV   30                             
+ 11C 2 L %IT GT 0$ %P AP 50 $ %A AP 50                                          
+ 11C 3 L XREF=EFGHILNV                                                          
+ 11C  cL E         |G: from {+10}B(p,|g).                                       
+ 11C  cL           Additional levels seen at 10799 G, 10890 H                   
+ 11C  cL           It: Branching from (1983Wi09): {+10}B(p,|g).                 
+ 11C   G 10679       100                                                    B   
+ 11C   L 11030     30                  300 KEV   60                             
+ 11C 2 L ISPIN=1/2                                                              
+ 11C 3 L XREF=GLNSP                                                             
+ 11C 4 L %P LT 100 $ %A LT 100                                                  
+ 11C  cL E         from {+10}B(p,p) and {+10}B(p,|a). Also see                  
+ 11C 2cL E{-x}=10957 keV {I20} and |G=250 keV {I30} from {+9}Be({+3}He,n).      
+ 11C  cL WIDTH     From {+13}C(p,t).                                            
+ 11C  cL           Additional levels seen at 11260 H                            
+ 11C   L 11440     10                  360 KEV                                  
+ 11C 2 L %P GT 0 $ %A AP 100                                                    
+ 11C 3 L XREF=GLN                                                               
+ 11C  cL E         |G: from {+10}B(p,p) and {+10}B(p,|a).                       
+ 11C  cL           Additional levels seen at 11520 H, 11954 G, 12100 V          
+ 11C   L 12160     40                  270 KEV   50                             
+ 11C 2 L ISPIN=3/2 $ %P=?                                                       
+ 11C 3 L XREF=EGL                                                               
+ 11C  cL E         from weighted average of 12170 keV {I50} from                
+ 11C 2cL {+9}Be({+3}He,n) and 12150 keV {I50} from {+11}B({+3}He,t).            
+ 11C  cL WIDTH     From weighted average of 200 keV {I100} from {+9}Be({+3}He,n)
+ 11C 2cL and 290 keV {I50} from {+11}B({+3}He,t).                               
+ 11C   L 12400       -                 1.4 MEV    4                             
+ 11C 2 L %IT=? $ %P=?                                                           
+ 11C 3 L XREF=FP                                                                
+ 11C  cL E         |G: from {+10}B(p,|g).                                       
+ 11C   L 12510     301/2-              500 KEV   50                             
+ 11C 2 L ISPIN=3/2 $ %P=?                                                       
+ 11C 3 L XREF=EGLMS                                                             
+ 11C  cL E         from weighted average of 12550 keV {I50} from                
+ 11C 2cL {+9}Be({+3}He,n), 12570 keV {I70} from {+11}B({+3}He,t) and 12477 keV  
+ 11C xcL {I33} from {+13}C(p,t).                                                
+ 11C  cL WIDTH     From analysis of |G=350 keV {I100} from {+9}Be({+3}He,n),    
+ 11C 2cL 400 keV {I100} from {+10}B(p,p)/(p,|a), 370 keV {I90} from             
+ 11C 3cL {+11}B({+3}He,t) and 546 keV {I38} from {+13}C(p,t).                   
+ 11C  cL           Additional levels seen at 12600 V                            
+ 11C   L 12650     20(7/2+)            360 KEV                                  
+ 11C 2 L %P AP 50 $ %3HE GT 0 $ %A AP 50                                        
+ 11C 3 L XREF=GL                                                                
+ 11C  cL E         |G: from {+10}B(p,p) and {+10}B(p,|a).                       
+ 11C   L 13010                                                                 ?
+ 11C 2 L %IT GT 0 $ %P LT 100                                                   
+ 11C 3 L XREF=F                                                                 
+ 11C  cL E         from {+10}B(p,|g).                                           
+ 11C   L 13330     60                  270 KEV   80                             
+ 11C 2 L XREF=MS                                                                
+ 11C  cL E         |G: from {+13}C(p,t).                                        
+ 11C   L 13400                         11E+2 KEV 1                              
+ 11C 2 L %P=? $ %A=?                                                            
+ 11C 3 L XREF=GNV                                                               
+ 11C  cL E         |G: from {+10}B(p,p) and {+10}B(p,|a).                       
+ 11C 2cL Also see 13300 keV from {+12}C(|p{++},p), 13400 keV from               
+ 11C 3cL {+16}O({+9}Be,|a+{+7}Be), and 13220 keV {I250}                         
+ 11C 4cL observed in {+12}C(p,d).                                               
+ 11C   L 13900     20                  200 KEV   40                             
+ 11C 2 L ISPIN=3/2 $ %P=?                                                       
+ 11C 3 L XREF=EGLS                                                              
+ 11C  cL ISPIN$tentative                                                        
+ 11C  cL E         from weighted average of 13900 keV {I20} from                
+ 11C 2cL {+10}B(p,p)/(p,|a), 13920 keV {I50} from {+11}B({+3}He,t) and 13900    
+ 11C 3cL keV {I40} from {+13}C(p,t). Also see 13700 keV {I100} from             
+ 11C xcL {+9}Be({+3}He,n).                                                      
+ 11C  cL WIDTH     From weighted average of 260 keV {I50} from {+11}B({+3}He,t) 
+ 11C 2cL and 150 keV {I50} from {+13}C(p,t).                                    
+ 11C   L 14070     20                  135 KEV   50                             
+ 11C 2 L %N=? $ %P=?                                                            
+ 11C 3 L XREF=GSLW                                                              
+ 11C  cL E         from {+10}B(p,n).                                            
+ 11C  cL WIDTH     From {+13}C(p,t).                                            
+ 11C   L 14760     40                  450 KEV   AP                             
+ 11C 2 L %N=? $ %P=? $ %3HE=?                                                   
+ 11C 3 L XREF=EGW                                                               
+ 11C  cL E         from {+10}B(p,p) and {+10}B(p,n).                            
+ 11C  cL WIDTH     From {+10}B(p,p).                                            
+ 11C   L 15350     50-                                                          
+ 11C 2 L %IT GT 0 $ %N LT 100 $ %P LT 100                                       
+ 11C 3 L XREF=FGPW                                                              
+ 11C  cL E         from {+10}B(p,p)/ {+10}B(p,|a) and {+10}B(p,n).              
+ 11C  cL WIDTH     Broad                                                        
+ 11C  cL WIDTH     From {+10}B(p,p)/ {+10}B(p,|a).                              
+ 11C   L 15590     50                  450 KEV   AP                             
+ 11C 2 L %N=? $ %P=?                                                            
+ 11C 3 L XREF=GW                                                                
+ 11C  cL E         from {+10}B(p,p)/ {+10}B(p,|a) and {+10}B(p,n).              
+ 11C  cL WIDTH     From {+10}B(p,p)/ {+10}B(p,|a).                              
+ 11C   L 16700       -                 0.82 MEV  9                              
+ 11C 2 L %IT GT 0 $ %P LT 100                                                   
+ 11C  cL E         |G: from {+10}B(p,|g)                                        
+ 11C 3 L XREF=F                                                                 
+ 11C   L 18200                                                                 ?
+ 11C 2 L %IT GT 0 $ %P LT 100                                                   
+ 11C 3 L XREF=F                                                                 
+ 11C  cL E         |G: from {+10}B(p,|g)                                        
+ 11C   L 23000                                                                 ?
+ 11C 2 L XREF=P                                                                 
+ 11C  cL E         |G: from {+12}C({+3}He,|a)                                   
+ 11C   L 28000                                                                 ?
+ 11C 2 L XREF=P                                                                 
+ 11C  cL E         |G: from {+12}C({+3}He,|a).                                  
+                                                                                
+
