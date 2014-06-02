@@ -1,0 +1,696 @@
+181TA    ADOPTED LEVELS, GAMMAS                                  05NDS    200601
+181TA  H TYP=FUL$AUT=S. -C. WU$CIT=NDS 106, 367 (2005)$CUT=31-Aug-2005$         
+181TA c  Other Reactions:                                                       
+181TA c  {+180}Hf(p,|g): 1987Ra23                                               
+181TA c  {+181}Ta(e,e),{+181}Ta(e,e'),{+181}Ta(e,e'|g):                         
+181TA2c  1991Ta23, 1987Dz03, 1985Ni07, 1985Ni02, 1985Dz06, 1984Sa27, 1983Oc01,  
+181TA3c  1983Dz03, 1982Ts01, 1982Dz01, 1980Ra14, 1980Dz02, 1979Dz05, 1978Ra02,  
+181TA4c  1977Mi12, 1977Hi02, 1977Br37, 1976Dz04, 1974Wh05, 1971Mo06, 1970Gr18   
+181TA c  {+181}Ta(|m{+-},e{+-}): 2002Ko55                                       
+181TA c  {+181}Ta(pol p,p): 1981Ro03, 1978Fr12, 1971Gr06                        
+181TA c  {+181}Ta(pol {+7}Li,{+7}Li): 1981Mo05                                  
+181TA c  {+181}Ta elastic scattering, inelastic scattering:                     
+181TA2c  2002Pa24, 2001Ev02, 1998Ev05, 1995Zh46, 1995An36, 1991Sh08, 1988Ka17,  
+181TA3c  1987Za06, 1986Ti05, 1986Su08, 1986Ha31, 1985Ha02, 1983Si15, 1983Ra02,  
+181TA4c  1983Ha33, 1983Ch16, 1982Mo27, 1981Mu07, 1981Ko26, 1980Ho23, 1980Da08,  
+181TA5c  1980Bu16, 1979Yu02, 1979Gl12, 1978Wo13, 1978Do05, 1978Al34, 1977Vi02,  
+181TA6c  1977Bi10, 1976We19, 1976Mi20, 1976Fe06, 1976Da21, 1975Ma07, 1974Wh09,  
+181TA7c  1974Ro20, 1974Be40, 1972Ri14, 1972Ra01, 1971Si34, 1971Ro26, 1970Ro05,  
+181TA8c  1970Ho18, 1970Ar02, 1968Ko18, 1968Ch32, 1968Ca17, 1967Po03,            
+181TA9c  1966Du08, 1966As02                                                     
+181TA c  {+181}Ta({+19}C,n{+18}C),{+181}Ta({+20}Ne,|a{+16}O):                   
+181TA2c  1998Ba45, 1985Gu08                                                     
+181TA c  {+182}W(|g,p): 1987Da29                                                
+181TA cG E$Except those noted, E|g's are weighted averages of values from       
+181TA2cG {+181}Hf |b- decay, {+181}W |e decay, {+180}Ta(n,|g),                  
+181TA3cG {+181}Ta IT decay, Coulomb Excitation, {+176}Yb({+11}B,|a2n|g)         
+181TA4cG and {+181}Ta({+238}U,{+238}U'|g). |D(E|g)=0.3 keV                      
+181TA5cG assumed for those from {+176}Yb({+11}B,|a2n|g) (1998Dr09);             
+181TA6cG and |D(E|g)=1 keV assumed for those from {+176}Yb({+11}B,|a2n|g)       
+181TA7cG (1998Sa60) and from {+181}Ta({+238}U,{+238}U'|g).                      
+181TA cG M,MR,RI$From {+181}Hf |b- decay, except as noted.                      
+181TA cG E(D,d),RI(D)$From {+181}Ta(|g,|g')                                     
+181TA cG E(R)$See comments in adopted levels at 1403.3                          
+181TA cG RI(C)$From Coulomb Excitation                                          
+181TA cL E$From least-squares fit (by evaluator) to E|g's.                      
+181TA cL J$Spin and parity assignments are based on assumed rotational band     
+181TA2cL structure. Specific arguments are given to individual levels.          
+181TA CL BAND(F,f)$ K|p=(19/2+), |p9/2[514]|n(1/2[510]9/2[624]).                
+181TA2cL Rotational parameters: A=9.62, B=2.45,                                 
+181TA3cL fit to levels J=(19/2+) to (25/2+).                                    
+181TA CL BAND(E,e)$ K|p=15/2-, |p7/2[404]|n(1/2[510]9/2[624]).                  
+181TA2cL Rotational parameters: A=10.3, B=2.5,                                  
+181TA3cL fit to levels J=(15/2) to (21/2).                                      
+181TA CL BAND(C)$ 9/2[514], |a=-1/2                                             
+181TA2cL Rotational parameters: A=13.9, B=-3.54,                                
+181TA3cL fit to levels J=11/2- to 23/2-.                                        
+181TA CL BAND(c)$ 9/2[514], |a=+1/2                                             
+181TA2cL Rotational parameters: A=13.9, B=-3.52,                                
+181TA3cL fit to levels J=9/2- to 21/2-.                                         
+181TA cL E(V)$K-2 gamma vibration band K=3/2 built on the ground state          
+181TA CL BAND(B)$ 7/2[404], |a=-1/2.                                            
+181TA2cL Rotational parameters: A=15.2, B=-4.9,                                 
+181TA3cL fit to levels J=7/2+ to 19/2+.                                         
+181TA CL BAND(b)$ 7/2[404], |a=+1/2.                                            
+181TA2cL Rotational parameters: A=15.2, B=-4.6,                                 
+181TA3cL fit to levels J=9/2+ to 21/2+.                                         
+181TA cL E(W)$K+2 gamma vibration band K=11/2 built on the ground state         
+181TA CL BAND(A)$ 5/2[402], |a=+1/2.                                            
+181TA2cL Rotational parameters: A=15.5, B=-8.8,                                 
+181TA3cL fit to levels J=5/2+ to 17/2+.                                         
+181TA CL BAND(a)$ 5/2[402], |a=-1/2.                                            
+181TA2cL Rotational parameters: A=15.4, B=-7.4,                                 
+181TA3cL fit to levels J=7/2+ to (19/2+).                                       
+181TA CL BAND(D)$ band associate with a |p1/2[541] configuration.               
+181TA2cL Rotational parameters: A=9.9, B=-16.7, a=8.33,                         
+181TA3cL fit to levels J=(5/2-) to (21/2-).                                     
+181TA  Q   -188     5 7576.8 13 5942.2 21 1522.5  22   2003AU03                 
+181TA  XA181HF B- DECAY                                                         
+181TA  XB181W EC DECAY                                                          
+181TA  XC180TA(N,G) E=TH                                                        
+181TA  XD181TA(G,G')                                                            
+181TA  XE181TA IT DECAY (18.9 US)                                               
+181TA  XF181TA(G,G'):MOSSBAUER                                                  
+181TA  XGCOULOMB EXCITATION                                                     
+181TA  XH181TA(D,D'), (N,N'), (P,P')                                            
+181TA  XI176YB(11B,A2NG)                                                        
+181TA  XJ181TA(238U,238U'G)                                                     
+181TA  L 0.0          7/2+             STABLE                               B   
+181TAX L XREF=ABCDEGHIJ                                                         
+181TAM L MOMM1=+2.3705 7$ MOME2=+3.17 2 (2001StZZ)                              
+181TA cL MOMM1$measured by NMR (1973Er17)                                       
+181TA cL MOME2$by hyperfine structure of pionic x rays (1983Ol03) Others:       
+181TA2cL +3.28 {I6} by hyperfine structure of muonic x rays (1981Ko11);         
+181TA2cL +3.35 {I2} by hyperfine structure of pionic x rays (1981Ba07);         
+181TA2cL +3.35 {I11} by hyperfine structure of kaonic x rays (1981Ba07);        
+181TA2cL 3.4 {I2} by atomic beam magnetic resonance (1981Ka10);                 
+181TA2cL +3.30 {I6} by hyperfine structure of pionic x rays (1978Be31);         
+181TA2cL 3.18 {I3} by hyperfine structure of muonic x rays (1977Po02);          
+181TA2cL 3.44 {I6} by hyperfine structure of muonic x rays (1976Mc03);          
+181TA cL J$from optical spectroscopy, parity from analysis of |m                
+181TA2cL with Schmidt diagram.                                                  
+181TA cL           <r{+2}>{+1/2}=5.351 fm 3 for {+181}Ta based on               
+181TA2cL a global fit to charge radius data for all nuclides (2004An14).        
+181TA  L      6.23720 9/2-             6.05 US   12                         c   
+181TAX L XREF=ABCHIJ                                                            
+181TAM L MOMM1=+5.28 9$ MOME2=+3.71 7 (2001StZZ)                                
+181TA cL MOMM1$measured by Mossbauer effect (1970Ka16) Other:                   
+181TA2cL +5.3 {I2} by Mossbauer effect (1978We18)                               
+181TA cL MOME2$measured by Mossbauer effect (1983Ei02)                          
+181TA cL J$from optical spectroscopy and NMR, parity from E1 to 7/2+.           
+181TA cL T         from {+181}W |e decay                                        
+181TA  G 6.240     20 100        E1                       70.525                
+181TA cG M$from {+181}W |e decay                                                
+181TA cG CC        penetration parameter |l=-9 {I1}                             
+181TAB G BE1W=2.01E-6 11                                                        
+181TA  L    136.26213 9/2+             39.5 PS   16                         b   
+181TAX L XREF=ABCDEFGHI                                                         
+181TAM L MOMM1=+2.6 7 (2001StZZ)                                                
+181TA cL MOMM1$measured by integral perturbed angular correlation (1983Ak02)    
+181TA cL J$M1+E2 to 7/2+, Coulomb excitation, perturbed                         
+181TA2cL angular correlations, rotational band member.                          
+181TA cL T         weighted average of 38 ps {I2} from Mossbauer and 42.0 ps    
+181TA2cL {I25} from Coulomb excitation.                                         
+181TA  G 136.269   13 100      M1+E2      +0.396  11     1.75  1                
+181TA cG MR$weighted average of +0.41 {I3} from |b-decay                        
+181TA2cG and +0.394 {I11} from Coulomb excitation.                              
+181TAB G BM1W=0.068 4$BE2W=260 40                                               
+181TA  L    158.55424  11/2-                                                C   
+181TAX L XREF=BCHIJ                                                             
+181TA cL J$M1+E2 to 9/2-, member of 9/2[514] rotational band                    
+181TA  G 152.320   14 100        M1+E2      0.5    2      1.23 8                
+181TA cG MR$from |e-decay. Other: 0.17 {I2} from {+176}Yb({+11}B,|a2n|g)        
+181TA  L    301.62222 11/2+             16 PS      3                        B   
+181TAX L XREF=CGHI                                                              
+181TA cL J$M1+E2 to 9/2+, E2 to 7/2+, Coulomb excitation, member of             
+181TA2cL 7/2[404] rotational band.                                              
+181TA cL T         from Coulomb excitation (1976In07)                           
+181TA  G 165.40     2  100     M1+E2      +0.363  10     1.01                   
+181TAB G BM1W=0.093 19$BE2W=280 90                                              
+181TA cG M,MR$from Coulomb Excitation                                           
+181TA  G 301.57    21  68     5  E2                     0.0814              C   
+181TAB G BE2W=59 12                                                             
+181TA cG M$from Coulomb Excitation                                              
+181TA  L 337.54     3  13/2-                                                c   
+181TAX L XREF=CHIJ                                                              
+181TA cL J$|g's to 9/2- and 11/2-, member of 9/2[514] rotational band           
+181TA  G 179.00     2                                                           
+181TA  G 331.29     3                                                           
+181TA  L    482.16823 5/2+              10.8 NS   1                         A   
+181TAX L XREF=ACEGHI                                                            
+181TAM L MOMM1=+3.29 3$ MOME2=(+)2.35 6 (2001StZZ)                              
+181TA cL MOMM1$measured by differential perturbed angular correlation           
+181TA2cL (1964Ag02,1963Ma10)                                                    
+181TA cL MOME2$measured by differential perturbed angular correlation           
+181TAxcL (1983Bu23).                                                            
+181TA cL J$M1+E2 to 7/2+, M2+E3 to 9/2-, E2 to 9/2+.                            
+181TA2cL Band head of 5/2[402] band.                                            
+181TA cL T         from {+181}Hf |b{+-} decay                                   
+181TA  G 345.97     4 18.78  12 E2                      0.0544                  
+181TAB G BE2W=0.0264 3                                                          
+181TA  G 475.99     9 0.873   7 M2+E3     0.5      1     0.168 8                
+181TAB G BM2W=0.0207 17$BE3W=15 5                                               
+181TA  G 482.17     3 100.00 14 M1+E2     4.76     4   0.0295  8                
+181TA cG CC$penetration parameter |l=150 {I1}                                   
+181TAB G BM1W=6.21E-7 12$BE2W=0.0256 3                                          
+181TA  L    495.18422 13/2+              6.3 PS    8                        b   
+181TAX L XREF=CGHI                                                              
+181TA cL J$M1+E2 |g to 11/2+, E2 |g to 9/2+, band structure.                    
+181TA cL T         from Coulomb excitation (1976In07)                           
+181TA  G 193.72     5  65       M1+E2    0.53    +12-9    0.61 3            C   
+181TAB G BM1W=0.118 21$BE2W=370 150                                             
+181TA cG M,MR$from Coulomb Excitation                                           
+181TA  G 358.881   20 100     8 E2                      0.0490              C   
+181TAB G BE2W=117 17                                                            
+181TA cG M$from Coulomb Excitation                                              
+181TA  L 542.51     3  15/2-                                                C   
+181TAX L XREF=CIJ                                                               
+181TA cL J$|g's to 11/2-, 13/2-, fed by primary |g in (n,|g), band structure    
+181TA  G 204.98     2                                                           
+181TA  G 383.90     5                                                           
+181TA  L     590.06237/2+                                                   a   
+181TAX L XREF=GI                                                                
+181TA cL J$|g to 5/2+, band structure                                           
+181TA  G     107.9                                                              
+181TA  L     615.19 3 1/2+                 18 US   1                            
+181TAX L XREF=ACEH                                                              
+181TA cL J$M3 to 7/2+, E2 to 5/2+,                                              
+181TA2cL |b-feeding from {+181}Hf (J|p=1/2-) with log| {Ift}=7.2.               
+181TA cL T         17.6 Ms {I2} from {+181}Hf |b{+-} decay                      
+181TA2cL 18.9 Ms {I5} and {+181}Ta IT decay. The uncertainty                    
+181TA2cL has been increased by the evaluator to account                         
+181TA3cL for the wide variability in the measurements.                          
+181TA  G 133.027   18 100.0  11 E2                       1.265                  
+181TAB G BE2W=0.0055 4                                                          
+181TA cG CC$penetration parameters |l(1)=22 {I4}, |l(2)=-11 {I4} (1989Ki23)     
+181TA  G 615.17    11 0.54    4 M3(+E4)                  0.194                  
+181TA cG MR$0.7 {I3} from |b{+-} decay doubtful because B(E4)(W.u.)=320.        
+181TA2cG RUL requires B(E4)(W.u.)<10 for A>150.                                 
+181TAB G BM3W=0.13 1                                                            
+181TA  L     618.99 5  3/2+               0.87 NS 2                             
+181TAX L XREF=ACH                                                               
+181TA cL J$M1 to 5/2+, (E2) to 7/2+, |g to 1/2+, |b decay from                  
+181TA2cL 1/2- with log| {Ift}=8.3.                                              
+181TA cL T         from {+181}Hf |b{+-} decay                                   
+181TA  G 3.90      10           [M1]                   2684           78  37    
+181TA  G 136.97     6 100    21 M1                       1.83                   
+181TAB G BM1W=0.00075 15                                                        
+181TA  G 618.66     8 2.91   14 (E2)                   0.01216                  
+181TAB G BE2W=0.00042 13                                                        
+181TA  L    716.65925 15/2+              3.0 PS   4                         B   
+181TAX L XREF=CGHI                                                              
+181TAM L MOMM1=+2 2 (2001StZZ)                                                  
+181TA cL MOMM1$measured by transient field integral perturbed                   
+181TA2cL angular correlation (1996HaZX)                                         
+181TA cL J$M1+E2 to 13/2+, E2 to 11/2+, fed by primary |g in (n,|g),            
+181TA2cL Rotational band assignment.                                            
+181TA cL T         from Coulomb excitation (1976In07)                           
+181TA  G 221.479   20 43        M1+E2    0.49     +7-12  0.42419            C   
+181TAB G BM1W=0.142 24$BE2W=290 90                                              
+181TA cG M,MR$from Coulomb Excitation                                           
+181TA  G 415.07     3 100     9 E2                      0.0328              C   
+181TAB G BE2W=153 24                                                            
+181TA cG M,MR$from Coulomb Excitation                                           
+181TA  L     727.3123 9/2+                                                  A   
+181TAX L XREF=GI                                                                
+181TA cL J$|g to 5/2+ and 7/2+, band structure                                  
+181TA  G     137.1                                                              
+181TA  G     245.0                                                              
+181TA  L     772.97 4  17/2-                                                c   
+181TAX L XREF=CIJ                                                               
+181TA cL J$|g's to 13/2- and 15/2-, fed by primary |g in (n,|g), band structure 
+181TA  G 230.470   20                                                           
+181TA  G 435.42     3                                                           
+181TA  L      892.9 311/2+                                                  a   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 7/2+ and 9/2+, band structure                                  
+181TA  G     165.5                                                              
+181TA  G     303.0                                                              
+181TA  L     964.99 4 17/2+              1.93 PS  24                        b   
+181TAX L XREF=CGI                                                               
+181TAM L MOMM1=+4 2 (2001StZZ)                                                  
+181TA cL MOMM1$measured by transient field integral perturbed                   
+181TA2cL angular correlation (1996HaZX)                                         
+181TA cL J$M1+E2 to 15/2+, E2 to 13/2+, fed by primary |g in (n,|g),            
+181TA2cL Rotational band assignment                                             
+181TA cL T         from Coulomb excitation (1976In07)                           
+181TA  G 248.41     4 31        M1+E2    0.33    +14-10  0.32717            C   
+181TAB G BM1W=0.15 3$BE2W=110 90                                                
+181TA cG M,MR$from Coulomb Excitation                                           
+181TA  G 469.77     3 100    13 E2                     0.02374              C   
+181TAB G BE2W=146 25                                                            
+181TA cG M$from Coulomb Excitation                                              
+181TA  L      993.7 3                                                           
+181TAX L XREF=I                                                                 
+181TA  G     511.5                                                              
+181TA  L      994.210(5/2-)                                                 D   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 9/2-, band head of |p1/2[541].                                 
+181TA  G       988                                                              
+181TA  L     1022.610(9/2-)                                                 D   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 11/2-, band structure.                                         
+181TA  G       864                                                              
+181TA  L    1027.94 5  19/2-                                                C   
+181TAX L XREF=CIJ                                                               
+181TA cL J$|g's to 17/2- and 15/2-, rotational band assignment                  
+181TA  G 255.07     5                                                           
+181TA  G 485.35     5                                                           
+181TA  L     1085.6 313/2+                                                  A   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 9/2+ and 11/2+, band structure                                 
+181TA  G     192.6                                                              
+181TA  G     358.3                                                              
+181TA  L     1156.6 5                                                           
+181TAX L XREF=I                                                                 
+181TA  G     162.9                                                              
+181TAF G FL=993.7                                                               
+181TA  L     1163.615(13/2-)                                                D   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to (9/2-), band structure                                         
+181TA  G       141              [E2]                                            
+181TA  L     1205.7 6  (3/2+)                                               V   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 7/2+ and 5/2+, K-2 |g-vibrational band with K=3/2              
+181TA  G       616                                                              
+181TA  G       723                                                              
+181TA  G      1206                                                              
+181TA  L 1233.1                                                                 
+181TAX L XREF=CH                                                                
+181TA  L    1239.47 5  19/2+             1.12 PS  14                        B   
+181TAX L XREF=CGI                                                               
+181TAM L MOMM1=+4 5 (2001StZZ)                                                  
+181TA cL MOMM1$measured by transient field integral perturbed                   
+181TA2cL angular correlation (1996HaZX)                                         
+181TA cL J$E2 to 15/2+, |g to 17/2+, fed by primary |g in (n,|g),               
+181TA2cL rotational band assignment                                             
+181TA cL T         from Coulomb excitation (1976In07)                           
+181TA  G 274.51     9 20       [M1+E2]                                      C   
+181TAB G BM1W=0.076 25$BE2W=430 140                                             
+181TA  G 522.81     5 100    33 E2                     0.01820              C   
+181TAB G BE2W=170 60                                                            
+181TA cG M$from Coulomb Excitation                                              
+181TA  L     1278.1 6  (5/2+)                                               V   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 7/2+ and 9/2+, band structure                                  
+181TA  G   688                                                                  
+181TA  G  1142                                                                  
+181TA  G  1278                                                                  
+181TA  L     1304.8 415/2+                                                  a   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 11/2+ and 13/2+, rotational band structure                     
+181TA  G     219.2                                                              
+181TA  G     412.0                                                              
+181TA  L    1307.11 5  21/2-                                                c   
+181TAX L XREF=CIJ                                                               
+181TA cL J$|g's to 17/2- and 19/2-, rotational band assignment.                 
+181TA  G 279.18     3                                                           
+181TA  G 534.09     7                                                           
+181TA  L 1340      15                                                           
+181TAX L XREF=H                                                                 
+181TA  L     1380.1 5  (7/2+)                                               V   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 7/2+ and 11/2+, band structure                                 
+181TA  G   651                                                                  
+181TA  G  1078                                                                  
+181TA  G  1244                                                                  
+181TA  G  1382                                                                  
+181TA  L     1380.6 6  (11/2+)                                              W   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 7/2+ and 11/2+, K+2 |g-vibrational band with K=11/2            
+181TA  G  1078                                                                  
+181TA  G  1244                                                                  
+181TA  G  1382                                                                  
+181TA  L 1390                                                                   
+181TAX L XREF=H                                                                 
+181TA  L     1403.2 6 15/2-                                                 E   
+181TAX L XREF=C(1403)I                                                          
+181TA cL E$Level observed in 1998Sa60, deexcites by emitting                    
+181TA2cL 861, 1066 and 1244 keV |g's to the 9/2- band,                          
+181TA3cL is identified (by the evaluator) as a different state                  
+181TA4cL from the levels at 1403 and 1404 keV by 1998Dr09                       
+181TA5cL However, there might be some chance that this level is                 
+181TA6cL actually the doublet of 1403.3+1403.9 from 1998Dr09.                   
+181TA7cL In this case, one might attribute the level 1403.4+x                   
+181TA8cL as the 1472.9 state from 1998Dr09 with x=69.0.                         
+181TA  G     861                                                            R   
+181TA  G    1066                                                            R   
+181TA  G    1244                Q                                           R   
+181TA cG M$from DCO ratios (1998Sa60)                                           
+181TA  L    1403.3522(17/2)                                                     
+181TAX L XREF=C(1403)I                                                          
+181TA cL E$The level at 1403.9 keV deexcites by emitting |g's of                
+181TA2cL similar energies but very different branching ratios compared          
+181TA3cL with this state; hence identified as two levels by 1998Dr09.           
+181TA4cL There is a state at 1403.4 observed by 1998Sa60. It is not clear       
+181TA5cL which state it corresponds to, but identified as                       
+181TA6cL the state at 1403.90 (15/2) in this evaluation.                        
+181TA cL T$3.3 ns for 1403.4 or 1403.9 from {+176}Yb({+11}B,|a2n|g) (1998Dr09)  
+181TA  G     860.7                                                             ?
+181TA cG E$Observed in (n,|g)                                                   
+181TA  G    1065.7                                                          R   
+181TA  G    1244.9                                                          R   
+181TA  L    1403.9022(15/2)                                                     
+181TAX L XREF=C(1403)I                                                          
+181TA cL $See comments on 1403.3 level.                                         
+181TA  G     860.7                                                             ?
+181TA cG E$Observed in (n,|g)                                                   
+181TA  G    1066.2                                                          R   
+181TA  G    1245.5                                                          R   
+181TA  L     1419.618(17/2-)                                                D   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to (13/2-), band structure                                        
+181TA  G       256              [E2]                                            
+181TA  L     1472.7                                                             
+181TAX L XREF=CI                                                                
+181TA cL J$fed by primary |g in (n,|g), |g to (15/2)                            
+181TA  G  69.0                                                                  
+181TAF G FL=1403.90                                                             
+181TA  L    1483.4321 21/2-            25 US     2                              
+181TAX L XREF=IJ                                                                
+181TA cL J$|g to 17/2- and 21/2-                                                
+181TA cL $Configuration: |p9/2[514]|p7/2[404]|p5/2[402], K|p=21/2-.             
+181TA cL T$From ({+238}U,{+238}U'|g).                                           
+181TA2cL Other:23 |ms {I+6-2} from {+176}Yb({+11}B,|a2n|g) (1998Dr09).          
+181TA  G       177                                                              
+181TA  G     455.3                                                              
+181TA  G     710.6                                                              
+181TA  L     1507.9 7  (9/2+)                                               V   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 9/2+ and 11/2+, band structure                                 
+181TA  G  1206                                                                  
+181TA  G  1372                                                                  
+181TA  L    1539.31 9   21/2+           0.76 PS  10                         b   
+181TAX L XREF=CGI                                                               
+181TA cL J$|g to 19/2+ and to 17/2+, rotational band structure                  
+181TA cL T         from Coulomb excitation (1976In07)                           
+181TA  G 300.05    21                                                           
+181TA  G 574.29     9           E2                     0.01449                  
+181TAB G BE2W=190 30                                                            
+181TA cG M$from Coulomb Excitation                                              
+181TA  L     1548.4 417/2+                                                  A   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 13/2+ and to 15/2+, rotational band structure                  
+181TA  G     243.7                                                              
+181TA  G     462.6                                                              
+181TA  L     1563.4 7  (13/2+)                                              W   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 9/2+ and 11/2+, band structure                                 
+181TA  G  1262                                                                  
+181TA  G  1427                                                                  
+181TA  L     1583.810 (17/2)                                                e   
+181TAX L XREF=I                                                                 
+181TA  G       181                                                              
+181TAF G FL=1403.2                                                              
+181TA  L     1591.9 4(19/2)                                                     
+181TAX L XREF=I                                                                 
+181TA cL J$|g to (17/2)                                                         
+181TA  G     188.5                                                              
+181TAF G FL=1403.35                                                             
+181TA  L    1608.852023/2-                                                  C   
+181TAX L XREF=IJ                                                                
+181TA cL J$|g to 19/2- and 21/2-, band structure                                
+181TA  G     301.5                                                              
+181TA  G     581.3                                                              
+181TA  L 1661.1                                                                 
+181TAX L XREF=C                                                                 
+181TA  L     1664.9 7  (11/2+)                                              V   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 11/2+ and 13/2+, band structure                                
+181TA  G  1169                                                                  
+181TA  G  1364                                                                  
+181TA  L     1685.3 5(19/2)                                                     
+181TAX L XREF=I                                                                 
+181TA cL J$|g to (17/2)                                                         
+181TA  G     212.4                                                              
+181TA  L     1771.9 7  (15/2+)                                              W   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 11/2+ and 13/2+, band structure                                
+181TA  G  1278                                                                  
+181TA  G  1469                                                                  
+181TA  L     1776.3 9  23/2-                                                    
+181TAX L XREF=J                                                                 
+181TA cL J$|g to 21/2-                                                          
+181TA  G  293                                                                   
+181TA  L     1786.620(21/2-)                                                D   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to (17/2-), band structure                                        
+181TA  G       367              [E2]                                            
+181TA  L     1787.610(19/2)                                                 E   
+181TAX L XREF=I                                                                 
+181TA  G       204                                                              
+181TA  G       384                                                              
+181TAF G FL=1403.2                                                              
+181TA  L     1803.7 5(21/2)                                                     
+181TAX L XREF=I                                                                 
+181TA cL J$|g to (19/2)                                                         
+181TA  G     211.8                                                              
+181TA  L     1819.1 4(19/2+)                                                a   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 15/2+ and 17/2+, band structure                                
+181TA  G     270.2                                                              
+181TA  G     514.3                                                              
+181TA  L    1863.092223/2+                                                  B   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 19/2+ and 21/2+, band structure                                
+181TA  G     324.0                                                              
+181TA  G     623.4                                                              
+181TA  L     1866.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G  1866        100                                                   D   
+181TA  L    1932.762425/2-                                                  c   
+181TAX L XREF=IJ                                                                
+181TA cL J$|g to 21/2- and 23/2-, band structure                                
+181TA  G     324.0                                                              
+181TA  G     625.5                                                              
+181TA  L     1935.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G  1935        100                                                   D   
+181TA  L     2001.210  (17/2+)                                              W   
+181TAX L XREF=G                                                                 
+181TA cL J$|g to 13/2+, band structure                                          
+181TA  G  1506                                                                  
+181TA  L     2014.712(21/2)                                                 e   
+181TAX L XREF=I                                                                 
+181TA  G       227                                                              
+181TAF G FL=1787.6                                                              
+181TA  G       431                                                              
+181TA  L 2020                                                                   
+181TAX L XREF=H                                                                 
+181TA  L     2097.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G     2097     100                                                   D   
+181TA  L     2098.111 25/2-                                                     
+181TAX L XREF=J                                                                 
+181TA cL J$|g to 23/2-                                                          
+181TA  G     322                                                                
+181TA  L     2105.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G     2105     100                                                   D   
+181TA  L     2122.5 5(21/2+)                                                A   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 17/2+ and (19/2+), band structure                              
+181TA  G     303.0                                                              
+181TA  G     574.5                                                              
+181TA  L     2210.1 325/2+                                                  b   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 21/2+, band structure                                          
+181TA  G  347                                                                   
+181TA  G     670.8                                                              
+181TA  L     2227.9 9                   210 US   20                             
+181TAX L XREF=IJ                                                                
+181TA cL T$from {+181}Ta({+238}U,{+238}U'|g) (1998Wh02).                        
+181TA  G   130                                                                  
+181TAF G FL=2098.1                                                              
+181TA  G       295                                                              
+181TAF G FL=1932.76                                                             
+181TA  L     2240.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2240       100                                                   D   
+181TA  L     2253.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2253       100                                                   D   
+181TA  L     2260.623(25/2-)                                                D   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to (21/2-), band structure                                        
+181TA  G       474              [E2]                                            
+181TAF G FL=1786.6                                                              
+181TA  L     2262.613(23/2)                                                 E   
+181TAX L XREF=I                                                                 
+181TA  G       248                                                              
+181TA  G       475                                                              
+181TAF G FL=1787.6                                                              
+181TA  L     2272.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2272       100                                                   D   
+181TA  L     2276.3 827/2-                                                  C   
+181TAX L XREF=I                                                                 
+181TA cL E$Ex=2287 from 1998Dr09, depopulated by 678.0 keV |g.                  
+181TA cL J$|g to 23/2- and 25/2-, band structure                                
+181TA  G       343                                                              
+181TAF G FL=1932.76                                                             
+181TA  G       668                                                              
+181TA  L     2289.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2289       100                                                   D   
+181TA  L     2297.1 7                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2161        20     2                                             D   
+181TA  G   2297       100                                                   D   
+181TA  L 2361.4                                                                 
+181TAX L XREF=C                                                                 
+181TA  L     2400.1 7                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2264        100                                                  D   
+181TA  G   2400         90   19                                             D   
+181TA  L     2418.1 7                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2412         65   18                                             D   
+181TA  G   2418        100                                                  D   
+181TA  L     2448.1 7                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2312         40    8                                             D   
+181TA  G   2448        100                                                  D   
+181TA  L     2519.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2519       100                                                   D   
+181TA  L 2525.7                                                                 
+181TAX L XREF=C                                                                 
+181TA  L     2533.715(25/2)                                                 e   
+181TAX L XREF=I                                                                 
+181TA  G       519                                                              
+181TA  L 2570                                                                   
+181TAX L XREF=H                                                                 
+181TA  L     2580.1 4 27/2+                                                 B   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 23/2+, band structure                                          
+181TA  G     717.0                                                              
+181TA  L     2642.81129/2-                                                  c   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 25/2-, band structure                                          
+181TA  G       710                                                              
+181TAF G FL=1932.76                                                             
+181TA  L     2761.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2761       100                                                   D   
+181TA  L     2800.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2800       100                                                   D   
+181TA  L     2807.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2807       100                                                   D   
+181TA  L     2812.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2812       100                                                   D   
+181TA  L     2835.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2835       100                                                   D   
+181TA  L     2845.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2845       100                                                   D   
+181TA  L 2890                                                                   
+181TAX L XREF=H                                                                 
+181TA  L     2892.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2892       100                                                   D   
+181TA  L     2898.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2898       100                                                   D   
+181TA  L     2929.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2929       100                                                   D   
+181TA  L     2967.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G   2967       100                                                   D   
+181TA  L     2968.11129/2+                                                  b   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 25/2+, band structure                                          
+181TA  G       758                                                              
+181TA  L 3010                           0.78 PS                                 
+181TAX L XREF=D                                                                 
+181TA cL T         calculated from |G=5.9|*10{+-4} eV and |g branching          
+181TA2cL measured in (|g,|g')                                                   
+181TA  L     3016.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3016         100                                                   D   
+181TA  L     3021.31331/2-                                                  C   
+181TAX L XREF=I                                                                 
+181TA cL J$|g to 27/2-, band structure                                          
+181TA  G       745                                                              
+181TA  L     3023.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3023         100                                                   D   
+181TA  L     3029.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3029         100                                                   D   
+181TA  L     3035.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3035         100                                                   D   
+181TA  L     3054.1 7                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3048          100                                                  D   
+181TA  G 3054           85   21                                             D   
+181TA  L     3065.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3065         100                                                   D   
+181TA  L     3074.2 7                                                           
+181TAX L XREF=D                                                                 
+181TA  G 2938          100                                                  D   
+181TA  G 3074           71   16                                             D   
+181TA  L     3081.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3081         100                                                   D   
+181TA  L     3086.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3086         100                                                   D   
+181TA  L     3092.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3092         100                                                   D   
+181TA  L     3108.1 7                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3102           87   14                                             D   
+181TA  G 3108          100                                                  D   
+181TA  L     3320.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3320         100                                                   D   
+181TA  L     3329.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3329         100                                                   D   
+181TA  L     3407.010                                                           
+181TAX L XREF=D                                                                 
+181TA  G 3407         100                                                   D   
+181TA  L     6417.7 7                   1.7 PS                                  
+181TAX L XREF=D                                                                 
+181TA cL T         calculated from |G=2.7|*10{+-4} eV and |g branching          
+181TA2cL measured in (|g,|g')                                                   
+181TA  G  6281                                                              d   
+181TA  G  6418                                                              d   
+181TA  L 6759                           25 PS                                   
+181TAX L XREF=D                                                                 
+181TA cL T         calculated from |G=1.8|*10{+-5} eV and |g branching          
+181TA2cL measured in (|g,|g')                                                   
+181TA  L  1403.2+X   (19/2+)           140 NS    36                         F   
+181TA DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+181TAX L XREF=I                                                                 
+181TA cL T$from {+176}Yb({+11}B,|a2n|g) (1998Sa60)                              
+181TA cL $This level feeds 1402 level through, as yet, unidentified             
+181TA2cL transitions of x<50.                                                   
+181TA  L   1617.2+X 8(21/2+)                                                f   
+181TAX L XREF=I                                                                 
+181TA  G       213                                                              
+181TAF G FL=1403.2+X                                                            
+181TA  L   1853.3+X 7(23/2+)                                                F   
+181TAX L XREF=I                                                                 
+181TA  G       236                                                              
+181TA  G       450                                                              
+181TAF G FL=1403.2+X                                                            
+181TA  L   2113.0+X 8(25/2+)                                                f   
+181TAX L XREF=I                                                                 
+181TA  G       260                                                              
+181TA  G       496                                                              
+181TA  L   2393.7+X10(27/2+)                                                F   
+181TAX L XREF=I                                                                 
+181TA  G       281                                                              
+181TA  G       540                                                              
+
+
