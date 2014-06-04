@@ -1,0 +1,333 @@
+ 23MG    ADOPTED LEVELS, GAMMAS                                  07NDS    200703
+ 23MG  H TYP=ERR$AUT=B. Singh$DAT=23-Jan-2012$COM=Lev 8353 to 8453 (2011Ki26)$  
+ 23MG  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 108, 1 (2007)$CUT=1-Feb-2006$       
+ 23MG  Q  -12243   1913148.1 19 7580.3 14-9650.1 13    2003AU03                 
+ 23MG c  See abstract for special evaluation policies used in the               
+ 23MG2c  A=23 or Comments dataset in ENSDF                                      
+ 23MG cG E$Deduced from level-energy differences, corrected for                 
+ 23MG2cG recoil.                                                                
+ 23MG cG RI$Relative photon branching from each level.                          
+ 23MG cL T$Weighted average of all measurements, except as noted. Uncertainty   
+ 23MG2cL limited to no less than that of the most precise value.                
+ 23MG cL E$From least squares fit to gamma-ray energies where applicable.       
+ 23MG  XA23AL B+ DECAY                                                          
+ 23MG  XB24SI ECP DECAY                                                         
+ 23MG  XC24MG(3HE,A),(3HE,AG)                                                   
+ 23MG  XD25MG(P,T)                                                              
+ 23MG  XE23NA(P,N)                                                              
+ 23MG  XF22NA(P,G)                                                              
+ 23MG  XG24MG(P,D),(POL P,D)                                                    
+ 23MG  XH12C(12C,N)                                                             
+ 23MG  XI24MG(D,T)                                                              
+ 23MG PN                                                                     6  
+ 23MG  L 0            3/2+             11.317 S  11                             
+ 23MG2 L %EC+%B+=100                                                            
+ 23MGX L XREF=ABEGCDFHI                                                         
+ 23MG cL T$from 1977Az01. Other values: 11.327 s 14 (1975Az01), 11.41 s 5       
+ 23MG2cL 1968Go10, 11.36 s 4 (1974Al03), 11.26 s 8 (1974Az01).                  
+ 23MG cL J$log| {Ift}=4.39 to 5/2+, log| {Ift}=4.97 to 1/2+                     
+ 23MG  L 450.71    15 5/2+             1.25 PS   8                              
+ 23MGX L XREF=AEGCDFHI                                                          
+ 23MG cL J$M1+E2 to 3/2+, L=2 in (p,d)                                          
+ 23MG  G     450.7015 100       M1+E2    -0.06   2                              
+ 23MGB G BM1W=0.192 13$BE2W=22 15                                               
+ 23MG  L 2052.2     9 7/2+             55 FS     14                             
+ 23MGX L XREF=AGCDFHI                                                           
+ 23MG cL J$M1+E2 to 5/2+, E2 to 3/2+, L=4 in ({+3}He,|a)                        
+ 23MG  G       1599 2 100     3 M1+E2    -0.20   3                              
+ 23MGB G BM1W=0.078 20$BE2W=8 4                                                 
+ 23MG  G       2052 2 21.4   24 E2(+M3)  +0.06   5                              
+ 23MGB G BE2W=13 4                                                              
+ 23MG  L 2359.0    141/2+              575 FS    118                            
+ 23MGX L XREF=BGCDI                                                             
+ 23MG cL J$L=0 in (p,d)                                                         
+ 23MG  G       1908 2 100     3                                                 
+ 23MGB G BE2W=6.9 15                                                            
+ 23MG  G       2359 2 45      3                                                 
+ 23MG  L 2714.7    109/2+,5/2+         91 FS     16                             
+ 23MGX L XREF=CDFHI                                                             
+ 23MG cL J$E2 to 5/2+, L=4 in (p,t)                                             
+ 23MG  G      662.0 4 49      3                                                 
+ 23MGB G BM1W=0.24 5                                                            
+ 23MG  G       2264 2 100     3 E2                                              
+ 23MG  L 2771       3 1/2-             107 FS    21                             
+ 23MGX L XREF=GCDI                                                              
+ 23MG cL J$in (p,d)                                                             
+ 23MG  G       2771 3 100                                                       
+ 23MGB G BE1W=0.00036 7                                                         
+ 23MG  L 2908.1    20 (3/2,5/2)+       17 FS     LT                             
+ 23MGX L XREF=CDE                                                               
+ 23MG cL J$M1+E2 to 3/2+ and 5/2+                                               
+ 23MG  G       2457 3 59      3  M1+E2                                          
+ 23MG  G       2908 3 100     3  M1+E2                                          
+ 23MG  L 3798       5 3/2-             14 NS     LT                             
+ 23MGX L XREF=CDGI                                                              
+ 23MG cL J$M1(+E2) to 1/2-, E1+M2 to 5/2+, L=1 in (p,d)                         
+ 23MG  G       1029 5 8       4 M1(+E2)  +0.08   20                             
+ 23MG  G       3349 5 100     6 E1(+M2)  +0.06   6                              
+ 23MG  G       3800 5 8.0    23 E1+M2     0.4    GT                             
+ 23MG  L 3864       5 (3/2,5/2)+                                                
+ 23MGX L XREF=CDI                                                               
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 3973       5 5/2-             14 NS     LT                             
+ 23MGX L XREF=CDGI                                                              
+ 23MG cL J$L=3 in (p,t), E1+M2 to 3/2+                                          
+ 23MG  G       1065 5 24                                                        
+ 23MG  G       1922 5 100                                                       
+ 23MG  G       3973 5  80       E1+M2      -4.33 9                              
+ 23MG  L 4353       6 1/2+             14 NS     LT                             
+ 23MGX L XREF=CDGI                                                              
+ 23MG cL J$L=0 in (p,d)                                                         
+ 23MG  G       1994 6 4       3                                                 
+ 23MG  G       4353 6 100     3                                                 
+ 23MG  L 4685       6 (1/2 TO 9/2)+                                             
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MGX L XREF=CDGI                                                              
+ 23MG  L 5287       6 (3/2,5/2)+                                                
+ 23MG cL J$L=2 in (p,d)                                                         
+ 23MGX L XREF=CDGI                                                              
+ 23MG  L 5453.2    16                                                           
+ 23MGX L XREF=CDHI                                                              
+ 23MG  L 5656       7 5/2+                                                      
+ 23MG cL J$L=0 in (p,t)                                                         
+ 23MGX L XREF=CD                                                                
+ 23MG  L 5691       8 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=CDG                                                               
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 5711       8 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 5932       6                                                           
+ 23MGX L XREF=CD                                                                
+ 23MG  L 5984       6 (1/2,3/2)-                                                
+ 23MGX L XREF=CDG                                                               
+ 23MG cL J$L=1 in (p,d)                                                         
+ 23MG  L 6125       6                                                           
+ 23MGX L XREF=CDH                                                               
+ 23MG  L 6191       6  (13/2+)                                                  
+ 23MGX L XREF=CDH                                                               
+ 23MG cL J$({+12}C,n)                                                           
+ 23MG  G 736        8                                                           
+ 23MG  G 3476       8                                                           
+ 23MG  L 6236       6 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 6375       8                                                           
+ 23MGX L XREF=CD                                                                
+ 23MG  L 6442       6                                                           
+ 23MGX L XREF=CD                                                                
+ 23MG  L 6507       5 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 6538       5 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=CDG                                                               
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 6568       8 5/2+                                                      
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=0 in (p,t)                                                         
+ 23MG  L 6771       6                                                           
+ 23MGX L XREF=CD                                                                
+ 23MG  L 6799       6                                                           
+ 23MGX L XREF=CDG                                                               
+ 23MG  L 6810       6                                                           
+ 23MGX L XREF=CDG                                                               
+ 23MG  L 6899       5 5/2+                                                      
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=0 in (p,t)                                                         
+ 23MG  L 6984       5 5/2+                                                      
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=0 in (p,t)                                                         
+ 23MG  L 7017       5 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 7111       7                                                           
+ 23MGX L XREF=CD                                                                
+ 23MG  L 7146       6 (5/2)+                                                    
+ 23MGX L XREF=CD                                                                
+ 23MG cL J$L=(0+2) in (p,t)                                                     
+ 23MG  L 7229       7                                                           
+ 23MGX L XREF=CDG                                                               
+ 23MG  L 7258       7                                                           
+ 23MGX L XREF=CD                                                                
+ 23MG  L 7381       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 7444       8                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 7493       8 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=D                                                                 
+ 23MG cL J$L=2 in (p,t)                                                         
+ 23MG  L 7586       2 5/2+                                                      
+ 23MGX L XREF=DGH                                                               
+ 23MG cL J$L=0 in (p,t)                                                         
+ 23MG  L 7624.4     9 (9/2)+                4 FS 2                              
+ 23MGX L XREF=DGH                                                               
+ 23MG cL J$L=2 in (p,t), ({+12}C,n)                                             
+ 23MG  G 7172.5     9 100       E2                                              
+ 23MGB G BE2W=1.9 10                                                            
+ 23MG  L 7648       3 (3/2)+                                                    
+ 23MGX L XREF=DH                                                                
+ 23MG cL J$L=2 in (p,d), ({+12}C,n)                                             
+ 23MG  G 7196.0    26          M1(+E2)                                          
+ 23MG  L 7770.2    14 (9/2+)                2 FS 1                              
+ 23MGX L XREF=H                                                                 
+ 23MG cL J$From ({+12}C,n)                                                      
+ 23MG  G 2316.9     5    42  7                                                  
+ 23MG  G 5054.8     6    58  7                                                  
+ 23MG  L 7782.2    12 (11/2)+               1 FS LT                             
+ 23MGX L XREF=H                                                                 
+ 23MG cL J$From ({+12}C,n), E2 to 7/2+                                          
+ 23MG  G 5067.1    11    67  6                                                  
+ 23MG  G 5729.1    11    33  6 E2                                               
+ 23MGB G BE2W=7.8 8                                                             
+ 23MG  L 7785.7    11 (7/2)+               10 FS 3                              
+ 23MGX L XREF=DFGH                                                              
+ 23MG cL J$L=4 in (p,t), ({+12}C,n)                                             
+ 23MG  G 7333.7    11 100       M1(+E2)                                         
+ 23MG  L 7802.2    14 5/2+                                                      
+ 23MG2 L ISPIN=3/2$%P=0.17 8                                                    
+ 23MGX L XREF=ADG                                                               
+ 23MG cL J$L=0 in (p,t)                                                         
+ 23MG  G 7350       2   75   40                                                 
+ 23MG  G 7801       2  100   40                                                 
+ 23MG  L 7854.8    12 (7/2+)                                                    
+ 23MGX L XREF=ADFH                                                              
+ 23MG2 L %P<100                                                                 
+ 23MG  G 5138.1    13  100    7                                                 
+ 23MG  G 5804       2  44     5                                                 
+ 23MG  G 7404       2  18     5                                                 
+ 23MG  L 8017.2    12                                                           
+ 23MGX L XREF=ADFH                                                              
+ 23MG2 L %P<100                                                                 
+ 23MG  G 5300.2     9  100   17                                                 
+ 23MG  G 5966.7    11  41    17                                                 
+ 23MG  L 8059       2                                                           
+ 23MGX L XREF=DFG                                                               
+ 23MG  G 8057       2 100                                                       
+ 23MG  L 8076       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 8163.3    12 5/2+                                                      
+ 23MGX L XREF=ADFG                                                              
+ 23MG2 L %P<100                                                                 
+ 23MG cL J$L=0 in (p,t)                                                         
+ 23MG  G 6109.5    18   31    3                                                 
+ 23MG  G 7712       2   23    3                                                 
+ 23MG  G 8162       2   100   6                                                 
+ 23MG  L 8193       8                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 8287       3                                                           
+ 23MGX L XREF=DF                                                                
+ 23MG  G 5573           100                                                     
+ 23MG  L 8393       6                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 8420       6                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 8453       5 3/2+,5/2+,7/2+                                            
+ 23MGX L XREF=AD                                                                
+ 23MG2 L %P<100                                                                 
+ 23MG cL J$log| {Ift}=4.8 from 5/2+                                             
+ 23MG  G 7990       5   100                                                     
+ 23MG  L 8557       6                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 8617       6                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 8758       6                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 8793       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 8870       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 8916       6                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 8943       7  (15/2+)             70 FS LT                             
+ 23MGX L XREF=DH                                                                
+ 23MG cL J$From ({+12}C,n)                                                      
+ 23MG  G 2743       8                                                           
+ 23MG  L 8990       6 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=D                                                                 
+ 23MG cL J$L=2 in (d,t)                                                         
+ 23MG  L 9018       6                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 9060       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9103       6                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9138       6                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 9253       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9328       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9374       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9403       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9420       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9465       6 (1/2 TO 9/2)+                                             
+ 23MGX L XREF=DG                                                                
+ 23MG cL J$L=2 in (d,t)                                                         
+ 23MG  L 9596       7  (17/2+)             15 FS                                
+ 23MGX L XREF=ADH                                                               
+ 23MG2 L %P<100                                                                 
+ 23MG cL J$From ({+12}C,n)                                                      
+ 23MG  G 3396       7                                                           
+ 23MG  L 9642       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9662       8                                                           
+ 23MGX L XREF=DG                                                                
+ 23MG  L 9717       8                                                           
+ 23MGX L XREF=D                                                                 
+ 23MG  L 9750      50 (3/2+,5/2+)                                               
+ 23MGX L XREF=G                                                                 
+ 23MG cL J$L=(2) in (p,d)                                                       
+ 23MG  L 9850      30                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 9970      40  (3/2-)                                                   
+ 23MGX L XREF=G                                                                 
+ 23MG cL J$L=(1) in (p,d)                                                       
+ 23MG  L 10120     50                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 10270     30  (3/2-)                                                   
+ 23MGX L XREF=G                                                                 
+ 23MG cL J$L=(1) in (p,d)                                                       
+ 23MG  L 10440     50  (3/2-)                                                   
+ 23MGX L XREF=G                                                                 
+ 23MG cL J$L=(1) in (p,d)                                                       
+ 23MG  L 10570     20   3/2-                                                    
+ 23MGX L XREF=G                                                                 
+ 23MG cL J$L=1 in (p,d)                                                         
+ 23MG  L 10750     40  (3/2+,5/2+)                                              
+ 23MGX L XREF=G                                                                 
+ 23MG cL J$L=(2) in (p,d)                                                       
+ 23MG  L 10920     70                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 11030     60                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 11210     60                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 11380     60                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 11540     60                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 11800     40                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 11990     50                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 12480     80                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 12690     80                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 12940     80                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 13280     80                                                           
+ 23MGX L XREF=G                                                                 
+ 23MG  L 14130     20 (21/2+)                                                   
+ 23MG2 L %P=100                                                                 
+ 23MGX L XREF=H                                                                 
+ 23MG cL J$From ({+12}C,n)                                                      
+ 23MG  L 14560     20 (19/2+)                                                   
+ 23MG2 L %P=100                                                                 
+ 23MGX L XREF=H                                                                 
+ 23MG cL J$From ({+12}C,n)                                                      
+
+

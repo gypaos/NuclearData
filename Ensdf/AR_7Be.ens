@@ -1,0 +1,106 @@
+  7BE    ADOPTED LEVELS, GAMMAS        2002TI10                  02NP     200302
+  7BE  H TYP=FUL$AUT=HU, TILLEY, KELLEY, GODWIN et al.$CIT=NP A708, 3 (2002)$   
+  7BE2 H CUT=23-Aug-2001$                                                       
+  7BE  XA4HE(3HE,3HE),(3HE,P)                                                   
+  7BE  XB6LI(P,P),(P,2P),(P,PA)                                                 
+  7BE  XC6LI(D,N)                                                               
+  7BE  XD6LI(3HE,D)                                                             
+  7BE  XE6LI(A,T)                                                               
+  7BE  XF7LI(P,N)                                                               
+  7BE  XG7LI(3HE,T)                                                             
+  7BE  XH7LI(6LI,6HE)                                                           
+  7BE  XI9BE(P,T)                                                               
+  7BE  XJ10B(P,A)                                                               
+  7BE  Q -12101.   70  10676 5  5605.8 7 -1586.6 5     1995AU04                 
+  7BE cG E         From E(level) difference; recoil correction applied.         
+  7BE  L 0.0         3/2-              53.22 D   6                              
+  7BE2 L ISPIN=1/2 $ %EC=100                                                    
+  7BE3 L XREF=CDEFGHIJ                                                          
+  7BE cL T         The {+7}Be half-life has been observed to vary depending on  
+  7BE2cL      the chemical form of the {+7}Be.  Some of these measured          
+  7BE3cL      variations are:                                                   
+  7BE tL $      Reference    Forms compared                 (|D|lx1.0e{+4})/|l  
+  7BE tL $      1949Se20     Be - BeO                              1.5  (9)     
+  7BE tL $      1953Kr16     Be - BeO                              1.3  (5)     
+  7BE tL $                   BeO- BeF{-2}                          6.1  (6)     
+  7BE tL $                   Be - BeF{-2}                          7.4  (5)     
+  7BE tL $      1956Bo36     Be - BeF{-2}                         12    (1)     
+  7BE tL $      1970Jo21     BeO- BeF{-2}                         11.3  (6)     
+  7BE tL $                   BeO- BeBr{-2}                        14.7  (6)     
+  7BE tL $                   BeO- Be{-4}O(CH{-3}COO){-6}          -7.2  (6)     
+  7BE tL $                   BeO- Be(C{-5}H{-5}){-2}               8.0  (7)     
+  7BE tL $                   BeO- Be(OH{-2}){-4}                  -3.7  (8)     
+  7BE tL $                   BeF{-2}- Be{-4}O(CH{-3}COO){-6}     -18.5  (8)     
+  7BE tL $                   Be(C{-5}H{-5}){-2}- Be(OH{-2}){-4}  -11.7  (11)    
+  7BE tL $      1999Hu20     BeO - Be(OH){-2}                   -149.           
+  7BE tL $                   BeO - Be{+2+}(OH{-2}){-4}           -98.           
+  7BE tL $      1992Ra12     Be in Au - Be in Al{-2}O{-3}         72.   (7)     
+  7BE cL           Excluding the much larger changes reported by 1999Hu20 and   
+  7BE2cL      1999Ra12, these measured changes range from 0.01% to 0.2%, or     
+  7BE3cL      from 0.005 to 0.10 days, or 0.08 day if the organic compounds     
+  7BE4cL      are also omitted.                                                 
+  7BE cL T         Adopted 53.22 d 6 from Limitation of Relative Statistical    
+  7BE2cL      Weight (LRSW) (1985ZiZY, 1992Ra09) analysis of 53 d {I2}          
+  7BE3cL      (1940hi01), 52.93 d {I22} (1949Se20), 53.61 d {I17} (1953Kr16),   
+  7BE4cL      53.0 d {I4} (1956Bo36), 53.5 d {I2} (1957Wr37), 53.1 d {I3}       
+  7BE5cL      (1965En01), 53.52 d {I10} (1970Jo21), 53.0 d {I3} (1974Cr05),     
+  7BE6cL      53.17 d {I2} (1975La16), 53.16 d {I1} (1982ChZF), 53.284 d {I4}   
+  7BE7cL      (1982RuZV), and 53.12 d {I7} (1996Ja10).  In this analysis the    
+  7BE7cL      uncertainty of 1982RuZV value                                     
+  7BE8cL      was increased from 0.004 to 0.0088 so that its relative weight    
+  7BE9cL      was reduced from 83% to 50%.  The weighted average of these       
+  7BE0cL      values is 53.225 with an internal uncertainty of 0.006, a         
+  7BEAcL      reduced-|h{+2} of 10.5, and an external uncertainty of 0.020.     
+  7BEBcL      This uncertainty increased by the LRSW method to 0.06 so that     
+  7BECcL      the most precise value of 53.284 is included; this uncertainty    
+  7BEDcL      also includes the next most precise value of 53.16.               
+  7BE cL T         The adopted half-life is dominated by the values of 1975La16,
+  7BE2cL      1982ChZF, and 1982RuZV which contribute 10%, 39%, and 50% of the  
+  7BE3cL      relative weight, respectively.  The values of 1982ChZF and        
+  7BE4cL      1982RuZV differ by |? 10 |s and contribute 3.8 and 4.1 to the     
+  7BE5cL      reduced-|h{+2} value of 10.5.  Since these three values differ    
+  7BE6cL      by 0.12 days and the chemical forms in the latter two cases are   
+  7BE7cL      not known, the chemical variation data in the above table suggest 
+  7BE8cL      that some of this difference may be due to chemical affects.  This
+  7BE9cL      suggests that the adopted uncertainty of 0.06 days is reasonable  
+  7BE0cL for general use.                                                       
+  7BE cL T         Values not used are: 54.5 d (J. F. Bonner, Jr., AEC report   
+  7BE2cL      AECU-107 as quoted in 1953Kr16, no uncertainty); and 54.3 d {I5}  
+  7BE3cL      (Bouchez, Daudel, Daudel, and Muxart, J. Phys. et Radium 8 (1947) 
+  7BE4cL      336 as quoted in 1953Kr16, replaced by value of 1956Bo36); and    
+  7BE5cL      53.694 d {I6}, 53.416 d {I6}, and 54.226 d {I6} (1999Hu20).  The  
+  7BE6cL      values of 1999Hu20 have very small uncertainties and have very    
+  7BE7cL      large variations, up to 1.5%, with chemical form which need to    
+  7BE8cL      be confirmed.  If this large shift is correct, it would           
+  7BE8cL      invalidate the uncertainty of our adopted value.                  
+  7BE  L 429.08    101/2-              133 FS    17                             
+  7BE2 L ISPIN=1/2                                                              
+  7BE3 L XREF=CDEFGHIJ                                                          
+  7BE  G 429.07                M1                                               
+  7BE2 G WIDTHG=3.43E-3 EV 45$BM1W=2.07 27                                      
+  7BE  L 4570      507/2-              175 KEV   7                              
+  7BE2 L ISPIN=1/2 $ %3HE=? $ %A=?                                              
+  7BE3 L XREF=ADEFGHIJ                                                          
+  7BE  L 6.73E+3   105/2-              1.2 MEV                                  
+  7BE2 L ISPIN=1/2 $ %3HE=? $ %A=?                                              
+  7BE3 L XREF=ACFI                                                              
+  7BE  L 7210      605/2-              0.40 MEV   5                             
+  7BE2 L ISPIN=1/2 $ %P=? $ %3HE=? $ %A=?                                       
+  7BE3 L XREF=ABCFH                                                             
+  7BE  L 9.27E+3   107/2-                                                       
+  7BE2 L ISPIN=1/2 $ %P=? $ %3HE=? $ %A=?                                       
+  7BE3 L XREF=A                                                                 
+  7BE  L 9900        3/2-              1.8 MEV   AP                             
+  7BE2 L ISPIN=1/2 $ %P=? $ %3HE=? $ %A=?                                       
+  7BE3 L XREF=AB                                                                
+  7BE  L 11010     303/2-              320 KEV   30                             
+  7BE2 L ISPIN=3/2 $ %P=? $ %3HE=? $ %A=?                                       
+  7BE3 L XREF=ABFI                                                              
+  7BE  L 17000       1/2-              6.5 MEV   AP                             
+  7BE2 L ISPIN=1/2 $ %3HE=?                                                     
+  7BE3 L XREF=A                                                                 
+  7BE cL E         for possible states at higher energies see                   
+  7BE2cL {+4}He({+3}He,{+3}He), ({+3}He,p); {+6}Li(p,p), (p,2p), (p,p|a)        
+  7BExcL reactions.                                                             
+
+
