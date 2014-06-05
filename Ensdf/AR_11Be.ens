@@ -1,0 +1,194 @@
+ 11BE    ADOPTED LEVELS, GAMMAS        1990AJ01                  12NP     201203
+ 11BE  H TYP=FUL$AUT=J.H. KELLEY, C.G. SHEU$CIT=NP A880, 88 (2012)$             
+ 11BE2 H CUT=1-Jan-2011$                                                        
+ 11BE  XA11LI B- DECAY:8.75 MS                                                  
+ 11BE  XB1H(11LI,11BE),2H(11LI,11BE)                                            
+ 11BE  XC1H(11BE,11BE')                                                         
+ 11BE  XD9BE(T,P)                                                               
+ 11BE  XX9BE(6HE,ALPHA)                                                         
+ 11BE  XE9BE(12BE,G11BE)                                                        
+ 11BE  XF9BE(13C,11C)                                                           
+ 11BE  XG9BE(14N,12N)                                                           
+ 11BE  XH9BE(15N,13N)                                                           
+ 11BE  XI9BE(16O,14O)                                                           
+ 11BE  XJ10BE(N,G)                                                              
+ 11BE  XK10BE(D,P)                                                              
+ 11BE  XL11B(E,E'PI+)                                                           
+ 11BE  XM11B(MU-,G)                                                             
+ 11BE  XN11B(PI-,G)                                                             
+ 11BE  XO11B(N,P)                                                               
+ 11BE  XP11B(D,2HE)                                                             
+ 11BE  XQ11B(T,3HE)                                                             
+ 11BE  XR11B(7LI,7BE)                                                           
+ 11BE  XS12C(7LI,8B)                                                            
+ 11BE  XTC(12BE,11BE)                                                           
+ 11BE  XU13C(6LI,8B)                                                            
+ 11BE  XV197AU(11BE,11BE')                                                      
+ 11BE  XW208PB(11BE,11BE')                                                      
+ 11BE cG E         From level energy difference; recoil correction applied      
+ 11BE  Q 11509.24  48 501.62 24 20165  13-8314.8 82    2011AUZZ                 
+ 11BE  L 0           1/2+              13.76 S   7                              
+ 11BE2 L ISPIN=3/2$MOMM1=-1.6814 4                                              
+ 11BE cL MOMM1     From |m=-1.6813 {I5} (2009No02) and                          
+ 11BE2cL |m=-1.6816 {I8} (1999Ge18,2000Ne11).                                   
+ 11BE cL WIDTH     From weighted average of 13.81 s {I8} (1970Al21) and         
+ 11BE2cL 13.57 s {I15} (1959Wi49).                                              
+ 11BE2 L ISPIN=3/2$%B-=100                                                      
+ 11BE3 L XREF=CDEFGIJKLMNORSTUVWX                                               
+ 11BE  L 320.04    101/2-              115 FS    10                             
+ 11BE2 L XREF=ACDEFGIJKLMNPQRSTUVWX                                             
+ 11BE cL E         |G: from {+9}Be(p,t). Also see E{-x}=320.5 keV {I5}          
+ 11BE2cL from {+11}B(|m,|g).                                                    
+ 11BE3 L %IT=100                                                                
+ 11BE  G 320.04    10 100.     E1                                               
+ 11BE2 G WIDTHG=3.97E-3 EV 35$BE1W=0.360 31                                     
+ 11BE  L 1783       4 5/2+             100 KEV   10                             
+ 11BE2 L %N AP 100                                                              
+ 11BE3 L XREF=CDFGIKRSTX                                                        
+ 11BE cL E         from {+9}Be(t,p). Also see E{-x}=1770 keV {I20} from         
+ 11BExcL {+11}B({+7}Li,{+7}Be).                                                 
+ 11BE cL WIDTH     From {+11}B({+7}Li,{+7}Be).                                  
+ 11BE  L 2654      10 3/2-             206 KEV    8                             
+ 11BE2 L %N AP 100                                                              
+ 11BE3 L XREF=ACDFGILPQRTUX                                                     
+ 11BE cL E         from weighted average of E{-x}=2650 keV {I10} from           
+ 11BE2cL {+9}Be(t,p) and E{-x}=2670 keV {I20} from {+11}B({+7}Li,{+7}Be).       
+ 11BE cL WIDTH     From weighted average of |G=214 keV {I12} from {+9}Be(t,p)   
+ 11BE2cL and |G=200 keV {I10} from {+11}B({+7}Li,{+7}Be).                       
+ 11BE  L 3400       6 3/2-             122 KEV    8                             
+ 11BE2 L %N AP 100                                                              
+ 11BE3 L XREF=ACDGIRS                                                           
+ 11BE cL E         from weighted average of E{-x}=3399 keV {I6} from            
+ 11BE2cL {+9}Be(t,p) and E{-x}=3410 keV {I20} from {+11}B({+7}Li,{+7}Be).       
+ 11BE cL WIDTH     From weighted average of |G=113 keV {I11} from {+9}Be(t,p)   
+ 11BE2cL and |G=130 keV {I10} from {+11}B({+7}Li,{+7}Be).                       
+ 11BE  L 3889      1  (3/2+,5/2-)      8 KEV     LT                             
+ 11BE2 L %N=?                                                                   
+ 11BE3 L XREF=ACDIPQR                                                           
+ 11BE cL           J: also see |>7/2 from {+9}Be(t,p).                          
+ 11BE cL E         from weighted average of E{-x}=3888 keV {I1} from            
+ 11BE2cL {+9}Be(t,p) and E{-x}=3890 keV {I1} from {+11}Li decay (2005Hi03).     
+ 11BE cL WIDTH     From {+9}Be(t,p).                                            
+ 11BE  L 3955       1 3/2-             10 KEV    5                              
+ 11BE2 L %N=?                                                                   
+ 11BE3 L XREF=ACDEFGRTU                                                         
+ 11BE cL E         |G: from {+9}Be(t,p). Also see E{-x}=3949 keV {I2} in        
+ 11BE2cL {+9}Be({+12}Be,{+10}Be*(3869)+n).                                      
+ 11BE  L 5255       3 5/2-             45 KEV    10                             
+ 11BE2 L %N=?                                                                   
+ 11BE3 L XREF=ACDFGX                                                            
+ 11BE cL E         |G: from {+9}Be(t,p).                                        
+ 11BE  L 5400                                                                   
+ 11BE2 L XREF=P                                                                 
+ 11BE cL E         from {+11}B(d,{+2}He).                                       
+ 11BE  L 5849      10 1/2+             139 KEV   17                             
+ 11BE2 L XREF=DF                                                                
+ 11BE3 L %N=?                                                                   
+ 11BE cL E         |G: from {+9}Be(t,p).                                        
+ 11BE  L 5980      40                                                           
+ 11BE2 L XREF=G                                                                 
+ 11BE cL E         from {+9}Be({+14}N,{+12}N).                                  
+ 11BE  L 6050      40                  320 KEV   40                             
+ 11BE2 L XREF=R                                                                 
+ 11BE cL E         |G: from {+11}B({+7}Li,{+7}Be).                              
+ 11BE  L 6300                                                                   
+ 11BE2 L XREF=P                                                                 
+ 11BE cL E         from {+11}B(d,{+2}He).                                       
+ 11BE  L 6510      50                  120 KEV   50                             
+ 11BE2 L %N=?                                                                   
+ 11BE3 L XREF=D                                                                 
+ 11BE cL E         |G: from {+9}Be(t,p).                                        
+ 11BE  L 6705      21 (7/2-)           40 KEV    20                             
+ 11BE2 L %N=?                                                                   
+ 11BE3 L XREF=DFGLX                                                             
+ 11BE cL E         |G: from {+9}Be(t,p).                                        
+ 11BE cL J         from level spacing systematics, see {+9}Be({+13}C,{+11}C).   
+ 11BE  L 7030      50 (5/2-)           0.30 MEV  10                             
+ 11BE2 L %N=?                                                                   
+ 11BE3 L XREF=AD                                                                
+ 11BE cL E         |G: from {+9}Be(t,p).                                        
+ 11BE  L 7100                                                                   
+ 11BE2 L XREF=IP                                                                
+ 11BE cL E         from {+9}Be({+16}O,{+14}O). Also see E{-x}=7.3 MeV from      
+ 11BExcL {+11}B(d,{+2}He).                                                      
+ 11BE  L 8020      20 3/2-             230 KEV   55                             
+ 11BE2 L XREF=A                                                                 
+ 11BE cL E         |G: from {+11}Li |b decay (2005Hi03), also see E{-x}=        
+ 11BE2cL 8030 keV {I70} (2004Sa46).                                             
+ 11BE  L 8200         3/2-                                                      
+ 11BE2 L XREF=P                                                                 
+ 11BE cL E         from {+11}B(d,{+2}He).                                       
+ 11BE  L 8813      25 3/2-,(9/2-)      0.20 MEV   5                             
+ 11BE2 L %N=?                                                                   
+ 11BE3 L XREF=ADFGX                                                             
+ 11BE cL E         from weighted average of E{-x}=8815 keV {I31} from           
+ 11BE2cL {+9}Be(t,p) and E{-x}=8810 keV {I40} from {+11}Li decay (2004Sa46).    
+ 11BE cL WIDTH     From {+9}Be(t,p).                                            
+ 11BE cL J         =9/2- from level spacing systematics, see                    
+ 11BExcL {+9}Be({+13}C,{+11}C).                                                 
+ 11BE  L 9.4E3      5                  7.0 MEV    5                             
+ 11BE2 L XREF=OPQR                                                              
+ 11BE cL E         |G: from {+11}B({+7}Li,{+7}Be). Other values                 
+ 11BE2cL E{-x}=9.0 MeV from {+11}B(n,p),                                        
+ 11BE2cL E{-x}=9.2 MeV from {+11}B(d,{+2}He) and E{-x}=8940 MeV from            
+ 11BExcL {+11}B(t,{+3}He).                                                      
+ 11BE  L 9.6E3                                                                  
+ 11BE cL           Unweighted average of E{-x}=9.3 MeV from                     
+ 11BE2cL {+9}Be({+13}C,{+11}C), E{-x}=9.4 MeV from {+11}B(e,e'|p+) and          
+ 11BE3cL E{-x}=10.2 MeV from {+11}B(d,{+2}He).                                  
+ 11BE2 L XREF=FLP                                                               
+ 11BE  L 10590     50 5/2-             210 KEV   40                             
+ 11BE2 L %N=? $ %A=?                                                            
+ 11BE3 L XREF=ADX                                                               
+ 11BE cL E         from {+9}Be(t,p).                                            
+ 11BE  L 10730        (11/2-)                                                   
+ 11BE2 L XREF=FGH                                                               
+ 11BE cL E         from E{-x}=10.7 MeV from {+9}Be({+16}O,{+14}O),              
+ 11BE2cL E{x}=10.73 from {+9}Be({+13}C,{+11}C),                                 
+ 11BE2cL E{x}=10.7 from {+9}Be({+16}O,{+14}O),                                  
+ 11BE3cL E{x}=10.8 from {+9}Be({+14}N,{+12}N) and {+9}Be({+15}N,{+13}N).        
+ 11BE cL J         from level spacing systematics, see {+9}Be({+13}C,{+11}C).   
+ 11BE  L 12000                                                                  
+ 11BE2 L XREF=FGLOP                                                             
+ 11BE cL E         from {+9}Be({+13}C,{+11}C), {+11}B(e,e'|p+), {+11}B(n,p) and 
+ 11BE2cL {+11}B(d,{+2}He); possibly two states.                                 
+ 11BE  L 13200                                                                 ?
+ 11BE cL E         from {+11}B(d,{+2}He).                                       
+ 11BE2 L XREF=P                                                                 
+ 11BE  L 13600        (13/2-)                                                   
+ 11BE cL           From {+9}Be({+13}C,{+11}C). Also see {+9}Be({+14}N,{+12}N)   
+ 11BExcL and {+9}Be({+15}N,{+13}N).                                             
+ 11BE2 L XREF=FGH                                                               
+ 11BE cL J         from level spacing systematics, see {+9}Be({+13}C,{+11}C).   
+ 11BE  L 16.30E3   10                  0.7 MEV    1                             
+ 11BE cL E         from {+11}Li decay (2009Ma31). Also see E{-x}=16.4 MeV       
+ 11BE2cL from {+11}B(e,e'|p+).                                                  
+ 11BE2 L XREF=AL                                                                
+ 11BE  L 17500                                                                  
+ 11BE2 L XREF=L                                                                 
+ 11BE cL E         from {+11}B(e,e'|p+).                                        
+ 11BE  L 18.19E3   14                  1.5 MEV    4                             
+ 11BE2 L %N=? $ %3H=? $ %A=?                                                    
+ 11BE3 L XREF=AF                                                                
+ 11BE cL E         from weighted average of {+11}Li decay E{-x}=18.15 MeV {I15} 
+ 11BE2cL (1997Bo03) and E{-x}=18.35 MeV {I30} (2009Ma72).                       
+ 11BE cL WIDTH     From (2009Ma72). Also see |G|?0.5 MeV (1984La27)             
+ 11BE2cL and |G=1.6 MeV {I6} (2009Ma31).                                        
+ 11BE  L 18.6E3       (15/2-)                                                  ?
+ 11BE cL E         from {+9}Be({+13}C,{+11}C).                                  
+ 11BE cL J         from level spacing systematics, see {+9}Be({+13}C,{+11}C).   
+ 11BE2 L XREF=F                                                                 
+ 11BE  L 21.16E3    2 3/2-             490 KEV   70                             
+ 11BE2 L ISPIN=5/2                                                              
+ 11BE cL           From {+1}H({+11}Li,{+11}Be) and {+2}H({+11}Li,{+11}Be).      
+ 11BE2 L XREF=B                                                                 
+ 11BE  L 21500        (17/2-)                                                   
+ 11BE cL           From {+9}Be({+13}C,{+11}C) and {+9}Be({+15}N,{+13}N).        
+ 11BE2 L XREF=FH                                                                
+ 11BE cL J         from level spacing systematics, see {+9}Be({+13}C,{+11}C).   
+ 11BE  L 25000        (19/2-)                                                   
+ 11BE cL           From {+9}Be({+13}C,{+11}C).                                  
+ 11BE2 L XREF=F                                                                 
+ 11BE cL J         from level spacing systematics, see {+9}Be({+13}C,{+11}C).   
+
+
