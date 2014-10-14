@@ -1,0 +1,128 @@
+  4HE    ADOPTED LEVELS                1992TI02                  92NP     199807
+  4HE  H TYP=FMT$AUT=J. Tuli$DAT=11-Apr-2005$COM=corrected typo/fmt$            
+  4HE  H TYP=ERR$AUT=J. H. KELLEY$DAT=2-Dec-2004$COM=fixed xref for 28670 lev$  
+  4HE  H TYP=FUL$AUT=J. H. KELLEY, D. R. TILLEY, H.R. WELLER AND G.M. HALE$     
+  4HE2 H CIT=NP A541, 1 (1992)$CUT=8-OCT-1991$                                  
+  4HE  Q -22.90E3  2120577.62 119813.85 1              1997AU07                 
+  4HE c  Ground state: due to non-central forces, the wave function for the     
+  4HE2c  J{+|p}=0+ ground state of {+4}He can be a positive-parity mixture of   
+  4HE3c  three {+1}s{-0}, six {+3}p{-0}, and five {+5}d{-0} orthogonal states   
+  4HE4c  (1967Be74). The symmetric                                              
+  4HE5c  s-wave component is the dominant part of the wavefunction, with        
+  4HE6c  significant d-wave and almost negligible p-wave contributions. Since   
+  4HE7c  the d-state admixture can be inferred from measurements such as the    
+  4HE8c  tensor analysing powers for {+2}H(d,|g){+4}He, it has been the subject 
+  4HE9c  of much experimental and theoretical attention since the previous      
+  4HEAc  compilation (1973Fi04), despite confusion stemming from the fact that  
+  4HEBc  in some cases the results refer to only part of the full d-state       
+  4HECc  probability as calculated in 1988Ca19, 1990Ch06 and 1991Ar01.          
+  4HE c  Recent variational and Green Function Monte Carlo (gfmc)               
+  4HE2c  calculations                                                           
+  4HE3c  (1988Ca19, 1991Ca35) using realistic nucleon-nucleon potentials have   
+  4HE4c  been highly succesful in reproducing the ground-state properties of    
+  4HE5c  light nuclei. These calculations for {+4}He give d-state probabilities 
+  4HE6c  ranging from 15-17.5%, depending on the potential model (including     
+  4HE7c  3-body forces) used, and p-wave probabilities that are much smaller    
+  4HE8c  (approx. 1%). Other theoretical and experimental estimates of the      
+  4HE9c  d-state percentage are considerably lower, but these inferences can be 
+  4HEAc  complicated by the presence of more than one multipole and other       
+  4HEBc  d-state effects. See further discussion in 1992Ti02.                   
+  4HE c  Excited states: the unbound excited-state level structure presented    
+  4HE2c  here is based on the comprehensive, Coulomb-corrected,                 
+  4HE3c  charge-independent R-matrix analysis discussed in 1992Ti02. This       
+  4HE4c  analysis takes                                                         
+  4HE5c  its isospin-1 parameters from an analysis of p-{+3}He scattering data, 
+  4HE6c  but with eigenenergies shifted by the internal Coulomb energy          
+  4HE7c  difference |DE(C)=-0.64 MeV and the p-{+3}h and n-{+3}He reduced-width 
+  4HE8c  amplitudes scaled by the isospin Clebsch-Gordon coefficient 0.7071.    
+  4HE9c  The isospin-0 parameters are then varied to fit the experimental data  
+  4HE0c  for the reactions among the two-body channels p+{+3}H, n+{+3}He and    
+  4HEAc  d+{+2}H, at energies corresponding to excitations in {+4}He below      
+  4HEBc  approximately 29 MeV. In this fit, the T=0 nucleon-trinucleon reduced  
+  4HECc  width amplitudes are constrained and a small amount of internal        
+  4HEDc  Coulomb isospin mixing is introduced (see 1992Ti02) to reproduce the   
+  4HEEc  differences between the two branches of the d+d reaction. The          
+  4HEFc  Breit-Wigner resonance parameters at channel radii                     
+  4HEGc  a(p-t)=a(n-{+3}He)=4.9 fm and a(d-d)=7.0 fm are given. See further     
+  4HExc  discussion in 1992Ti02.                                                
+  4HE c  Estimated uncertainties on the resonance parameters given for {+4}He   
+  4HE2c  are as follows: at excitation energies below 26 MeV, the positions are 
+  4HE3c  uncertain by 20 keV or less, except for the (1-, T=0) level at         
+  4HE4c  24.25 MeV, which is uncertain by 150 keV. At excitation energies       
+  4HE5c  between 26 and 30 MeV, the uncertainties in the positions are          
+  4HE6c  generally less than 90 keV, with that of the (1-, T=0) level at        
+  4HE7c  28.37 MeV level less than 10 keV. The widths of the levels (partial    
+  4HE8c  and total) are generally known to about 10%.                           
+  4HE9c  See further discussion in 1992Ti02.                                    
+  4HE  XA2H(D,N)                                                                
+  4HE  XB2H(D,P)                                                                
+  4HE  XC2H(D,D)                                                                
+  4HE  XD3H(P,G)                                                                
+  4HE  XE3HE(N,P)                                                               
+  4HE  XF4HE(G,X)                                                               
+  4HE  XG4HE(E,E')                                                              
+  4HE  XH4HE(N,N)                                                               
+  4HE  XI4HE(3HE,3HE)                                                           
+  4HE  XJ4HE(A,A), 4HE(A,A')                                                    
+  4HE  XK4HE(N,T)                                                               
+  4HE  XL4HE(P,3HE), 4HE(P,P+D)                                                 
+  4HE cL E$Level energies from an R-matrix calculation                          
+  4HE  L 0.0          0+               STABLE                                   
+  4HE2 L ISPIN=0                                                                
+  4HE  L 20210        0+               0.50 MEV                                 
+  4HE2 L %P=100$ ISPIN=0                                                        
+  4HE3 L WIDTHP=0.50 MEV$ XREF=EGHIK                                            
+  4HE  L 21010        0-               0.84 MEV                                 
+  4HE2 L %P=76$ %N=24$ ISPIN=0                                                  
+  4HE3 L WIDTHP=0.64 MEV$ WIDTHN=0.20 MEV$ XREF=H                               
+  4HE  L 21840        2-               2.01 MEV                                 
+  4HE2 L %P=63$ %N=37$ ISPIN=0                                                  
+  4HE3 L WIDTHP=1.26 MEV$ WIDTHN=0.75 MEV$ XREF=HJ                              
+  4HE  L 23330        2-               5.01 MEV                                 
+  4HE2 L %P=53$ %N=47$ ISPIN=1                                                  
+  4HE3 L WIDTHP=2.64 MEV$ WIDTHN=2.37 MEV                                       
+  4HE  L 23640        1-               6.20 MEV                                 
+  4HE2 L %P=55$ %N=45$ %IT=?$ ISPIN=1                                           
+  4HE3 L WIDTHP=3.44 MEV$ WIDTHN=2.76 MEV                                       
+  4HE cL $Strength is primarily {+3}p{-1}                                       
+  4HE  L 24250        1-               6.10 MEV                                 
+  4HE2 L %P=50$ %N=47$ %D=3$ ISPIN=0                                            
+  4HE3 L WIDTHP=3.08 MEV$ WIDTHN=2.87 MEV$ XREF=AB                              
+  4HE cL $|G{-p} and |G{-n} are primarily {+3}p{-1} and |G{-d}=0.15 MeV         
+  4HE  L 25280        0-               7.97 MEV                                 
+  4HE2 L %P=52$ %N=48$ ISPIN=1                                                  
+  4HE3 L WIDTHP=4.12 MEV$ WIDTHN=3.85 MEV                                       
+  4HE  L 25950        1-               12.66 MEV                                
+  4HE2 L %P=52$ %N=48$ %IT=?$ ISPIN=1                                           
+  4HE3 L WIDTHP=6.52 MEV$ WIDTHN=6.14 MEV$ XREF=D                               
+  4HE cL $Strength is primarily {+1}p{-1}                                       
+  4HE  L 27420        2+               8.69 MEV                                 
+  4HE2 L %P=3$ %N=3$ %D=94$ ISPIN=0                                             
+  4HE3 L WIDTHP=0.25 MEV$ WIDTHN=0.23 MEV$ XREF=CIL                             
+  4HE cL $|G{-d}=8.21 MeV and is primarily {+5}s{-2}                            
+  4HE  L 28310        1+               9.89 MEV                                 
+  4HE2 L %P=48$ %N=47$ %D=5$ ISPIN=0                                            
+  4HE3 L WIDTHP=4.72 MEV$ WIDTHN=4.66 MEV                                       
+  4HE cL $|G{-d}=0.51 MeV                                                       
+  4HE  L 28370        1-               3.92 MEV                                 
+  4HE2 L %P=2$ %N=2$ %D=96$ ISPIN=0                                             
+  4HE3 L WIDTHP=0.07 MEV$ WIDTHN=0.08 MEV$ XREF=ABCI                            
+  4HE cL $|G{-d}=3.77 MeV                                                       
+  4HE  L 28390        2-               8.75 MEV                                 
+  4HE2 L %P=0.2$ %N=0.2$ %D=99.6$ ISPIN=0                                       
+  4HE3 L WIDTHP=0.02 MEV$ WIDTHN=0.02 MEV$ XREF=ABC                             
+  4HE cL $|G{-d}=8.71 MeV                                                       
+  4HE  L 28640        0-               4.89 MEV                                 
+  4HE2 L %D=100$ ISPIN=0                                                        
+  4HE3 L XREF=C                                                                 
+  4HE cL $|G{-d}=4.89 MeV                                                       
+  4HE  L 28670        2+               3.78 MEV                                 
+  4HE2 L %IT=?$ %D=100$ ISPIN=0                                                 
+  4HE3 L XREF=CF                                                                
+  4HE cL $|G{-d}=3.78 and is primarily {+1}d{-2}                                
+  4HE  L 29890        2+               9.72 MEV                                 
+  4HE2 L %P=0.4$ %N=0.4$ %D=99.2$ ISPIN=0                                       
+  4HE3 L WIDTHP=0.04 MEV$ WIDTHN=0.04 MEV$ XREF=I                               
+  4HE cL $|G{-d}=9.64 and is primarily {+5}d{-2}                                
+
+
