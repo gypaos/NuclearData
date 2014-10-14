@@ -1,0 +1,1118 @@
+ 30P     ADOPTED LEVELS, GAMMAS                                  10NDS    201009
+ 30P   H TYP=ERR$AUT=M.S.BASUNIA$DAT=20-Dec-2011$COM=28SI(A,D),(3HE,P),(3HE,PG) 
+ 30P 2 H and 31P(3HE,A) datasets added and listed other reactions.              
+ 30P   H TYP=FUL$AUT=M. SHAMSUZZOHA BASUNIA$CIT=NDS 111, 2331 (2010)$           
+ 30P 2 H CUT=30-Jun-2010$                                                       
+ 30P   Q -6138     3 11319.0 7 5594.5  3 -10415.3 3    2009AUZZ                 
+ 30P  cQ $Q(|b{+-})=-6138 {I3}, S(n)=11319.3 {I7}, S(p)=5594.5 {I3},            
+ 30P xcQ Q(|a)=-10415.2 {I3} (2003Au03)                                         
+ 30P  c  Other reactions:                                                       
+ 30P  c  {+30}Si(p,n): 2002Or05                                                 
+ 30P  c  {+27}Al(|a,n|g): 1986Ka34                                              
+ 30P  c  {+31}P(d,t): 1988Bh09                                                  
+ 30P  c  {+32}S(d,|a): 1982De29, 1982Ta04                                       
+ 30P  cG E,RI,M,MR From (p,|g),(|a,4n|g) dataset                                
+ 30P  cL E$From (p,|g),(|a,4n|g) dataset, except otherwise noted.               
+ 30P  cL T$Half-life or |G{-p0}, from {+29}Si(p,|g),{+27}Al(|a,n|g), except     
+ 30P 2cL otherwise noted.                                                       
+ 30P  cL J(A)$From L=0 in ({+3}He,d) and/or (d,n) and/or ({+3}He,t), targets    
+ 30P 2cL {+29}Si (J|p=1/2+) or {+30}Si(J|p=0+); and a weaker/stronger           
+ 30P 3cL {+30}S(J|p=0+) |b{++} decay feeding.                                   
+ 30P  cL J(B)$From |g-ray feedings                                              
+ 30P  cL J(C)$Based on assignment in {+29}Si(p,|g),{+27}Al(|a,n|g) dataset      
+ 30P   XA30S B+ DECAY                                                           
+ 30P   XB31CL B+P DECAY                                                         
+ 30P   XC16O(16O,PNG)                                                           
+ 30P   XD29SI(P,G),27AL(A,NG)                                                   
+ 30P   XE29SI(D,N) E=6,8 MEV                                                    
+ 30P   XF29SI(3HE,D)                                                            
+ 30P   XG30SI(3HE,T) E=30 MEV                                                   
+ 30P   XH28SI(A,D),(3HE,P),(3HE,PG)                                             
+ 30P   XI31P(3HE,A)                                                             
+ 30P  PN                                                                     6  
+ 30P   L 0           1+                2.498 M   4                          A   
+ 30P X L XREF=ABCDEFGHI                                                         
+ 30P 2 L %EC+%B+=100                                                            
+ 30P  cL T$From 1980Wi13 ({+30}S |b{++} decay). Other: 2.497 min {I5} (1963Mc02)
+ 30P  cL J$From non-nuclear measurement (atomic and molecular beam) -1968Ph02   
+ 30P   L 677.01    3 0+                96 FS     10                         A   
+ 30P 2 L  ISPIN=1                                                               
+ 30P X L XREF=ADEF(*)GHI                                                        
+ 30P  cL J$from L=0 in ({+3}He,t) and ({+3}He,d), target J|p=1/2+ and stronger  
+ 30P 2cL {+30}S (J|p=0+) |b{++} decay feeding                                   
+ 30P   G 677.01    3 100                                                        
+ 30P   L 708.70    3 1+                45 PS     4                              
+ 30P X L XREF=ACDEF(*)GHI                                                       
+ 30P  cL J$From L=2 in ({+3}He,d), (d,n) and ({+3}He,t), targets {+29}Si        
+ 30P 2cL (J|p=1/2+) or {+30}Si(J|p=0+); and a weaker {+30}S(J|p=0+) |b{++}      
+ 30P xcL decay feeding.                                                         
+ 30P  cL T$Weighted average of 47 ps {I3} ({+16}O,pn|g) and 38 ps {I5}          
+ 30P xcL ((p,|g),(|a,4n|g))                                                     
+ 30P   G 708.70     3 100       D+Q      +1      +3-1                           
+ 30P   L 1454.23   2 2+                4.5 PS    5                              
+ 30P X L XREF=CDEFGHI                                                           
+ 30P  cL T$From 1990En08                                                        
+ 30P  cL J$from L=2 and 5467|g-1454|g cascade (6921-1454-0 levels) (1969Ha50)   
+ 30P   G 745.53    4     5.00 8                                                 
+ 30P   G 1454.23   2    100.0 8 M1+E2    -0.22   2                              
+ 30P B G BM1W=0.00145 17$BE2W=0.15 4                                            
+ 30P   L 1973.27   4 3+                1.9 PS    6                              
+ 30P X L XREF=CDEFGHI                                                           
+ 30P  cL T$From 1990En08                                                        
+ 30P  cL J$L=2, 1264|g and 1973|g (E2+M3) to 1+                                 
+ 30P   G 1264.57   5   100.0 12(E2+M3)   +0.01   2                              
+ 30P B G BE2W=(10 3)$BM3W=(4.E+3 +17-4)                                         
+ 30P   G 1973.27   4     70.9 9(E2+M3)   -0.02   3                              
+ 30P B G BE2W=(0.75 24)$BM3W=(5.E+2 +17-5)                                      
+ 30P   L 2538.95   5 (3+)              151 FS    14                             
+ 30P X L XREF=CDEFGHI                                                           
+ 30P  cL J$L=2 or 4; 2539|g (E2+M3) to 1+                                       
+ 30P   G 565.68    6  0.79   5                                                  
+ 30P   G 1830.25   6  3.23   10                                                 
+ 30P   G 2538.95   5  100.0  10(E2+M3)   -0.02   3                              
+ 30P B G BE2W=(6.2 6)$BM3W=(3.E+3 +8-3)                                         
+ 30P   L 2723.72   7  2+               112 FS    10                             
+ 30P X L XREF=DEFGHI                                                            
+ 30P  cL J$L=2 and 2723|g M1+E2 to 1+                                           
+ 30P   G 2015.02   8    2.56 21                                                 
+ 30P   G 2723.72   7    100.0 9M1+E2     +4.8    4                              
+ 30P B G BM1W=0.00039 8$BE2W=5.7 6                                              
+ 30P   L 2839.34   4 (3+)              573 FS    125                            
+ 30P X L XREF=CDFGHI                                                            
+ 30P  cL J$L=2 or 4; 1385|g D+Q to 2+                                           
+ 30P   G 1385.11    4   48.6 10 D+Q      +12     +6-3                           
+ 30P   G 2130.64    5  100.0 15                                                 
+ 30P   G 2839.34    4   43.6 10                                                 
+ 30P   L 2937.46   2  2+               48 FS     3                              
+ 30P X L XREF=DEFGHI                                                            
+ 30P 2 L ISPIN=1                                                                
+ 30P  cL J$L=2, D+Q |g-rays to 2+ and 1+ states.                                
+ 30P   G 964.19    4     0.75 7                                                 
+ 30P   G 1483.23   3    100.011 D+Q      +4.1    +17-9                          
+ 30P   G 2228.76   4    12.2720 D+Q       0.0    +2-3                           
+ 30P   G 2260.45   4     73.6 9                                                 
+ 30P   G 2937.46   2     40.5 5 D+Q      -0.3    2                              
+ 30P 2 G FL=0                                                                   
+ 30P   L 3019.2    1 1+                2 FS      1                              
+ 30P X L XREF=ADEFGHI                                                           
+ 30P  cL J$L=2 and a weaker {+30}S(J|p=0+) |b{++} decay feeding,                
+ 30P 2cL 2342|g to 0+                                                           
+ 30P   G 2342.2    1    100    M1                                               
+ 30P B G BM1W=0.9 5                                                             
+ 30P   L 3304      5  (1+)                                                      
+ 30P X L XREF=F                                                                 
+ 30P  cL J$Assigned by 1976Dy01, based on angular distribution fittings.        
+ 30P   L 3733.80   7 (1+)              26 FS     5                              
+ 30P X L XREF=DEFGHI                                                            
+ 30P  cL J$L=0,2                                                                
+ 30P   G 796.30     7   15.0 10                                                 
+ 30P   G 2279.60    7   19.6 12                                                 
+ 30P   G 3056.80    8   64.0 20                                                 
+ 30P   G 3733.80    7  100.0 20                                                 
+ 30P   L 3835.80   5 2+                32 FS     6                              
+ 30P X L XREF=DEFGHI                                                            
+ 30P  cL J$L=2                                                                  
+ 30P   G 898.34     5   100.014 D+Q      0.12    3                              
+ 30P   G 2381.57    5    14.1 6                                                 
+ 30P   G 3127.10    6    27.0 8 D+Q      3.6     +8-5                           
+ 30P   L 3928.61   5 3+                79 FS     14                             
+ 30P X L XREF=DFGH                                                              
+ 30P  cL J$L=4; 991|g and 2474|g to 2+                                          
+ 30P   G 991.15     5  100.0 14                                                 
+ 30P   G 2474.38    5   42.9 14                                                 
+ 30P   L 4143.63   6 2-                30 FS     3                              
+ 30P X L XREF=CDEFGHI                                                           
+ 30P  cL J$L=3; 4143.63|g E1+M2 to 1+                                           
+ 30P   G 1206.17    6   1.49 11                                                 
+ 30P   G 2689.40    6   8.6  5                                                  
+ 30P   G 3434.93    7   4.7  3                                                  
+ 30P   G 4143.63    6   100  4 E1+M2     -0.01   1                              
+ 30P 2 G FL=0                                                                   
+ 30P B G BE1W=0.00029 4$BM2W=0.008 +16-8                                        
+ 30P   L 4182.81   6 2+                2.2 FS    6                              
+ 30P X L XREF=CDFGHI                                                            
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=2; 3474|g and 4182.8|g D+Q to 1+                                   
+ 30P   G 1643.86   8    8.3  4                                                  
+ 30P   G 2209.54   7    4.6  3                                                  
+ 30P   G 2728.58   6    3.3  4                                                  
+ 30P   G 3474.11   7   100.0 12 D+Q      +0.01   8                              
+ 30P   G 3505.80   7    1.6  3                                                  
+ 30P   G 4182.81   6    13.8 4  D+Q      -0.1    +2-1                           
+ 30P   L 4231.97   9 4-                1.3 PS    7                              
+ 30P X L XREF=CDEFGHI                                                           
+ 30P  cL J$L=3; 1693|g E1+M2 to (3+) and 2258.7|g E1+M2 to 3+                   
+ 30P   G 1392.63   10   3.6  14                                                 
+ 30P   G 1693.02   10  33.0  10 E1+M2    -0.00   2                              
+ 30P B G BE1W=2.7E-5 15                                                         
+ 30P   G 2258.70   10 100.0  14 E1+M2    +0.05   2                              
+ 30P B G BE1W=3.4E-5 19$BM2W=0.08 8                                             
+ 30P   L 4298.6    2  4+               100 FS    18                             
+ 30P X L XREF=DFGHI                                                             
+ 30P  cL J$L=4; 1759.6|g to (3+) and 2844.4|g to 2+                             
+ 30P   G 1759.6    2       23 7                                                 
+ 30P   G 2844.4    2      100 7                                                 
+ 30P   L 4343.8    1 5+                123 FS    10                             
+ 30P X L XREF=CDFGH                                                             
+ 30P  cL J$L=6; 1804.9|g to (3+) and 2370.5|g to 3+                             
+ 30P   G 1804.9     1   5.3  4                                                  
+ 30P   G 2370.5     1 100.0  21                                                 
+ 30P   L 4422.8    1 2+                40 FS     6                              
+ 30P X L XREF=CDFGHI                                                            
+ 30P  cL J$L=2; 3714.1|g and 4422.8|g to 1+                                     
+ 30P   G 3714.1     1   4.30 20 D+Q      -3.3    +9-19                          
+ 30P   G 4422.8     1  100.0 10 D+Q      -10     +1-2                           
+ 30P   L 4468.33   7 0+                1.9 FS    3                              
+ 30P X L XREF=CDEFGHI                                                           
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$from L=0 and 5467|g-4468|g cascade (6921-4468-0 levels) (1969Ha50)   
+ 30P   G 3759.63   8   6.5   9                                                  
+ 30P   G 4468.33   7  100.0  22                                                 
+ 30P   L 4502.21   9 1+                4.4 FS    15                             
+ 30P X L XREF=CDEFGH                                                            
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=2; 3047.98|g D+Q to 2+ and 4502.21|g D+Q to 1+                     
+ 30P   G 3047.98   9  100.0  18 D+Q      +0.01   3                              
+ 30P   G 3793.51   9    6.3  5                                                  
+ 30P   G 4502.21   9   71.4  18 D+Q      -0.09   4                              
+ 30P   L 4625.92   8 3-                171 FS    14                             
+ 30P X L XREF=CDEFGHI                                                           
+ 30P  cL J$L=3; 3171.7|g E1+M2 to 2+                                            
+ 30P   G 1688.46   8   52.3  14                                                 
+ 30P   G 2652.65   9   26.8  9                                                  
+ 30P   G 3171.69   8   100.0 18 E1+M2    +0.01   2                              
+ 30P B G BE1W=7.2E-5 6$BM2W=0.003 +13-3                                         
+ 30P   L 4736.03   8 3+                51 FS     7                              
+ 30P X L XREF=CDFGHI                                                            
+ 30P  cL J$L=2,4; 1798.57|g D+Q to 2+                                           
+ 30P   G 1716.83   12   2.9  3                                                  
+ 30P   G 1798.57    7  100.0 15 D+Q      +0.02   3                              
+ 30P   G 3281.80    7   18.5 8                                                  
+ 30P   G 4027.33    9   11.4 6                                                  
+ 30P   G 4736.03    7   18.0 8                                                  
+ 30P   L 4926.0    2 (3-,5-)           260 PS    35                             
+ 30P X L XREF=CDE(*)GHI                                                         
+ 30P  cL J$694|g D+Q to 4-, 3471.8|g to 2+                                      
+ 30P  cL T$From 1990En08                                                        
+ 30P   G 694.00    20  100   3  D+Q      +0.29   4                              
+ 30P   G 3471.80   20   11.6 6                                                  
+ 30P   L 4937.3    2 1                 4.6 FS    14                             
+ 30P X L XREF=DE(*)FHI                                                          
+ 30P   G 1999.80   20  22.0  12                                                 
+ 30P   G 4260.30   20     100 4                                                 
+ 30P   L 4941.2    3 (1+)              4.3 FS    11                             
+ 30P X L XREF=DE(*)                                                             
+ 30P  cL J$2967.9|g to 3+ and 4264.2|g to 0+                                    
+ 30P   G 2967.9     3 10.2   7                                                  
+ 30P   G 4264.2     3 100    4                                                  
+ 30P   L 4951      5                                                            
+ 30P X L XREF=CG                                                                
+ 30P   L 5027      4 5-,(4-,6-)                                                 
+ 30P X L XREF=CFGH                                                              
+ 30P  cL E$Weighted average of 5026(5) ({+3}He,t) and 5028(5) ({+3}He,d)        
+ 30P  cL J$L=5                                                                  
+ 30P   L 5206.8    1 3+                15 FS     4                              
+ 30P X L XREF=CDGHI                                                             
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=2,4; 4498|g and 5206.8|g to 1+                                     
+ 30P   G 4498.1    1    31.6 13                                                 
+ 30P   G 5206.8    1    100   3                                                 
+ 30P   L 5230.1    3                                                            
+ 30P X L XREF=CDFGH                                                             
+ 30P   G 2390.8     3      52 4                                                 
+ 30P   G 2691.2     3      48 4                                                 
+ 30P   G 3256.8     3     100 8                                                 
+ 30P   L 5411.1    3    (2-)                                                    
+ 30P X L XREF=CDEFGHI                                                           
+ 30P  cL J$L=1,(2); 2473.6|g to 2+, 2571.8|g to (3+), 3437.8|g to 3+            
+ 30P   G  2473.6   3       7617                                                 
+ 30P   G  2571.8   3      10015                                                 
+ 30P   G  3437.8   3       6815                                                 
+ 30P   L 5506.3    2  (1+)             3.8 FS    9                              
+ 30P X L XREF=CDE(*)FG(*)HI                                                     
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=2 ({+3}He,d), |g-rays to 1+ and 0+ states.                         
+ 30P   G  2568.80  20    2.5020                                                 
+ 30P   G  4829.30  20     100 3                                                 
+ 30P   G  5506.30  20     1.7 3                                                 
+ 30P   L 5508.55   8 (2,3)             10 FS     5                              
+ 30P X L XREF=DE(*)G(*)                                                         
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=2 for doublet of 5508.5 and 5506.3 keV levels.                     
+ 30P   G  3535.28   9    92.319                                                 
+ 30P   G  4054.32   7   100.019 D+Q      -0.06   5                              
+ 30P   L 5576.3    1 2+                6 FS      1                              
+ 30P X L XREF=CDFG                                                              
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=2+4 for doublet 5576 and 5597 keV levels; 4867.6|g D+Q to 1+       
+ 30P   G  1740.5   1      3.5 5                                                 
+ 30P   G  1842.5   1      3.2 6                                                 
+ 30P   G  4122.1   1     23.816                                                 
+ 30P   G  4867.6   1      100 3 D+Q      -0.05   5                              
+ 30P   G  5576.3   1     28.616                                                 
+ 30P   L 5597      5 4+                                                         
+ 30P X L XREF=CGHI                                                              
+ 30P  cL E$From ({+3}He,t)                                                      
+ 30P  cL J$L=2+4 for doublet 5576 and 5597 keV levels                           
+ 30P   L 5701.3    2 1+                11 FS     3                              
+ 30P X L XREF=CDGH(*)I                                                          
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=2+6 for doublet; 1518.5|g D+Q to 2+                                
+ 30P   G  1518.49  20    17.712 D+Q      +1      +4-1                           
+ 30P   G  2763.80  20     100 5                                                 
+ 30P   G  2977.60  20     6.3 8                                                 
+ 30P   G  3162.40  20     9.3 9                                                 
+ 30P   L 5715      4 (5,7)+                                                     
+ 30P X L XREF=CFGH(*)                                                           
+ 30P  cL E$Weighted average of 5719(5) ({+3}He,t) and 5711(5) ({+3}He,d)        
+ 30P  cL J$L=2+6 for doublet                                                    
+ 30P   L 5788      5 (3 TO 5)+                                                  
+ 30P X L XREF=G                                                                 
+ 30P   L 5808      5 (3,5)+                                                     
+ 30P X L XREF=FGHI                                                              
+ 30P  cL E,J$From ({+3}He,d); L=4                                               
+ 30P   L 5896      5 (2-)                                                       
+ 30P X L XREF=GHI(*)                                                            
+ 30P  cL J$L=3                                                                  
+ 30P   L 5907.8    8 (2-,1-)                                                    
+ 30P X L XREF=DEFI(*)                                                           
+ 30P  cL J$L=1                                                                  
+ 30P   G 5199.1    8      100                                                   
+ 30P   L 5934.0    1   (3+)                                                     
+ 30P X L XREF=DG(5928)I                                                         
+ 30P  cL J$3960.7|g D+Q to 3+, 1590.2|g to 5+                                   
+ 30P   G  1590.2   1    100.024                                                 
+ 30P   G  2996.5   1     30.217                                                 
+ 30P   G  3094.7   1     28.317                                                 
+ 30P   G  3395.1   1      5.010                                                 
+ 30P   G  3960.7   1     73.824  D+Q     -2.0    +5-9                           
+ 30P   L 5993      5 (0,1,2)-                                                   
+ 30P X L XREF=EF                                                                
+ 30P  cL E,J$From ({+3}He,d) and L=1                                            
+ 30P   L 5997.2    8   (1+)                                                     
+ 30P X L XREF=DGHI                                                              
+ 30P  cL J$5320.2|g D to 0+, 5288.5|g to 1+, 5997.2|g to 1+                     
+ 30P   G 5288.5    8   50                                                       
+ 30P   G 5320.2    8  100       D                                               
+ 30P   G 5997.2    8   8.2                                                      
+ 30P   L 6006.0    1   (3+)                                                     
+ 30P X L XREF=D                                                                 
+ 30P 2 L  ISPIN=0,1                                                             
+ 30P  cL J$|g-rays to 3+ and 2+ states.                                         
+ 30P   G  3166.7   1       29 3                                                 
+ 30P   G  3282.3   1       40 3                                                 
+ 30P   G  3467.1   1       26 3                                                 
+ 30P   G  4032.7   1      100 6                                                 
+ 30P   G  4551.8   1       91 6                                                 
+ 30P   L 6051      5 (3,4,5)+                                                   
+ 30P X L XREF=GI                                                                
+ 30P 2 L ISPIN=1                                                                
+ 30P  cL J$L=4                                                                  
+ 30P   L 6093.5    1 3-                4.4 FS    10                             
+ 30P X L XREF=DEFGHI                                                            
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=3                                                                  
+ 30P   G  1467.6   1      100 4                                                 
+ 30P   G  1861.5   1     70.020                                                 
+ 30P   G  1949.9   1     21.214                                                 
+ 30P   G  3156.0   1      5.6 8                                                 
+ 30P   G  3369.8   1      3.0 8                                                 
+ 30P   L 6178      4 (5,6,7)+                                                   
+ 30P X L XREF=FG                                                                
+ 30P  cL E$Weighted average of 6177(5) keV ({+3}He,t) and 6179(5) keV ({+3}He,d)
+ 30P  cL J$L=6                                                                  
+ 30P   L 6229.0    3 (3,5)+                                                     
+ 30P X L XREF=DFGH                                                              
+ 30P  cL J$L=4; |g-rays to 3+ and 4+ states                                     
+ 30P   G  1930.4   4       17 3                                                 
+ 30P   G  2300.4   3      100 8                                                 
+ 30P   G  3690.1   3       11 3                                                 
+ 30P   G  4255.7   3       28 5                                                 
+ 30P   L 6268.7    4 (2-)                                                       
+ 30P X L XREF=DFG                                                               
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$4295.4|g E1+M2 to 3+, 3545|g to 2+                                   
+ 30P   G 3249.5    4                                                            
+ 30P   G 3429.4    4  11                                                        
+ 30P   G 3545.0    4  74                                                        
+ 30P   G 3729.8    4  65                                                        
+ 30P   G 4295.4    4  100        E1+M2   -0.05   3                              
+ 30P   L 6295      5                                                            
+ 30P X L XREF=F(*)GH                                                            
+ 30P  cL E$from ({+3}He,t)                                                      
+ 30P   L 6299.3    2 3+                                                         
+ 30P X L XREF=DF(*)                                                             
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$3361.8|g and 2116.5|g M1+E2 to 2+                                    
+ 30P   G 2116.5    2    25      M1+E2     +0.04  2                              
+ 30P   G 3361.8    2   100      M1+E2     +0.02  2                              
+ 30P   L 6354      5 (4,5,6)-                                                   
+ 30P X L XREF=G                                                                 
+ 30P  cL J$L=5                                                                  
+ 30P   L 6470      5 (5+,6-)                                                    
+ 30P X L XREF=GH                                                                
+ 30P  cL J$L=6,(7)                                                              
+ 30P   L 6481.6    5 (1+)                                                       
+ 30P X L XREF=DF                                                                
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$5804.6|g to 0+, 2298.8|g to 2+                                       
+ 30P   G 2013.3    5  43                                                        
+ 30P   G 2298.8    5  30                                                        
+ 30P   G 5804.6    5  100                                                       
+ 30P   L 6520.8    5  (1+,2+)                                                   
+ 30P X L XREF=DFG                                                               
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$3981.9|g to (3+), 3583.3|g 2+, 2018.6|g to 1+                        
+ 30P   G 2018.6    5  100                                                       
+ 30P   G 3583.3    5  42                                                        
+ 30P   G 3981.9    5  46                                                        
+ 30P   L 6597.7    5 (3,4+,5+)                                                  
+ 30P X L XREF=DFG                                                               
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$4624.4|g D+Q to 3+, 2365.7|g to 4-, 2299|g to 4+                     
+ 30P   G  2299.1   5      2.6 6                                                 
+ 30P   G  2365.7   5      3.3 6                                                 
+ 30P   G  2669.1   5      5.9 8  D+Q                                            
+ 30P  cG MR$+9 +|@-5                                                            
+ 30P   G  3758.4   5    12.5 13  D+Q     +0.3    1                              
+ 30P   G  4624.4   5      100 6  D+Q     +0.5    1                              
+ 30P   L 6648      5                                                            
+ 30P X L XREF=F                                                                 
+ 30P 2 L  ISPIN=1                                                               
+ 30P   L 6667.8    5 (2-,3+)                                                    
+ 30P X L XREF=DF(6674)GH                                                        
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$3730|g D+Q to 2+, 2485|g D to 2-, 2934|g to (1+)                     
+ 30P   G  1091.5   5      5.6 6  D                                              
+ 30P   G  1159.3   5      1.3 4                                                 
+ 30P   G  2041.9   5      3.1 4                                                 
+ 30P   G  2435.8   5      3.1 4                                                 
+ 30P   G  2485.0   5     36.519  D                                              
+ 30P   G  2524.2   5     13.510                                                 
+ 30P   G  2832.0   5      2.5 4  D+Q     +1.7    +15-6                          
+ 30P   G  2934.0   5     12.517                                                 
+ 30P   G  3648.6   5     0.4020                                                 
+ 30P   G  3730.3   5      100 6  D+Q     +0.04   +1-2                           
+ 30P   G  3828.5   5     1.2020                                                 
+ 30P   G  3944.1   5      6.7 6  D+Q                                            
+ 30P  cG MR$-30 {I+20-}|@                                                       
+ 30P   G  4694.5   5      4.0 6                                                 
+ 30P   G  5213.6   5     1.0020                                                 
+ 30P   L 6788      4                                                            
+ 30P X L XREF=FGH                                                               
+ 30P  cL E$Weighted average of 6189(5) keV ({+3}He,t) and 6787(5) keV ({+3}He,d)
+ 30P   L 6853.9    5 1+                25 EV                                    
+ 30P X L XREF=DFGH(*)                                                           
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=2; 4130.2|g D+Q to 2+, 6176.9|g to 0+                              
+ 30P   G  2351.7   5   2.80  10  D                                              
+ 30P   G  2385.6   5      6.6 3                                                 
+ 30P   G  2431.1   5     0.21 4                                                 
+ 30P   G  2925.3   5     0.3010                                                 
+ 30P   G  3834.7   5     0.20 4                                                 
+ 30P   G  3916.4   5     21.510  D                                              
+ 30P   G  4130.2   5     3.0010  D+Q     +2      +3-1                           
+ 30P   G  4314.9   5     0.5010                                                 
+ 30P   G  4880.6   5     0.5010                                                 
+ 30P   G  6145.2   6     1.1010                                                 
+ 30P   G  6176.9   5      100 4                                                 
+ 30P   G  6853.9   5      3.9 3                                                 
+ 30P   L 6873.4    5 3+                3 EV                                     
+ 30P X L XREF=DEG(6881)H(*)                                                     
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=4 for doublet; 3935.9|g D+Q to 2+, 2641.4|g to 4-                  
+ 30P   G  1364.9   5      4.9 3  D+Q     +1.4    +4-3                           
+ 30P   G  2641.4   5      4.6 3                                                 
+ 30P   G  2690.6   5     13.0 8                                                 
+ 30P   G  2729.8   5      4.1 3                                                 
+ 30P   G  2944.8   5      3.2 3                                                 
+ 30P   G  3935.9   5       78 3  D+Q     -0.05   2                              
+ 30P   G  4034.1   5      5.9 5                                                 
+ 30P   G  4149.7   5     20.311  D+Q     +0.01   +3-2                           
+ 30P   G  4900.1   5     37.319                                                 
+ 30P   G  5419.2   5      100 5                                                 
+ 30P   L 6877      1 (2-)              3.1 KEV                                  
+ 30P X L XREF=DF                                                                
+ 30P  cL J$|g-rays to 1+, (3+), 2- states                                       
+ 30P   G  2694     1     1.6010                                                 
+ 30P   G  2733     1     1.2010                                                 
+ 30P   G  3858     1      6.4 4                                                 
+ 30P   G  3939     1      3.2 3                                                 
+ 30P   G  4038     1      3.1 3                                                 
+ 30P   G  4153     1      5.3 4                                                 
+ 30P   G  5423     1      9.6 7                                                 
+ 30P   G  6168     1      3.2 3                                                 
+ 30P   G  6877     1      100 4                                                 
+ 30P   L 6921      1 1-                5.4 KEV                                  
+ 30P X L XREF=DEFGH                                                             
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=1; |g-rays to 0+, 2+, 2- states                                    
+ 30P   G  2419     1      4.3 5                                                 
+ 30P   G  2453     1     20.616                                                 
+ 30P   G  2777     1      2.4 3                                                 
+ 30P   G  3085     1     0.8020                                                 
+ 30P   G  3984     1      2.1 5                                                 
+ 30P   G  4197     1      1.1 3                                                 
+ 30P   G  5467     1     14.316 D+Q                                             
+ 30P   G  6244     1      100 8                                                 
+ 30P   G  6921     1     12.716                                                 
+ 30P   L 6978.3    5 (3+,4+)                                                    
+ 30P X L XREF=D                                                                 
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$From |g-ray feeding to 2+, 3+, 5+ states                             
+ 30P   G  1044.3   5     15.417                                                 
+ 30P   G  1469.8   5      100 7  D+Q     -6      +2-4                           
+ 30P   G  2634.5   5      8.313                                                 
+ 30P   G  3049.7   5     16.520                                                 
+ 30P   G  4040.8   5      3.311                                                 
+ 30P   G  4254.6   5     17.422                                                 
+ 30P   G  4439.4   5     17.422                                                 
+ 30P   G  5005.0   5       33 4                                                 
+ 30P   G  5524.1   5      8.320                                                 
+ 30P   L 6981      5  (5 TO 7)+                                                 
+ 30P X L XREF=G                                                                 
+ 30P  cL J$L=6                                                                  
+ 30P   L 7014.9    5 2-                0.70 KEV                                 
+ 30P X L XREF=DEFG                                                              
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=3; 2512.7|g E1 to 1+                                               
+ 30P   G  2389.0   5     10.0 7                                                 
+ 30P   G  2512.7   5       87 3  E1                                             
+ 30P   G  2832.1   5      6.7 3                                                 
+ 30P   G  2871.3   5     38.017  M1                                             
+ 30P   G  3281.1   5      5.7 3                                                 
+ 30P   G  3995.7   5     34.017                                                 
+ 30P   G  4291.2   5      2.3 3                                                 
+ 30P   G  4476.0   5     13.0 7                                                 
+ 30P   G  5041.6   5     1.2020                                                 
+ 30P   G  6306.2   6     35.020                                                 
+ 30P   G  7014.9   5      100 3                                                 
+ 30P   L 7045.0    5  (2,3,4)-         20 EV                                    
+ 30P X L XREF=DH(*)                                                             
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$951.5|g D+Q to 3-, 2902|g to 2-, |g-rays to 3+                       
+ 30P   G   951.5   5     42.425  D+Q     -0.07   +3-4                           
+ 30P   G  1039.0   5     12.412                                                 
+ 30P   G  1536.5   5      8.8 9                                                 
+ 30P   G  2901.4   5       53 3                                                 
+ 30P   G  4205.7   5     14.715                                                 
+ 30P   G  4506.1   5      100 6                                                 
+ 30P   G  5071.7   5       62 3                                                 
+ 30P   L 7049.4    5 4-                45 EV                                    
+ 30P X L XREF=DEFGH(*)                                                          
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=5; 5076.1|g E1 to 3+, 2817.4|g M1 to (3-,5-).                      
+ 30P   G  2123.4   5     32.115        M1                                       
+ 30P   G  2423.5   5     29.411        M1                                       
+ 30P   G  2817.4   5      100 4        M1                                       
+ 30P   G  3120.8   5     2.5412                                                 
+ 30P   G  4210.1   5      7.1 4                                                 
+ 30P   G  4510.5   5      7.1 4                                                 
+ 30P   G  5076.1   5     14.4 6        E1                                       
+ 30P   G  5595.2   5     0.23 3                                                 
+ 30P   L 7119.1    5  (1+,2+,3+)                                                
+ 30P X L XREF=DG                                                                
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$|g-rays to 1+, 2+, 3+                                                
+ 30P   G  1610.6   5      3.6 4                                                 
+ 30P   G  4181.6   5      100 6                                                 
+ 30P   G  4580.2   5      4.0 7                                                 
+ 30P   G  5145.8   5      8.911                                                 
+ 30P   G  7119.1   5       22 3                                                 
+ 30P   L 7178      3 1-                15 KEV                                   
+ 30P X L XREF=DFGH                                                              
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=1 from 1978En02; L=2 in ({+3}He,t) probably erroneous; |g-rays to  
+ 30P 2cL 1+, 0+, 2- states                                                      
+ 30P   G  3035.4   5      3.2 4                                                 
+ 30P   G  3445.2   5      5.7 6                                                 
+ 30P   G  4159.8   5     20.615                                                 
+ 30P   G  6470.3   6      100 6                                                 
+ 30P   G  6502.0   5     23.217  D                                              
+ 30P   G  7179.0   5       60 4                                                 
+ 30P   L 7202.4    15 (6+,7+)          9.4 PS    12                             
+ 30P X L XREF=CFG(*)                                                            
+ 30P  cL E,J$from ({+16}O,pn|g); presumably 2858|g is M1 to 5+ favors 6+        
+ 30P  cL T$From 1990En08                                                        
+ 30P   G 2858      1 100                                                        
+ 30P  cG E,M$from ({+16}O,pn|g); preliminary data of pol=-0.48 {I22} indicates  
+ 30P 2cG 2858|g of M1 character.                                                
+ 30P   L 7203.0    5  (2+)             30 EV                                    
+ 30P X L XREF=DG(*)                                                             
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$4265.5|g D+Q to 2+, |g-rays to 0+, 3+ states                         
+ 30P   G  1197.0   5     0.3010                                                 
+ 30P   G  1694.5   5     5.5020                                                 
+ 30P   G  2780.2   5     0.3010                                                 
+ 30P   G  4265.5   5      100 5  D+Q     -0.06   +3-4                           
+ 30P   G  4479.3   5     1.7010                                                 
+ 30P   G  4664.1   5   0.20   5                                                 
+ 30P   G  5229.7   5     1.2010                                                 
+ 30P   G  5748.8   5     2.3020                                                 
+ 30P   G  6494.3   6      4.4 6                                                 
+ 30P   G  6526.0   5     0.3010                                                 
+ 30P   L 7207.5    5 (0+)              50 EV                                    
+ 30P X L XREF=D                                                                 
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$|g-rays to 1+                                                        
+ 30P   G  1701.2   5     21.810                                                 
+ 30P   G  2270.2   5      4.3 3                                                 
+ 30P   G  3473.7   5      5.1 4                                                 
+ 30P   G  4188.3   5      100 4                                                 
+ 30P   G  6498.8   6      8.113                                                 
+ 30P   L 7223.3    5 2-                4.5 KEV                                  
+ 30P X L XREF=DFG                                                               
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=3; 3079.7|g M1+E2 to 2-                                            
+ 30P   G  2597.4   5     19.8 9 D+Q      -0.00   +3-2                           
+ 30P  cG           A{-2}=-0.10 {I4}, A{-4}=-0.05 {I5} (1985Re02)                
+ 30P   G  3079.7   5      100 4 M1+E2    -0.06   2                              
+ 30P   G  3489.5   5     4.9020                                                 
+ 30P   G  4204.1   5      9.6 6                                                 
+ 30P   G  4384.0   5     2.6020                                                 
+ 30P   G  4684.4   5     1.7020                                                 
+ 30P   G  5250.0   5     1.9020                                                 
+ 30P   G  5769.1   5     10.0 6                                                 
+ 30P   G  6514.6   6     23.013  D                                              
+ 30P   G  7223.3   5     40.619  D                                              
+ 30P   L 7282.0    5 3+                1 EV                                     
+ 30P X L XREF=DFG(*)H(*)                                                        
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=2 for doublet; 3099|g D+Q to 2+, 4743.1|g to (3+)                  
+ 30P   G  1705.7   5     1.4010  D+Q     +0.18   9                              
+ 30P   G  3099.2   5     30.413  D+Q     -0.07   +2-1                           
+ 30P   G  3446.2   5      0.4 7                                                 
+ 30P   G  4344.5   5      100 4                                                 
+ 30P   G  4442.7   5      7.3 4  D+Q     +1.4    +4-3                           
+ 30P   G  4558.3   5     10.9 4  D+Q     -3.8    +6-7                           
+ 30P   G  4743.1   5     11.6 4  D+Q     -0.23   8                              
+ 30P   G  5827.8   5     60.022                                                 
+ 30P   L 7283.4    5 2+                7 EV                                     
+ 30P X L XREF=DG(*)H(*)                                                         
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=2 for doublet; D+Q |g-rays to 1+, 2+, 3+ states                    
+ 30P   G  2076.6   5      8.0 3  D+Q     +0.06   3                              
+ 30P   G  2342.2   6     29.111  D+Q     -0.4    1                              
+ 30P   G  2547.4   5       11 6  D+Q     +0.06   3                              
+ 30P   G  2860.6   5      100 3  D+Q     -0.05   1                              
+ 30P   G  3354.8   5     1.6010                                                 
+ 30P   G  3447.6   5      8.3 3  D+Q     -0.07   4                              
+ 30P   G  3549.6   5     16.9 9                                                 
+ 30P   G  4345.9   5     1.5020                                                 
+ 30P   G  4559.7   5     33.114  D+Q     +0.01   2                              
+ 30P   G  5829.2   5      9.7 6  D+Q     +2.3    +5-3                           
+ 30P   G  6574.7   6      5.7 3  D+Q     +0.01   7                              
+ 30P   G  6606.4   5      6.6 3                                                 
+ 30P   G  7283.4   5     54.323  D+Q     +0.06   1                              
+ 30P   L 7304.9    5 (2-)              60 EV                                    
+ 30P X L XREF=DF(*)G                                                            
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$L=3 for doublet (1978En02), L=2 ({+3}He,t); the evaluator keeps the  
+ 30P 2cL assignment of earlier evaluation (1998En04) and that by                
+ 30P 3cL 2000Gr19 ((p,|g),{+27}Al(|a,n|g)).                                     
+ 30P   G  2802.7   5      100 5                                                 
+ 30P   G  3122.1   5     27.318                                                 
+ 30P   G  3161.3   5      5.9 5                                                 
+ 30P   G  3571.1   5     30.918                                                 
+ 30P   G  4367.4   5       84 4                                                 
+ 30P   G  4465.6   5     15.9 9                                                 
+ 30P   G  4581.2   5      1.4 5                                                 
+ 30P   G  4766.0   5      4.1 5                                                 
+ 30P   G  5331.6   5       91 5                                                 
+ 30P   G  5850.7   5      4.1 5                                                 
+ 30P   G  6596.2   6       82 5                                                 
+ 30P   G  7304.9   5      5.0 9                                                 
+ 30P   L 7306.3    5 (2-)              45 EV                                    
+ 30P X L XREF=DF(*)                                                             
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$|g-rays to 2+, 3+, 2-, 3-, 4- states                                 
+ 30P   G  1037.6   6      3.8 5                                                 
+ 30P   G  1212.8   5     10.0 5                                                 
+ 30P   G  2570.3   5      2.0 3                                                 
+ 30P   G  2883.5   5      1.8 3                                                 
+ 30P   G  3074.3   5      2.8 3                                                 
+ 30P   G  3123.5   5     12.0 8                                                 
+ 30P   G  3162.7   5      2.0 3                                                 
+ 30P   G  3470.5   5     11.813                                                 
+ 30P   G  4368.8   5      100 5                                                 
+ 30P   G  4467.0   5     11.8 8                                                 
+ 30P   G  4582.6   5      8.8 8                                                 
+ 30P   G  5333.0   5     50.025                                                 
+ 30P   G  5852.1   5     31.318                                                 
+ 30P   G  6597.6   6      1.5 3                                                 
+ 30P   L 7322      3 (1-)              16.5 KEV                                 
+ 30P X L XREF=DFG(7314)                                                         
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$|g-rays to 1+, 2+, 2-                                                
+ 30P   G  2820     3       67 6                                                 
+ 30P   G  3139     3      4.515                                                 
+ 30P   G  3178     3      7.918                                                 
+ 30P   G  4385     3       91 6                                                 
+ 30P   G  5868     3       33 6                                                 
+ 30P   G  7322     3      100 9                                                 
+ 30P   L 7347      5 (5,6,7)+                                                   
+ 30P X L XREF=GH                                                                
+ 30P  cL J$L=6                                                                  
+ 30P   L 7370      5                                                            
+ 30P X L XREF=F(*)G                                                             
+ 30P   L 7383.4    5 (1 TO 3+)                                                  
+ 30P X L XREF=DF(*)G(7390)                                                      
+ 30P 2 L  ISPIN=1                                                               
+ 30P   G  1449.4   5     10.2 6                                                 
+ 30P   G  1874.9   5     4.0020                                                 
+ 30P   G  4445.9   5      100 5                                                 
+ 30P   G  4659.7   5      2.3 4                                                 
+ 30P   G  5929.2   5      1.9 4                                                 
+ 30P   G  7383.4   5      2.4 4                                                 
+ 30P   L 7472      10                                                           
+ 30P X L XREF=F                                                                 
+ 30P   L 7493      1 (1+)              3.5 KEV                                  
+ 30P X L XREF=DG(7486)                                                          
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$3310|g D+Q to 2+, |g-rays to 1+,0+ states                            
+ 30P   G  2991     1     16.010  D+Q     -2      +1-21                          
+ 30P   G  3025     1     10.0 8                                                 
+ 30P   G  3310     1     45.821  D+Q                                            
+ 30P  cG MR$-6 {I+4-}|@                                                         
+ 30P   G  3349     1      1.3 4                                                 
+ 30P   G  4556     1      100 5  D+Q                                            
+ 30P  cG MR$+12 +|@-10                                                          
+ 30P   G  4769     1      2.5 4                                                 
+ 30P   G  6039     1      2.7 6                                                 
+ 30P   G  6816     1     27.121                                                 
+ 30P   G  7493     1      3.1 6                                                 
+ 30P   L 7560.5    5  (3+)             40 EV                                    
+ 30P X L XREF=DF(*)G(7550)                                                      
+ 30P  cL J$D+Q |g-rays to 2+, 4- states, 6851.8|g to 1+                         
+ 30P   G  1554.5   5     33.517  D+Q     +1.6    2                              
+ 30P   G  1626.5   5     52.225  D+Q     -0.68   +5-4                           
+ 30P   G  1984.2   5      100 4  D+Q     -0.04   +2-1                           
+ 30P   G  2052.0   5     30.417                                                 
+ 30P   G  3137.7   5      3.0 4                                                 
+ 30P   G  3216.7   5      2.6 4                                                 
+ 30P   G  3261.9   5      4.8 4                                                 
+ 30P   G  3328.5   5      2.0 3  D+Q     +2.0    3                              
+ 30P   G  3377.7   5      100 4  D+Q     -0.08   +1-2                           
+ 30P   G  3416.9   5      2.3 4                                                 
+ 30P   G  3826.7   5     37.822                                                 
+ 30P   G  4623.0   5     49.125  D+Q     +0.06   4                              
+ 30P   G  4836.8   5      4.8 4                                                 
+ 30P   G  5021.6   5      5.7 9                                                 
+ 30P   G  6851.8   6      6.5 9                                                 
+ 30P   L 7562.5    5 (2+)              25 EV                                    
+ 30P X L XREF=DF(*)                                                             
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$D+Q |g-rays to 1+,2+,3+ states                                       
+ 30P   G  1263.2   5      2.0 5                                                 
+ 30P 2 G FL=6299.3                                                              
+ 30P   G  1861.2   5       59 3  D+Q     +0.1    1                              
+ 30P   G  2056.2   5      100 5  D+Q     +0.12   5                              
+ 30P   G  2355.7   5     15.510                                                 
+ 30P   G  2625.2   5     24.515                                                 
+ 30P   G  2826.5   5     34.520  D+Q     +0.03   3                              
+ 30P   G  3139.7   5      5.2 5  D+Q     +1.3    +9-5                           
+ 30P   G  3379.7   5      1.9 3                                                 
+ 30P   G  3633.9   5      6.0 5  D+Q     +0.1    +1-2                           
+ 30P   G  3726.7   5     44.025  D+Q     -0.09   +3-4                           
+ 30P  cG           A{-2}=0.23 {I4}, A{-4}=-0.37 {I5} (1985Re02)                 
+ 30P   G  4543.3   5      9.510                                                 
+ 30P   G  4625.0   5      9.510                                                 
+ 30P   G  4838.8   5      6.0 5                                                 
+ 30P   G  5023.6   5     17.010                                                 
+ 30P   G  6108.3   5       85 5  D+Q     +0.09   6                              
+ 30P  cG           A{-2}=0.19 {I11}, A{-4}=-0.37 {I14} (1985Re02)               
+ 30P   G  6853.8   6     17.515                                                 
+ 30P   G  6885.5   5      8.010                                                 
+ 30P   G  7562.5   5       56 4  D+Q     +0.05   2                              
+ 30P   L 7579.9    5 (2-)              0.17 KEV                                 
+ 30P X L XREF=DFGH                                                              
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$|g-rays to 1+, 2+, 3+, 2-, 4- states                                 
+ 30P   G  1486.4   5      100 6                                                 
+ 30P   G  1645.9   5      3.6 6                                                 
+ 30P   G  2003.6   5      5.8 6                                                 
+ 30P   G  2954.0   5      1.1 3                                                 
+ 30P   G  3347.9   5      3.1 3                                                 
+ 30P   G  3397.1   5        3 3                                                 
+ 30P   G  3436.3   5      4.2 8                                                 
+ 30P   G  3651.3   5      5.3 6                                                 
+ 30P   G  3744.1   5      7.8 6                                                 
+ 30P   G  4642.4   5       50 3                                                 
+ 30P   G  4856.2   5       61 3  D+Q                                            
+ 30P   G  5041.0   5      9.2 8                                                 
+ 30P   G  5606.6   5     11.711                                                 
+ 30P   G  6125.7   5     10.017                                                 
+ 30P   G  7579.9   5      3.6 6                                                 
+ 30P   L 7605.0    5 (1+,2+)           0.26 KEV                                 
+ 30P X L XREF=DFGH                                                              
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$D+Q |g-rays to 1+, 2+; |g-rays to 0+                                 
+ 30P   G  2096.5   5     2.2010  D+Q     +0.02   +3-4                           
+ 30P   G  3102.8   5     0.6010                                                 
+ 30P   G  3422.2   5     3.9020  D+Q     +2.1    2                              
+ 30P   G  4585.8   5     0.3010                                                 
+ 30P   G  4667.5   5      100 5  D+Q     +2.4    1                              
+ 30P   G  4881.3   5     1.1010                                                 
+ 30P   G  5066.1   5     1.3010                                                 
+ 30P   G  6150.8   5     0.5010                                                 
+ 30P   G  6896.3   6     1.4010                                                 
+ 30P   G  6928.0   5     0.3010                                                 
+ 30P   G  7605.0   5     3.0020  D+Q     +8      2                              
+ 30P   L 7636.0    5 (3+)              3 EV      LT                             
+ 30P X L XREF=DH                                                                
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$D+Q |g-rays to 2+, 3+; 7636|g to 1+                                  
+ 30P   G  1336.7   5     1.1010                                                 
+ 30P 2 G FL=6299.3                                                              
+ 30P   G  2429.2   5     1.6020                                                 
+ 30P   G  2900.0   5     32.216  D+Q     -0.17   5                              
+ 30P   G  3213.2   5     14.1 8  D+Q     -5      2                              
+ 30P   G  3337.4   5      4.6 3                                                 
+ 30P   G  3404.0   5      8.9 5                                                 
+ 30P   G  3453.2   5     13.2 8  D+Q     -2.4    +3-4                           
+ 30P   G  3707.4   5     2.7020                                                 
+ 30P   G  3800.2   5     31.916  D+Q     -0.04   3                              
+ 30P   G  4698.5   5     13.5 8                                                 
+ 30P   G  4796.7   5     14.6 8                                                 
+ 30P   G  4912.3   5     22.414                                                 
+ 30P   G  5097.1   5      100 5                                                 
+ 30P   G  5662.7   5      4.6 3                                                 
+ 30P   G  6181.8   5      1.9 3                                                 
+ 30P   G  7636.0   5      4.3 5                                                 
+ 30P   L 7644.3    5 (3+)              65 EV                                    
+ 30P X L XREF=DF(*)G(*)                                                         
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$D+Q |g-rays to 2+, (3+); |g-rays to 2-, 4-, 4+, 3+ states            
+ 30P   G  1345.0   5     1.1010                                                 
+ 30P 2 G FL=6299.3                                                              
+ 30P   G  2437.5   5     2.5020                                                 
+ 30P   G  2908.3   5     35.019                                                 
+ 30P   G  3018.4   5     1.3010                                                 
+ 30P   G  3221.5   5     16.6 9 D+Q      -3.0    2                              
+ 30P   G  3345.7   5     3.0020                                                 
+ 30P   G  3412.3   5      5.3 3                                                 
+ 30P   G  3461.5   5     13.4 6 D+Q      -7      1                              
+ 30P   G  3500.7   5     1.0010                                                 
+ 30P   G  3808.5   5    38.1019 D+Q      -0.07   2                              
+ 30P   G  4706.8   5     32.216 D+Q      -2.4    +2-1                           
+ 30P   G  4805.0   5     19.7 9 D+Q      -0.17   7                              
+ 30P   G  4920.6   5     32.519 D+Q      -0.00   2                              
+ 30P   G  5105.4   5      100 6                                                 
+ 30P   G  5671.0   5      8.4 6                                                 
+ 30P   G  6935.6   6     0.8020                                                 
+ 30P   L 7647      10(4,5,6)-                                                   
+ 30P X L XREF=F(*)G(*)                                                          
+ 30P 2 L ISPIN=1                                                                
+ 30P  cL E,J$From ({+3}He,t), L=5                                               
+ 30P   L 7688.2    5 (3+,4-)           3 EV      LT                             
+ 30P X L XREF=DFG                                                               
+ 30P 2 L ISPIN=0                                                                
+ 30P  cL J$|g-rays to 1+, 4-, 4+, 5+, (2-) states; L=6 in ({+3}He,t) is         
+ 30P 2cL inconsistent with this assignment                                      
+ 30P   G  1459.2   6      6.2 8                                                 
+ 30P   G  2179.7   5      1.2 3                                                 
+ 30P   G  2277.1   6      6.3 7                                                 
+ 30P   G  2458.1   6     28.317                                                 
+ 30P   G  3344.4   5      100 7                                                 
+ 30P   G  3389.6   5     19.015                                                 
+ 30P   G  3456.2   5      1.5 3                                                 
+ 30P   G  7688.2   5      4.2 7                                                 
+ 30P   L 7742      3 (1-)              52 KEV                                   
+ 30P X L XREF=D                                                                 
+ 30P  cL J$|g-rays to 1+, 0+, 2+ states                                         
+ 30P   G  4723     3     11.616                                                 
+ 30P   G  4805     3       30 3                                                 
+ 30P   G  6288     3       41 5                                                 
+ 30P   G  7033     3       51 5                                                 
+ 30P   G  7065     3       35 5                                                 
+ 30P   G  7742     3      100 8                                                 
+ 30P   L 7749.3    5 (1+)              0.53 KEV                                 
+ 30P X L XREF=DF(*)                                                             
+ 30P 2 L  ISPIN=0                                                               
+ 30P  cL J$D+Q |g-rays to 1+, 2+; 3281|g to 0+                                  
+ 30P   G  3247.1   5      5.4 6  D+Q     -0.0    3                              
+ 30P   G  3281.0   5      3.7 4                                                 
+ 30P   G  4730.1   5      4.2 4  D+Q     +1.0    +12-5                          
+ 30P   G  4811.8   5      100 6  D+Q     -0.0    2                              
+ 30P   G  5025.6   5      2.4 4  D+Q                                            
+ 30P  cG MR$+1 +|@-1                                                            
+ 30P   G  6295.1   5      3.0 4                                                 
+ 30P   G  7040.6   6      1.5 3                                                 
+ 30P   G  7072.3   5     23.915                                                 
+ 30P   G  7749.3   5      6.4 7                                                 
+ 30P   L 7752.7    5 (3+,4+)           3 EV      LT                         B   
+ 30P X L XREF=DF(*)                                                             
+ 30P 2 L  ISPIN=1                                                               
+ 30P   G  1818.7   5      100 8  D+Q     +0.05   7                              
+ 30P   G  2244.2   5     20.018  D+Q     -1.2    3                              
+ 30P   G  3824.1   5      3.8 8                                                 
+ 30P   G  3916.9   5     11.313                                                 
+ 30P   G  4815.2   5      7.513                                                 
+ 30P   G  5213.8   5     16.018                                                 
+ 30P   G  5779.4   5     22.525  D+Q     -0.2    1                              
+ 30P   G  6298.5   5       53 5                                                 
+ 30P   G  7044.0   6      4.010                                                 
+ 30P   G  7752.7   5     13.520                                                 
+ 30P   L 7759.0    5 (3+)              4 EV      LT                         B   
+ 30P X L XREF=DF(*)G                                                            
+ 30P 2 L  ISPIN=1                                                               
+ 30P  cL J$L=4                                                                  
+ 30P   G  3256.8   5     1.0020                                                 
+ 30P   G  3336.2   5      2.0 4  D+Q     -0.07   +8-9                           
+ 30P   G  3830.4   5      3.1 4  D+Q     -0.2    +1-2                           
+ 30P   G  4821.5   5      1.0 4                                                 
+ 30P   G  4919.7   5     14.316 D+Q      +0.04    9                             
+ 30P   G  5035.3   5      10010  D+Q     -0.01   +1-2                           
+ 30P   G  5220.1   5      3.7 6  D+Q     -0.4    2                              
+ 30P   G  5785.7   5     25.520  D+Q     -0.26   6                              
+ 30P   G  6304.8   5       45 4  D+Q     -0.00   2                              
+ 30P   G  7759.0   5      1.2 4                                                 
+ 30P   L 7786.4    5 (2-,4-)           17 EV                                B   
+ 30P X L XREF=D                                                                 
+ 30P   G  1780.4   5       33 3                                                 
+ 30P   G  3642.8   5    8.020                                                   
+ 30P   G  3857.8   5       22 3                                                 
+ 30P   G  4947.1   5       73 7                                                 
+ 30P   G  5247.5   5      100 7                                                 
+ 30P   G  5813.1   5       97 7                                                 
+ 30P   L 7803      3 (2,3,4)-          10 EV                                    
+ 30P X L XREF=D                                                                 
+ 30P   L 7826.3    5 (2-)              50 EV                                B   
+ 30P X L XREF=DG                                                                
+ 30P 2 L  ISPIN=0                                                               
+ 30P   G  3643.5   5      100 7                                                 
+ 30P   G  3682.7   5      3.7 9                                                 
+ 30P   G  4807.1   5      3.313                                                 
+ 30P   G  4888.8   5       32 4                                                 
+ 30P   G  6372.1   5       46 4                                                 
+ 30P   L 7873.7    5 (4-)              20 EV                                B   
+ 30P X L XREF=D                                                                 
+ 30P   G  1939.7   5       39 3                                                 
+ 30P   G  2365.2   5       33 3                                                 
+ 30P   G  2947.7   5       27 3                                                 
+ 30P   G  3137.7   5     17.924                                                 
+ 30P   G  3641.7   5      100 9                                                 
+ 30P   G  5334.8   5       39 6                                                 
+ 30P   G  5900.4   5       33 6                                                 
+ 30P   G  6419.5   5       15 3                                                 
+ 30P   L 7883.8    5 (4+)                                                   B   
+ 30P X L XREF=D                                                                 
+ 30P   G  3461.0   5      4.2 9                                                 
+ 30P   G  3540.0   5       70 6  D+Q     +0.04   +3-2                           
+ 30P   G  3585.2   5     14.815  D+Q     +0.7    +5-4                           
+ 30P   G  3955.2   5      6.412                                                 
+ 30P   G  4048.0   5     10.915                                                 
+ 30P   G  5044.5   5      100 6  D+Q     +0.24   +2-3                           
+ 30P   G  5160.1   5      5.512                                                 
+ 30P   G  5344.9   5       52 3  D+Q     -0.01   3                              
+ 30P   G  5910.5   5     18.824                                                 
+ 30P   G  6429.6   5     21.224                                                 
+ 30P   L 7892      3 (2-)              70 KEV                               B   
+ 30P X L XREF=DFG                                                               
+ 30P   G  3748     3      2.0 3                                                 
+ 30P   G  4873     3      2.8 5                                                 
+ 30P   G  7183     3     10.610                                                 
+ 30P   G  7892     3      100 7                                                 
+ 30P   L 7920.9    5 2+                0.38 KEV                             B   
+ 30P 2 L  ISPIN=0                                                               
+ 30P X L XREF=D                                                                 
+ 30P   G  2412.4   5      1.8 4                                                 
+ 30P   G  2714.1   5     10.4 7                                                 
+ 30P   G  3184.9   5     22.114  D+Q     -8      +4-60                          
+ 30P   G  3295.0   5     18.214                                                 
+ 30P   G  3777.3   5      6.4 7                                                 
+ 30P   G  3992.3   5     21.818                                                 
+ 30P   G  4085.1   5     20.014  D+Q     -0.2    +1-2                           
+ 30P   G  4983.4   5      9.611  D+Q     -0.4    1                              
+ 30P   G  5197.2   5     10.711                                                 
+ 30P   G  5382.0   5      100 7  D+Q     -0.00   8                              
+ 30P   G  5947.6   5       71 4  D+Q     +1.2    +13-5                          
+ 30P   G  6466.7   5     22.918                                                 
+ 30P   G  7212.2   6       40 3  D+Q     -0.13   8                              
+ 30P   L 7921.8    5 (3+)                                                   B   
+ 30P 2 L  ISPIN=0                                                               
+ 30P X L XREF=D                                                                 
+ 30P   G  3185.8   5      2.2 4                                                 
+ 30P   G  3578.0   5     29.420                                                 
+ 30P   G  3623.2   5      6.9 6                                                 
+ 30P   G  3739.0   5     1.4020                                                 
+ 30P   G  3993.2   5      2.5 4                                                 
+ 30P   G  5082.5   5      100 6                                                 
+ 30P   G  5382.9   5     31.420                                                 
+ 30P   G  5948.5   5     21.218                                                 
+ 30P   G  6467.6   5     1.0020                                                 
+ 30P   G  7213.1   6     0.6020                                                 
+ 30P   L 7922      1 (4+)                                                   B   
+ 30P X L XREF=D                                                                 
+ 30P   G  3578     1     27.525                                                 
+ 30P   G  3993     1     22.525                                                 
+ 30P   G  5083     1      10010  D+Q     -0.11   +5-4                           
+ 30P   G  5383     1       53 5                                                 
+ 30P   G  5949     1       35 5                                                 
+ 30P   G  6468     1     12.525                                                 
+ 30P   L 7932      3 (0+)              28 KEV                                   
+ 30P X L XREF=DG                                                                
+ 30P   L 7996.7    5 (1+)              1.0 KEV                              B   
+ 30P 2 L  ISPIN=1                                                               
+ 30P X L XREF=DH(7972)                                                          
+ 30P   G  2490.4   5      3.7 4                                                 
+ 30P   G  3059.4   5      3.7 4                                                 
+ 30P   G  4262.9   5      7.2 6  D+Q     -1.0    +6-15                          
+ 30P   G  4977.5   5     11.9 8  D+Q     -0.0    3                              
+ 30P   G  7319.7   5      1.9 5                                                 
+ 30P   G  7996.7   5      100 5  D+Q     -0.2    +2-1                           
+ 30P   L 8001      1 (1-)              4.8 KEV                              B   
+ 30P X L XREF=D                                                                 
+ 30P   G  5064     1     15.314                                                 
+ 30P   G  6547     1     12.514                                                 
+ 30P   G  7292     1     12.514                                                 
+ 30P   G  7324     1      100 8                                                 
+ 30P   L 8007.4    5 (2+)              0.65 KEV                             B   
+ 30P X L XREF=D                                                                 
+ 30P 2 L  ISPIN=1                                                               
+ 30P   G  2073.4   5     2.3020  D+Q     +0.20   7                              
+ 30P   G  2431.1   5      1.012  D+Q     -1.6    +6-11                          
+ 30P   G  3824.6   5     30.815  D+Q     -1.0    3                              
+ 30P   G  4078.8   5     1.8020                                                 
+ 30P   G  4273.6   5     1.0010                                                 
+ 30P   G  4988.2   5     0.4010                                                 
+ 30P   G  5069.9   5      100 6   D+Q    -0.73   8                              
+ 30P   G  5283.7   5     0.8010                                                 
+ 30P   G  6034.1   5     1.1020                                                 
+ 30P   G  6553.2   5      3.2 3                                                 
+ 30P   G  7298.7   6     1.1020                                                 
+ 30P   G  7330.4   5     0.8010                                                 
+ 30P   G  8007.4   5      9.1 6   D+Q                                           
+ 30P  cG MR$+20 +|@-10                                                          
+ 30P   L 8014.3    5 (2+)              0.16 KEV                             B   
+ 30P X L XREF=D                                                                 
+ 30P 2 L  ISPIN=0                                                               
+ 30P   G  2505.8   5      10010  D+Q     +0.01   3                              
+ 30P   G  3831.5   5       9710  D+Q     +0.02   5                              
+ 30P   G  6560.1   5       43 7                                                 
+ 30P   G  7305.6   6       47 7  D+Q     -1.4    2                              
+ 30P   G  8014.3   5       47 7  D+Q     +0.30   6                              
+ 30P   L 8032      3 (2-,1-)           50 EV                                C   
+ 30P X L XREF=DG                                                                
+ 30P   L 8053      3                                                            
+ 30P X L XREF=D                                                                 
+ 30P   L 8096      3  1+               7.4 KEV                              C   
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=0                                                                  
+ 30P   L 8107      3  2+               0.28 KEV                                 
+ 30P X L XREF=DFG                                                               
+ 30P  cL J$L=2 and {+29}Si(p,|g) data                                           
+ 30P   L 8151      3                                                            
+ 30P X L XREF=D                                                                 
+ 30P   L 8166      3 1-                1.7 KEV                                  
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=1                                                                  
+ 30P   L 8181      3 1+                18 KEV                                   
+ 30P X L XREF=DG                                                                
+ 30P  cL J$L=0                                                                  
+ 30P   L 8187      3 3-                0.70 KEV                                 
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=3                                                                  
+ 30P   L 8206      3 4-                40 EV                                    
+ 30P X L XREF=DF(*)G(*)                                                         
+ 30P  cL J$L=3                                                                  
+ 30P   L 8207      3 0+                13 KEV                                   
+ 30P X L XREF=DF(*)G(*)                                                         
+ 30P  cL J$L=0                                                                  
+ 30P   L 8209      3 0-                30 KEV                                   
+ 30P X L XREF=DF(*)G(*)                                                         
+ 30P  cL J$L=1                                                                  
+ 30P   L 8242      10(4,5,6)-                                                   
+ 30P X L XREF=G                                                                 
+ 30P  cL J$L=5                                                                  
+ 30P   L 8271      3                                                            
+ 30P X L XREF=D                                                                 
+ 30P   L 8276      3 2-                60 EV                                    
+ 30P X L XREF=DF(*)                                                             
+ 30P  cL J$L=3                                                                  
+ 30P   L 8278      3 2+                1.3 KEV                                  
+ 30P X L XREF=DF(*)G                                                            
+ 30P 2 L ISPIN=1                                                                
+ 30P  cL J$L=2                                                                  
+ 30P   L 8319      3 1+                6.0 KEV                                  
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=0                                                                  
+ 30P   L 8350      3 4-                0.17 KEV                                 
+ 30P X L XREF=DF(*)G(*)                                                         
+ 30P  cL J$L=3                                                                  
+ 30P   L 8351      3                                                            
+ 30P X L XREF=DF(*)G(*)                                                         
+ 30P   L 8352      3 2-                2.4 KEV                                  
+ 30P X L XREF=DF(*)G(*)                                                         
+ 30P  cL J$L=1                                                                  
+ 30P   L 8386      3 3+                0.10 KEV                                 
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=2                                                                  
+ 30P   L 8398      3 2+                0.24 KEV                                 
+ 30P X L XREF=DG(*)                                                             
+ 30P  cL J$L=2                                                                  
+ 30P   L 8409      3 3-                 65 EV                                   
+ 30P X L XREF=DG(*)                                                             
+ 30P  cL J$L=3 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8426      3                                                            
+ 30P X L XREF=D                                                                 
+ 30P   L 8432      3 2+                1.35 KEV                                 
+ 30P X L XREF=DG(*)                                                             
+ 30P  cL J$L=2 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8451      3 1+                2.3 KEV                                  
+ 30P X L XREF=DG(*)                                                             
+ 30P  cL J$L=0 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8484      3 4-                0.13 KEV                                 
+ 30P X L XREF=DG                                                                
+ 30P  cL J$L=3 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8497      3 1-                37 KEV                                   
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=1 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8519      3 0-                200 KEV                                  
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=1 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8526      3 (3,4,5)+                                                   
+ 30P X L XREF=DG(*)                                                             
+ 30P   L 8530                                                                   
+ 30P X L XREF=DG(*)                                                             
+ 30P   L 8557      3 1-                25 KEV                                   
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=1 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8570      3                                                            
+ 30P X L XREF=D                                                                 
+ 30P   L 8582      3 2+                0.44 KEV                                 
+ 30P X L XREF=DG                                                                
+ 30P  cL J$L=2 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8619      3 2+                0.50 KEV                                 
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=2 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8621      3 1+                4.0 KEV                                  
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=2 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8632      3 4-                0.45 KEV                                 
+ 30P X L XREF=DFG                                                               
+ 30P  cL J$L=3 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8642      3                   0.63 KEV                                 
+ 30P X L XREF=D                                                                 
+ 30P   L 8647      3 3+                70 EV                                    
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=2 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8662      3 2-                3.95 KEV                                 
+ 30P X L XREF=DG                                                                
+ 30P  cL J$L=1 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8669      3 2-                1.5 KEV                                  
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=1 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8708      3 1+                28 KEV                                   
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=0 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8730      3 4-                0.30 KEV                                 
+ 30P X L XREF=DG                                                                
+ 30P  cL J$L=3 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8755      3 (1+)              3.0 KEV                                  
+ 30P X L XREF=D                                                                 
+ 30P  cL J$L=2 ((p,|g),(|a,4n|g))                                               
+ 30P   L 8820      10                                                           
+ 30P X L XREF=G                                                                 
+
+
