@@ -1,0 +1,623 @@
+ 41SC    ADOPTED LEVELS, GAMMAS                                  01NDS    200201
+ 41SC  H TYP=FUL$AUT=JOHN A. CAMERON AND BALRAJ SINGH$CIT=NDS 94, 429 (2001)$   
+ 41SC2 H CUT=6-NOV-2001$                                                        
+ 41SC  Q  -12929   SY 16187   4 1085.07 9-6267.8841    1995AU04                 
+ 41SC cQ           |D(Q(|b{+-}))=35 (1995Au04)                                  
+ 41SC  XA41TI EC DECAY (80.4 MS)                                                
+ 41SC  XB40CA(P,G)                                                              
+ 41SC  XC40CA(P,P),(P,P'):RESONANCES                                            
+ 41SC  XD40CA(D,N)                                                              
+ 41SC  XE40CA(3HE,D),(POL 3HE,D)                                                
+ 41SC  XF40CA(A,T)                                                              
+ 41SC  XG40CA(7LI,6HE)                                                          
+ 41SC  XH40CA(12C,11B)                                                          
+ 41SC  XI40CA(13C,12B)                                                          
+ 41SC  XJ40CA(16O,15N)                                                          
+ 41SC  XK40CA(28SI,27AL)                                                        
+ 41SC  XL43CR EC2P DECAY (21.6 MS)                                              
+ 41SC c  Mass measurement: 2000HaZY                                             
+ 41SC cG E,RI,M,MR$From (p,|g)                                                  
+ 41SC cL $With S(p)=1085 keV, all excited states are proton unbound and decay   
+ 41SC2cL predominantly by proton decay to {+40}Ca                               
+ 41SC cL J$The assignments are from p(|q) implying                              
+ 41SC2cL angular distribution in {+40}Ca(p,p) and in some rare cases            
+ 41SC3cL {+40}Ca(p,p'), unless otherwise stated. |g(|q) implies angular         
+ 41SCxcL distribution in (p,|g)                                                 
+ 41SC CL T$LABEL=T1/2 OR |G                                                     
+ 41SC  L 0           7/2-              596.3 MS  17                             
+ 41SCX L XREF=BDEFGHIJKL                                                        
+ 41SC2 L %EC+%B+=100$                                                           
+ 41SC2 L MOMM1=+5.4305 18 (1990MI16)                                            
+ 41SC2 L MOME2=-0.156 3 (1990MI19,1993MI09)                                     
+ 41SC cL MOMM1$|b-NMR method. See also 1990Mi17, 1990Mi18.                      
+ 41SC2cL 1989Ra17 quote 5.5350 {I36} from an unpublished report                 
+ 41SC cL MOME2$|b-NMR method. Re-evaluation (1996SaZW) of 0.120 {I6} (1990Mi19) 
+ 41SC2cL and 0.166 {I8} (1993Mi19). See also 1993Mi37, 1993Mi40                 
+ 41SC cL T$from 1973Al11. Others: 1973Ta04, 1965Yo02, 1962Cr04, 1960Wa04,       
+ 41SC2cL 1960Ja12, 1952Ma55, 1941El03                                           
+ 41SC cL J$L(d,n)=L({+3}He,d)=L(|a,t)=3 and (pol {+3}He,d)                      
+ 41SC  L 1716.45   8 3/2-                                                       
+ 41SCX L XREF=BDEFGI                                                            
+ 41SC cL J$L(d,n)=L({+3}He,d)=L(|a,t)=1; |g to 7/2-                             
+ 41SC cL $ Radiative T{-1/2}=0.36 ps 11 from |G{-|g}=0.0013 eV 4 (1965Yo03).    
+ 41SC2 L %P>98$%IT<2                                                            
+ 41SC  G 1716.40     100                                                        
+ 41SC  L 2095.9    5 3/2+                                                       
+ 41SCX L XREF=ABDEF                                                             
+ 41SC cL J$L(d,n)=L({+3}He,d)=L(|a,t)=2; |g(|q)                                 
+ 41SC2 L %P>99$%IT<1                                                            
+ 41SC  L 2414.8    5 3/2-                                                       
+ 41SCX L XREF=BDEF                                                              
+ 41SC cL J$L(d,n)=L({+3}He,d)=1 and (pol {+3}He,d); |g feed from 5/2+           
+ 41SC2 L %P>50$%IT<50                                                           
+ 41SC  G 318.8       8       LT                                                 
+ 41SC  G 698.3       100                                                        
+ 41SC  G 2414.6      5       LT                                                 
+ 41SC  L 2588.10   7 5/2-                                                       
+ 41SCX L XREF=BD                                                                
+ 41SC cL J$|g to 3/2- and 7/2; |g(|q)                                           
+ 41SC2 L %P>90$%IT<10                                                           
+ 41SC  G 492.16      0.3     LT                                                 
+ 41SC  G 871.61      2.5     3                                                  
+ 41SC  G 2587.97     100.0   3  (M1+E2)  1.2     +11-6                          
+ 41SC  L 2666.64   7 5/2+                                                       
+ 41SCX L XREF=ABE                                                               
+ 41SC cL J$|g to 3/2- and 7/2-; log| {Ift}=5.0 from 3/2+                        
+ 41SC2 L %P>98$%IT<2                                                            
+ 41SC  G 570.70      0.6     LT                                                 
+ 41SC  G 950.15      4.4     8                                                  
+ 41SC  G 2666.51     100     8  D(+Q)    0.07    +14-7                          
+ 41SC  L 2719.17   9 1/2+                                                       
+ 41SCX L XREF=ABD                                                               
+ 41SC cL J$L(d,n)=0                                                             
+ 41SC  G 623.22      5       LT                                                 
+ 41SC  G 1002.67     100                                                        
+ 41SC  G 2719.02     7       LT                                                 
+ 41SC  L 2882.47   6 7/2+                                                       
+ 41SCX L XREF=BEFI                                                              
+ 41SC cL J$L({+3}He,d)=4 and pol({+3}He,d); |g to 3/2+                          
+ 41SC2 L %P=59 2$%IT=41 2                                                       
+ 41SC  G 786.39      0.08    3                                                  
+ 41SC  G 2882.19     100.0   3 D+(Q)     +0.05   5                              
+ 41SC  L 2972.1    2 7/2(-)                                                     
+ 41SCX L XREF=BE                                                                
+ 41SC cL J$|g(|q); mirror level to 7/2- in {+41}Ca                              
+ 41SC  G 876.1       0.2     LT                                                 
+ 41SC  G 2971.9      100       D(+Q)     0.5     +5-4                           
+ 41SC  L 3013      4 (3/2-,5/2,7/2+)                                            
+ 41SCX L XREF=B                                                                 
+ 41SC cL J$|g to 3/2+ and 7/2-                                                  
+ 41SC2 L %P>99$%IT<1                                                            
+ 41SC  G 917         100     6                                                  
+ 41SC  G 3013        15      6                                                  
+ 41SC  L 3185.1    2  (9/2+,5/2-)                                               
+ 41SCX L XREF=BEFI                                                              
+ 41SC cL J$|g(|q) favors 9/2+ over 5/2-, L({+3}He,d)=3 and pol({+3}He,d)        
+ 41SC2cL is consistent with 5/2-                                                
+ 41SC2 L %P>92$%IT<8                                                            
+ 41SC  G 465.9       0.3     LT                                                 
+ 41SC  G 596.9       0.2     LT                                                 
+ 41SC  G 770.3       0.2     LT                                                 
+ 41SC  G 1089.1      0.2     LT                                                 
+ 41SC  G 3184.9      100                                                        
+ 41SC  L 3358.1    7 (7/2,9/2,11/2)                                             
+ 41SCX L XREF=BF                                                                
+ 41SC cL J$|g from 9/2+                                                         
+ 41SC  L 3411.5    4 1/2+              1.80 KEV  18                             
+ 41SCX L XREF=ABC                                                               
+ 41SC  G 529.1       3       LT                                                 
+ 41SC  G 692.3       3       LT                                                 
+ 41SC  G 744.8       3       LT                                                 
+ 41SC  G 823.3       2       LT                                                 
+ 41SC  G 996.7       3       LT                                                 
+ 41SC  G 1694.9      100                                                        
+ 41SC  G 3411.2      2       LT                                                 
+ 41SC  L 3465      4 1/2-              50 KEV    20                             
+ 41SCX L XREF=B(*)CD(*)E(*)                                                     
+ 41SC  L 3480      5 1/2-              12.0 KEV  15                             
+ 41SCX L XREF=B(*)CD(*)E(*)                                                     
+ 41SC  G 1759        100                                                        
+ 41SC  G 3475        4       LT                                                 
+ 41SC  L 3562.7    3 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=AB                                                                
+ 41SC cL J$log| {Ift}=4.9 from 3/2+                                             
+ 41SC  G 1846.1      100                                                        
+ 41SC  G 3562.4      13      LT                                                 
+ 41SC  L 3678      3 (3/2-,5/2,7/2-)                                            
+ 41SCX L XREF=B                                                                 
+ 41SC cL J$|g's to 3/2- and 7/2-                                                
+ 41SC  G 1962        56      19                                                 
+ 41SC  G 3678        100     19                                                 
+ 41SC  L 3.69E3    13 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=5.6 from 3/2+                                             
+ 41SC cL E$this level may correspond to 3678 level in (p,p)                     
+ 41SC  L 3696.7    3 7/2+                                                       
+ 41SCX L XREF=BF                                                                
+ 41SC cL J$|g(|q)                                                               
+ 41SC  G 683.6       0.1     LT                                                 
+ 41SC  G 814.3       3.4     4                                                  
+ 41SC  G 1030.0      4.5     2   M1+E2    0.26   18                             
+ 41SC  G 1108.5      0.1     LT                                                 
+ 41SC  G 1281.9      0.1     LT                                                 
+ 41SC  G 1600.7      1.1     1                                                  
+ 41SC  G 3696.4      100.0   4   E1(+M2)   0.06  10                             
+ 41SC  L 3731      3 1/2-              12.0 KEV  12                             
+ 41SCX L XREF=CDE                                                               
+ 41SC cL J$L({+3}He,d)=1; p(|q)                                                 
+ 41SC  L 3774      3 3/2-              0.70 KEV  7                              
+ 41SCX L XREF=A(*)BCD(*)F(*)                                                    
+ 41SC  G 3773        100                                                        
+ 41SC  L 3780.7    2 (5/2+)                                                     
+ 41SCX L XREF=A(*)BD(*)F(*)                                                     
+ 41SC cL J$p(|q) and |g to 7/2-                                                 
+ 41SC  G 767.6       1.5     15                                                 
+ 41SC  G 898.3       3.0     15                                                 
+ 41SC  G 1061.5      1.5     15                                                 
+ 41SC  G 1114.9      9.0     15                                                 
+ 41SC  G 1192.5      1.5     15                                                 
+ 41SC  G 1684.7      3.0     15                                                 
+ 41SC  G 2064.1      30.0    15                                                 
+ 41SC  G 3780.4      100.0   45                                                 
+ 41SC  L 3788      5  3/2+,5/2+         0.20 KEV 2                              
+ 41SCX L XREF=BCF(*)                                                            
+ 41SC  L 3810      7 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=AF                                                                
+ 41SC cL J$log| {Ift}=5.20 from 3/2+                                            
+ 41SC  L 3905      20                                                           
+ 41SCX L XREF=F                                                                 
+ 41SC  L 3968      5 1/2+                 4 KEV                                 
+ 41SCX L XREF=ABC                                                               
+ 41SC cL J$p(|q) and |g(|q)                                                     
+ 41SC  L 4022.8    4 7/2-                                                       
+ 41SCX L XREF=BE(*)F                                                            
+ 41SC cL J$|g(|q). But L({+3}He,d)=(3,4) suggests 5/2-,7/2+                     
+ 41SC2cL for a 4030 {I20} group                                                 
+ 41SC  G 1140.4      1.0     LT                                                 
+ 41SC  G 1303.6      0.7     LT                                                 
+ 41SC  G 1356.1      33.8    14                                                 
+ 41SC  G 1434.6      2.8     7                                                  
+ 41SC  G 1926.8      0.7     7                                                  
+ 41SC  G 2306.2      3.2     8                                                  
+ 41SC  G 4022.5      100.0   14  D+Q      +1.11  +41-37                         
+ 41SC  L 4030.2    6 7/2-                                                       
+ 41SCX L XREF=BE(*)F                                                            
+ 41SC cL J$|g(|q). See also comment for 4022.8 level                            
+ 41SC  G 1147.8      0.4     LT                                                 
+ 41SC  G 1442.0      0.3     LT                                                 
+ 41SC  G 1934.2      0.2     LT                                                 
+ 41SC  G 2313.6      2.0     6                                                  
+ 41SC  G 4029.9      100.0   6  M1+E2    +1.14   15                             
+ 41SC  L 4245      4 5/2+                                                       
+ 41SCX L XREF=AB                                                                
+ 41SC cL J$|g(|q)                                                               
+ 41SC  G 1232        29      2                                                  
+ 41SC  G 1363        23      1                                                  
+ 41SC  G 1526        0.2     LT                                                 
+ 41SC  G 1578        8.4     6  M1+E2     -0.14  9                              
+ 41SC  G 1657        0.8     2                                                  
+ 41SC  G 1830        1.2     4                                                  
+ 41SC  G 2149        100     2  M1+E2     -0.06  2                              
+ 41SC  G 2529        0.4     4                                                  
+ 41SC  G 4245        32.9    10 E1(+M2)   -0.03  5                              
+ 41SC  L 4328      3 5/2+                                                       
+ 41SCX L XREF=A(4317)B                                                          
+ 41SC cL J$log| {Ift}=5.34 from 3/2+ and |g to 7/2-                             
+ 41SC  G 1661        1.2     LT                                                 
+ 41SC  G 1740        23      2                                                  
+ 41SC  G 1913        1.1     LT                                                 
+ 41SC  G 2232        0.7     LT                                                 
+ 41SC  G 4328        100.0   17                                                 
+ 41SC  L 4441      4 (3/2-,5/2,7/2)                                             
+ 41SCX L XREF=B                                                                 
+ 41SC cL J$|g(|q)                                                               
+ 41SC  G 1255        54      4                                                  
+ 41SC  G 1558        21      5                                                  
+ 41SC  G 1721        2       LT                                                 
+ 41SC  G 1773        84      12                                                 
+ 41SC  G 1852        2       LT                                                 
+ 41SC  G 4440        100     5                                                  
+ 41SC  L 4504      4 3/2+              1.0 KEV   2                              
+ 41SCX L XREF=A(4512)CF(*)                                                      
+ 41SC  L 4514      4 9/2+                                                       
+ 41SCX L XREF=BEF(*)                                                            
+ 41SC cL J$L({+3}He,d)=4 and |g(|q)                                             
+ 41SC  G 4514                  D+Q       0.035   +18-35                         
+ 41SC  L 4535      4 3/2-              12 KEV    3                              
+ 41SCX L XREF=CF(*)                                                             
+ 41SC  L 4644      4 1/2-              36 KEV    10                             
+ 41SCX L XREF=C                                                                 
+ 41SC  L 4656      9 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=5.33 from 3/2+                                            
+ 41SC  L 4777      4 3/2+              3 KEV     1                              
+ 41SCX L XREF=AC                                                                
+ 41SC  L 4810      3 (5/2-,9/2+)                                                
+ 41SCX L XREF=BE                                                                
+ 41SC cL J$|g(|q) and L({+3}He,d)=(3,4)                                         
+ 41SC  G 4810                  D+Q                                              
+ 41SC  L 4869      4 5/2+              2.0 KEV   5                              
+ 41SCX L XREF=ABC                                                               
+ 41SC  L 4929      5 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=4.20 from 3/2+                                            
+ 41SC  L 4947      4 5/2+              1.0 KEV   2                              
+ 41SCX L XREF=C                                                                 
+ 41SC  L 4951      4 5/2-              2.0 KEV   4                              
+ 41SCX L XREF=BCD                                                               
+ 41SC  G 4953                   D+Q      +0.25   9                              
+ 41SC  L 5011      3 7/2-                                                       
+ 41SCX L XREF=BF(*)                                                             
+ 41SC cL J$|g(|q)                                                               
+ 41SC  G 5011                   D+Q      0.81    16                             
+ 41SC  L 5021      4 1/2+              6 KEV     2                              
+ 41SCX L XREF=A(5014)CF(*)                                                      
+ 41SC  L 5036.8    5 9/2+              0.4 KEV   1                              
+ 41SCX L XREF=BCDEF(*)I                                                         
+ 41SC cL J$p(|q) and |g(|q)                                                     
+ 41SC  G 1678.8      3.8     7                                                  
+ 41SC  G 2154.5      36      3                                                  
+ 41SC  G 5036.6      100     3 E1(+M2)   +0.017  +8-15                          
+ 41SC  L 5074      4 1/2-              3 KEV     1                              
+ 41SCX L XREF=C                                                                 
+ 41SC  L 5083      4 3/2+              0.7 KEV   2                              
+ 41SCX L XREF=A(5073)C                                                          
+ 41SC  L 5143      4 3/2-              3 KEV     1                              
+ 41SCX L XREF=BC                                                                
+ 41SC  G 5143                  (E2)                                             
+ 41SC  L 5167      5                                                            
+ 41SCX L XREF=B                                                                 
+ 41SC  L 5200      7                                                            
+ 41SCX L XREF=B                                                                 
+ 41SC  L 5225      9                                                            
+ 41SCX L XREF=B                                                                 
+ 41SC  L 5324      7                                                            
+ 41SCX L XREF=B                                                                 
+ 41SC  L 5356      5 3/2+              3 KEV     1                              
+ 41SCX L XREF=C                                                                 
+ 41SC  L 5376      4 5/2+              7 KEV     2                              
+ 41SCX L XREF=ABC                                                               
+ 41SC  G 5379                  (E1,M2)                                          
+ 41SC  L 5396      5 3/2-              4 KEV     1                              
+ 41SCX L XREF=C                                                                 
+ 41SC  L 5419      5 5/2+              18 KEV    5                              
+ 41SCX L XREF=CE                                                                
+ 41SC  L 5490      5 1/2-              12 KEV    4                              
+ 41SCX L XREF=C                                                                 
+ 41SC  L 5494      5 1/2+              1.0 KEV   2                              
+ 41SCX L XREF=AC                                                                
+ 41SC  L 5521      5 5/2-              0.5 KEV   2                              
+ 41SCX L XREF=BCE(*)                                                            
+ 41SC  L 5535      4 3/2-              20 KEV    5                              
+ 41SCX L XREF=BCE(*)F(*)                                                        
+ 41SC  L 5568      9                                                            
+ 41SCX L XREF=BE(*)F(*)                                                         
+ 41SC  L 5578      4  3/2+,5/2+        6 KEV     2                              
+ 41SCX L XREF=ABCF(*)                                                           
+ 41SC  G 5578                  (E1,M2)                                          
+ 41SC  L 5650      5 5/2-              3 KEV     1                              
+ 41SCX L XREF=BC                                                                
+ 41SC  G 5650                  (M1,E2)                                          
+ 41SC  L 5691      5 1/2-              1.0 KEV   3                              
+ 41SCX L XREF=BC                                                                
+ 41SC  L 5705      5 1/2-              12 KEV    4                              
+ 41SCX L XREF=BC                                                                
+ 41SC  L 5709      5 5/2-              12 KEV    4                              
+ 41SCX L XREF=BCDE                                                              
+ 41SC  G 5710                  (M1,E2)                                          
+ 41SC  L 5755      5 3/2-              7 KEV     3                              
+ 41SCX L XREF=C                                                                 
+ 41SC  L 5771      4 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=AB                                                                
+ 41SC cL J$log| {Ift}=4.86 from 3/2+                                            
+ 41SC  L 5801      8                                                            
+ 41SCX L XREF=B                                                                 
+ 41SC  L 5810      4                                                            
+ 41SCX L XREF=B                                                                 
+ 41SC  L 5838      5 3/2+,5/2+         8.7 KEV                                  
+ 41SCX L XREF=AC                                                                
+ 41SC  L 5861      15 5/2-                                                      
+ 41SCX L XREF=B(*)DE                                                            
+ 41SC cL J$L({+3}He,d)=3, (pol {+3}He,d) and pn(|q) in (d,n)                    
+ 41SC  L 5867      4 5/2+              12.3 KEV                                 
+ 41SCX L XREF=B(*)C                                                             
+ 41SC  L 5886      10 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=AB(*)                                                             
+ 41SC cL J$log| {Ift}=4.74 from 3/2+                                            
+ 41SC  L 5915      11                                                           
+ 41SCX L XREF=B                                                                 
+ 41SC  L 5939      3 3/2+               55 EV    5                              
+ 41SCX L XREF=ABC                                                               
+ 41SC2 L ISPIN=3/2                                                              
+ 41SC cL J$p(|q); log| {Ift}=3.35 from 3/2+                                     
+ 41SC2 L %P=100                                                                 
+ 41SC  G 1694         100    12                                                 
+ 41SC  G 2158           8    5                                                  
+ 41SCF G FL=3780.7                                                              
+ 41SC  G 2528          30    8                                                  
+ 41SC  G 3272          28    7                                                  
+ 41SC  G 3843          22    LT                                                 
+ 41SC  L 5971      5 5/2-,7/2-           4.2 KEV 20                             
+ 41SCX L XREF=B(*)CD                                                            
+ 41SC cL $|G from (p,|g). Other: 6.6 keV from (p,p)                             
+ 41SC  G 5973                                                                   
+ 41SC cG TI$for J=5/2; 0.069 eV for J=7/2                                       
+ 41SC  L 5986      5 3/2-                8.7 KEV                                
+ 41SCX L XREF=B(*)C                                                             
+ 41SC  L 6013      5 1/2+               26.7 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6036      10(1/2,3/2,5/2)+                                             
+ 41SCX L XREF=AB(*)                                                             
+ 41SC cL J$log| {Ift}=4.81 from 3/2+                                            
+ 41SC  L 6047      5 3/2-                12.1 KEV                               
+ 41SCX L XREF=B(*)C                                                             
+ 41SC cL $Other |G=3.9 keV {I10} for 6058 {I11} in (p,|g)                       
+ 41SC  L 6085      5 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=ABC                                                               
+ 41SC cL J$log| {Ift}=4.77 from 3/2+                                            
+ 41SC  L 6112      11                                                           
+ 41SCX L XREF=A(6102)B                                                          
+ 41SC  L 6116      11                                                           
+ 41SCX L XREF=B                                                                 
+ 41SC  L 6131      5 3/2+,5/2+           2.9 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6148      5 5/2+                2.9 KEV                                
+ 41SCX L XREF=ABC                                                               
+ 41SC  G 6149                                                                   
+ 41SC  L 6203      5 3/2-                6.5 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6236      5 5/2-,7/2-           8.3 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6259      5 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=A(6270)C                                                          
+ 41SC cL J$log| {Ift}=4.6 from 3/2+                                             
+ 41SC  L 6314      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6326      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6335      5 1/2+               27.9 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6361      5 5/2+                2.8 KEV                                
+ 41SCX L XREF=A(6372)C                                                          
+ 41SC  L 6399      5 3/2+,5/2+           8.1 KEV                                
+ 41SCX L XREF=A(6435)C                                                          
+ 41SC  L 6414      5 5/2+                6.0 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6435      5 5/2-               10.4 KEV                                
+ 41SCX L XREF=CD(*)                                                             
+ 41SC  L 6458      5 (3/2-)              4.9 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6469      5 5/2-               12.1 KEV                                
+ 41SCX L XREF=CD(*)E                                                            
+ 41SC  L 6474      5 (1/2,3/2,5/2)+                                             
+ 41SCX L XREF=A(6465)C                                                          
+ 41SC cL J$log| {Ift}=4.8 from 3/2+                                             
+ 41SC  L 6507      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6513      5 5/2+                18.8 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6522      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6533      5 5/2+                 1.3 KEV                               
+ 41SCX L XREF=A(6557)C                                                          
+ 41SC  L 6572      5 5/2-                 4.5 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6585      5 1/2-                 4.5 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6589      5 1/2+                                                       
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6610      5 1/2+                 9.5 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6622      5 5/2+                 3.2 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6643      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6651      5 9/2+                 4.0 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6673      40 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=A                                                                 
+ 41SC cL E$this level may correspond to 6643 and/or 6700 levels in (p,p)        
+ 41SC cL J$log| {Ift}=4.7 from 3/2+                                             
+ 41SC  L 6691      5 3/2-                 3.2 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6700      5 5/2+                 6.2 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6730      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6741      5 5/2+                 7.2 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6752      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6772      5 (3/2-)                                                     
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6783      5 5/2-                10.4 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6824      5 5/2+                 4.1 KEV                               
+ 41SCX L XREF=AC                                                                
+ 41SC  L 6841      5 5/2-                 6.3 KEV                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 6857      5 3/2-                 9.6 KEV                               
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 6872      5 (1/2,3/2)-                                                 
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 6880      5 9/2+                 1.3 KEV                               
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 6893      28 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=4.49 from 3/2+                                            
+ 41SC  L 6895      5 (9/2+)               3.4 KEV                               
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 6908      5 5/2-                 6.9 KEV                               
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 6923      5 (5/2)-               4.5 KEV                               
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 6947      5 (1/2,3/2,5/2)+       1.3 KEV                               
+ 41SCX L XREF=ACE(*)                                                            
+ 41SC cL J$log| {Ift}=5.40 from 3/2+                                            
+ 41SC  L 6970      5 5/2+                 20 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC cL $Also |G=6.9 keV                                                       
+ 41SC  L 6996      5 9/2+               1.3 KEV                                 
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7004      5 (9/2+)             1.0 KEV  LT                             
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7022      5                                                            
+ 41SCX L XREF=A(*)C                                                             
+ 41SC  L 7033      5 5/2+               3.2 KEV                                 
+ 41SCX L XREF=A(*)C                                                             
+ 41SC  L 7069      5 5/2-               9.3 KEV                                 
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7078      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7107      5 5/2+               19.8 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC cL $Also |G=3.4 keV                                                       
+ 41SC  L 7113      5 (3/2,5/2)-         14.0 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7123      5                    7.7 KEV                                 
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7142      5 5/2+               12.0 KEV                                
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7177      5  1/2-,3/2+,7/2-                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7182      19 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=5.3 from 3/2+                                             
+ 41SC cL E$this level may correspond to 7177, 7201 and/or 7206 levels in (p,p)  
+ 41SC  L 7201      5 5/2+               40 KEV                                  
+ 41SCX L XREF=CI(*)                                                             
+ 41SC  L 7206                                                                   
+ 41SCX L XREF=CI(*)                                                             
+ 41SC  L 7216                                                                   
+ 41SCX L XREF=CI(*)                                                             
+ 41SC  L 7245      5 5/2-               12 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7264                                                                   
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7279      5 5/2+               9 KEV                                   
+ 41SCX L XREF=A(*)C                                                             
+ 41SC  L 7297      5  (7/2+)                                                    
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7313                                                                   
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7333      5 5/2+               23 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7338      5 5/2-                                                       
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7347      5 (5/2+)              10 KEV                                 
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7352      5 (9/2+)             8 KEV                                   
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7360      19 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=5.3 from 3/2+                                             
+ 41SC cL E$this level may correspond to the 7347 and/or 7382 levels in (p,p)    
+ 41SC  L 7382                                                                   
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7396      5  (9/2+)                                                    
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7406      5  (5/2)                                                     
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7421                                                                   
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7469      5 (3/2)+                                                     
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7474      5                     44 KEV                                 
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7489      5  (7/2-,9/2+)                                               
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7494                                                                   
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7523      5  (7/2+)                                                    
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7538      5  3/2(+)            8 KEV                                   
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7557      5 3/2-               12 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7572      5 3/2+               10 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7606      5 (5/2-)                                                     
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7617      38 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=5.4 from 3/2+                                             
+ 41SC cL E$this level may correspond to 7572 and/or 7650 levels in (p,p)        
+ 41SC  L 7640      5  (9/2+)            30 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7650      5 (5/2+)                                                     
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7660      5 1/2-               30 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7718      5 3/2-               20 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7742      5  (3/2+)                                                    
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7777      5 7/2-               35 KEV                                  
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7815      5 (1/2)                                                      
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7830      5 5/2-               33 KEV                                  
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7855      5 (9/2)+             27 KEV                                  
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 7874      5 (1/2-)             20 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7894      5  (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=AC                                                                
+ 41SC cL J$log| {Ift}=5.3 from 3/2+                                             
+ 41SC cL E$7903 {I50} in {+41}Ti |e decay corresponds to 7894 and/or 7903 levels
+ 41SC2cL in (p,p)                                                               
+ 41SC  L 7903      5 (1/2)                                                      
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7938      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7947      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7962      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 7980      60 (1/2,3/2,5/2)+                                            
+ 41SCX L XREF=A                                                                 
+ 41SC cL J$log| {Ift}=5.1 from 3/2+                                             
+ 41SC cL E$this level may correspond to any of the levels between               
+ 41SC2cL 7938 and 7981 in (p,p)                                                 
+ 41SC  L 7981      5                                                            
+ 41SCX L XREF=C                                                                 
+ 41SC  L 8006      5  (3/2-)            25 KEV                                  
+ 41SCX L XREF=C                                                                 
+ 41SC  L 8089      5 (3/2)-             50 KEV                                  
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 8147      5 (5/2+)             75 KEV                                  
+ 41SCX L XREF=CE(*)                                                             
+ 41SC  L 8450      10(9/2+)                                                     
+ 41SCX L XREF=C                                                                 
+ 41SC  L 8645      10(9/2+)                                                     
+ 41SCX L XREF=CE(8594)I                                                         
+ 41SC  L 8879      10 9/2+              8 KEV                                   
+ 41SCX L XREF=C                                                                 
+ 41SC  L 9128      10 9/2+              18 KEV                                  
+ 41SCX L XREF=CE(*)I(*)                                                         
+ 41SC cL E$9600 {I520} in ({+3}He,d),(pol {+3}He,d)                             
+ 41SC  L 9269      10 9/2+              10 KEV                                  
+ 41SCX L XREF=CE(*)I(*)                                                         
+ 41SC  L 9415      10 9/2+              11 KEV                                  
+ 41SCX L XREF=CE(*)I(*)                                                         
+ 41SC  L 9513      10 9/2+              15 KEV                                  
+ 41SCX L XREF=CE(*)I(*)                                                         
+ 41SC  L 9659      10 9/2+              16 KEV                                  
+ 41SCX L XREF=CE(*)I(*)                                                         
+ 41SC  L 9698      10 9/2+              12 KEV                                  
+ 41SCX L XREF=CE(*)I(*)                                                         
+ 41SC  L 9815      10 9/2+              13 KEV                                  
+ 41SCX L XREF=CE(*)I(*)                                                         
+ 41SC  L 10500                                                                  
+ 41SCX L XREF=E                                                                 
+ 41SC cL E$from 1991Gu02                                                        
+ 41SC  L 11.10E3   52 (9/2+)                                                    
+ 41SCX L XREF=EI                                                                
+ 41SC cL J$from ({+3}He,d),(pol {+3}He,d)                                       
+ 41SC cL E$11110 {I520} (1991Gu02)                                              
+ 41SC  L 13.4E3    20 (7/2+)                                                    
+ 41SCX L XREF=E                                                                 
+ 41SC cL J$from ({+3}He,d),(pol {+3}He,d)                                       
+ 41SC cL E$13444 {I2000}                                                        
+
