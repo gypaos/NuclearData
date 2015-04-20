@@ -1,0 +1,702 @@
+ 33CL    ADOPTED LEVELS, GAMMAS                                  11NDS    201105
+ 33CL  H TYP=FUL$AUT=JUN CHEN AND BALRAJ SINGH$CIT=NDS 112, 1393 (2011)$        
+ 33CL2 H CUT=31-Mar-2011$                                                       
+ 33CL  Q -11619.0  6 15745   7 2276.7  5 -6475.6 8     2009AUZZ,2003Au03        
+ 33CL cQ $Q(|b{+-}n)=-26874.2 {i18} (2003Au03, 2009AuZZ)                        
+ 33CL c  {+33}Cl first identified and produced in {+32}S(d,n) reaction at 8 MeV 
+ 33CL2c  bombarding energy (1940Ho01)                                           
+ 33CL  XA33AR EC DECAY (173.0 MS)                                               
+ 33CL  XB35CA EC2P DECAY (25.7 MS)                                              
+ 33CL  XC32S(P,G)                                                               
+ 33CL  XD32S(P,P),(POL P,P):RES                                                 
+ 33CL  XE2H(32S,N)                                                              
+ 33CL  XF32S(D,N)                                                               
+ 33CL  XG32S(3HE,D)                                                             
+ 33CL  XH35CL(P,T)                                                              
+ 33CL cG E$ Values with |DE are primarily from |e and (p,|g). Taken the         
+ 33CL2cG weighted average when E|g values are also available from others. Others
+ 33CL3cG are deduced from level-energy differences.                             
+ 33CL cG M$ From (p,|g) by |g(|q) or |g|g(|q). |g(|q) or                        
+ 33CL2cG |g|g(|q) give D and Q; M1 and E2, or, E1 and M2 have been used         
+ 33CL3cG when spin-parities are established from other methods.                 
+ 33CL cG RI,MR$ From (p,|g), unless otherwise indicated.                        
+ 33CL cG RI(A)$ 1978En02 adopted the value from (p,|g) in Gordon's thesis       
+ 33CL2cG (University of Kansas, 1968)                                           
+ 33CL cL E$ From Adopted E|g data when measured |g-ray energies are available.  
+ 33CL2cL In other cases weighted averages are taken of values available         
+ 33CL3cL from different reactions.                                              
+ 33CL cL E(A)$ From (p,p)                                                       
+ 33CL cL E(B)$ From (p,|g)                                                      
+ 33CL cL E(C)$ From |b{++} decay                                                
+ 33CL cL J$ In particle-transfer reactions, target J|p=0+ for {+32}S in         
+ 33CL2cL (d,n) and ({+3}He,d) reactions, giving {+33}Cl J|p=1/2+ when L=0,      
+ 33CL3cL 1/2- or 3/2- when L=1, 3/2+ or 5/2+ when L=2, 5/2- or 7/2- when L=3;   
+ 33CL4cL target J|p=3/2+ for {+35}Cl in (p,t) reactions, giving {+33}Cl J|p=3/2+
+ 33CL5cL when L=0, (1/2:7/2)+ when L=2 for strong levels.                       
+ 33CL CL T$LABEL=T{-1/2} or |G                                                  
+ 33CL cL T$ Half-lives are primarily from (p,|g) using DSAM (Doppler shift      
+ 33CL2cL attenuation method). The widths are from (p,|g) and (p,p)              
+ 33CL PN                                                                     6  
+ 33CL  L 0           3/2+              2.511 S   4                              
+ 33CLX L XREF=ABCDEFGH                                                          
+ 33CL2 L %EC+%B+=100$                                                           
+ 33CL2 L MOMM1=+0.7549 3 (2004Ma98)                                             
+ 33CL cL MOMM1$ |b-NMR method. Other: +0.7523 {I16}                             
+ 33CL2cL (1987Ro03,1986Ro20,1989Ra17,2005St24)                                  
+ 33CL cL J$from L-1/2 and L({+3}He,d)=L(d,n)=2                                  
+ 33CL cL $T{-1/2}: weighted average of 2.53 s {I2} (1958Mu05), 2.51 s {I2}      
+ 33CL2cL (1960Ja12), 2.47 s {I2} (1970Sc16), 2.52 s {I14} (1972Es02),           
+ 33CL3cL 2.513 s {I4} (1973Ta04), and 2.507 s {I8} (1977Az01). Others: 2.8 s    
+ 33CL4cL (1940Ho01), 2.4 s {I2} (1941Wh02), 2.8 s (1948Sc20), 1.8 {I1}          
+ 33CL5cL (1951Bo56), 1.7 s (1954Ty33), 2.9 s {I1} (1960Wa04),  1962Va27,        
+ 33CL6cL 2.5 s {I5} (1970Ba65)                                                  
+ 33CL  L 810.55    161/2+              1.2 PS    2                              
+ 33CLX L XREF=ACEFG                                                             
+ 33CL cL J$from L+1/2 and L({+3}He,d)=0; log| {Ift}=4.516 {I10} from 1/2+       
+ 33CL cL $ T{-1/2}: from {+2}H({+32}S,n) using DSAM method.                     
+ 33CL DL $E=810.3 5 in A,810.7 3 in C,810.51 16 in E,812 4 in F,810 4 in G,     
+ 33CL2DL 810 40 in H.                                                           
+ 33CL  G 810.55    16 100       [M1]                                            
+ 33CL DG $E|g=810.6 2 (I|g=100) in A,810.7 3 (I|g=100) in C, 810.51 16 (I|g=100)
+ 33CL2DG in E                                                                   
+ 33CLB G BM1W=0.034 6                                                           
+ 33CL  L 1986.3     35/2+              55 FS     11                             
+ 33CLX L XREF=CFGH                                                              
+ 33CL cL J$from |g|g(|q) in (p,|g)                                              
+ 33CL DL $E=1986.5 4 in C,1993 6 in F,1978 14 in G,1990 40 in H                 
+ 33CL  G 1175.7      3       LT                                                ?
+ 33CL DG $E|g=1175.8 (I|g<3) in C                                               
+ 33CL  G 1986.5    4 100        M1+E2    +0.51   6                              
+ 33CL DG $E|g=1986.5 4 (I|g=100) in C                                           
+ 33CLB G BM1W=0.040 9$BE2W=11 3                                                 
+ 33CL  L 2352.0    3 3/2+               70 FS    20                             
+ 33CLX L XREF=ACFGH                                                             
+ 33CL DL $E=2352.3 {I4} in A, 2351.8 3 in C,2351 5 in F,2353 9 in G,2350 40 in  
+ 33CL2DL H                                                                      
+ 33CL cL J$from |g(|q) in (p,|g); log| {Ift}=5.54 {I8} from 1/2+                
+ 33CL  G 1541.5    5 100     3  M1+E2    +0.41   8                              
+ 33CL DG $E|g=1541.5 5 (I|g=59 18) in A,1541.1 (I|g=74 2) in C                  
+ 33CLB G BM1W=0.054 16$BE2W=16 7                                                
+ 33CL  G 2351.9    3 35      3  M1+E2    -1.3    4                              
+ 33CL DG $E|g=2352.4 6 (I|g=41 12) in A,2351.8 3 (I|g=26 2) in C                
+ 33CLB G BM1W=0.0023 12$BE2W=2.9 11                                             
+ 33CL  L 2685.4     4 (5/2)-                                                    
+ 33CL2 L WIDTHG=4E-6 EV 6                                                       
+ 33CLX L XREF=CFG                                                               
+ 33CL cL J$L(d,n)=L({+3}He,d)=3 and |g(|q) in (p,|g); |g to 3/2+                
+ 33CL DL $E=2685.5 5 in (p,|g),2688 4 in (d,n),2679 4 in (3He,d)                
+ 33CL  G 699.1       100     16 E1(+M2)   0.0    6                              
+ 33CL DG $E|g=699.2 (I|g=69 11) in (p,|g)                                       
+ 33CL  G 1874.8      14      LE                                                ?
+ 33CL DG $E|g=1875 (I|g<14) in (p,|g)                                           
+ 33CL  G 2685.5    4 45      9                                                  
+ 33CL DG $E|g=2685.5 (I|g=31 6) in (p,|g)                                       
+ 33CL  L 2839.0    3 5/2+              3 FS      1                              
+ 33CLX L XREF=C                                                                 
+ 33CL DL $E=2838.9 8 in (p,|g)                                                  
+ 33CL cL J$from |g(|q) in (p,|g); RUL                                           
+ 33CL  G 2028.4      1.0     4   [E2]                                           
+ 33CL DG $E|g=2028.3 (I|g=1.0 4) in (p,|g)                                      
+ 33CLB G BE2W=9 5                                                               
+ 33CL  G 2839.0    3 100     4  M1+E2    -0.10   2                              
+ 33CL DG $E|g=2839.0 3 (I|g=99 4) in (p,|g)                                     
+ 33CLB G BM1W=0.31 11$BE2W=1.6 9                                                
+ 33CL  L 2846.3    3 3/2-              0.7 FS    LT                             
+ 33CL2 L WIDTHG=0.07 EV 2                                                       
+ 33CLX L XREF=CFG                                                               
+ 33CL DL $E=2846.5 3 in (p,|g),2851 4 in (d,n),2839 4 in (3He,d)                
+ 33CL cL J$from |g(|q) in (p,|g) and L(d,n)=L({+3}He,d)=1                       
+ 33CL  G 2035.7      100     8  E1                                              
+ 33CL DG $E|g=2035 (I|g=53 4) in (p,|g)                                         
+ 33CLB G BE1W>0.0063                                                            
+ 33CL  G 2846.3    3 89      8  E1                                              
+ 33CL DG $E|g=2846.3 3 (I|g=47 4) in (p,|g)                                     
+ 33CLB G BE1W>0.0021                                                            
+ 33CL  L 2975.4    3 7/2+              60 FS     14                             
+ 33CLX L XREF=CGH                                                               
+ 33CL DL $E=2975.4 3 in (p,|g),2980 9 in (3He,d),2950 40 in (p,t)               
+ 33CL cL J$from |g(|q) in (p,|g) and L(p,t)=2                                   
+ 33CL  G 989.1       18      5  M1+E2    +0.31   3                              
+ 33CL DG $E|g=988.9 (I|g=15 4) in (p,|g)                                        
+ 33CLB G BM1W=0.053 20$BE2W=21 9                                                
+ 33CL  G 2975.4    3 100     5 (E2(+M3)) +0.09   9                              
+ 33CL DG $E|g=2975.4 3 (I|g=85 4) in (p,|g)                                     
+ 33CLB G BE2W=5.4 14                                                            
+ 33CL  L 3816.3     35/2+                                                       
+ 33CL2 L WIDTHG>8.8E-3 EV                                                       
+ 33CLX L XREF=C                                                                 
+ 33CL DL $E=3816.1 3 in (p,|g)                                                  
+ 33CL cL J$from |g(|q); RUL                                                     
+ 33CL  G 840.9       18.6    23                                                 
+ 33CL DG $E|g=841 (I|g=8 1) in (p,|g)                                           
+ 33CL  G 977.3       28      5   M1+E2   +0.47   16                             
+ 33CL DG $E|g=977 (I|g=12 2) in (p,|g)                                          
+ 33CLB G BM1W>0.046$BE2W>42                                                     
+ 33CL  G 1464.3      100     7  M1+E2    +0.17   4                              
+ 33CL DG $E|g=1464 (I|g=43 3) in (p,|g)                                         
+ 33CLB G BM1W>0.6$BE2W>3.3                                                      
+ 33CL  G 1829.9      49      7  M1+E2    -0.22   3                              
+ 33CL DG $E|g=1830 (I|g=21 3) in (p,|g)                                         
+ 33CLB G BM1W>0.014$BE2W>0.9                                                    
+ 33CL  G 3005.6      7.0     23                                                 
+ 33CL DG $E|g=3005 (I|g=3 1) in (p,|g)                                          
+ 33CL  G 3816.1    3 30      5   M1+E2   -2.5    3                              
+ 33CL DG $E|g=3816.1 3 (I|g=13 2) in (p,|g)                                     
+ 33CLB G BM1W>1.4E-4$BE2W>0.23                                                  
+ 33CL  L 3971.2    2 3/2+              5 KEV     3                              
+ 33CLX L XREF=ACH                                                               
+ 33CL DL $E=3971 1 in (|b{+}),3971.2 2 in (p,|g)                                
+ 33CL cL J$from |g(|q) and |g|g(|q) in (p,|g); log| {Ift}=5.744 {I24} from 1/2+ 
+ 33CL  G 1132.2      16      8                                                  
+ 33CL DG $E|g=1133 (I|g=8 4) in (p,|g)                                          
+ 33CL  G 1619.2      16      4                                                  
+ 33CL DG $E|g=1620 (I|g=8 2) in (p,|g)                                          
+ 33CL  G 1984.8      32      4                                                  
+ 33CL DG $E|g=1985 (I|g=16 2) in (p,|g)                                         
+ 33CL  G 3160.5      36      4                                                  
+ 33CL DG $E|g=3161 (I|g=18 2) in (p,|g)                                         
+ 33CL  G 3970.9    2 100     6  M1+E2    +0.8    5                              
+ 33CL DG $E|g=3970.9 2 (I|g=50 3) in (p,|g)                                     
+ 33CLB G BM1W=3.3E-3 18$BE2W<1                                                  
+ 33CL  L 3979.30   195/2-                                                       
+ 33CLX L XREF=C                                                                 
+ 33CL cL J$|g(|q), |g|g(|q); RUL                                                
+ 33CL DL $E=3979.2 2 in (p,|g)                                                  
+ 33CL  G 1003.9      0.33    22                                                 
+ 33CL DG $E|g=1005 (I|g=0.3 2) in (p,|g)                                        
+ 33CL  G 1133.0      2.4     4  M1+E2    -0.23   8                              
+ 33CL DG $E|g=1134 (I|g=2.2 4) in (p,|g)                                        
+ 33CLB G BM1W>0.047$BE2W>6                                                      
+ 33CL  G 1140.3      1.3     3  E1(+M2)  -0.03   15                             
+ 33CL DG $E|g=1142 (I|g=1.2 3) in (p,|g)                                        
+ 33CLB G BE1W>7.2E-3                                                            
+ 33CL  G 1293.9      2.5     4  (M1+E2)  +7      2                              
+ 33CL DG $E|g=1295 (I|g=2.3 4) in (p,|g)                                        
+ 33CLB G BM1W>0.03$BE2W>4                                                       
+ 33CL  G 1992.9      3.9     6                                                  
+ 33CL DG $E|g=1994 (I|g=3.5 5) in (p,|g)                                        
+ 33CL  G 3978.8    2 100.0   11  E1(+M2) -0.01   2                              
+ 33CL DG $E|g=3978.8 2 (I|g=90.5 10) in (p,|g)                                  
+ 33CLB G BE1W>9E-4                                                              
+ 33CL  L 4099.4     5 (1/2+,3/2,5/2+)                                           
+ 33CLX L XREF=C                                                                 
+ 33CL DL $E=4099.2 12 in (p,|g)                                                 
+ 33CL cL J$|g transitions to 1/2+ and 5/2+ levels.                              
+ 33CL  G 1253.1      6.7     17                                                 
+ 33CL DG $E|g=1253 (I|g=4 1) in (p,|g)                                          
+ 33CL  G 2113.0      100     7                                                  
+ 33CL DG $E|g=2113 (I|g=60 4) in (p,|g)                                         
+ 33CL  G 3288.7      30      5                                                  
+ 33CL DG $E|g=3289 (I|g=18 3) in (p,|g)                                         
+ 33CL  G 4099.1      30      3                                                  
+ 33CL DG $E|g=4099 (I|g=18 2) in (p,|g)                                         
+ 33CL  L 4112.27   203/2+              3 KEV     LT                             
+ 33CLX L XREF=AC                                                                
+ 33CL DL $E=4113 2 in (|b{+}),4112.3 2 in (p,|g)                                
+ 33CL cL J$from |g(|q) and |g|g(|q) in (p,|g); log| {Ift}=5.626 {I8} from 1/2+  
+ 33CL cL $|G from |e                                                            
+ 33CL  G 1265.9      2                                                         ?
+ 33CL DG $E|g=1267, I|g=(1) in (p,|g)                                           
+ 33CL  G 1760.2      2                                                         ?
+ 33CL DG $E|g=1761, I|g=(1) in (p,|g)                                           
+ 33CL  G 3280      50 100    10 M1+E2    +0.10   5                              
+ 33CL DG $E|g=3280 50 (I|g=50 5) in (p,|g)                                      
+ 33CLB G BM1W=3.6E-2$BE2W<0.3                                                   
+ 33CL  G 4112.0    2 100     10                                                 
+ 33CL  L 4117.5     63/2-              9.8 KEV   15                             
+ 33CLX L XREF=CDG                                                               
+ 33CL DL $E=4117 2 in (p,|g),4119 2 in (p,p),4119 10 in (3He,d)                 
+ 33CL cL J$from the analysis of |s(|q) data in (p,p) by the dispersion theory   
+ 33CL cL $|G: weighted average of 12 keV {I3} in (p,|g) and 8.5 keV {I15}       
+ 33CL2cL in (p,p)                                                               
+ 33CL  G 1271.2      1.4     7 M1                                               
+ 33CL DG $E|g=1271 (I|g=1.0 5) in (p,|g)                                        
+ 33CLB G BM1W=0.11 7                                                            
+ 33CL  G 3306.8      100     6 E1                                               
+ 33CL DG $E|g=3307 (I|g=70 4) in (p,|g)                                         
+ 33CLB G BE1W=8E-4 3                                                            
+ 33CL  G 4117.2      41      6 E1                                               
+ 33CL DG $E|g=4117 (I|g=29 4) in (p,|g)                                         
+ 33CLB G BE1W=2.9E-4 11                                                         
+ 33CL  L 4220      80                                                           
+ 33CLX L XREF=F                                                                 
+ 33CL DL $E=4220 80 in (d,n)                                                    
+ 33CL cL J$L(d,n)=1                                                             
+ 33CL  L 4439.0    2 1/2+              2 KEV     1                              
+ 33CLX L XREF=ACG                                                               
+ 33CL DL $E=4441 2 in (|b{++}),4439.0 2 in (p,|g),4450 30 in (3He,d)            
+ 33CL cL J$ log| {Ift}=4.800 {I7} from 1/2+ parent; 1/2 from (p,p) as           
+ 33CL2cL given in 1978En02 evaluation from Meyer (priv comm)                    
+ 33CL cL $|G from |e and (p,|g)                                                 
+ 33CL  G 1592.7      1.4     5                                                  
+ 33CL DG $E|g=1592 (I|g=1.2 4) in (p,|g)                                        
+ 33CL  G 2086.9      8.0     11                                                 
+ 33CL DG $E|g=2087 (I|g=7 1) in (p,|g)                                          
+ 33CL  G 3628.2      4.5     11                                                 
+ 33CL DG $E|g=3628 (I|g=4 1) in (p,|g)                                          
+ 33CL  G 4438.7    2 100.0   23                                                 
+ 33CL DG $E|g=4438.7 (I|g=88 2) in (p,|g)                                       
+ 33CL  L 4464.2     43/2+              2 KEV     LT                             
+ 33CLX L XREF=AC                                                                
+ 33CL DL $E=4466 2 in (|b{++}),4464.5 in (p,|g)                                 
+ 33CL cL J$ log| {Ift}=5.628 {I9} from 1/2+ parent; 3/2 from p|g(|q) as         
+ 33CL2cL given in 1978En02 evaluation from thesis by Alexander                  
+ 33CL3cL (University of Kansas, 1971)                                           
+ 33CL cL $|G from (|b{++})                                                      
+ 33CL  G 2477.8      55      6                                                  
+ 33CL DG $E|g=2477 (I|g=26 3) in (p,|g)                                         
+ 33CL  G 3653.4      57      6                                                  
+ 33CL DG $E|g=3653 (I|g=27 3) in (p,|g)                                         
+ 33CL  G 4464.1    4 100     9                                                  
+ 33CL DG $E|g=4464.1 4 (I|g=47 4) in (p,|g)                                     
+ 33CL  L 4517      4 1/2-              55 KEV    5                              
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=4517 4 in (p,p)                                                     
+ 33CL cL J$from the analysis of |s(|q) data in (p,p) by the dispersion theory   
+ 33CL cL $|G from (p,p)                                                         
+ 33CL  L 4746.2     4 5/2+                                                      
+ 33CLX L XREF=C                                                                 
+ 33CL DL $E=4746.1 16 in (p,|g)                                                 
+ 33CL cL J$1978En02 adopted this value from (p,|g) in thesis by Alexander       
+ 33CL2cL (University of Kansas, 1971). 1971Ha05 argued that the parity should be
+ 33CL3cL negative based on the intensity observed for |b-decay feeding the state
+ 33CL  G 1770.7      14      3                                                  
+ 33CL DG $E|g=1771 (I|g=11 2) in (p,|g)                                         
+ 33CL  G 1907.1      1.3     4                                                  
+ 33CL DG $E|g=1907 (I|g=1.0 3) in (p,|g)                                        
+ 33CL  G 2060.7      0.5     3                                                  
+ 33CL DG $E|g=2061 (I|g=0.4 2) in (p,|g)                                        
+ 33CL  G 2394.1      2.1     4                                                  
+ 33CL DG $E|g=2394 (I|g=1.6 3) in (p,|g)                                        
+ 33CL  G 2759.8      10      3                                                  
+ 33CL DG $E|g=2760 (I|g=8 2) in (p,|g)                                          
+ 33CL  G 3935.4      0.8     4                                                  
+ 33CL DG $E|g=3935 (I|g=0.6 3) in (p,|g)                                        
+ 33CL  G 4745.8      100     3                                                  
+ 33CL DG $E|g=4746 (I|g=78 2) in (p,|g)                                         
+ 33CL  L 4775.4    107/2-              0.25 KEV  5                              
+ 33CLX L XREF=CDG                                                               
+ 33CL DL $E=4775 3 in (p,|g),4777 3 in (p,p),4780 20 in (3He,d)                 
+ 33CL cL J$from R-Matrix analysis of |s(|q) data in (p,p) and L({+3}He,d)=3 and 
+ 33CL2cL also |g(|q) in (p,|g)                                                  
+ 33CL cL $|G from (p,p)                                                         
+ 33CL  G 1799.9      6       LT                                                 
+ 33CL DG $E|g=1800 (I|g<3) in (p,|g)                                            
+ 33CL  G 1929.0      17      4 E2                                               
+ 33CL DG $E|g=1929 (I|g=9 2) in (p,|g)                                          
+ 33CLB G BE2W=8 2                                                               
+ 33CL  G 1936.3      100     9 E1(+M2)   -0.02   2                              
+ 33CL DG $E|g=1036 (I|g=53 5) in (p,|g)                                         
+ 33CLB G BE1W=1.2E-3 3$BM2W<2.3                                                 
+ 33CL  G 2089.9      72      9  M1+E2    -0.32   4                              
+ 33CL DG $E|g=2090 (I|g=38 5) in (p,|g)                                         
+ 33CLB G BM1W=0.024 6$BE2W=2.1 7                                                
+ 33CL  G 2789.0      1.8     LT                                                 
+ 33CL DG $E|g=2789 (I|g<1) in (p,|g)                                            
+ 33CL  L 4835      2 3/2+                                                   C   
+ 33CLX L XREF=AC                                                                
+ 33CL DL $E=4835 2 in (|b{++}), E in (p,|g) in Alexander's thesis               
+ 33CL2DL (University of Kansas, 1971) not listed                                
+ 33CL cL J$ log| {Ift}=5.499 {I9} from 1/2+ parent; 3/2 from p|g(|q) as         
+ 33CL2cL given in 1978En02 evaluation from thesis by Alexander                  
+ 33CL3cL (University of Kansas, 1971)                                           
+ 33CL  G 2848.6      3.8                                                    A   
+ 33CL DG $E|g=2847 (I|g=3) in (p,|g) in Gordon's thesis                         
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 4024.2      21                                                     A   
+ 33CL DG $E|g=2847 (I|g=17) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 4834.6      100                                                    A   
+ 33CL DG $E|g=4833 (I|g=80) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  L 5001.9     53/2-              6 KEV     2                          A   
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=5002 2  in (p,p)                                                    
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  G 2649.8      20                                                     A   
+ 33CL DG $E|g=2650 (I|g=9) in (p,|g) in Gordon's thesis                         
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 3015.5      8.7                                                    A   
+ 33CL DG $E|g=3016 (I|g=4) in (p,|g) in Gordon's thesis                         
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 4191.1      89                                                     A   
+ 33CL DG $E|g=4191 (I|g=41) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 5001.5      100                                                    A   
+ 33CL DG $E|g=5001 (I|g=46) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  L 5084      30 1/2-             360 KEV   60                         A   
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=5084 2  in (p,p)                                                    
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 5090.1     87/2-              0.5 KEV   LE                         A   
+ 33CLX L XREF=CG                                                                
+ 33CL DL $E=5090 2  in (p,p),5090,20 in (3He,d)                                 
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  G 4279.3      41                                                     A   
+ 33CL DG $E|g=4279 (I|g=29) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 5089.7      100                                                    A   
+ 33CL DG $E|g=5090 (I|g=71) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  L 5105.5    203/2+              1.5 KEV   5                              
+ 33CLX L XREF=AD                                                                
+ 33CL DL $E=5106 2 in (|b{++}),5105 2 in (p,p)                                  
+ 33CL cL E$weighted average of 5103 {I2} in (|B{++}) and 5105 {I2} in (p,p)     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  G 2753.4      9.3                                                    A   
+ 33CL DG $E|g=2752 (I|g=8) in (p,|g) in Gordon's thesis                         
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 4294.6      7.0                                                    A   
+ 33CL DG $E|g=4293 (I|g=6) in (p,|g) in Gordon's thesis                         
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 5105.1      100                                                    A   
+ 33CL DG $E|g=5104 (I|g=86) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  L 5117      15 1/2-             283 KEV   30                         A   
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=5117 15 in (p,p)                                                    
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 5277.0     65/2-              0.34 KEV  6                          A   
+ 33CLX L XREF=D                                                                 
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  G 2924.9      22                                                     A   
+ 33CL DG $E|g=2925 (I|g=15) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 3290.5      25                                                     A   
+ 33CL DG $E|g=3291 (I|g=17) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  G 5276.5      100                                                    A   
+ 33CL DG $E|g=5277 (I|g=68) in (p,|g) in Gordon's thesis                        
+ 33CL2DG (University of Kansas, 1968)                                           
+ 33CL  L 5300      2  (3/2)+           10 KEV    LT                             
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=5296 2 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.83 {I7} from 1/2+ parent; 3/2 favored in barrier-       
+ 33CL2cL penetration calculations                                               
+ 33CL cL $ E(level),|G: from (|b{++})                                           
+ 33CL  L 5374      2 5/2+              0.44 KEV  8                          A   
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=5374 2 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 5448      1  1/2+             31 KEV    2                          A   
+ 33CLX L XREF=D                                                                 
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 5548.4    4 1/2+              105 EV    9                          B   
+ 33CLX L XREF=ACD                                                               
+ 33CL2 L ISPIN=3/2                                                              
+ 33CL2 L WIDTHP=98 EV 9                                                         
+ 33CL DL $E=5548 1 in (|b{++}),5548.5 4 in (p,|g),5544 1 in (p,p)               
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p).              
+ 33CL2cL IAS of 1/2+ g.s. in {+33}Ar                                            
+ 33CL  G 4737.6    4 100.0   34 M1                                              
+ 33CL DG $E|g=4737.6 (I|g=88 3) in (p,|g)                                       
+ 33CL  G 5548      2 13.6    34                                                 
+ 33CL DG $E|g=5548 2 (I|g=12 3) in (p,|g)                                       
+ 33CLB G BM1W<0.014$BE2W<1.8                                                    
+ 33CL  L 5551      1  7/2-             0.7 KEV   1                          A   
+ 33CL2 L WIDTHP=200 EV                                                          
+ 33CLX L XREF=CGH                                                               
+ 33CL DL $E=5551.8 12 in (p,p),5550 30 in (3He,d),5550 50 in (p,t)              
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p),L({+3}He,d)=3 
+ 33CL  L 5650      10 3/2-             100 KEV   10                         A   
+ 33CLX L XREF=C                                                                 
+ 33CL DL $E=5651 10 in (p,p)                                                    
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 5694      9                                                        B   
+ 33CLX L XREF=C                                                                 
+ 33CL DL $E=5694 9 in (p,|g)                                                    
+ 33CL  L 5734      3 1/2+              38 KEV    5                              
+ 33CLX L XREF=AD                                                                
+ 33CL DL $E=5732 3 in (|b{++}),5738 5 in (p,p)                                  
+ 33CL cL E$weighted average of 5729 {I2} in (|b{++}) and 5738 {I5} in (p,p)     
+ 33CL cL J$from R-Matrix analysis of |s(|q) data in (p,p)                       
+ 33CL cL $ |G: weighted average of 30 keV {I10} in (|b{++}) and 40 keV {I5}     
+ 33CL2cL in (p,p)                                                               
+ 33CL  L 5869       3 1/2+,3/2+        1.4 KEV   5                          C   
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=5869 2 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.39 {I8} from 1/2+ parent; 3/2 somewhat favored          
+ 33CL2cL by proton decay to 2+ state only                                       
+ 33CL  L 5879      2 5/2-              1.5 KEV   3                              
+ 33CLX L XREF=CDG                                                               
+ 33CL DL $E=5879 9 in (p,|g),5879 2 in (p,p),5870 20 in (3He,d)                 
+ 33CL cL E$weighted average of 5879 {I9} in (p,|g),5880 {I2} in (p,p) and       
+ 33CL2cL 5870 {I20} in ({+3}He,d)                                               
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p),L({+3}He,d)=3 
+ 33CL  L 6149      3 5/2+              0.4 KEV   1                              
+ 33CLX L XREF=CD                                                                
+ 33CL DL $E=6142 9 in (p,|g), 6150 3 in (p,p)                                   
+ 33CL cL E$weighted average of 6142 {I9} in (p,|g),6150 {I3} in (p,p)           
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6193       3 3/2-             1.0 KEV   2                              
+ 33CLX L XREF=CD                                                                
+ 33CL DL $E=6198 6 in (p,|g), 6192 3 in (p,p)                                   
+ 33CL cL E$weighted average of 6198 {I6} in (p,|g),6192 {I3} in (p,p)           
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6203       3 3/2+             5 KEV     1                          A   
+ 33CL2 L WIDTHP=3.7 KEV                                                         
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=6203 3 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6247      5 (3/2-)            6.5 KEV   15                             
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=6247 5 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6255      2 1/2+              6 KEV     3                              
+ 33CLX L XREF=ACD                                                               
+ 33CL DL $E=6255 2 in (|b{++}),6253 {I6} in (p,|g) and 6255 5 in (p,p)          
+ 33CL cL E$weighted average of 6255 {I2} in (|b{++}) and 6255 {I5} in (p,p)     
+ 33CL cL J$1/2+,3/2+ from log|{Ift}=4.578 {I17} from 1/2+ parent;               
+ 33CL2cL (1/2+,7/2+) from R-Matrix analysis of |s(|q) data in (p,p)             
+ 33CL cL $|G from R-Matrix analysis of |s(|q) data in (p,p)                     
+ 33CL  L 6290       3 7/2-             3.0 KEV   5                          A   
+ 33CLX L XREF=DG(6250)                                                          
+ 33CL DL $E=6290 3 in (p,p) and 6250 30 in (3He,d)                              
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p), L({+3}He,d)=3
+ 33CL  L 6314       2  1/2,3/2                                              C   
+ 33CLX L XREF=AC                                                                
+ 33CL DL $E=6314 2 in (|b{++}),6308 9 in (p,|g)                                 
+ 33CL cL J$ log|{Ift}=6.27 {I21} from 1/2+ parent; 3/2 favored                  
+ 33CL2cL by proton decay to 2+ state only                                       
+ 33CL  L 6392      5 3/2-              60 KEV    20                         A   
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=6393 5 in (p,p),5550 30 in (3He,d),5550 50 in (p,t)                 
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6593      5  1/2,3/2                                                   
+ 33CLX L XREF=AG                                                                
+ 33CL DL $E=6580 30 in (3He,d), 6593 5 in  (|b{++})                             
+ 33CL cL E$from (|b{++})                                                        
+ 33CL cL J$ log|{Ift}=6.68 {I7} from 1/2+ parent state; 3/2 somewhat favored    
+ 33CL2cL by proton decay to 2+ state only                                       
+ 33CL  L 6625      3 5/2+              5 KEV     2                          A   
+ 33CL2 L WIDTHP=4 KEV                                                           
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=6625 3 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6629       5 5/2,7/2-         25 KEV                               A   
+ 33CLX L XREF=CD                                                                
+ 33CL DL $E=6629 9 in (p,|g),6629 5 in (p,p)                                    
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6697       3 5/2+             4.0 KEV   10                         A   
+ 33CLX L XREF=CD                                                                
+ 33CL DL $E=6672 9 in (p,|g), 6697 3 in (p,p)                                   
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6850       2 3/2+             0.36 KEV  15                         A   
+ 33CLX L XREF=D                                                                 
+ 33CL2 L ISPIN=3/2                                                              
+ 33CL2 L WIDTHP=100 EV 15                                                       
+ 33CL DL $E=6850 2 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6854       3 3/2+,5/2+        30 KEV    10                             
+ 33CL2 L WIDTHP=26.7 KEV                                                        
+ 33CLX L XREF=CD                                                                
+ 33CL DL $E=6855 9 in (p,|g),6854 3 in (p,p)                                    
+ 33CL cL E$weighted average of 6855 {I9} in (p,|g) and 6854 {I3} in (p,p)       
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6920       3 5/2-             20 KEV                               A   
+ 33CL2 L WIDTHP=3.6 KEV 5                                                       
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=6920 3 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6949       2 1/2+,3/2+                                             C   
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=6949 2 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.93 {I4} from 1/2+ parent state; 3/2 somewhat favored    
+ 33CL2cL by proton decay to 2+ state only                                       
+ 33CL  L 6983       3 3/2+             10 KEV                               A   
+ 33CL2 L ISPIN=3/2                                                              
+ 33CL2 L WIDTHP=7 KEV                                                           
+ 33CLX L XREF=CDH                                                               
+ 33CL DL $E=6984 9 in (p,|g),6983 3 in (p,p),6950 50 in (p,t)                   
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 6993       3 5/2-             7 KEV                                A   
+ 33CL2 L WIDTHP=2.2 KEV                                                         
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=6993 3 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7094       3 5/2+             18 KEV                               A   
+ 33CL2 L WIDTHP=14.9 KEV                                                        
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7094 3 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7142      5  1/2,3/2                                                   
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=7142 5 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=7.12 {I6} from 1/2+ parent                                
+ 33CL  L 7177       8 3/2-             13 KEV                               A   
+ 33CL2 L WIDTHP=2 KEV                                                           
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7177 3 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7210       4 5/2+             2.6 KEV   5                          A   
+ 33CL2 L WIDTHP=1.7 KEV 5                                                       
+ 33CLX L XREF=CD                                                                
+ 33CL DL $E=7221 in (p,|g),7210 4 in (p,p)                                      
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7230      40 5/2-,7/2-                                                 
+ 33CLX L XREF=G                                                                 
+ 33CL DL $E=7230 40 in ({+3}He,d)                                               
+ 33CL cL E$from ({+3}He,d)                                                      
+ 33CL cL J$L({+3}He,d)=3                                                        
+ 33CL  L 7264       6 3/2+                                                      
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7264 6 in(p,p)                                                      
+ 33CL cL E$weighted average of 7280 {I9} in (p,|g),and                          
+ 33CL2cL 7264 {I6} in(p,p)                                                      
+ 33CL cL J$from R-Matrix analysis of |s(|q) data in (p,p)                       
+ 33CL  L 7275       4 3/2-             20 KEV                               A   
+ 33CL2 L WIDTHP=14.9 KEV                                                        
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7275 3 in (p,p),7280 9 in (p,|g),                                   
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7289      4 (3/2)+            10 KEV    5                              
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=7289 4 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.57 {I8} from 1/2+ parent; 3/2 favored from              
+ 33CL2cL barrier-penetration calculations                                       
+ 33CL cL $|G from (|b{++})                                                      
+ 33CL  L 7301       3 9/2+             4 KEV                                A   
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7301 3 in (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7323       5 7/2-             3 KEV                                A   
+ 33CL2 L WIDTHP=0.2 KEV                                                         
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E7323 5 in (p,p)                                                      
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7390       2 5/2+             108 EV    7                              
+ 33CL2 L WIDTHP=96 EV 2                                                         
+ 33CLX L XREF=CD                                                                
+ 33CL2 L ISPIN=3/2                                                              
+ 33CL DL $E=7397 {I6} in (p,|g),7390 2 in (p,p)                                 
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7399      3 5/2+              11 KEV                               A   
+ 33CL2 L WIDTHP=10.4 KEV                                                        
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7399 {I3} (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7404      10 1/2,3/2                                                   
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=7404 10 in (|b{++})                                                 
+ 33CL cL J$ log|{Ift}=6.72 {I5} from 1/2+ parent; 3/2 somewhat favored          
+ 33CL2cL by proton decay to 2+ state only                                       
+ 33CL  L 7449       4 3/2-             35 KEV                               A   
+ 33CL2 L WIDTHP=19 KEV                                                          
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7449 {I3} (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7463                                                                   
+ 33CLX L XREF=C                                                                 
+ 33CL DL $7463 in (p,|g)                                                        
+ 33CL  L 7471       3 7/2+             1.5 KEV                              A   
+ 33CL2 L WIDTHP=1.3 KEV                                                         
+ 33CLX L XREF=D                                                                 
+ 33CL DL $E=7471 {I3} (p,p)                                                     
+ 33CL cL $ J|p,|G: from R-Matrix analysis of |s(|q) data in (p,p)               
+ 33CL  L 7482       2 1/2+             4 KEV     3                              
+ 33CLX L XREF=ACD                                                               
+ 33CL DL $E=7482 {I2} in (|b{++}),7486 {I6} in (p,|g) and 7482 {I4} in (p,p)    
+ 33CL cL E$weighted average of 7482 {I2} in (|b{++}),7486 {I6} in (p,|g) and    
+ 33CL2cL 7482 {I4} in (p,p)                                                     
+ 33CL cL J$from R-Matrix analysis of |s(|q) data in (p,p); log|{Ift}=4.34 {I6}  
+ 33CL2cL from 1/2+ parent state                                                 
+ 33CL cL $|G from (|b{++})                                                      
+ 33CL  L 7540       4 1/2+,3/2+        4 KEV     LT                             
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=7540 4 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.92 {I12} from 1/2+ parent                               
+ 33CL cL $ |G from (|b{++})                                                     
+ 33CL  L 7551       2 1/2+,3/2+        10 KEV    LT                             
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=7551 2 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.18 {I4} from 1/2+ parent; 3/2 somewhat favored          
+ 33CL2cL by proton decay to 2+ state only                                       
+ 33CL cL $ |G from (|b{++})                                                     
+ 33CL  L 7667       4 1/2+,3/2+        8 KEV     4                              
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=7667 4 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.09 {I11} from 1/2+ parent                               
+ 33CL cL $ |G from (|b{++})                                                     
+ 33CL  L 7765       3 (1/2)+           10 KEV    6                              
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=7765 3 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.31 {I7} from 1/2+ parent, 1/2 favored from proton       
+ 33CL2cL decay to 0+ g.s. and 0+ excited state, possible L(p)=0 transition      
+ 33CL cL $ |G from (|b{++})                                                     
+ 33CL  L 8077       3 1/2+,3/2+        34 KEV    6                              
+ 33CLX L XREF=A                                                                 
+ 33CL2 L ISPIN=1/2+3/2                                                          
+ 33CL DL $E=8077 3 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.09 {I8} from 1/2+ parent                                
+ 33CL cL $|G from (|b{++})                                                      
+ 33CL  L 8130       3 1/2+,3/2+                                                 
+ 33CLX L XREF=AG(8150)                                                          
+ 33CL DL $E=8130 3 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.33 {I16} from 1/2+ parent; 3/2 somewhat favored         
+ 33CL2cL by proton decay to 2+ state only. L({+3}He,d)=(3) is in disagreement   
+ 33CL  L 8183      3  (1/2)+           22 KEV    6                              
+ 33CLX L XREF=A                                                                 
+ 33CL2 L ISPIN=1/2+3/2                                                          
+ 33CL DL $E=8183 3 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.25 {I13} from 1/2+ parent; 1/2 favored in barrier-      
+ 33CL2cL penetration calculations                                               
+ 33CL cL $ |G from (|b{++})                                                     
+ 33CL  L 8316      6 1/2+,3/2+                                                  
+ 33CLX L XREF=AG(8350)                                                          
+ 33CL DL $E=8316 6 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.90 {I13} from 1/2+ parent.  L({+3}He,d)=(3) is in       
+ 33CL2cL disagreement                                                           
+ 33CL cL T$from (|b{++})                                                        
+ 33CL  L 8490      6 (1/2)+                                                     
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=8490 6 in (|b{++})                                                  
+ 33CL cL J$from (|b{++}), log|{Ift}=5.73 {I6}; 1/2 favored from proton          
+ 33CL2cL decay to 0+ g.s. and 0+ excited state, possible L(p)=0 transition      
+ 33CL  L 8558      5   (3/2)+                                                   
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=8558 5 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.55 {I9} from 1/2+ parent; 3/2 favored in barrier-       
+ 33CL2cL penetration calculations                                               
+ 33CL  L 8710      50 5/2-,7/2-                                                 
+ 33CLX L XREF=G                                                                 
+ 33CL DL $E=8710 50 in (3He,d)                                                  
+ 33CL cL J$L({+3He}He,d)=3                                                      
+ 33CL  L 8813      8   1/2,3/2                                                  
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=8813 8 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=6.03 {I8} from 1/2+ parent                                
+ 33CL  L 8849      5  1/2+,3/2+                                                 
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=8849 5 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.65 {I20} from 1/2+ parent, 3/2 somewhat favored         
+ 33CL2cL by proton decay to 2+ state only                                       
+ 33CL  L 8864      10   1/2,3/2                                                 
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=8864 10 in (|b{++})                                                 
+ 33CL cL J$ log|{Ift}=6.27 {I13} from 1/2+ parent                               
+ 33CL  L 8964      8  (1/2)+                                                    
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=8964 8 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.33 {I11} from 1/2+ parent; 1/2 favored in barrier-      
+ 33CL2cL penetration calculations                                               
+ 33CL  L 9117      5  (3/2)+                                                    
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=9117 5 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.68 {I5} from 1/2+ parent; 3/2 favored in barrier-       
+ 33CL2cL penetration calculations                                               
+ 33CL  L 9154      6  (3/2)+                                                    
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=9154 6 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=4.60 {I5} from 1/2+ parent; 3/2 favored in barrier-       
+ 33CL2cL penetration calculations                                               
+ 33CL  L 9193      9  1/2+,3/2+                                                 
+ 33CLX L XREF=A                                                                 
+ 33CL DL $E=9193 9 in (|b{++})                                                  
+ 33CL cL J$ log|{Ift}=5.31 {I6} from 1/2+ parent                                
+ 33CL  L 9583      6   1/2+,3/2+                                                
+ 33CLX L XREF=A                                                                 
+ 33CL cL J$ log|{Ift}=4.92 {I11} from 1/2+ parent; 3/2 somewhat favored         
+ 33CL2cL by proton decay to 2+ state only                                       
+
+

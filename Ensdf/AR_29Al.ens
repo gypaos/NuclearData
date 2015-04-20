@@ -1,0 +1,300 @@
+ 29AL    ADOPTED LEVELS, GAMMAS                                  12NDS    201205
+ 29AL  H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CIT=NDS 113, 909 (2012)$            
+ 29AL2 H CUT=1-Jan-2012$                                                        
+ 29AL  Q 3679.7    129436.2  1210485.7 23-11282.517    2011AUZZ,2003AU03        
+ 29AL c                                                                         
+ 29AL c  {+29}Al Production cross sections:                                     
+ 29AL c  2008Ti05: {+56}Fe(p,X), |s of 0.36 mb 4 at E{-p}=500 MeV; 0.84 mb 12   
+ 29AL2c  at E{-p}=750 MeV; 1.6 mb 4 at E{-p}=1000 MeV; 2.5 mb 3 at E{-p}=1.5    
+ 29AL3c  GeV; 1.6 mb 4 at E{-p}=2.6 GeV.                                        
+ 29AL c                                                                         
+ 29AL c  2007Na31: {+1}H({+136}Xe,X), |s=0.27 mb 3 at E=1 GeV/u.                
+ 29AL c                                                                         
+ 29AL c  2003Ya20: Projectile Cu, E=230 MeV/u, |s=7.2 mb 5 in Ar(Cu,x),         
+ 29AL2c  |s=5.5 mb 5 in C(Cu,x), |s=6.4 mb 4 in Ne(Cu,x), |s=1.10 mb 17 in      
+ 29AL3c  He(Cu,x).                                                              
+ 29AL c                                                                         
+ 29AL c  1997Vo03: |s=0.79 mb 2 in {+56}Fe(p,X), E=800 MeV.                     
+ 29AL c                                                                         
+ 29AL c  2007No13: |J10 mb and |J10 mb, measured in {+40}Ar fragmentation       
+ 29AL2c  of {+9}Be({+40}Ar,X), E=90 MeV/u, and {+181}Ta({+40}Ar,X), E=94 MeV/u, 
+ 29AL3c  reactions, respectively.                                               
+ 29AL c                                                                         
+ 29AL cG E$Calculated by the evaluator from level energy differences,           
+ 29AL2cG E{-i}-E{-f} and recoil energy subtracted.                              
+ 29AL cG E(A)$From {+29}Mg |b{+-} decay.                                        
+ 29AL cG RI,MR$From {+26}Mg(|a,p|g), except otherwise noted.                    
+ 29AL cG M$From {+26}Mg(|a,p|g) dataset and parity of multipole radiation is    
+ 29AL2cG assigned by the evaluator based on the RUL.                            
+ 29AL cL E$Up to 3433.0 keV level, deduced from a least-squares fit to the      
+ 29AL2cL measured |g-ray energies in {+29}Mg |b{+-} decay, |DE=1 keV is         
+ 29AL3cL assumed. Above 3433.0 keV, level energies are from                     
+ 29ALxcL {+27}Al(t,p),{+26}Mg(|a,p|g) dataset.                                  
+ 29AL cL J$From L value in {+27}Al(t,p) and target ({+27}Al) J|p=5/2+.          
+ 29AL2cL Additional arguments are noted as comments.                            
+ 29AL cL T$From {+26}Mg(|a,p|g), except otherwise noted.                        
+ 29AL  XA29MG B- DECAY                                                          
+ 29AL  XB27AL(T,P),26MG(A,PG)                                                   
+ 29AL  XC30SI(T,A),(D,3HE)                                                      
+ 29AL PN                                                                     6  
+ 29AL  L 0           5/2+              6.56 M    6                              
+ 29ALX L XREF=ABC                                                               
+ 29AL2 L %B-=100                                                                
+ 29AL cL J$From L=0 in {+27}Al(t,p), Target ({+27}Al) J|p=5/2+.                 
+ 29AL cL T         From {+29}Al |b{+-} decay (1949Se21).                        
+ 29AL  L 1398.05   161/2+              4.5 PS    3                              
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$From L=0 in (t,|a).                                                  
+ 29AL  G 1398.0    2 100       (E2)                                         A   
+ 29ALB G BE2W=4.4 3                                                             
+ 29AL  L 1754.28   16 7/2+             22 FS     7                              
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$Assigned in 1976Be16 ({+26}Mg(|a,p|g)) based on p-|g polarization    
+ 29AL2cL measurements. L=2 from (t,p). Angular |g-ray correlation excludes      
+ 29AL3cL 1/2 and 5/2 in {+26}Mg(|a,p|g) (1974Ek02). However, J|p=7/2+ is        
+ 29AL3cL inconsistent with L=2 in {+30}Si(t,|a).                                
+ 29AL  G 356.2       1       LT                                                 
+ 29AL  G 1754.2    2 100       M1+E2     +0.18   3                          A   
+ 29AL  L 2224.10   19 3/2+             75 FS     17                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$Assigned in 1976Be16 ({+26}Mg(|a,p|g)) based on p-|g polarization    
+ 29AL2cL measurement.                                                           
+ 29AL  G 469.8       2       LT                                                 
+ 29AL  G 826.0       2       LT                                                 
+ 29AL  G 2224.0    3 100                                                    A   
+ 29AL  L 2865.70   22 3/2+             71 FS     17                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$Assigned in 1976Be16 ({+26}Mg(|a,p|g)) based on p-|g polarization    
+ 29AL2cL measurement. L=2 (t,p).                                                
+ 29AL  G 641.6          7.7  LT                                                 
+ 29AL  G 1111.4         9.6  LT                                                 
+ 29AL  G 1467.5     5  92    8 M1(+E2)   -0.00   10                         A   
+ 29AL cG MR$From 1971Hi05                                                       
+ 29ALB G BM1W=0.045 12                                                          
+ 29AL  G 2865.5     4  100   8                                              A   
+ 29AL  L 3061.81   23 (5/2)+           58 FS     21                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$Assigned in 1974Ek02 from angular |g-ray correlation                 
+ 29AL2cL ({+26}Mg(|a,p|g)). L=2 (t,p).                                          
+ 29AL  G 837.7          4.1  LT                                                 
+ 29AL  G 1307.4     5   100  4                                              A   
+ 29AL  G 1663.7         5.5  LT                                                 
+ 29AL  G 3061.6     4   37   4                                              A   
+ 29AL  L 3184.54   18 5/2-             124 FS    23                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$J=5/2 from angular |g-ray correlation measurement, negative parity   
+ 29AL2cL excluded from deduced |g-ray strength ({+26}Mg(|a,p|g)-1974Ek02). A    
+ 29AL3cL negative parity would give an M2 strengh of at least 150 W.u. for the  
+ 29ALxcL 1786.4|g.                                                              
+ 29AL  G 318.8          3.6  LT                                                 
+ 29AL  G 960.4      4     100 4M1+E2     +0.03   2                          A   
+ 29ALB G BM1W=0.109 21$BE2W=0.5 +7-5                                            
+ 29AL  G 1430.2     4      44 3M1+E2     +0.25   6                          A   
+ 29ALB G BM1W=0.014 3$BE2W=2.0 10                                               
+ 29AL  G 1786.4     4  25.3  22E2(+M3)   -0.07   8                          A   
+ 29ALB G BE2W=6.5 14                                                            
+ 29AL  G 3184.4     3  12.0  13                                             A   
+ 29AL  L 3433.0     41/2+              7 NS      LT                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$L=0 (t,|a).                                                          
+ 29AL  G 371.2          4.8  LT                                                 
+ 29AL  G 567.3          4.8  LT                                                 
+ 29AL  G 1208.9            20 4                                                 
+ 29AL  G 1678.6         8.4  LT                                                 
+ 29AL  G 2034.9     6     100 4M1                                           A   
+ 29ALB G BM1W>2.8E-7                                                            
+ 29AL  G 3432.6         9.6  LT                                                 
+ 29AL  L 3577.6     5 (9/2)+           25 FS     7                              
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$L=2 (t,p); 1823.4|g to 7/2+, 3577.7|g to 5/2+                        
+ 29AL  G 393.0          1    LT                                                 
+ 29AL  G 515.8          1    LT                                                 
+ 29AL  G 711.9          1    LT                                                 
+ 29AL  G 1353.4         2.1  LT                                                 
+ 29AL  G 1823.2       100.0  11                                                 
+ 29AL  G 2179.4         1    LT                                                 
+ 29AL  G 3577.1        10.0  11                                                 
+ 29AL  L 3641.5     7 (5/2)+           70 FS     LT                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$L=2 in (t,|a) and L=0+2 in (t,p); 3641.2|g to 5/2+, 1887.3|g to      
+ 29AL2cL 7/2+                                                                   
+ 29AL  G 457.0          3.3  LT                                                 
+ 29AL  G 579.7          3.3  LT                                                 
+ 29AL  G 775.8          3.3  LT                                                 
+ 29AL  G 1417.3         5.5  LT                                                 
+ 29AL  G 1887.1         9.9  22                                                 
+ 29AL  G 2243.3         4.4  LT                                                 
+ 29AL  G 3641.0       100.0  22                                                 
+ 29AL  L 3671.7     8(3/2,5/2)+        70 FS     LT                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$L=2 in (t,|a)                                                        
+ 29AL  G 487.1          8    LT                                                 
+ 29AL  G 609.9          7    LT                                                 
+ 29AL  G 806.0          8    LT                                                 
+ 29AL  G 1447.5         15   LT                                                 
+ 29AL  G 1917.3         9    LT                                                 
+ 29AL  G 2273.5         12   LT                                                 
+ 29AL  G 3671.2         100                                                     
+ 29AL  L 3935.2     7(3/2,7/2)+        90 FS     21                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$L=2+4 in (t,p); 3934.8|g to 5/2+, 1711.2|g to 3/2+                   
+ 29AL  G 750.6          5.7  LT                                                 
+ 29AL  G 873.4          4.6  LT                                                 
+ 29AL  G 1069.5         7    LT                                                 
+ 29AL  G 1711.0         15    3                                                 
+ 29AL  G 2180.8         10.3 LT                                                 
+ 29AL  G 2536.9         10.3 LT                                                 
+ 29AL  G 3934.6           100 3                                                 
+ 29AL  L 3986.2    12  (5/2-,7/2-)     28 FS     LT                             
+ 29ALX L XREF=BC                                                                
+ 29AL cL J$L=(3) in (t,|a).                                                     
+ 29AL  G 801.6          4    LT                                                 
+ 29AL  G 924.4          4    LT                                                 
+ 29AL  G 1120.4         6    LT                                                 
+ 29AL  G 1762.0         8    LT                                                 
+ 29AL  G 2231.7         9    LT                                                 
+ 29AL  G 2587.9         10   LT                                                 
+ 29AL  G 3985.6         100                                                     
+ 29AL  L 4057.0     7(1/2,3/2)+        83 FS     48                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$L=2 in (t,p); 2658.9|g to 1/2+, 1833.0|g to 3/2+                     
+ 29AL  G 872.4          5.5  LT                                                 
+ 29AL  G 995.1          5.5  LT                                                 
+ 29AL  G 1191.2         7.4  LT                                                 
+ 29AL  G 1832.8         85    7                                                 
+ 29AL  G 2302.5         9.2  LT                                                 
+ 29AL  G 2658.7         100   7                                                 
+ 29AL  G 4056.4         7.4  LT                                                 
+ 29AL  L 4219.6     6 5/2+             42 FS     15                             
+ 29ALX L XREF=ABC                                                               
+ 29AL cL J$L=0 in (t,p). L=2 in (t,|a).                                         
+ 29AL  G 1035.0         2    LT                                                 
+ 29AL  G 1157.7         3    LT                                                 
+ 29AL  G 1353.8         4    LT                                                 
+ 29AL  G 1995.4         5    LT                                                 
+ 29AL  G 2465.1         100                                                     
+ 29AL  G 2821.3         2    LT                                                 
+ 29AL  G 4218.9         3    LT                                                 
+ 29AL  L 4403.1     7 (7/2)+           42 FS     21                             
+ 29ALX L XREF=AB                                                                
+ 29AL cL J$Assigned 7/2+,9/2+ in 1984Bl18 (t,p) from L=2+6 in (t,p) and         
+ 29AL2cL extracted enhancement. The evaluator assigns (7/2+) based on           
+ 29AL3cL weaker beta feeding datum in {+29}Mg |b{+-} decay (1984Gu19).          
+ 29AL2cL factor.                                                                
+ 29AL  G 1218.5         7.2  LT                                                 
+ 29AL  G 1341.2         9    LT                                                 
+ 29AL  G 1537.3         9    LT                                                 
+ 29AL  G 2178.8         11   LT                                                 
+ 29AL  G 2648.6           10011                                                 
+ 29AL  G 3004.7         11   LT                                                 
+ 29AL  G 4402.4            8211                                                 
+ 29AL  L 4656      10 5/2+                                                      
+ 29ALX L XREF=B                                                                 
+ 29AL cL J$L=0+4 in (t,p)                                                       
+ 29AL  L 4715.5     9                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  G 1530.9         8    LT                                                 
+ 29AL  G 1653.6         8    LT                                                 
+ 29AL  G 1849.7         7    LT                                                 
+ 29AL  G 2491.2         10   LT                                                 
+ 29AL  G 2960.9         7    LT                                                 
+ 29AL  G 3317.0         11   LT                                                 
+ 29AL  G 4714.7         100                                                     
+ 29AL  L 4827.9    10                  42 FS     21                             
+ 29ALX L XREF=B                                                                 
+ 29AL  G 1643.3          33  13                                                 
+ 29AL  G 4827.0          100 13                                                 
+ 29AL  L 4940.8    10                  29 FS     8                              
+ 29ALX L XREF=B                                                                 
+ 29AL  G 1756.1         15   LT                                                 
+ 29AL  G 1878.9         4    LT                                                 
+ 29AL  G 2074.9         4    LT                                                 
+ 29AL  G 2716.4         6    LT                                                 
+ 29AL  G 3186.1         7    LT                                                 
+ 29AL  G 3542.3         10   LT                                                 
+ 29AL  G 4939.9         100                                                     
+ 29AL  L 5023      3                   83 FS     LT                             
+ 29ALX L XREF=B                                                                 
+ 29AL  G 5022        100                                                        
+ 29AL  L 5145      8                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  L 5181.6    14                                                           
+ 29ALX L XREF=BC(*)                                                             
+ 29AL cL J$L=2+4 in (t,p). L=1 in (d,{+3}He) is presumably for a doublet.       
+ 29AL  G 5180.6      100                                                        
+ 29AL  L 5248.3    17                  90 FS     LT                             
+ 29ALX L XREF=BC(*)                                                             
+ 29AL cL J$L=3 in (t,p). L=1 in (d,{+3}He) is presumably for a doublet.         
+ 29AL  G 3849.7      100                                                        
+ 29AL  L 5263.7    11                  76 FS     49                             
+ 29ALX L XREF=B                                                                 
+ 29AL  G 3509.0      100                                                        
+ 29AL  L 5392      3                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  G 5391        100                                                        
+ 29AL  L 5433      4                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  G 5432        100                                                        
+ 29AL  L 5549      7                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  L 5580      8                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  L 5660      9                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  L 5733      4                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  G 3978        100                                                        
+ 29AL  L 5855.2    8 11/2+,(7/2,9/2+)  29 FS     13                             
+ 29ALX L XREF=B                                                                 
+ 29AL cL J$From measured polarization and polarization calculations from        
+ 29AL2cL the measured angular correlations in {+26}Mg(|a,p|g) (1976Be16).       
+ 29AL  G 2277.4         100  5                                                  
+ 29AL  G 2670.4         5    LT                                                 
+ 29AL  G 2793.1         5    LT                                                 
+ 29AL  G 2989.2         5    LT                                                 
+ 29AL  G 3630.6         6    LT                                                 
+ 29AL  G 4100.3         54   5                                                  
+ 29AL  G 4456.4         5    LT                                                 
+ 29AL  G 5853.9         3    LT                                                 
+ 29AL  L 5922      10                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 5993.6    10 (1/2+ TO 7/2+)     62 FS   LT                             
+ 29ALX L XREF=B                                                                 
+ 29AL cL J$Assigned in 1974Ek02 from level meanlife                             
+ 29AL  G 1773.9        100   10                                                 
+ 29AL  G 2351.9         27    6                                                 
+ 29AL  G 2415.8         65   10                                                 
+ 29AL  L 6068      9                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6154      10                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6359      11                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6410      12                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6450      9                                                            
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6472      10                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6516      11                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6582      11                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6670      12                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6689      11                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6762      13                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6840      12                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 6984      14                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 7065      15                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 7093      12                                                           
+ 29ALX L XREF=B                                                                 
+ 29AL  L 7179      15                                                           
+ 29ALX L XREF=B                                                                 
+
+

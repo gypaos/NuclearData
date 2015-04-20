@@ -1,0 +1,269 @@
+ 29P     ADOPTED LEVELS, GAMMAS                                  12NDS    201205
+ 29P   H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CUT=1-Jan-2012$                     
+ 29P   Q -13795    5017875   1 2748.8  6 -10461.4 8    2011AUZZ,2003AU03        
+ 29P  cQ $2003Au03: S(n)=17865(3)                                               
+ 29P  c                                                                         
+ 29P  c  Other reaction:                                                        
+ 29P  c  {+27}Al({+3}He,n): 1969La27                                            
+ 29P  c                                                                         
+ 29P  cG E$Calculated from level energy differences, E{-i}-E{-f} and recoil     
+ 29P 2cG energy subtracted, by the evaluator.                                   
+ 29P  cG RI,MR$From (p,|g) and (p,|a)                                           
+ 29P  cG M$Assigned by the evaluator based on the reported mixing ratio data and
+ 29P 2cG RUL. In a few cases the calculated value of B(M1)(W.u)                 
+ 29P 3cG are slightly larger by 2 or 3 sigma compared to the RUL.               
+ 29P  cL E$From (p,|g), except otherwise noted.                                 
+ 29P  cL E(A)$Weighted average of data from (p,|g) in 1974By01, 1973Ba35,       
+ 29P 2cL 1975Al24, 1969Bi07 and from (p,|a) in 1974De27.                        
+ 29P  cL E(B)$Weighted average of data from (p,|g) in 1974By01, 1973Ba35,       
+ 29P 2cL 1975Al24 and from (p,|a) in 1974De27.                                  
+ 29P  cL E(C)$Weighted average of data from (p,|g) in 1974By01, 1975Al24        
+ 29P 2cL and from (p,|a) in 1974De27.                                           
+ 29P  cL E(D)$Weighted average of data from (p,|g) in 1975Al24 and from (p,|a)  
+ 29P 2cL in 1974De27.                                                           
+ 29P  cL E(E)$Weighted average of data from (p,|g) and from (p,|a) in 1974De27  
+ 29P  cL E(F)$Weighted average of data from (p,|g) and {+29}S |b{++} decay      
+ 29P xcL (1979Vi01)                                                             
+ 29P  cL E(G)$From {+29}S |b{++} decay (1979Vi01)                               
+ 29P  cL E(H)$From {+28}Si(pol p,p')                                            
+ 29P  cL J(I)$From l values, used for the (p,p') cross section data or angular  
+ 29P 2cL distribution fitting in 1959Vo29, 1962Br29, 1961Be11, 1974Ge12.        
+ 29P  cL J(J)$From 1980AdZM and 1980AdZN                                        
+ 29P  cL J(K)$From (pol p,p') based on (pol p,p') cross section data fitting.   
+ 29P  cL T$From {+28}Si(p,|g),(p,p'|g),(p,p'):res, except otherwise noted.      
+ 29P   XA29S B+ DECAY                                                           
+ 29P   XG31AR B+2P DECAY                                                        
+ 29P   XB28SI(P,G),(P,P'G),(P,P') :RES                                          
+ 29P   XF28SI(POL P,P') E=6.4-7.7 KEV                                           
+ 29P   XD28SI(3HE,D),(D,N)                                                      
+ 29P   XE31P(P,T)                                                               
+ 29P   XC32S(P,A),(P,AG)                                                        
+ 29P  PN                                                                     6  
+ 29P   L 0           1/2+              4.142 S    15                            
+ 29P X L XREF=ABCDEFG                                                           
+ 29P  cL J$L=0 in ({+3}He,d) and from {+29}P(|b{++}|e) decay                    
+ 29P 2 L %EC+%B+=100                                                            
+ 29P M L MOMM1=1.2346 3                                                         
+ 29P  cL MOMM1$From 2009Zh53 - |b-NMR - diamagnetic correction. Other: 1.2349   
+ 29P 2cL {I3} (|b-NMR - 1971SuZI) also in 2005St24, 2011StZZ and 1989Ra17.      
+ 29P  cL T$weighted av: 4.19 s {I2} (1960Ja12), 4.15 s {I3} (1970Sc16), 4.149 s 
+ 29P 2cL {I5} (1973Ta04), 4.083 s {I12} (1975Az01), 4.084 s {I22} (1980Wi13)    
+ 29P   L 1383.55   7 3/2+              151 FS    12                         A   
+ 29P X L XREF=ABCDEG                                                            
+ 29P  cL J$L=2 in ({+3}He,d), 1383.55|g (M1+E2) to 1/2+                         
+ 29P  cL T$Other: 146 fs {I42} (1970Cu07-({+3}He,d),(d,n))                      
+ 29P   G 1383.48     100       (M1+E2)   -0.14   1                              
+ 29P  cG MR$Weighted average of -0.15 {I2} (1974By01) and -0.17 {I2} (1960Ok02) 
+ 29P B G BM1W=0.054 7$BE2W=2.7 5                                                
+ 29P   L 1953.91   175/2+              268 FS    21                         B   
+ 29P X L XREF=ABCDEG                                                            
+ 29P  cL J$L=2 in ({+3}He,d), 570.36|g (M1+E2) to 3/2+                          
+ 29P  cL T$Other: 222 fs {I90} (1970Cu07-({+3}He,d),(d,n))                      
+ 29P   G 570.35           8.711 (M1+E2)  +0.04   6                              
+ 29P  cG MR$From -0.06 {I9} (1974By01) and +0.14 {I9} (1971Fo02)                
+ 29P B G BM1W=0.035 6$BE2W=0.8 +26-8                                            
+ 29P   G 1953.77        100.011                                                 
+ 29P   L 2422.7    3 3/2+              19 FS     3                          B   
+ 29P X L XREF=ABCDE                                                             
+ 29P  cL J$L=2 in ({+3}He,d), 2422.7|g (M1+E2) to 1/2+                          
+ 29P   G 468.8            4.824                                                 
+ 29P   G 1039.1          14.324 (M1+E2)  -0.15   14                             
+ 29P B G BM1W=0.12 3$BE2W=12 +23-12                                             
+ 29P   G 2422.5           100 4 (M1+E2)  +0.22   2                              
+ 29P  cG MR$Weighted average of +0.29 {I3} (1974By01), +0.23 {I3} (1973Ba35),   
+ 29P 2cG +0.23 {I3} (1971Fo02), and +0.16 {I5} (1970La17)                       
+ 29P B G BM1W=0.065 11$BE2W=2.6 7                                               
+ 29P   L 3105.9    3 5/2+              23 FS     10                             
+ 29P X L XREF=ABCD                                                              
+ 29P  cL J$L=2 in ({+3}He,d), 1722.4|g (M1+E2) to 3/2+                          
+ 29P   G 1151.9            32 3                                                 
+ 29P   G 1722.2           100 3 (M1+E2)  -0.25   2                              
+ 29P B G BM1W=0.13 6$BE2W=13 7                                                  
+ 29P   G 3105.5         3.9  LT                                                 
+ 29P   L 3447.6    4 7/2-              9 FS      6                          C   
+ 29P X L XREF=BCD                                                               
+ 29P  cL J$L=3 in ({+3}He,d), |g-transitions to 5/2+                            
+ 29P   G 341.7              8 6                                                 
+ 29P   G 1493.6           100 6                                                 
+ 29P   L 4080.5    3 7/2+              11 FS     1                          B   
+ 29P X L XREF=ABCDE                                                             
+ 29P  cL J$L=4 in (p,t), 2126.5|g (M1+E2) to 5/2+, 2696.9|g to 3/2+             
+ 29P   G 1657.6             8 4                                                 
+ 29P   G 2126.3           100 6 (M1+E2)  -0.12   2                              
+ 29P B G BM1W=0.106 13$BE2W=1.6 6                                               
+ 29P   G 2696.6            85 6                                                 
+ 29P   L 4343.0    203/2-                52 KEV  8                          B   
+ 29P X L XREF=BCD                                                               
+ 29P  cL J$L=1 in ({+3}He,d), 4343|g to 1/2+                                    
+ 29P   G 2959             9.922                                                 
+ 29P   G 4342           100.022                                                 
+ 29P   L 4642.0    6 (7/2+,9/2+)       35 FS     15                         D   
+ 29P X L XREF=BCE                                                               
+ 29P  cL J$L=4 in (p,t)                                                         
+ 29P   G 561.6             15 8                                                 
+ 29P   G 1536.0         4.6  LT                                                 
+ 29P   G 2687.8           100 8                                                 
+ 29P   L 4759      3 1/2+              15.6 KEV  6                          B   
+ 29P X L XREF=BCDE                                                              
+ 29P  cL J$L=0 in ({+3}He,d)                                                    
+ 29P   G 2336             5.623                                                 
+ 29P   G 2805           1.1  LT                                                 
+ 29P   G 3375             5.623                                                 
+ 29P   G 4758           100.023                                                 
+ 29P   L 4954.1    5 (5/2+)            2 KEV     LT                             
+ 29P X L XREF=ABC                                                               
+ 29P  cL J$3570.6|g (M1+E2) to 3/2+, 4954|g to 1/2+                             
+ 29P   G 1848.1           5.117                                                 
+ 29P   G 2531.2            19 5                                                 
+ 29P   G 2999.9            27 5                                                 
+ 29P   G 3570.1           100 5                                                 
+ 29P   G 4953.2            19 5                                                 
+ 29P   L 5047      3 (7/2+,9/2+)                                                
+ 29P X L XREF=CE                                                                
+ 29P  cL J$L=4 in (p,t)                                                         
+ 29P   L 5293.0    5 (7/2+)            2 KEV     LT                             
+ 29P X L XREF=ABCE                                                              
+ 29P  cL J$L=4 in ({+3}He,d)                                                    
+ 29P   G 2186.9            28 7                                                 
+ 29P   G 3338.7           100 7                                                 
+ 29P   G 3908.9         7.7  LT                                                 
+ 29P   L 5527      20 1/2-             400 KEV   20                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 5583      4                                                            
+ 29P X L XREF=C                                                                 
+ 29P   L 5716      4                                                            
+ 29P X L XREF=C                                                                 
+ 29P   L 5740      3 7/2-              12.5 KEV  7                          E   
+ 29P X L XREF=BCD                                                               
+ 29P  cL J$L=3 in ({+3}He,d), also in 1974Mc20                                  
+ 29P   L 5826      4                                                            
+ 29P X L XREF=AC                                                                
+ 29P   L 5968      3 3/2+              9.5 KEV   15                             
+ 29P X L XREF=ABCD                                                              
+ 29P  cL J$L=2 in ({+3}He,d)                                                    
+ 29P   L 6191      5 3/2-              95 KEV    6                          I   
+ 29P X L XREF=B                                                                 
+ 29P   L 6328      5  (1/2,3/2)        73 KEV    5                          I   
+ 29P X L XREF=ABD(6317)                                                         
+ 29P   L 6505      15                                                           
+ 29P X L XREF=AB                                                                
+ 29P  cL E$From {+29}S |b{++} decay (1979Vi01)                                  
+ 29P   L 6577      5 1/2+              200 KEV   20                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 6828      5 (3/2+,5/2+)       4.9 KEV   4                          I   
+ 29P X L XREF=AB                                                                
+ 29P   L 6956      10 1/2+             120 KEV   10                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 7021      5 (1/2-,3/2-)       100 KEV   8                          I   
+ 29P X L XREF=B                                                                 
+ 29P   L 7148      10                                                           
+ 29P X L XREF=A                                                                 
+ 29P   L 7272      5 (5/2+)            3 KEV     LT                         J   
+ 29P X L XREF=AB                                                                
+ 29P   L 7361      10                                                           
+ 29P X L XREF=AB                                                                
+ 29P   L 7456      5 (7/2-,5/2-)       8.4 KEV   7                          J   
+ 29P X L XREF=B                                                                 
+ 29P  cL J$L=3 in 1961Be11                                                      
+ 29P   L 7523      5  (3/2+)           7 KEV     3                          J   
+ 29P X L XREF=AB                                                                
+ 29P   L 7641      40 1/2+             165 KEV   25                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 7755      5 (5/2+)            2 KEV     AP                         J   
+ 29P X L XREF=AB                                                                
+ 29P   L 7950      15 (1/2-,3/2-)      14 KEV    4                          I   
+ 29P X L XREF=B                                                                 
+ 29P   L 7998      30 (1/2-,3/2-)      125 KEV   25                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 8106      11 (5/2+)           36 KEV    10                         F   
+ 29P X L XREF=AB                                                                
+ 29P 2 L FLAG=J                                                                 
+ 29P   L 8234      9 (3/2+)            20 KEV    4                          G   
+ 29P X L XREF=AB                                                                
+ 29P 2 L FLAG=J                                                                 
+ 29P   L 8297      15 (1/2-,3/2-)      40 KEV    AP                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 8379      3 (5/2+)            0.271 KEV 10                             
+ 29P X L XREF=ABF                                                               
+ 29P 2 L ISPIN=3/2                                                              
+ 29P  cL J$From (pol p,p') (1992Wi13) and also in 1980AdZM, 1980AdZN.           
+ 29P  cL T$From (pol p,p'). Others: 0.36 keV 5 (1976Ik03), 0.17 keV 5           
+ 29P 2cL (1969Te02)                                                             
+ 29P   G 5956              57 4                                                 
+ 29P   G 6425             100 4                                                 
+ 29P   G 6995              28 4                                                 
+ 29P   L 8432      15 (5/2+)                                                G   
+ 29P X L XREF=AB                                                                
+ 29P 2 L FLAG=J                                                                 
+ 29P   L 8510      10 (1/2+)           36 KEV    10                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 8532      10 (3/2+,5/2+)      25 KEV    7                          G   
+ 29P X L XREF=AB                                                                
+ 29P 2 L FLAG=I                                                                 
+ 29P   L 8645      15                  10 KEV    AP                             
+ 29P X L XREF=B                                                                 
+ 29P   L 8693      30 (1/2+,3/2+)      120 KEV   30                         I   
+ 29P X L XREF=B                                                                 
+ 29P 2 L FLAG=J                                                                 
+ 29P   L 8780      15 (1/2+)           14 KEV    3                          I   
+ 29P X L XREF=B                                                                 
+ 29P   L 8810      30                                                           
+ 29P X L XREF=A                                                                 
+ 29P   L 8865      12 (1/2+,3/2+)      9 KEV     3                          G   
+ 29P X L XREF=AB                                                                
+ 29P 2 L FLAG=IJ                                                                
+ 29P   L 8915      15 (3/2+,5/2+)      33 KEV    6                          I   
+ 29P X L XREF=B                                                                 
+ 29P 2 L FLAG=J                                                                 
+ 29P   L 9002      15 (5/2+,3/2+)      50 KEV    AP                         J   
+ 29P X L XREF=B                                                                 
+ 29P   L 9079      15 (1/2-,3/2-)      23 KEV    5                          I   
+ 29P X L XREF=B                                                                 
+ 29P   L 9118      40                  150 KEV   AP                             
+ 29P X L XREF=B                                                                 
+ 29P   L 9301      15                  7 KEV     3                              
+ 29P X L XREF=B                                                                 
+ 29P   L 9369      15                                                           
+ 29P X L XREF=B                                                                 
+ 29P   L 9389      12 (3/2+)           13 KEV    5                          G   
+ 29P X L XREF=AB                                                                
+ 29P 2 L FLAG=J                                                                 
+ 29P   L 9455      15 (1/2+)           20 KEV    5                          I   
+ 29P X L XREF=B                                                                 
+ 29P   L 9548         (1/2+)           50 KEV    10                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 9625         (1/2+)           40 KEV    10                         I   
+ 29P X L XREF=B                                                                 
+ 29P   L 9664       2 (1/2+)           3.07 KEV  5                          H   
+ 29P X L XREF=B(9660)F                                                          
+ 29P 2 L FLAG=K                                                                 
+ 29P  cL T$|G from (pol p,p')                                                   
+ 29P   L 9743         (1/2+)           6.5 KEV   3                          I   
+ 29P X L XREF=B                                                                 
+ 29P 2 L  ISPIN=(3/2)                                                           
+ 29P   L 9760        (3/2+,5/2+)       7.6 KEV   3                              
+ 29P X L XREF=A(9715)B                                                          
+ 29P   L 9773        (3/2+,5/2+)       7.6 KEV   3                              
+ 29P X L XREF=B                                                                 
+ 29P   L 9815        (3/2+,5/2+)       19.8 KEV  10                             
+ 29P X L XREF=B                                                                 
+ 29P   L 9855      30(3/2+,5/2+)       11.7 KEV  5                          G   
+ 29P X L XREF=AB(9871)                                                          
+ 29P   L 10095     30                                                           
+ 29P X L XREF=A                                                                 
+ 29P 2 L  ISPIN=(3/2)                                                           
+ 29P   L 10490      2 (3/2+)           0.88 KEV  17                         H   
+ 29P X L XREF=A(10535)F                                                         
+ 29P 2 L  ISPIN=3/2                                                             
+ 29P 2 L FLAG=K                                                                 
+ 29P  cL T$|G from (pol p,p')                                                   
+ 29P   L 11360      2 (5/2+)           3.5 KEV   5                          K   
+ 29P X L XREF=F                                                                 
+ 29P 2 L ISPIN=3/2                                                              
+ 29P  cL T$|G from (pol p,p')                                                   
+ 29P   L 11480      2 (5/2+)           1.53 KEV  12                         K   
+ 29P X L XREF=F                                                                 
+ 29P 2 L ISPIN=3/2                                                              
+ 29P  cL T$|G from (pol p,p')                                                   
+
+

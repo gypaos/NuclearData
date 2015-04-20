@@ -1,0 +1,595 @@
+107AG    ADOPTED LEVELS, GAMMAS                                  08NDS    200805
+107AG  H TYP=FUL$AUT=Jean Blachot$CIT=NDS 109, 1383 (2008)$CUT=1-Mar-2008$      
+107AG  Q -1417     4  9536   4  5788   3 -2804   5     2003AU03                 
+107AG c  {+107}Ag band properties: E(level), T{-1/2}, branching ratio, |d, HF   
+107AG2c  values are compared with rotational-model Coriolis calculation and     
+107AG3c  with {+105}Ag; see 1979Po13                                            
+107AG cG E,M$From {+107}Cd |e decay, Coul. ex., {+104}Ru({+6}Li,3n|g),          
+107AG2cG ({+7}Li,4n|g), {+97}Zr({+14}N,3n|g) and (HI,xn|g)                      
+107AG cG RI$Relative photon branching from each level. Data                     
+107AG2cG are averages from {+107}Cd |e decay, Coul. ex., {+104}Ru({+6}Li,3n|g), 
+107AG3cG ({+7}Li,4n|g) and {+96}Zr({+14}N,3n|g)                                 
+107AG cG M(F)$|g(|q) gives D+Q. |D|p=no required by adopted levels.             
+107AG cL J$For (HI,xn|g) excitations, assignments are based partly on           
+107AG2cL |g-excitation functions, |g(|q), |g|g(|q) ratios,                      
+107AG3cL and on the premise that J(initial)=J(final)+|DJ is more likely         
+107AG4cL than J(initial)=J(final)-|DJ                                           
+107AG cL E$Level energy from least-squares adjustment                           
+107AG cL E(X)$IAS                                                               
+107AG cL J(M)$From L in (p,t)                                                   
+107AG cL J(X)$From J|p of parent analog                                         
+107AG CL BAND(A)$|pg9/2 ,Yrast                                                  
+107AG2cL E(levels), |d, branching ratios, HF, T{-1/2} are                       
+107AG3cL compared with rotational-model Coriolis calc and with {+105}Ag         
+107AG CL BAND(B)$ DJ=1 Band based on 29/2+                                      
+107AG2cL E(levels), |d, branching ratios, HF, T{-1/2} are                       
+107AG3cL compared with rotational-model Coriolis calc and with {+105}Ag         
+107AG CL BAND(C)$ DJ=1 band based on (15/2-)                                    
+107AG CL BAND(D)$3 quasi -particle band (1997Es02). JPI from cranked-shell model
+107AG CL BAND(E)$ P1/2 HOLE Band on gs                                          
+107AG  XA107PD B- DECAY (6.5E+6 Y)                                              
+107AG  XB107AG IT DECAY (44.3 S)                                                
+107AG  XC107CD EC DECAY (6.50 H)                                                
+107AG  XD96ZR(14N,3NG)                                                          
+107AG  XE104RU(6LI,3NG),(7LI,4NG)                                               
+107AG  XF100MO(11B,4NG)                                                         
+107AG  XG106PD(3HE,D)                                                           
+107AG  XH107AG(G,G'):BREMSSTRAHLUNG                                             
+107AG  XI107AG(N,N'G)                                                           
+107AG  XJ107AG(P,P')                                                            
+107AG  XK107AG(P,P'G)                                                           
+107AG  XL(HI,XNG)                                                               
+107AG  XM107AG(A,A')                                                            
+107AG  XNCOULOMB EXCITATION                                                     
+107AG  XO109AG(P,T)                                                             
+107AG  XP107AG(D,D')                                                            
+107AG  XQ106PD(P,P),(P,N) IAR                                                   
+107AG PN                                                                     6  
+107AG  L 0.0         1/2-              STABLE                               E   
+107AG2 L XREF=ABCDEFGHJKMNO $ MOMM1=-0.113570 20 (1989Ra17)                     
+107AG cL MOMM1$other: -0.11367965 {I15} (1974Sa25). |D<r{+2}>=0.148 {I31}       
+107AGxcL (1989Di12)                                                             
+107AG cL J$1/2 (1976Fu06) optical, L=0 (p,t), L=1 ({+3}He,d)                    
+107AG  L     93.125197/2+              44.3 S    2                           M1 
+107AG2 L XREF=BCDEFGN                                                           
+107AG3 L %IT=100$ MOMM1=(+)4.398 5 (1985Ed01,1989Ra17)$ MOME2=0.98 11 (1986Be01)
+107AG cL T$from 1947Br05. Agrees with the last result: 44.5 s {I8} (2000Yo07);  
+107AG2cL Others: 40 s {I2} (1940Al01),44 s {I1} (1951Wo15),43.8 s {I6}          
+107AG3cL (1963Ve13), 44.2 s {I3} (1967Ab07)                                     
+107AG cL J$E3 transition to 1/2- g.s.                                           
+107AG cL MOMM1,MOME2$|m using radiation detection of NMR method, Q:             
+107AG2cL level mixing resonance on oriented nuclei.                             
+107AG  G 93.124    20 100      E3                      20.4                     
+107AG3 G BE3W=0.0310 9                                                          
+107AG  L 125.59    3 (9/2)+            2.85 NS   10                         A   
+107AG2 L XREF=CDEFGLO                                                           
+107AG cL E$follows regional trend of low-lying 9/2+ states:                     
+107AG2cL {+101}Ag at g.s., {+103}Ag at 27 keV, {+105}Ag at 53 keV, {+109}Ag     
+107AG3cL at 133 keV, {+111}Ag at 130 keV                                        
+107AG cL T$from 1972Ja01 (796|g)(32|g)(t), scin. Others: 1962La10, 1969Be75     
+107AG cL           B(E2)(9/2+ to 7/2+)=0.24 {I9}                                
+107AG2cL exp, 0.185 theory (1974Ku09)                                           
+107AG cL J$L=4 ({+3}He,d), M1+E2(32|g) to 7/2+ state and syst.                  
+107AG  G 32.46     2 100       M1+E2     0.074   14    11.6   2                 
+107AG3 G BM1W=0.018 1$ BE2W=81 29                                               
+107AG  L 324.81    3 3/2-              5.0 PS    9                          E   
+107AG2 L XREF=CEFGJMNO $MOMM1=+0.94 14 (1984Wo08)                               
+107AG cL MOMM1$others: +1.05 {I14} (1984Ba72), +0.92 {I18} (1986Ba14)           
+107AG cL T$5.0 ps {I9} (1974Mi02) recoil-distance Doppler shift                 
+107AG cL J$L=2 (p,t), L=1 ({+3}He,d), Coul. ex., M1+E2(325|g) to 1/2- g.s.      
+107AG  G 324.81    3 100       M1+E2     -0.207  10    0.0180 1                 
+107AG3 G BM1W=0.12 2$ BE2W=42 4                                                 
+107AG  L    423.150245/2-              29.8 PS   21                         E   
+107AG2 L XREF=CDEFGHJMNO $MOMM1=+1.03 18 (1989Ra17)                             
+107AG cL MOMM1$others: +1.13 {I15} (1984Ba72), +1.03 {I18} (1986Ba14),          
+107AG2cL +0.93 {I15} (1984Wo08)                                                 
+107AG cL T$30 ps {I2} (1974Mi02) recoil-distance Doppler shift, 35 ps {I2}      
+107AGxcL (1989Lo08)                                                             
+107AG cL J$L=2 (p,t), J=5/2 from |g(|q) in Coul. ex.                            
+107AG  G 98.2      5 4.6     4 (M1+E2)   -0.059  18    0.449  3             F   
+107AG3 G BM1W=0.033 4$ BE2W=11.1 13                                             
+107AG  G 330       1 0.22    4   [E1]                                           
+107AGS G BE1W=2.7E-7 4                                                          
+107AG  G 423.150   25 100    4 E2                      0.0104                   
+107AG3 G BE2W=43 3                                                              
+107AG  L     773.31 6 (11/2)+          15 NS     LT                         A   
+107AG2 L XREF=DEFL                                                              
+107AG cL T$from (1979Sc30) |g|g(t)                                              
+107AG cL J$intraband M1+E2(648|g) to 9/2+ base state                            
+107AG  G 647.71    5 100     5                                                  
+107AGS G BM1W>6.4E-6$ BE2W>0.0015                                               
+107AG  G 680.3     3 6.6     28  E2                                             
+107AGS G BE2W>0.0005                                                            
+107AG  L     786.5925 3/2-             0.27 PS   8                              
+107AG2 L XREF=CGHMNO                                                            
+107AG cL T$0.27 ps {I8} (1970Ro14) DSA. Other: 0.21 ps {I7} (1974Er05) DSA      
+107AG cL J$L=2 (p,t), L=1 ({+3}He,d), Coul. ex., D+Q(786|g) to 1/2- g.s.        
+107AG  G 364       1 12      6                                                  
+107AG  G 461.9     8 44      9 (M1+E2)   -0.01   8                          F   
+107AGS G BM1W=0.23 8$ BE2W<7.4                                                  
+107AG  G 786.4     7 100       (M1+E2)   -0.057  10                         F   
+107AGS G BM1W=0.11 3$ BE2W=0.5 3                                                
+107AG  L 922.06    3  5/2+             0.6 NS    LE                             
+107AG2 L XREF=CG                                                                
+107AG cL T$from (K| x ray)(829|g)(t) (1969Be75)                                 
+107AG cL J$L=2 ({+3}He,d), E1(597|g) to 3/2- state, M1(829|g) to 7/2+ state     
+107AG  G 597.27    6 4.65    25 E1                                              
+107AGS G BE1W>7.5E-8                                                            
+107AG  G 796.462   25 39.8   12 (E2)                                            
+107AG cG M$|a(K)exp allows M1 or E2. |DJ=2 required by adopted J|p's.           
+107AGS G BE2W>0.026                                                             
+107AG  G 828.93    3 100     5 M1                                               
+107AGS G BM1W>4.4E-5                                                            
+107AG  L 949.70    7  5/2-             1.36 PS   18                             
+107AG2 L XREF=CHJMNO                                                            
+107AG cL T$from B(E2)=0.0203 {I22}, I|g(950|g)-branching=12.6% {I10}.           
+107AG2cL Others: 1970Ro14, 1974Er05 (DSA)                                       
+107AG cL J$L=2 (p,t), M1+E2 |g decays to 3/2-,5/2- states, E2(950|g)            
+107AG2cL to 1/2- g.s., T{-1/2} from B(E2) and DSA methods agree                 
+107AG  G 162       2 2.2     12                                                 
+107AG cG E$seen only in Coulomb excitation and reported there as possible       
+107AG2cG impurity line                                                          
+107AG  G 526.5     1 100     4 M1+E2     -0.24   3                              
+107AGS G BM1W=0.053 7$ BE2W=9.5 26                                              
+107AG  G 624.91    10 78     4 M1+E2     -0.28   3                              
+107AGS G BM1W=0.024 4$ BE2W=4.2 10                                              
+107AG  G 856.5     4 2.0     4   [E1]                                           
+107AGS G BE1W=3.6E-6 9                                                          
+107AG  G 949.8     2 25.9    19 E2                                              
+107AGS G BE2W=2.3 4                                                             
+107AG  L 973.3     3  (7/2)-                                                E   
+107AG2 L XREF=CEFNO                                                             
+107AG cL J$L=4 (p,t), |g decays to 3/2-                                         
+107AG  G 550.1     4 100     8                                                  
+107AG  G 648.5     4 20      4                                                  
+107AG cG RI$I|g(648|g)/I|g(550|g)=0.43 {I3} in Coulomb excitation               
+107AG  L     991.00 6 (13/2)+          15 NS     LT                         A   
+107AG2 L XREF=DEFL                                                              
+107AG cL T$from 1979Sc30 |g|g(t)                                                
+107AG cL J$intraband E2(865|g) crossover, M1+E2(218|g) cascade                  
+107AG  G 217.7     2 14.8    3                                                  
+107AG  G 865.42    5 100     8   [E2]                                           
+107AGS G BE2W>0.0033                                                            
+107AG  L 1061.2    3 7/2+,9/2+                                              M   
+107AG2 L XREF=FGO                                                               
+107AG  L 1142      1  1/2+                                                      
+107AG2 L XREF=GM(*1140)                                                         
+107AG cL J$L=0 ({+3}He,d)                                                       
+107AG  L 1143.06   8 (5/2)-                                                     
+107AG2 L XREF=CM(*1140)O                                                        
+107AG cL J$M1+E2 |g to 5/2- state. D+Q |g to 3/2-. |g to 7/2+                   
+107AG  G 356.4     4 9.5     14                                                 
+107AG  G 719.93    10 100    7 M1+E2     -1.1    2                              
+107AG  G 818.23    10 57     7 (M1+E2)    +2.0   +2-5                       F   
+107AG cG MR$+2.0 {I+2-5} or +0.26 {I+14-11} from |g(|q) in |e decay             
+107AG  G 1050.0    4 5.5     9                                                  
+107AG  L 1146.9    5     (9/2)-                                             E   
+107AG2 L XREF=DEFJM(*1140)N                                                     
+107AG cL J$L=4 (p,t), E2 |g to 5/2-                                             
+107AG  G 723.7     5 100       E2                                               
+107AG  L 1222      5 (11/2-,13/2-)                                              
+107AG2 L XREF=O                                                                 
+107AG cL J$L(p,t)=(6)                                                           
+107AG  L    1223.01 5 (5/2)+                                                    
+107AG2 L XREF=CG                                                                
+107AG cL J$L=2 ({+3}He,d), M1(301|g) to 5/2+ state, E1(898|g) to 3/2- state,    
+107AG2cL |g-decays to 7/2+,9/2+ states                                          
+107AG  G 300.9     5 27      2 M1(+E2)   0.63    LT    0.022                    
+107AG  G 436.6     4 2.7     4                                                  
+107AG  G 799.92    15 20     2                                                  
+107AG  G 898.17    6 100     4 E1                                               
+107AG  G 1097.5    2 20      2                                                  
+107AG  G 1129.9    1 74      4 M1,E2                                            
+107AG  L    1258.8924 (3/2)+                                                    
+107AG2 L XREF=CGHJ                                                              
+107AG cL J$L=2 ({+3}He,d), |g-decays to 1/2-,3/2-,7/2+ states                   
+107AG  G 934.0     4 18      4                                                  
+107AG  G 1165.7    4 100     16                                                 
+107AG  G 1259.0    4 12.0    24                                                 
+107AG  L 1325.8    3  (3/2)+                                                    
+107AG2 L XREF=CGH                                                               
+107AG cL J$L=2 ({+3}He,d), |g-decays to 1/2-,7/2+ states                        
+107AG  G 1232.6    4 100     21                                                 
+107AG  G 1325.8    4 17      3                                                  
+107AG  L    1449.0121                                                           
+107AG2 L XREF=D                                                                 
+107AG  G 675.7     2 100                                                        
+107AG  L 1464.7    10(3/2)-            0.6 PS    LT                             
+107AG2 L XREF=GMNO                                                              
+107AG cL T$from I|g(1465|g) branching and B(E2) limits (1970Ro14)               
+107AG cL J$L=2 (p,t). M1+E2 |g to 3/2-, not to 5/2-                             
+107AG  G 1139.9    10 100      M1+E2     -0.12   3                              
+107AGS G BM1W>0.024$ BE2W>0.13                                                  
+107AG  L 1483      5                                                            
+107AG2 L XREF=O                                                                 
+107AG cL J$L(p,t)=6,5                                                           
+107AG  L 1508      107/2+,9/2+                                                  
+107AG cL J$L=4 ({+3}He,d)                                                       
+107AG2 L XREF=GJ                                                                
+107AG  L 1572      5 7/2-,9/2-                                              M   
+107AG2 L XREF=JO                                                                
+107AG  L 1577.35   20 (15/2)+                                                   
+107AG2 L XREF=DE                                                                
+107AG cL           Unobserved |g feeding in prompt |g(804|g)-coin spectra       
+107AG2cL suggests 1577-keV isomer (T{-1/2}=?)                                   
+107AG cL J$|g's to (13/2)+, (11/2)+                                             
+107AG  G 586.6     5 43      2 M1+E2     -3.0    9                              
+107AG  G 804.0     2 100     2 E2                                               
+107AG  L 1615      5  1/2-                                                      
+107AG2 L XREF=O                                                                 
+107AG cL J$L=0 (p,t)                                                            
+107AG  L 1653      5  1/2-                                                      
+107AG2 L XREF=M(*)O                                                             
+107AG cL J$L=0 (p,t)                                                            
+107AG  L 1656      107/2+,9/2+                                                  
+107AG cL J$L=4 ({+3}He,d)                                                       
+107AG2 L XREF=GM(*)                                                             
+107AG  L 1685      5  7/2-,9/2-                                             M   
+107AG2 L XREF=JO                                                                
+107AG  L    1799.6913  (15/2)+                                              A   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$intraband E2(1026|g) crossover, M1+E2(808|g) cascade                 
+107AG  G 808.5     2 100     11 M1+E2    +0.27   8                              
+107AG  G 1026.3    2 22      8 E2                                               
+107AG  L 1820      10 1/2+                                                      
+107AG2 L XREF=G                                                                 
+107AG cL J$L=0 ({+3}He,d)                                                       
+107AG  L 1832      5  3/2-,5/2-                                             M   
+107AG2 L XREF=O                                                                 
+107AG  L 1846.0    4                                                            
+107AG2 L XREF=D                                                                 
+107AG  G 397.0     3 100                                                        
+107AG  L 1851      5  1/2-                                                      
+107AG2 L XREF=O                                                                 
+107AG cL J$L=0 (p,t)                                                            
+107AG  L 1875      5                                                            
+107AG2 L XREF=GMO                                                               
+107AG cL J$L(p,t)=2,3                                                           
+107AG  L 1904      5                                                            
+107AG2 L XREF=O                                                                 
+107AG cL J$L(p,t)=2,3                                                           
+107AG  L 1918      5  7/2-,9/2-                                             M   
+107AG2 L XREF=GJO                                                               
+107AG  L     1924.8 4   13/2-                                               D   
+107AG2 L XREF=FL                                                                
+107AG  G 933.8     4 100                                                        
+107AG  L 1942      5  3/2-,5/2-                                             M   
+107AG2 L XREF=O                                                                 
+107AG  L 1956      5  7/2-,9/2-                                             M   
+107AG2 L XREF=O                                                                 
+107AG  L    1975.7123                                                           
+107AG2 L XREF=D                                                                 
+107AG  G 526.7     1 100       M1+E2     +0.25   5                              
+107AG  L 2026      5 5/2+                                                       
+107AG cL J$L=2 ({+3}He,d). L(p,t)=3,4                                           
+107AG2 L XREF=GO                                                                
+107AG  L    2053.5411  (17/2)+                                              A   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$intraband E2(1062|g) crossover, 254|g cascade                        
+107AG  G 254.1     5 6       3                                                  
+107AG  G 1062.6    1 100     10E2                                               
+107AG  L 2062      5 5/2+,7/2+                                              M   
+107AG2 L XREF=G(2095)O                                                          
+107AG  L     2065.120(13/2-)                                                E   
+107AG2 L XREF=F                                                                 
+107AG  G 918.8     3  100                                                       
+107AG  L     2066.721                                                           
+107AG2 L XREF=F                                                                 
+107AG  G 1075.5    3                                                            
+107AG  G 1294.0    3                                                            
+107AG  L 2111      5                                                            
+107AG2 L XREF=G(2105)O                                                          
+107AG cL J$L(p,t)=4,3                                                           
+107AG  L 2140      5 5/2+,7/2+                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L    2171.9924  15/2-                                                    
+107AG2 L XREF=FL                                                                
+107AG  G 372.3     2  100                                                       
+107AG  L     2176.421                                                           
+107AG2 L XREF=F                                                                 
+107AG  G 1185.5    3                                                            
+107AG  G 1403.4    3                                                            
+107AG  L 2177      5 5/2+,7/2+                                              M   
+107AG2 L XREF=OM                                                                
+107AG  L 2199      5 5/2+,7/2+                                              M   
+107AG2 L XREF=GJO                                                               
+107AG  L 2227      5 5/2+,7/2+                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2254      5 3/2-,5/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2284      5 3/2-,5/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L    2297.9112  (15/2)-                                              C   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$E1(1307|g) to 13/2+ state                                            
+107AG  G 121.2     3                                                            
+107AGX G FL=2176.4                                                              
+107AG  G 231.0     3                                                            
+107AGX G FL=2066.7                                                              
+107AG  G 498.1     3                                                            
+107AG  G 1306.9    1 100       E1                                               
+107AG cG MR$-0.01 {I2} from |g(|q) in ({+14}N,3n|g).                            
+107AG cG M$|g-rays linear polarization in ({+7}Li,4n|g)                         
+107AG  L 2306      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2320      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2347      5                                                            
+107AG2 L XREF=O                                                                 
+107AG  L 2355      5 9/2+,11/2+                                             M   
+107AG2 L XREF=O                                                                 
+107AG  L     2370.521                                                           
+107AG2 L XREF=F                                                                 
+107AG  G 444.9     3                                                            
+107AGX G FL=1924.8                                                              
+107AG  L 2374      5 3/2-,5/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2405      5 3/2-,5/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L    2411.8813  (17/2)-                                              C   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$intraband M1+E2(114|g) to 15/2- base state                           
+107AG  G 113.97    7 100     3 M1+E2     +0.05   2     0.294                    
+107AG  G 612.3     5 15      3                                                  
+107AG  L 2414      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2437      5 3/2-,5/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2463      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2463.5    5  (15/2-)                                               D   
+107AG2 L XREF=F                                                                 
+107AG  G 397.5     3                                                            
+107AGX G FL=2065.1                                                              
+107AG  G 537.1     3                                                            
+107AGX G FL=1924.8                                                              
+107AG  L 2494      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2533      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L    2543.0814  (19/2)-                                              C   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$intraband M1+E2(131|g) to 17/2- state                                
+107AG  G 131.20    5 100       (M1+E2)   +0.08   2     0.200                    
+107AG  G 171.7     3                                                            
+107AGX G FL=2370.5                                                              
+107AG  L 2590      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2664.5    5  (17/2-)                                               D   
+107AG2 L XREF=F                                                                 
+107AG  G 201.4     3                                                            
+107AGX G FL=2463.5                                                              
+107AG  G 252.3     3                                                            
+107AG  G 293.4     3                                                            
+107AG  G 366.3     3                                                            
+107AG  L 2666      5                                                            
+107AG2 L XREF=O                                                                 
+107AG cL J$L(p,t)=4,5                                                           
+107AG  L 2672      5                                                            
+107AG2 L XREF=O                                                                 
+107AG  L 2701      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2717      5                                                            
+107AG2 L XREF=O                                                                 
+107AG  L     2732.924  21/2-                                                    
+107AG2 L XREF=F                                                                 
+107AG  G 190.6     3  100                                                       
+107AG  L 2733      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L    2733.6825-                                                          
+107AG2 L XREF=DE                                                                
+107AG  G 190.6     2 100       (M1+E2)   +0.08   7     0.072  1                 
+107AG  L    2748.0915  (21/2)-                                              C   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$intraband M1+E2(205|g) to 19/2- state                                
+107AG  G 205.01    6 100     2 (M1+E2)   +0.09   2     0.060                    
+107AG  G 336.2     4 9       4                                                  
+107AG  L 2776      5                                                            
+107AG2 L XREF=D                                                                 
+107AG  L     2790.210                                                           
+107AG2 L XREF=E                                                                 
+107AG  G 990.5       100                                                        
+107AG  L 2808      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2844      5 7/2-,9/2-                                              M   
+107AG2 L XREF=O                                                                 
+107AG  L 2883      5                                                            
+107AG2 L XREF=O                                                                 
+107AG  L    2891.9118(19/2)+                                                A   
+107AG2 L XREF=FL                                                                
+107AG  G 838.0     4  100    16                                                 
+107AG  G 1091.9    2  33     16                                                 
+107AG  L 2904      5                                                            
+107AG2 L XREF=O                                                                 
+107AG  L 2923.5    5  (19/2-)                                               D   
+107AG2 L XREF=F                                                                 
+107AG  G 258.6     5 100                                                        
+107AG  L 3004      1                                                        D   
+107AG2 L XREF=F                                                                 
+107AG  G 339.9     5 100                                                        
+107AG  L    3028.5823                                                           
+107AG2 L XREF=D                                                                 
+107AG  G 280.5     5 28      5                                                  
+107AG  G 485.5     2 100     3                                                  
+107AG  L 3034.4    4  23/2-                                                     
+107AG2 L XREF=DEF                                                               
+107AG  G 300.7     2 100       (M1+E2)   +0.12   7     0.022                    
+107AG  L     3048.3 8                                                           
+107AG2 L XREF=L                                                                 
+107AG  G 300.2     7  100                                                       
+107AG  L 3056.25   17  (23/2)-                                              C   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$intraband M1+E2(308|g) to 21/2- state                                
+107AG  G 308.15    8 100     1 (M1+E2)   +0.12   2     0.020                    
+107AG  G 514       1 5       2                                                  
+107AG  L 3111      5                                                            
+107AG2 L XREF=O                                                                 
+107AG  L 3125      5                                                            
+107AG2 L XREF=O                                                                 
+107AG  L    3148.3514  (21/2)+                                              A   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$intraband E2(1095|g) to 17/2+ state                                  
+107AG  G 120       1 6       2                                                  
+107AG  G 1094.9    1 100     3 E2                                               
+107AG  L     3238.5 8                                                           
+107AG2 L XREF=L                                                                 
+107AG  G 190.2     1  100                                                       
+107AG  L 3294.5    5  (21/2-)                                               D   
+107AG2 L XREF=F                                                                 
+107AG  G 290.8     3                                                            
+107AG  G 371.8     5 100                                                        
+107AG  L    3297.8422  (21/2-)                                                  
+107AG2 L XREF=DFL                                                               
+107AG  G 1244.3    2 100                                                        
+107AG  L    3460.5115  (23/2)+                                              A   
+107AG2 L XREF=DEFL                                                              
+107AG cL J$M1+E2(312|g) to 21/2+ state                                          
+107AG  G 162.8     7 5.6     13                                                 
+107AG  G 312.21    7 100     7 (M1+E2)   +0.17   4                              
+107AG  G 568.2     2  10     3                                                  
+107AG  L    3466.5725  (25/2)-                                              C   
+107AG2 L XREF=DEF                                                               
+107AG cL J$intraband M1+E2(410|g) to 23/2- state                                
+107AG  G 410.3     2 100     3 (M1+E2)   +0.13   3                              
+107AG  G 718.5     5 21      6                                                  
+107AG  L 3520.0    11    25/2-                                                  
+107AG2 L XREF=EF                                                                
+107AG  G 485.6       100                                                        
+107AG  L     3598.1 7                                                           
+107AG2 L XREF=L                                                                 
+107AG  L 3675.5    5  (23/2-)                                               D   
+107AG2 L XREF=F                                                                 
+107AG  G 380.3     5 100                                                        
+107AGX G FL=3294.5                                                              
+107AG  L    3683.0218  (25/2)+                                              A   
+107AG2 L XREF=DFL                                                               
+107AG cL J$(M1+E2) |g to 23/2+ state                                            
+107AG  G 222.5     1 100       (M1+E2)   +0.12   4     0.048                    
+107AG  G 535.0     5  9      3                                                  
+107AG  L     3723.7 8  27/2-                                                    
+107AG2 L XREF=L                                                                 
+107AG  G 485.2     2  100                                                       
+107AG  L     3742.211                                                           
+107AG2 L XREF=L                                                                 
+107AG  L     3927.9 4 (27/2-)                                               C   
+107AG2 L XREF=DFL                                                               
+107AG  G 461.3     4 100     12                                                 
+107AG  G 871.8     6  42     4                                                  
+107AG  L     3954.2 7                                                           
+107AG2 L XREF=L                                                                 
+107AG  L    3977.8421(27/2+)                                                A   
+107AG2 L XREF=DFL                                                               
+107AG cL J$probable M1+E2 |g to (25/2+)                                         
+107AG  G 294.8     1 100       (M1+E2)   +0.06   4                              
+107AG  G 517.0     3                                                            
+107AG  L 4023.5    11                                                           
+107AG2 L XREF=E                                                                 
+107AG  G 556.9     3 100                                                        
+107AG  L     4031.110                                                           
+107AG2 L XREF=L                                                                 
+107AG  G 288.9     5 100                                                        
+107AG  L 4046.4    15                                                           
+107AG2 L XREF=E                                                                 
+107AG  G 526.4     3 100                                                        
+107AG  L 4102.5    5  (25/2-)                                               D   
+107AG2 L XREF=F                                                                 
+107AG  G 427.2     5 100                                                        
+107AG  L     4356.4 3(29/2)+                                                A   
+107AG2 L XREF=FL                                                                
+107AG  G 378.7     3  100    6                                                  
+107AG  G 673.8     5  27     7                                                  
+107AG  L     4375.1 3(29/2+)                                                    
+107AG2 L XREF=D                                                                 
+107AG cL J$probable M1+E2 |g to 27/2+                                           
+107AG  G 397.3     2 100       (M1+E2)   +0.08   9                              
+107AG  L     4397.8 4 (29/2-)                                               C   
+107AG2 L XREF=FL                                                                
+107AG  G 470.0     3  100    10                                                 
+107AG  G 931.1     6  56     11                                                 
+107AG  L     4752.7 3(31/2)+                                                A   
+107AG2 L XREF=FL                                                                
+107AG  G 396.4     2 100     6                                                  
+107AG  G 774.6     3 19      5                                                  
+107AG  L 4753.0    15                                                           
+107AG2 L XREF=E                                                                 
+107AG  G 729.5       100                                                        
+107AG  L     4773.111                                                          ?
+107AG2 L XREF=D                                                                 
+107AG  G 398       1 100                                                        
+107AG  L     4968.2 4  29/2+                                                B   
+107AG2 L XREF=FL                                                                
+107AG  G 937.1     9 73      27                                                 
+107AG  G 990.4     3 100     9                                                  
+107AG  G 1014.0    5 29      13                                                 
+107AG  G 1370.1    5 40      7                                                  
+107AG  L     5006.7 5 (31/2-)                                               C   
+107AG2 L XREF=FL                                                                
+107AG  G 608.8     3  100    16                                                 
+107AG  G 1078.8    4  56     7                                                  
+107AG  L     5246.8 4(33/2)+                                                A   
+107AG2 L XREF=FL                                                                
+107AG  G 494.1     2 100     6                                                  
+107AGX G FL=4752.7                                                              
+107AG  G 890.4     3 29      6                                                  
+107AG  L     5257.6 4 31/2+                                                 B   
+107AG2 L XREF=FL                                                                
+107AG  G 289.4     1 100                                                        
+107AG  L     5565.3 5(33/2-)                                                C   
+107AG2 L XREF=L                                                                 
+107AG  G 558.5     2  100    12                                                 
+107AG  G 1168.0    7  76     17                                                 
+107AG  L     5575.4 4 33/2+                                                 B   
+107AG2 L XREF=FL                                                                
+107AG  G 317.8     1 100     6                                                  
+107AG  G 606.0     5 42      13                                                 
+107AG  L     5748.0 4(35/2)+                                                A   
+107AG2 L XREF=L                                                                 
+107AG  G 501.0     2 100     10                                                 
+107AG  G 995.3     2 46      11                                                 
+107AGX G FL=4752.7                                                              
+107AG  L     5944.9 4 35/2+                                                 B   
+107AG2 L XREF=L                                                                 
+107AG  G 369.5     1 100     8                                                  
+107AG  G 687.6     3 25      8                                                  
+107AG  L     6319.3 4(37/2)+                                                A   
+107AG2 L XREF=L                                                                 
+107AG  G 571.3     2 100     11                                                 
+107AG  G 1072.7    4 60      17                                                 
+107AG  L     6376.8 4 37/2+                                                 B   
+107AG2 L XREF=L                                                                 
+107AG  G 431.8     1 100     8                                                  
+107AG  G 802.7     6 25      9                                                  
+107AG  L     6887.8 5 39/2+                                                 B   
+107AG2 L XREF=L                                                                 
+107AG  G 511.1     2 100     18                                                 
+107AG  G 942.9     3 22      10                                                 
+107AG  L     6912.4 4(39/2)+                                                A   
+107AG2 L XREF=L                                                                 
+107AG  G 593.1     2 100     18                                                 
+107AG  G 1164.4    4 58      16                                                 
+107AG  L     7442.1 5 41/2+                                                 B   
+107AG2 L XREF=L                                                                 
+107AG  G 554.2     2 100     13                                                 
+107AG  G 1065.2    3 100     21                                                 
+107AG  L     8046.6 5 43/2+                                                 B   
+107AG2 L XREF=L                                                                 
+107AG  G 604.4     2 100     21                                                 
+107AG  G 1159.2    4 27      14                                                 
+107AG  L     8718.1 6 45/2+                                                 B   
+107AG2 L XREF=L                                                                 
+107AG  G 671.3     3 100     21                                                 
+107AG  G 1276.5    5 51      20                                                 
+107AG  L 12201     3 (5/2+)                                                 X   
+107AG2 L XREF=Q                                                                 
+107AG  L 12287     2 (1/2+)                                                 X   
+107AG2 L XREF=Q                                                                 
+107AG  L 12595     2 (3/2+)                                                 X   
+107AG2 L XREF=Q                                                                 
+107AG  L 12638     2 (1/2+)                                                 X   
+107AG2 L XREF=Q                                                                 
+107AG  L 12692     2 (3/2+)                                                 X   
+107AG2 L XREF=Q                                                                 
+107AG  L 12794     2 (5/2+)                                                 X   
+107AG2 L XREF=Q                                                                 
+
+
