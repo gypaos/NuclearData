@@ -1,0 +1,644 @@
+134BA    ADOPTED LEVELS, GAMMAS                                  04NDS    200410
+134BA  H TYP=FUL$AUT=A.A. Sonzogni$CIT=NDS 103, 1 (2004)$CUT=31-Jul-2004$       
+134BA  Q -3731     209467.7  118167.9  4 -1493.1 9     2003AU03                 
+134BA cL T$From (n,n'|g), except as noted                                       
+134BA cL J(M)$|g to 0+ g.s., transition multipolarities                         
+134BA cL J(Q)$L=0 in {+136}Ba(p,t)                                              
+134BA cL J(R)$From (|g,|g')                                                     
+134BA cL J(S)$|g(|q) in (n,n'|g)                                                
+134BA CL BAND(Z)$GS BAND                                                        
+134BA cG RI(M)$From {+134}Ba(|g,|g')                                            
+134BA  XA134CS B- DECAY (2.0652 Y)                                              
+134BA  XB134BA IT DECAY (2.63 US)                                               
+134BA  XC134LA EC DECAY (6.45 M)                                                
+134BA  XD134BA(N,N'G)                                                           
+134BA  XE134BA(A,A')                                                            
+134BA  XFCOULOMB EXCITATION                                                     
+134BA  XG136BA(P,T)                                                             
+134BA  XH(HI,XNG)                                                               
+134BA  XI134BA(G,G')                                                            
+134BA  L 0.0         0+                STABLE                                   
+134BAX L XREF=ABCDEFGHI$FLAG=Z                                                  
+134BA  L 604.7223  192+                5.12 PS   9                              
+134BAX L XREF=ABCDEFGH$FLAG=Z$MOMM1=+0.84 10 (1989Ra17)                         
+134BA cL $Q=-0.26 {I8} or +0.15 {I8} (1989Ra17)                                 
+134BA cL J$L(p,t)=2                                                             
+134BA cL T$from B(E2)=0.679 {I11} (Coul. ex.)                                   
+134BA cL $|m, Q: from Coul. ex.                                                 
+134BA  G 604.721   2 100       E2                      0.00599                  
+134BAX G KC=0.00503 16$LC=0.00072 2$BE2W=33.6 6                                 
+134BA  L 1167.968  3 2+                2.7 PS    8                              
+134BAX L XREF=ACDFGH                                                            
+134BA cL J$L(p,t)=2                                                             
+134BA cL T$from B(E2) in Coul. ex.                                              
+134BA  G 563.246   5 100.00  17M1+E2     -7.4    9     0.007272                 
+134BAX G KC=0.00609 1$LC=0.00089$BE2W=73 22$BM1W=0.0007 3                       
+134BA  G 1167.968  5 21.47   6 E2                      0.00131                  
+134BAX G KC=0.00112 4$LC=0.00014 1$BE2W=0.42 13                                 
+134BA  L 1400.590  4 4+                0.83 PS   9                              
+134BAX L XREF=ABCDFGH$FLAG=Z                                                    
+134BA cL J$L(p,t)=4                                                             
+134BA cL T$from B(E2) in Coul. ex., T{-1/2}=8.7 ps {I17} from {+134}Cs |b{+-}   
+134BAxcL decay                                                                  
+134BA  G 232.6       0.0013  LT[E2]                    0.104                   ?
+134BAX G KC=0.0825 25$LC=0.0171 6$MC=0.00361 11$BE2W=0.16 16                    
+134BA  G 795.864   4 100       E2                      0.00305                  
+134BAX G KC=0.00258 8$LC=0.00035 1$BE2W=52 6                                    
+134BA  L 1643.336  4 3+                78 PS     21                             
+134BAX L XREF=ACDH                                                              
+134BA cL J$M1+E2 |g to 2+; |g|g(|q)                                             
+134BA cL T$from |b|g(t) ({+134}Cs |b{+-} decay)                                 
+134BA  G 242.738   8 1.88    16(M1+E2)                 0.088  2                 
+134BAX G KC=0.0728 9$LC=0.0121 25$MC=0.0025 6                                   
+134BA  G 475.365   2 100.0   3 M1+E2     -10     3     0.0114                   
+134BAX G KC=0.0096$LC=0.00146$MC=0.00030$BE2W=4.3 12$BM1W=1.5E-5 10             
+134BA  G 1038.610  7 66.98   19M1+E2     +0.83   11    0.002075                 
+134BAX G KC=0.00177 4$LC=0.00022 1$BE2W=0.024 8$BM1W=5.9E-5 17                  
+134BA  L 1760.555  220+                                                         
+134BAX L XREF=CDG                                                               
+134BA cL J$E0 transition to g.s.                                                
+134BA  G 592.58    3 94      6                                                  
+134BA  G 1155.83   3 100     5 E2                      0.00134                  
+134BAX G KC=0.00115 4$LC=0.00015 1                                              
+134BA  G 1759.9    7           E0                                               
+134BA  L 1969.921  4 4+                                                         
+134BAX L XREF=ADEH                                                              
+134BA cL J$M1+E2 |g to 4+; |g|g(|q)                                             
+134BA  G 326.589   130.105   7 [M1+E2]                 0.037  2                 
+134BAX G KC=0.031 3$LC=0.0047 3$MC=0.00097 8                                    
+134BA  G 569.331   3 100.00  11M1+E2     +0.26   1     0.0096                   
+134BAX G KC=0.00816 1$LC=0.00105                                                
+134BA  G 801.953   4 56.5    1 E2                      0.00300                  
+134BAX G KC=0.00254 8$LC=0.00034 1                                              
+134BA  G 1365.185  7 19.63   5 E2                      0.00096                  
+134BAX G KC=0.00082 3$LC=0.00010                                                
+134BA  L 1986.35   215-                52 NS     6                              
+134BAX L XREF=DGH                                                               
+134BA cL J$L(p,t)=5                                                             
+134BA cL T$from (HI,xn|g)                                                       
+134BA  G 16                                                                     
+134BA  G 585.5     3 100     12E1                      0.00230                  
+134BAX G KC=0.00197 6$LC=0.00024 1$BE1W=2.2E-8 5                                
+134BA  G 1382.0    3 12      4 [E3]                    0.00175                  
+134BAX G KC=0.00148 5$LC=0.00020 1$BE3W=0.24 9                                  
+134BA  L 2029.242  182+                0.159 PS  16                             
+134BAX L XREF=CD                                                                
+134BA cL J$E2 |g to 0+ g.s.                                                     
+134BA  G 861.29    5 1.8     5                                                  
+134BA  G 1424.511  24100.0   16M1+E2     -0.31   5     0.001121                 
+134BAX G KC=0.00096 1$LC=0.00012$BE2W=1.1 4$BM1W=0.036 4                        
+134BA  G 2029.19   4 20.9    4 E2                                               
+134BAX G BE2W=0.43 5                                                            
+134BA  L 2088.288  172+                0.059 PS  5                              
+134BAX L XREF=CDF                                                               
+134BA cL J$E2 |g to 0+ g.s.                                                     
+134BA  G 920.352   2313.1    4 M1+E2                   0.0026 5                 
+134BAX G KC=0.0023 4$LC=0.00029 5                                               
+134BA cG $|d: +0.01 {I12} or +2.2 {I+12-7}                                      
+134BA cG $B(M1)(W.u.)=0.041 {I4}, B(E2)(W.u.)<0.08 if |d=+0.01 {I12};           
+134BAacG B(M1)(W.u.)=0.007 {I7}, B(E2)(W.u.)=25 {I6} if |d=+2.2 {I+12-7}        
+134BA  G 1483.52   3 100.0   21M1+E2     +0.02   5     0.00105                  
+134BAX G KC=0.00090$LC=0.00011$BE2W=0.01 +5-10$BM1W=0.075 7                     
+134BA  G 2088.26   4 39.9    10E2                                               
+134BAX G BE2W=1.55 14                                                           
+134BA  L 2118.195  9 (4+)                                                       
+134BAX L XREF=D                                                                 
+134BA cL J$|g's to 4+,2+ levels; no |g's to 0+,3+ levels                        
+134BA  G 717.604   8 100.0   7                                                  
+134BA  G 950.21    3 19.6    7                                                  
+134BA  L 2159.683  21(0)+              0.104 PS  +28-21                         
+134BAX L XREF=CDG                                                               
+134BA cL J$L(p,t)=0, E2 |g to 2+                                                
+134BA  G 991.73    4 1.8     4 [E2]                    0.00186                  
+134BAX G KC=0.00158 5$LC=0.00021 1$BE2W=2.5 +8-9                                
+134BA  G 1554.946  24100.0   18E2                                               
+134BAX G BE2W=14 +3-14                                                          
+134BA  G 2159.5    5 0.11    LE                                             *  ?
+134BA  L 2164.620  12(4+)                                                       
+134BAX L XREF=D                                                                 
+134BA cL J$|g(|q) and excitation function in (n,n'|g)                           
+134BA  G 764.02    3 57.7    14                                                 
+134BA  G 996.649   12100.0   14                                                 
+134BA  L 2211.3    3 (6+)                                                       
+134BAX L XREF=BDH$FLAG=Z                                                        
+134BA cL J$excitation function in (n,n'|g)                                      
+134BA  G 810.7     3 100       (E2)                    0.00292                  
+134BAX G KC=0.00248 8$LC=0.00033 1                                              
+134BA  L 2244.99   5                                                            
+134BAX L XREF=D                                                                 
+134BA  G 601.65    5 100                                                        
+134BA  L 2254.95   143-                                                         
+134BAX L XREF=CDEF                                                              
+134BA cL J$|s(|q) in Coul. ex., (|a,|a') data                                   
+134BA  G 854.1     3 48      LT                                                ?
+134BA  G 1087.8    3 19.5    8 E1(+M2)   -0.08   7     0.000687                 
+134BAX G KC=0.00059 6                                                           
+134BA  G 1649.97   23100.0   6 E1(+M2)   -0.01   3                              
+134BA  L 2271.57   247-                                                         
+134BAX L XREF=DGH                                                               
+134BA cL J$L(p,t)=7                                                             
+134BA  G 285.1     3 100       [E2]                    0.0534                   
+134BAX G KC=0.0433 13$LC=0.00805 25$MC=0.00169 5                                
+134BA  L 2279.87   3 (2,3)                                                      
+134BAX L XREF=D                                                                 
+134BA cL J$|g(|q) in (n,n'|g); decay pattern                                    
+134BA  G 879.30    3 59.1    16                                                 
+134BA  G 1111.70   1039.3    16                                                 
+134BA  G 1675.10   12100.0   16                                                 
+134BA  L 2285.34   4 (5)+                                                       
+134BAX L XREF=D                                                                 
+134BA cL J$E2 |g to 3+                                                          
+134BA  G 315.54    1218.0    18                                                 
+134BA  G 642.01    5 100     4 E2                      0.00514                  
+134BAX G KC=0.00433 13$LC=0.00061 2                                             
+134BA  G 884.72    6 39.8    20                                                 
+134BA  L 2299.7    3 (6+)                                                       
+134BAX L XREF=DH                                                                
+134BA cL J$|g to 4+; excitation function in (n,n'|g)                            
+134BA  G 899.1     3 100                                                        
+134BA  L 2311        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 2311                                                                   
+134BA  L 2334.76   6 1,2+              0.21 PS   +10-6                          
+134BAX L XREF=CD                                                                
+134BA cL J$|g to 0+                                                             
+134BA  G 1730.05   7 100     7                                                  
+134BA  G 2334.71   9 12.5    14                                                 
+134BA  L 2336.82   3 0+                0.097 PS  +28-21                         
+134BAX L XREF=CDG                                                               
+134BA cL J$E0 transition to g.s.                                                
+134BA  G 1168.63   8 8.4     11E2                      0.00131                  
+134BAX G KC=0.00112 4$LC=0.00014 1$BE2W=5.1 +13-17                              
+134BA  G 1732.12   3 100     2 E2                                               
+134BAX G BE2W=8.5 +19-25                                                        
+134BA  G 2335      3           E0                                               
+134BA  L 2371.02   7 2+                0.46 PS   +21-12                         
+134BAX L XREF=D                                                                 
+134BA cL J$|g(|q) in (n,n'|g); RUL                                              
+134BA  G 728.2     5 7.8     6                                                  
+134BA  G 1766.28   7 100.0   11M1+E2                                            
+134BA cG $|d: -0.80 {I+10-16} or -5.5 {I+9-14}                                  
+134BA cG $B(M1)(W.u.)=0.0044 {I21}, B(E2)(W.u.)=0.6 {I3} if |d=-0.80 {I+10-16}; 
+134BAacG B(M1)(W.u.)=0.00023 {I13}, B(E2)(W.u.)=1.4 {I4} if |d=-5.5 {I+9-14}    
+134BA  G 2371.0    5 12.9    9 E2                                               
+134BAX G BE2W=0.043 +12-20                                                      
+134BA  L 2377.1    4 (6)                                                        
+134BAX L XREF=DH                                                                
+134BA cL J$|g(|q) and excitation function in (n,n'|g)                           
+134BA  G 390.7     3 100                                                        
+134BA  L 2379.112  180+                                                         
+134BAX L XREF=CDG                                                               
+134BA cL J$E0 transition to g.s.                                                
+134BA  G 1211.154  22100     2 E2                      0.00122                  
+134BAX G KC=0.00104 4$LC=0.00013                                                
+134BA  G 1774.35   3 40.5    13E2                                               
+134BA  G 2379.6    15          E0                                               
+134BA  L 2464.28   6 (2+)                                                       
+134BAX L XREF=D                                                                 
+134BA cL J$|g(|q) in (n,n'|g)                                                   
+134BA  G 1859.58   6 100.2   9 (M1+E2)                                          
+134BA cG $|d: +0.18 {I+11-7} or +1.5 {I3}                                       
+134BA  G 2464.15   1016.2    9 (E2)                                             
+134BA  L 2469.58   6 (5)+                                                       
+134BAX L XREF=D                                                                 
+134BA cL J$E2 |g to 3+                                                          
+134BA  G 826.28    6 100     5 E2                      0.00279                  
+134BAX G KC=0.00237 8$LC=0.00032 1                                              
+134BA  G 1068.76   1633.8    23                                                 
+134BA  L 2479      104+                                                         
+134BAX L XREF=G                                                                 
+134BA cL J$L(p,t)=4                                                             
+134BA  L 2480.34   5 (2,3)                                                      
+134BAX L XREF=D$FLAG=S                                                          
+134BA cL J$|g(|q) in (n,n'|g)                                                   
+134BA  G 1875.60   5 100                                                        
+134BA  L 2488.434  210+                0.13 PS   +9-4                           
+134BAX L XREF=CDG                                                               
+134BA cL J$E0 transition to g.s.                                                
+134BA  G 843.91    5 100     10                                                 
+134BAX G FL=1643.336                                                            
+134BA cG E$seen only in (n,n'|g)                                                
+134BA  G 1320.707  2369      3 E2                      0.00102                  
+134BAX G FL=1167.968$KC=0.00087 3$LC=0.00011$BE2W=11 +4-11                      
+134BA  G 1883.74   122.8     2                                                  
+134BA  G 2487.0    15          E0                                               
+134BA  L 2506.26   4 (4+)              0.15 PS   +23-7                          
+134BAX L XREF=D                                                                 
+134BA cL J$|g(|q), excitation function in (n,n'|g)                              
+134BA  G 1105.68   4 100     3 (M1+E2)                 0.0017 3                 
+134BAX G KC=0.00149 24$LC=0.00019 3                                             
+134BA cG $|d: -0.21 {I11} or +1.5 {I5}                                          
+134BA  G 1901.2    2 54      3                                                  
+134BA  L 2531.31   22(5- TO 7-)                                                 
+134BAX L XREF=D                                                                 
+134BA cL J$|g's to 7- and 5- levels                                             
+134BA  G 259.70    1248      7                                                  
+134BA  G 544.97    7 100     5                                                  
+134BA  L 2536.91   5 0 TO 2            0.15 PS   +19-6                          
+134BAX L XREF=CD                                                                
+134BA cL J$log| {Ift}=7.5 from 1+ parent                                        
+134BA  G 1368.96   7 79      6                                                  
+134BA  G 1932.16   6 100     8                                                  
+134BA  L 2564.712  191+,2+             0.06 PS   +12-4                          
+134BAX L XREF=CD$FLAG=M                                                         
+134BA  G 1396.730  2237.4    11M1,E2                   0.0010514                
+134BAX G KC=0.00090 12$LC=0.00011 2                                             
+134BA  G 1959.95   4 100     2 M1,E2                                            
+134BA  G 2564.84   7 5.6     4                                                  
+134BA  L 2570.87   3 1(+)                                                       
+134BAX L XREF=CDI$FLAG=R                                                        
+134BA  G 1402.89   4 58.2    23                                                 
+134BA  G 1966.09   1120      3                                                  
+134BA  G 2570.85   5 100     3                                                  
+134BA  L 2574.31   10(2+)                                                       
+134BAX L XREF=D                                                                 
+134BA cL J$|g(|q) in (n,n'|g)                                                   
+134BA  G 544.7     3 49      6                                                  
+134BA  G 1406.4    5 67      6                                                  
+134BA  G 1969.65   1185      6                                                  
+134BA  G 2573.7    5 100     9 (E2)                                             
+134BA  L 2599.88   4 2+                                                         
+134BAX L XREF=CD                                                                
+134BA cL J$M1+E2 |g to 2+; |g(|q) in (n,n'|g)                                   
+134BA  G 1431.35   132.5     5                                              *  ?
+134BA  G 1995.14   4 100     2 M1+E2                                            
+134BA cG $|d: -0.17 {I+9-7} or +4.1 {I+16-10}                                   
+134BA  G 2599.84   6 3.4     5                                                  
+134BA  L 2656.23   8 (2+)                                                       
+134BAX L XREF=CD                                                                
+134BA cL J$|g to 0+ g.s., possible |g to 4+                                     
+134BA  G 1255.1    3 23      3                                                 ?
+134BA  G 1488.3    3 60      15                                                 
+134BA  G 2051.51   9 100     9 (M1+E2)   -0.4    3                              
+134BA  G 2656.11   187.4     10                                                 
+134BA  L 2661.88   5 3 TO 5                                                     
+134BAX L XREF=D                                                                 
+134BA cL $|g to 3+                                                              
+134BA  G 1018.54   5 100                                                        
+134BA  L 2677.76   8 3,4                                                        
+134BAX L XREF=D                                                                 
+134BA cL J$|g's to 2+ levels                                                    
+134BA  G 648.4     3 12      2                                                  
+134BA  G 2073.02   8 100     2                                                  
+134BA  L 2696.58   5 1,2                                                        
+134BAX L XREF=CD                                                                
+134BA cL J$|g's to 0+ and 2+ levels                                             
+134BA  G 1528.54   7 26.9    21                                                 
+134BA  G 2091.98   9 100     4                                                  
+134BA  G 2696.52   7 31.1    16                                                 
+134BA  L 2729.23   4 1,2+                                                       
+134BAX L XREF=CDG                                                               
+134BA cL J$|g's to 0+, 2+ levels                                                
+134BA  G 1561.4    4 4.1     5                                                  
+134BA  G 2124.49   4 100     2                                                  
+134BA  G 2729        10      LT                                                ?
+134BA  L 2747.965  242+                                                         
+134BAX L XREF=CDG                                                               
+134BA cL J$|g's to 0+, 4+. M1+E2 |g to |p=+                                     
+134BA  G 659.85    9 16.2    16                                                 
+134BA  G 718.71    3 76      5                                                  
+134BA  G 1104.5    5 17      4                                                  
+134BA  G 1347.34   5 31.8    20                                                 
+134BA  G 1579.92   1538      4                                                  
+134BA  G 2143.24   5 100     3 M1+E2                                            
+134BA cG $|d: +0.4 {I+14-2} or +1.1 {I+5-9}                                     
+134BA  G 2748.1    5 0.105   22                                                 
+134BA  L 2758.9    3 1,2+                                                      ?
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 0+, 2+ levels                                                
+134BA  G 1591.1    11100     30                                                ?
+134BA  G 2758.9    3 46      3                                                  
+134BA  L 2760.74   121,2                                                        
+134BAX L XREF=CD$FLAG=S                                                         
+134BA  G 2156.00   12100                                                        
+134BA  L 2773.73   103,4                                                        
+134BAX L XREF=D                                                                 
+134BA cL J$|g to 2+, 4+ levels                                                  
+134BA  G 744.73    1561      5                                                  
+134BA  G 1373.2    1020      5                                                  
+134BA  G 2168.99   10100                                                        
+134BA  L 2779.9    10                                                           
+134BAX L XREF=H                                                                 
+134BA  G 810         100                                                        
+134BA  L 2806        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 2806                                                                   
+134BA  L 2823.72   111-                                                         
+134BAX L XREF=DGI$FLAG=R                                                        
+134BA  G 2823.69   11          E1                                               
+134BA  L 2828.50   4 1+,2+                                                      
+134BAX L XREF=CG$FLAG=M                                                         
+134BA cL J$M1,E2 |g to 2+, |g to 0+                                             
+134BA  G 1184.92   129.8     12                                                 
+134BA  G 1660.57   7 16.2    14                                             *   
+134BA  G 2223.77   4 100     3 M1,E2                                            
+134BA  G 2828.1    3 0.20    6                                                  
+134BA  L 2835.9    4 (8+)                                                       
+134BAX L XREF=BDH$FLAG=Z                                                        
+134BA  G 536                                                                    
+134BA  G 565                                                                    
+134BA  G 624.5     3           (E2)                    0.00552                  
+134BAX G KC=0.00464 14$LC=0.00066 2                                             
+134BA  L 2851.26   6 2+                                                         
+134BAX L XREF=CDG                                                               
+134BA cL J$E2 |g to 0+ g.s.                                                     
+134BA  G 1683.33   7 100     7                                                  
+134BA  G 2246.7    4 18      4                                                  
+134BA cG E$Not seen in (n,n'|g)                                                 
+134BA  G 2851.05   1235.5    17E2                                               
+134BA  L 2874      8 0+                                                         
+134BAX L XREF=G$FLAG=Q                                                          
+134BA  L 2876.89   103 TO 5                                                     
+134BAX L XREF=D                                                                 
+134BA cL J$|g to 3+                                                             
+134BA  G 1233.55   10100                                                        
+134BA  L 2887.04   4 1,2                                                        
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 2+, 3+ levels, log| {Ift}=6.8 from decay of 1+ level         
+134BA  G 1243.84   2126      5                                              *   
+134BA  G 1719.05   6 77      5                                                  
+134BA  G 2282.30   5 100     4                                                  
+134BA  L 2913.1    4                                                            
+134BAX L XREF=H                                                                 
+134BA  G 641.5     3 100                                                        
+134BA  L 2917.61   6 2                                                          
+134BAX L XREF=CD                                                                
+134BA cL J$|g's to 4+, 2+ levels, log| {Ift}=7.3 in decay of 1+ level           
+134BA  G 1517.09   1579      22                                                 
+134BA  G 1749.41   1364      8                                                  
+134BA  G 2312.91   7 100     6                                                  
+134BA  L 2925.99   153 TO 5                                                     
+134BAX L XREF=D                                                                 
+134BA cL J$|g to 3+                                                             
+134BA  G 1282.65   15100                                                        
+134BA  L 2938.93   201+                                                         
+134BAX L XREF=CDI$FLAG=R                                                        
+134BA  G 1771        33      7                                                  
+134BAX G FLAG=M                                                                 
+134BA  G 2334.7    4 26      5                                                 ?
+134BAX G FLAG=M                                                                 
+134BA cG E$Seen only in |e decay                                                
+134BA  G 2938.9    2 100       M1                                               
+134BAX G FLAG=M                                                                 
+134BA  L 2943.90   142 TO 4                                                     
+134BAX L XREF=D                                                                 
+134BA cL J$|g to 2+                                                             
+134BA  G 2339.16   14100                                                        
+134BA  L 2950.56   243,4                                                        
+134BAX L XREF=D                                                                 
+134BA cL J$|g's to 2+ and 3+ levels                                             
+134BA  G 1307.6    4 52      8                                                  
+134BA  G 2345.6    3 100     8                                                  
+134BA  L 2957.2    5 (10+)             2.63 US   14                             
+134BAX L XREF=BH$%IT=100$MOMM1=-2.0 1                                           
+134BA cL J$(E2) |g to (8+); systematics, configuration=(|n h{-11/2}){+-2}       
+134BA cL T$from (HI,xn|g)                                                       
+134BA cL $|m: DPAD (1989Ra17)                                                   
+134BA  G 121.3     3 100       E2                      0.98                     
+134BAX G KC=0.673 21$LC=0.243 8$MC=0.0524 16$BE2W=0.102 6                       
+134BA  L 2996      8 (0)+                                                       
+134BAX L XREF=G$FLAG=Q                                                          
+134BA  L 3004.41   151,2+                                                       
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 0+, 2+ levels                                                
+134BA  G 1243.84   21130     LT                                             *  ?
+134BA  G 1836.43   15100                                                        
+134BA  L 3011        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3011                                                                   
+134BA  L 3011.7    11                                                           
+134BAX L XREF=H                                                                 
+134BA  G 712         100                                                        
+134BA  L 3027.38   6 (1+)                                                       
+134BAX L XREF=CDI$FLAG=R                                                        
+134BA  G 1859.43   6                                                           ?
+134BA cG E$|g not observed in (|g,|g') experiment                               
+134BA  G 2422.4    6 46      6                                                  
+134BA  G 3027.11   18100     7                                                  
+134BA  L 3061.29   6 2(+)                                                       
+134BAX L XREF=CD                                                                
+134BA cL J$|g's to 0+, 2+ and 4+                                                
+134BA  G 1660.57   7 120     LT                                             *  ?
+134BA  G 1893.35   9 100     7                                                  
+134BA  G 2456.2    5 6.2     21                                                 
+134BA  G 3061.23   8 22.7    21                                                 
+134BA  L 3068.85   131,2+                                                      ?
+134BAX L XREF=C                                                                 
+134BA cL J$|g's tp 0+, 2+ levels                                                
+134BA  G 1307.0    7 100     50                                                 
+134BA  G 2464.15   1383      15                                                 
+134BA  L 3074.72   13(2)                                                       ?
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 3+, 4+ levels, log| {Ift}=7.4 from decay of 1+ level         
+134BA  G 1431.35   13100     20                                             *   
+134BA  G 1674.6    5 27      11                                                 
+134BA  L 3079      104+                                                         
+134BAX L XREF=G                                                                 
+134BA cL J$L(p,t)=4                                                             
+134BA  L 3086.65   101+,2+                                                      
+134BAX L XREF=CD                                                                
+134BA cL J$|g's to 0+, 2+ and 3+                                                
+134BA  G 1443.1    2 100     8                                                  
+134BA  G 1917.8    4 86      10                                                 
+134BA  G 2482.24   1762      19                                                 
+134BA  G 3086.59   1536      6                                                  
+134BA  L 3160.07   191,2+                                                       
+134BAX L XREF=CD                                                                
+134BA cL J$|g's to 0+, 2+                                                       
+134BA  G 1992.1    2 100     8                                                  
+134BA  G 3159.9    6 34      5                                                  
+134BA  L 3181      8 (0)+                                                       
+134BAX L XREF=G$FLAG=Q                                                          
+134BA  L 3216.3    6 1,2+                                                      ?
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 0+, 2+ levels                                                
+134BA  G 2612.3    9 13      6                                                  
+134BA  G 3215.7    8 100     40                                                 
+134BA  L 3240.5    4 (9-)                                                       
+134BAX L XREF=H                                                                 
+134BA cL J$stretched (E2) |g to 7-                                              
+134BA  G 328                                                                   ?
+134BA  G 968.9     3 100       (E2)                    0.00195                  
+134BAX G KC=0.00166 5$LC=0.00022 1                                              
+134BA  L 3242.3    8                                                            
+134BAX L XREF=GH                                                                
+134BA  G 865                                                                    
+134BAX G FL=2377.1                                                              
+134BA  G 971                                                                    
+134BA  L 3245.88   19(1+)                                                       
+134BAX L XREF=CDGI$FLAG=R                                                       
+134BA  G 3245.84   19100                                                        
+134BA  L 3262.0    3 2 TO 4                                                     
+134BAX L XREF=D                                                                 
+134BA cL J$|g to 2+                                                             
+134BA  G 2657.2    3 100                                                        
+134BA  L 3272.10   5 1-,2-                                                      
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 2+, 3- levels, log| {Ift}=6.8 from decay of 1+ level         
+134BA  G 1017.3    2 17      8                                                  
+134BA  G 2104.09   6 100     7                                                  
+134BA  G 2667.37   9 34.9    23                                                 
+134BA  L 3311.3    8                                                            
+134BAX L XREF=H                                                                 
+134BA  G 934                                                                    
+134BAX G FL=2377.1                                                              
+134BA  G 1040                                                                   
+134BA  L 3314.56   182,3                                                        
+134BAX L XREF=D                                                                 
+134BA cL J$|g's to 2+, 4+                                                       
+134BA  G 1913.8    2                                                            
+134BA  G 2710.4    4 100                                                        
+134BA  L 3327.25   13(1+)                                                       
+134BAX L XREF=CDI$FLAG=R                                                        
+134BA  G 2159.5    5 90      LE                                             *   
+134BA  G 2722.5    3 77      9                                                  
+134BA  G 3327.18   15100     20                                                 
+134BA  L 3328.3    11                                                           
+134BAX L XREF=H                                                                 
+134BA  G 1117        100                                                        
+134BA  L 3343        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3343                                                                   
+134BA  L 3368.97   6 1,2                                                        
+134BAX L XREF=CD                                                                
+134BA cL J$|g's to 0+, 2+ and 3- levels                                         
+134BA  G 1114.3    6 100     23                                                 
+134BA  G 2764.22   6 60.0    25                                                 
+134BA  G 3368.8    6 1.5     5                                                  
+134BA  L 3371.79   202 TO 4                                                     
+134BAX L XREF=D                                                                 
+134BA cL J$|g to 2+                                                             
+134BA  G 2203.8    2 100                                                        
+134BA  L 3408.72   171,2                                                        
+134BAX L XREF=CDG                                                               
+134BA cL J$|g's to 0+, 2+ and 3+ levels                                         
+134BA  G 1765.71   22100     17                                                 
+134BA  G 2240.4    6 24      8                                                  
+134BA  G 2803.5    3 12.9    15                                                 
+134BA  G 3408.1    8 14      7                                                  
+134BA  L 3432.15   101,2+                                                      ?
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 0+, 2+                                                       
+134BA  G 2827.4    1 100     25                                                 
+134BA  G 3432.1    7 10.0    25                                                 
+134BA  L 3443.39   202 TO 4                                                     
+134BAX L XREF=D                                                                 
+134BA cL J$|g to 2+                                                             
+134BA  G 2275.4    2 100                                                        
+134BA  L 3450.27   8 (1+)                                                       
+134BAX L XREF=CI$FLAG=R                                                         
+134BA  G 2845.6    5 19      10                                                 
+134BA  G 3450.22   8 100     15                                                 
+134BA  L 3451.0    4 1,2+                                                       
+134BAX L XREF=D                                                                 
+134BA cL J$|g's to 0+, 2+                                                       
+134BA  G 2283.0    4 100     10                                                 
+134BA  G 3451.4    1152      10                                                 
+134BA  L 3459.3    12                                                           
+134BAX L XREF=H                                                                 
+134BA  G 217         100                                                        
+134BAX G FL=3242.3                                                              
+134BA  L 3471.1    3 2+                                                        ?
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 0+, 2+                                                       
+134BA  G 2866.4    3 100     14                                                 
+134BA  G 3471.0    5 4.4     23                                                 
+134BA  L 3499.68   14(1,2)                                                      
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 2+, log| {Ift}=7.3 from decay of 1+ level                    
+134BA  G 2894.92   14100                                                        
+134BA  L 3501      8 (0)+                                                       
+134BAX L XREF=G$FLAG=Q                                                          
+134BA  L 3504.2    11                                                           
+134BAX L XREF=H                                                                 
+134BA  G 547         100                                                        
+134BA  L 3548.5    4 1,2+                                                       
+134BAX L XREF=C                                                                 
+134BA cL J$|g to 0+, 2+                                                         
+134BA  G 2943.3    8 100     22                                                 
+134BA  G 3548.5    4 43      8                                                  
+134BA  L 3560        1                                                          
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3560                  D                                                
+134BA  L 3589        1                                                          
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3589                  D                                                
+134BA  L 3599.3    13                                                           
+134BAX L XREF=H                                                                 
+134BA  G 357         100                                                        
+134BAX G FL=3242.3                                                              
+134BA  L 3617        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3617                                                                   
+134BA  L 3618      8 (0)+                                                       
+134BAX L XREF=G$FLAG=Q                                                          
+134BA  L 3635.9    11                                                           
+134BAX L XREF=H                                                                 
+134BA  G 800         100                                                        
+134BA  L 3652.1    5 1,2+                                                      ?
+134BAX L XREF=C                                                                 
+134BA cL J$|g's to 0+, 2+                                                       
+134BA  G 3047.4    5 100     50                                                 
+134BA  G 3652.0    1013      10                                                 
+134BA  L 3684.2    4 2+                                                         
+134BAX L XREF=D                                                                 
+134BA cL J$E2 |g to 0+                                                          
+134BA  G 3684.1    4 100       E2                                               
+134BA  L 3705        1                                                          
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3705                  D                                                
+134BA  L 3754      10                                                           
+134BAX L XREF=G                                                                 
+134BA  L 3783        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3783                                                                   
+134BA  L 3836        1                                                          
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3836                  D                                                
+134BA  L 3853.8    4 2+                                                         
+134BAX L XREF=D                                                                 
+134BA cL J$E2 |g to 0+                                                          
+134BA  G 3853.7    4 100       E2                                               
+134BA  L 3899.1    11                                                           
+134BAX L XREF=H                                                                 
+134BA  G 986         100                                                        
+134BA  L 3954.3    12                                                           
+134BAX L XREF=H                                                                 
+134BA  G 495                                                                    
+134BA  G 712                                                                    
+134BAX G FL=3242.3                                                              
+134BA  L 3980        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3980                                                                   
+134BA  L 3992        (1)                                                        
+134BAX L XREF=I$FLAG=R                                                          
+134BA  G 3992                                                                   
+134BA  L 4001.4    5                                                            
+134BAX L XREF=H                                                                 
+134BA  G 760.9     3 100                                                        
+134BA  L 4019      10                                                           
+134BAX L XREF=G                                                                 
+134BA  L 4083.5    11                                                           
+134BAX L XREF=H                                                                 
+134BA  G 843         100                                                        
+134BAX G FL=3240.5                                                              
+134BA  L 4517.4    12                                                           
+134BAX L XREF=H                                                                 
+134BA  G 516         100                                                        
+134BA  L 4549.9    15                                                           
+134BAX L XREF=H                                                                 
+134BA  G 914         100                                                        
+134BA  L 4635.2    15                                                           
+134BAX L XREF=H                                                                 
+134BA  G 1131        100                                                        
+134BA  L 5001.4    15                                                           
+134BAX L XREF=H                                                                 
+134BA  G 484         100                                                        
+134BA  L 5015.4    15                                                           
+134BAX L XREF=H                                                                 
+134BA  G 498         100                                                        
+134BA  L 5230.9    18                                                           
+134BAX L XREF=H                                                                 
+134BA  G 681         100                                                        
+
+
