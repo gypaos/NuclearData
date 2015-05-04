@@ -1,0 +1,340 @@
+125BA    ADOPTED LEVELS, GAMMAS                                  11NDS    201102
+125BA  H TYP=FUL$AUT=J. KATAKURA$CIT=NDS 112, 495 (2011)$CUT=1-Jan-2010$        
+125BA  Q -5909     288649    175226    14380     16    2009AUZZ                 
+125BA cQ $Q(|ep)=703 {I11} (2009AuZZ)                                           
+125BA c  An isomer with |b{++} endpoint energy of 4.5 MeV {I3} and half-life of 
+125BA2c  8 min {I1} was observed (1968Da09). But no 8 min component was observed
+125BA3c  in the 5-200-keV |g energy region (1975Ar31).                          
+125BA cG E         From {+116}Sn({+12}C,3n|g),{+100}Mo({+29}Si,4n|g),           
+125BA2cG unless otherwise noted                                                 
+125BA cG E,RI(A)   From {+125}La |e decay                                       
+125BA cG E(C)      Complex peak in {+116}Sn({+12}C,3n|g),{+100}Mo({+29}Si,4n|g) 
+125BA2cG reactions. E2 is assumed for                                           
+125BA3cG quadrupole transitions, and M1+E2 is assumed for significant           
+125BA4cG mixture of dipole and quadrupole transitions.                          
+125BA cG M         From |a(K)exp in {+125}La |e decay and |g(|q) in             
+125BA2cG {+116}Sn({+12}C,3n|g),{+100}Mo({+29}Si,4n|g), unless otherwise noted   
+125BA cL J         From |g(|q) in {+116}Sn({+12}C,3n|g),{+100}Mo({+29}Si,4n|g), 
+125BA2cL systematics and band structure, unless otherwise noted                 
+125BA cL E         From a least-squares fit to the adopted E|g's                
+125BA CL BAND(A)$ d{-5/2} qp band, 5/2+ band head, |a=+1/2                      
+125BA CL BAND(B)$ d{-5/2} qp band, 7/2+ band head, |a=-1/2                      
+125BA CL BAND(C,D) 3-QP BAND BUILT ON D5/2 BAND                                 
+125BA CL BAND(E)$ h{-11/2} qp band-1, 9/2- band head, |a=+1/2                   
+125BA CL BAND(F)$ h{-11/2} qp band-1, 7/2- band head, |a=-1/2                   
+125BA CL BAND(G,H)$ 3-QP BAND BUILT ON H11/2 BAND                               
+125BA CL BAND(O)$ h{-11/2} qp band-2.                                           
+125BA  XA100MO(29SI,4NG),116SN(12C,3NG)                                         
+125BA  XB125LA EC DECAY                                                         
+125BA  XC64NI(64NI,3NG)                                                         
+125BA PN                                                                     6  
+125BA  L 0.0         1/2(+)            3.3 M     3                              
+125BAX L XREF=B                                                                 
+125BA2 L %EC+%B+=100                                                            
+125BA cL J         From collinear fast-beam LASER spectroscopy (1983Mu12);      
+125BA2cL systematics                                                            
+125BA cL T         Weighted average of 3.5 min {I4} (1975Ar31) and 3.0 min {I5} 
+125BA2cL (1968Da09)                                                             
+125BA2 L MOMM1=+0.177 12                                                        
+125BA cL MOMM1     From collinear fast-beam LASER spectroscopy (1983Mu12).      
+125BA2cL See also 2005St24 compilation.                                         
+125BA cL $<r{+2}>{+1/2}=4.818 fm {i5} (2004An14, evaluation).                   
+125BA  L 0.0+X       (5/2+)                                                 A   
+125BA DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+125BAX L XREF=ABC                                                               
+125BA2 L MOMM1=+0.1736 10                                                       
+125BA cL MOMM1     From collinear fast-beam LASER spectroscopy (1992Da06).      
+125BA2cL See also 2005St24 compilation.                                         
+125BA  L 43.69     13(3/2+)            0.7 NS    2                              
+125BAX L XREF=B                                                                 
+125BA cL J         M1(+E2) |g to 1/2(+)                                         
+125BA cL T         From centroid shift (2002Sh01)                               
+125BA  G 43.6      5 100       M1(+E2)   1.2     LT    20     10            A   
+125BA2 G FL=0.0+X                                                               
+125BAS G KC=8.9 5$LC=9 8$MC=2.0 17$NC+=0.5 4                                    
+125BAS G NC=0.4 4$OC=0.05 5$PC=0.00056 7                                        
+125BA cG E         From {+125}La |e decay                                       
+125BA cG M$from I(|g)/I(K| x ray) in coincidence spectra                        
+125BA2cG (1989IiZZ,2002Sh01)                                                    
+125BA  L 67.7+X     4(7/2-)            2.76 US   14                         F   
+125BAX L XREF=ABC                                                               
+125BA cL T         From decay curve of 68-keV |g (2002Sh01)                     
+125BA cL J         From E1 |g to (5/2+)                                         
+125BA  G 67.6      5 100       E1                      0.668  17            A   
+125BAB G BE1W=3.17E-7 18                                                        
+125BAS G KC=0.567 14$LC=0.0808 21$MC=0.0166 5$NC+=0.00403 11                    
+125BAS G NC=0.00350 9$OC=0.000504 13$PC=2.79E-5 7                               
+125BA cG E         From {+125}La |e decay                                       
+125BA cG M$from I(|g)/I(K| x ray) in coincidence spectra                        
+125BA2cG (1989IiZZ,2002Sh01)                                                    
+125BA  L 166.4+X    4(9/2-)                                                 E   
+125BAX L XREF=ABC                                                               
+125BA  G 98.8      1 100       M1+E2                   1.5    5                 
+125BAS G KC=1.07 20$LC=0.35 24$MC=0.08 6$NC+=0.018 13                           
+125BAS G NC=0.016 11$OC=0.0022 14$PC=5.77E-5 9                                  
+125BA  L 168.62+X  9 (7/2+)                                                 B   
+125BAX L XREF=ABC                                                               
+125BA  G 168.6     1 100       (M1)                    0.228                    
+125BAS G KC=0.195 3$LC=0.0260 4$MC=0.00536 8$NC+=0.001346 19                    
+125BAS G NC=0.001156 17$OC=0.0001769 25$PC=1.285E-5 19                          
+125BA  L 237.40    10(5/2+)                                                     
+125BAX L XREF=B                                                                 
+125BA cL J         From (E2) |g to 1/2(+)                                       
+125BA  G 193.7     1 90        M1+E2                   0.174  19            A   
+125BAS G KC=0.141 8$LC=0.026 9$MC=0.0055 19$NC+=0.0013 5                        
+125BAS G NC=0.0012 4$OC=0.00017 5$PC=8.3E-6 5                                   
+125BA  G 237.4     1 100       (E2)                    0.0968               A   
+125BA2 G FL=0.0                                                                 
+125BAS G KC=0.0769 11$LC=0.01577 23$MC=0.00335 5$NC+=0.000810 12                
+125BAS G NC=0.000706 10$OC=9.98E-5 14$PC=4.20E-6 6                              
+125BA  L 300.4+X    4(11/2-)                                                F   
+125BAX L XREF=ABC                                                               
+125BA  G 134.0     1 100     5 M1+E2                   0.56   13                
+125BAS G KC=0.43 6$LC=0.10 6$MC=0.022 12$NC+=0.005 3                            
+125BAS G NC=0.0047 25$OC=0.0006 4$PC=2.41E-5 5                                  
+125BA  G 232.7     1 17.4    21                                                 
+125BA cG RI        From {+116}Sn({+12}C,3n|g),{+100}Mo({+29}Si,4n|g).           
+125BA2cG {+125}La |e decay gives 23.4.                                          
+125BA  L     325.9013(7/2+)                                                     
+125BAX L XREF=B                                                                 
+125BA cL J         From (E2) |g to 3/2(+)                                       
+125BA  G 88.5      1 9.1                                                    A   
+125BA  G 282.1     1 100       (E2)                    0.0550               A   
+125BAS G KC=0.0445 7$LC=0.00832 12$MC=0.001759 25$NC+=0.000428 6                
+125BAS G NC=0.000372 6$OC=5.33E-5 8$PC=2.50E-6 4                                
+125BA  L 384.92+X  11(9/2+)                                                 A   
+125BAX L XREF=ABC                                                               
+125BA  G 216.3     1 100     6 M1+E2                   0.124  9                 
+125BAS G KC=0.101 3$LC=0.018 5$MC=0.0037 11$NC+=0.00092 24                      
+125BAS G NC=0.00080 22$OC=0.00012 3$PC=6.0E-6 5                                 
+125BA  G 385.0     2 8.4     17                                                 
+125BA cG RI        From {+116}Sn({+12}C,3n|g),{+100}Mo({+29}Si,4n|g).           
+125BA2cG {+125}La |e decay gives 41.2.                                          
+125BA  L 572.9+X    4(13/2-)                                                E   
+125BAX L XREF=AC                                                                
+125BA  G 272.4     1 100     5 D+Q                                              
+125BA  G 406.5     1 49.4    25(Q)                                              
+125BA  L   639.43+X12(11/2+)                                                B   
+125BAX L XREF=AC                                                                
+125BA  G 254.5     1 100     7 D+Q                                              
+125BA  G 470.8     1 95      13Q                                                
+125BA  L     651.4014                                                           
+125BAX L XREF=B                                                                 
+125BA  G 414.0     1 100                                                    A   
+125BA  L 688.0+X    4                                                           
+125BAX L XREF=B                                                                 
+125BA  G 521.6     1 100                                                    A   
+125BA  L 702.4+X    4                                                           
+125BAX L XREF=B                                                                 
+125BA  G 634.7     1 100                                                    A   
+125BA  L 735.5+X    4                                                           
+125BAX L XREF=B                                                                 
+125BA  G 569.1     1 100                                                    A   
+125BA  L 751.1+X    4(15/2-)                                                F   
+125BAX L XREF=AC                                                                
+125BA  G 178.1     1 34.9    24D+Q                                              
+125BA  G 450.7     1 100     5 (Q)                                              
+125BA  L 753.6+X    4                                                           
+125BAX L XREF=B                                                                 
+125BA  G 685.9     1 100                                                    A   
+125BA  L 763.31    17                                                           
+125BAX L XREF=B                                                                 
+125BA  G 111.9     1                                                        A   
+125BA  G 526.0     5                                                        A   
+125BA  L 841.9+X    4                                                           
+125BAX L XREF=B                                                                 
+125BA  G 675.5     1                                                        A   
+125BA  G 774.1     1                                                        A   
+125BA  L    910.4+X 7                                                           
+125BAX L XREF=B                                                                 
+125BA  G 610.0     5 100                                                    A   
+125BA  L 931.29+X  17(13/2+)                                                A   
+125BAX L XREF=AC                                                                
+125BA  G 291.7     2 38      5 D+Q                                              
+125BA  G 546.5     2 100     LE                                             *   
+125BA  G 631                   (E1)                                             
+125BAS G CC=0.00193 3$KC=0.001672 24$LC=0.000208 3$MC=4.26E-5 6$NC+=1.068E-5 15 
+125BAS G NC=9.18E-6 13$OC=1.401E-6 20$PC=1.010E-7 15                            
+125BA  L 1163.1+X   4(17/2-)                                                E   
+125BAX L XREF=AC                                                                
+125BA  G 412.1     1 100     8 (D+Q)                                            
+125BA  G 590.2     1 89      14(Q)                                              
+125BA  L 1242.8+X   4(15/2-)                                                O   
+125BAX L XREF=A                                                                 
+125BA  G 669.9     1 100       D+Q                                              
+125BA  L 1253.00+X 21(15/2+)                                                B   
+125BAX L XREF=AC                                                                
+125BA  G 321.7     2 72      11D+Q                                              
+125BA  G 613.7     3 100     18Q                                                
+125BA  G 680                   (E1)                                             
+125BAS G CC=0.001648 23$KC=0.001425 20$LC=0.0001772 25$MC=3.62E-5 5$NC+=9.08E-6 
+125BAS G NC=7.80E-6 11$OC=1.191E-6 17$PC=8.62E-8 12                             
+125BA  L    1284.2014                                                           
+125BAX L XREF=B                                                                 
+125BA  G 958.2     1                                                        A   
+125BA  G 1240.6    1                                                        A   
+125BA  L    1311.1016                                                           
+125BAX L XREF=B                                                                 
+125BA  G 985.2     1 100                                                    A   
+125BA  L 1354.8+X   4(19/2-)                                                F   
+125BAX L XREF=AC                                                                
+125BA  G 191.6     2 11.7    20                                                 
+125BA  G 603.6     2 100     15Q                                                
+125BA  L 1603.45+X 24(17/2+)                                                A   
+125BAX L XREF=AC                                                                
+125BA  G 350.5     2 41      10D+Q                                              
+125BA  G 672.1     3 100     18Q                                                
+125BA  G 852                   (E1)                                             
+125BAS G CC=0.001038 15$KC=0.000899 13$LC=0.0001109 16$MC=2.27E-5 4$NC+=5.68E-6 
+125BAS G NC=4.88E-6 7$OC=7.47E-7 11$PC=5.46E-8 8                                
+125BA  L 1803.2+X   4(19/2-)                                                O   
+125BAX L XREF=A                                                                 
+125BA  G 560.3     2 100     16Q                                                
+125BA  G 640.2     2 48      10D+Q                                              
+125BA  L 1901.5+X   4(21/2-)                                                E   
+125BAX L XREF=AC                                                                
+125BA  G 546.5     2 100     15                                             *   
+125BA  G 738.5     2 95      13Q                                                
+125BA  L   1970.4+X 5(19/2+)                                                B   
+125BAX L XREF=AC                                                                
+125BA  G 367                                                                    
+125BA  G 717.3     5 100     12Q                                            C   
+125BA  G 807                   (E1)                                             
+125BAS G CC=0.001157 17$KC=0.001002 14$LC=0.0001238 18$MC=2.53E-5 4$NC+=6.34E-6 
+125BAS G NC=5.45E-6 8$OC=8.34E-7 12$PC=6.08E-8 9                                
+125BA  L 2085.8+X   4(23/2-)                                                F   
+125BAX L XREF=AC                                                                
+125BA  G 184.2     2 7.5     18                                                 
+125BA  G 731.1     2 100     12Q                                                
+125BA  L 2350.4+X   6(21/2+)                                                A   
+125BAX L XREF=AC                                                                
+125BA  G 380                                                                    
+125BA  G 747                                                                    
+125BA  G 996                   (E1)                                             
+125BAS G CC=0.000767 11$KC=0.000665 10$LC=8.16E-5 12$MC=1.666E-5 24$NC+=4.18E-6 
+125BAS G NC=3.59E-6 5$OC=5.50E-7 8$PC=4.05E-8 6                                 
+125BA  L 2402.3+X   5(23/2-)                                                O   
+125BAX L XREF=A                                                                 
+125BA  G 599.1     2 100       Q                                                
+125BA  L   2474.1+X 8(21/2+)                                                    
+125BAX L XREF=A                                                                 
+125BA  G 871                                                                    
+125BA  L   2678.8+X 6(23/2+)                                                B   
+125BAX L XREF=AC                                                                
+125BA  G 205                                                                    
+125BA  G 329                                                                    
+125BA  G 708                                                                    
+125BA  G 777                   E1                                               
+125BAS G CC=0.001249 18$KC=0.001081 16$LC=0.0001338 19$MC=2.73E-5 4$NC+=6.86E-6 
+125BAS G NC=5.89E-6 9$OC=9.01E-7 13$PC=6.56E-8 10                               
+125BA  L 2747.7+X   4(25/2-)                                                E   
+125BAX L XREF=AC                                                                
+125BA  G 661.8     2 100     12(D+Q)                                            
+125BA  G 846.2     2 43      8 (Q)                                              
+125BA  L 2911.6+X   5(27/2-)                                                F   
+125BAX L XREF=AC                                                                
+125BA  G 163       1 20      13(D+Q)                                            
+125BA  G 825.8     3 100     20Q                                                
+125BA  L 2942.7+X   7(25/2+)                                                A   
+125BAX L XREF=AC                                                                
+125BA  G 264                                                                    
+125BA  G 592                                                                    
+125BA  G 857                                                                    
+125BA  L 3222.7+X   7(27/2+)                                                B   
+125BAX L XREF=AC                                                                
+125BA  G 280                                                                    
+125BA  G 475                                                                    
+125BA  G 544                                                                    
+125BA  L 3532.8+X   7(29/2-)                                                G   
+125BAX L XREF=A                                                                 
+125BA  G 621       1 100     50(D+Q)                                            
+125BA  G 785.3     7 47      25(Q)                                              
+125BA  L 3554.7+X   9(29/2+)                                                A   
+125BAX L XREF=AC                                                                
+125BA  G 332                                                                    
+125BA  G 612                                                                    
+125BA  L 3693.7+X  11(29/2+)                                                E   
+125BAX L XREF=C                                                                 
+125BA  G 946                                                                    
+125BA  L 3769.7+X   7(31/2-)                                                F   
+125BAX L XREF=AC                                                                
+125BA  G 236.9     7 8       5 (D+Q)                                            
+125BA  G 857.8     7 100     50(Q)                                              
+125BA  L 3873.7+X  10(31/2+)                                                B   
+125BAX L XREF=AC                                                                
+125BA  G 319                                                                    
+125BA  G 651                                                                    
+125BA  L 3912.9+X   8(31/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 380                                                                    
+125BA  G 1002                                                                   
+125BA  L 4168.9+X   8(33/2-)                                                G   
+125BAX L XREF=A                                                                 
+125BA  G 256                                                                    
+125BA  G 399       1 100     50D+Q                                              
+125BA  G 636.3     7 47      24                                                 
+125BA  L 4291.7+X  11(33/2+)                                                C   
+125BAX L XREF=A                                                                 
+125BA  G 418                                                                    
+125BA  G 737                                                                    
+125BA  L 4565.6+X   8(35/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 396.9     7 100     50(D+Q)                                            
+125BA  G 653                                                                    
+125BA  G 795       1 43      22                                                 
+125BA  L 4668.7+X  12(35/2+)                                                D   
+125BAX L XREF=A                                                                 
+125BA  G 377                                                                    
+125BA  G 795                                                                    
+125BA  L 4747.7+X  12(35/2+)                                                F   
+125BAX L XREF=A                                                                 
+125BA  G 978                                                                    
+125BA  L 4964.8+X  10(37/2-)                                                G   
+125BAX L XREF=A                                                                 
+125BA  G 400       1                                                            
+125BA  G 796       1                                                            
+125BA  L 5154.7+X  15(37/2+)                                                C   
+125BAX L XREF=A                                                                 
+125BA  G 863                                                                    
+125BA  L   5458.3+X11(39/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 494                                                                    
+125BA  G 892                                                                    
+125BA  L 5607.7+X  16(39/2+)                                                D   
+125BAX L XREF=A                                                                 
+125BA  G 939                                                                    
+125BA  L   5928.5+X12(41/2-)                                                G   
+125BAX L XREF=A                                                                 
+125BA  G 470                                                                    
+125BA  G 964                                                                    
+125BA  L 6467.5+X  13(43/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 539                                                                    
+125BA  G 1009                                                                   
+125BA  L   6679.7+X19(43/2+)                                                D   
+125BAX L XREF=A                                                                 
+125BA  G 1072                                                                   
+125BA  L 7021.5+X  14(45/2-)                                                G   
+125BAX L XREF=A                                                                 
+125BA  G 554                                                                    
+125BA  G 1093                                                                   
+125BA  L 7574.5+X  16(47/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 1107                                                                   
+125BA  L 7800.7+X  21(47/2+)                                                D   
+125BAX L XREF=A                                                                 
+125BA  G 1121                                                                   
+125BA  L 8201.5+X  17(49/2-)                                                G   
+125BAX L XREF=A                                                                 
+125BA  G 1180                                                                   
+125BA  L 8760.5+X  19(51/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 1186                                                                   
+125BA  L 9946.5+X  22(55/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 1186                                                                   
+125BA  L 11178.5+X 24(59/2-)                                                H   
+125BAX L XREF=A                                                                 
+125BA  G 1232                                                                   
+
+

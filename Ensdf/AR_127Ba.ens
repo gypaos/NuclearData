@@ -1,0 +1,769 @@
+127BA    ADOPTED LEVELS, GAMMAS                                  11NDS    201108
+127BA  H TYP=FUL$AUT=A. HASHIZUME$CIT=NDS 112, 1647 (2011)$CUT=1-Oct-2009$      
+127BA  XA127BA IT DECAY                                                         
+127BA  XB127LA B+ DECAY (3.7 M)                                                 
+127BA  XC127LA B+ DECAY (5.1 M)                                                 
+127BA  XD(HI,XNG)                                                               
+127BA  Q -4920     28  8217  17  5760  17     8  15    2003Au03                 
+127BA c  Assignment: {+115}In({+16}O,4n) chem (1975Pa03); Ce(p,spallation)      
+127BA2c  E=600 MeV chem (1976Be11)                                              
+127BA c  Nuclear structure calculations on the levels and their properties:     
+127BA2c  1996Gr03, 1993Ge06, 1992Bu11, 1992Zh10, 1991Bu03,                      
+127BA3c  1990Hs01, 1987Al21, 1985Ha34, 1984Me02, 1982Cu03                       
+127BA c  1968Da09 reported two isomers with half-life of 10 min and 18 min.     
+127BA2c  However, the latter has not been confirmed by others.                  
+127BA c  Both level scheme and band assignments are from 1992Wa07 and 1998De48. 
+127BA CL BAND(A)$ Band built on the (35/2-) state                               
+127BA CL BAND(B)$ |nh{-11/2}, |W=5/2 favored, |a=-1/2.                          
+127BA2cL (|W: The projection of                                                 
+127BA2cL particle angular momentum to the nuclear symmetry axis).               
+127BA CL BAND(C)$ |nh{-11/2}, |W=7/2, |a=+1/2.                                  
+127BA CL BAND(D)$ |nh{-11/2}, |W=7/2, |a=-1/2.                                  
+127BA CL BAND(E)$ |nh{-11/2}|ph{-11/2}{+2}, |a=+1/2.                            
+127BA CL BAND(F)$ |nh{-11/2}|ph{-11/2}{+2}, |a=-1/2.                            
+127BA CL BAND(G)$ Band built on the 27/2- state, |a=-1/2.                       
+127BA CL BAND(H)$ |nd{-3/2}, |W=1/2, |a=-1/2.                                   
+127BA CL BAND(I)$ |nd{-3/2}, |W=1/2, |a=+1/2                                    
+127BA CL BAND(J)$ |ng{-7/2}, |W=7/2.                                            
+127BA CL BAND(K)$ (|nd{-5/2}), |W=5/2, |a=+1/2.                                 
+127BA CL BAND(L)$ (|nd{-5/2}), |W=5/2, |a=-1/2.                                 
+127BA CL BAND(M)$ (|nd{-5/2})|n1h{-11/2}{+2}|p1h{-11/2}{+2}, |a=+1/2.           
+127BA CL BAND(N)$ (|nd{-5/2})|n1h{-11/2}{+2}|p1h{-11/2}{+2}, |a=-1/2.           
+127BA CL BAND(O)$ Band built on the 27/2+ state, |a=-1/2.                       
+127BA CL BAND(P)$ Band built on the 25/2+ state, |a=+1/2.                       
+127BA cL E         From a least-squares fit to adopted E|g's                    
+127BA cL J         From |g multipolarities determined by 1992Wa07 and 1998De48: 
+127BA2cL proposed band structures are based on the cranking model analysis and  
+127BA3cL |g cascade relations.                                                  
+127BA cL T         From {+127}Ba |b{++} decay and {+127}Ba IT decay             
+127BA cG E,RI      From (HI,xn|g), except as noted                              
+127BA cG M         From DCO ratio in (HI,xn|g) and placement in level           
+127BA2cG scheme, unless otherwise noted                                         
+127BA cG E(X),M(X) From {+127}Ba IT decay                                       
+127BA PN                                                                     6  
+127BA  L 0.0         1/2+              12.7 M    4                          I   
+127BAX L XREF=ABCD                                                              
+127BA2 L %EC+%B+=100                                                            
+127BA3 L MOMM1=+0.089 12                                                        
+127BA cL MOMM1$collinear fast-beam LASER spectroscopy. Value relative to        
+127BA2cL those of g.s. of {+135}Ba and {+137}Ba (1989Ra17). Other: 0.0834 {I10} 
+127BAxcL (1992Da06)                                                             
+127BA cL J         J=1/2 from LASER spectroscopy, |m                            
+127BA cL T         from 1976Be11 in {+127}Ba |b{++} decay. Others: 10.0 min {I5}
+127BA2cL (1962Pr09), 10 min {I1} (1968Da09), 13.0 min {I5} (1975Pa03)           
+127BA cL           <r{+2}>{+1/2}(charge)=4.821 {I5} (2004An14)                  
+127BA  L 56.17      93/2+                                                   H   
+127BAX L XREF=ABCD                                                              
+127BA cL J         M1+E2 |g to 1/2+                                             
+127BA  G 56.2      1      100  M1(+E2)                 10     6             X   
+127BA2 G EKC=5.0 4                                                              
+127BAS G KC=5.0 6$LC=4 4$MC=0.9 9$NC+=0.22 19                                   
+127BAS G NC=0.20 17$OC=0.025 22$PC=0.000271 23                                  
+127BA  L 80.32     11 7/2-             1.93 S    7                          DM  
+127BAX L XREF=ACD                                                               
+127BA2 L %IT=100                                                                
+127BA cL J         J=7/2 from LASER spectroscopy, M2 |g to 3/2+                 
+127BA2 L MOMM1=-0.7227 5$MOME2=1.62 13                                          
+127BA cL MOMM1,MOME2$collinear fast-beam LASER spectroscopy. Both values        
+127BA2cL relative to those of g.s. of {+135}Ba and {+137}Ba (1992Da06)          
+127BA cL T         from |g-multiscaling in the {+127}Ba IT decay (2002Sh01)     
+127BA  G 24.2      1   100   20M2                      995    24            X   
+127BAB G BM2W=7.0E-5 6                                                          
+127BAS G LC=775 19$MC=176 5$NC+=43.9 11                                         
+127BAS G NC=38.0 9$OC=5.53 14$PC=0.301 7                                        
+127BA cG $|a(exp)=600 to 1600                                                   
+127BA  G 80.2      2    58    7E3                      74.8   15            X   
+127BAB G BE3W=0.017 4                                                           
+127BAS G KC=11.75 19$LC=49.1 10$MC=11.34 23$NC+=2.64 6                          
+127BAS G NC=2.35 5$OC=0.297 6$PC=0.000471 8                                     
+127BA DG CC        E3 CC(THEORY)'S MULT. BY 0.975 10 (Cf. 1990Ne01)             
+127BA cG M$From |g-X and |g-e coincidence in IT decay (1981Li08,1981LiZK)       
+127BA  L 81.29     13(5/2)+            75 NS     4                          K   
+127BAX L XREF=BCD                                                               
+127BA cL J         M1 |g to 3/2+, syst of the odd Ba isotopes                   
+127BA cL T         from |g|g delayed coincidence (2002Sh01)                     
+127BA  G 25.1      2    100    M1                      8.19   23                
+127BAB G BM1W=0.00195 15                                                        
+127BAS G LC=6.51 19$MC=1.34 4$NC+=0.337 10                                      
+127BAS G NC=0.289 8$OC=0.0441 13$PC=0.00315 9                                   
+127BA cG $|a(exp)=6.9 to 20.2                                                   
+127BA  G 81.3      2    3.7                                                     
+127BA  L 159.66    14(9/2)-            0.4 NS    2                          C   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to 7/2-, syst of the band built on h{-11/2} state   
+127BA2cL in the odd-Ba isotopes                                                 
+127BA cL T         from centroid shift method of |g spectrum (2002Sh01).        
+127BA  G 79.4      2      100  M1+E2     -0.16   5     1.97   6                 
+127BA2 G EKC=2.0 1                                                              
+127BAS G KC=1.65 3$LC=0.255 24$MC=0.053 6$NC+=0.0132 13                         
+127BAS G NC=0.0114 11$OC=0.00170 14$PC=0.0001078 17                             
+127BA  L 195.56    14(7/2)+                                                 L   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to (5/2)+, syst of the band built on d{-5/2} state  
+127BA2cL in the odd-Ba isotopes                                                 
+127BA  G 114.28    9 100       M1+E2     -0.09   5     0.680  12                
+127BA2 G EKC=1.0 5                                                              
+127BAS G KC=0.580 9$LC=0.079 3$MC=0.0164 7$NC+=0.00411 15                       
+127BAS G NC=0.00354 13$OC=0.000538 17$PC=3.81E-5 6                              
+127BA  L 269.6      3(5/2)+                                                 I   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to 3/2+                                             
+127BA  G 213.3     5    12     M1+E2                   0.129  10                
+127BAS G KC=0.106 4$LC=0.019 5$MC=0.0039 12$NC+=0.0010 3                        
+127BAS G NC=0.00084 23$OC=0.00012 3$PC=6.3E-6 5                                 
+127BA cG $|a(K)exp=0.10 {I3} for 213.3+213.7                                    
+127BA  G 269.6     5    100    (E2)                    0.0637                   
+127BA2 G EKC=0.062 28                                                           
+127BAS G KC=0.0513 8$LC=0.00982 16$MC=0.00208 4$NC+=0.000505 8                  
+127BAS G NC=0.000439 7$OC=6.26E-5 10$PC=2.87E-6 5                               
+127BA  L 293.91    14(11/2)-                                                D   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to (9/2)-, syst of the band built on h{-11/2} state 
+127BA2cL in the odd-Ba isotopes                                                 
+127BA  G 134.28    9      100 6M1+E2     -0.18   3     0.437                    
+127BA2 G EKC=0.45 18                                                            
+127BAS G KC=0.371 6$LC=0.0525 14$MC=0.0109 3$NC+=0.00272 7                      
+127BAS G NC=0.00234 7$OC=0.000354 9$PC=2.42E-5 4                                
+127BA cG M         from DCO, |a(K)exp and K/L in (HI,xn|g)                      
+127BA  G 213.5     2     15.116(E2)                    0.1380                   
+127BAS G KC=0.1081 16$LC=0.0237 4$MC=0.00505 8$NC+=0.001217 18                  
+127BAS G NC=0.001062 16$OC=0.0001489 22$PC=5.80E-6 9                            
+127BA cG $|a(K)exp=0.10 {I3} for 213.3+213.7                                    
+127BA cG RI        The relative intensities for 134.28 and 213.5 |g from        
+127BA2cG {+127}La |b{++} decay (5.1 min) are 100 and 11.4 (2002Sh01).           
+127BA  L 324.26    23(7/2)+                                                 J   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to (5/2)+ and (7/2)+                                
+127BA  G 128.7     5    9.3    M1+E2                     0.64 16                
+127BA2 G EKC=1.2 5                                                              
+127BAS G KC=0.48 7$LC=0.12 7$MC=0.026 15$NC+=0.006 4                            
+127BAS G NC=0.005 3$OC=0.0008 4$PC=2.70E-5 6                                    
+127BA  G 243.0     5    100    M1+E2                   0.087  3                 
+127BA2 G EKC=0.078 25                                                           
+127BA2 G FL=81.29                                                               
+127BAS G KC=0.0720 13$LC=0.0120 25$MC=0.0025 6$NC+=0.00062 13                   
+127BAS G NC=0.00054 12$OC=7.8E-5 14$PC=4.3E-6 5                                 
+127BA  L 375.17    23(7/2)+                                                 H   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to 3/2+                                             
+127BA  G 105.4     5    9.9                                                     
+127BA  G 293.7     5    3.8                                                     
+127BA  G 318.7     5    100    (E2)                    0.0373                   
+127BA2 G EKC=0.035 10                                                           
+127BAS G KC=0.0305 5$LC=0.00539 9$MC=0.001136 18$NC+=0.000277 5                 
+127BAS G NC=0.000241 4$OC=3.47E-5 6$PC=1.75E-6 3                                
+127BA  L 415.89    16(9/2)+                                                 K   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to (7/2)+                                           
+127BA  G 91.6      5      2.3 5                                                 
+127BA  G 220.35    14     100 5M1+E2     -0.34   5     0.1115 17                
+127BA2 G EKC=0.097 30                                                           
+127BAS G KC=0.0947 14$LC=0.0133 3$MC=0.00276 7$NC+=0.000690 16                  
+127BAS G NC=0.000594 14$OC=8.98E-5 19$PC=6.09E-6 9                              
+127BA cG M         from DCO and |a(K)exp in (HI,xn|g)                           
+127BA  G 334.4     3     24.425                                                 
+127BA cG RI        The relative intensities for 91.6, 220.35 and 334.4 |g from  
+127BA2cG {+127}La |b{++} decay (5.1 min) are 5.7, 100 and 36 respectively       
+127BA3cG (2002Sh01).                                                            
+127BA  L 579.52    17(13/2)-                                                C   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to (11/2)-                                          
+127BA  G 285.57    17     100 6M1+E2     -0.07   5     0.0552                   
+127BA2 G EKC=0.047 15                                                           
+127BAS G KC=0.0473 7$LC=0.00622 9$MC=0.001280 19$NC+=0.000322 5                 
+127BAS G NC=0.000276 4$OC=4.23E-5 6$PC=3.09E-6 5                                
+127BA  G 419.80    18      41 5(E2)                    0.01619                  
+127BAS G KC=0.01348 19$LC=0.00214 3$MC=0.000448 7$NC+=0.0001103 16              
+127BAS G NC=9.55E-5 14$OC=1.402E-5 20$PC=7.98E-7 12                             
+127BA  L 599.36    25(9/2+)                                                 J   
+127BAX L XREF=CD                                                                
+127BA  G 275.2      5                                                           
+127BA  G 403.8      5                                                           
+127BA  G 518.2      5                                                           
+127BAF G FL=81.29                                                               
+127BA  L 669.11    17(11/2)+                                                L   
+127BAX L XREF=CD                                                                
+127BA cL J         M1+E2 |g to (9/2)+                                           
+127BA  G 253.20    17      67 7M1+E2     -0.33   8     0.0761                   
+127BA2 G EKC=0.087 30                                                           
+127BAS G KC=0.0648 10$LC=0.00894 22$MC=0.00185 5$NC+=0.000462 11                
+127BAS G NC=0.000398 10$OC=6.03E-5 13$PC=4.18E-6 7                              
+127BA cG M         from DCO and |a(K)exp in (HI,xn|g)                           
+127BA  G 473.70    19     10011(E2)                    0.01145                  
+127BAS G KC=0.00960 14$LC=0.001469 21$MC=0.000306 5$NC+=7.56E-5 11              
+127BAS G NC=6.54E-5 10$OC=9.66E-6 14$PC=5.75E-7 8                               
+127BA  G 509.4     5       16 4                                                 
+127BA cG E         not observed in |b{++} decay (5.1 min)                       
+127BA  L 715.3      6                                                           
+127BAX L XREF=C                                                                 
+127BA  G 555.6      5     100                                                   
+127BA  L 728.5      4(9/2+)                                                 I   
+127BAX L XREF=CD                                                                
+127BA  G 353.4      5                                                           
+127BA  G 458.9      5                                                           
+127BA  L 777.07    18(15/2-)                                                D   
+127BAX L XREF=CD                                                                
+127BA  G 197.45    14    44.723(M1+E2)   -0.19   5     0.1491 22                
+127BAS G KC=0.1273 19$LC=0.0173 4$MC=0.00358 9$NC+=0.000898 20                  
+127BAS G NC=0.000772 18$OC=0.0001175 24$PC=8.30E-6 12                           
+127BA  G 483.26    19     100 6E2                      0.01083                  
+127BAS G KC=0.00909 13$LC=0.001382 20$MC=0.000288 4$NC+=7.11E-5 10              
+127BAS G NC=6.15E-5 9$OC=9.10E-6 13$PC=5.45E-7 8                                
+127BA cG M         from DCO and |a(K)exp in (HI,xn|g)                           
+127BA  L 805.1      6                                                           
+127BAX L XREF=C                                                                 
+127BA  G 645.4      5     100                                                   
+127BA  L 832.5      4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 672.5      5                                                           
+127BA  G 752.6      5                                                           
+127BAF G FL=80.32                                                               
+127BA  L 868.2      3(11/2+)                                                H   
+127BAX L XREF=CD                                                                
+127BA  G 452.2     5       5010                                                 
+127BA  G 492.9     5      10010                                                 
+127BA  G 543.9     5       42 9                                                 
+127BA  L 876.9      4                                                           
+127BAX L XREF=CD                                                                
+127BA  G 583.0     6 100     6                                                  
+127BA  G 717.5     7 22.6    23                                                 
+127BA  G 795.9      5                                                           
+127BAF G FL=80.32                                                               
+127BA  L 906.5      3(11/2+)                                                J   
+127BAX L XREF=CD                                                                
+127BA  G 307.0      5                                                           
+127BA  G 490.3      5                                                           
+127BA  G 531.4      5                                                           
+127BA  G 582.3      5                                                           
+127BA  L 963.85    18(13/2+)                                                K   
+127BAX L XREF=CD                                                                
+127BA  G 294.74    17      78 9M1+E2     -0.33   4     0.0505 8                 
+127BAS G KC=0.0431 7$LC=0.00585 9$MC=0.001207 19$NC+=0.000302 5                 
+127BAS G NC=0.000260 4$OC=3.95E-5 6$PC=2.78E-6 5                                
+127BA cG M         from DCO and |a(K)exp in (HI,xn|g)                           
+127BA  G 548.00    19     10011(E2)                                             
+127BAS G CC=0.00768 11$KC=0.00648 9$LC=0.000953 14$MC=0.000198 3$NC+=4.90E-5 7  
+127BAS G NC=4.23E-5 6$OC=6.30E-6 9$PC=3.93E-7 6                                 
+127BA  G 669.8     5     12.225                                                 
+127BA cG E         not observed in |b{++} decay (5.1 min)                       
+127BA  L 987.3      4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 693.3      5                                                           
+127BA  G 827.7      5                                                           
+127BA  L 991.2      4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 697.4      5                                                           
+127BA  G 831.4      5                                                           
+127BA  G 911.0      5                                                           
+127BAF G FL=80.32                                                               
+127BA  L 1194.77   20(17/2-)                                                C   
+127BAX L XREF=D                                                                 
+127BA  G 417.76    18      77 9(M1+E2)   -0.18   7     0.0205 4                 
+127BAS G KC=0.0176 3$LC=0.00230 4$MC=0.000472 7$NC+=0.0001187 17                
+127BAS G NC=0.0001020 15$OC=1.563E-5 23$PC=1.144E-6 19                          
+127BA  G 615.22    19     10011(E2)                                             
+127BAS G CC=0.00568 8$KC=0.00481 7$LC=0.000687 10$MC=0.0001425 20$NC+=3.54E-5 5 
+127BAS G NC=3.05E-5 5$OC=4.57E-6 7$PC=2.93E-7 5                                 
+127BA  L 1219.56   23(15/2-)                                                B   
+127BAX L XREF=CD                                                                
+127BA  G 442.6     5 19      4                                                  
+127BA  G 640.2     2 100     12(M1+E2)   -0.34   4                              
+127BAS G CC=0.00696 11$KC=0.00599 10$LC=0.000771 12$MC=0.0001584 24$NC+=3.98E-5 
+127BAS G NC=3.42E-5 5$OC=5.24E-6 8$PC=3.85E-7 7                                 
+127BA  G 1059.1     5                                                           
+127BA  L 1230.5     6(13/2+)                                                J   
+127BAX L XREF=CD                                                                
+127BA  G 324.0      5     100                                                   
+127BA  L 1291.42   19(15/2+)                                                L   
+127BAX L XREF=D                                                                 
+127BA  G 327.50    17      69 8                                                 
+127BA  G 622.31    19     10011(E2)                                             
+127BAS G CC=0.00551 8$KC=0.00467 7$LC=0.000666 10$MC=0.0001381 20$NC+=3.43E-5 5 
+127BAS G NC=2.96E-5 5$OC=4.43E-6 7$PC=2.85E-7 4                                 
+127BA  G 711.9     5       13 3                                                 
+127BA  L 1305.3     4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 428.8      5                                                           
+127BA  G 725.4      5                                                           
+127BA  L 1403.3     4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 1109.4     5                                                           
+127BA  G 1243.7     5                                                           
+127BA  L 1410.4     4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 1116.4     5                                                           
+127BA  G 1250.8     5                                                           
+127BA  L 1421.68   21(19/2-)                                                D   
+127BAX L XREF=D                                                                 
+127BA  G 226.80    19    13.614(M1+E2)   -0.19   7     0.1022                   
+127BAS G KC=0.0874 13$LC=0.0118 3$MC=0.00243 6$NC+=0.000609 14                  
+127BAS G NC=0.000524 12$OC=7.99E-5 16$PC=5.69E-6 9                              
+127BA  G 644.45    19     100 5(E2)                                             
+127BAS G CC=0.00505 7$KC=0.00428 6$LC=0.000606 9$MC=0.0001255 18$NC+=3.12E-5 5  
+127BAS G NC=2.69E-5 4$OC=4.03E-6 6$PC=2.62E-7 4                                 
+127BA  L 1519.9     3(15/2+)                                                H   
+127BAX L XREF=D                                                                 
+127BA  G 555.7     5       18 4                                                 
+127BA  G 651.8     2      100 9(E2)                                             
+127BAS G CC=0.00490 7$KC=0.00416 6$LC=0.000587 9$MC=0.0001217 17$NC+=3.02E-5 5  
+127BAS G NC=2.61E-5 4$OC=3.91E-6 6$PC=2.55E-7 4                                 
+127BA  L 1626       5                                                           
+127BAX L XREF=C                                                                 
+127BA  G 1332       5     100                                                   
+127BA  L 1654.56   20(17/2+)                                                K   
+127BAX L XREF=D                                                                 
+127BA  G 363.10    18      36 4(M1+E2)   -0.25   6     0.0293 5                 
+127BAS G KC=0.0251 4$LC=0.00331 5$MC=0.000682 10$NC+=0.0001712 25               
+127BAS G NC=0.0001471 21$OC=2.25E-5 4$PC=1.63E-6 3                              
+127BA  G 690.9     2      100 6(E2)                                             
+127BAS G CC=0.00424 6$KC=0.00361 5$LC=0.000503 7$MC=0.0001041 15$NC+=2.59E-5 4  
+127BAS G NC=2.23E-5 4$OC=3.36E-6 5$PC=2.22E-7 4                                 
+127BA  G 877.5     5     15.715                                                 
+127BA  L 1674.0     4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 805.4      5                                                           
+127BA  G 1005.8     5                                                           
+127BA  G 1298.4     5                                                           
+127BA  L 1764.72   14                                                           
+127BAX L XREF=C                                                                 
+127BA  G 858.1      5                                                           
+127BA  G 1036.4     5                                                           
+127BA  G 1095.6     5                                                           
+127BA  G 1165.5     5                                                           
+127BA  G 1348.9     5                                                           
+127BA  G 1389.2     5                                                           
+127BA  G 1440.4     5                                                           
+127BA  G 1470.8     1                                                           
+127BA  G 1569.1     1                                                           
+127BA  G 1605.1     1                                                           
+127BA  L     1777.6 3(19/2-)                                                B   
+127BAX L XREF=D                                                                 
+127BA  G 558.10    19     10010(E2)                                             
+127BA2 G FL=1219.56                                                             
+127BAS G CC=0.00732 11$KC=0.00618 9$LC=0.000904 13$MC=0.000188 3$NC+=4.65E-5 7  
+127BAS G NC=4.02E-5 6$OC=5.99E-6 9$PC=3.75E-7 6                                 
+127BA  G 582.7     5       72 8(M1+E2)   -0.45   10                             
+127BAS G CC=0.00860 20$KC=0.00739 18$LC=0.000962 19$MC=0.000198 4$NC+=4.97E-5 10
+127BAS G NC=4.27E-5 9$OC=6.53E-6 14$PC=4.74E-7 13                               
+127BA  L 1790.6     3                                                           
+127BAX L XREF=C                                                                 
+127BA  G 1121.5     5                                                           
+127BA  G 1191.4     5                                                           
+127BA  G 1374.6     5                                                           
+127BA  G 1466.2     5                                                           
+127BA  G 1595.0     5                                                           
+127BA  L 1881       5                                                           
+127BAX L XREF=C                                                                 
+127BA  G 890        5     100                                                   
+127BAF G FL=991.2                                                               
+127BA  L 1961.2     4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 1667.6     5                                                           
+127BA  G 1801.0     5                                                           
+127BA  G 1881.0     5                                                           
+127BAF G FL=80.32                                                               
+127BA  L 1966.81   24(21/2-)                                                C   
+127BAX L XREF=D                                                                 
+127BA  G 544.8     5       36 4(M1+E2)   -0.16   9     0.0105718                
+127BAS G KC=0.00910 16$LC=0.001170 18$MC=0.000240 4$NC+=6.05E-5 10              
+127BAS G NC=5.19E-5 8$OC=7.97E-6 13$PC=5.88E-7 11                               
+127BA  G 772.2     2      10012(E2)                                             
+127BAS G CC=0.00325 5$KC=0.00277 4$LC=0.000378 6$MC=7.81E-5 11$NC+=1.95E-5 3    
+127BAS G NC=1.676E-5 24$OC=2.53E-6 4$PC=1.707E-7 24                             
+127BA  L 2043.39   22(19/2+)                                                L   
+127BAX L XREF=D                                                                 
+127BA  G 388.8     2       25 3(M1+E2)   -0.40   9     0.0242 5                 
+127BAS G KC=0.0207 4$LC=0.00276 4$MC=0.000570 8$NC+=0.0001429 21                
+127BAS G NC=0.0001228 18$OC=1.87E-5 3$PC=1.33E-6 3                              
+127BA  G 751.92    19     100 5(E2)                                             
+127BAS G CC=0.00346 5$KC=0.00295 5$LC=0.000404 6$MC=8.35E-5 12$NC+=2.08E-5 3    
+127BAS G NC=1.79E-5 3$OC=2.70E-6 4$PC=1.82E-7 3                                 
+127BA  G 848.7     5      6.814                                                 
+127BA  L     2196.1 3(23/2-)                                                D   
+127BAX L XREF=D                                                                 
+127BA  G 229.4     5      5.211                                                 
+127BA  G 774.3     2      100 6(E2)                                             
+127BAS G CC=0.00323 5$KC=0.00275 4$LC=0.000375 6$MC=7.75E-5 11$NC+=1.93E-5 3    
+127BAS G NC=1.664E-5 24$OC=2.51E-6 4$PC=1.697E-7 24                             
+127BA  L 2244.4     4(19/2+)                                                H   
+127BAX L XREF=D                                                                 
+127BA  G 589.9     5       31 7                                                 
+127BA  G 724.6     5      10010(E2)                                             
+127BAS G CC=0.00378 6$KC=0.00322 5$LC=0.000444 7$MC=9.19E-5 13$NC+=2.29E-5 4    
+127BAS G NC=1.97E-5 3$OC=2.97E-6 5$PC=1.98E-7 3                                 
+127BA  L 2305.2     4(19/2+)                                                H   
+127BAX L XREF=D                                                                 
+127BA  G 785.1     5      100                                                   
+127BA  L 2351.9     4                                                           
+127BAX L XREF=C                                                                 
+127BA  G 2057.9     5                                                           
+127BA  G 2271.6     5                                                           
+127BA2 G FL=80.32                                                               
+127BA  L 2451.77   23(21/2+)                                                K   
+127BAX L XREF=D                                                                 
+127BA  G 408.4     3       34 4(M1+E2)   -0.14   7     0.0218 4                 
+127BAS G KC=0.0187 3$LC=0.00244 4$MC=0.000501 7$NC+=0.0001260 18                
+127BAS G NC=0.0001082 16$OC=1.658E-5 24$PC=1.216E-6 19                          
+127BA  G 797.20    19     100 6(E2)                                             
+127BAS G CC=0.00301 5$KC=0.00257 4$LC=0.000349 5$MC=7.21E-5 10$NC+=1.80E-5 3    
+127BAS G NC=1.547E-5 22$OC=2.34E-6 4$PC=1.587E-7 23                             
+127BA  L 2463.6     3(23/2-)                                                B   
+127BAX L XREF=D                                                                 
+127BA  G 496.5     5       14 3                                                 
+127BA  G 686.0     2      10010(E2)                                             
+127BAS G CC=0.00432 6$KC=0.00367 6$LC=0.000513 8$MC=0.0001061 15$NC+=2.64E-5 4  
+127BAS G NC=2.27E-5 4$OC=3.42E-6 5$PC=2.25E-7 4                                 
+127BA  L 2497.54   24(21/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA cL J         |g to (17/2+), 1075|g to (19/2-)                             
+127BA  G 192.0     5      7.418                                                 
+127BA  G 253.0     5       13 3                                                 
+127BA  G 843.11    19     10010(E2)                                             
+127BAS G CC=0.00265 4$KC=0.00226 4$LC=0.000304 5$MC=6.27E-5 9$NC+=1.566E-5 22   
+127BAS G NC=1.348E-5 19$OC=2.04E-6 3$PC=1.399E-7 20                             
+127BA  G 1075.2    5       43 5                                                 
+127BA  L 2737.43   25(23/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA cL J         |g to (19/2+), 771|g to (21/2-)                              
+127BA  G 239.9     5       53 6(M1+E2)   -0.16   5     0.0877 14                
+127BAS G KC=0.0751 12$LC=0.01003 18$MC=0.00207 4$NC+=0.000519 10                
+127BAS G NC=0.000446 8$OC=6.81E-5 12$PC=4.90E-6 8                               
+127BA  G 285.6     2      10010(M1+E2)   -0.18   5     0.0551                   
+127BAS G KC=0.0472 7$LC=0.00626 10$MC=0.001291 20$NC+=0.000324 5                
+127BAS G NC=0.000278 5$OC=4.25E-5 7$PC=3.07E-6 5                                
+127BA  G 432.4     5       13 3                                                 
+127BA  G 493.5     5       43 5                                                 
+127BA  G 693.7     5       47 5                                                 
+127BA  G 770.7     5     10.020                                                 
+127BA  L 2863.4    11(23/2+)                                                H   
+127BAX L XREF=D                                                                 
+127BA  G 619        1     100                                                   
+127BA  L     2869.1 3(25/2-)                                                C   
+127BAX L XREF=D                                                                 
+127BA  G 672.8     5 26      5                                                  
+127BA  G 902.4     2 100     10                                                 
+127BA  L     2874.5 4(23/2+)                                                L   
+127BAX L XREF=D                                                                 
+127BA cL J         (E2) |g to (19/2+), |g to (21/2+)                            
+127BA  G 423.1     5 18      4                                                  
+127BA  G 831.1     4 100     10(E2)                                             
+127BAS G CC=0.00274 4$KC=0.00234 4$LC=0.000315 5$MC=6.50E-5 10$NC+=1.622E-5 23  
+127BAS G NC=1.396E-5 20$OC=2.11E-6 3$PC=1.445E-7 21                             
+127BA  L     2923.2 5(23/2+)                                                L   
+127BAX L XREF=D                                                                 
+127BA  G 879.8     5      100                                                   
+127BA  L 2998.2     3(25/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G 260.8     2      10010(M1+E2)   -0.11   4     0.0701                   
+127BAS G KC=0.0601 9$LC=0.00795 12$MC=0.001638 25$NC+=0.000411 6                
+127BAS G NC=0.000353 6$OC=5.41E-5 8$PC=3.93E-6 6                                
+127BA  G 500.5     5       33 4(E2)                                             
+127BAS G CC=0.00983 14$KC=0.00826 12$LC=0.001244 18$MC=0.000259 4$NC+=6.40E-5 10
+127BAS G NC=5.53E-5 8$OC=8.20E-6 12$PC=4.97E-7 7                                
+127BA  G 546.6     5       38 4                                                 
+127BA  L     3059.2 4(27/2-)                                                D   
+127BAX L XREF=D                                                                 
+127BA  G 862.9     3      100  (E2)                                             
+127BAS G CC=0.00251 4$KC=0.00215 3$LC=0.000288 4$MC=5.93E-5 9$NC+=1.481E-5 21   
+127BAS G NC=1.274E-5 18$OC=1.93E-6 3$PC=1.328E-7 19                             
+127BA  L 3137.9     4(25/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA cL J         |DJ=1 |g to (23/2+), |g to (21/2+)                           
+127BA  G 214.6     5       19 5                                                 
+127BA  G 263.5     5      10010(M1+E2)   -0.11   6     0.0682 11                
+127BAS G KC=0.0585 9$LC=0.00773 13$MC=0.00159 3$NC+=0.000400 7                  
+127BAS G NC=0.000344 6$OC=5.26E-5 9$PC=3.82E-6 6                                
+127BA  G 400.5     5       29 6                                                 
+127BA  G 686.0     5       24 5                                                 
+127BA  L     3273.8 6(27/2-)                                                B   
+127BAX L XREF=D                                                                 
+127BA  G 810.2     5      100                                                   
+127BA  L 3287.0     3(27/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G 288.8     2      100 5(M1+E2)   -0.14   4     0.0535                   
+127BAS G KC=0.0459 7$LC=0.00606 9$MC=0.001248 19$NC+=0.000313 5                 
+127BAS G NC=0.000269 4$OC=4.12E-5 6$PC=2.99E-6 5                                
+127BA  G 549.6     2       38 4                                                 
+127BA  L 3401.0     5                                                           
+127BAX L XREF=D                                                                 
+127BA  G 531.6     5      100                                                   
+127BA  L 3482.0     4(27/2+)                                                O   
+127BAX L XREF=D                                                                 
+127BA  G 344.4     5      10010                                                 
+127BA cG M         (M1) or (M1+E2) from D(+Q) with |d=-0.05 {I5}                
+127BA  G 607.6     5       40 8                                                 
+127BA  L     3518.4 4(27/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA cL J         |g to (23/2-) and |DJ=1 |g from (29/2-)                      
+127BA  G 117.2     5      5.715                                                 
+127BA  G 459.1     2      10010(M1,E2)                 0.0144 19                
+127BAS G KC=0.0122 18$LC=0.00171 10$MC=0.000355 18$NC+=8.8E-5 6                 
+127BAS G NC=7.6E-5 5$OC=1.15E-5 9$PC=7.7E-7 15                                  
+127BA  G 650.0     5       14 3                                                 
+127BA  G 1322      1      9.524                                                 
+127BA  L 3622.2     3(29/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G 335.2     2      10010                                                 
+127BA  G 623.9     2       60 6                                                 
+127BA  L     3755.9 4(29/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA cL J         (M1+E2) |g to (27/2-), (E2) |g to (25/2-)                    
+127BA  G 237.5     5      10010(M1+E2)   -0.10   4     0.0900 14                
+127BAS G KC=0.0772 12$LC=0.01023 17$MC=0.00211 4$NC+=0.000529 9                 
+127BAS G NC=0.000455 8$OC=6.96E-5 11$PC=5.05E-6 8                               
+127BA  G 696.4     5       76 8(M1+E2)   -0.29   7                              
+127BAS G CC=0.00572 11$KC=0.00493 9$LC=0.000631 11$MC=0.0001295 22$NC+=3.26E-5 6
+127BAS G NC=2.80E-5 5$OC=4.29E-6 8$PC=3.17E-7 6                                 
+127BA  G 887.0     5       88 9(E2)                                             
+127BAS G CC=0.00236 4$KC=0.00202 3$LC=0.000269 4$MC=5.55E-5 8$NC+=1.386E-5 20   
+127BAS G NC=1.193E-5 17$OC=1.81E-6 3$PC=1.250E-7 18                             
+127BA  L 3791.0     4(29/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G 309.2     5      10020                                                 
+127BA  G 504.2     5       8818                                                 
+127BA  G 652.8     5       7515(E2)                                             
+127BAS G CC=0.00488 7$KC=0.00415 6$LC=0.000585 9$MC=0.0001212 18$NC+=3.01E-5 5  
+127BAS G NC=2.60E-5 4$OC=3.90E-6 6$PC=2.54E-7 4                                 
+127BA  L 3949.7     3(31/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G 327.5     2      10011                                                 
+127BA  G 662.6     2       70 7(E2)                                             
+127BAS G CC=0.00471 7$KC=0.00400 6$LC=0.000562 8$MC=0.0001164 17$NC+=2.89E-5 4  
+127BAS G NC=2.49E-5 4$OC=3.74E-6 6$PC=2.45E-7 4                                 
+127BA  L     3957.0 4(31/2-)                                                G   
+127BAX L XREF=D                                                                 
+127BA  G 897.9     2      100  (E2)                                             
+127BAS G CC=0.00230 4$KC=0.00197 3$LC=0.000262 4$MC=5.39E-5 8$NC+=1.347E-5 19   
+127BAS G NC=1.159E-5 17$OC=1.757E-6 25$PC=1.217E-7 17                           
+127BA  L     4102.5 4(31/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G 145.7     5      8.219                                                 
+127BA  G 346.6     2      10010(M1+E2)   -0.13   5     0.0332                   
+127BAS G KC=0.0285 4$LC=0.00373 6$MC=0.000769 11$NC+=0.000193 3                 
+127BAS G NC=0.0001658 24$OC=2.54E-5 4$PC=1.86E-6 3                              
+127BA  G 583.7     5     11.423                                                 
+127BA  G 1043.3    5       32 7                                                 
+127BA  L     4217.1 8(31/2-)                                                B   
+127BAX L XREF=D                                                                 
+127BA  G 943.3     5      100                                                   
+127BA  L     4226.4 5(31/2+)                                                O   
+127BAX L XREF=D                                                                 
+127BA  G 435.4     5      10020                                                 
+127BA  G 744.5     5       44 9                                                 
+127BA  L 4365.2     4(33/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G 415.7     5      10010                                                 
+127BA cG M         (M1) or (M1+E2) from (D+Q) with |d=0.07 {I7}                 
+127BA  G 574       1                                                            
+127BA  G 742.9     5       69 7(E2)                                             
+127BAS G CC=0.00356 5$KC=0.00303 5$LC=0.000417 6$MC=8.61E-5 13$NC+=2.15E-5 3    
+127BAS G NC=1.85E-5 3$OC=2.79E-6 4$PC=1.87E-7 3                                 
+127BA  L     4408.2 5(33/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G 305.0     5      10010(M1+E2)   -0.12   5     0.0464                   
+127BAS G KC=0.0398 6$LC=0.00523 8$MC=0.001077 17$NC+=0.000271 4                 
+127BAS G NC=0.000232 4$OC=3.56E-5 6$PC=2.59E-6 4                                
+127BA  G 451.9     5       5712(M1+E2)   -0.18   7     0.0168 3                 
+127BAS G KC=0.01447 23$LC=0.00188 3$MC=0.000386 6$NC+=9.70E-5 15                
+127BAS G NC=8.33E-5 12$OC=1.277E-5 19$PC=9.37E-7 16                             
+127BA  G 652.6     5       6413(E2)                                             
+127BAS G CC=0.00489 7$KC=0.00415 6$LC=0.000585 9$MC=0.0001213 18$NC+=3.01E-5 5  
+127BAS G NC=2.60E-5 4$OC=3.90E-6 6$PC=2.54E-7 4                                 
+127BA  L 4578.5     4(33/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G 351.9     5       5712                                                 
+127BA  G 628.7     5       5712                                                 
+127BA  G 787.7     5      10020                                                 
+127BA  L 4746.0     5(35/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G 380.7     5       4710(M1+E2)   -0.39   12    0.0256 5                 
+127BAS G KC=0.0219 5$LC=0.00292 5$MC=0.000603 9$NC+=0.0001512 22                
+127BAS G NC=0.0001299 19$OC=1.98E-5 3$PC=1.41E-6 4                              
+127BA  G 795.9     5      10010                                                 
+127BA  L     4816.7 5(35/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G 408.6     5      10010(M1+E2)   -0.21   7     0.0217 4                 
+127BAS G KC=0.0186 3$LC=0.00243 4$MC=0.000500 8$NC+=0.0001257 19                
+127BAS G NC=0.0001079 16$OC=1.653E-5 24$PC=1.206E-6 21                          
+127BA  G 714.3     5       40 8                                                 
+127BA  G 859.1     5       9018                                                 
+127BA  L 4904.0     6(35/2-)                                                G   
+127BAX L XREF=D                                                                 
+127BA  G 947.0     5      100                                                   
+127BA  L 5131.3     5(35/2+)                                                O   
+127BAX L XREF=D                                                                 
+127BA  G 552.6     5       6714                                                 
+127BA  G 905.4     5      10020                                                 
+127BA  L     5213.5 6(37/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G 396.4     5       73 8(M1+E2)   -0.18   6     0.0235                   
+127BAS G KC=0.0202 3$LC=0.00263 4$MC=0.000541 8$NC+=0.0001360 20                
+127BAS G NC=0.0001168 17$OC=1.79E-5 3$PC=1.308E-6 21                            
+127BA  G 805.6     5      10010                                                 
+127BA  L 5228.1    13(35/2-)                                                B   
+127BAX L XREF=D                                                                 
+127BA  G      1011  1     100                                                   
+127BA  L 5228.1     5(37/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G 481.7     5       8016                                                 
+127BA  G       650 1                                                            
+127BA  G 863.2     5      10020                                                 
+127BA  L 5256.1    13(35/2-)                                                A   
+127BAX L XREF=D                                                                 
+127BA  G      1039  1     100                                                   
+127BA  L 5512.4    10(37/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G       934  1                                                           
+127BA  L 5675.5     7(39/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G       448  1                                                           
+127BAF G FL=5228.1                                                              
+127BA  G       545  1                                                           
+127BA  G       929  1                                                           
+127BA  L 5741.7     6(39/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G 528.0     5           M1+E2     -0.27   9     0.0112922                
+127BAS G KC=0.00971 19$LC=0.001257 21$MC=0.000258 5$NC+=6.49E-5 11              
+127BAS G NC=5.58E-5 9$OC=8.55E-6 15$PC=6.27E-7 14                               
+127BA  G       838  1                                                           
+127BA  G 925.0     5                                                            
+127BA  L 5920.9    10(39/2-)                                                G   
+127BAX L XREF=D                                                                 
+127BA  G      1017  1     100                                                   
+127BA  L 6203.0     8(41/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G       528  1                                                           
+127BA  G       974  1                                                           
+127BAF G FL=5228.1                                                              
+127BA  L 6222.1     8(41/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G       480  1                                                           
+127BA  G      1009  1                                                           
+127BA  L 6320.1    17(39/2-)                                                B   
+127BAX L XREF=D                                                                 
+127BA  G      1092  1     100                                                   
+127BAF G FL=5228.1                                                              
+127BA  L 6379.1    17(39/2-)                                                A   
+127BAX L XREF=D                                                                 
+127BA  G      1123  1     100                                                   
+127BA  L 6552.4    11(41/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G      1040  1     100                                                   
+127BA  L 6726.1     9(43/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G       523  1                                                           
+127BA  G      1051  1                                                           
+127BA  L 6762.7     9(43/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G       541  1                                                           
+127BA  G      1021  1                                                           
+127BA  L 7002.8     9(43/2-)                                                G   
+127BAX L XREF=D                                                                 
+127BA  G      1082  1                                                           
+127BA  G      1261  1                                                           
+127BA  L 7277.4    10(45/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G       551  1                                                           
+127BA  G       725  1                                                           
+127BA  G      1074  1                                                           
+127BA  L 7309.4    10(45/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G       547  1                                                           
+127BA  G      1087  1                                                           
+127BA  L 7465.1    19(43/2-)                                                B   
+127BAX L XREF=D                                                                 
+127BA  G      1145  1     100                                                   
+127BA  L 7590.1    19(43/2-)                                                A   
+127BAX L XREF=D                                                                 
+127BA  G      1211  1     100                                                   
+127BA  L 7632.4    15(45/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G      1080  1     100                                                   
+127BA  L 7865.8    10(47/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G       556  1                                                           
+127BA  G       863  1                                                           
+127BA  G      1103  1                                                           
+127BA  L 7881.7    11(47/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G       604  1                                                           
+127BA  G      1156  1                                                           
+127BA  L 8193.8    14(47/2-)                                                G   
+127BAX L XREF=D                                                                 
+127BA  G      1191  1     100                                                   
+127BA  L 8429.6    12(49/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G       548  1                                                           
+127BA  G      1152  1                                                           
+127BA  L 8459.1    11(49/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G       593  1                                                           
+127BA  G      1150  1                                                           
+127BA  L 8756.4    18(49/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G      1124  1     100                                                   
+127BA  L 8886.1    22(47/2-)                                                A   
+127BAX L XREF=D                                                                 
+127BA  G      1296  1     100                                                   
+127BA  L 9034.9    12(51/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G       576  1                                                           
+127BA  G      1169  1                                                           
+127BA  L 9120.6    13(51/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G       691  1                                                           
+127BA  G      1239  1                                                           
+127BA  L 9440.8    17(51/2-)                                                G   
+127BAX L XREF=D                                                                 
+127BA  G      1247  1     100                                                   
+127BA  L 9617.6    14(53/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G       497  1                                                           
+127BA  G      1188  1                                                           
+127BA  L 9677.2    13(53/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G       642  1                                                           
+127BA  G      1218  1                                                           
+127BA  L 9967.4    21(53/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G      1211  1     100                                                   
+127BA  L 10192.1   24(51/2-)                                                A   
+127BAX L XREF=D                                                                 
+127BA  G      1306  1     100                                                   
+127BA  L 10257.5   14(55/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G       580  1                                                           
+127BA  G      1223  1                                                           
+127BA  L 10440.6   16(55/2+)                                                N   
+127BAX L XREF=D                                                                 
+127BA  G      1320  1     100                                                   
+127BA  L 10776.8   20(55/2-)                                                G   
+127BAX L XREF=D                                                                 
+127BA  G      1336  1     100                                                   
+127BA  L 10822.6   17(57/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G      1205  1     100                                                   
+127BA  L 10952.3   15(57/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G       695  1                                                           
+127BA  G      1275  1                                                           
+127BA  L 11266.4   23(57/2+)                                                P   
+127BAX L XREF=D                                                                 
+127BA  G      1299  1     100                                                   
+127BA  L 11499.5   17(59/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G      1242  1     100                                                   
+127BA  L 12086.6   20(61/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G      1264  1     100                                                   
+127BA  L 12273.3   18(61/2-)                                                E   
+127BAX L XREF=D                                                                 
+127BA  G      1321  1     100                                                   
+127BA  L 12817.5   20(63/2-)                                                F   
+127BAX L XREF=D                                                                 
+127BA  G      1318  1     100                                                   
+127BA  L 13476.6   22(65/2+)                                                M   
+127BAX L XREF=D                                                                 
+127BA  G      1390  1     100                                                   
+
+

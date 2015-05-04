@@ -1,0 +1,493 @@
+137BA    ADOPTED LEVELS, GAMMAS                                  07NDS    200709
+137BA  H TYP=UPD$AUT=J. K. TULI$DAT=13-Aug-2009$COM=added 2000Tr07 g vlaue$     
+137BA  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 108,2173 (2007)$             
+137BA2 H CUT=1-Oct-2006$                                                        
+137BA  Q -621      136905.61  88671.5  19              2003AU03                 
+137BA c                                                                         
+137BA c  Others:                                                                
+137BA c  Isomeric yield: {+138}Ba(|g,n) (1995Ma78,1996Be32),                    
+137BA2c  {+139}La(n,t) (1994Hu19), {+138}Ba(n,2n) (1994Gr35);                   
+137BA c  Isotope shift: 1993Vi10                                                
+137BA c  2006AnZZ: Measured relative excitation of isomer and gs via            
+137BA2c  deexcitation of giant dipole resonance excited in {+138}Ba(|g,n).      
+137BA3c  Other: 2005AnZX                                                        
+137BA cG E,RI$From (n,|g), (n,n'|g) if seen in these reactions otherwise from   
+137BA@cG (|a,3n|g) or Coulomb excitation                                        
+137BA cL E$E(level) for levels seen in (n,|g) or (n,n'|g) are from 1995Bo03     
+137BA cL J$Levels fed in primary transition from 1/2+ capture state in (n,|g)   
+137BA2cL are assumed to be 1/2,3/2, unless stated otherwise.                    
+137BA3cL J|<9/2 are mostly from L and S in (d,p) and (p,d);                     
+137BA4cL J|>13/2 are from |g(|q) in (|a,3n|g), unless given otherwise. J        
+137BA5cL populated via (|g,|g')|<5/2 or 7/2+                                    
+137BA cL E(B)$Level fed in primary cascade to g.s. or the first-excited state   
+137BA  XA137CS B- DECAY                                                         
+137BA  XB137BA IT DECAY (2.552 M)                                               
+137BA  XC137LA EC DECAY                                                         
+137BA  XE136XE(A,3NG)                                                           
+137BA  XF136BA(N,G) E=THERMAL                                                   
+137BA  XG136BA(D,P)                                                             
+137BA  XH137BA(G,G')                                                            
+137BA  XI137BA(N,N'G)                                                           
+137BA  XDCOULOMB EXCITATION                                                     
+137BA  XJ138BA(P,D)                                                             
+137BA PN                                                                     6  
+137BA  L 0.0         3/2+              STABLE                                   
+137BAX L XREF=ABCDEFGHIJ                                                        
+137BA cL J         atomic beam (1976Fu06), L=2 in (d,p), (p,d).                 
+137BA2cL Configuration=(|n 2d{-3/2}){+-1}                                       
+137BA2 L MOMM1=+0.935814 5 (2000Tr07)                                           
+137BA2 L MOMM1=+0.937365 20 (1972Ol01,1989Ra17)                                 
+137BA cL MOMM1     Others: +0.937365 {I20} (1972Ol01,1989Ra17),                 
+137BA2cL +0.937344 {I20} (1978Lu07,1989Ra17). 2000Tr07 had                      
+137BA3cL mistakenly assigned the vlaue to {+135}Ba.                             
+137BA2 L MOME2=+0.245 4 (1988We07,1989Ra17)                                     
+137BA cL MOME2     Others: +0.228 {I24} (1976Ma28), +0.25 {I1} (1986Si03),      
+137BA2cL +0.34 {I4} (1979Gu09), +0.28 {I3} (1976Ma28)                           
+137BA cL           |D<r{+2}>({+137}Ba,{+138}Ba)=-0.066 {I5} (1999GaZX)          
+137BA  L 283.54     41/2+                                                       
+137BAX L XREF=ADFGIJ                                                            
+137BA2 L FLAG=B                                                                 
+137BA cL           B(E2)=0.025 {I2} from Coul. ex.                              
+137BA cL J$L=0 in (p,d) and (d,p)                                               
+137BA2cL configuration=(|n 3s{-1/2}){+-1}                                       
+137BA  G 283.53     4100                                                        
+137BA cG E$from 1997WaZZ in (n,n'|g). 1997WaZZ in both (n,n'|g) and {+137}Cs    
+137BA2cG |b{+-} decay and 1996Bi23 in {+137}Cs |b{+-} decay confirm this energy 
+137BA3cG and did not find any evidence for a possible doublet at previously     
+137BA4cG reported 279.96|g (1973Ke07,1973Ke22)                                  
+137BA  L    661.659 311/2-              2.552 M  1                           M  
+137BAX L XREF=ABEFGHIJ                                                          
+137BA2 L %IT=100                                                                
+137BA3 L MOMM1=-0.992 26 (1983Mu12,1989Ra17)                                    
+137BA4 L MOME2=+0.78 9 (1983Mu12,1989Ra17)                                      
+137BA cL E$from {+137}Cs |b{+-} decay                                           
+137BA cL T         weighted average of 2.5545 min {I21} (1973LeZJ), 2.5577 min  
+137BA2cL {I32} (1967Mi11), 2.5513 min {I7} (1966Ma28), 2.554 min {I2} (1965Me03)
+137BA cL J$L=5 in (p,d); 661|g is M4; h11/2 intruder state.                     
+137BA cL MOME2     Adopted value disagrees with Q|?-0.05 (1976Fu06)             
+137BA cL           %two-photon/%single-photon<2.2|*10{+-6} (1992Ba45)           
+137BA  G 661.657   3 100       M4                      0.1124                   
+137BA3 G BM4W=2.719 9$EKC=0.0904 5 (1992Ne04)                                   
+137BAS G KC=0.0915 13$LC=0.01648 23$MC=0.00352 5$NC+=0.000879 13                
+137BAS G NC=0.000759 11$OC=0.0001134 16$PC=7.21E-6 11                           
+137BA cG E$from 1995HeZZ                                                        
+137BA  L 907       10                                                          ?
+137BAX L XREF=G                                                                 
+137BA  L 1044      10                                                          ?
+137BAX L XREF=G                                                                 
+137BA  L 1251.82    87/2+              0.354 PS  24                             
+137BAX L XREF=DEFI                                                              
+137BA cL J$from |g(|q) in Coul ex, E2 |g to 3/2+ g.s.                           
+137BA cL T         from B(E2) in Coul ex                                        
+137BA  G 1251.81   8 100       E2                      1.14E-3                  
+137BAB G BE2W=12.5 11                                                           
+137BAS G KC=0.000974 14$LC=0.0001245 18$MC=2.56E-5 4$NC+=1.98E-5 3              
+137BAS G NC=5.51E-6 8$OC=8.41E-7 12$PC=6.06E-8 9$IPC=1.341E-5 19                
+137BA  L 1293.90    85/2+                                                       
+137BAX L XREF=DFGIJ                                                             
+137BA cL J$L=2 in (p,d); M1+E2 to 3/2+ g.s.; |g from 7/2-                       
+137BA  G 1293.90   8 100       M1+E2                   0.0012417                
+137BAS G KC=0.00106 15$LC=0.000133 17$MC=2.7E-5 4$NC+=2.70E-5 7                 
+137BAS G NC=5.9E-6 8$OC=9.0E-7 12$PC=6.7E-8 10$IPC=2.02E-5 5                    
+137BA  L 1463.8     63/2+                                                       
+137BAX L XREF=FGHIJ                                                             
+137BA cL J$L(p,d)=2, D to 1/2+                                                  
+137BA  G 1180.6      5         D                                                
+137BA  G 1463.91     100                                                        
+137BA  L 1481.8     4(3/2+,5/2+)                                                
+137BAX L XREF=FIH                                                               
+137BA cL J$feeds 1/2+ and 7/2+ levels                                           
+137BA  G 230.0      4                                                       *   
+137BA  G 1198.33     67                                                         
+137BA  G 1481.66     100                                                        
+137BA  L 1797.67   177/2-                                                       
+137BAX L XREF=FGI                                                               
+137BA cL J$L(d,p)=3; E2 |g to 11/2-                                             
+137BA  G 504.0       1.0                                                        
+137BA  G 1136.69     100       E2                      1.38E-3                  
+137BA2 G FL=661.659                                                             
+137BAS G KC=0.001187 17$LC=0.0001532 22$MC=3.15E-5 5$NC+=9.25E-6 13             
+137BAS G NC=6.77E-6 10$OC=1.033E-6 15$PC=7.37E-8 11$IPC=1.370E-6 20             
+137BA  L 1837.6     71/2+                                                       
+137BAX L XREF=FGHIJ                                                             
+137BA cL J$L=0 in (d,p), (p,d)                                                  
+137BA  G 1553.64     100                                                        
+137BAF G FL=283.54                                                              
+137BA  G 1838.0      45                                                         
+137BA  L 1857      10(1/2+)                                                    ?
+137BAX L XREF=G                                                                 
+137BA cL J$L=(0) in (d,p)                                                       
+137BA  L 1892.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 1892                                                                   
+137BA  L 1899.4     43/2+                                                       
+137BAX L XREF=FG(*)HIJ(*)                                                       
+137BA2 L FLAG=B                                                                 
+137BA cL J$L=2 level in (p,d) is probably 1899+1908. Both are fed by primary    
+137BA2cL transitions from 1/2+ capture state. The primary transition branching  
+137BA3cL to both levels is not commensurate with E2 (1995Bo03)                  
+137BA  G 1615.8      85                                                         
+137BA  G 1899.0      100       D                                                
+137BA  L 1907.52   203/2+                                                       
+137BAX L XREF=FG(*)HIJ(*)                                                       
+137BA2 L FLAG=B                                                                 
+137BA cL J$see 1899 level                                                       
+137BA  G 1623.32     100     11                                                 
+137BAF G FL=283.54                                                              
+137BA  G 1908.0      89      24                                                 
+137BA  L 2041.4     6(5/2)+                                                     
+137BAX L XREF=FGHIJ                                                             
+137BA cL J$L(p,d)=2; no primary transition from 1/2+ capture state (1995Bo03)   
+137BA  G 578.0       12                                                         
+137BA  G 747.43      40                                                     @   
+137BA  G 2041.1      100                                                        
+137BA  L 2047.4     3                                                           
+137BAX L XREF=E                                                                 
+137BA cL J$|g only to 11/2-, |g from (13/2-)                                    
+137BA  G 1385.7     3100                                                        
+137BA  L 2117.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2117        100                                                        
+137BA  L 2182.22    53/2-                                                       
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA cL J$L(d,p)=1; circular polarization of |g in (n,|g)                      
+137BA  G 384.59    170.82    14                                                 
+137BAF G FL=1797.67                                                             
+137BA  G 1898.70    5100.0   9                                                  
+137BA  G 2182.23   9 2.5     2                                                  
+137BA  L 2228.9     47/2+                                                       
+137BAX L XREF=IJ                                                                
+137BA cL J$L=4 in (p,d), feeds 3/2+                                             
+137BA  G 747.5       89                                                     @   
+137BA  G 766.1       100                                                       ?
+137BAF G FL=1463.8                                                              
+137BA  G 934.9       33                                                         
+137BA  G 976.8                                                                  
+137BA  L 2229.5     4(13/2-)                                                    
+137BAX L XREF=EI                                                                
+137BA cL J$stretched D to 11/2-, no |g to 7/2+ or 7/2-                          
+137BA  G 182.0      31.5      5                                                 
+137BA  G 1568.3      100     11D                                                
+137BA  L 2271.0     4(3/2+,5/2)                                                 
+137BAX L XREF=FGI                                                               
+137BA cL J$feeds 3/2+ and 7/2+. Absence in (p,d) should exclude                 
+137BA4cL configuration=(|n g{-7/2}){+-1} (1995Bo03)                             
+137BA  G 371.3       17.5                                                       
+137BA  G 976.8       100                                                        
+137BA  G 1019.0      37.5                                                       
+137BA  G 2271.4      95                                                         
+137BA  L 2311.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2311        100                                                        
+137BA  L 2340      207/2+,9/2+                                                  
+137BAX L XREF=J                                                                 
+137BA cL J         L=4 in (p,d)                                                 
+137BA  L 2344.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2344        100                                                        
+137BA  L 2349.1     5(17/2-)           0.59 US   10                             
+137BAX L XREF=E                                                                 
+137BA cL J$from 120|g(|q), E2 to (13/2-)                                        
+137BA cL T         from (|a,3n|g)                                               
+137BA  G 120.2     3 100       E2                      1.004  17                
+137BA2 G FL=2229.5                                                              
+137BAS G KC=0.687 11$LC=0.250 5$MC=0.0545 10$NC+=0.01289 23                     
+137BAS G NC=0.01134 21$OC=0.00152 3$PC=3.28E-5 6                                
+137BA cG           B(E2)(W.u.)=0.45 {I8}. Mult from RUL                         
+137BA  L 2355.6     41/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA cL J$feeds 1/2+, 3/2+ levels, fed by primary transition                   
+137BA  G 2072.6    6 100     16                                                 
+137BA  G 2355.4    4 52      16                                                 
+137BA  L 2373.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2373        100                                                        
+137BA  L 2407.8     5                                                           
+137BAX L XREF=E                                                                 
+137BA  G 178.9      3100                                                        
+137BA2 G FL=2229.5                                                              
+137BA  L 2427.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2427        100                                                        
+137BA  L 2438.8     3                                                          ?
+137BAX L XREF=E                                                                 
+137BA cL J$|g only to 11/2-                                                     
+137BA  G 1777.1     3100                                                        
+137BA  L 2529.6     67/2+                                                       
+137BAX L XREF=IJ                                                                
+137BA cL J$L=4 in (p,d), decays to 3/2+                                         
+137BA  G 622.2       51                                                         
+137BA  G 731.1       71                                                         
+137BA  G 1067.8      33                                                        ?
+137BAF G FL=1463.8                                                              
+137BA  G 1236.4      100                                                        
+137BA  G 1868.8                                                                ?
+137BA cG RI$probably multiply placed as only a small intensity can be assigned  
+137BA2cG to this placement, as the transition has to be an M2                   
+137BA  L 2571.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2571        100                                                        
+137BA  L 2590.1     4                                                           
+137BAX L XREF=E                                                                 
+137BA cL J$|g to (13/2-)                                                        
+137BA  G 151.3      3100     10                                                 
+137BA  G 361.1      380       8                                                 
+137BA2 G FL=2229.5                                                              
+137BA  L 2623.8     6(19/2)            30 NS     LE                             
+137BAX L XREF=E                                                                 
+137BA cL J$from 274|g(|q)                                                       
+137BA cL T         from 1973Ke07                                                
+137BA  G 274.7      3100       D                                                
+137BA cG           If M1, B(M1)(W.u.)>3.3|*10{+-5}; if E1,                      
+137BAxcG B(E1)(W.u.)>4.0|*10{+-7}                                               
+137BA  L 2653.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2653        100                                                        
+137BA  L 2662.72    51/2-                                                       
+137BAX L XREF=FGJ                                                               
+137BA2 L FLAG=B                                                                 
+137BA cL J$L=1 in (d,p), circular polarization of |g in (n,|g)                  
+137BA  G 480.61    7 87      3                                                  
+137BA  G 755.24    215.3     5                                                  
+137BA  G 763.4     4 1.4     5                                                  
+137BA  G 2379.07   7 70      3                                                  
+137BA  G 2662.68   7 100     3                                                  
+137BA  L 2709.0    10                                                           
+137BAX L XREF=GH                                                                
+137BA  G 2709                                                                   
+137BA  L 2750      30                                                           
+137BAX L XREF=J                                                                 
+137BA  L 2810      20(5/2-,7/2-)                                               ?
+137BAX L XREF=G                                                                 
+137BA cL J$L=(3) in (d,p)                                                       
+137BA  L 2848      205/2-,7/2-                                                  
+137BAX L XREF=G                                                                 
+137BA cL J$L=3 in (d,p)                                                         
+137BA  L 2873.8    11(5/2)-                                                     
+137BAX L XREF=FGIJ(*)                                                           
+137BA cL J$L=3 in (d,p). 1995Bo03 suggest 5/2 on the basis of                   
+137BA2cL I|g(n,n'|g)/I|g(n,|g) for 1076|g                                       
+137BA  G 1076.1                                                                 
+137BA  G 1623.1                                                                ?
+137BA  L 2905.0    105/2-,7/2-                                                  
+137BAX L XREF=GHJ(*)                                                            
+137BA cL J$L=3 in (d,p)                                                         
+137BA  G 2905                                                                   
+137BA  L 2954.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2954        100                                                        
+137BA  L 2964.9     41/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 1057.4    1210      4                                              @   
+137BA  G 2964.9    4 100     15                                                 
+137BA  L 2990      307/2+,9/2+                                                  
+137BAX L XREF=J                                                                 
+137BA cL J$L(p,d)=4                                                             
+137BA  L 3008      20                                                           
+137BAX L XREF=G                                                                 
+137BA  L 3037.0    10                                                          ?
+137BAX L XREF=GH                                                                
+137BA  G 3037                                                                   
+137BA  L 3074.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 3074                                                                   
+137BA  L 3086.1     41/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 2800.9    6 100                                                        
+137BA  G 3086.9    7 52                                                         
+137BA  L 3094.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 3094                                                                   
+137BA  L 3127.42   121/2,3/2                                                    
+137BAX L XREF=FJ                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 945         12                                                         
+137BA  G 2843.80   1956      7                                                  
+137BA  G 3127.41   14100     7                                                  
+137BA  L 3140.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 3140                                                                   
+137BA  L 3141      20(9/2)-                                                     
+137BAX L XREF=G                                                                 
+137BA cL J$from L, S in (d,p)                                                   
+137BA  L 3179.4     7                                                           
+137BAX L XREF=E                                                                 
+137BA  G 555.6      3100                                                        
+137BA  L 3221.0    10 1/2,3/2                                               B   
+137BAX L XREF=FJ                                                                
+137BA  G 3221        100                                                        
+137BA  L    3228   205/2-,7/2-                                                  
+137BAX L XREF=G                                                                 
+137BA cL J$L(d,p)=3                                                             
+137BA  L 3244.0     7                                                           
+137BAX L XREF=E                                                                 
+137BA  G 620.2      3100                                                        
+137BA  L 3251.0    10                                                          ?
+137BAX L XREF=GH                                                                
+137BA  G 3251                                                                   
+137BA  L 3279.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3279                                                                   
+137BA  L 3316.53   151/2-,3/2-                                                  
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA cL J$L(d,p)=1                                                             
+137BA  G 230.0     4 24      4                                              *   
+137BA  G 1134        8                                                          
+137BA  G 1416        9                                                          
+137BA  G 3033.06   15100     5                                                  
+137BA  G 3316        5                                                          
+137BA  L 3332.0    10(5/2)-                                                    ?
+137BAX L XREF=GH                                                                
+137BA cL J$L(d,p)=3, S                                                          
+137BA  G 3332                                                                   
+137BA  L 3383.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3383                                                                   
+137BA  L 3402.54   113/2-                                                       
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA cL J$L(d,p)=1; decays to 5/2+                                             
+137BA  G 1220        5.5                                                        
+137BA  G 2107.6    9 11      3                                                  
+137BA  G 3118.95   11100     6                                                  
+137BA  G 3402        5.5                                                        
+137BAF G FL=0.0                                                                 
+137BA  L 3420      20                                                          ?
+137BAX L XREF=J                                                                 
+137BA  L 3453.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3453                                                                   
+137BA  L 3473.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3473                                                                   
+137BA  L 3496      205/2-,7/2-                                                 ?
+137BAX L XREF=G                                                                 
+137BA cL J$L(d,p)=3                                                             
+137BA  L 3525.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3525                                                                   
+137BA  L 3550        7/2+,9/2+                                                  
+137BAX L XREF=J                                                                 
+137BA cL J$L(p,d)=4                                                             
+137BA  L 3563.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3563                                                                   
+137BA  L 3591      205/2-,7/2-                                                 ?
+137BAX L XREF=G                                                                 
+137BA cL J$L(d,p)=3                                                             
+137BA  L 3606.1    10                                                          ?
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 3606        100                                                        
+137BA  L 3640.1    105/2-,7/2-                                                 ?
+137BAX L XREF=GH                                                                
+137BA cL J$L(d,p)=3                                                             
+137BA  G 3640                                                                   
+137BA  L 3680.80   171/2-,3/2-                                                  
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA cL J$L(d,p)=1                                                             
+137BA  G 1781        13                                                        ?
+137BA  G 2198.3    1218      7                                                  
+137BA  G 3397.25   17100     6                                                  
+137BA  G 3680        12                                                         
+137BA  L 3703.1    105/2-,7/2-                                                 ?
+137BAX L XREF=GH                                                                
+137BA cL J$L(d,p)=3                                                             
+137BA  G 3703                                                                   
+137BA  L 3720.9     41/2,3/2                                                   ?
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 1057.4    1233      14                                             @   
+137BA  G 3437.4    4 100     19                                                 
+137BA  G 3721        86                                                         
+137BA  L 3761.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3761                                                                   
+137BA  L 3778.1    10                                                          ?
+137BAX L XREF=GH                                                                
+137BA  G 3778                                                                   
+137BA  L 3798.89   24(1/2-,3/2-)                                                
+137BAX L XREF=FG(3805)H                                                         
+137BA2 L FLAG=B                                                                 
+137BA cL J$L(d,p)=(1)                                                           
+137BA  G 1527.9    4 69      13                                                 
+137BA  G 3515.2    3 100     13                                                 
+137BA  G 3798.9    5 67      13                                                 
+137BA  L 3822.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3822                                                                   
+137BA  L 3827      205/2-,7/2-                                                 ?
+137BAX L XREF=G                                                                 
+137BA cL J$L(d,p)=3                                                             
+137BA  L 3846.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3846                                                                   
+137BA  L 3850.3     71/2,3/2                                                    
+137BAX L XREF=FH                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 3567                                                                   
+137BA  G 3850                                                                   
+137BA  L 3857.1    101/2,3/2                                                    
+137BAX L XREF=FH                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 3857        100                                                        
+137BAF G FL=0.0                                                                 
+137BA  L 3894.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3894                                                                   
+137BA  L 3940.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3940                                                                   
+137BA  L 3963.1    101/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 3963        100                                                        
+137BA  L 3977.1    101/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 3977        100                                                        
+137BA  L 3981.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3981                                                                   
+137BA  L 4149.97   181/2+,3/2                                                   
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA cL J$decays to 5/2+                                                       
+137BA  G 747.36    1648      11                                                 
+137BA  G 2856.6    5 67      26                                                 
+137BA  G 3866        63                                                         
+137BA  G 4150.3    6 100     33                                                 
+137BA  L 4206.1    101/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 4206                                                                   
+137BA  L 4216.10   151/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 1553.39   14100                                                        
+137BA  G 4215        30                                                         
+137BA  L 4550.7     71/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 3086.9    7 85                                                         
+137BA  G 4267        100                                                        
+137BA  L 4594.9     71/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 794.3     1343                                                         
+137BAF G FL=3798.89                                                             
+137BA  G 4312        78                                                         
+137BA  G 4595        100                                                        
+137BA  L 4764.4     51/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 2856.6    5 82                                                         
+137BA  G 4482        100                                                        
+
+

@@ -1,0 +1,760 @@
+135BA    ADOPTED LEVELS, GAMMAS                                  08NDS    200803
+135BA  H TYP=ERR$AUT=BALRAJ SINGH$DAT=13-Aug-2009$COM=Corrected g (GS)$         
+135BA  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
+135BA2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
+135BA  Q -1200     10 6971.9610 8248.3 4  -1860.210    2003AU03                 
+135BA c  Isotope shifts, hyperfine structure, moments, etc. measurements:       
+135BA2c  2000Tr07, 1995Va36, 1993Vi10, 1988Ya13, 1988We07, 1987Va16, 1986Si03,  
+135BA3c  1986Ca25, 1985Si24, 1985Va04, 1985Si24, 1985Ca40,                      
+135BA4c  1985We15, 1984Va08, 1984Pe06, 1983Ri02, 1983Ho06, 1983Gr15, 1983El06,  
+135BA5c  1983El04, 1983Be12, 1982Sh05, 1982Ri07, 1982Ri03, 1982Ne13, 1982Ne12,  
+135BA6c  1982Ne11, 1982Gr14, 1982Gr15, 1981Wa19, 1980Si14, 1980Ji01, 1979Gu09,  
+135BA7c  1979Ba74, 1979Be25, 1978Lu07, 1977Kr12, 1976Ma28, 1970Vo08, 1970Ho31,  
+135BA8c  1969Su04, 1968Op01, 1968Be60, 1966Ol02, 1966Co32, 1966Co28, 1966Co26,  
+135BA9c  1966Co18, 1964Ja11, 1963Zu05, 1963Na11, 1963Ja15, 1962Wi10, 1962Ko22   
+135BA D  YIELD AND CROSS SECTION MEASUREMENTS IN DIFFERENT REACTIONS: 2002Xu06, 
+135BA2D  1997Ko35, 1996Be32, 1995La26, 1992Lu05, 1991Pr04, 1989Fa13, 1988Fa02,  
+135BA3D  1987Sa10, 1985Be48, 1984Sa35, 1983Mu12, 1983Ra02, 1982Bu07, 1980Da11,  
+135BA4D  1979Dm01, 1976Ho15, 1973Pe10, 1972Ru12, 1971Va32, 1960Wi10             
+135BA D  YIELDS AND CROSS SECTIONS (CALCULATIONS, ANALYSIS): 2005Ko27,          
+135BA2D  2002Ga14, 2001Ka35, 1996Ga43,                                          
+135BA c  Nuclear structure calculations: 2004Yo04 (levels, transition rates),   
+135BA2c  2000Dm04 (anapole moments), 1999Dr18 (IBA model), 1990Lo16 (levels,    
+135BA3c  IBFM model), 1987Mi15 (levels, transition rates, magnetic moment, Q),  
+135BA4c  1985Ha34 (levels), 1984Ab01 (yrast levels)                             
+135BA D  OTHER THEORY REFERENCES: 2007Ji14, 2005Be55, 2001Dm02,                 
+135BA2D  1998Gi21, 1992Su07, 1988Su09, 1988Re06, 1988Sh40, 1986Ka31, 1986Mi18,  
+135BA3D  1985Za02, 1985Jo03, 1981Be59, 1977Si19, 1977Na28, 1976Gu19, 1974So04,  
+135BA4D  1972Ku25, 1972Pa14                                                     
+135BA c  For 86 neutron resonances from 102 eV to 10.6 keV, see                 
+135BA2c  {+134}Ba(n,|g):resonances dataset compiled from 1996Ko27. See also     
+135BA3c  2006MuZX evaluation.                                                   
+135BA cG E,RI$From weighted average of all available values, unless             
+135BA2cG otherwise stated                                                       
+135BA cG E(A)$|g from {+135}La |e decay only                                    
+135BA cG E(B)$From (n,|g) E=th only                                             
+135BA cG E(C)$From (n,n'|g) only                                                
+135BA cG M$ For |g rays from low-spin levels, the assignments are from          
+135BA2cG ce data in {+135}La |e decay. The mult=Q and D are from DCO ratios     
+135BA3cG in {+130}Te({+9}Be,4n|g), mult=Q corresponds to |DJ=2, quadrupole and  
+135BA4cG mult=D to |DJ=1, dipole (with possible quadrupole admixture for        
+135BA5cG |D|p=no). The mult=Q most likely corresponds to E2 transition          
+135BA cG MR$ From ce data in {+135}La |e decay                                  
+135BA cG E(Z)$Poor energy fit. Level energy differs by 4 keV                    
+135BA cL E$From least-squares fit to E|g's including primary                    
+135BA2cL |g rays from (n,|g) reactions, 0.3 keV uncertainty when not stated.    
+135BA3cL For 86 neutron resonances in the range 102 eV to 10.6 keV              
+135BA4cL see {+134}Ba(n,|g):resonances dataset.                                 
+135BA cL J$For high-spin (J>11/2), the assignments are as proposed by           
+135BA2cL 2006Ch51 based on their |g|g(|q)(DCO) data and systematics in this     
+135BA3cL mass region. The evaluators place all the assignments in parentheses   
+135BA cL J(P)$From proposed band structure                                      
+135BA cL J(D)$Primary (assumed dipole) |g from 1/2+ capture states.             
+135BA2cL |p: from comparison of reduced intensities                             
+135BA3cL of primary transitions to final states with known J|p                  
+135BA cL J(R)$From the deexcitation pattern in (n,n'|g), statistical-model      
+135BA2cL comparisons                                                            
+135BA CL BAND(A)$ |nd{-3/2}, DECOUPLED BAND (?).                                
+135BA2cL VMI analysis: parameter |D<1 keV.                                      
+135BA3cL The band assignment is uncertain.                                      
+135BA CL BAND(B)$ |nh{-11/2}{+-1} multiplet.                                    
+135BA2cL VMI analysis: parameter |D=51 keV                                      
+135BA CL BAND(C)$ |g cascade based on (21/2+)                                   
+135BA CL BAND(E)$ |g cascade based on (23/2-)                                   
+135BA  XA135CS B- DECAY (2.3E+6 Y)                                              
+135BA  XB135BA IT DECAY (28.7 H)                                                
+135BA  XC135LA EC DECAY (19.5 H)                                                
+135BA  XK130TE(9BE,4NG)                                                         
+135BA  XD134BA(N,G) E=TH                                                        
+135BA  XE134BA(N,G) E=102 EV                                                    
+135BA  XF134BA(N,G) E=2 KEV:ARC                                                 
+135BA  XG134BA(N,G) E=24.3 KEV:ARC                                              
+135BA  XH134BA(D,P)                                                             
+135BA  XL135BA(G,G')                                                            
+135BA  XI135BA(N,N'G)                                                           
+135BA  XJCOULOMB EXCITATION                                                     
+135BA PN                                                                     6  
+135BA  L 0.0         3/2+              STABLE                               A   
+135BAX L XREF=ABCDEFGHIJKL                                                      
+135BA2 L MOMM1=+0.837943 17 (1972Ol01,1989Ra17)                                 
+135BA2 L MOME2=+0.160 3 (1988We07,1989Ra17)                                     
+135BA cL $ (<r{+2}>){+1/2}=4.827 fm {I5}} (2004An14, evaluation)                
+135BA dL $ 2007Ii03: analyzed r<{+2}> values.                                   
+135BA cL MOMM1$ optical pumping with radiative detection (1972Ol01,1966Ol02).   
+135BA2cL Others: +0.8386274 {I21} (1978Lu07,NMR); 1990MiZF, 1966Co32, 1963Ja15, 
+135BA3cL 1963Na11, 1960Ka24, 1959Ku82, 1956Wa20, 1941Ha14. See also 2005St24    
+135BA4cL compilation.                                                           
+135BA dL $ Note that value of g factor quoted in 2000Tr07 for {+135}Ba should   
+135BA2dL instead be for {+137}Ba, as per email from G. Werth on August 13, 2009 
+135BA cL MOME2$others: +0.146 {I16} (1976Ma28,1983Mu12), +0.150 {I15}           
+135BA2cL (1986Si03), 0.158 {I32} (1979Ba74), 0.22 {I3} (1982Gr14,1979Gu09),     
+135BA3cL 1968Be60, 1968Op01, 1966Co26, 1964Ja11, 1963Zu05, 1963Ja15, 1962Ko22,  
+135BAxcL 1962Wi10, 1960Ka24. See also 2005St24 compilation.                     
+135BA cL $|D<r{+2}>({+138}Ba-{+135}Ba)=-0.079 fm{+2} {I12} (1979Be25)           
+135BA cL J$spin from atomic beam (1950Ar51,1941Ha14) and optical spectroscopy   
+135BA2cL (1937Be09,1932Mu06); parity from L(d,p)=2                              
+135BA  L  220.968  13  1/2+            0.64 NS   27                             
+135BAX L XREF=CDEFGHIJL                                                         
+135BA cL J$L(d,p)=0                                                             
+135BA cL T$from B(E2)=0.0095 {I4}                                               
+135BA  G 220.94    2  100      M1+E2     0.38    8     0.1110 17                
+135BAB G BM1W=0.0025 11$BE2W=4.6 2                                              
+135BAS G KC=0.0941 14$LC=0.0134 5$MC=0.00279 10$NC+=0.000694 23                 
+135BAS G NC=0.000598 21$OC=9.0E-5 3$PC=6.03E-6 10                               
+135BA  L 268.218   20 11/2-            28.7 H    2                          BM  
+135BAX L XREF=BCDEFGHIK                                                         
+135BA2 L %IT=100                                                                
+135BA2 L MOMM1=-1.001 15 (1979Be25,1989Ra17)                                    
+135BA2 L MOME2=+0.96 8 (1983Mu12,1989Ra17)                                      
+135BA cL $ Configuration=|nh{-11/2}{+-1}                                        
+135BA cL           |m, Q: LASER spectroscopy (1979Be25,1983Mu12)                
+135BA cL           |D<r{+2}>({+138}Ba-{+135}Ba isomer)=-0.053 fm{+2} {I12}      
+135BAxcL (1979Be25)                                                             
+135BA cL J$M4 |g to 3/2+                                                        
+135BA cL T$from 1960Wi10. Others: 28.7 h (1948Yu01), 27.2 h {I15} (1968Bo28)    
+135BA  G 268.218   20 100      M4                      5.31                     
+135BA cG M$ from ce data in {+135}Ba IT decay                                   
+135BAB G BM4W=2.50 7                                                            
+135BAS G KC=3.79 6$LC=1.182 17$MC=0.267 4$NC+=0.0658 10                         
+135BAS G NC=0.0572 8$OC=0.00820 12$PC=0.000405 6                                
+135BA  L  480.532  14 5/2+             13 PS     2                              
+135BAX L XREF=CDEFGHIJL                                                         
+135BA cL J$|g(|q) in Coul. ex.; M1+E2 |g to 3/2+                                
+135BA cL T$from B(E2)=0.176 {I6}. Other: |<10 ps from |g|g(t)                   
+135BA cL G$0.00 {I15} from |g(|q,H) in Coul. ex.                                
+135BA  G 259.58    4  0.29   2 (E2)                    0.0721                   
+135BAB G BE2W=2.6 5                                                             
+135BAS G KC=0.0579 9$LC=0.01129 16$MC=0.00239 4$NC+=0.000580 9                  
+135BAS G NC=0.000505 7$OC=7.19E-5 10$PC=3.21E-6 5                               
+135BA  G 480.52    2  100      M1+E2     +1.6    +5-4  0.0120 5                 
+135BAB G BM1W=0.0042 20$BE2W=28.3 10                                            
+135BAS G KC=0.0102 5$LC=0.00146 4$MC=0.000304 7$NC+=7.54E-5 18                  
+135BAS G NC=6.51E-5 15$OC=9.7E-6 3$PC=6.3E-7 4                                  
+135BA cG MR$other: +0.35 {I+12-15} from (n,n'|g)                                
+135BA  L  587.827  15 3/2+                                                      
+135BAX L XREF=CDEFGHIJL                                                         
+135BA cL J$M1(+E2) |g to 1/2+; log| {Ift}=7.9 from 5/2+                         
+135BA2 L BE2=0.074 4                                                            
+135BA  G 107.32    9  0.93   4 E2(+M1)   1.5     GT    1.39   11                
+135BAS G KC=0.93 5$LC=0.36 5$MC=0.079 11$NC+=0.019 3                            
+135BAS G NC=0.0164 23$OC=0.0022 3$PC=4.56E-5 7                                  
+135BA cG RI$from {+135}La |e. I|g=5.0 {I10} in (n,n'|g)                         
+135BA  G 366.83    2  28.8   6 M1(+E2)   0.5     LT    0.0283 6                 
+135BAS G KC=0.0243 6$LC=0.00323 5$MC=0.000665 10$NC+=0.0001669 24               
+135BAS G NC=0.0001434 21$OC=2.19E-5 3$PC=1.57E-6 5                              
+135BA cG MR$other: 0.0 {I+11-6} from (n,n'|g)                                   
+135BA  G 587.84    2  100    1 M1+E2     1.0     4     0.0076 6                 
+135BAB G BE2W=18.0 10                                                           
+135BAS G KC=0.0065 6$LC=0.00088 5$MC=0.000181 10$NC+=4.52E-5 25                 
+135BAS G NC=3.89E-5 21$OC=5.9E-6 4$PC=4.1E-7 4                                  
+135BA cG MR$other: +0.30 {I+9-8} from (n,n'|g)                                  
+135BA  L     714.20 4 (7/2-)                                                    
+135BAX L XREF=DEFGHIL                                                           
+135BA cL J$strong three-step cascade from 1/2+ capture state to 11/2-,          
+135BA2cL assuming primary transition as dipole                                  
+135BA  G 445.97    3  100                                                       
+135BA  L    855.01214 3/2+                                                      
+135BAX L XREF=CDEFGHIJ                                                          
+135BA cL J$M1(+E2) |g to 1/2+; log| {Ift}=7.8 from 5/2+                         
+135BA2 L BE2=0.029 4                                                            
+135BA  G 267.17    9  1.5    2                                                  
+135BA  G 374.46    2  78     4 M1+E2     -0.43   3     0.0266                   
+135BAS G KC=0.0227 4$LC=0.00306 5$MC=0.000631 9$NC+=0.0001581 23                
+135BAS G NC=0.0001359 19$OC=2.07E-5 3$PC=1.461E-6 22                            
+135BA cG MR$other: -0.07 {I+16-18} from (n,n'|g)                                
+135BA  G 634.04    2  100    2 M1(+E2)   1.3     LT    0.0067 7                 
+135BAS G KC=0.0057 6$LC=0.00075 6$MC=0.000155 11$NC+=3.9E-5 3                   
+135BAS G NC=3.34E-5 25$OC=5.1E-6 5$PC=3.7E-7 5                                  
+135BA cG MR$other: +0.28 {I+31-15} from (n,n'|g)                                
+135BA  G 855.02    2  75     4 M1(+E2)   0.5     LT    0.0034912                
+135BAB G BE2W=7.0 10                                                            
+135BAS G KC=0.00301 10$LC=0.000382 12$MC=7.85E-5 23$NC+=1.97E-5 6               
+135BAS G NC=1.69E-5 5$OC=2.60E-6 8$PC=1.93E-7 7                                 
+135BA cG MR$other: +0.18 {I+41-15} from (n,n'|g)                                
+135BA  L    874.51818 7/2+             1.32 PS   5                          A   
+135BAX L XREF=CDEFGIJKL                                                         
+135BA cL $ (2J+1)|G{-0}/4=0.00092 eV {I12}, B(E2)=0.22 {I3} in (|g,|g')         
+135BA cL J$|g(|q) in Coul. ex.; E2 |g to 3/2+                                   
+135BA cL T$from B(E2)=0.163 {I6}                                                
+135BA  G  287                   [E2]                                           ?
+135BAB G BE2W<1.0 (2006Fe06)                                                    
+135BA  G 394.04    4  2.4    2 [M1,E2]                 0.0217 23                
+135BAB G BM1W=0.0032 3$BE2W=12.8 12                                             
+135BAS G KC=0.0184 23$LC=0.00265 5$MC=0.000550 8$NC+=0.0001368 25               
+135BAS G NC=0.0001179 19$OC=1.77E-5 6$PC=1.15E-6 20                             
+135BA  G 874.51    2  100.0  10E2                      0.00244                  
+135BAB G BE2W=19.9 8                                                            
+135BAS G KC=0.00209 3$LC=0.000279 4$MC=5.74E-5 8$NC+=1.434E-5 20                
+135BAS G NC=1.234E-5 18$OC=1.87E-6 3$PC=1.289E-7 18                             
+135BA  L     910.29 3 1/2+                                                      
+135BAX L XREF=CDEFGHIJL                                                         
+135BA cL J$L(d,p)=0                                                             
+135BA2 L BE2=0.024 2                                                            
+135BA  G 322.3     2  6.0    8                                                  
+135BA  G 689.38    19 38     3                                                  
+135BA cG           |g not reported in (n,n'|g)                                  
+135BA  G 910.28    3  100    2                                                  
+135BAB G BE2W=11.7 10                                                           
+135BAS G CC=0.0027 5$KC=0.0023 4$LC=0.00030 5                                   
+135BA  L      950.5 3  (15/2-)                                              B   
+135BAX L XREF=K                                                                 
+135BAF L FLAG=P                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-1}~#2+                                    
+135BA  G 682.3         100      Q                                               
+135BA  L 979.965   18 3/2+,5/2+                                                 
+135BAX L XREF=CDEFGHIJL                                                         
+135BA cL J$L(d,p)=2                                                             
+135BA2 L BE2 LE 0.003                                                           
+135BA cL $ (2J+1)|G{-0}/4=0.0028 eV {I5} in (|g,|g')                            
+135BA  G 124.89    7  2.9    9 M1,E2                   0.70   18            A   
+135BAS G KC=0.53 8$LC=0.14 8$MC=0.029 17$NC+=0.007 4                            
+135BAS G NC=0.006 4$OC=0.0009 5$PC=2.95E-5 5                                    
+135BA  G 392.08    9  3.5    9                                              A   
+135BA  G 499.36    6  3.5    12                                             A   
+135BA  G 758.94    9  14     3                                                  
+135BA cG E,RI$from {+135}La |e                                                  
+135BA  G 979.98    2  100    6                                                  
+135BA  L 1008.00   10                                                          ?
+135BAX L XREF=C                                                                 
+135BA  G 420.12    10 100    30                                                 
+135BA  G 787.9     5  41     12                                                 
+135BA  G 1008.4    5  7      4                                                  
+135BA  L 1130                                                                  ?
+135BAX L XREF=J                                                                 
+135BA2 L BE2=0.099                                                              
+135BA  G 1130         100                                                       
+135BA cG E$unplaced |g rays of E|g=1130.89 {I11} and E|g=1130.6 {I6} were       
+135BA2cG reported in {+135}La |e decay and (n,n'|g), respectively               
+135BA  L   1165.2  22                                                          ?
+135BAX L XREF=EG                                                                
+135BA  L  1200.48   6                                                          ?
+135BAX L XREF=I                                                                 
+135BA  G 932.25    5  100                                                       
+135BA  L 1213.73   7  (3/2)                                                     
+135BAX L XREF=DEFGH(*)IL                                                        
+135BA cL $ (2J+1)|G{-0}/4=0.00092 eV {I21} in (|g,|g')                          
+135BA cL J$primary |g (assumed dipole) from 1/2+;                               
+135BA2cL and statistical model comparisons in (n,n'|g)                          
+135BA  G 234.03    22 5.6    14                                             C   
+135BA  G 359.1     7  2.1    11                                             C   
+135BA  G 626.2     3  10.4   21                                                 
+135BA  G 993.5     5  4.9    14                                                 
+135BA  G 1213.69   7  100    3                                                  
+135BA  L    1225.86 7 (3/2)                                                     
+135BAX L XREF=DEFGH(*)I                                                         
+135BA cL J$primary |g (assumed dipole) from 1/2+;                               
+135BA2cL statistical model comparisons in (n,n'|g)                              
+135BA  G 245.44    6  27.5   13                                             C  ?
+135BAF G FL=979.965                                                             
+135BA  G 371.1     5  5.0    25                                             C   
+135BA  G 638.00    11 34     2                                                  
+135BA  G 745.4     1  27     2                                                  
+135BA  G 1005.3    4  6.3    13                                             C   
+135BA  G 1225.80   8  100    4                                                  
+135BA  L 1238.41   7  (5/2)                                                 R   
+135BAX L XREF=DI                                                                
+135BA  G 382.8     7  6      3                                              C   
+135BA  G 649.4     3  12     3                                              C  ?
+135BAF G FL=587.827                                                             
+135BA  G 757.98    9  100    18                                                 
+135BA  G 1238.3    1  254    LT                                             &   
+135BA  L    1298.5410 (1/2+,3/2+)                                           D   
+135BAX L XREF=DI                                                                
+135BA  G 710.52    16 100    7                                                  
+135BA  G 1077.30   21 42     6                                                  
+135BA  G 1298.97   18 41     11                                             B   
+135BA  L    1446.41 7 7/2-                                                      
+135BAX L XREF=DHI                                                               
+135BA cL J$L(d,p)=3; |g to 11/2-                                                
+135BA  G 732                                                                   ?
+135BA cG           From (n,|g) only with I|g|?200                               
+135BA  G 965.88    7  100    5                                                  
+135BA cG           |d(Q/D)=+0.07 {I+21-37} from (n,n'|g)                        
+135BA  G 1178.1    2  42     4                                              C   
+135BA  L    1557.35 5 (5/2,7/2+)                                            R   
+135BAX L XREF=I                                                                 
+135BA  G 682.89    5  100    4                                                  
+135BA  G 701.96    14 28     4                                                  
+135BA  G 969.44    11 55     3                                                  
+135BA  G 1077.1    4  1.3    AP                                                 
+135BA  G 1557.3    13 4.7    25                                                 
+135BA  L 1584.52   6  (3/2)-                                                    
+135BAX L XREF=DEFGHI                                                            
+135BA cL J$L(d,p)=1; |g to 1/2+; shell-model considerations                     
+135BA  G 1363.53   6  100.0  12                                                 
+135BA  G 1583      1  38     LT                                                 
+135BA cG RI$from (n,|g) E=24.3 keV                                              
+135BA  L    1609.3114 (1/2+,3/2+)                                           D   
+135BAX L XREF=DI                                                                
+135BA  G 1021.5    3  100    7                                                  
+135BA  G 1128.2    5  49     10                                             B   
+135BA  G 1388.2    3  63     13                                             B   
+135BA  G 1609.7    4  56     11                                                 
+135BA  L    1670.6712 (3/2-)                                                    
+135BAX L XREF=DEFGI                                                             
+135BA cL J$strong three-step cascade from 1/2+ capture state to 11/2-;          
+135BA2cL assuming primary transition as dipole                                  
+135BA  G 956.43    12 100                                                       
+135BA  L    1719.5713 (1/2+,3/2+)                                           D   
+135BAX L XREF=DI                                                                
+135BA  G 739.3     3  73     LT                                             &   
+135BA  G 864.5     4  100    27                                                 
+135BA  G 1238.55   25 435    LT                                             &   
+135BA  G 1720.0    2  270    LT                                             &   
+135BA  L    1787.4218 (5/2-)                                                    
+135BAX L XREF=DI                                                                
+135BA cL J$from comparison of level populations in (n,n'|g) and (n,|g);         
+135BA2cL no |g from 1/2+ capture states                                         
+135BA  G 1073.22   17 100                                                       
+135BA  L     1794.4 6 (1/2,3/2)                                             D   
+135BAX L XREF=EF                                                                
+135BA  L    1830.5 4 (1/2,3/2)                                              D   
+135BAX L XREF=EFG                                                               
+135BA  G 1830.7    5  100                                                       
+135BA cG E$from (n,|g) E=24.3 keV res only                                      
+135BA  L 1871.46   22  (3/2+,5/2)                                           R   
+135BAX L XREF=H(*)IL                                                            
+135BA cL $ (2J+1)|G{-0}/4=0.0059 eV {I16} in (|g,|g')                           
+135BA  G 996.6     5  37     8                                                  
+135BA  G 1390.7    4  45     9                                                  
+135BA  G 1871.7    3  100    9                                                  
+135BA  L     1878.9 3 (1/2,3/2)                                             D   
+135BAX L XREF=EFGH(*)                                                           
+135BA  G 1291.3    3  100                                                       
+135BA cG E$from (n,|g) E=102 eV res only                                        
+135BA  L 1941.17   20 (3/2+,5/2+)                                               
+135BAX L XREF=IL                                                                
+135BA cL $ (2J+1)|G{-0}/4=0.0024 eV {I6} in (|g,|g')                            
+135BA cL J$|g's to 1/2+ and 7/2+                                                
+135BA  G 1066.7    3  100    30                                                 
+135BA  G 1720.2    5  44     LT                                             &   
+135BA  G 1941.1    3  43     5                                                  
+135BA  L     1955.4 5  (11/2+)                                                  
+135BAX L XREF=K                                                                 
+135BAF L FLAG=AP                                                                
+135BA  G 1080.9       100                                                       
+135BA  L    1964.8317 (1/2+,3/2+)                                           D   
+135BAX L XREF=DH(*)L                                                            
+135BA cL $ (2J+1)|G{-0}/4=0.0025 eV {I17} in (|g,|g')                           
+135BA cL J$possible |g to 7/2+ disfavors 1/2+                                   
+135BA  G 739.4     4  35     LT                                             &   
+135BA  G 1054.39   20 100    21                                                 
+135BA  G 1090.2    5  60     10                                                ?
+135BA  G 1964.9    5  73     25                                                 
+135BA  L     1971.6 3 (3/2,5/2)                                             R   
+135BAX L XREF=FGH(*)I                                                           
+135BA  G 1491.1    4  100    18                                             C   
+135BA  G 1971.3    7  80     12                                             C   
+135BA  L    1991.0216 (3/2,5/2)                                             R   
+135BAX L XREF=DIL                                                               
+135BA cL $ (2J+1)|G{-0}/4=0.0041 eV {I7} in (|g,|g')                            
+135BA  G 1402.8    4  99     20                                                 
+135BA  G 1510.6    2  100    20                                                 
+135BA  G 1990.8    6  76     7                                              C   
+135BA  L    1997.57 9 (1/2)-                                                    
+135BAX L XREF=DEFGH                                                             
+135BA cL J$L(d,p)=1; shell-model considerations                                 
+135BA  G 413.03    7  72     4                                              B   
+135BA  G 1142.6    3  34     5                                              B   
+135BA  G 1776.6    5  100    13                                             B   
+135BA  L     2002.6 5  (19/2-)                                              B   
+135BAX L XREF=K                                                                 
+135BAF L FLAG=P                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-1}~#4+                                    
+135BA  G 1052.1         100      Q                                              
+135BA  L    2075.4316  (3/2,5/2+)                                               
+135BAX L XREF=I                                                                 
+135BA cL J$|g to 1/2+; statistical model calculations                           
+135BA  G 1165.0    2  89     8                                                  
+135BA  G 1488.1    4  72     12                                                 
+135BA  G 1595.3    7  70     12                                                 
+135BA  G 2075.3    4  100    13                                                 
+135BA  L    2077.4313 (1/2-,3/2-)                                               
+135BAX L XREF=DEFGHL                                                            
+135BA cL $ (2J+1)|G{-0}/4=0.0045 eV {I13} in (|g,|g')                           
+135BA cL J$L(d,p)=(1)                                                           
+135BA  G 1489.2    3  37     7                                              B   
+135BA  G 1856.4    2  100    8                                                  
+135BA  G 2077.22   25 87     9                                                  
+135BA cG E,RI$from (n,|g) E=th. E|g=2080.0 {I8} in (n,|g) E=102 eV res          
+135BA  L 2117.8    9  (1/2,3/2)                                             D   
+135BAX L XREF=EFGH                                                              
+135BA  L 2133.9     5  (19/2-)                                                  
+135BAX L XREF=K                                                                 
+135BA  G 1183.4       100        Q                                              
+135BA  L     2150.7 5 (1/2,3/2)                                                 
+135BAX L XREF=EFGH                                                              
+135BA cL J$primary |g from 1/2+. L(d,p)=(3) for a 2152 group disagrees          
+135BA2cL with this assignment. There may be two different levels near           
+135BA3cL this energy                                                            
+135BA  G 2150.5    8  100                                                      ?
+135BA cG E$from (n,|g) E=102 eV res only                                        
+135BA  L  2283                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0013 eV {I3}                                        
+135BA  G  2283        100                                                       
+135BA  L  2334                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0018 eV {I3}                                        
+135BA  G  2334        100                                                       
+135BA  L 2388.0     6                                                           
+135BAX L XREF=K                                                                 
+135BA cL J$ |g to (19/2-) suggests (19/2 to 23/2-)                              
+135BA  G  254.1        100                                                      
+135BA  L 2393.5     5  (21/2-)                                              B   
+135BAX L XREF=K                                                                 
+135BA  G  390.6       100        D                                              
+135BA  L     2396.6 3 (1/2+,3/2)                                                
+135BAX L XREF=D                                                                 
+135BA cL J$primary |g from 1/2+; |g to 5/2+                                     
+135BA  G 1916.4    4  100    28                                                 
+135BA  G 2396.2    8  45     18                                                 
+135BA  L  2420                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0018 eV {I3}                                        
+135BA  G  2420        100                                                       
+135BA  L  2440                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0022 eV {I3}                                        
+135BA  G  2440        100                                                       
+135BA  L    2447.7620 1/2-,3/2-                                                 
+135BAX L XREF=DHL                                                               
+135BA cL $ (2J+1)|G{-0}/4=0.0039 eV {I8} in (|g,|g')                            
+135BA cL J         L(d,p)=1                                                     
+135BA  G 1466.6    5  8.2    20                                                ?
+135BA  G 1592.8    8  2.8    14                                                 
+135BA  G 1860.4    7  13.1   17                                                 
+135BA  G 2227         15                                                        
+135BA  G 2447.68   24 100    4                                                  
+135BA  L 2478      15(5/2-)                                                     
+135BAX L XREF=HL                                                                
+135BA cL J$L(d,p)=(3); dipole excitation in (|g,|g') from 3/2+                  
+135BA cL $ (2J+1)|G{-0}/4=0.0021 eV {I3} in (|g,|g')                            
+135BA  G 2478          100                                                      
+135BA  L  2485                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0027 eV {I4}                                        
+135BA  G  2485        100                                                       
+135BA  L  2496                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0019 eV {I3}                                        
+135BA  G  2496        100                                                       
+135BA  L     2579.2 3 (1/2+,3/2)                                                
+135BAX L XREF=DH(?)                                                             
+135BA cL J$primary |g from 1/2+; |g to 5/2+                                     
+135BA  G 2098.3    7  100    11                                                 
+135BA  G 2579.4    5  27     7                                                  
+135BA  L 2602                                                                  ?
+135BAX L XREF=H(*)L                                                             
+135BA cL $ (2J+1)|G{-0}/4=0.0017 eV {I3} in (|g,|g')                            
+135BA  G  2602        100                                                   *   
+135BA  L  2621                                                                  
+135BAX L XREF=H(*)L                                                             
+135BA cL $ (2J+1)|G{-0}/4=0.0036 eV {I4} in (|g,|g')                            
+135BA  G  2621        100                                                       
+135BA  L  2638                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0023 eV {I4}                                        
+135BA  G  2638        100                                                       
+135BA  L  2651                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0018 eV {I4}                                        
+135BA  G  2651        100                                                       
+135BA  L     2658.5 3 (1/2,3/2)                                             D   
+135BAX L XREF=DH(?)L                                                            
+135BA cL $ (2J+1)|G{-0}/4=0.0025 eV {I9} in (|g,|g')                            
+135BA  G 2177.1    5  25     LT                                             &   
+135BA  G 2659.2    4  100    13                                                 
+135BA  L  2667                                                                 ?
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0056 eV {I7}                                        
+135BA  G  2447        100    37                                                 
+135BA cG E$ second placement of a |g ray of near this energy is                 
+135BA2cG from 2447.6 level                                                      
+135BA  G  2667         41    7                                              *   
+135BA  L     2688.0 3 (1/2,3/2)                                             D   
+135BAX L XREF=DH(?)                                                             
+135BA  G 2467.2    3  100    18                                                 
+135BA  G 2687.7    5  64     20                                                 
+135BA  L  2708                                                                 ?
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=2.3|*10{+-3} eV {I5} or 4.0|*10{+-3} eV {I5}          
+135BA  G  2708        100                                                   *   
+135BA  L    2710.7825  1/2,3/2                                                  
+135BAX L XREF=DH(?)L                                                            
+135BA cL $ (2J+1)|G{-0}/4=0.0105 eV {I9} in (|g,|g')                            
+135BA cL J$primary |g from 1/2+. Parity is negative if L(d,p)=(1) group         
+135BA2cL at 2709 corresponds to this level                                      
+135BA  G 1101.6    3  96     LT                                             &   
+135BA  G 2489.3    5  98     18                                                 
+135BA  G 2710.9    6  100    21                                                 
+135BA  L    2730.0514 1/2,3/2                                                   
+135BAX L XREF=DEH(?)L                                                           
+135BA cL $ (2J+1)|G{-0}/4=0.0061 eV {I14} in (|g,|g')                           
+135BA cL J$primary |g from 1/2+. Parity is negative if L(d,p)=1 group           
+135BA2cL at 2728 corresponds to this level                                      
+135BA  G 1120.48   23 13     3                                              B   
+135BA  G 2142.19   21 36     3                                                  
+135BA cG E$from (n,|g) E=th. E|g=2142.8 {I2} in (n,|g) E=102 eV res             
+135BA  G 2510.8    7  10.1   27                                             B   
+135BA  G 2730.2    3  100    6                                              B   
+135BA  L 2739.6     6  (23/2-)                                              E   
+135BAX L XREF=K                                                                 
+135BA  G  737.0       100        Q                                              
+135BA  L 2781         (1/2-,3/2-)                                               
+135BAX L XREF=H(?)L                                                             
+135BA cL $ (2J+1)|G{-0}/4=0.0029 eV {I4} in (|g,|g')                            
+135BA cL J$L(d,p)=(1)                                                           
+135BA  G  2781         100                                                      
+135BA  L 2824.7     6  (23/2+)                                                  
+135BAX L XREF=K                                                                 
+135BA  G  431.1         100                                                     
+135BAF G FL=2393.5                                                              
+135BA  L 2850      15  (5/2-,7/2-)                                             ?
+135BAX L XREF=H                                                                 
+135BA cL J$L(d,p)=3                                                             
+135BA  L     2873.0 3 (1/2,3/2)                                             D   
+135BAX L XREF=DH(?)L                                                            
+135BA cL $ (2J+1)|G{-0}/4=0.0056 eV {I7} in (|g,|g')                            
+135BA  G 2652.3    4  100    12                                                 
+135BA  G 2872.2    5  100    LT                                             &   
+135BA  L     2888.1 6 (1/2,3/2)                                             D   
+135BAX L XREF=DH(*?)                                                            
+135BA  G 2888.1    6  100                                                       
+135BA  L     2897.1 4 (1/2+,3/2)                                                
+135BAX L XREF=DH(*?)                                                            
+135BA cL J$primary |g from 1/2+; |g to 5/2+                                     
+135BA  G 2309.5    5  100    35                                                 
+135BA  G 2416.5    11 90     40                                                 
+135BA  L 2947         (5/2-)                                                    
+135BAX L XREF=H(?)L                                                             
+135BA cL $ (2J+1)|G{-0}/4=0.0237 eV {I18} in (|g,|g')                           
+135BA cL J$L(d,p)=3; dipole excitation in (|g,|g') from 3/2+                    
+135BA  G 2947           100                                                     
+135BA  L 3084.1     5  (21/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-2}~#|ns{-1/2}                             
+135BA  G 1081.7        100       D                                              
+135BA  L    3085.8422 1/2,3/2                                                   
+135BAX L XREF=DH(?)                                                             
+135BA cL J$primary |g from 1/2+. Parity is negative if L(d,p)=1 group at 3085   
+135BA2cL corresponds to this level                                              
+135BA  G 1415.41   27 54     9                                                  
+135BA  G 2864.7    4  100    20                                                 
+135BA  G 3085.1    10  43    5                                                  
+135BA  L     3092.6 3 (1/2,3/2)                                             D   
+135BAX L XREF=DL                                                                
+135BA cL $ (2J+1)|G{-0}/4=0.0225 eV {I17} in (|g,|g') for 51% branch to the     
+135BA2cL g.s., 0.0183 eV {I16} for 63% branch to g.s.                           
+135BA  G 1101.6    3  92     LT                                             &   
+135BA  G 2872.2    5  250    LT                                             &   
+135BA  G 3094.0    10 100    10                                                 
+135BA  L  3111                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0026 eV {I6}                                        
+135BA  G  3111        100                                                       
+135BA  L  3122                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0027 eV {I6}                                        
+135BA  G  3122        100                                                       
+135BA  L  3126                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0082 eV {I10}                                       
+135BA  G  2645        100    38                                                 
+135BA  G  3126         45    6                                                  
+135BA  L  3148                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0074 eV {I10} for 52% branch to the g.s.,           
+135BA2cL 0.0039 eV {I6} for 100% branch to the g.s.                             
+135BA  G  2667         92    33                                             *   
+135BA  G  3148        100    13                                                 
+135BA  L     3154.1 3 (1/2-,3/2-)                                           D   
+135BAX L XREF=D                                                                 
+135BA  G 2566.0    4  100    12                                                 
+135BA  G 3153.7    13 15     8                                                  
+135BA  L  3163                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0064 eV {I10} for 25% branch to the g.s.,           
+135BA2cL 0.0016 eV {I5} for 100% branch to the g.s.                             
+135BA  G  2683        30E1   14                                             *   
+135BA  G  3163        100    16                                                 
+135BA  L     3169.2 3 (1/2,3/2)                                             D   
+135BAX L XREF=D                                                                 
+135BA  G 1498.1    3  100    18                                                 
+135BA  G 3173.4        68    10                                             Z  ?
+135BAF G FL=0.0                                                                 
+135BA  L  3182                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0036 eV {I5}                                        
+135BA  G  3182         100                                                      
+135BA  L  3190                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0165 eV {I14}                                       
+135BA  G  2602        135    50                                             *   
+135BA  G  2708        265    75                                             *   
+135BA  G  3190        100    10                                                 
+135BA  L  3196                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0028 eV {I6}                                        
+135BA  G  3196         100                                                      
+135BA  L 3210.3     6  (27/2-)                                              E   
+135BAX L XREF=K                                                                 
+135BA  G  470.7         100      Q                                              
+135BA  L 3211.8     6  (23/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-1}~#|p(h{-11/2}d{-5/2}{+-1})              
+135BA  G  128.0         73.4 20 D                                               
+135BAF G FL=3084.1                                                              
+135BA  G  818.1         100  3  D                                               
+135BAF G FL=2393.5                                                              
+135BA  L  3272                                                                 ?
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0116 eV {I12}                                       
+135BA  G  2683        100    30                                             *   
+135BA  G  3272        100    10                                             *   
+135BA  L     3294.0 4 (1/2,3/2)                                             D   
+135BAX L XREF=D                                                                 
+135BA  G 2438.8    4  36     11                                                 
+135BA  G 3298.0       100    20                                             Z  ?
+135BAF G FL=0.0                                                                 
+135BA  L 3324                                                                  ?
+135BAX L XREF=H(?)L                                                             
+135BA cL $ (2J+1)|G{-0}/4=0.0023 eV {I6}  in (|g,|g')                           
+135BA  G  3324        100                                                       
+135BA  L  3410                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0285 eV {I23} for 85% branch to the g.s., 0.0334 eV 
+135BA2cL {I24} for 100% branch to the g.s.                                      
+135BA  G  3190          18   5                                              *   
+135BA  G  3410         100   7                                                  
+135BA  L  3415                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0028 eV {I7}                                        
+135BA  G  3415         100                                                      
+135BA  L 3415.7     6  (25/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-1}~#|p(h{-11/2}d{-5/2}{+-1})              
+135BA  G  204.0        100   4   D                                              
+135BAF G FL=3211.8                                                              
+135BA  G  591.0         1.5  LT                                                 
+135BA  L  3422                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0028 eV {I6}                                        
+135BA  G  3422         100                                                      
+135BA  L  3454                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0183 eV {I17}                                       
+135BA  G  2973.5       100   26                                                 
+135BA  G  3454          45   4                                                  
+135BA  L     3510.3 3 (1/2,3/2)                                             D   
+135BAX L XREF=D                                                                 
+135BA  G 931.1     3  100                                                       
+135BA  G 3511.8    12 55     23                                                 
+135BA  L  3587                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0032 eV {I10}                                       
+135BA  G  3587         100                                                      
+135BA  L     3632.6 5 (1/2,3/2)                                             D   
+135BAX L XREF=DH(?)L                                                            
+135BA cL $ (2J+1)|G{-0}/4=0.0037 eV {I9} in (|g,|g')                            
+135BA  G 3632.2    6  100                                                       
+135BA  L 3647.5     7  (29/2-)                                                  
+135BAX L XREF=K                                                                 
+135BA  G  437.2       100                                                       
+135BAF G FL=3210.3                                                              
+135BA  L  3656                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0108 eV {I17}                                       
+135BA  G  3068         100   45                                                 
+135BA  G  3656          79   13                                                 
+135BA  L 3670      20                                                          ?
+135BAX L XREF=H                                                                 
+135BA  L  3696                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0045 eV {I10}                                       
+135BA  G  3696         100                                                      
+135BA  L  3708                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0161 eV {I18}                                       
+135BA  G  2799          85   28                                             *   
+135BA  G  3708         100   11                                                 
+135BA  L  3720                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0128 eV {I15}                                       
+135BA  G  3720         100                                                      
+135BA  L  3753                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.026 eV {I3} for 33% branch to the g.s.,             
+135BA2cL 0.0087 eV {I16} for 100% branch to the g.s.                            
+135BA  G  3272         203   64                                             *   
+135BA  G  3753         100   9                                                  
+135BA  L 3758.3     7  (27/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-1}~#|p(h{-11/2}g{-7/2}{+-1})              
+135BA  G  342.6        100       D                                              
+135BAF G FL=3415.7                                                              
+135BA  L  3779                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.043 eV {I5} for 26% branch to the g.s., 0.0112 eV   
+135BA2cL {I19} for 100% branch to the g.s.                                      
+135BA  G  2799          173  65                                             *   
+135BA  G  3190          112  42                                             *   
+135BA  G  3779         100   12                                                 
+135BA  L     3786.0 3 (1/2,3/2)                                             D   
+135BAX L XREF=DH(?)                                                             
+135BA  G 2177.1    5  65     LT                                             &   
+135BA  G 3197.7    4  100    19                                                 
+135BA  L 3805.2     7  (29/2-)                                              E   
+135BAX L XREF=K                                                                 
+135BA  G  594.9       100                                                       
+135BAF G FL=3210.3                                                              
+135BA  L  3813                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0071 eV {I20}                                       
+135BA  G  3813         100                                                      
+135BA  L  3881                                                                  
+135BAX L XREF=L                                                                 
+135BA cL $ (2J+1)|G{-0}/4=0.0090 eV {I18}                                       
+135BA  G  3881         100                                                      
+135BA  L   3929.7  20                                                          ?
+135BAX L XREF=DH                                                                
+135BA  L   4072.3  20                                                          ?
+135BAX L XREF=DH                                                                
+135BA  L 4180.9     7  (29/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-1}~#|p(h{-11/2}g{-7/2}{+-1})~#2+          
+135BA  G  422.6       100        D                                              
+135BA  L 4254.1     7  (31/2+)                                                  
+135BAX L XREF=K                                                                 
+135BA  G  495.8        100       Q                                              
+135BA  L 4269      20                                                          ?
+135BAX L XREF=H                                                                 
+135BA  L 4695.8     8  (31/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA cL $ Configuration=|nh{-11/2}{+-1}~#|p(h{-11/2}g{-7/2}{+-1})~#2+          
+135BA  G  514.9         100     D                                               
+135BA  L 4713.2     8  (35/2+)                                                  
+135BAX L XREF=K                                                                 
+135BA  G  459.1         100                                                     
+135BA  L 4729      20                                                          ?
+135BAX L XREF=H                                                                 
+135BA  L 4816.6     7  (33/2-)                                              E   
+135BAX L XREF=K                                                                 
+135BA  G 1011.4         100  LT                                                 
+135BA  G 1169.1         100  LT                                                 
+135BA  L 4890      20                                                          ?
+135BAX L XREF=H                                                                 
+135BA  L 4940      20                                                          ?
+135BAX L XREF=H                                                                 
+135BA  L 5023.4     8  (33/2+)                                                  
+135BAX L XREF=K                                                                 
+135BA  G  327.6       100        D                                              
+135BA  L 5235.8     8  (33/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA  G  540.0       100        D                                              
+135BA  L 5850.2     9  (35/2+)                                              C   
+135BAX L XREF=K                                                                 
+135BA  G  614.4        63    LT                                                 
+135BA  G  826.8       100    13                                                 
+
+

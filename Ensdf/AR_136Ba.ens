@@ -1,0 +1,583 @@
+136BA    ADOPTED LEVELS, GAMMAS                                  02NDS    200206
+136BA  H TYP=FUL$AUT=A.A. Sonzogni$CIT=NDS 95, 837 (2002)$CUT=1-Feb-2002$       
+136BA  XA136BA IT DECAY                                                         
+136BA  XB136CS B- DECAY (13.16 D)                                               
+136BA  XC136LA EC DECAY                                                         
+136BA  XD135BA(N,G) E=THERMAL                                                   
+136BA  XE135BA(N,G) E=24.4-463.4 EV RES                                         
+136BA  XF135BA(N,G) E=2,24 KEV: AV RES                                          
+136BA  XG135BA(D,P) E=15 MEV                                                    
+136BA  XH136BA(G,G')                                                            
+136BA  XI136BA(N,N'G)                                                           
+136BA  XN136BA(D,D'),(A,A')                                                     
+136BA  XJCOULOMB EXCITATION                                                     
+136BA  XK138BA(P,T),(POL P,T) E=52 MEV                                          
+136BA  XL140CE(D,6LI) E=35 MEV                                                  
+136BA  XM208PB(136XE,XG)                                                        
+136BA c  Theory: 2001An13, 2000Lu04, 2000Vr04, 2000Zh19, 1999Pr03, 1998Lu07,    
+136BA2c  1998Su28, 1997De21, 1995Hi10                                           
+136BA c  {+136}Ba(n,X): 2000ZhZV                                                
+136BA c  Astrophysics interest: 1997Ko27, 1995Vo06. Measured {+136}Ba(n,|g) |s  
+136BA2c  at s-process neutron energies                                          
+136BA c  Other reactions:                                                       
+136BA c  {+136}Ba(|g,n), E=11-25 MeV, 1996Be30, measured GDR energy, |G, |s.    
+136BA c  {+124}Sn({+12}C,F) E=86-110 MeV. 1984Be29 measured fission |s and      
+136BA2c  fragment |s(|q); deduced fission barrier.                              
+136BA c  {+124}Sn({+16}O,|a) E=90, 104, 125 MeV. 1982Tr02 measured |s(|q),      
+136BA2c  |s(E; |q), and |g-multiplicities; deduced L(critical).                 
+136BA c  {+139}La(p,|a) E=20-30 MeV. 1975Mi15 measured |a-spectra. Spectra      
+136BA2c  dominated by precompound emission.                                     
+136BA  Q -2.87E+3  7 9107.74  4 8594.7 12 -2038    3   1995AU04                 
+136BA cL E         Resonance energies are from S(n)+E(n) and were not included  
+136BA2cL in the least-squares adjustment.                                       
+136BA cL T         From resonance fluorescence, except as noted                 
+136BA cL T(X)      From |g|g(t) or |b|g(t) in |b{+-} decay                      
+136BA cL J(E)      From average resonance capture                               
+136BA cL J(I)      J from evaluation of 1981MuZQ. |p from assumption that strong
+136BA2cL primary |g's to the 0+ levels are M1                                   
+136BA cL J(C)      J from evaluation of 1981MuZQ. |p from assumption that |g to 
+136BA2cL 2532, 3-, is E1                                                        
+136BA cL J(W)$From |g decay of resonance with J=1 to 2 above neutron separation 
+136BA3cL energy                                                                 
+136BA cG           See {+135}Ba(n,|g) E=24.4-463.4 eV Res and {+135}Ba(n,|g)    
+136BA2cG E=2,24 keV: Av Res, for |g's depopulating levels above neutron         
+136BA3cG separation energy. Additionally, see |e decay, (n,|g) E=thermal, and   
+136BA4cG (n,n'|g) for unplaced gammas                                           
+136BA cG E,RI      Bound-state transitions from (n,n'|g), except as noted.      
+136BA cG M,MR      From |g(|q) in (n,n'|g), except as noted                     
+136BA cG E(K),RI(L),M(QRS),MR(TU)$From |b{+-} decay                             
+136BA cG M(F)      Stretched Q from |g(|q) in (n,n'|g)                          
+136BA cG M(Z)      D+Q from |g(|q) in (n,n'|g). |=E1+M2 from |d and             
+136BA2cG comparison to RUL                                                      
+136BA cG M(Y)      Q from |g(|q) in (n,n'|g) or (n,|g) E=thermal. |=M2 from     
+136BA2cG comparison to RUL                                                      
+136BA cG E(M),RI(N)$From |e decay                                               
+136BA cG M(G)      Isotropic Q from |g(|q) in (n,n'|g)                          
+136BA cG MR(E)     See table above                                              
+136BA cG M(V),MR(W)$From comparison to RUL                                      
+136BA cG E(A),RI(B)$From (n,|g) E=thermal                                       
+136BA cG E(P)      Note that the 1822|g was placed with the 2641 level in       
+136BA2cG (n,n'|g) and the 3691 level in (n,|g) E=thermal; 1955, with the 2773   
+136BA3cG level in (n,n'|g) and the 3505 level in (n,|g) E=thermal               
+136BA cG M(H)      From linear polarization in (|g,|g')                         
+136BA cG E(I)      If 1(+) for 376.4-eV resonance is correct then this primary  
+136BA2cG |g cannot feed the 2532, 3-, level                                     
+136BA PN                                                                     6  
+136BA  L 0.0         0+                STABLE                                   
+136BA3 L XREF=+                                                                 
+136BA cL           |D<r{+2}>({+138}Ba,{+136}Ba)=-0.039 {I7} (1988We07), other:  
+136BA2cL -0.034 {I4} (1999GaZX)                                                 
+136BA  L    818.497112+                1.930 PS  15                             
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA cL T$from B(E2) in Coul. ex.                                              
+136BA3 L XREF=ABCDEFGIJKLM                                                      
+136BA4 L MOMM1=0.69 10 (1989RA17)$BE2=0.399 3 (1984BE20)$                       
+136BA cL           Q=-0.19 {I6} or +0.07 {I7} (1989Ra17)                        
+136BA  G 818.514   12 100        E2                                             
+136BA3 G FLAG=K                                                                 
+136BAS G CC=0.00286$KC=0.00242 8$LC=0.00033 1                                   
+136BA  L   1550.97114 2+               1.01 PS   23                             
+136BA cL T$weighted av of 1.08 ps {I29} from B(E2) in Coul. ex. and             
+136BA2cL 0.88 ps {I39} from resonance fluorescence                              
+136BA3 L XREF=-(LM)                                                             
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 732.46    2  92     5  M1+E2    -1.00   4                              
+136BAS G CC=0.00450 4$KC=0.00383 3$LC=0.00050                                   
+136BAB G BM1W=0.013 4$BE2W=15 4                                                 
+136BA  G 1550.96   2 100     5  E2                                              
+136BAB G BE2W=0.78 19                                                           
+136BA  L   1578.99023 0+                                                        
+136BA cL J$E0 transition to 0+                                                  
+136BA3 L XREF=CDEFGIN                                                           
+136BA  G 760.49    2  100       E2                                              
+136BAS G CC=0.00339$KC=0.00287 9$LC=0.00039 1                                   
+136BA  G 1579.819               E0                              0.0028    CA    
+136BAF G FL=0.0                                                                 
+136BAS G K/T=0.89$L/T=0.11                                                      
+136BA3 G FLAG=A                                                                 
+136BA cG M         ce(K) observed in (n,|g) E=thermal but not |g                
+136BA cG $B(E0)/B(E2 to 2+, 818 level)=0.173 {I15} (1987PaZS)                   
+136BA cG $B(E2 to 2+, 1551 level)/B(E2 to 2+, 818 level)|?0 (1987PaZS)          
+136BA  L   1866.548184+                                                         
+136BA cL J$4,5,6 from |b decay of 5+ parent, E2 |g to 2+                        
+136BA3 L XREF=ABDFIKMN                                                          
+136BA  G 315.5      50.025   23[E2]                     0.0387                 ?
+136BA3 G FLAG=KL                                                                
+136BAS G KC=0.0316 10$LC=0.00561 17$MC=0.00117 4$NC+=0.00031 1                  
+136BA  G 1048.073  20 100    4 E2                                               
+136BA3 G FLAG=KLQ                                                               
+136BAS G CC=0.00165$KC=0.00141 5$LC=0.00018 1                                   
+136BA  L   2030.466187-                0.3084 S  19                          M  
+136BA3 L CONF=((N,D3/2,-1)(N,H11/2,-1)) (1987DR13)                              
+136BA cL J$E3 |g to 4+. L(p,t)=7                                                
+136BA cL T$from (n,|g) E=thermal. Other: 0.37 s {I5} (1965Ru05. Chem, |g(t),    
+136BAxcL NaI)                                                                   
+136BA3 L %IT=100                                                                
+136BA4 L XREF=ABDIKM                                                            
+136BA  G 163.920   2 100       E3                        2.20                   
+136BA3 G FLAG=KLR                                                               
+136BAS G KC=1.09 4$LC=0.87 3$MC=0.194 6$NC+=0.0507 16                           
+136BA DG CC        E3 CC(THEORY)'S MULT. BY 0.975 10 (Cf. 1990Ne01)             
+136BAB G BE3W=0.352 8                                                           
+136BA  L   2053.822184+                                                         
+136BA cL J$4,5,6 from |b{+-} decay of 5+, E2 |g to 2+                           
+136BA4 L XREF=BDIN                                                              
+136BA  G 187.285   6 2.1     5    M1+E2      0.8  6     0.190 16                
+136BA cG RI$weighted average of |b decay and (n,n'|g) values                    
+136BA3 G FLAG=KSU                                                               
+136BAS G KC=0.155 7$LC=0.028 8$MC=0.0058 16$NC+=0.0015 4                        
+136BA  G 1235.362  23 100    4 E2                                               
+136BA3 G FLAG=KLQ                                                               
+136BAS G CC=0.00117$KC=0.00100 3$LC=0.00013                                     
+136BA  L   2080.02621 2+               0.6 PS    GE                             
+136BA4 L XREF=CDEFGHI                                                           
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 528.96    7  10.6   6  M1+E2                   0.010116                
+136BAS G KC=0.0085 15$LC=0.00117 11                                             
+136BA  G 1261.51   3  100    4  M1+E2    -1.00    5                             
+136BAS G CC=0.00131 1$KC=0.00112 1$LC=0.00014                                   
+136BAB G BM1W<0.0056$BE2W<2.2                                                   
+136BA  G 2080.04   3   60.6  21 E2                                              
+136BAB G BE2W<0.21                                                              
+136BA  L   2128.83025 2+               0.051 PS  4                              
+136BA4 L XREF=CDEFGIJN                                                          
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 1310.33   3  100    4  M1+E2    +0.005   9                             
+136BAS G CC=0.00138$KC=0.00118$LC=0.00015                                       
+136BAB G BM1W=0.10 3$BE2W=0.001 +4-1                                            
+136BA  G 2128.81   4  50.0   16 E2                                              
+136BAB G BE2W=1.6 5                                                             
+136BA  L   2140.168195-                1.6 NS    1                              
+136BA cL J$E1 |g from 6+, E2 |g to 7- and E1+(M2) |g to 4+                      
+136BA3 L MOMM1=-1.9 2 (1989RA17)$CONF=((N,S1/2,-1)(N,H11/2,-1)) (1987DR13)      
+136BA3 L XREF=BDIK$FLAG=X                                                       
+136BA  G 86.36     3 46.8    18 E1                      0.343                   
+136BA3 G FLAG=KLQ                                                               
+136BAS G KC=0.292 9$LC=0.0402 12$MC=0.00819 25$NC+=0.00211 7                    
+136BAB G BE1W=6.9E-5 6                                                          
+136BA  G 109.681   7 1.9      3 E2                       1.40                   
+136BA3 G FLAG=KLS                                                               
+136BA cG MR        |d(M3/E2)<0.05 from |b{+-} decay; however, from RUL one      
+136BA2cG expects |d|<9|*10{+-5}                                                 
+136BAS G KC=0.92 3$LC=0.377 12$MC=0.0814 25$NC+=0.0209 7                        
+136BAB G BE2W=6.0 11                                                            
+136BA  G 273.646   8 100      4 E1(+M2)  0.07    6      0.016  4                
+136BA3 G FLAG=KLQT                                                              
+136BAS G KC=0.014 3$LC=0.0018 5$MC=0.00036 9$NC+=9.8E-5 25                      
+136BA  G 1321.6    4  0.45   18                                                ?
+136BA3 G FLAG=KL                                                                
+136BA  L    2141.34 5 0+                                                        
+136BA cL J$E0 to 0+ g.s.                                                        
+136BA3 L XREF=CDFIN(*)                                                          
+136BA  G 1322.84   5  100    5  E2                                              
+136BAS G CC=0.00102$KC=0.00087 3$LC=0.00011                                     
+136BA  G 2141.5                 E0                                              
+136BA cG $B(E0)/B(E2 to 2+, 818 level)=0.125 {I15} (1987PaZS)                   
+136BA cG $B(E2 to 2+, 1551 level)/B(E2 to 2+, 818 level)|?0 (1987PaZS)          
+136BA  L    2153.55 8                                                           
+136BA3 L XREF=DG                                                                
+136BA  G 2153.53   8  100                                                       
+136BA  L   2207.077186+                3.11 NS   7                              
+136BA cL J$E2 |g to 4+ and E1(+M2) |g to 7-                                     
+136BA3 L XREF=BDI$FLAG=X                                                        
+136BA  G 66.881    17 11.4   4  E1(+M2)  0.008   LE     0.694  2                
+136BA cG MR        0.09 {I3} from |a(L)exp in |b{+-} decay                      
+136BA3 G FLAG=KLWS                                                              
+136BAS G KC=0.589 1$LC=0.084$MC=0.0171 1$NC+=0.00435 2                          
+136BA  G 153.246   4  13.6   4 E2                       0.433                   
+136BA3 G FLAG=KLQ                                                               
+136BAS G KC=0.319 10$LC=0.090 3$MC=0.0193 6$NC+=0.00500 15                      
+136BAB G BE2W=4.23 19                                                           
+136BA  G 176.602   4  23.6   10E1(+M2)   0.07    10      0.05  3                
+136BA3 G FLAG=KLSU                                                              
+136BAS G KC=0.045 24$LC=0.006 5$MC=0.0013 9$NC+=0.00034 25                      
+136BA  G 340.547   8 100     3 E2                       0.0305                  
+136BA3 G FLAG=KLQ                                                               
+136BAS G KC=0.0250 8$LC=0.00430 13$MC=0.00090 3$NC+=0.00024 1                   
+136BAB G BE2W=0.574 25                                                          
+136BA  L   2222.70424 (2)+                                                      
+136BA cL J$M1+E2 |g's to 2+                                                     
+136BA3 L XREF=DEFGI                                                             
+136BA  G 671.73    3  100    5  M1+E2    +0.001  14                             
+136BAS G CC=0.00651$KC=0.00557$LC=0.00071                                       
+136BA  G 1404.20   3   99    4  M1+E2    +1.92   10                             
+136BAS G CC=0.00096 1$KC=0.00083 1$LC=0.00010                                   
+136BA  G 2223           9    AP                                                ?
+136BA  L    2298.61 5 (6-)                                                      
+136BA3 L XREF=DI                                                                
+136BA cL J$D+Q |g to 5-                                                         
+136BA  G 158.44    4  100    5  D+Q      +0.11   2                              
+136BA  G 268.3     3  1.7    6                                                  
+136BA  L    2315.32 7 0+                                                        
+136BA3 L XREF=CDFN(*)I                                                          
+136BA cL J$0+,3+ from av res. |=3+ from direct |e feeding from 1+               
+136BA  G 1496.81    7 100                                                       
+136BA  L 2349.5     5                                                          ?
+136BA3 L XREF=E                                                                 
+136BA  L    2356.47 3 4+                                                        
+136BA cL J$4,5,6 from |b{+-} decay of 5+, E2 |g to 2+                           
+136BA3 L XREF=BDI                                                               
+136BA  G 302.65    10 31.8   16 M1+E2                   0.046019                
+136BAS G KC=0.039 3$LC=0.0059 6$MC=0.00123 14$NC+=0.00033 3                     
+136BA  G 489.93    5  59     3  M1+E2                   0.012218                
+136BAS G KC=0.0104 17$LC=0.00144 11$MC=0.00030 2                                
+136BA  G 1537.96   3  100    5  E2                                              
+136BAS G CC=0.00065$KC=0.00065 2                                                
+136BA  L   2373.68919(5)+                                                       
+136BA cL J         5+,6+ from M1 |g to 6+ and |b{+-} decay of 5+. Decays to 4+  
+136BA2cL but not to 7-                                                          
+136BA3 L XREF=BDFI                                                              
+136BA  G 166.576   6 38       4  M1(+E2)    0.29  36    0.245 19                
+136BA cG E         differ by 3 to 5 |s's from results of least-squares          
+136BA2cG adjustment                                                             
+136BA3 G FLAG=KLSU                                                              
+136BAS G KC=0.207 9$LC=0.030 8$MC=0.0062 18$NC+=0.0017 5                        
+136BA  G 233.5      4  8      1                                                 
+136BA3 G FLAG=KL                                                                
+136BA  G 319.911   8 52       5  (M1,E2)                0.039  2                
+136BA3 G FLAG=KLS                                                               
+136BAS G KC=0.033 3$LC=0.0050 4$MC=0.00103 9$NC+=0.00028 2                      
+136BA  G 507.188   10 100     3  (M1,E2)                0.011317                
+136BA3 G FLAG=KLS                                                               
+136BAS G KC=0.0095 16$LC=0.00131 11                                             
+136BA  L    2390.79 3 3-                                                        
+136BA cL J$E1 |g's to 2+ and 4+                                                 
+136BA3 L XREF=DI                                                                
+136BA  G 336.97    7  18.2   11 E1                                              
+136BAS G CC=0.0085$KC=0.00731 22$LC=0.00093 3$MC=0.00019 1                      
+136BA  G 839.82    11 4.5    5                                                  
+136BA  G 1572.28   3  100    4  E1+M2    -0.050  10                             
+136BA  L 2392.1    6  (1+,2+)                                                   
+136BA3 L XREF=E(*)F$FLAG=E                                                      
+136BA  L    2399.87 5    (1+,2+)                                                
+136BA3 L XREF=DE(*)FGI                                                          
+136BA cL J$D+Q |g to 2+                                                         
+136BA  G 1581.36   4  100       D+Q                                             
+136BA  L    2430.91 3 3+                                                        
+136BA cL J$M1+E2 |g's to 2+                                                     
+136BA3 L XREF=DFI                                                               
+136BA  G 879.94    3  100    6  M1+E2    -2.3    4                              
+136BAS G CC=0.00258 6$KC=0.00220 6$LC=0.00029 1                                 
+136BA  G 1612.39   4   85    5  M1+E2    -4.0    4                              
+136BA  L    2485.4317    2+            0.018 PS   GT                            
+136BA3 L XREF=CDFHI                                                             
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 906.8      2 11     LE                                                ?
+136BA3 G FLAG=MN                                                                
+136BA  G 935        1 18     16                                                 
+136BA3 G FLAG=MN                                                                
+136BA  G 1666.9     2 100    13 M1+E2    +0.24   4                              
+136BA3 G FLAG=MN                                                                
+136BAB G BM1W<0.17$BE2W<2.8                                                     
+136BA  G 2485.4     3  29    4  E2                                              
+136BA3 G FLAG=MN                                                                
+136BAB G BE2W<1.5                                                               
+136BA  L    2532.57 53-                                                         
+136BA cL J$0-,3- from av res (n,|g); E1 |g to 2+                                
+136BA3 L XREF=CDEFNIJ                                                           
+136BA  G 981.58    5  64     3   E1+M2   +0.11   2                              
+136BAS G CC=0.00086 3$KC=0.00074 2                                              
+136BA  G 1714.06   8  100    6   E1+M2   +0.010  8                              
+136BA  L    2544.41 5 0 TO 4                                                    
+136BA3 L XREF=I                                                                 
+136BA cL J$|g to 2+                                                             
+136BA  G 993.44    4  100                                                       
+136BA  L 2562      10                                                          ?
+136BA3 L XREF=K                                                                 
+136BA  L    2587.09 5 3 TO 5                                                    
+136BA3 L XREF=I                                                                 
+136BA cL J$D+Q |g to 4+                                                         
+136BA  G 720.54    4  100        D+Q     -0.14   2                              
+136BA  L    2640.71 6 1 TO 3                                                    
+136BA3 L XREF=CDEFIK                                                            
+136BA cL J$D+Q |g to 2+                                                         
+136BA  G 1822.20   6  100        D+Q                                            
+136BA  L    2659.72 6 3 TO 5                                                    
+136BA3 L XREF=I                                                                 
+136BA cL J$D+Q |g to 4+                                                         
+136BA  G 793.16    5  100        D+Q     -0.08   2                              
+136BA  L    2661.4110 1+,2+                                                     
+136BA3 L XREF=DEFGI                                                             
+136BA cL J$M1+E2 |g to 2+, |g to 0+ g.s.                                        
+136BA  G 1842.89   10 100     5  M1+E2   +0.7    3                              
+136BA  G 2661.7    6  5.1     8                                                 
+136BA  L    2693.59 6 1+               0.0133 PS  24                            
+136BA3 L XREF=DEFHI                                                             
+136BA cL J$from |g(|q), linear polarization in (|g,|g') data set                
+136BA  G 1142.39   12  72     4                                                 
+136BA  G 1875.14   7  100     5  D+Q                                            
+136BA  G 2693.9    3  65      4  M1                                             
+136BAB G BM1W=0.023 5                                                           
+136BA  L    2694.55 5 5+                                                       ?
+136BA3 L XREF=DI                                                                
+136BA cL J$M1+E2 |g to 4+, D+Q |g to 6+                                         
+136BA  G 487.47    7   61     4  D+Q                                            
+136BA  G 640.72    6  100     5  M1+E2   -0.33   2                              
+136BAS G CC=0.00709 2$KC=0.00605 2$LC=0.00078                                   
+136BA  L    2773.54 8 2+                                                        
+136BA3 L XREF=CDEFI                                                             
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 1222.2    6  28     3                                                  
+136BA  G 1955.03   8  100    5   M1+E2   +0.65   25                             
+136BAF G FL=818.497                                                             
+136BA  G 2773.53   25 45     3   E2                                             
+136BA  L    2779.89 9 2+                                                        
+136BA3 L XREF=FI                                                                
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 1228.87   14 59     4                                                  
+136BA  G 1961.42   11 100    4   D+Q                                            
+136BAF G FL=818.497                                                             
+136BA  G 2779.5     7 21     3   E2                                             
+136BA  L    2784.4113 (0+)                                                     ?
+136BA3 L XREF=EN(*)I                                                            
+136BA  G 1965.90   13 100                                                       
+136BAF G FL=818.497                                                             
+136BA  L    2811.91 7 (3+)                                                      
+136BA3 L XREF=DEFN(*)I                                                          
+136BA cL J$D+Q |g to 2+, does not decay to 1+, 3- states below                  
+136BA  G 1993.40    7 100       D+Q                                             
+136BA  L    2820.15 7 (3,4-)                                                   ?
+136BA3 L XREF=I                                                                 
+136BA cL J$strongest |g to 3-, two weaker |g's to 3+ and 2+ levels              
+136BA  G 287.56     6 100     6                                                 
+136BA  G 389.5      2 25      4                                                 
+136BA  G 740.1      3 19      3                                                 
+136BA  L    2840.6112 3,4                                                       
+136BA3 L XREF=IK                                                                
+136BA cL J$D+Q |g to 4+, |g to 2+                                               
+136BA  G 974.10    15 100     5 D+Q                                             
+136BA  G 2022.03   20 80      4                                                 
+136BA  L 2905.0     5                                                          ?
+136BA3 L XREF=EF                                                                
+136BA  L    2934.4016(1,2+)                                                    ?
+136BA3 L XREF=EI                                                                
+136BA cL J$|g's to 2+ and 0+                                                    
+136BA  G 805.55    16 100     7                                                 
+136BA  G 2935.1     9  13     2                                                 
+136BA  L 2946.0     5  0(+),1,2,3+                                             ?
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L    2976.8713(2+,3+,4+)                                                 
+136BA3 L XREF=EFI                                                               
+136BA cL J$|g's to 2+ and 4+                                                    
+136BA  G 1110.26   14 100     8                                                 
+136BA  G 2158.6     3 28      3                                                 
+136BA  L    2984.8613(2+,3+,4+)                                                 
+136BA3 L XREF=I                                                                 
+136BA cL J$|g's to 2+ and 4+                                                    
+136BA  G 1118.32   14 100     7                                                 
+136BA  G 2166.3     3  62     5                                                 
+136BA  L 2994      5                                                            
+136BA3 L XREF=ED                                                                
+136BA  L   3019.8   4 (1,2+)                                                    
+136BA3 L XREF=DEFK                                                              
+136BA cL J$|g's to 2+ and 0+                                                    
+136BA  G 1441.9    10 93     36                                                 
+136BA3 G FLAG=AB                                                                
+136BA  G 1469.0    10                                                           
+136BA3 G FLAG=A                                                                 
+136BA  G 2201.0     4100     36                                                 
+136BA3 G FLAG=AB                                                                
+136BA  L    3021.9212(1,2+)                                                     
+136BA3 L XREF=DI                                                                
+136BA cL J$|g's to 0+ and 2+                                                    
+136BA  G 2203.40   12 100     6                                                 
+136BA  G 3021.9     9 10      2                                                 
+136BA  L    3044.58161(-)              0.0201 PS  24                            
+136BA3 L XREF=DEFHI                                                             
+136BA cL J         J=1 from |g(126|')/|g(90|') in (|g,|g'). Linear polarization 
+136BA2cL in (|g,|g') slightly favors |p=-                                       
+136BA  G 1494.1     6 29     4                                                  
+136BA  G 2224.8    20 32     13                                                 
+136BA3 G FLAG=AB                                                                
+136BA  G 3044.39   17 100    13 D                                               
+136BA  L    3077.33143+                                                         
+136BA3 L XREF=FI                                                                
+136BA cL J$M1+E2 |g to 2+, |g to 4+                                             
+136BA  G 1210.72   18 100     8                                                 
+136BA  G 2258.9     2  98     8M1+E2     -4.5    +16-10                         
+136BA  L    3109.57242+                                                         
+136BA3 L XREF=FIN                                                               
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 2291.1     4  84     7M1+E2                                            
+136BA  G 3109.5     3 100     8E2                                               
+136BA  L    3115.8518  2+              0.122 PS   22                            
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA3 L XREF=DEFIH                                                             
+136BA  G 2297.4     4  2.0   16                                                 
+136BA  G 3115.8     2 100     7  E2                                             
+136BAB G BE2W=0.37 8                                                            
+136BA  L 3178.9     7 0(+),1,2,3(+)                                             
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L 3212.0    5  0(+),1,2,3+                                              ?
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L    3242.1220(2,3+,4+)                                                  
+136BA3 L XREF=IK                                                                
+136BA cL J$|g's to 2+ levels                                                    
+136BA  G 1690.6     3  69     5                                                ?
+136BA  G 2423.6     2 100     8                                                 
+136BA  L     3335.6 30 TO 4                                                     
+136BA3 L XREF=I                                                                 
+136BA cL J$|g to 2+                                                             
+136BA  G 2517.1     3 100                                                       
+136BA  L 3347.6     7 0(+),1,2,3+                                               
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L     3354.5 3 0 TO 4                                                    
+136BA cL J$|g to 2+                                                             
+136BA3 L XREF=I                                                                 
+136BA  G 2536.0     3 100                                                       
+136BA  L    3370.0721 1                0.018 PS   4                             
+136BA3 L XREF=DEHI                                                              
+136BA cL J$from |g(126|')/|g(90|') in (|g,|g')                                  
+136BA  G 3370.03   21 100    11                                                 
+136BA  L 3378.0    5                                                           ?
+136BA3 L XREF=E                                                                 
+136BA  L     3435.5 3 1-               6.0 FS     13                            
+136BA cL J$E1 |g to 0+ from linear polarization                                 
+136BA3 L XREF=DEHI                                                              
+136BA  G 3435.5     3 100    10 E1                                              
+136BAB G BE1W=0.00105 23                                                        
+136BA  L     3505.020 0(+),1,2,3+                                               
+136BA3 L XREF=DENK                                                              
+136BAF L FLAG=W                                                                 
+136BA  G 1954.6    10100     40                                                ?
+136BA3 G FLAG=PAB                                                               
+136BA  G 2686.5    20 69     29                                                 
+136BA3 G FLAG=AB                                                                
+136BA  L     3508.7 3 0 TO 4                                                    
+136BA3 L XREF=I                                                                 
+136BA cL J$|g's to 2+                                                           
+136BA  G 1428.7     4 64     10                                                 
+136BA  G 2690.1     4 100    9                                                  
+136BA  L     3526.7 42+                                                         
+136BA3 L XREF=I                                                                 
+136BA cL J$E2 |g to 0+ g.s.                                                     
+136BA  G 2709.0     8 68     10                                                 
+136BA  G 3526.4     4 100    11E2                                               
+136BA  L 3542.5     7 (0+),1,2,3,4(+)                                           
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L    3550.6920  0 TO 4                                                  ?
+136BA3 L XREF=I                                                                 
+136BA cL J$|g to 2+                                                             
+136BA  G 1999.7     2 100                                                       
+136BA  L 3559.0     5 0(+),1,2,3(+)                                            ?
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L 3579.5     7 0+,1,2,3,4+                                               
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L 3650.0    5  (0+),1,2,3,4(+)                                           
+136BA3 L XREF=EN                                                                
+136BAF L FLAG=W                                                                 
+136BA  L    3691.8913 1 TO 3                                                    
+136BA3 L XREF=DE                                                                
+136BA cL J         |g to 2+; primary |g from 1(+)                               
+136BA  G 2873.36   13 100                                                       
+136BA3 G FLAG=AB                                                                
+136BA  L 3698.5     7 (0+),1,2,3,4(+)                                           
+136BA3 L XREF=EK                                                                
+136BAF L FLAG=W                                                                 
+136BA  L     3706.1 6 (1,2+)                                                    
+136BA3 L XREF=I                                                                 
+136BA cL J$|g to 0+ g.s.                                                        
+136BA  G 3706.0     6 100                                                       
+136BA  L 3760.3    11                                                          ?
+136BA3 L XREF=F                                                                 
+136BA  L   3767.1   51(-),2,3+                                                  
+136BA3 L XREF=DE                                                                
+136BA cL J         |g to 3-; primary |g from 1+ res                             
+136BA  G 747.3      3 85     30                                                 
+136BA3 G FLAG=AB                                                                
+136BA  G 1234.9      100     LE                                                 
+136BA3 G FLAG=AB                                                                
+136BA  L    3795.3316 1,2                                                       
+136BA3 L XREF=DEI                                                               
+136BA cL J$|g's to 0+, 2+                                                       
+136BA  G 2244.8     4 25      8                                                 
+136BA  G 2976.5     4 100    11                                                 
+136BA  G 3795.24   18 3      1                                                  
+136BA3 G FLAG=AB                                                                
+136BA cG $Not observed in (n,n'|g)                                              
+136BA  L 3848.5    5 0(+),1,2,3+                                                
+136BA3 L XREF=E                                                                 
+136BAF L FLAG=W                                                                 
+136BA  L     3852.7 6 1,2                                                      ?
+136BA3 L XREF=I                                                                 
+136BA cL J$|g to 0+ g.s.                                                        
+136BA  G 3852.6     6 100                                                       
+136BA  L 3859.5      0(+),1,2,3(+)                                              
+136BA3 L XREF=EF                                                                
+136BAF L FLAG=W                                                                 
+136BA  L    3863.4723 1,2                                                       
+136BA3 L XREF=D                                                                 
+136BA cL J$|g to 0+ g.s.                                                        
+136BA  G 3863.41   23 100                                                       
+136BA  L     3882.8 4 0 TO 4                                                   ?
+136BA3 L XREF=I                                                                 
+136BA cL J$|g to 2+                                                             
+136BA  G 3064.3     4 100                                                       
+136BA  L     3925.2 3 0 TO 3                                                    
+136BA3 L XREF=DE                                                                
+136BA cL J$|g's to 1(-), 2+                                                     
+136BA  G 157.8      5100     19                                                ?
+136BA3 G FLAG=AB                                                                
+136BA  G 880.3      3 22      8                                                 
+136BA3 G FLAG=AB                                                                
+136BA  G 1798.4     7 44     19                                                 
+136BA3 G FLAG=AB                                                                
+136BA  L     3962.8 8  0 TO 4                                                   
+136BA3 L XREF=EI                                                                
+136BA cL J$|g to 2+                                                             
+136BA  G 3144.3     8 100                                                       
+136BA  L    3965.57 5 1,2                                                       
+136BA3 L XREF=DE                                                                
+136BA cL J$|g to 0+ g.s.                                                        
+136BA  G 3965.51   5  100                                                       
+136BA  L     3979.110(1-)               0.021 PS  4                             
+136BA3 L XREF=EDHI                                                              
+136BA cL J         from |g(126|')/|g(90|') in (|g,|g')                          
+136BA  G 3979.0    10 100                                                       
+136BA3 G FLAG=A                                                                 
+136BA  L    3992.5419 0(+),1,2,3+                                               
+136BA3 L XREF=DE                                                                
+136BAF L FLAG=W                                                                 
+136BA  G 2441.55   19 100                                                       
+136BA  L     4008.6 3 0(+),1,2,3(+)                                             
+136BA3 L XREF=DE                                                                
+136BAF L FLAG=W                                                                 
+136BA  G 2429.6    3  100                                                       
+136BA  L 4075      10                                                          ?
+136BA3 L XREF=K                                                                 
+136BA  L    4137.36 8  1,2                                                      
+136BA3 L XREF=DH                                                                
+136BA cL J$|g to 0+ g.s.                                                        
+136BA  G 4137.29   8 100                                                        
+136BAF G FLAG=A                                                                 
+136BA  L 9107.12   801+                                                         
+136BA3 L XREF=E$FLAG=C                                                          
+136BA  L 9107.18   802(+)                                                       
+136BA3 L XREF=E$FLAG=C                                                          
+136BA  L 9107.20   801(+),2                                                     
+136BA3 L XREF=E                                                                 
+136BA cL J         J from evaluation of 1981MuZQ. |p from assumption that strong
+136BA2cL primary |g's to the 0+ levels are M1                                   
+136BA  L 9107.32   802(+)                                                       
+136BA3 L XREF=E$FLAG=C                                                          
+136BA  L 9107.38   802(+)                                                       
+136BA3 L XREF=E$FLAG=C                                                          
+136BA  L 9107.42   802(+)                                                       
+136BA3 L XREF=E$FLAG=C                                                          
+136BA  L 9107.48   801(+)                                                       
+136BA3 L XREF=E$FLAG=I                                                          
+136BA  L 9107.51   802(+)                                                       
+136BA3 L XREF=E$FLAG=C                                                          
+136BA  L 9107.56   802                                                          
+136BA3 L XREF=DE$FLAG=C                                                         
+136BA  L 9107.89   802(+)                                                       
+136BA3 L XREF=E$FLAG=C                                                          
+
+

@@ -1,0 +1,780 @@
+124BA    ADOPTED LEVELS, GAMMAS                                  08NDS    200807
+124BA  H TYP=FUL$AUT=J. KATAKURA, Z.D. WU$CIT=NDS 109, 1655 (2008)$             
+124BA2 H CUT=1-Apr-2008$                                                        
+124BA  XA124LA EC DECAY                                                         
+124BA  XB(HI,XNG)                                                               
+124BA  XC125CE ECP DECAY                                                        
+124BA  XD64NI(64NI,4NG)                                                         
+124BA  Q -8.83E3   6 11506   175335    17658     17    2003AU03                 
+124BA cQ $         Q(|b{+-}){-exp}=8930 {I110} (1998Ko66).                      
+124BA cL E         From a least-squares fit to adopted gammas                   
+124BA cL $ Nomenclature for quasiparticle orbitals:                             
+124BA cL $ Neutrons: 1/2[411] from s{-1/2}, d{-3/2} orbitals; 5/2[402]          
+124BA2cL and 5/2[413] from d{-5/2}, g{-7/2} orbitals; 7/2[523] and 5/2[532]     
+124BA3cL from h{-11/2} orbital                                                  
+124BA cL $ Protons: 3/2[422] and 1/2[420] from d{-5/2}, g{-7/2} orbitals;       
+124BA2cL 9/2[404] from g{-9/2} orbital; 1/2[550] and 3/2[541]                   
+124BA3cL from h{-11/2} orbital                                                  
+124BA cL $ A: |n1/2[411], |a=+1/2                                               
+124BA cL $ B: |n1/2[411], |a=-1/2                                               
+124BA cL $ C: |n5/2[402], |a=+1/2                                               
+124BA cL $ D: |n5/2[402], |a=-1/2                                               
+124BA cL $ |a': |n5/2[413], |a=+1/2                                             
+124BA cL $ B': |n5/2[413], |a=-1/2                                              
+124BA cL $ E: |n7/2[523], |a=-1/2                                               
+124BA cL $ F: |n7/2[523], |a=+1/2                                               
+124BA cL $ G: |n5/2[532], |a=-1/2                                               
+124BA cL $ H: |n5/2[532], |a=+1/2                                               
+124BA cL $ a: |p3/2[422], |a=+1/2                                               
+124BA cL $ b: |p3/2[422], |a=-1/2                                               
+124BA cL $ c: |p1/2[420], |a=+1/2                                               
+124BA cL $ d: |p1/2[422], |a=-1/2                                               
+124BA cL $ a': |p9/2[404], |a=+1/2                                              
+124BA cL $ b': |p9/2[404], |a=-1/2                                              
+124BA cL $ e: |p1/2[550], |a=-1/2                                               
+124BA cL $ f: |p1/2[550], |a=+1/2                                               
+124BA cL $ g: |p3/2[541], |a=-1/2                                               
+124BA cL $ h: |p3/2[541], |a=+1/2                                               
+124BA cL E(a)$ Level related to band #1 in figure 1 of 2006Al15 or              
+124BA2cL to band with configuration=efEF                                        
+124BA CL BAND(O)$ GS Band.                                                      
+124BA CL BAND(G)$ |g Band.                                                      
+124BA CL BAND(A)$ 0-qp to ef to efEF, |a=0                                      
+124BA2cL Configuration=ef after first crossing at ~h|w=0.37 MeV, and            
+124BA3cL efEF above second crossing at ~h|w=0.49 MeV.                           
+124BA CL BAND(B)$ 0-qp to EF to EFef, |a=0                                      
+124BA2cL Configuration=EF after first crossing at ~h|w=0.41 MeV, and            
+124BA3cL EFef above second crossing at ~h|w=0.44 MeV.                           
+124BA CL BAND(d)$ eb to ebEF, |a=1                                              
+124BA2cL Configuration=ebEF after crossing at ~h|w=0.46 MeV.                    
+124BA CL BAND(D)$ ea to eaGH to eaGHEF, |a=0                                    
+124BA2cL Configuration=eaGH after first crossing at ~h|w=0.44 MeV, and          
+124BA3cL eaGHEF above second crossing at ~h|w=0.59 MeV.                         
+124BA CL BAND(f)$ eb' to eb'EF, |a=1                                            
+124BA2cL Configuration=eb'EF after crossing at ~h|w=0.44 MeV.                   
+124BA CL BAND(F)$ ea' to ea'EF,  |a=0                                           
+124BA2cL Configuration=ea'EF after crossing at ~h|w=0.44 MeV.                   
+124BA CL BAND(I)$ efGH, |a=1.                                                   
+124BA CL BAND(J)$ efFH, |a=0.                                                   
+124BA CL BAND(L)$ eb'EA' to eb'EA'GH, |a=1                                      
+124BA2cL Configuration=eb'E|a'GH after crossing at ~h|w=0.52 MeV.               
+124BA CL BAND(l)$ eb'FA' to eb'FA'GH,  |a=0                                     
+124BA2cL Configuration=eb'FA'GH after crossing at ~h|w=0.52 MeV.                
+124BA CL BAND(K)$ Band based on (25), |a=1.                                     
+124BA2cL Possible configuration=|ph{-11/2}{+2}~#|n(h{-11/2}{+5}i{-13/2});       
+124BA3cL Decay to ef band suggests |ph{-11/2}{+2}~#|nh{-11/2}{+6}               
+124BA CL BAND(N)$ Band based on (30), |a=0.                                     
+124BA2cL Possibly a six-quasiparticle configuration                             
+124BA cL J $ From DCO and angular correlation ratios in {+64}Ni({+64}Ni,4n|g),  
+124BA2cL unless otherwise noted                                                 
+124BA cG E,RI      From {+64}Ni({+64}Ni,4n|g), unless otherwise noted           
+124BA cG E(B),RI(A,B)$From {+124}La |e decay                                    
+124BA cG RI(C)     From (HI,xn|g)                                               
+124BA cG M         From |a(K)exp in {+124}La |e decay, and |g(|q), DCO and      
+124BA2cG linear polarization in (HI,xn|g) and {+64}Ni({+64}Ni,4n|g)             
+124BA cG M(X)$ |DJ=0 transition                                                 
+124BA cG MR        From |g(|q), DCO and linear polarization in (HI,xn|g)        
+124BA PN                                                                     6  
+124BA  L 0.0         0+                11.0 M    5                          O   
+124BAX L XREF=ABCD                                                              
+124BA2 L %EC+%B+=100                                                            
+124BA cL T         weighted average of 11.9 min {I10} (|g(t)) (1972Dr06),       
+124BA2cL 10.5 min {I5} (|b(t)) (1975Ra03), 12.0 min {I15} (|g(t)) (1967DaZY).   
+124BA cL $<r{+2}>{+1/2}=4.819 fm {i5} (2004An14, evaluation)                    
+124BA  L     229.91102+                191 PS    8                          O   
+124BAX L XREF=ABCD                                                              
+124BA cL J         E2 |g to 0+.                                                 
+124BA cL T         From recoil-distance Doppler shift (RDDS) method             
+124BA2cL  (1998Uc01). Other: 0.297 ns {I26} from |b|g(t) (1992Mo13).            
+124BA3cL 2001Ra27 evaluation gives 191 ps {I8}.                                 
+124BA  G 229.7     1 100       E2                      0.1080               A   
+124BAB G BE2W=113 5                                                             
+124BAS G KC=0.0854 12$LC=0.0179 3$MC=0.00380 6$NC+=0.000919 13                  
+124BAS G NC=0.000801 12$OC=0.0001129 16$PC=4.64E-6 7                            
+124BA  L     651.66134+                                                     O   
+124BAX L XREF=ABCD                                                              
+124BA cL J         stretched E2 |g to 2+.                                       
+124BA  G 421.1     1 100       E2                      0.01604              A   
+124BAS G KC=0.01336 19$LC=0.00212 3$MC=0.000444 7$NC+=0.0001092 16              
+124BAS G NC=9.45E-5 14$OC=1.388E-5 20$PC=7.91E-7 11                             
+124BA2 G FL=229.91                                                              
+124BA  L     873.20122+                                                     G   
+124BAX L XREF=ABD                                                               
+124BA cL J         M1 |g to 2+. E2 |g to 0+                                     
+124BA  G 643.4     6 100     8 M1                      0.00709              A   
+124BAS G KC=0.00611 9$LC=0.000779 11$MC=0.0001600 23$NC+=4.02E-5 6              
+124BAS G NC=3.45E-5 5$OC=5.31E-6 8$PC=3.94E-7 6                                 
+124BA  G 873.3     6 79      16E2                      0.00244              A   
+124BAS G KC=0.00209 3$LC=0.000280 4$MC=5.76E-5 9$NC+=1.439E-5 21                
+124BAS G NC=1.238E-5 18$OC=1.88E-6 3$PC=1.293E-7 19                             
+124BA  L      898.0100+                                                        ?
+124BA  G 668       5  100    AP                                                ?
+124BA cG           See {+124}La |e decay                                        
+124BA  G 898                   E0                                              ?
+124BA cG  $ q{-K}{+2}(E0/E2)=1.4 {I7}, X(E0/E2)=0.09 {I5},                      
+124BA2cG (2005Ki02, evaluation)                                                 
+124BA  L     1071.3100+                                                         
+124BAX L XREF=A                                                                 
+124BA cL J         from |g|g(|q) in {+124}La |e decay                           
+124BA  G 841.4                                                              B   
+124BA  L    1162.0414(3+)                                                   G   
+124BAX L XREF=ABD                                                               
+124BA cL J         (3+) member of |g band                                       
+124BA  G 510.0     6 25        D                                                
+124BA cG RI        composite line (1990Pi11)                                    
+124BA  G 932.8     6 100     9 D                                            A   
+124BA  L    1228.39146+                                                     O   
+124BAX L XREF=ABCD                                                              
+124BA cL J         E2 |g to 4+.                                                 
+124BA  G 576.5     1 100       E2                      0.00672                  
+124BAS G KC=0.00568 8$LC=0.000824 12$MC=0.0001711 24$NC+=4.24E-5 6              
+124BAS G NC=3.66E-5 6$OC=5.46E-6 8$PC=3.45E-7 5                                 
+124BA cG M         from |g(|q) and linear polarization in (HI,xn|g)             
+124BA  L    1324.78134+                                                     G   
+124BAX L XREF=ABD                                                               
+124BA cL J         M1(+E2) |g to 4+. E2 |g to 2+.                               
+124BA  G 451.7     6 47      5 M1,E2                   0.0150 20            A   
+124BAS G KC=0.0128 19$LC=0.00179 10$MC=0.000371 17$NC+=9.2E-5 6                 
+124BAS G NC=8.0E-5 5$OC=1.20E-5 9$PC=8.0E-7 15                                  
+124BA  G 673.1     6 100     11M1(+E2)   -0.15   +25-200.0063119            A   
+124BAS G KC=0.00544 17$LC=0.000694 17$MC=0.000143 4$NC+=3.59E-5 9               
+124BAS G NC=3.08E-5 8$OC=4.73E-6 13$PC=3.51E-7 12                               
+124BA  G 1094.5    6 20      7 E2                      1.49E-3              A   
+124BAS G KC=0.001284 18$LC=0.0001664 24$MC=3.42E-5 5$NC+=8.56E-6 12             
+124BAS G NC=7.36E-6 11$OC=1.122E-6 16$PC=7.97E-8 12                             
+124BA  L     1353.310(2+)                                                       
+124BAX L XREF=A                                                                 
+124BA cL J         |g to 0+                                                     
+124BA  G     1353.3                                                         B   
+124BA  L     1356.9100+                                                         
+124BAX L XREF=A                                                                 
+124BA cL J         from |g|g(|q) in {+124}La |e decay                           
+124BA  G 1127                                                               B   
+124BA  L 1672.25   16(5)+                                                   G   
+124BAX L XREF=ABD                                                               
+124BA cL J         M1,E2 |g to 4+. |g's to (3+) and 6+.                         
+124BA  G 444.4     6 30        D                                                
+124BA  G 510.0     6 37        Q                                                
+124BA  G 1020.8    6 100     12M1,E2                   0.0021 4                 
+124BAS G KC=0.0018 3$LC=0.00023 4$MC=4.6E-5 7$NC+=1.17E-5 17                    
+124BAS G NC=1.00E-5 15$OC=1.53E-6 23$PC=1.12E-7 20                              
+124BA  L 1722.1     8(3-)                                                       
+124BAX L XREF=BD                                                                
+124BA  G 1492.6    6           D                                                
+124BA  L 1858.14   15(6)+                                                   G   
+124BAX L XREF=ABD                                                               
+124BA cL J         E2 |g to 4+.                                                 
+124BA  G 533.4     6 100     11E2                      0.00826              A   
+124BAS G KC=0.00696 10$LC=0.001031 15$MC=0.000214 3$NC+=5.30E-5 8               
+124BAS G NC=4.58E-5 7$OC=6.81E-6 10$PC=4.21E-7 6                                
+124BA  G 629.7     6 69      11M1+E2                   0.0064 11            A   
+124BAS G KC=0.0055 10$LC=0.00073 9$MC=0.000151 18$NC+=3.8E-5 5                  
+124BAS G NC=3.3E-5 4$OC=4.9E-6 7$PC=3.5E-7 7                                    
+124BA  L    1912.92205-                                                     d   
+124BAX L XREF=ABD                                                               
+124BA cL J         E1 |g's to 4+ and 6+.                                        
+124BA  G 684.9     6 18      4 E1                      1.62E-3              A   
+124BAS G KC=0.001404 20$LC=0.0001745 25$MC=3.57E-5 5$NC+=8.94E-6 13             
+124BAS G NC=7.68E-6 11$OC=1.173E-6 17$PC=8.49E-8 12                             
+124BA  G 1260.8    3 100     5 E1                      5.59E-4              A   
+124BAS G KC=0.000432 6$LC=5.27E-5 8$MC=1.075E-5 15$NC+=6.29E-5 9                
+124BAS G NC=2.32E-6 4$OC=3.56E-7 5$PC=2.64E-8 4$IPC=6.02E-5 9                   
+124BA  L    1923.25168+                                                     O   
+124BAX L XREF=ABD                                                               
+124BA cL J         stretched E2 |g to 6+.                                       
+124BA  G 694.7     1 100       E2                      0.00419                  
+124BAS G KC=0.00356 5$LC=0.000496 7$MC=0.0001026 15$NC+=2.55E-5 4               
+124BAS G NC=2.20E-5 3$OC=3.31E-6 5$PC=2.19E-7 3                                 
+124BA  L     2034.2 3(4-)                                                   D   
+124BAX L XREF=ABD                                                               
+124BA  G 312.0     6           D                                                
+124BA  G 1381.9    6 100     20D                                            A   
+124BA  L    2261.7916(7)-                                                   d   
+124BAX L XREF=ABD                                                               
+124BA cL J         E1 |g to 6+. M1,E2 |g to 5-.                                 
+124BA  G 338.4     6 3.0     15                                                 
+124BA  G 348.4     6 9.0     15M1,E2                   0.0306 24            A   
+124BAS G KC=0.026 3$LC=0.00382 16$MC=0.00079 4$NC+=0.000197 8                   
+124BAS G NC=0.000170 8$OC=2.54E-5 5$PC=1.59E-6 25                               
+124BA  G 1033.7    1 100     23E1                      7.16E-4              A   
+124BAS G KC=0.000620 9$LC=7.60E-5 11$MC=1.552E-5 22$NC+=3.90E-6 6               
+124BAS G NC=3.35E-6 5$OC=5.13E-7 8$PC=3.78E-8 6                                 
+124BA  L 2267.08   195-                                                         
+124BAX L XREF=ABD                                                               
+124BA cL J         E1 |g to 6+. E1 |g to 4+.                                    
+124BA  G 354.0     6           D                                                
+124BA  G 942.4     6 51      11E1                      8.53E-4              A   
+124BAS G KC=0.000739 11$LC=9.08E-5 13$MC=1.85E-5 3$NC+=4.65E-6 7                
+124BAS G NC=4.00E-6 6$OC=6.12E-7 9$PC=4.50E-8 7                                 
+124BA  G 1038.6    6 1.0E+2  3 E1                      7.09E-4              A   
+124BAS G KC=0.000615 9$LC=7.53E-5 11$MC=1.538E-5 22$NC+=3.86E-6 6               
+124BAS G NC=3.32E-6 5$OC=5.08E-7 8$PC=3.75E-8 6                                 
+124BA  G 1615.3    6 83      17D                                            A   
+124BA  L 2285.31   19(7+)                                                   G   
+124BAX L XREF=BD                                                                
+124BA cL J         Q |g to (5+). D |g to 6+.                                    
+124BA  G 612.7     6 100       Q                                                
+124BA  G 1057.0    6 40        D                                                
+124BA  L    2359.4618(6)-                                                   D   
+124BAX L XREF=ABD                                                               
+124BA cL J         E1 |g to 6+. M1(+E2) |g to 5-.                               
+124BA  G 325.5     3 42      6 Q                                                
+124BA  G 446.3     3 71      13M1                      0.01749                  
+124BAS G KC=0.01505 22$LC=0.00194 3$MC=0.000399 6$NC+=0.0001004 15              
+124BAS G NC=8.62E-5 13$OC=1.324E-5 19$PC=9.76E-7 14                             
+124BA  G 1130.0    2 100     22E1                      6.14E-4                  
+124BAS G KC=0.000526 8$LC=6.43E-5 9$MC=1.313E-5 19$NC+=1.013E-5 15              
+124BAS G NC=2.83E-6 4$OC=4.34E-7 6$PC=3.21E-8 5$IPC=6.84E-6 11                  
+124BA2 G FL=1228.39                                                             
+124BA  L    2479.0318(8+)                                                   G   
+124BAX L XREF=ABD                                                               
+124BA cL J         Q |g to (6)+; (8)+ member of |g band                         
+124BA  G 555.7     6 2.4E+2    D                                            C   
+124BA cG RI        intensity undivided (1990Pi11)                               
+124BA  G 620.9     6 100       Q                                            C   
+124BA  L     2497.6 3(6-)                                                   F   
+124BAX L XREF=BD                                                                
+124BA  G 230.5     1 100     19                                                 
+124BA cG RI        composite line (1990Pi11)                                    
+124BA  G 824.9     6 6                                                      C   
+124BA  L    2647.4724(7-)                                                       
+124BAX L XREF=ABD                                                               
+124BA  G 288.0     6 25      13D                                                
+124BA  G 380.4     6 63      25Q                                                
+124BA  G 385.7     6 88      25D+Q                                              
+124BA  G 789.3     6 100     40D                                                
+124BA  L    2687.5020(10+)                                                  O   
+124BAX L XREF=BD                                                                
+124BA  G 764.4     1 100       Q                                                
+124BA  L     2690.8 3(7-)                                                   f   
+124BAX L XREF=BD                                                                
+124BA  G 193.0     3 100       D                                                
+124BA  L    2704.9118(8)-                                                   D   
+124BAX L XREF=ABD                                                               
+124BA  G 345.2     3 100     17E2                      0.0291                   
+124BAS G KC=0.0240 4$LC=0.00409 6$MC=0.000860 13$NC+=0.000210 3                 
+124BAS G NC=0.000183 3$OC=2.65E-5 4$PC=1.385E-6 20                              
+124BA  G 443.0     4 13      7 M1                      0.0178                   
+124BAS G KC=0.01533 22$LC=0.00198 3$MC=0.000407 6$NC+=0.0001024 15              
+124BAS G NC=8.79E-5 13$OC=1.349E-5 20$PC=9.95E-7 15                             
+124BA  G 781.8     2 63      13                                                 
+124BA  L    2721.6518(9)-                                                   d   
+124BAX L XREF=ABD                                                               
+124BA cL J         E1 |g to 8+. Q |g to (7)-.                                   
+124BA  G 459.8     3 57      12Q                                                
+124BA  G 798.0     1 100     11E1                      1.18E-3                  
+124BAS G KC=0.001024 15$LC=0.0001266 18$MC=2.59E-5 4$NC+=6.49E-6 9              
+124BAS G NC=5.58E-6 8$OC=8.53E-7 12$PC=6.22E-8 9                                
+124BA  L     2906.5 3(8-)                                                   F   
+124BAX L XREF=BD                                                                
+124BA  G 215.9     3 100     50D(+Q)     -0.21   +25-15                         
+124BA  G 408.7     6 26      17Q                                                
+124BA  L 2975.18   21(9+)                                                   G   
+124BAX L XREF=BD                                                                
+124BA cL J         (9+) member of |g band                                       
+124BA  G 689.8     6                                                            
+124BA  G 1053.0    6                                                            
+124BA  L     3095.8 4(7-)                                                       
+124BAX L XREF=A                                                                 
+124BA cL J         (E1) |g to 8+. |g to 6+.                                     
+124BA  G 834.0     4 100     10M1                      0.00381              B   
+124BAS G KC=0.00329 5$LC=0.000416 6$MC=8.54E-5 12$NC+=2.15E-5 3                 
+124BAS G NC=1.84E-5 3$OC=2.83E-6 4$PC=2.11E-7 3                                 
+124BA  G 1173      1 69      GT(E1)                    5.86E-4              B   
+124BAS G KC=0.000492 7$LC=6.00E-5 9$MC=1.226E-5 18$NC+=2.18E-5 5                
+124BAS G NC=2.64E-6 4$OC=4.05E-7 6$PC=3.00E-8 5$IPC=1.87E-5 5                   
+124BA  G 1867      1 98      20                                             B   
+124BA  L     3109.8 3(9-)                                                   f   
+124BAX L XREF=BD                                                                
+124BA  G 203.2     6           D                                                
+124BA  G 404.9     6 40      13D                                                
+124BA  G 419.2     3 100     20Q                                                
+124BA  G 462.0     6           Q                                                
+124BA3 G FL=2647.47                                                             
+124BA  L 3156.76   24(10-)                                                  D   
+124BAX L XREF=BD                                                                
+124BA  G 434.7     6 4.9     16D                                                
+124BA3 G FL=2721.65                                                             
+124BA  G 452.0     1 100     30Q                                                
+124BA cG RI        composite line (1990Pi11)                                    
+124BA  L     3177.1 5(10+)                                                  G   
+124BAX L XREF=BD                                                                
+124BA cL J         Q |g to (8+) member of |g band                               
+124BA  G 698.7     6 100       Q                                                
+124BA  L    3286.9119(11)-                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 564.9     1 100     22E2                      0.00709                  
+124BA3 G FL=2721.65                                                             
+124BAS G KC=0.00599 9$LC=0.000873 13$MC=0.000181 3$NC+=4.50E-5 7                
+124BAS G NC=3.88E-5 6$OC=5.79E-6 9$PC=3.63E-7 5                                 
+124BA  G 599.8     6 19        D                                            C   
+124BA  L     3335.5 4(10-)                                                  F   
+124BAX L XREF=BD                                                                
+124BA  G 225.8     3 46      11D                                                
+124BA  G 429.4     3 100     21Q                                                
+124BA  L     3436.2 3(12+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 748.3     1 100       Q                                                
+124BA  L 3591.6     4(11-)                                                  f   
+124BAX L XREF=BD                                                                
+124BA  G 256.0     3 33      13D                                                
+124BA cG RI        composite line (1990Pi11)                                    
+124BA  G 482.2     3 100     21Q                                                
+124BA  L     3691.8 4(12+)                                                  B   
+124BAX L XREF=BD                                                                
+124BA  G 255.6     6 38      19D                                                
+124BA  G 1004.0    3 100     30Q                                                
+124BA  L     3694.0 3(11+)                                                  G   
+124BAX L XREF=BD                                                                
+124BA cL J         (11+) member of |g band                                      
+124BA  G 718.8     6 100       Q                                                
+124BA  L     3772.6 4(12-)                                                  D   
+124BAX L XREF=BD                                                                
+124BA  G 486.1     6 15        D                                            C   
+124BA  G 615.5     1 100     30Q                                                
+124BA  L 3829.5    11 (11)                                                      
+124BAX L XREF=D                                                                 
+124BA  L     3891.5 5(12-)                                                  F   
+124BAX L XREF=BD                                                                
+124BA  G 299.9     3 100     25D                                                
+124BA  G 556.4     3 81      30                                             C   
+124BA  L 3968.21   22(13)-                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 681.0     1 100       E2                      0.00440                  
+124BAS G KC=0.00374 6$LC=0.000523 8$MC=0.0001081 16$NC+=2.69E-5 4               
+124BAS G NC=2.32E-5 4$OC=3.48E-6 5$PC=2.29E-7 4                                 
+124BA  L     4125.9 4(14+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 434.2     6            Q                                               
+124BA  G 689.4     1 100     8 E2                      0.00427                  
+124BAS G KC=0.00363 5$LC=0.000506 7$MC=0.0001047 15$NC+=2.60E-5 4               
+124BAS G NC=2.24E-5 4$OC=3.37E-6 5$PC=2.23E-7 4                                 
+124BA  L     4228.0 5(13-)                                                  f   
+124BAX L XREF=BD                                                                
+124BA  G 336.6     6 35      10D                                                
+124BA  G 636.3     4 100     20Q                                                
+124BA  L 4381.8     8 (11+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 689.9     6            D                                              ?
+124BA  G 945.4     6            D                                              ?
+124BA  G 1407.0    6            Q                                               
+124BA  L     4407.3 4(14+)                                                  B   
+124BAX L XREF=BD                                                                
+124BA  G 281.3     6 13      4 D                                                
+124BA  G 715.5     3 58      17Q                                                
+124BA  G 971.1     3 100     25Q                                                
+124BA  L     4534.3 6(14-)                                                  D   
+124BAX L XREF=BD                                                                
+124BA  G 566.2     6            D                                               
+124BA  G 762.1     3 100     33Q                                                
+124BA  L 4551.5    10 (12+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 170.0     6            D                                               
+124BA  G 722.0     6                                                            
+124BA  G 858.2     6            D                                              ?
+124BA2 G FL=3694.0                                                              
+124BA  L     4603.8 5(14-)                                                  F   
+124BAX L XREF=BD                                                                
+124BA  G 375.6     6 38      15D                                                
+124BA  G 711.3     4 100     50Q                                                
+124BA  L     4761.8 3(15-)                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 793.8     1 100       Q                                                
+124BA  L 4766.3    10 (13+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 215.0     6            D                                               
+124BA  G 384.2     6            Q                                               
+124BA  G 1073.2    6            Q                                              ?
+124BA2 G FL=3694.0                                                              
+124BA  L     4892.5 6(16+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 766.1     1 100       Q                                                
+124BA  L     5009.7 5(15-)                                                  f   
+124BAX L XREF=BD                                                                
+124BA  G 405.6     6 15      5                                                  
+124BA  G 780.9     3 100     15Q                                                
+124BA cG RI        see comment for 781.3|g                                      
+124BA  L 5027.3    10 (14+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 261.0     6            D                                               
+124BA  G 476.0     6            Q                                               
+124BA  L     5215.8 6(16+)                                                  B   
+124BAX L XREF=BD                                                                
+124BA  G 323.2     6  7      5  D                                           X   
+124BA  G 808.5     3 100     19 Q                                               
+124BA  G 1090.0    3  26     12 Q                                               
+124BA  L 5329.1    10 (15+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 302.0     6            D                                               
+124BA  G 562.5     6            Q                                               
+124BA  G 1203.7    6            D                                              ?
+124BA  L     5392.4 7(16-)                                                  D   
+124BAX L XREF=BD                                                                
+124BA  G 630.7     6            D                                               
+124BA  G 858.3     3 100     40Q                                                
+124BA  L     5446.0 6(16-)                                                  F   
+124BAX L XREF=BD                                                                
+124BA  G 436.3     4 22      11D                                                
+124BA  G 842.6     6 100     22Q                                                
+124BA  L     5638.9 5(17-)                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 878.0     4 100       Q                                                
+124BA  L 5668.0    11 (16+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 339.0     6            D                                               
+124BA  G 640.9     6            Q                                               
+124BA  L     5725.0 7(17+)                                                  I   
+124BAX L XREF=BD                                                                
+124BA  G 832.0     3 100       (M1)                    0.00383                  
+124BAS G KC=0.00331 5$LC=0.000418 6$MC=8.58E-5 12$NC+=2.16E-5 3                 
+124BAS G NC=1.85E-5 3$OC=2.85E-6 4$PC=2.13E-7 3                                 
+124BA  L     5763.2 7(18+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 871.6     1 100       Q                                                
+124BA  L     5905.8 7(17-)                                                  f   
+124BAX L XREF=BD                                                                
+124BA  G 459.8     6            D                                               
+124BA  G 895.7     3 100     17Q                                                
+124BA  L 6044.8    11 (17+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 377.0     6            D                                               
+124BA  G 715.5     6            Q                                               
+124BA  L     6080.4 7(18+)                                                  B   
+124BAX L XREF=BD                                                                
+124BA  G 317.2     6            D                                               
+124BA  G 864.7     3 100     24 Q                                               
+124BA  L 6189.6     6 (18+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1299.0    6            Q                                               
+124BA  L     6290.4 8(18-)                                                  D   
+124BAX L XREF=BD                                                                
+124BA  G 896.6     3 100        Q                                               
+124BA  L     6383.0 7(18-)                                                  F   
+124BAX L XREF=BD                                                                
+124BA  G 477.2     6            D                                               
+124BA  G 938.1     6 100     22 Q                                               
+124BA  L 6452.9    11 (18+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 408.0     6            D                                               
+124BA  G 784.9     6            Q                                               
+124BA  L     6556.0 7(19-)                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 917.3     3 100        Q                                               
+124BA  L 6581.3     4 (19+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 819.1     6  32     9  D                                               
+124BA  G 857.7     3  100    40 Q                                               
+124BA  L 6704.0     7 (18)                                                      
+124BAX L XREF=D                                                                 
+124BA  G 1066.0    6                                                            
+124BA  L     6711.1 8(20+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 948.6     1 100       Q                                                
+124BA  L     6870.8 8(19-)                                                  f   
+124BAX L XREF=BD                                                                
+124BA  G 487.8     6            D                                               
+124BA  G 965.0     6 100     30 Q                                               
+124BA  L 6896.9    12 (19+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 444.0     6            D                                               
+124BA  G 852.0     6            Q                                               
+124BA  L     6999.4 8(20+)                                                  B   
+124BAX L XREF=BD                                                                
+124BA  G 919.4     3 100     24 Q                                               
+124BA  G 1236.2    6            Q                                               
+124BA  L 7081.5     6 (20+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 891.9     3  100    50 Q                                               
+124BA  G 1319.7    6            Q                                               
+124BA  L 7229.9     9(20-)                                                  D   
+124BAX L XREF=BD                                                                
+124BA  G 940.5     3 100        Q                                               
+124BA  L 7362.9    13 (20+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 910.0     6            Q                                               
+124BA  L     7366.0 8(20-)                                                  F   
+124BAX L XREF=BD                                                                
+124BA  G 495.2     6            D                                               
+124BA  G 982.6     4 100     50 Q                                               
+124BA  L 7499.9     5 (21+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 791.3     6            D                                               
+124BA  G 918.0     3 100     33 Q                                               
+124BA  L     7502.6 8(21-)                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 945.3     3 100        Q                                               
+124BA  L     7716.4 9(22+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 1004.9    3 100       Q                                                
+124BA  L 7863.8    13 (21+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 966.9     6            Q                                               
+124BA  L 7876.4    10 (21-)                                                 f   
+124BAX L XREF=D                                                                 
+124BA  G 1007.4    6            Q                                               
+124BA  L     7983.4 9(22+)                                                  B   
+124BAX L XREF=BD                                                                
+124BA  G 983.7     3 100     22 Q                                               
+124BA  G 1272.3    6            Q                                               
+124BA  L 8098.3     6 (22+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1016.8    3 100     50 Q                                               
+124BA  G 1389.0    6            Q                                              ?
+124BA  L 8262.5     7 (22-)                                                 D   
+124BAX L XREF=D                                                                 
+124BA  G 1034.4    3  100    50 Q                                               
+124BA2 G DCO=0.91                                                               
+124BA  L 8369.2    14 (22+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 1006.3    6            Q                                               
+124BA  L 8408.2    10 (22-)                                                 F   
+124BAX L XREF=D                                                                 
+124BA  G 1044.0    6            Q                                               
+124BA2 G FL=7366.0                                                              
+124BA  L 8483.5     5 (23+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 769.2     6            D                                               
+124BA  G 983.4     3  100    40 Q                                               
+124BA  L     8512.4 9(23-)                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 1009.7    3 100        Q                                               
+124BA  L     8794.410(24+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 1077.1    3 100        Q                                               
+124BA  L 8904.4    15 (23+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 1040.6    6            Q                                               
+124BA  L 8910.4    12 (23-)                                                 f   
+124BAX L XREF=D                                                                 
+124BA  G 1034.0    6            Q                                               
+124BA  L     9053.410(24+)                                                  B   
+124BAX L XREF=BD                                                                
+124BA  G 1069.2    3 100        Q                                               
+124BA  L 9176.9     7 (24+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1078.6    3 100     50 Q                                               
+124BA  G 1462.3    6            Q                                              ?
+124BA  L 9380.1     9 (24-)                                                 D   
+124BAX L XREF=D                                                                 
+124BA  G 1117.6    6 100        Q                                               
+124BA  L 9427.7    16 (24+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 1058.5    6            Q                                               
+124BA  L 9525.3    12 (24-)                                                 F   
+124BAX L XREF=D                                                                 
+124BA  G 1117.1    6            Q                                               
+124BA  L 9561.8     8 (25+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 1078.2    6 100        Q                                               
+124BA  L     9613.110(25-)                                                  d   
+124BAX L XREF=BD                                                                
+124BA  G 1100.1    6 100        Q                                               
+124BA  L 9916.4     8 (25)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1124.1    6                                                           ?
+124BA  L 9950.7    10(26+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 1154.5    3 100       Q                                                
+124BA  L 9975.0    16 (25+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 1070.6    6            Q                                               
+124BA  L 9981.2    13 (25-)                                                 f   
+124BAX L XREF=D                                                                 
+124BA  G 1070.7    6            Q                                              ?
+124BA  L 10220.0    7 (26+)                                                 B   
+124BAX L XREF=D                                                                 
+124BA  G 1168.6    3 100        Q                                               
+124BA  L 10308.3    9 (26+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1131.4    6 100        Q                                               
+124BA  G 1516.9    6            Q                                              ?
+124BA  L 10519.6   17 (26+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 1091.9    6            Q                                               
+124BA  L 10561.3   11 (26-)                                                 D   
+124BAX L XREF=D                                                                 
+124BA  G 1181.2    6 100        Q                                               
+124BA  L 10703.7   13 (26-)                                                 F   
+124BAX L XREF=D                                                                 
+124BA  G 1178.4    6            Q                                              ?
+124BA  L 10746.6   10 (27+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 1184.8    6 100        Q                                               
+124BA  L 10811.9   11 (27-)                                                 d   
+124BAX L XREF=D                                                                 
+124BA  G 1201.5    6 100        Q                                               
+124BA  L 11067.7   10 (27)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1151.3    6            Q                                               
+124BA  L 11077.4   17 (27+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 1102.4    6            Q                                               
+124BA  L 11115.4   11 (26)                                                      
+124BAX L XREF=D                                                                 
+124BA  G 1505.0    6                                                            
+124BA  L 11182.5   11(28+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 1231.2    3 100        Q                                               
+124BA  L 11471.8    9 (28+)                                                 B   
+124BAX L XREF=D                                                                 
+124BA  G 1251.8    6 100        Q                                               
+124BA  L 11522.5   11 (28+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1214.2    6 100        Q                                               
+124BA  L 11648.9   18 (28+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 1129.3    6            Q                                               
+124BA  L 11753.3   13 (28-)                                                 D   
+124BAX L XREF=D                                                                 
+124BA  G 1192.0    6 100        Q                                               
+124BA  L 12029.5   12 (29+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 1282.9    6            Q                                               
+124BA  L 12116.4   12 (29-)                                                 d   
+124BAX L XREF=D                                                                 
+124BA  G 1304.4    6 100        Q                                               
+124BA  L 12242.3   18 (29+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 1164.9    6            Q                                               
+124BA  L 12288.9   12 (29)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1221.2    6            Q                                               
+124BA  L    12491.312(30+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 1309.6    3 100        Q                                               
+124BA  L 12733.0   11 (30+)                                                 B   
+124BAX L XREF=D                                                                 
+124BA  G 1261.2    6 100        Q                                               
+124BA  L 12820.4   13 (30+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1297.9    6            Q                                               
+124BA  L 12859.8   19 (30+)                                                 l   
+124BAX L XREF=D                                                                 
+124BA  G 1210.9    6            Q                                               
+124BA  L 12959.8   14 (30-)                                                 D   
+124BAX L XREF=D                                                                 
+124BA  G 1206.5    6            Q                                               
+124BA  L 13348.3   13 (30)                                                  N   
+124BAX L XREF=D                                                                 
+124BA  G 1232.0    6                                                            
+124BA  L 13406.5   13 31+                                                   I   
+124BAX L XREF=D                                                                 
+124BA  G 1377.0    6            Q                                               
+124BA  L 13491.8   19 (31+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 1249.5    6            Q                                               
+124BA  L 13517.2   13 (31-)                                                 d   
+124BAX L XREF=D                                                                 
+124BA  G 1400.8    6 100        Q                                               
+124BA  L 13590.3   13 (31)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1301.4    6            Q                                               
+124BA  L    13880.413(32+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 1388.6    6 100        Q                                               
+124BA  L 14057.6   12 (32+)                                                 B   
+124BAX L XREF=D                                                                 
+124BA  G 1324.5    6 100        Q                                               
+124BA  L 14184.1   15 (32-)                                                 D   
+124BAX L XREF=D                                                                 
+124BA  G 1224.3    6            Q                                               
+124BA  L 14190.5   14 (32+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1370.1    6            Q                                               
+124BA  L 14755.2   14 (32)                                                  N   
+124BAX L XREF=D                                                                 
+124BA  G 1238.0    6                                                            
+124BA  G 1406.9    6            Q                                               
+124BA  L 14832.4   20 (33+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 1340.6    6            Q                                               
+124BA  L 14881.2   15 (33+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 1474.7    6            Q                                               
+124BA  L 14979.4   15 (33)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1389.1    6            Q                                               
+124BA  L 15003.7   15 (33-)                                                 d   
+124BAX L XREF=D                                                                 
+124BA  G 1486.5    6            Q                                               
+124BA  L    15335.413(34+)                                                  A   
+124BAX L XREF=BD                                                                
+124BA  G 1454.8    6 100        Q                                               
+124BA  L 15459.2   14 (34+)                                                 B   
+124BAX L XREF=D                                                                 
+124BA  G 1401.6    6            Q                                               
+124BA  L 15475.0   17 (34-)                                                 D   
+124BAX L XREF=D                                                                 
+124BA  G 1290.9    6            Q                                              ?
+124BA  L 15618.0   15 (34+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1427.5    6            Q                                               
+124BA  L 16029.2   15 (34)                                                  N   
+124BAX L XREF=D                                                                 
+124BA  G 1274.0    6            Q                                               
+124BA  L 16280.4   21 (35+)                                                 L   
+124BAX L XREF=D                                                                 
+124BA  G 1448.0    6            Q                                               
+124BA  L 16425.4   16 (35+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 1544.2    6            Q                                               
+124BA  L 16461.2   16 (35)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1481.8    6            Q                                               
+124BA  L 16775.3   13 (36+)                                                 A   
+124BAX L XREF=D                                                                 
+124BA  G 1444.3    6  100       Q                                               
+124BA2 G FL=15335.4                                                             
+124BA  L 16914.4   13 (36+)                                                 a   
+124BAX L XREF=D                                                                 
+124BA  G 1583.4    6            Q                                               
+124BA2 G FL=15335.4                                                             
+124BA  L 16943.5   15 (36+)                                                 B   
+124BAX L XREF=D                                                                 
+124BA  G 1484.3    6            Q                                               
+124BA  L 17111.3   17 (36+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1493.3    6            Q                                              ?
+124BA  L 17435.2   16 (36)                                                  N   
+124BAX L XREF=D                                                                 
+124BA  G 1406.0    6            Q                                               
+124BA  L 18040.9   17 (37)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1579.7    6            Q                                               
+124BA  L 18045.0   17 (37+)                                                 I   
+124BAX L XREF=D                                                                 
+124BA  G 1619.6    6            Q                                               
+124BA  L 18069.7   14 (38+)                                                 a   
+124BAX L XREF=D                                                                 
+124BA  G 1294.4    6            Q                                               
+124BA  L 18143.7   14 (38+)                                                 a   
+124BAX L XREF=D                                                                 
+124BA  G 1368.4    6            Q                                               
+124BA  L 18525.3   14 (38+)                                                 a   
+124BAX L XREF=D                                                                 
+124BA  G 1610.9    6            Q                                               
+124BA  L 18649.1   18 (38+)                                                 J   
+124BAX L XREF=D                                                                 
+124BA  G 1537.7    6            Q                                              ?
+124BA  L 18909.2   17 (38)                                                  N   
+124BAX L XREF=D                                                                 
+124BA  G 1474.0    6            Q                                               
+124BA  L 19720.6   18 (39)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1679.7    6            Q                                               
+124BA  L 20483.3   18 (40)                                                  N   
+124BAX L XREF=D                                                                 
+124BA  G 1574.0    6            Q                                               
+124BA  L 21501.5   19 (41)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1780.9    6            Q                                               
+124BA  L 22150.1   19 (42)                                                  N   
+124BAX L XREF=D                                                                 
+124BA  G 1666.8    6            Q                                               
+124BA  L 23384.7   20 (43)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1883.2    6            Q                                               
+124BA  L 25371.1   21 (45)                                                  K   
+124BAX L XREF=D                                                                 
+124BA  G 1986.3    6            Q                                               
+
