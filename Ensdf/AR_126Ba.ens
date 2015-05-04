@@ -1,0 +1,729 @@
+126BA    ADOPTED LEVELS, GAMMAS                                  02NDS    200301
+126BA  H TYP=FUL$AUT=J. KATAKURA AND K. KITAO$CIT=NDS 97, 765 (2002)$           
+126BA2 H CUT=5-APR-2002$                                                        
+126BA  Q -7569     SY11.22E3 255874    1686      88    1995AU04                 
+126BA cQ           The uncertainty given by 1995Au04 for Q(|b{+-}) is 298 keV   
+126BA cQ Q-        Other: 7700 {I100} from |b|g (1998Ko66)                      
+126BA c  Mass measurement: 1999Am05: Mass excess =-82675 {I14} keV.             
+126BA cG E,RI      From av of {+126}La |e decay and (HI,xn|g) when both data are
+126BA2cG available.                                                             
+126BA cG M,MR      From |g(|q) and linear pol. In (HI,xn|g) and                 
+126BA2cG |g|g(|q) and |a(K)exp in {+126}La |e decay.                            
+126BA cG RI(U)     Multiply placed; uncertainty of intensity was not given      
+126BA2cG in (HI,xn|g).                                                          
+126BA cG RI(V)     Intensity was not given in (HI,xn|g).                        
+126BA cL J         From |g(|q) and linear pol. and/or RUL in (HI,xn|g), unless  
+126BA2cL otherwise noted. Band structures in (HI,xn|g) are also considered.     
+126BA cL E         From a least-squares fit to E(|g's). Uncertainty of 1 keV is 
+126BA2cL given for each E|g without uncertainty                                 
+126BA CL BAND(A)   GROUND STATE BAND                                            
+126BA CL BAND(B)   BAND 1, G-VIBRATIONAL BAND BELOW CROSSING,                   
+126BA2cL |g-vibrational band coupled with |p(h{-11/2}){+2} above crossing.      
+126BA CL BAND(D)   BAND 2, G-VIBRATIONAL BAND BELOW CROSSING,                   
+126BA2cL |g-vibrational band coupled with |p(h{-11/2}){+2} above crossing.      
+126BA CL BAND(J)   BAND 3, GROUND STATE BAND BELOW CROSSING, NU(h{-11/2})**2    
+126BA2cL above crossing.                                                        
+126BA CL BAND(I)   BAND 5, GROUND STATE BAND BELOW 1st CROSSING,                
+126BA2cL |p(h{-11/2}){+2} below 2nd crossing, |p(h{-11/2}){+2} |n(h{-11/2}){+2} 
+126BA3cL below 3rd crossing, |p(h{-11/2}){+2} |n(h{-11/2}){+2} |p(g{-7/2}){+2}  
+126BA4cL above 3rd crossing.                                                    
+126BA CL BAND(K)   BAND 6, COULD BE A CONTINUATION OF BAND 1.                   
+126BA CL BAND(E)   BAND 7, PI(h{-11/2},g{-7/2}) BELOW CROSSING,                 
+126BA2cL |p(h{-11/2},g{-7/2})|n(h{-11/2}){+2} above crossing.                   
+126BA CL BAND(F)   BAND 8, PI(h{-11/2},g{-7/2}) BELOW CROSSING,                 
+126BA2cL |p(h{-11/2},g{-7/2})|n(h{-11/2}){+2} above crossing.                   
+126BA CL BAND(H)   BAND 9, NU(h{-11/2},g{-7/2}) BELOW CROSSING,                 
+126BA2cL |p(h{-11/2},g{-9/2}) above crossing.                                   
+126BA CL BAND(G)   BAND 10, NU(h{-11/2},g{-7/2}) BELOW CROSSING,                
+126BA2cL |p(h{-11/2},g{-9/2}) above crossing.                                   
+126BA CL BAND(L)   BAND 11, BASED ON THE 2887-KEV LEVEL                         
+126BA CL BAND(M)   BAND 12, NU(h{-11/2})**2 PI(h{-11/2},g{-7/2})                
+126BA2cL below crossing.                                                        
+126BA CL BAND(N)   BAND 13, NU(h{-11/2})**2 PI(h{-11/2},g{-7/2})                
+126BA2cL below crossing.                                                        
+126BA CL BAND(P)   BAND 14, NU(h{-11/2})**2 PI(h{-11/2},d{-5/2})                
+126BA2cL below crossing.                                                        
+126BA CL BAND(O)   BAND 15, NU(h{-11/2})**2 PI(h{-11/2},d{-5/2})                
+126BA2cL below crossing.                                                        
+126BA  XA126LA EC DECAY (54 S+50 S)                                             
+126BA  XB(HI,XNG)                                                               
+126BA PN                                                                     6  
+126BA  L 0.0         0+                100 M     2                          A   
+126BAX L XREF=AB                                                                
+126BA cL T         from 1976Pa11. Others: 96.5 min {I20} (1954Ka33),            
+126BA2cL 103 min {I5} (1962Pr09).                                               
+126BA2 L %EC+%B+=100                                                            
+126BA  L     256.02 62+                137 PS    7                          A   
+126BAX L XREF=AB                                                                
+126BA cL J         E2 |g to 0+                                                  
+126BA cL T         from 2001Ra27; Others: 130 ps {I+7-21} (1979Se03), 118 ps    
+126BA2cL {I9} (1989Sc06), 141 ps {I4} (1996De50), 141 ps {I14} (1992Mo13),      
+126BA3cL 187 ps {I35} (1967Cl02), 120 ps {I19} (1972Ku14) and                   
+126BA4cL 108 ps {I4} (1990OsZY). 1990OsZY is an earlier                         
+126BA4cL paper of 1992Mo13                                                      
+126BA  G  256.04    8100       E2                       0.0758                  
+126BAB G BE2W=94 4                                                              
+126BA  L     711.10 64+                5.98 PS   12                         A   
+126BA cL J         from |g|g(|q) in in |e decay (54 s+50 s); E2 |g to 2+.       
+126BA cL T         weighted av of 6.4 ps {I+7-8} (1979Se03), 6.5 ps {I6}        
+126BA2cL (1989Sc06) and 5.95 ps {I12} (1996De50).                               
+126BAX L XREF=AB                                                                
+126BA  G  455.05    6100       E2                       0.0128                  
+126BAB G BE2W=128 3                                                             
+126BA  L     873.57 62+                                                     B   
+126BAX L XREF=AB                                                                
+126BA cL J         from E2 |g to 0+.                                            
+126BA  G  617.45    7100.0   14M1+E2     +5      +2-1                           
+126BA cG MR        from |g(|q) in (HI,xn|g), other: 18 {I+10-5} (2002Ko02)      
+126BA  G  873.50    7 63.3   13E2                                               
+126BA cG M         from |g(|q) in (HI,xn|g) and                                 
+126BA2cG |a(K)exp in {+126}La |e decay (54 s+ 50 s)                             
+126BA  L     983.45 90+                                                         
+126BAX L XREF=A                                                                 
+126BA cL J         from |g|g(|q) in |e decay (54 s+50 s); E2 |g to 2+.          
+126BA  G 727.4     1 100       E2                                               
+126BA cG M         from |g|g(|q) and |a(K)exp in {+126}La |e decay (54 s+ 50 s) 
+126BA  L    1236.24 73+                                                     D   
+126BAX L XREF=AB                                                                
+126BA cL J         from |g|g(|q) in {+126}La |e decay (54 s +50 s) and          
+126BA2cL M1+E2 to 2+ state                                                      
+126BA  G  362.71    9 15.2    5E2(+M1)                  0.028  3                
+126BA  G  525.2     1 12.0    3M1+E2     -1.7    2                              
+126BA  G  980.2     9100.0   14M1+E2     +5.5    +11-9                          
+126BA cG MR        from 2002Ko02                                                
+126BA  L    1295.99 72(+)                                                       
+126BAX L XREF=A                                                                 
+126BA cL J         |g|g(|q) in {+126}La |e decay (54 s +50 s) and               
+126BA2cL (E2) to 4+ state                                                       
+126BA  G 312.5     1 38      6                                                  
+126BA  G 422.4     5 20      5                                                  
+126BA  G 584.9     2 24      6 (E2)                                             
+126BA  G 1040.0    1 100     3 (M1+E2)   +1.9    +11-9                          
+126BA cG MR        from 2002Ko02                                                
+126BA  G 1296.0    1 57.1    11                                                 
+126BA  L    1332.47 86+                0.94 PS   4                          A   
+126BAX L XREF=AB                                                                
+126BA cL J         from |g|g(|q) in {+126}La |e decay and E2 |g to 4+           
+126BA cL T         weighted av of 1.12 ps {I+69-35} (1979Se03), 1.3 ps {I6}     
+126BA2cL (1989Sc06), 0.93 ps {I4} (1996De50) and 1.02 ps {I21} (1998Li16).      
+126BA  G 621.35     6100       E2                                               
+126BAB G BE2W=173 8                                                             
+126BA  L    1345.45 74+                                                     B   
+126BAX L XREF=AB                                                                
+126BA cL J         from |g|g(|q) in {+126}La |e decay and M1+E2 |g to 4+        
+126BA  G  471.85    7 81.2   21E2                       0.0116                  
+126BA  G  634.30    7 100.0  15M1+E2     +1.4    +80-3                          
+126BA cG MR        from 2002Ko02                                                
+126BA  G 1089.52    9 41.8   16Q                                                
+126BA  L    1717.61 9(2+)                                                       
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 0+, 2+ and 4+                                        
+126BA  G 1006.6    1 34.4    14                                                 
+126BA  G 1461.5    1 100.0   24                                                 
+126BA  G 1717.4    5 55      3                                                  
+126BA  L    1742.57 73-                                                     F   
+126BAX L XREF=AB                                                                
+126BA cL J         from |g|g(|q) in {+126}La |e decay and E1 |g to 4+           
+126BA  G 397.0     5 0.24    LT                                                 
+126BA cG E         not observed in (HI,xn|g)                                    
+126BA  G 1031.40   9 60.3    10E1                                               
+126BA  G 1486.60   9 100.0   17D                                                
+126BA  L    1753.8414(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 408.4     5 15      7                                                  
+126BA  G 457.8     3 41      8                                                  
+126BA  G 517.6     2 21      6                                                  
+126BA  G 880.3     5 100     12                                                 
+126BA  G 1042.8    3 25.5    9                                                  
+126BA  L    1808.01105(+)                                                   D   
+126BAX L XREF=AB                                                                
+126BA cL J         |g(|q) in (HI,xn|g) and Q |g to 3+                           
+126BA  G 462.5     3 8.4     14                                                 
+126BA  G 475.4     4 8.3     10                                                 
+126BA  G 571.78    9 100     8 Q                                                
+126BA  G 1096.6    3 61      16D                                                
+126BA  L    1810.1619(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 573.7     5 100     13                                                 
+126BA  G 936.6     5 15      3                                                  
+126BA  G 1099.1    2 73      49                                                 
+126BA  L    1876.71 9                                                           
+126BAX L XREF=A                                                                 
+126BA  G 640.5     1 40.2    15                                                 
+126BA  G 1003.1    1 63.2    17                                                 
+126BA  G 1620.8    2 100     4                                                  
+126BA  L    1890.20 96(+)                                                   B   
+126BAX L XREF=AB                                                                
+126BA  G  544.75    7100.0   11(E2)                                             
+126BA  G  557.89   1921      3 (M1+E2)   +2.8    +24-9                          
+126BA  G 1178.0     5 12.0   22                                                 
+126BA cG E         not observed in {+126}La |e decay                            
+126BA  L    1936.29 91,3                                                        
+126BAX L XREF=A                                                                 
+126BA cL J         from |g|g(|q) in {+126}La |e decay                           
+126BA  G 700.0     3 60      18                                                 
+126BA  G 1062.6    1 45      13                                                 
+126BA  G 1680.4    1 100     5                                                  
+126BA  L    1938.85 75-                                                     E   
+126BAX L XREF=AB                                                                
+126BA cL J         E1 |g to 4+, |g to 6+.                                       
+126BA  G 606.40    1020.5    4 E1                                           @   
+126BA  G 1227.78   9 100     8 E1                                               
+126BA  L    2018.3011(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 672.8     3 7.6     12                                                 
+126BA  G 1144.6    3 4.8     18                                                 
+126BA  G 1307.1    5 26      5                                                  
+126BA  G 1762.3    1 100     4                                                  
+126BA  L    2029.83120(+)                                                       
+126BAX L XREF=A                                                                 
+126BA cL J         from |g|g(|q) in {+126}La |e decay (54 s+50 s),              
+126BA2cL Q |g to 2+.                                                            
+126BA  G 1773.8    1 100       Q                                                
+126BA cG M         from |g|g(|q) in {+126}La |e decay (54 s+50 s)               
+126BA  L    2056.13 84-                                                     F   
+126BAX L XREF=AB                                                                
+126BA cL J         |g(|q) and M1+E2 |g to 3-                                    
+126BA  G 117.0     5 4.1     8                                                  
+126BA cG E         not observed in (HI,xn|g)                                    
+126BA  G  313.45   1576      6 M1+E2     -2.0    +9-13  0.040311                
+126BA  G 820.0     2 6.3     3                                                  
+126BA cG E         not observed in (HI,xn|g)                                    
+126BA  G 1345.00    9100.0   17D                                                
+126BA  L    2089.67118+                0.28 PS   2                          A   
+126BAX L XREF=B                                                                 
+126BA cL T         from 1996De50; others: 1.48 ps {I+24-17} (1979Se03),         
+126BA2cL 0.76 ps {I28} (1989Sc06) and 1.40 ps {I24} (1998Li16).                 
+126BA  G  757.2     1100       E2                                               
+126BAB G BE2W=2.0E+2 6                                                          
+126BA  L    2100.3420                                                           
+126BAX L XREF=A                                                                 
+126BA  G 346.5     5 21      LT                                                 
+126BA  G 1844.3    2 100     4                                                  
+126BA  L    2103.4812                                                           
+126BAX L XREF=A                                                                 
+126BA  G 757.9     5 66      15                                                 
+126BA  G 1392.4    1 100     3                                                  
+126BA  L    2117.2519                                                           
+126BAX L XREF=A                                                                 
+126BA  G 771.8     2 66.7    21                                                 
+126BA  G  880.8    5 100     14                                                 
+126BA  G 1406.3    5 45.1    18                                                 
+126BA  L    2179.18 9(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 1305.5    5 31      5                                                  
+126BA  G 1468.1    1 33.2    25                                                 
+126BA  G 1923.1    1 100     4                                                  
+126BA  L    2247.61103-,5-                                                      
+126BAX L XREF=A                                                                 
+126BA cL J         from |g|g(|q) in {+126}La |e decay and E2(+M1) |g to 3-      
+126BA  G 505.1     2 62      10E2(+M1)                  0.011417                
+126BA  G 902.1     2 8.6     7                                                  
+126BA  G  1536.5   1 100     3                                                  
+126BA  L    2255.26 85                                                      G   
+126BAX L XREF=AB                                                                
+126BA  G  316.49    9 13.0   11                                                 
+126BA  G  909.75    7100     6 D                                                
+126BA  G 922.8     5 6.1     17                                                 
+126BA cG E         not observed in (HI,xn|g)                                    
+126BA  G 1545       1 5.1    11                                                 
+126BA cG E         not observed in {+126}La |e decay                            
+126BA  L    2303.43 87-                3.3 PS    11                         E   
+126BAX L XREF=AB                                                                
+126BA cL T         from 1989Sc06.                                               
+126BA cL J         E1 |g to 6+, |g's to 5- and 8+.                              
+126BA  G  213.6     5  2.4    6                                                 
+126BA cG E         not observed in {+126}La |e decay                            
+126BA  G  364.4     3  5.9   18                                                 
+126BA cG E         not observed in {+126}La |e decay                            
+126BA  G  970.97    1100     11E1                                               
+126BAB G BE1W=8.E-5 3                                                           
+126BA  L    2378.9112                                                           
+126BAX L XREF=A                                                                 
+126BA  G 1667.8    1 100                                                        
+126BA  L    2386.0212                                                           
+126BAX L XREF=A                                                                 
+126BA  G 1674.9    1 100                                                        
+126BA  L     2399.1 4(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 1687.9    5 60      11                                                 
+126BA  G 2143.1    5 100     56                                                 
+126BA  L    2408.21116(-)                                                   F   
+126BAX L XREF=AB                                                                
+126BA  G  352.06    9 90     9 Q                                                
+126BA  G  469.2     4100     9                                              &   
+126BA  G 1076.1     3 38      6D                                                
+126BA cG E         not observed in {+126}La |e decay                            
+126BA  L    2429.61 96(-)                                                   H   
+126BAX L XREF=B                                                                 
+126BA  G  174.4     1 81      8D(+Q)     +0.03   5                              
+126BA  G  373.4     1100     11Q                                                
+126BA  G  490.8     1 78     14(M1+E2)   -1.2    4      0.0118 7                
+126BA  G 1097.1     2 94     11                                                 
+126BA  L    2459.1710                                                           
+126BAX L XREF=A                                                                 
+126BA  G  520.3    2 100     19                                                 
+126BA  G 1126.5    2 9.8     5                                                  
+126BA  G 1748.1    1 81      3                                                  
+126BA  L     2484.7 37(+)                                                   D   
+126BAX L XREF=B                                                                 
+126BA  G  676.7     3100     9 Q                                                
+126BA  G 1153         30     9                                                  
+126BA  L    2499.19 8(3-,4+)                                                    
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 5-                                            
+126BA  G 560.2     3 10      5                                                  
+126BA  G 756.6     3 99      20                                                 
+126BA  G 1203.2    1 72      5                                                  
+126BA  G 1262.9    1 100     15                                                 
+126BA  G 1625.6    3 19.8    13                                                 
+126BA  G 1788.1    1 37.2    20                                                 
+126BA  L    2512.3211(4+,5,6+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 4+ and 6+                                            
+126BA  G 573.5     5 26      4                                                  
+126BA  G 1166.9    2 12.7    5                                                  
+126BA  G 1179.8    3 5.6     19                                                 
+126BA  G 1801.2    1 100     3                                                  
+126BA  L    2530.19138(+)                                                   B   
+126BAX L XREF=B                                                                 
+126BA  G 440           6.3   21                                                 
+126BA  G  640.0     1100     16Q                                                
+126BA  L    2566.3612(4+,5,6+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 4+ and 6(+)                                          
+126BA  G 627.7     5 60      13                                                 
+126BA  G 676.3     5 43      10                                                 
+126BA  G 1220.9    1 100.0   21                                                 
+126BA  L     2567.0 8                                                           
+126BAX L XREF=B                                                                 
+126BA  G 137         100                                                        
+126BA  L    2576.81 9(3,4)                                                      
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 3-, 3+, 4- and 4+                                    
+126BA  G 520.7     3 16      3                                                  
+126BA  G 834.2     1 30.2    13                                                 
+126BA  G 1231.3    5 15.1    25                                                 
+126BA  G 1340.6    1 100     13                                                 
+126BA  G 1865.9    3 20.4    13                                                 
+126BA  L    2605.57 9                                                           
+126BAX L XREF=A                                                                 
+126BA  G 1894.4    1 78      3                                                  
+126BA  G 2349.6    1 100     3                                                  
+126BA  L    2609.37137                                                      G   
+126BAX L XREF=B                                                                 
+126BA  G  179.8     1100       D+Q        -0.13   5                             
+126BA  L    2657.4411(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 1946.3    3 16.7    9                                                  
+126BA  G 2401.4    1 100     5                                                  
+126BA  L    2684.37 8(4)                                                        
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 3-, 3+, 5- and 5(+)                                  
+126BA  G 628.2     1 100     17                                                 
+126BA  G 745.5     1 14      3                                                  
+126BA  G 876.3     5 11.7    22                                                 
+126BA  G 941.8     2 12.4    5                                                  
+126BA  G 1448.1    1 52.4    9                                                  
+126BA  G 1973.3    1 48.9    17                                                 
+126BA  L    2716.2710(4+,5,6+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 4+ and 6+                                            
+126BA  G 1383.7    1 23.1    6                                                  
+126BA  G 2005.2    1 100     3                                                  
+126BA  L    2732.60 9(3-,4,5+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 3+ and 5-                                            
+126BA  G 676.4     5 86      16                                                 
+126BA  G 793.7     1 54      3                                                  
+126BA  G 1387.2    5 57      3                                                  
+126BA  G 1496.4    2 100     5                                                  
+126BA  G 2021.5    1 65      3                                                  
+126BA  L    2748.6010(4+,5,6+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 4+ and 6(+)                                          
+126BA  G 809.7     1 86.9    20                                                 
+126BA  G 858.3     3 64      3                                                  
+126BA  G 1403.2    1 100     3                                                  
+126BA  G 2037.6    5 35.4    20                                                 
+126BA  L    2772.94158(-)                                                   F   
+126BAX L XREF=B                                                                 
+126BA  G  364.8     2100     2 Q                                                
+126BA  G  469.4     5 91     11                                             &   
+126BA  L    2786.61119-                2.8 PS    3                          E   
+126BAX L XREF=B                                                                 
+126BA cL J         E2 |g to 7- and E1 to 8+.                                    
+126BA cL T         from 1989Sc06                                                
+126BA  G  483.2     1 96      7E2                       0.0108                  
+126BAB G BE2W=100 15                                                            
+126BA  G  696.8     1100     11E1                                               
+126BAB G BE1W=0.000145 25                                                       
+126BA  L    2813.30148(-)                                                   H   
+126BAX L XREF=B                                                                 
+126BA  G  204.0     1100     17D+Q        -0.34   5                             
+126BA  G 246          33     8 D                                                
+126BA2 G FL=2567.0                                                              
+126BA  G  383.5     2 15      3Q                                                
+126BA  L    2872.0911(2,3,4)                                                    
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 3- and 3+                                            
+126BA  G 1129.5    1 100     3                                                  
+126BA  G 1635.9    2 28.8    16                                                 
+126BA  L     2886.5 8                                                       L   
+126BAX L XREF=B                                                                 
+126BA  G 1554        100                                                        
+126BA  L    2942.071310+               0.17 PS   2                          A   
+126BAX L XREF=B                                                                 
+126BA cL T         from 1996De50; others: 0.64 ps {I+14-10} (1979Se03),         
+126BA2cL 0.21 ps {I14} (1989Sc06) and 1.0 ps {I3} (1998Li16).                   
+126BA  G  852.4     1100       E2                                               
+126BAB G BE2W=1.9E+2 6                                                          
+126BA  L    2953.70 8(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 774.6     5 18.6    7                                                  
+126BA  G 1211.2    1 100     4                                                  
+126BA  G 1657.6    3 18.2    15                                                 
+126BA  G 2242.6    1 65      3                                                  
+126BA  G 2697.6    1 91      3                                                  
+126BA  L    3096.48169                                                      G   
+126BAX L XREF=B                                                                 
+126BA  G  283.2     1100     10D+Q        -0.37    5                            
+126BA  G  487.0     2 53     10Q                                                
+126BA  L     3108.0 4(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 2396.8    5 100     50                                                 
+126BA  G 2852.0    5 93      7                                                  
+126BA  L     3185.6 3(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 2474.5    3 90      7                                                  
+126BA  G 2929.6    5 100     7                                                  
+126BA  L    3236.621310(-)                                                  F   
+126BAX L XREF=B                                                                 
+126BA  G  450.0    1 41      6                                                  
+126BA  G  463.7     1100     2 Q                                                
+126BA  L     3243.815                                                       D   
+126BAX L XREF=B                                                                 
+126BA  G  759.1    14100                                                        
+126BA  L    3261.481610(+)                                                  B   
+126BAX L XREF=B                                                                 
+126BA  G  731.3     1100     13Q                                                
+126BA  G 1172         15      4                                                 
+126BA  L    3375.371311-               1.4 PS    2                          E   
+126BAX L XREF=B                                                                 
+126BA cL T         from 1989Sc06.                                               
+126BA  G  433.3     1  6.5   16D+Q        -0.05   5                             
+126BA  G  588.7     1100      5E2                                               
+126BAB G BE2W=143 23                                                            
+126BA  L     3389.7 4                                                           
+126BAX L XREF=B                                                                 
+126BA  G  447.6     3100                                                        
+126BA  L     3403.0 5(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 2691.9    5 100     8                                                  
+126BA  G 3146.8    8 89      11                                                 
+126BA  L    3419.911910(-)                                                  H   
+126BAX L XREF=B                                                                 
+126BA  G  323.4     1 57      7D+Q        -0.5    1                             
+126BA  G  606.5     5100     12Q                                            @   
+126BA  L     3450.5 5(8)                                                    L   
+126BAX L XREF=B                                                                 
+126BA  G 564         23      15Q                                                
+126BA  G 1360.8     6100     15                                                 
+126BA  L     3484.8 7(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 2773.5    10100     7                                                  
+126BA  G 3228.9    1023      4                                                  
+126BA  L     3588.8 8                                                           
+126BAX L XREF=B                                                                 
+126BA  G  327        100                                                        
+126BA  G 1059                                                               V   
+126BA  L    3703.7618(2+,3,4+)                                                  
+126BAX L XREF=A                                                                 
+126BA cL J         |g's to 2+ and 4+                                            
+126BA  G 2992.6    3 44      13                                                 
+126BA  G 3447.7    2 100     3                                                  
+126BA  L    3746.842311                                                     G   
+126BAX L XREF=B                                                                 
+126BA  G 326.7      3 28     8 D+Q        -0.5    1                             
+126BA  G  650.5     2100     14Q                                                
+126BA  L    3747.401612+               0.40 PS   4                          I   
+126BAX L XREF=B                                                                 
+126BA cL T         weighted av of 0.30 ps {I+21-7} (1979Se03), 0.28 ps {I14}    
+126BA2cL (1989Sc06) and 0.41 ps {I4} (1996De50); other: 1.3 ps {I3} (1998Li16). 
+126BA  G 486           1.6    6                                                 
+126BA  G  805.3     1100      3E2                                               
+126BAB G BE2W=107 19                                                            
+126BA  L     3758.9 3                                                           
+126BAX L XREF=A                                                                 
+126BA  G 1702.7    3 100                                                        
+126BA  L    3886.7824                                                       F   
+126BAX L XREF=B                                                                 
+126BA  G 511          15      4                                                 
+126BA  G  650.2     2100     15                                                 
+126BA  L    3887.8616 12+                                                   J   
+126BAX L XREF=B                                                                 
+126BA  G  945.8     1100       E2                                               
+126BA  L    4074.091912(+)                                                  B   
+126BAX L XREF=B                                                                 
+126BA  G  812.6     1100     14Q                                                
+126BA  G 1132         21      3                                                 
+126BA  L    4078.8916 13-              0.3 PS    1                          E   
+126BAX L XREF=B                                                                 
+126BA cL T         from 1989Sc06.                                               
+126BA  G  703.5     1100       E2                                               
+126BAB G BE2W=2.9E+2 10                                                         
+126BA  L     4093.317                                                       D   
+126BAX L XREF=B                                                                 
+126BA  G  849.5     8100                                                    V   
+126BA  L     4110.2 312(-)                                                  H   
+126BAX L XREF=B                                                                 
+126BA  G  363.6     5 16      8                                                 
+126BAF G FL=3746.84                                                             
+126BA  G  690.3     2100     12Q                                                
+126BA  L     4121.4 4(10)                                                   L   
+126BAX L XREF=B                                                                 
+126BA  G 671          19     10                                                 
+126BA  G 860          26     10Q                                                
+126BA  G 1179.4     4100     14                                                 
+126BA  L    4419.631914+               0.69 PS   5                          I   
+126BAX L XREF=B                                                                 
+126BA cL T         from 1996De50; others: 1.25 ps {I+21-41} (1979Se03), 4.5 ps  
+126BA2cL {I3} (1989Sc06) and 0.49 ps {I7} (1998Li16).                           
+126BA  G 532           4.2    9E2                                               
+126BAF G FL=3887.86                                                             
+126BA  G  672.2     1100      8E2                                               
+126BAB G BE2W=1.6E+2 3                                                          
+126BA  L     4456.9 613                                                     G   
+126BAX L XREF=B                                                                 
+126BA  G 347          24      8                                                 
+126BA  G 710         100     12Q                                                
+126BAF G FL=3746.84                                                             
+126BA  L     4670.6 414(+)                                                  J   
+126BAX L XREF=B                                                                 
+126BA  G  783.0     4100     15Q                                                
+126BAF G FL=3887.86                                                             
+126BA  G  922.9     4 42      6                                                 
+126BAF G FL=3747.40                                                             
+126BA  L     4713.9 3                                                       F   
+126BAX L XREF=B                                                                 
+126BA  G  827.1     2100       Q                                                
+126BA  L     4764.3 8                                                       M   
+126BAX L XREF=B                                                                 
+126BA  G 1017        100                                                    U   
+126BA2 G FL=3747.40                                                             
+126BA  L     4845.7 514(-)                                                  H   
+126BAX L XREF=B                                                                 
+126BA  G 389          45     18                                                 
+126BA  G  735.4     4100     18Q                                                
+126BA  L     4851.6 714(+)                                                  B   
+126BAX L XREF=B                                                                 
+126BA  G  777.7     9100     20Q                                                
+126BA  G 1104         70     7                                                  
+126BAF G FL=3747.40                                                             
+126BA  L     4856.320                                                       D   
+126BAX L XREF=B                                                                 
+126BA  G 763         100       Q                                                
+126BA  L     4896.411                                                       L   
+126BAX L XREF=B                                                                 
+126BA  G 775         100                                                        
+126BA  L    4900.271915-               0.3 PS    1                          E   
+126BAX L XREF=B                                                                 
+126BA cL T         from 1989Sc06.                                               
+126BA  G  821.4     1100       E2                                               
+126BAB G BE2W=1.3E+2 5                                                          
+126BA  L     4905.2 7(13)                                                   N   
+126BAX L XREF=B                                                                 
+126BA  G 141         100     29D                                                
+126BA  G 784          36     14                                                 
+126BA  G 1017         43                                                    U   
+126BA2 G FL=3887.86                                                             
+126BA  L     5086.711                                                           
+126BAX L XREF=B                                                                 
+126BA  G 241         100                                                        
+126BA  L     5122.212(14)                                                   M   
+126BAX L XREF=B                                                                 
+126BA  G 217         100       D                                                
+126BA  L     5199.8 415                                                     K   
+126BAX L XREF=B                                                                 
+126BA  G  780.2     3100       D                                                
+126BA  L    5244.722116+               0.32 PS   5                          I   
+126BAX L XREF=B                                                                 
+126BA cL T         weighted av of 0.21 ps {I14} (1989Sc06), 0.33 ps {I10}       
+126BA2cL (1996De50) and 0.34 ps {I7} (1998Li16).                                
+126BA  G  825.1     1100       E2                                               
+126BAB G BE2W=123 20                                                            
+126BA  L     5255.8 8                                                       G   
+126BAX L XREF=B                                                                 
+126BA  G 410          35     12                                                 
+126BA  G 799         100     24                                                 
+126BA  L     5398.215(15)                                                   N   
+126BAX L XREF=B                                                                 
+126BA  G 276         100       D                                                
+126BA  L     5509.6 516(+)                                                  J   
+126BAX L XREF=B                                                                 
+126BA  G  839.0     3100       Q                                                
+126BA  L     5650.613                                                       B   
+126BAX L XREF=B                                                                 
+126BA  G 799         100                                                        
+126BA  L     5662.5 6                                                       F   
+126BAX L XREF=B                                                                 
+126BA  G  948.6     5100                                                        
+126BA  L     5707.7 916(-)                                                  H   
+126BAX L XREF=B                                                                 
+126BA  G 452          38     15                                                 
+126BA  G 862         100     15Q                                                
+126BA  L     5725.215(16)                                                   M   
+126BAX L XREF=B                                                                 
+126BA  G 327         100     29D                                                
+126BA  G 603          57     29                                                 
+126BA  L    5806.392217-               0.3 PS    1                          E   
+126BAX L XREF=B                                                                 
+126BA cL T         from 1989Sc06.                                               
+126BA  G  906.1     1100       E2                                               
+126BA  L     6042.5 417                                                     K   
+126BAX L XREF=B                                                                 
+126BA  G  797.5     4 50     20                                                 
+126BA  G  842.9     4100     20Q                                                
+126BA  L     6098.216                                                       N   
+126BAX L XREF=B                                                                 
+126BA  G 373         100     50                                                 
+126BA  G 700          75     25                                                 
+126BA  L     6182.811                                                       G   
+126BAX L XREF=B                                                                 
+126BA  G 475          62     18                                                 
+126BA  G 927         100     50                                                 
+126BA  L     6195.2 618+               0.5 PS    LT                         I   
+126BAX L XREF=B                                                                 
+126BA cL           From 1998Li16. Value is not corrected for feeding            
+126BA  G  950.8     5100       E2                                               
+126BAB G BE2W>39                                                                
+126BA  L     6415.611                                                       J   
+126BAX L XREF=B                                                                 
+126BA  G 906         100                                                        
+126BA  L     6513.216                                                       M   
+126BAX L XREF=B                                                                 
+126BA  G 415          83     17                                                 
+126BA  G 788         100     33                                                 
+126BA  L     6530.616                                                       B   
+126BAX L XREF=B                                                                 
+126BA  G 880         100                                                        
+126BA  L     6585.512                                                       F   
+126BAX L XREF=B                                                                 
+126BA  G 923         100       Q                                                
+126BA  L     6700.714                                                       H   
+126BAX L XREF=B                                                                 
+126BA  G 993         100                                                        
+126BA  L     6721.6 319(-)                                                  E   
+126BAX L XREF=B                                                                 
+126BA  G  915.2    2 100       Q                                            &   
+126BA  L     6968.217                                                       N   
+126BAX L XREF=B                                                                 
+126BA  G 455                                                                V   
+126BA  G 870         100     50                                                 
+126BA  L     6995.9 8                                                       K   
+126BAX L XREF=B                                                                 
+126BA  G 802         100     40                                                 
+126BA  G 952         1.2E2   20                                                 
+126BA cG RI        |DI|g=200                                                    
+126BA  L     7183.21220(+)                                                  I   
+126BAX L XREF=B                                                                 
+126BA  G 988         100       Q                                                
+126BA  L     7387.615                                                       J   
+126BAX L XREF=B                                                                 
+126BA  G 972         100                                                        
+126BA  L     7461.219                                                       M   
+126BAX L XREF=B                                                                 
+126BA  G 948         100                                                        
+126BA  L     7636.8 421(-)                                                  E   
+126BAX L XREF=B                                                                 
+126BA  G  915.2     2100       Q                                            &   
+126BA  L     8145.21522(+)                                                  I   
+126BAX L XREF=B                                                                 
+126BA  G 962         100       Q                                                
+126BA  L     8388.618                                                       J   
+126BAX L XREF=B                                                                 
+126BA  G 1001        100                                                        
+126BA  L     8621.81123(-)                                                  E   
+126BAX L XREF=B                                                                 
+126BA  G 985         100       Q                                                
+126BA  L     9202.218                                                       I   
+126BAX L XREF=B                                                                 
+126BA  G 1057        100                                                        
+126BA  L     9700.815                                                       E   
+126BAX L XREF=B                                                                 
+126BA  G 1079        100                                                        
+126BA  L    10308.221                                                       I   
+126BAX L XREF=B                                                                 
+126BA  G 1106        100                                                        
+126BA  L    10872.818                                                       E   
+126BAX L XREF=B                                                                 
+126BA  G 1172        100                                                        
+126BA  L    11475.223                                                       I   
+126BAX L XREF=B                                                                 
+126BA  G 1167        100                                                        
+126BA  L    12132.821                                                       E   
+126BAX L XREF=B                                                                 
+126BA  G 1260        100                                                        
+126BA  L      12718 3                                                       I   
+126BAX L XREF=B                                                                 
+126BA  G 1243        100                                                        
+126BA  L    13469.823                                                       E   
+126BAX L XREF=B                                                                 
+126BA  G 1337        100                                                        
+126BA  L      14041 3                                                       I   
+126BAX L XREF=B                                                                 
+126BA  G 1323        100                                                        
+126BA  L    14878.825                                                       E   
+126BAX L XREF=B                                                                 
+126BA  G 1409        100                                                        
+126BA  L      15434 3                                                       I   
+126BAX L XREF=B                                                                 
+126BA  G 1393        100                                                        
+126BA  L      16895 3                                                       I   
+126BAX L XREF=B                                                                 
+126BA  G 1461        100                                                        
+126BA  L X+0.0       (13)                                                   O   
+126BA DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+126BAX L XREF=B                                                                 
+126BA cL E         this level possibly decays to 4074, 3888 and 3748 levels     
+126BA2cL (1991Wa20).                                                            
+126BA  L    180.0+X10(14)                                                   P   
+126BAX L XREF=B                                                                 
+126BA cL E         this level possibly decays to 4074, 3888 and 3748 levels     
+126BA2cL (1991Wa20).                                                            
+126BA  G 180         100                                                        
+126BA  L    425.0+X13(15)                                                   O   
+126BAX L XREF=B                                                                 
+126BA  G 245         100                                                        
+126BA  L    693.0+X13(16)                                                   P   
+126BAX L XREF=B                                                                 
+126BA  G 268         100     33D                                                
+126BA  G 513         50      17                                                 
+126BA  L   1012.0+X14(17)                                                   O   
+126BAX L XREF=B                                                                 
+126BA  G 319         100     23D                                                
+126BA  G 587          38     23                                                 
+126BA  L   1377.0+X15(18)                                                   P   
+126BAX L XREF=B                                                                 
+126BA  G 365         100     50                                                 
+126BA  G 684          50     13                                                 
+126BA  L   1773.0+X16(19)                                                   O   
+126BAX L XREF=B                                                                 
+126BA  G 396         100     40                                                 
+126BA  G 761          80     40                                                 
+126BA  L   2206.0+X16(20)                                                   P   
+126BAX L XREF=B                                                                 
+126BA  G 433         100     50                                                 
+126BA  G 829          50     25                                                 
+
