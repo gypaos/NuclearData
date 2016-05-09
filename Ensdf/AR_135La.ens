@@ -1,0 +1,646 @@
+135LA    ADOPTED LEVELS, GAMMAS                                  08NDS    200803
+135LA  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
+135LA2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
+135LA  Q -2026     5  9503   22 4990   10 -1016  11    2003AU03                 
+135LA c  Nuclear structure calculations: 1987Al21 (levels, transition rates,    
+135LA2c  magnetic moment, Q, IBF model), 1986Do17 and 1985Do05 (levels, B(M1)), 
+135LA2c  1975Ku11 (B(E2) rates), 1974De54 (levels), 1971De49 (levels, magnetic  
+135LA3c  moment, Q, transition rates), 1969Fr17 (levels, magnetic moment, Q,    
+135LA4c  transition rates)                                                      
+135LA d  Other theory references: 2007Ji14, 1988Fe11, 1981Ik01, 1976Li28        
+135LA D  CROSS SECTION IN 128TE(12C,^X): 2003Sh21, 2000Bh06                     
+135LA cG E,RI$ From either {+135}Ce |e decay or {+128}Te({+11}B,4n|g),          
+135LA2cG {+133}Cs(|a,2n|g). Most levels are populated independently in the      
+135LA3cG two datasets, low spins in |e decay and high spins in ({+11}B,4n|g).   
+135LA4cG Exceptions are noted.                                                  
+135LA cG M$ For |g rays from low-spin levels, the assignments are from          
+135LA2cG ce data in {+135}Ce |e decay. The mult=Q and D are from DCO ratios     
+135LA3cG in {+128}Te({+11}B,4n|g),{+133}Cs(|a,2n|g), mult=Q corresponds to      
+135LA4cG |DJ=2, quadrupole and mult=D to |DJ=1, dipole (with possible           
+135LA5cG quadrupole admixture for |D|p=no). The mult=Q most likely corresponds  
+135LA6cG to E2 transition                                                       
+135LA cG MR$ From ce data in {+135}La |e decay                                  
+135LA cG E(A)$From level energy difference                                      
+135LA cL E$ From least-squares fit to E|g's, normalized |h{+2}=0.91             
+135LA cL J$For levels from {+128}Te({+11}B,4n|g),{+133}Cs(|a,2n|g), above 2     
+135LA2cL MeV, the assignments are essentially from 1990XuZW, based on           
+135LA3cL |g|g(|q)(DCO) data and possible band assignments. In J|p arguments,    
+135LA4cL |DJ=(2) statement refers to stretched quadrupole transition and |DJ=1  
+135LA5cL to stretched dipole (with possible quadrupole admixture) transition    
+135LA cL T$From |g|g(t) in {+135}Ce |e decay, unless otherwise stated           
+135LA CL BAND(A)$ d{-5/2} BAND.                                                 
+135LA2cL VMI analysis: parameter |D=10 keV                                      
+135LA CL BAND(B)$ g{-7/2} BAND.                                                 
+135LA2cL VMI analysis: parameter |D=7 keV                                       
+135LA CL BAND(C)$ h{-11/2} BAND, ALPHA=-1/2.                                    
+135LA2cL VMI analysis: parameter |D=69 keV, 119 keV for                         
+135LA3cL both signatures combined                                               
+135LA CL BAND(D)$ h{-11/2} BAND, ALPHA=+1/2.                                    
+135LA2cL VMI analysis: parameter |D=1 keV                                       
+135LA CL BAND(E)$ BAND 1.                                                       
+135LA2cL VMI analysis: parameter |D=77 keV                                      
+135LA CL BAND(F)$ BAND 2.                                                       
+135LA2cL VMI analysis: parameter |D=54 keV                                      
+135LA CL BAND(G)$ BAND 3.                                                       
+135LA2cL VMI analysis: parameter |D=67 keV                                      
+135LA  XA135CE EC DECAY (17.7 H)                                                
+135LA  XB128TE(11B,4NG),133CS(A,2NG)                                            
+135LA  XD134BA(P,P) IAR                                                         
+135LA  XC134BA(3HE,D),(A,T)                                                     
+135LA PN                                                                     6  
+135LA  L 0.0          5/2+             19.5 H    2                          A   
+135LA2 L %EC+%B+=100$                                                           
+135LA2 L MOMM1=+3.70 9 (2003Ii03)                                               
+135LA2 L MOME2=-0.4 4 (2003Ii03)                                                
+135LAX L XREF=ABC$                                                              
+135LA cL J$spin from atomic beam (1973In04); parity from log| {Ift}=5.66 to 3/2+
+135LA2cL g.s. in {+135}Ba.                                                      
+135LA cL MOMM1,MOME2$collinear laser spectroscopy on an ionic beam              
+135LA cL           Probable configuration=d{-5/2}                               
+135LA cL T$weighted average of 19.4 h {I1} (1965Mo05) and 19.8 h {I2}           
+135LA2cL (1958Mi88). Others: 19.7 h (1960La07), 19.5 h (1948Ch03), 17.5 h {I5}  
+135LAxcL (1943We02), 1950Na09                                                   
+135LA  L 119.533   14 7/2+             4.0 NS    1                          B   
+135LAX L XREF=ABC$                                                              
+135LA cL J$M1+E2 |g to 5/2+; |DJ=1 |g from 9/2+.                                
+135LA cL           Probable configuration=g{-7/2}                               
+135LA  G 119.52    2  100      M1+E2     0.22    1     0.670                    
+135LAB G BM1W=0.00183 6 $ BE2W=3.9 4                                            
+135LAS G KC=0.563 8$LC=0.0845 15$MC=0.0177 3$NC+=0.00454 8                      
+135LAS G NC=0.00388 7$OC=0.000619 11$PC=4.32E-5 6                               
+135LA cG E$from {+135}Ce |e decay                                               
+135LA  L 206.503   10 5/2+             0.52 NS   3                              
+135LAX L XREF=A$                                                                
+135LA cL J$M1+E2 |g to 7/2+; M1+E2 |g's from 3/2+                               
+135LA  G 86.97     3  5.38   16M1+E2     0.53    3     1.98   5                 
+135LAB G BM1W=0.0021 2 $ BE2W=48 6                                              
+135LAS G KC=1.476 23$LC=0.395 20$MC=0.086 5$NC+=0.0212 11                       
+135LAS G NC=0.0184 9$OC=0.00274 13$PC=0.0001049 15                              
+135LA cG           Penetration parameter |l(M1)=14.5 {I55} (1975Mo12)           
+135LA  G 206.50    2  100    3 M1+E2     +0.30   4     0.1446                   
+135LAB G BM1W=0.0034 3 $ BE2W=4.4 12                                            
+135LAS G KC=0.1226 18$LC=0.0174 4$MC=0.00363 8$NC+=0.000933 19                  
+135LAS G NC=0.000796 17$OC=0.0001280 25$PC=9.36E-6 14                           
+135LA  L 265.546   10 3/2+             0.08 NS   LT                             
+135LAX L XREF=A$                                                                
+135LA cL J$M1+E2 |g to 5/2+; M1(+E2) |g from 1/2+                               
+135LA  G 59.038    20 0.20   1 M1+E2     0.19    4     5.25   16                
+135LAB G BM1W>0.0025 $ BE2W>9                                                   
+135LAS G KC=4.24 6$LC=0.80 10$MC=0.169 22$NC+=0.043 6                           
+135LAS G NC=0.037 5$OC=0.0057 7$PC=0.000327 5                                   
+135LA  G 145.97    4  0.2    AP(E2)                    0.525                    
+135LAB G BE2W>4.7                                                               
+135LAS G KC=0.375 6$LC=0.1177 17$MC=0.0257 4$NC+=0.00630 9                      
+135LAS G NC=0.00548 8$OC=0.000799 12$PC=2.19E-5 3                               
+135LA  G 265.56    2  100    3 M1+E2     +0.32   3     0.0726                   
+135LAB G BM1W>0.013 $ BE2W>10                                                   
+135LAS G KC=0.0618 9$LC=0.00854 13$MC=0.00178 3$NC+=0.000458 7                  
+135LAS G NC=0.000390 6$OC=6.30E-5 10$PC=4.72E-6 7                               
+135LA  L 300.052   10 1/2+             0.08 NS   LT                             
+135LAX L XREF=A$                                                                
+135LA cL J$(572|g)(300|g)(|q) is isotropic; E2 |g to 5/2+                       
+135LA  G 34.508    17 6.9    5 M1(+E2)   0.013   13    3.55   8                 
+135LAB G BM1W>0.33 $ BE2W>3.2                                                   
+135LAS G LC=2.81 6$MC=0.585 14$NC+=0.151 4                                      
+135LAS G NC=0.129 3$OC=0.0208 5$PC=0.001593 23                                  
+135LA  G 93.5         0.007  3 [E2]                    2.53                 A   
+135LAB G BE2W>1.2                                                               
+135LAS G KC=1.483 21$LC=0.819 12$MC=0.181 3$NC+=0.0440 7                        
+135LAS G NC=0.0384 6$OC=0.00545 8$PC=7.90E-5 11                                 
+135LA  G 300.07    2  100    2 E2                      0.0469                   
+135LAB G BE2W>52                                                                
+135LAS G KC=0.0379 6$LC=0.00710 10$MC=0.001512 22$NC+=0.000379 6                
+135LAS G NC=0.000327 5$OC=5.00E-5 7$PC=2.53E-6 4                                
+135LA  L 583.48    14 9/2+                                                  A   
+135LAX L XREF=AB$                                                               
+135LA cL J$|DJ=1 |g to 7/2+; E1 |g from 11/2-                                   
+135LA  G 464.1     2   9.4   6  D+Q                                             
+135LA cG E,RI$from (HI,xn|g)                                                    
+135LA  G 583.2     2  100       (Q)                                             
+135LA cG E,RI$from (HI,xn|g)                                                    
+135LA  L 604.563   13 3/2+,5/2+                                                 
+135LAX L XREF=A$                                                                
+135LA cL J$M1,E2 |g's to 1/2+ and 7/2+                                          
+135LA  G 304.58    4  2.24   15 M1,E2                  0.048  4                 
+135LAS G KC=0.040 4$LC=0.0062 5$MC=0.00131 13$NC+=0.00033 3                     
+135LAS G NC=0.000286 24$OC=4.51E-5 25$PC=2.9E-6 5                               
+135LA  G 339.1        0.9    3                                              A  ?
+135LA  G 398.05    5  17.8   6 M1(+E2)   1.5     LT    0.0235 20                
+135LAS G KC=0.0199 20$LC=0.00280 7$MC=0.000585 11$NC+=0.000150 4                
+135LAS G NC=0.000128 3$OC=2.06E-5 8$PC=1.49E-6 19                               
+135LA  G 485.02    6  7.5    8 M1,E2                   0.0133 22                
+135LAS G KC=0.0113 20$LC=0.00159 14$MC=0.00033 3$NC+=8.5E-5 8                   
+135LAS G NC=7.2E-5 6$OC=1.16E-5 12$PC=8.4E-7 18                                 
+135LA  G 604.56    3  100    5 M1,E2                   0.0076 14                
+135LAS G KC=0.0065 13$LC=0.00088 12$MC=0.000183 23$NC+=4.7E-5 7                 
+135LAS G NC=4.0E-5 5$OC=6.5E-6 9$PC=4.8E-7 11                                   
+135LA  L 665.556   17 5/2+                                                      
+135LAX L XREF=A$                                                                
+135LA cL J$M1(+E2) |g to 7/2+; M1+E2 |g from 3/2+                               
+135LA  G 60.9         1.7    4  E2(+M1)   0.6    GT    9      3             A   
+135LAS G KC=4.3 3$LC=4.0 20$MC=0.9 5$NC+=0.21 11                                
+135LAS G NC=0.19 10$OC=0.026 13$PC=0.000260 25                                  
+135LA  G 365.3        4.5    20                                             A  ?
+135LA  G 400.02    8  49     2 E2(+M1)   1       GT    0.0209 15                
+135LAS G KC=0.0175 14$LC=0.00270 6$MC=0.000568 10$NC+=0.000144 3                
+135LAS G NC=0.0001237 24$OC=1.95E-5 6$PC=1.25E-6 14                             
+135LA  G 459.08    4  18.0   19M1,E2                   0.0154 24                
+135LAS G KC=0.0131 22$LC=0.00185 14$MC=0.000386 25$NC+=9.9E-5 8                 
+135LAS G NC=8.4E-5 6$OC=1.35E-5 12$PC=9.7E-7 20                                 
+135LA  G 546.00    3  100    4 M1(+E2)   0.35    LT    0.0113125                
+135LAS G KC=0.00971 22$LC=0.001265 23$MC=0.000262 5$NC+=6.77E-5 13              
+135LAS G NC=5.76E-5 11$OC=9.39E-6 18$PC=7.41E-7 18                              
+135LA  G 665.6        32     6 M1,E2                   0.0060 11            A   
+135LAS G KC=0.0051 10$LC=0.00069 10$MC=0.000143 20$NC+=3.7E-5 6                 
+135LAS G NC=3.1E-5 5$OC=5.1E-6 8$PC=3.8E-7 9                                    
+135LA  L 712.35    9  (3/2-,5/2-)                                              ?
+135LAX L XREF=A$                                                                
+135LA cL J$(E1) |g from 3/2+; |g to 5/2+                                        
+135LA  G 712.35    9  100                                                       
+135LA  L 715.9     2 (11/2+)                                                B   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=(2) |g to 7/2+                                                   
+135LA  G 596.5     2  100       (Q)                                             
+135LA  L 783.600   11 3/2+                                                      
+135LAX L XREF=A$                                                                
+135LA cL J$M1+E2 |g to 5/2+; M1(+E2) |g to 1/2+                                 
+135LA  G 118.03    2  2.76   15M1+E2     0.27    5     0.704  15                
+135LAS G KC=0.587 10$LC=0.093 6$MC=0.0195 13$NC+=0.0050 3                       
+135LAS G NC=0.0042 3$OC=0.00067 4$PC=4.47E-5 7                                  
+135LA  G 179.05    4  0.22   3 M1,E2                   0.235  25                
+135LAS G KC=0.188 8$LC=0.037 14$MC=0.008 3$NC+=0.0020 7                         
+135LAS G NC=0.0017 7$OC=0.00026 9$PC=1.30E-5 11                                 
+135LA  G 483.58    3  13.7   4 M1(+E2)   0.4     LT    0.0153 4                 
+135LAS G KC=0.0131 4$LC=0.00172 3$MC=0.000356 7$NC+=9.20E-5 17                  
+135LAS G NC=7.82E-5 14$OC=1.274E-5 24$PC=1.00E-6 3                              
+135LA  G 518.05    2  100    4 M1+E2     +0.46   3     0.0124419                
+135LAS G KC=0.01066 17$LC=0.001413 21$MC=0.000293 5$NC+=7.56E-5 11              
+135LAS G NC=6.44E-5 10$OC=1.046E-5 16$PC=8.08E-7 13                             
+135LA  G 577.09    2  37.7   12M1+E2     -0.30   1     0.00978                  
+135LAS G KC=0.00840 12$LC=0.001094 16$MC=0.000227 4$NC+=5.86E-5 9               
+135LAS G NC=4.98E-5 7$OC=8.12E-6 12$PC=6.39E-7 9                                
+135LA  G 663.8     2  0.64   15(E2)                    0.00492                  
+135LAS G KC=0.00417 6$LC=0.000595 9$MC=0.0001243 18$NC+=3.18E-5 5               
+135LAS G NC=2.71E-5 4$OC=4.33E-6 6$PC=3.01E-7 5                                 
+135LA  G 783.59    2  78     3 M1(+E2)   0.25    LT    0.004748                 
+135LAS G KC=0.00408 7$LC=0.000523 9$MC=0.0001080 18$NC+=2.80E-5 5               
+135LAS G NC=2.38E-5 4$OC=3.88E-6 7$PC=3.10E-7 6                                 
+135LA  L 785.7     2  11/2-              20 NS   LT                         C   
+135LAX L XREF=ABC$                                                              
+135LA cL J$L=5 from |s(|a,t)/|s({+3}He,d); |DJ=1, E1 |g to 9/2+                 
+135LA cL           Probable configuration=|ph{-11/2}                            
+135LA cL T$|g(t) in {+128}Te({+11}B,4n|g),{+133}Cs(|a,2n|g) (1973Le09)          
+135LA  G 202.1     2  100      E1                      0.0339                   
+135LAB G BE1W>1.5E-6                                                            
+135LAS G KC=0.0291 5$LC=0.00382 6$MC=0.000790 12$NC+=0.000201 3                 
+135LAS G NC=0.0001721 25$OC=2.75E-5 4$PC=1.93E-6 3                              
+135LA cG E,RI$from (HI,xn|g)                                                    
+135LA  L 828.373   13 3/2+                                                      
+135LAX L XREF=A$                                                                
+135LA cL J$M1 |g to 1/2+ and M1(+E2) |g to 5/2+                                 
+135LA  G 115.7     2  0.42   6 (E1)                    0.1571                  ?
+135LAS G KC=0.1342 20$LC=0.0182 3$MC=0.00377 6$NC+=0.000953 15                  
+135LAS G NC=0.000816 13$OC=0.0001284 19$PC=8.36E-6 13                           
+135LA  G 162.5     2  0.49   8  M1,E2                  0.32   5                 
+135LAS G KC=0.251 16$LC=0.054 22$MC=0.011 5$NC+=0.0029 12                       
+135LAS G NC=0.0025 11$OC=0.00038 14$PC=1.71E-5 13                               
+135LA  G 223.8        0.4    AP                                             A   
+135LA  G 528.35    3  2.44   16M1                      0.01247                  
+135LAS G KC=0.01072 15$LC=0.001389 20$MC=0.000287 4$NC+=7.44E-5 11              
+135LAS G NC=6.32E-5 9$OC=1.032E-5 15$PC=8.20E-7 12                              
+135LA  G 562.79    4  2.9    3 M1,E2                   0.0091 16                
+135LAS G KC=0.0077 15$LC=0.00106 13$MC=0.000221 25$NC+=5.7E-5 7                 
+135LAS G NC=4.8E-5 6$OC=7.8E-6 11$PC=5.8E-7 13                                  
+135LA  G 621.85    2  7.6    5 M1(+E2)   1.2     LT    0.0076 8                 
+135LAS G KC=0.0065 7$LC=0.00086 7$MC=0.000179 13$NC+=4.6E-5 4                   
+135LAS G NC=3.9E-5 3$OC=6.4E-6 6$PC=4.9E-7 6                                    
+135LA  G 828.38    2  100    3 M1(+E2)   0.4     LT    0.0041011                
+135LAS G KC=0.00353 10$LC=0.000452 11$MC=9.35E-5 22$NC+=2.42E-5 6               
+135LAS G NC=2.06E-5 5$OC=3.36E-6 8$PC=2.68E-7 8                                 
+135LA  L 872.312   13 (1/2)+                                                    
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=6.1 from 1/2(+); E2 |g to 5/2+; (607|g)(266|g)(|q)        
+135LA  G 43.9         0.20   2 M1+E2     0.13    3     12.2   4             A   
+135LAS G KC=9.91 14$LC=1.83 23$MC=0.39 6$NC+=0.098 13                           
+135LAS G NC=0.084 11$OC=0.0131 15$PC=0.000779 12                                
+135LA  G 88.71     2  3.09   9 M1+E2     0.07    3     1.531  23                
+135LAS G KC=1.303 19$LC=0.181 5$MC=0.0377 11$NC+=0.0097 3                       
+135LAS G NC=0.00827 24$OC=0.00134 4$PC=0.0001014 15                             
+135LA  G 267.76    3  3.3    2 E2(+M1)   1.3     GT    0.0683 12                
+135LAS G KC=0.0553 16$LC=0.0102 5$MC=0.00218 12$NC+=0.00055 3                   
+135LAS G NC=0.000471 24$OC=7.2E-5 3$PC=3.76E-6 23                               
+135LA  G 572.26    2  55     2 M1                      0.01024                  
+135LAS G KC=0.00880 13$LC=0.001137 16$MC=0.000235 4$NC+=6.09E-5 9               
+135LAS G NC=5.18E-5 8$OC=8.45E-6 12$PC=6.72E-7 10                               
+135LA cG M$ce data give |d(E2/M1)<0.6, but |DJ|p requires M1                    
+135LA  G 606.76    2  100    3 M1+E2     -0.37   2     0.0085413                
+135LAS G KC=0.00734 11$LC=0.000957 14$MC=0.000198 3$NC+=5.12E-5 8               
+135LAS G NC=4.35E-5 7$OC=7.09E-6 11$PC=5.57E-7 9                                
+135LA  G 665.79    6  16.0   11E2                      0.00489                  
+135LAS G KC=0.00414 6$LC=0.000591 9$MC=0.0001233 18$NC+=3.15E-5 5               
+135LAS G NC=2.69E-5 4$OC=4.30E-6 6$PC=2.99E-7 5                                 
+135LA  L 984.359   14 3/2+                                                      
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=7.1 from 1/2(+); M1+E2 |g to 5/2+                         
+135LA  G 112.0        0.6    2                                              A   
+135LA  G 156.0        0.6    APM1,E2                   0.36   6             A   
+135LAS G KC=0.284 20$LC=0.06 3$MC=0.013 6$NC+=0.0033 15                         
+135LAS G NC=0.0029 13$OC=0.00044 18$PC=1.93E-5 14                               
+135LA  G 200.76    4  3.1    3 (M1,E2)                 0.165  11                
+135LAS G KC=0.1336 23$LC=0.025 8$MC=0.0053 17$NC+=0.0013 4                      
+135LAS G NC=0.0011 4$OC=0.00018 5$PC=9.3E-6 10                                  
+135LA  G 318.82    8  2.2    3                                                  
+135LA  G 379.79    3  100    3 M1(+E2)   0.7     LT    0.0277 11                
+135LAS G KC=0.0236 11$LC=0.00321 5$MC=0.000668 10$NC+=0.000172 3                
+135LAS G NC=0.0001466 21$OC=2.37E-5 4$PC=1.79E-6 11                             
+135LA  G 684.33    3  25     2 M1(+E2)   1       LT    0.0061 6                 
+135LAS G KC=0.0052 5$LC=0.00069 5$MC=0.000142 10$NC+=3.7E-5 3                   
+135LAS G NC=3.12E-5 21$OC=5.1E-6 4$PC=4.0E-7 4                                  
+135LA  G 718.82    3  24     2 M1+E2     +0.18   5     0.00582                  
+135LAS G KC=0.00501 8$LC=0.000644 10$MC=0.0001331 20$NC+=3.44E-5 6              
+135LAS G NC=2.93E-5 5$OC=4.78E-6 8$PC=3.81E-7 6                                 
+135LA  G 777.89    3  23.5   14M1+E2     0.9     +13-6 0.0042 6                 
+135LAS G KC=0.0036 5$LC=0.00047 6$MC=9.8E-5 11$NC+=2.5E-5 3                     
+135LAS G NC=2.15E-5 25$OC=3.5E-6 5$PC=2.7E-7 5                                  
+135LA  G 984.30    3  5.4    6 E2(+M1)   2.5     GT    0.002037                 
+135LAS G KC=0.00174 6$LC=0.000231 7$MC=4.78E-5 14$NC+=1.23E-5 4                 
+135LAS G NC=1.05E-5 3$OC=1.70E-6 5$PC=1.28E-7 5                                 
+135LA  L 993.43    6  1/2+,3/2+,5/2+                                            
+135LAX L XREF=A$                                                                
+135LA cL J$M1,E2 |g from 3/2+ and |g to 1/2+                                    
+135LA  G 281          7      AP                                             A  ?
+135LA  G 693.4        13     AP                                             A   
+135LA  G 727.9        100    AP(M1,E2)                 0.0048 9             A   
+135LAS G KC=0.0041 8$LC=0.00055 9$MC=0.000114 17$NC+=2.9E-5 5                   
+135LAS G NC=2.5E-5 4$OC=4.0E-6 7$PC=3.1E-7 7                                    
+135LA  G 993.4        20     AP                                             A   
+135LA  L 1038.52   2  3/2+,5/2+                                                 
+135LAX L XREF=A$                                                                
+135LA cL J$M1 |g to 5/2+; |g to 1/2+                                            
+135LA  G 210.2        10     AP                                             A   
+135LA  G 326.2        10     AP                                             A   
+135LA  G 434.0        7      AP                                             A   
+135LA  G 738.46    6  31     3 (M1,E2)                 0.0047 9                 
+135LAS G KC=0.0040 8$LC=0.00053 8$MC=0.000110 16$NC+=2.8E-5 5                   
+135LAS G NC=2.4E-5 4$OC=3.9E-6 7$PC=3.0E-7 7                                    
+135LA  G 773.0        100    13(M1,E2)                 0.0042 8             A   
+135LAS G KC=0.0036 7$LC=0.00047 8$MC=9.8E-5 15$NC+=2.5E-5 4                     
+135LAS G NC=2.2E-5 4$OC=3.5E-6 6$PC=2.7E-7 6                                    
+135LA  G 832.1     2  29     10                                             A   
+135LA  G 1038.48   4  39     7 M1                      0.00247                  
+135LAS G KC=0.00213 3$LC=0.000270 4$MC=5.57E-5 8$NC+=1.443E-5 21                
+135LAS G NC=1.226E-5 18$OC=2.01E-6 3$PC=1.611E-7 23                             
+135LA  L 1171.417  11 3/2+                                                      
+135LAX L XREF=A$                                                                
+135LA cL J$M1(+E2) |g to 1/2+; (E2) |g to 7/2+                                  
+135LA  G 132.88    3  3.4    4 M1                      0.484                    
+135LAS G KC=0.413 6$LC=0.0558 8$MC=0.01159 17$NC+=0.00299 5                     
+135LAS G NC=0.00255 4$OC=0.000414 6$PC=3.22E-5 5                                
+135LA  G 177.99    6  1.8    1  M1,E2                  0.24   3                 
+135LAS G KC=0.191 8$LC=0.038 14$MC=0.008 3$NC+=0.0021 8                         
+135LAS G NC=0.0018 7$OC=0.00027 9$PC=1.32E-5 12                                 
+135LA  G 187.21    9  0.63   13M1,E2                   0.205  18                
+135LAS G KC=0.164 5$LC=0.032 11$MC=0.0068 24$NC+=0.0017 6                       
+135LAS G NC=0.0015 5$OC=0.00023 7$PC=1.14E-5 11                                 
+135LA  G 299.11    3  38     4 M1,E2                   0.050  3                 
+135LAS G KC=0.042 4$LC=0.0066 6$MC=0.00139 14$NC+=0.00035 3                     
+135LAS G NC=0.00030 3$OC=4.8E-5 3$PC=3.0E-6 5                                   
+135LA  G 343.01    4  3.2    3 M1(+E2)   1.8     LT    0.0348 25                
+135LAS G KC=0.029 3$LC=0.00430 11$MC=0.00090 3$NC+=0.000230 6                   
+135LAS G NC=0.000197 6$OC=3.14E-5 5$PC=2.2E-6 3                                 
+135LA  G 387.81    3  18.3   4 M1(+E2)   0.3     LT    0.0269 5                 
+135LAS G KC=0.0231 4$LC=0.00305 5$MC=0.000633 9$NC+=0.0001634 23                
+135LAS G NC=0.0001390 20$OC=2.26E-5 4$PC=1.77E-6 4                              
+135LA  G 459.1        0.4    AP                                             A   
+135LA  G 505.92    8  1.59   13(M1)                    0.01389                  
+135LAS G KC=0.01193 17$LC=0.001549 22$MC=0.000321 5$NC+=8.29E-5 12              
+135LAS G NC=7.05E-5 10$OC=1.151E-5 17$PC=9.13E-7 13                             
+135LA  G 566.87    2  18.4   8 M1(+E2)   1       LT    0.0097 8                 
+135LAS G KC=0.0083 8$LC=0.00110 7$MC=0.000229 13$NC+=5.9E-5 4                   
+135LAS G NC=5.0E-5 3$OC=8.2E-6 6$PC=6.3E-7 7                                    
+135LA  G 871.35    2  100    4 M1(+E2)   1.3     LT    0.0034 4                 
+135LAS G KC=0.0029 4$LC=0.00037 4$MC=7.7E-5 7$NC+=2.00E-5 19                    
+135LAS G NC=1.70E-5 16$OC=2.8E-6 3$PC=2.2E-7 3                                  
+135LA  G 905.87    2  38.5   13M1(+E2)   -0.04   2     0.00339                  
+135LAS G KC=0.00292 4$LC=0.000372 6$MC=7.69E-5 11$NC+=1.99E-5 3                 
+135LAS G NC=1.692E-5 24$OC=2.77E-6 4$PC=2.22E-7 4                               
+135LA  G 964.89    3  7.9    4 E2(+M1)   2       GT    0.0021510                
+135LAS G KC=0.00184 8$LC=0.000244 10$MC=5.06E-5 19$NC+=1.30E-5 5                
+135LAS G NC=1.11E-5 5$OC=1.80E-6 7$PC=1.36E-7 7                                 
+135LA  G 1051.90   3  1.6    2 (E2)                    1.72E-3                  
+135LAS G KC=0.001471 21$LC=0.000194 3$MC=4.01E-5 6$NC+=1.033E-5 15              
+135LAS G NC=8.80E-6 13$OC=1.425E-6 20$PC=1.077E-7 15                            
+135LA  G 1171.42   3  4.7    2 M1,E2                   0.0016 3                 
+135LAS G KC=0.00140 22$LC=0.00018 3$MC=3.7E-5 6$NC+=1.29E-5 14                  
+135LAS G NC=8.1E-6 12$OC=1.32E-6 20$PC=1.04E-7 18$IPC=3.36E-6 7                 
+135LA  L 1377.7    3 (15/2-)                                                C   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=(2) |g to 11/2-                                                  
+135LA  G 591.9     2  100       (Q)                                             
+135LA  L 1385.5    3  (13/2+)                                               A   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=(2) |g to 9/2+                                                   
+135LA  G 802.0     2  100       (Q)                                             
+135LA  L 1437.2    3 (13/2-)                                                D   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=1 |g to 11/2-                                                    
+135LA  G 651.4     2  100       D+Q                                             
+135LA  L 1439.484  18 3/2+                                                      
+135LAX L XREF=A$                                                                
+135LA cL J$M1(+E2) |g's to 5/2+; M1(+E2) |g to 1/2+                             
+135LA  G 401.0        4      AP M1,E2                  0.022  3             A   
+135LAS G KC=0.019 3$LC=0.00272 9$MC=0.000569 14$NC+=0.000146 5                  
+135LAS G NC=0.000124 4$OC=1.99E-5 11$PC=1.4E-6 3                                
+135LA  G 611.2     2  10     4                                                  
+135LA  G 655.9        2      AP                                             A   
+135LA  G 727.1        4      AP                                             A   
+135LA  G 773.9        100    12(M1,E2)                 0.0042 8             A   
+135LAS G KC=0.0036 7$LC=0.00047 8$MC=9.8E-5 15$NC+=2.5E-5 4                     
+135LAS G NC=2.1E-5 4$OC=3.5E-6 6$PC=2.7E-7 6                                    
+135LA  G 834.90    4  50     8                                                  
+135LA  G 1139.43   3  40     4 M1(+E2)   1       LT    0.0018614                
+135LAS G KC=0.00160 12$LC=0.000204 14$MC=4.2E-5 3$NC+=1.23E-5 8                 
+135LAS G NC=9.3E-6 7$OC=1.51E-6 11$PC=1.20E-7 10$IPC=1.417E-6 23                
+135LA  G 1173.92   3  85     6 M1(+E2)   1       LT    0.0017413                
+135LAS G KC=0.00150 12$LC=0.000190 13$MC=3.9E-5 3$NC+=1.37E-5 7                 
+135LAS G NC=8.6E-6 6$OC=1.41E-6 10$PC=1.13E-7 9$IPC=3.54E-6 6                   
+135LA  G 1232.98   3  44     4 M1(+E2)   1.5     LT    0.0015316                
+135LAS G KC=0.00131 14$LC=0.000166 16$MC=3.4E-5 4$NC+=1.92E-5 8                 
+135LAS G NC=7.5E-6 7$OC=1.23E-6 12$PC=9.8E-8 11$IPC=1.031E-5 17                 
+135LA  G 1439.57   8  27     2 E2(+M1)   1       GT    0.001037                 
+135LAS G KC=0.00084 6$LC=0.000106 8$MC=2.20E-5 15$NC+=6.36E-5 10                
+135LAS G NC=4.8E-6 4$OC=7.9E-7 6$PC=6.2E-8 5$IPC=5.80E-5 9                      
+135LA  L 1449.635  17 1/2+,3/2+                                                 
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=6.7 from 1/2(+); M1+E2 |g to 3/2+                         
+135LA  G 465.2     2  8.5    19 E2(+M1)  1.5     GT    0.0133 8                 
+135LAS G KC=0.0112 7$LC=0.00169 5$MC=0.000355 9$NC+=9.0E-5 3                    
+135LAS G NC=7.74E-5 21$OC=1.22E-5 4$PC=8.0E-7 6                                 
+135LA  G 577.3        4.6    20M1,E2                   0.0085 15            A  ?
+135LAS G KC=0.0073 14$LC=0.00099 12$MC=0.000207 24$NC+=5.3E-5 7                 
+135LAS G NC=4.5E-5 6$OC=7.3E-6 10$PC=5.4E-7 12                                  
+135LA  G 666.0        4      AP                                             A   
+135LA  G 845.06    3  11.9   12E2(+M1)   0.8     GT    0.0031 4                 
+135LAS G KC=0.0027 4$LC=0.00036 4$MC=7.4E-5 8$NC+=1.91E-5 20                    
+135LAS G NC=1.63E-5 17$OC=2.6E-6 3$PC=2.0E-7 3                                  
+135LA  G 1149.58   2  62     3 M1(+E2)   0.9     LT    0.0018413                
+135LAS G KC=0.00158 11$LC=0.000201 13$MC=4.2E-5 3$NC+=1.26E-5 7                 
+135LAS G NC=9.1E-6 6$OC=1.49E-6 10$PC=1.19E-7 9$IPC=1.90E-6 3                   
+135LA  G 1184.09   3  100    4 M1+E2                   0.0015925                
+135LAS G KC=0.00136 22$LC=0.000174 25$MC=3.6E-5 6$NC+=1.38E-5 13                
+135LAS G NC=7.9E-6 12$OC=1.29E-6 19$PC=1.02E-7 18$IPC=4.47E-6 9                 
+135LA cG MR$-0.12 {I3} if J=1/2 or +0.49 {I5} if J=3/2                          
+135LA  G 1243.1       0.4    AP                                             A   
+135LA  G 1449.6    2  0.73   15                                                 
+135LA  L 1479.66   3   1/2+,3/2+                                                
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=7.5 from 1/2(+); M1(+E2) |g to 3/2+. Weak |g to 7/2+      
+135LA2cL disfavors 1/2+                                                         
+135LA  G 495.3     4  20     8                                                  
+135LA  G 651.2     2  8.4    7                                                  
+135LA  G 875.1        59     AP                                             A   
+135LA  G 1179.49   6  36     6                                                  
+135LA  G 1214.13   3  100    13M1(+E2)   1       LT    0.0016212                
+135LAS G KC=0.00139 10$LC=0.000176 12$MC=3.64E-5 25$NC+=1.72E-5 7               
+135LAS G NC=8.0E-6 6$OC=1.31E-6 9$PC=1.04E-7 9$IPC=7.78E-6 12                   
+135LA  G 1273.5    2  16     8                                                  
+135LA  G 1361.0    9  36     20                                                 
+135LA  G 1479.6    2  5.6    20                                                 
+135LA  L 1500.7    2  (15/2+)                                               B   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=(2) |g to (11/2+)                                                
+135LA  G 715.1         6     LE                                                ?
+135LA  G 784.9     2  100    4  (Q)                                             
+135LA  G 917.3         6     LE                                                ?
+135LA  L 1568.9    2                                                           ?
+135LAX L XREF=A$                                                                
+135LA  G 696.6     2  100                                                       
+135LA  L 1599.25   3  1/2+,3/2+                                                 
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=7.3 from 1/2(+); M1,E2 |g to 1/2+                         
+135LA  G 560.7        12     AP                                             A   
+135LA  G 727.0        18     AP                                             A   
+135LA  G 771.4     2  59     18                                                 
+135LA  G 815.56    6  45     8                                                  
+135LA  G 933.76    6  47     12                                                 
+135LA  G 994.7        12     AP                                             A   
+135LA  G 1299.18   3  100    12M1,E2                   0.0013219                
+135LAS G KC=0.00112 17$LC=0.000142 20$MC=2.9E-5 4$NC+=2.87E-5 10                
+135LAS G NC=6.4E-6 9$OC=1.05E-6 15$PC=8.3E-8 14$IPC=2.11E-5 4                   
+135LA  G 1334.7    5  53     30                                                 
+135LA  G 1392.8    4  13     3                                                  
+135LA  G 1599.3    8  11     3                                                  
+135LA  L 1757.2    3   (15/2-)                                                  
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=1 D+Q |g to (13/2-)                                              
+135LA  G 256.7     2   1.1   6                                                  
+135LA  G 319.9     2   9.4   19 D+Q                                             
+135LA  G 379.7     2  100    1  (D)                                             
+135LA  L 1766.976  20 3/2+                                                      
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=6.4 from 1/2(+); E2(+M1) |g to 1/2+                       
+135LA  G 728.5        10     AP                                             A   
+135LA  G 782.6        10     AP                                             A   
+135LA  G 894.63    5  18.8   18                                                 
+135LA  G 938.5     2  7.3    18                                                 
+135LA  G 983.4        4      AP                                             A   
+135LA  G 1101.45   8  11     2 M1,E2                   0.0019 3                 
+135LAS G KC=0.0016 3$LC=0.00021 3$MC=4.2E-5 7$NC+=1.13E-5 17                    
+135LAS G NC=9.3E-6 14$OC=1.52E-6 24$PC=1.19E-7 22$IPC=3.93E-7 9                 
+135LA  G 1466.90   3  100    6 E2(+M1)   1       GT    0.001007                 
+135LAS G KC=0.00081 6$LC=0.000102 7$MC=2.11E-5 14$NC+=7.22E-5 11                
+135LAS G NC=4.6E-6 3$OC=7.6E-7 6$PC=6.0E-8 5$IPC=6.68E-5 10                     
+135LA  G 1501.38   8  27     4 M1,E2                   0.0010312                
+135LAS G KC=0.00082 11$LC=0.000104 13$MC=2.1E-5 3$NC+=8.41E-5 15                
+135LAS G NC=4.7E-6 6$OC=7.7E-7 10$PC=6.1E-8 9$IPC=7.86E-5 12                    
+135LA  G 1560.49   5  35     4 (E2)                    8.75E-4                  
+135LAS G KC=0.000668 10$LC=8.46E-5 12$MC=1.746E-5 25$NC+=0.0001042 15           
+135LAS G NC=3.84E-6 6$OC=6.25E-7 9$PC=4.91E-8 7$IPC=9.97E-5 14                  
+135LA  G 1767.00   4  57     6                                                  
+135LA  L 1797.14   7  1/2+,3/2                                                  
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=7.5 from 1/2(+); D,E2 |g to 5/2+                          
+135LA  G 1497.0    3  12     6                                                  
+135LA  G 1531.58   7  100    10                                                 
+135LA  G 1797.4    3  70     8  D,E2                                            
+135LA  L 1850.73   15 1/2,3/2                                                   
+135LAX L XREF=A$                                                                
+135LA cL J$log| {Ift}=7.2 from 1/2(+)                                           
+135LA  G 1066.9    3  29     7                                                  
+135LA  G 1550.7    3  43     9                                                  
+135LA  G 1585.3    2  100    9                                                  
+135LA  G 1850      1  2.0    6                                                  
+135LA  L 1988.0    4                                                           ?
+135LAX L XREF=B$                                                                
+135LA  G 550.8     3  100       D(+Q)                                          ?
+135LA  L 2121.5    3  (17/2-)                                               D   
+135LAX L XREF=B$                                                                
+135LA  G 684.4     2    11   LE (Q)                                             
+135LA  G 743.6     2  100    9 D+Q                                              
+135LA  L 2132.4    3  (19/2-)                                                   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=(2) |g to (15/2-)                                                
+135LA  G 375.4     2  100       (Q)                                             
+135LA  L 2232.6    3 (19/2-)                                                C   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=(2) |g to (15/2-)                                                
+135LA  G 854.7     2  100       (Q)                                             
+135LA  L 2265.8    4  (21/2-)            20 NS   LT                             
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=1 |g to (19/2-)                                                  
+135LA cL T$|g(t) in {+128}Te({+11}B,4n|g),{+133}Cs(|a,2n|g) (1973Le09)          
+135LA  G 133.7     2  100        D                                              
+135LA  L 2304.0    4 (17/2+)                                                A   
+135LAX L XREF=B$                                                                
+135LA cL J$|g to (13/2+)                                                        
+135LA  G 918.5     2  100                                                       
+135LA  L 2400.8    4 (19/2+)                                                B   
+135LAX L XREF=B$                                                                
+135LA cL J$|DJ=(2) |g to (15/2+)                                                
+135LA  G 900.1     2  100       (Q)                                             
+135LA  L 2494.2    3  (19/2+)                                               E   
+135LAX L XREF=B$                                                                
+135LA  G 993.5     2  100       (Q)                                             
+135LA  L 2507.1    3  (19/2+)                                                   
+135LAX L XREF=B$                                                                
+135LA  G 1006.5    2  100       (Q)                                             
+135LA  L 2626.3    4  (21/2+)                                               E   
+135LAX L XREF=B$                                                                
+135LA  G 119.3     2  57     38                                                 
+135LA  G 132.0     2  100    29 (D)                                             
+135LA  L 2735.5    3  (23/2-)          25.9 NS   15                             
+135LAX L XREF=B$                                                                
+135LA cL T$|g(t) in {+128}Te({+11}B,4n|g),{+133}Cs(|a,2n|g) (1990XuZW)          
+135LA cL J$|DJ=1 |g to (21/2-). 1973Le09 suggested 27/2+, which seems           
+135LA2cL unlikely from level scheme of 1977Ch23                                 
+135LA2 L G=0.003 15 (1976Le29)                                                  
+135LA cL MOMM1$1989Ra17 quote |m=0.04 {I20} from g=0.003 {I15} (1976Le29),      
+135LA2cL assuming J=27/2 as suggested by 1973Le09                               
+135LA  G 469.9     2  100        D(+Q)                                          
+135LA  L 2795.7    3  (21/2-)                                               D   
+135LAX L XREF=B$                                                                
+135LA  G 674.1     2  100       (Q)                                             
+135LA  L 2811.3    4  (23/2+)                                               E   
+135LAX L XREF=B$                                                                
+135LA  G 185.0     2  100       (D)                                             
+135LA  L 2973.2    4  (25/2-)                                                   
+135LAX L XREF=B$                                                                
+135LA  G 237.9     2  100                                                       
+135LA  L 3079.3    4  (25/2+)                                               E   
+135LAX L XREF=B$                                                                
+135LA  G 268.0     2  100       (D)                                             
+135LA  L 3105.6    3  (23/2-)                                               C   
+135LAX L XREF=B$                                                                
+135LA  G 872.9     2  100       (Q)                                             
+135LA  L 3170.0    4                                                            
+135LAX L XREF=B$                                                                
+135LA  G  64.0     2   53    11                                                 
+135LA  G 434.6     2  100    8                                                  
+135LA  L 3181.0    4  (23/2-)                                                   
+135LAX L XREF=B$                                                                
+135LA  G 948.4     2  100       (Q)                                             
+135LA  L 3438.3    4  (27/2-)                                                   
+135LAX L XREF=B$                                                                
+135LA  G 465.0     2   59    5                                                  
+135LA  G 703.0     2  100    3  (Q)                                             
+135LA  L 3500.0    3  (25/2-)                                               D   
+135LAX L XREF=B$                                                                
+135LA  G 329.7     2  100    2                                                  
+135LA  G 394.7     2  32     4  (D)                                             
+135LA  G 526.6     2  17     5                                                  
+135LA  G 704.2     2                                                            
+135LA  G 764.2     2  28     8                                                  
+135LA  L 3522.5    5  (27/2+)                                               E   
+135LAX L XREF=B$                                                                
+135LA  G 443.2     2  100       (D)                                             
+135LA  L 3638.6    4  (27/2-)                                               F   
+135LAX L XREF=B$                                                                
+135LA  G 138.0     2  100    3  (D)                                             
+135LA cG E$ level-energy difference=138.6                                       
+135LA  G 666.0     2   73    2  (Q)                                             
+135LA cG E$ level-energy difference=665.4                                       
+135LA  L 3837.2    4  (27/2-)                                               C   
+135LAX L XREF=B$                                                                
+135LA  G 656.2     2   26    LE                                                 
+135LA  G 731.7     2  100    37 (Q)                                             
+135LA  L 3890.5    5  (29/2+)                                               E   
+135LAX L XREF=B$                                                                
+135LA  G 368.0     2   100                                                      
+135LA  L 3959.0    4  (29/2-)                                               F   
+135LAX L XREF=B$                                                                
+135LA  G 320.5     2  100       D                                               
+135LA  L 4262.6    4  (29/2-)                                                   
+135LAX L XREF=B$                                                                
+135LA  G 624.0     2  100       D                                               
+135LA  L 4318.5    4  (31/2-)                                               F   
+135LAX L XREF=B$                                                                
+135LA  G 359.6     2  100       D                                               
+135LA  L 4552.7    4                                                            
+135LAX L XREF=B$                                                                
+135LA  G 1114.3    2   100                                                      
+135LA  L 4695.2    4  (31/2-)                                               C   
+135LAX L XREF=B$                                                                
+135LA  G 858.0     2  100                                                       
+135LA  L 4820.6    5  (33/2-)                                               F   
+135LAX L XREF=B$                                                                
+135LA  G 502.1     2  100       D                                               
+135LA  L 5001.2    5                                                            
+135LAX L XREF=B$                                                                
+135LA  G 448.5     2  100                                                       
+135LA  L 5209.4    4  (33/2-)                                               G   
+135LAX L XREF=B$                                                                
+135LA  G 946.7     2  38     LE                                                 
+135LA  G 1250.3    2  100    62                                                 
+135LA  L 5379.1    5  (35/2-)                                               F   
+135LAX L XREF=B$                                                                
+135LA  G 558.5     2  100       D                                               
+135LA  L 5461.4    4  (35/2-)                                               G   
+135LAX L XREF=B$                                                                
+135LA  G 251.9     2  100    11                                                 
+135LA  G 1143.0    2   29    20 (Q)                                             
+135LA  L 5564                                                                  ?
+135LAX L XREF=B$                                                                
+135LA  G 563                                                                   ?
+135LA  L 5772.4    5  (37/2-)                                               G   
+135LAX L XREF=B$                                                                
+135LA  G 311.0     2  100       D                                               
+135LA  L 6158.6    5  (39/2-)                                               G   
+135LAX L XREF=B$                                                                
+135LA  G 386.2     2  100       (D)                                             
+135LA  L 6630.6    6  (41/2-)                                               G   
+135LAX L XREF=B$                                                                
+135LA  G 472.0     2  100                                                       
+135LA  L 7159.6    6  (43/2-)                                               G   
+135LAX L XREF=B$                                                                
+135LA  G 529.0     2  100                                                       
+135LA  L 12815        (3/2+)                                                    
+135LAX L XREF=D                                                                 
+135LA cL           |G=42 keV                                                    
+135LA cL J$IAS of g.s., 3/2+ in {+135}Ba                                        
+135LA  L 13053        (1/2+)                                                    
+135LAX L XREF=D                                                                 
+135LA cL           |G=53 keV                                                    
+135LA cL J$IAS of 221, 1/2+ in {+135}Ba                                         
+135LA  L 14222        (7/2-)                                                    
+135LAX L XREF=D                                                                 
+135LA cL           |G=48 keV                                                    
+135LA cL J$IAS of 1446, 7/2- in {+135}Ba                                        
+135LA  L 14360        (3/2-)                                                    
+135LAX L XREF=D                                                                 
+135LA cL           |G=81 keV                                                    
+135LA cL J$IAS of 1584, (3/2)- in {+135}Ba                                      
+135LA  L 14767        (1/2-)                                                    
+135LAX L XREF=D                                                                 
+135LA cL           |G=87 keV                                                    
+135LA cL J$IAS of 1997, (1/2)- in {+135}Ba                                      
+135LA  L 14936                                                                  
+135LAX L XREF=D                                                                 
+135LA cL J$(5/2-,7/2-) from IAS of possible 2150, L(d,p)=(3) level in {+135}Ba  
+135LA  L 15514         (1/2-,3/2-)                                              
+135LAX L XREF=D                                                                 
+135LA cL J$IAS of 2730, L(d,p)=1 level in {+135}Ba                              
+135LA  L 15773                                                                  
+135LAX L XREF=D                                                                 
+135LA cL J$(5/2-,7/2-) from IAS of possible 2949, L(d,p)=3 level in {+135}Ba    
+
+

@@ -1,0 +1,1924 @@
+
+
+151SM    ADOPTED LEVELS, GAMMAS                                  09NDS    200901
+151SM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 110, 1 (2009)$CUT=20-Nov-2008$        
+151SM  Q 76.4      6 5596.45 118268    201146.1  13    2012WA38                 
+151SM cQ $Note: Current evaluation has used the following Q record              
+151SM  Q   76.6    5 5596.46 11 8268   20 1144.5 12    2003AU03                 
+151SM  XA151PM B- DECAY (28.40 H)                                               
+151SM  XB149SM(T,P)                                                             
+151SM  XC150ND(A,3NG)                                                           
+151SM  XD150SM(N,G) E=TH                                                        
+151SM  XE150SM(D,P)                                                             
+151SM  XF150SM(4HE,3HE)                                                         
+151SM  XGCOULOMB EXCITATION                                                     
+151SM  XH152SM(P,D)                                                             
+151SM  XI152SM(D,T)                                                             
+151SM  XJ152SM(3HE,4HE)                                                         
+151SM  XK152EU(T,A)                                                             
+151SM  XL153EU(MU,2NG)                                                          
+151SM D  OTHER REACTIONS: 1986De36, 1983Ka06, 1980Po13, 1974Ca12, 1969Va26,     
+151SM2D  1969Be59.                                                              
+151SM c  See {+150}Sm(n,|g),(n,n):resonances dataset for 23 neutron resonances  
+151SM2c  in the energy region 20 eV to 1.6 keV.                                 
+151SM c  1986De36: particle-|g coincidence data in {+152}Sm({+208}Pb,{+209}Pb|g)
+151SM c  Isotope shift measurements: 1985Al06,                                  
+151SM2c  1985Dy01, 1984Ea01, 1984Al35                                           
+151SM D  STRUCTURE CALCULATIONS: 2006Ok06, 1995Dz02, 1991Na14,                  
+151SM2D  1986Be28, 1983Ma71, 1983En01, 1983Ja06, 1983Ri10, 1981Be59, 1980Ka21,  
+151SM3D  1979Ka16, 1979Ka11, 1978Gu11, 1976Co12, 1976Re06, 1976Lo02, 1974Pe17   
+151SM D  CROSS SECTION MEASUREMENTS:                                            
+151SM D  150SM(N,G): 1995To01, 1993Wi12, 1986Wi02, 1974Ei02                     
+151SM D  152SM(N,2N): 1979Ho03                                                  
+151SM D  151SM(N,N): 1983Ii01 (CALCULATIONS)                                    
+151SM D  MASS MEASUREMENT: 1975Ka25                                             
+151SM D  2008Pa08: calculated E1 excitation probability for nuclear excitation  
+151SM2D  by electron transitions (NEET)                                         
+151SM cG E,RI$Weighted average of values available from |g-ray studies          
+151SM cG M,MR$From ce, |g(|q), |g|g(|q) studies in {+151}Pm |b{+-} decay        
+151SM2cG and ce data in {+150}Sm(n,|g). From |g|g(|q) (DCO) data in (|a,3n|g)   
+151SM3cG multipolarities for many transitions are implied: E2 for |DJ=2;        
+151SM4cG E1 or M1 for |DJ=1; M1+E2 for |DJ=1, D+Q. These assignments are not    
+151SM5cG given here but have been used in J|p assignments. See (|a,3n|g)        
+151SM6cG dataset for details                                                    
+151SM cG CC$Theoretical values (from BrIcc code ) for assigned mult and |d.     
+151SM2cG In cases where multipolarities are assumed from |DJ|p, values are      
+151SM3cG given only for transitions below about 250 keV where |a is expected    
+151SM4cG to be >0.1. For mult=M1,E2 |a overlaps that for M1 and E2              
+151SM cG E(A)      |g from (n,|g) only, not seen in {+151}Pm |b{+-} decay       
+151SM cG E(B)      |g from {+151}Pm |b{+-} decay only, not seen in (n,|g)       
+151SM cG E(X)$Poor energy fit. Level energy difference is 738.9                 
+151SM cG E(Y)$Poor energy fit. Level energy difference is 1020.9                
+151SM cL E         From least squares fitting of adopted E|g's for levels       
+151SM2cL populated in |g-ray studies. Weighted averages taken in other cases.   
+151SM cL J$For levels populated in (|a,3n|g), many assignments are based on     
+151SM2cL |g|g(|q) (DCO) data which give |DJ and |d, but not |D|p. In the        
+151SM3cL interpretation of such data the following multipolarities are          
+151SM4cL assumed: E2 for |DJ=2, E1 (or M1) for |DJ=1, M1+E2 for |DJ=1, D+Q.     
+151SM5cL The spins are generally assumed to be in ascending order as the        
+151SM6cL excitation energy increases                                            
+151SM CL BAND(A)$ DJ=2, i{-13/2} BAND.                                          
+151SM2cL Assignment from 1976Ge03 and 1994Kh01                                  
+151SM CL BAND(L)$ DJ=1, 11/2[505] BAND.                                         
+151SM2cL Band assignment from 1976Ge03, 1976Co12, 1994Kh01                      
+151SM CL BAND(B)$ BAND 1. DJ=2                                                  
+151SM CL BAND(C)$ BAND 2. DJ=2                                                  
+151SM CL BAND(D)$ BAND 3. DJ=2                                                  
+151SM CL BAND(E)$ BAND 4. DJ=2                                                  
+151SM CL BAND(F)$ BAND 5. DJ=2                                                  
+151SM CL BAND(G)$ BAND 6. DJ=2                                                  
+151SM CL BAND(H)$ BAND 7. DJ=2                                                  
+151SM CL BAND(I)$ BAND 8. DJ=2                                                  
+151SM CL BAND(J)$ BAND 9. DJ=2                                                  
+151SM CL BAND(K)$ BAND 10. DJ=2                                                 
+151SM CL BAND(M)$ BAND 11. DJ=1                                                 
+151SM CL BAND(N)$ BAND 12. DJ=1                                                 
+151SM CL BAND(O)$ BAND 13. DJ=1                                                 
+151SM PN                                                                     6  
+151SM  L    0.0       5/2-               90 Y    8                          D   
+151SM2 L %B-=100                                                                
+151SMX L XREF=AB(*)CDGJL$                                                       
+151SM2 L MOMM1=-0.3611 13 (1990En01,2005St24)                                   
+151SM2 L MOME2=+0.71 7 (1990En01,2005St24)                                      
+151SM cL $ <r{+2}>{+1/2}=5.054 fm {I9} (2004An14 evaluation)                    
+151SM cL MOMM1$Others: 0.368 {I3} (1985Dy01),-0.3625 {I17}                      
+151SM2cL (1985Al06,1986Al33), -0.3630 {I5} (1981Do07), 0.355 {I15} (1971Ro21).  
+151SM3cL 1989Ra17 evaluation adopted value from 1981Do07                        
+151SM cL MOMM1$crossed-beam LASER fluorescence method (1990En01). Others:       
+151SM2cL Atomic-beam resonance fluorescence method (1981Do07,1985Dy01,1985Al06, 
+151SM3cL 1986Al33), EPR technique (1971Ro21).                                   
+151SM cL MOME2$crossed-beam LASER fluorescence method (1990En01). Others:       
+151SM2cL Atomic-beam resonance fluorescence method: 0.67 {I7} (1985Dy01), +0.65 
+151SM3cL {I15} (1985Al06,1986Al33), +0.67 {I7} (1981Do07).                      
+151SM cL           |D<r{+2}>({+151}Sm-{+152}Sm)=0.279 fm{+2} {I12} (1985Dy01),  
+151SM2cL 0.269 fm{+2} {I25} (1985Al06), 0.262 fm{+2} {I10} (1984Ea01)           
+151SM cL           |D<r{+2}>({+151}Sm-{+144}Sm)=0.974 fm{+2} {I25} (1986Al33)   
+151SM cL           |D<r{+2}>({+150}Sm-{+151}Sm)=0.149 fm{+2} (1990En01)         
+151SM cL           |D<r{+2}> measured by LASER spectroscopic studies            
+151SM2cL (1985Al06,1986Al33,1985Dy01,1984Ea01). Review of hyperfine data:       
+151SMxcL 1995Ga38                                                               
+151SM cL J$spin measured by EPR method (1971Ro21). M1 |g between                
+151SM2cL g.s. and 4.82 level and L(d,t)=1 for 4.82 level give negative          
+151SM3cL parity for both levels and J=3/2 for 4.82 level                        
+151SM cL T$average of 93 y {I8} (1968Re04) and 87 y {I9} (1965Fl02). Others:    
+151SM2cL 1955Me52 1952Ru10, 1952Ka26, 1950In01                                  
+151SM cL $Configurations: mainly 5/2[523] and 3/2[532]. The 3/2[521] component  
+151SM2cL does not contribute much as suggested by the non-observation of the    
+151SM3cL 91, 5/2- level in {+153}Sm with 3/2[521] configuration in              
+151SM4cL {+151}Sm(t,p) reaction (2005Bu21)                                      
+151SM  L    4.821  3  3/2-               35 NS   1                          J   
+151SMX L XREF=AB(*)CDEHIJL$                                                     
+151SM cL J$see J|p comment for g.s.                                             
+151SM cL T$|g(ce)(t) (1971Dr05). Other: 1963Bu02                                
+151SM  G 4.821     3 100       M1+E2     0.024   3     8.8E2  12                
+151SMB G BM1W=5.9E-3 9$ BE2W=79 23                                              
+151SMS G MC=7.0E2 10$NC+=177 24                                                 
+151SMS G NC=155 21$OC=20.9 25$PC=0.711 10                                       
+151SM cG E,M,MR$ce data in {+151}Pm |b{+-} (1963Ge10). |d from M subshell data  
+151SM  L   65.826  5  7/2-               0.40 NS 6                          C   
+151SMX L XREF=AB(*)CDEF(*)GHI(*)J(*)                                            
+151SM cL E$main contribution in (t,p) is from 65.8, 7/2- level as               
+151SM2cL suggested by L=0 transfer.                                             
+151SM cL J$L(t,p)=0 from 7/2- target                                            
+151SM cL T$B(E2) in Coul. ex., |d(65.8|g) and branching. Others: |g|g(t)        
+151SM2cL (1971Ho09,1962Ch06)                                                    
+151SM  G 61.01     1   0.59  20(E2)                    15.16                    
+151SMB G BE2W=30 12                                                             
+151SMS G KC=3.56 5$LC=8.99 13$MC=2.10 3$NC+=0.515 8                             
+151SMS G NC=0.458 7$OC=0.0564 8$PC=0.0001604 23                                 
+151SM  G 65.83     1 100       M1+E2     -0.22   2     5.90   10                
+151SMB G BM1W=0.026 5$ BE2W=160 40                                              
+151SMS G KC=4.70 7$LC=0.94 5$MC=0.207 12$NC+=0.053 3                            
+151SMS G NC=0.0464 25$OC=0.0066 3$PC=0.000298 5                                 
+151SM cG MR$L-subshell ratios and |g|g(|q) in {+151}Pm |b{+-}                   
+151SM  L   69.703  6  5/2-               0.5 NS  LT                         G   
+151SMX L XREF=AB(*)CDF(*)I(*)J(*)$                                              
+151SM cL T$|g|g(t) (1971Ho09)                                                   
+151SM cL J$M1 |g's to 3/2- and 5/2-. J=3/2 not allowed by 275|g(|q)             
+151SM2cL from 345, 3/2+ level                                                   
+151SM  G 64.88     1 100     8 M1+E2     -0.076  9     5.92                     
+151SMB G BM1W GT 0.018$ BE2W GT 10                                              
+151SMS G KC=4.97 7$LC=0.746 14$MC=0.161 3$NC+=0.0421 8                          
+151SMS G NC=0.0364 7$OC=0.00540 10$PC=0.000318 5                                
+151SM cG MR,M$ce and |g|g(|q) data in {+151}Pm |b{+-}                           
+151SM  G 69.70     2  25     2 M1+E2     0.16    2     4.89   8                 
+151SMB G BM1W GT 3.6E-3$ BE2W GT 10                                             
+151SMS G KC=4.02 6$LC=0.68 3$MC=0.149 7$NC+=0.0386 17                           
+151SMS G NC=0.0335 15$OC=0.00485 18$PC=0.000256 4                               
+151SM cG MR,M$ce data in {+151}Pm |b{+-}                                        
+151SM  L   91.532  9 (9/2)+              78 NS   1                          A   
+151SM2 L MOMM1=-0.95 5 (1974Dr03,1989Ra17)                                      
+151SMX L XREF=ACDEHIJ$                                                          
+151SM cL MOMM1     PAC method                                                   
+151SM cL J$E1 |g to 7/2- and |g from (13/2)+. L(d,t)=3 assignment               
+151SM2cL for this level must be incorrect. See 1973Ne16 for discussion          
+151SM3cL of this discrepancy                                                    
+151SM cL T$|g|g(t) (1971Ho09)                                                   
+151SM  G 25.71     1 100       E1                      1.99                     
+151SMB G BE1=6.0E-5 2                                                           
+151SMS G LC=1.564 22$MC=0.339 5$NC+=0.0826 12                                   
+151SMS G NC=0.0732 11$OC=0.00914 13$PC=0.000299 5                               
+151SM cG M$ce data in {+151}Pm |b{+-}                                           
+151SM  L  104.831  5  3/2-               0.48 NS 3                              
+151SM2 L MOMM1=+0.31 11 (1971Be23,1989Ra17)                                     
+151SMX L XREF=ACDG$                                                             
+151SM cL MOMM1     IPAC method. |m=0.52 (1971Be23) corrected for J=3/2.         
+151SM2cL See also 2005St24 compilation of moments                               
+151SM cL J$M1 |g's to 3/2- and 5/2-, |g|g(|q) and |g(|q) in {+151}Pm |b{+-}     
+151SM cL T$|b|g(t) (1965Fo08). Others: 0.48 ns {I6} from |g(ce)(t)              
+151SM2cL (1971An07), 1971Ho09, 1962Ch06. From B(E2) in Coul. ex., |d(105|g) and 
+151SM3cL branching T{-1/2}=0.62 ns {I23}                                        
+151SM  G 35.13     1   1.1   2 M1+E2     0.5     2     38     22                
+151SMB G BM1W=0.002 1$ BE2W=200 100                                             
+151SMS G LC=30 17$MC=7 4$NC+=1.7 10                                             
+151SMS G NC=1.5 9$OC=0.19 10$PC=0.00163 20                                      
+151SM cG MR,M$ce data in {+150}Sm(n,|g). Other: |d=0.6 {I1} (ce data in         
+151SMxcG {+151}Pm |b{+-})                                                       
+151SM  G 39.01     1   0.12  3 [E2]                    101.8                A   
+151SMB G BE2W=65 18                                                             
+151SMS G LC=78.9 11$MC=18.4 3$NC+=4.49 7                                        
+151SMS G NC=4.00 6$OC=0.488 7$PC=0.000348 5                                     
+151SM  G 100.02    1  72     5 M1(+E2)   0.02    LT    1.689                    
+151SMB G BM1W=6.6E-3 6$ BE2W LT 0.16                                            
+151SMS G KC=1.431 20$LC=0.203 3$MC=0.0436 7$NC+=0.01146 16                      
+151SMS G NC=0.00989 14$OC=0.001481 21$PC=9.13E-5 13                             
+151SM cG M,MR$from ce data in {+151}Pm |b{+-}                                   
+151SM  G 104.84    1 100     7 M1+E2     -0.12   3     1.483  22                
+151SMB G BM1W=7.8E-3 10$ BE2W=5 3                                               
+151SMS G KC=1.248 18$LC=0.185 5$MC=0.0399 12$NC+=0.0104 3                       
+151SMS G NC=0.0090 3$OC=0.00134 4$PC=7.93E-5 12                                 
+151SM cG M,MR$from ce and |g|g(|q) in {+151}Pm |b{+-}                           
+151SM  L  147.91   6  13/2+                                                 A   
+151SMX L XREF=CEFHIJ$                                                           
+151SM cL           Doublet in (p,d)                                             
+151SM cL J$L({+3}He,|a)=6 and band (i{-13/2}) assignment. See also J|p comment  
+151SM2cL for 531 level                                                          
+151SM  G 56.37     10100       [E2]                    20.8   4                 
+151SMS G KC=3.87 6$LC=13.14 22$MC=3.07 5$NC+=0.752 13                           
+151SMS G NC=0.669 11$OC=0.0822 14$PC=0.000188 3                                 
+151SM  L  167.750  7  5/2+               0.38 NS 4                              
+151SMX L XREF=ACDE(*)I(*)L                                                      
+151SM2 L MOMM1=+1.8 5 (1971Be23,1989Ra17)                                       
+151SM cL MOMM1$IPAC method. |m=0.57 (1971Be23) corrected for J=5/2 and          
+151SM2cL T{-1/2}=0.38 ns. See also 2005St24 compilation of moments              
+151SM cL J$E1 |g's to 3/2- and 7/2-                                             
+151SM cL T$|b|g(t) (1971An07). Others: 0.76 ns {I35} (quoted by 1971An07        
+151SM2cL from an other group), 1971Ho09                                         
+151SM  G 62.91     2 2.5     2 E1                      0.956                    
+151SMB G BE1W=3.8E-5 6                                                          
+151SMS G KC=0.796 12$LC=0.1263 18$MC=0.0271 4$NC+=0.00685 10                    
+151SMS G NC=0.00599 9$OC=0.000823 12$PC=3.61E-5 5                               
+151SM  G 76.22     2 2.4     2 (E2)                    6.40                     
+151SMB G BE2W=170 30                                                            
+151SMS G KC=2.36 4$LC=3.13 5$MC=0.729 11$NC+=0.179 3                            
+151SMS G NC=0.1595 23$OC=0.0198 3$PC=9.87E-5 14                                 
+151SM  G 98.05     2 4.7     3 E1                      0.291                    
+151SMB G BE1W=1.9E-5 3                                                          
+151SMS G KC=0.245 4$LC=0.0361 5$MC=0.00772 11$NC+=0.00197 3                     
+151SMS G NC=0.001719 24$OC=0.000243 4$PC=1.183E-5 17                            
+151SM  G 101.93    1  15     1 E1                      0.262                    
+151SMB G BE1W=5.3E-5 7                                                          
+151SMS G KC=0.221 3$LC=0.0323 5$MC=0.00692 10$NC+=0.001771 25                   
+151SMS G NC=0.001542 22$OC=0.000218 3$PC=1.072E-5 15                            
+151SM cG MR        |g(|q) in {+151}Pm |b{+-} gives |d=0.02 {I3}                 
+151SM  G 162.93    2  11     1 (E1)                    0.0732                   
+151SMB G BE1W=9.6E-6 14                                                         
+151SMS G KC=0.0622 9$LC=0.00873 13$MC=0.00187 3$NC+=0.000481 7                  
+151SMS G NC=0.000418 6$OC=6.03E-5 9$PC=3.21E-6 5                                
+151SM  G 167.75    2 100     6 E1                      0.0677                   
+151SMB G BE1W=8.0E-5 11                                                         
+151SMS G KC=0.0575 8$LC=0.00806 12$MC=0.001722 25$NC+=0.000444 7                
+151SMS G NC=0.000386 6$OC=5.57E-5 8$PC=2.98E-6 5                                
+151SM  L  168.402  8 (5/2)-              39 PS   +66-36                         
+151SMX L XREF=ACDE(*)GI(*)L$                                                    
+151SM cL J$M1 |g's to 3/2- and 5/2-. In (d,t), L=2+3 for                        
+151SM2cL the 167.7, 168.4 doublet. L=2 most probably corresponds to 167.7,      
+151SM3cL 5/2+ level whereas L=3 corresponds to 168.4 level                      
+151SM cL T$B(E2) in Coul. ex., |d(168|g) and branching. Other: |g|g(t)          
+151SMxcL (1971Ho09)                                                             
+151SM  G 63.58     1   0.7   2 [M1,E2]                 10     4             A   
+151SMS G KC=4.3 10$LC=4 4$MC=0.9 8$NC+=0.23 19                                  
+151SMS G NC=0.21 17$OC=0.026 21$PC=0.00024 10                                   
+151SM cG           B(M1)(W.u.)<0.02                                             
+151SM  G   98.71   3   3.8   6 [M1,E2]                  2.1   4                 
+151SMS G KC=1.36 13$LC=0.6 4$MC=0.13 9$NC+=0.033 22                             
+151SMS G NC=0.029 19$OC=0.0038 23$PC=7.4E-5 22                                  
+151SM cG           B(M1)(W.u.)>0.12; B(E2)(W.u.)>89                             
+151SM  G  102.57   3   2.0   10 [M1,E2]                 1.9   3                 
+151SMS G KC=1.22 12$LC=0.5 3$MC=0.11 8$NC+=0.028 18                             
+151SMS G NC=0.025 16$OC=0.0032 19$PC=6.6E-5 19                                  
+151SM cG           B(M1)(W.u.)>1.6|*10{+-3}; B(E2)(W.u.)>90                     
+151SM  G 163.58    2 100     7 M1+E2     -0.15   5     0.420                    
+151SMB G BM1W=0.05 +60-3$ BE2W=23 +500-20                                       
+151SMS G KC=0.355 6$LC=0.0514 12$MC=0.0111 3$NC+=0.00290 7                      
+151SMS G NC=0.00250 6$OC=0.000373 8$PC=2.25E-5 4                                
+151SM cG MR        |g|g(|q) and |g(|q) in {+151}Pm |b{+-}                       
+151SM  G 168.41    5  59     6 M1+E2     +0.15   10    0.387                    
+151SMB G BM1W=0.03 +35-2$ BE2W=12 +400-11                                       
+151SMS G KC=0.327 6$LC=0.0473 19$MC=0.0102 5$NC+=0.00267 11                     
+151SMS G NC=0.00230 10$OC=0.000344 11$PC=2.07E-5 5                              
+151SM cG MR        |g|g(|q) in {+151}Pm |b{+-}                                  
+151SM  L  175.38   2  9/2-                                                  G   
+151SMX L XREF=ACDEFHIJ$                                                         
+151SM cL J$L({+3}He,|a)=L(d,t)=5 and |DJ=1, 109.5|g to 7/2-                     
+151SM  G   83.8    4   8     1                                                  
+151SM  G  105.7    4  16     2                                                  
+151SM  G 109.56    2 100     27M1,E2                   1.49   20                
+151SMS G KC=1.01 10$LC=0.37 22$MC=0.09 6$NC+=0.021 13                           
+151SMS G NC=0.019 12$OC=0.0025 14$PC=5.5E-5 16                                  
+151SM  G 175.41    5  13     4 [E2]                    0.325                A   
+151SMS G KC=0.225 4$LC=0.0778 11$MC=0.01771 25$NC+=0.00443 7                    
+151SMS G NC=0.00391 6$OC=0.000513 8$PC=1.082E-5 16                              
+151SM  L  208.991  8  7/2-               47 PS   AP                         J   
+151SMX L XREF=ABCDEGIJL$                                                        
+151SM cL J$L(d,t)=3; L(t,p)=0 from 7/2- target; |g(|q) and |g|g(|q) in          
+151SM2cL {+151}Pm |b{+-}                                                        
+151SM cL T$B(E2) in Coul. ex., |d(209|g) and adopted branching                  
+151SM  G 139.29    2  28     2 M1+E2     -0.18   7     0.661                    
+151SMB G BM1W=0.025 $ BE2W=22                                                   
+151SMS G KC=0.556 9$LC=0.083 4$MC=0.0179 9$NC+=0.00468 22                       
+151SMS G NC=0.00405 19$OC=0.000600 23$PC=3.52E-5 7                              
+151SM cG MR$|g|g(|q) in {+151}Pm |b{+-}                                         
+151SM  G 143.18    3  12     1 M1,E2                   0.632  24                
+151SMS G KC=0.47 5$LC=0.13 6$MC=0.029 14$NC+=0.007 4                            
+151SMS G NC=0.006 3$OC=0.0009 4$PC=2.6E-5 7                                     
+151SM cG           B(M1)(W.u.)=0.010                                            
+151SM  G 204.18    3   7.5   7 (E2)                    0.195                    
+151SMB G BE2W=27                                                                
+151SMS G KC=0.1408 20$LC=0.0420 6$MC=0.00950 14$NC+=0.00239 4                   
+151SMS G NC=0.00210 3$OC=0.000280 4$PC=7.01E-6 10                               
+151SM  G 208.99    1 100     7 M1(+E2)   0.10    LT    0.214                    
+151SMB G BM1W=0.026 $ BE2W LT 9                                                 
+151SMS G KC=0.181 3$LC=0.0255 4$MC=0.00547 8$NC+=0.001437 21                    
+151SMS G NC=0.001240 18$OC=0.000186 3$PC=1.151E-5 17                            
+151SM cG MR$|g(|q) and |g(|q) in {+151}Pm |b{+-}                                
+151SM  L  220      10 3/2+,5/2+                                                 
+151SMX L XREF=H$                                                                
+151SM cL J$L(p,d)=2                                                             
+151SM  L  261.13   4 (11/2)-             1.4 US  1                          LM  
+151SMX L XREF=CHIJK$                                                            
+151SM2 L %IT=100                                                                
+151SM cL J$L(p,d)=L(d,t)=L({+3}He,|a)=5 and |g to (13/2)+. Spectroscopic        
+151SM2cL strengths agree with 11/2[505] assignment                              
+151SM cL T$|g(t) in (|a,3n|g) (1973Co34)                                        
+151SM  G 85.7      1   7     2 [M1,E2]                 3.4    8                 
+151SMS G KC=2.01 23$LC=1.1 8$MC=0.24 18$NC+=0.06 5                              
+151SMS G NC=0.05 4$OC=0.007 5$PC=0.00011 4                                      
+151SM DG           BM1W LE 7E-7 2; BE2W LE 0.04 2                               
+151SM  G 113.21    5  19     4 [E1]                    0.197                    
+151SMB G BE1W=8E-9 2                                                            
+151SMS G KC=0.1662 24$LC=0.0241 4$MC=0.00515 8$NC+=0.001321 19                  
+151SMS G NC=0.001149 17$OC=0.0001634 23$PC=8.19E-6 12                           
+151SM  G 169.57    7 100     10[E1]                    0.0658                   
+151SMB G BE1W=1.2E-8 2                                                          
+151SMS G KC=0.0558 8$LC=0.00782 11$MC=0.001671 24$NC+=0.000432 6                
+151SMS G NC=0.000375 6$OC=5.41E-5 8$PC=2.90E-6 4                                
+151SM  G 195.26    5  64     7 [E2]                    0.226                    
+151SMB G BE2W=6.7E-3 12                                                         
+151SMS G KC=0.1616 23$LC=0.0502 7$MC=0.01139 16$NC+=0.00286 4                   
+151SMS G NC=0.00252 4$OC=0.000334 5$PC=7.97E-6 12                               
+151SM  L  284.95   2  1/2-,3/2-                                                 
+151SMX L XREF=ADI$                                                              
+151SM cL J$primary |g from 1/2+ in (n,|g) and M1,E2 |g to 3/2-                  
+151SM  G 180.13    5   3.7   7 [M1,E2]                 0.309  14            A   
+151SMS G KC=0.24 4$LC=0.054 16$MC=0.012 4$NC+=0.0031 9                          
+151SMS G NC=0.0027 9$OC=0.00037 9$PC=1.4E-5 4                                   
+151SM  G 215.26    6   3.8   10[M1,E2]                 0.180  18                
+151SMS G KC=0.144 24$LC=0.029 6$MC=0.0064 14$NC+=0.0016 3                       
+151SMS G NC=0.0014 3$OC=0.00020 3$PC=8.3E-6 23                                  
+151SM  G 280.13    3 100     9 M1,E2                   0.083  14                
+151SMS G KC=0.068 15$LC=0.0120 6$MC=0.00262 17$NC+=0.00068 4                    
+151SMS G NC=0.00059 4$OC=8.41E-5 14$PC=4.0E-6 12                                
+151SM  G  285.00   9   0.7   1                                                  
+151SM  L  294.82   4  9/2-               26 PS   7                          D   
+151SMX L XREF=ABCDG$                                                            
+151SM cL J$|g|g(|q) in Coul. ex. and direct excitation in Coul. ex. from 5/2-   
+151SM cL T$B(E2) in Coul. ex., mult=E2 for 295|g and adopted Branching          
+151SM  G  119.3    4                                                            
+151SM  G 229.00    7 100     10[M1,E2]                 0.150  17                
+151SMS G KC=0.120 22$LC=0.023 4$MC=0.0051 9$NC+=0.00132 21                      
+151SMS G NC=0.00115 19$OC=0.000162 18$PC=7.0E-6 20                              
+151SM DG           BM1W LE 0.042 12; BE2W LE 4.4E+2 12                          
+151SM  G 294.84    9  48     10[E2]                    0.0593                   
+151SMS G KC=0.0461 7$LC=0.01035 15$MC=0.00231 4$NC+=0.000586 9                  
+151SMS G NC=0.000513 8$OC=7.05E-5 10$PC=2.47E-6 4                               
+151SM cG           B(E2)(W.u.)=60 {I22}, if 119|g is weak                       
+151SM  L  302.62   2  7/2-                                                      
+151SMX L XREF=ABD$                                                              
+151SM cL J$L(t,p)=0 from 7/2- target; |g's to 3/2- and (9/2)+                   
+151SM  G 134.22    4  17     7 [M1,E2]                 0.78   5                 
+151SMS G KC=0.56 6$LC=0.16 8$MC=0.037 19$NC+=0.009 5                            
+151SMS G NC=0.008 4$OC=0.0011 5$PC=3.1E-5 9                                     
+151SM  G  134.88   4   7     2                                                  
+151SM  G  197.81   6   5     1                                              A   
+151SM  G  211.11   6   5     1                                              A   
+151SM  G 232.94    7  39     8 [M1,E2]                 0.143  17                
+151SMS G KC=0.115 21$LC=0.022 3$MC=0.0048 8$NC+=0.00124 18                      
+151SMS G NC=0.00108 17$OC=0.000153 16$PC=6.7E-6 19                              
+151SM  G 236.81    7 100     14(M1,E2)                 0.136  17                
+151SMS G KC=0.109 20$LC=0.021 3$MC=0.0046 7$NC+=0.00118 16                      
+151SMS G NC=0.00102 15$OC=0.000145 14$PC=6.4E-6 18                              
+151SM  G  297.80   5  24     3                                                  
+151SM  G  302.61   9  20     12                                                 
+151SM  L  306.79   2  3/2+                                                      
+151SMX L XREF=ADEHIJ$                                                           
+151SM cL           In single particle reactions assignment to this level is     
+151SM2cL based on L transfers. Uncertain doublet in (p,d)                       
+151SM cL J         |g(|q) of 202|g and |g|g(|q) in {+151}Pm |b{+-}. L=2 in (d,t)
+151SM  G 138.40    4   4.4   5 [E1]                    0.1139                   
+151SMS G KC=0.0965 14$LC=0.01373 20$MC=0.00293 5$NC+=0.000755 11                
+151SMS G NC=0.000656 10$OC=9.41E-5 14$PC=4.89E-6 7                              
+151SM  G 139.04    4   3.1   8 [M1,E2]                 0.69   4                 
+151SMS G KC=0.51 6$LC=0.14 7$MC=0.032 16$NC+=0.008 4                            
+151SMS G NC=0.007 4$OC=0.0010 4$PC=2.8E-5 8                                     
+151SM  G  201.96   2 100     8                                                  
+151SM  G 237.11    7  59     9 (E1)                    0.0270                   
+151SMS G KC=0.0230 4$LC=0.00315 5$MC=0.000673 10$NC+=0.0001747 25               
+151SMS G NC=0.0001513 22$OC=2.21E-5 3$PC=1.236E-6 18                            
+151SM  G  241.04   10  0.9   5                                              A   
+151SM  G  301.99   9   4.4   7                                              A   
+151SM  G  306.76   6  28     2                                                  
+151SM  L  313.85   2  (1/2-,3/2-)                                               
+151SMX L XREF=AB(*)DE(*)I(*)$                                                   
+151SM cL J$weak (E1) primary |g from 1/2+ in (n,|g)                             
+151SM  G 145.459   13  1.2   2 [M1,E2]                 0.601  20            A   
+151SMS G KC=0.45 5$LC=0.12 5$MC=0.027 13$NC+=0.007 3                            
+151SMS G NC=0.006 3$OC=0.0008 3$PC=2.5E-5 7                                     
+151SM  G  244.13   7   1.5   3                                              A   
+151SM  G 309.00    8 100     15(M1,E2)                 0.063  12                
+151SMS G KC=0.052 12$LC=0.00877 13$MC=0.00192 4$NC+=0.000496 7                  
+151SMS G NC=0.000430 7$OC=6.20E-5 24$PC=3.1E-6 10                               
+151SM  G  313.93   10  0.8   2                                              A   
+151SM  L  315.28   2 (3/2-)                                                     
+151SMX L XREF=AB(*)CDE(*)I(*)$                                                  
+151SM cL J         (E1) primary |g from 1/2+ in (n,|g) and |g's to 7/2-, 3/2-   
+151SM  G 146.90    4   3.2   6 [M1,E2]                 0.583  18            A   
+151SMS G KC=0.43 5$LC=0.12 5$MC=0.026 12$NC+=0.007 3                            
+151SMS G NC=0.0058 25$OC=0.0008 3$PC=2.4E-5 7                                   
+151SM  G  147.55   4 100     6                                                  
+151SM cG M,MR      ce data in (n,|g) give mult=E2(+M1) with |d>1 which          
+151SM2cG disagrees with mult=(E1) from proposed J|p's                           
+151SM  G  210.49   6   0.6   1                                              A   
+151SM  G  245.61   7   2.0   3                                              A   
+151SM  G  249.47   8   0.7   1                                              A   
+151SM  G  310.5    1   7     1                                                  
+151SM  G  315.34   9   2.0   3                                                  
+151SM  L  323.944  8  7/2+                                                      
+151SMX L XREF=ACD$                                                              
+151SM cL J         |g(|q) of 324|g and (258|g)(65|g)(|q) in {+151}Pm |b{+-}.    
+151SM2cL E1 |g's to 5/2- and 7/2-                                               
+151SM  G 148.59    5   4.4   4 [E1]                    0.0940                   
+151SMS G KC=0.0797 12$LC=0.01127 16$MC=0.00241 4$NC+=0.000621 9                 
+151SMS G NC=0.000539 8$OC=7.75E-5 11$PC=4.07E-6 6                               
+151SM  G  155.5    2   2.0   4                                              B   
+151SM  G 156.19    5  12     2 M1,E2                   0.481  8                 
+151SMS G KC=0.36 5$LC=0.09 4$MC=0.021 9$NC+=0.0052 20                           
+151SMS G NC=0.0046 18$OC=0.00062 21$PC=2.0E-5 6                                 
+151SM  G 232.43    2  85     7 M1+E2     -0.09   1     0.1599                   
+151SMS G KC=0.1357 19$LC=0.0190 3$MC=0.00409 6$NC+=0.001074 15                  
+151SMS G NC=0.000926 13$OC=0.0001389 20$PC=8.60E-6 12                           
+151SM cG M,MR      from ce and |g|g(|q) data in {+151}Pm |b{+-}                 
+151SM  G  254.26   3  14     2                                                  
+151SM  G 258.11    2  46     4 E1                      0.0216                   
+151SMS G KC=0.0184 3$LC=0.00252 4$MC=0.000538 8$NC+=0.0001396 20                
+151SMS G NC=0.0001210 17$OC=1.770E-5 25$PC=1.000E-6 14                          
+151SM  G 323.94    1 100     7 E1                      0.01213                  
+151SMS G KC=0.01036 15$LC=0.001401 20$MC=0.000299 5$NC+=7.78E-5 11              
+151SMS G NC=6.73E-5 10$OC=9.90E-6 14$PC=5.73E-7 8                               
+151SM  L  344.909  6  3/2+               9.3 PS  2                              
+151SMX L XREF=ADHIJL$                                                           
+151SM cL           Doublet in (p,d)                                             
+151SM cL J         E1 |g's to 3/2- and 5/2-, |g(|q) and |g|g(|q) in {+151}Pm    
+151SMxcL |b{+-}                                                                 
+151SM cL T         from (|b)(ce)(t) (1977Bu12). Others: 1971An07, 1965Fo08      
+151SM  G 59.93     5   0.11  1 [E1]                    1.086                B   
+151SMB G BE1W=7.1E-5 8                                                          
+151SMS G KC=0.902 13$LC=0.1448 21$MC=0.0311 5$NC+=0.00784 12                    
+151SMS G NC=0.00686 10$OC=0.000940 14$PC=4.07E-5 6                              
+151SM  G 176.52    3   3.8   3 (E1)                    0.0590                   
+151SMB G BE1W=9.5E-5 9                                                          
+151SMS G KC=0.0501 7$LC=0.00700 10$MC=0.001497 21$NC+=0.000387 6                
+151SMS G NC=0.000335 5$OC=4.85E-5 7$PC=2.62E-6 4                                
+151SM  G 177.16    1  17     1 M1+E2     -0.36   5     0.334                    
+151SMB G BM1W=0.035 3$ BE2W=77 20                                               
+151SMS G KC=0.278 5$LC=0.0441 12$MC=0.0096 3$NC+=0.00249 7                      
+151SMS G NC=0.00216 6$OC=0.000316 8$PC=1.73E-5 4                                
+151SM cG MR        from |g(|q) in {+151}Pm |b{+-}                               
+151SM  G 240.09    1  17     1 E1                      0.0261                   
+151SMB G BE1W=1.7E-4 1                                                          
+151SMS G KC=0.0222 4$LC=0.00305 5$MC=0.000651 10$NC+=0.0001690 24               
+151SMS G NC=0.0001464 21$OC=2.14E-5 3$PC=1.198E-6 17                            
+151SM  G 275.21    2  30     2 E1                      0.0183                   
+151SMB G BE1W=2.0E-4 2                                                          
+151SMS G KC=0.01562 22$LC=0.00213 3$MC=0.000455 7$NC+=0.0001181 17              
+151SMS G NC=0.0001023 15$OC=1.499E-5 21$PC=8.53E-7 12                           
+151SM  G 340.08    1 100     5 E1                      0.01075                  
+151SMB G BE1W=3.5E-4 2                                                          
+151SMS G KC=0.00918 13$LC=0.001239 18$MC=0.000264 4$NC+=6.88E-5 10              
+151SMS G NC=5.95E-5 9$OC=8.77E-6 13$PC=5.10E-7 8                                
+151SM  G 344.90    1   9.4   5 E1                      0.01039                  
+151SMB G BE1W=3.2E-5 2                                                          
+151SMS G KC=0.00887 13$LC=0.001196 17$MC=0.000255 4$NC+=6.64E-5 10              
+151SMS G NC=5.75E-5 8$OC=8.47E-6 12$PC=4.93E-7 7                                
+151SM  L  355.65   2  1/2+                                                      
+151SMX L XREF=ADEI$                                                             
+151SM cL J         L=0 in (d,t)                                                 
+151SM  G 70.71     2  14     5 [E1]                    0.701                A   
+151SMS G KC=0.586 9$LC=0.0908 13$MC=0.0195 3$NC+=0.00493 7                      
+151SMS G NC=0.00431 6$OC=0.000597 9$PC=2.70E-5 4                                
+151SM  G 187.90    6  29     5 [E2]                    0.257                A   
+151SMS G KC=0.182 3$LC=0.0587 9$MC=0.01333 19$NC+=0.00334 5                     
+151SMS G NC=0.00294 5$OC=0.000389 6$PC=8.89E-6 13                               
+151SM  G  250.83   8 100     13                                                 
+151SM  G  350.85   11 43     6                                              A   
+151SM  L  358.0                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L  383.20   7 (17/2+)                                                A   
+151SMX L XREF=CJ$                                                               
+151SM cL J$probable band assignment and stretched E2 transition to 13/2+        
+151SM  G 235.29    5 100       [E2]                    0.1219                   
+151SMS G KC=0.0911 13$LC=0.0241 4$MC=0.00541 8$NC+=0.001367 20                  
+151SMS G NC=0.001201 17$OC=0.0001617 23$PC=4.67E-6 7                            
+151SM  L  395.581  8  5/2+                                                      
+151SMX L XREF=ADHIJ$                                                            
+151SM cL J         E1 |g's to 3/2- and 5/2-, |g(|q) and |g|g(|q) in {+151}Pm    
+151SMxcL |b{+-}                                                                 
+151SM  G   88.80   9   1.5   2  M1,E2                   3.0   7             B   
+151SMS G KC=1.82 20$LC=0.9 7$MC=0.21 15$NC+=0.05 4                              
+151SMS G NC=0.05 4$OC=0.006 4$PC=0.00010 3                                      
+151SM  G 92.97     4   4.1   3 [E1]                    0.336                    
+151SMS G KC=0.283 4$LC=0.0419 6$MC=0.00897 13$NC+=0.00229 4                     
+151SMS G NC=0.00200 3$OC=0.000281 4$PC=1.355E-5 19                              
+151SM  G 186.59    2  22     3 (E1)                    0.0509                   
+151SMS G KC=0.0432 6$LC=0.00602 9$MC=0.001286 18$NC+=0.000332 5                 
+151SMS G NC=0.000288 4$OC=4.18E-5 6$PC=2.27E-6 4                                
+151SM  G 227.18    2  41     3 (E1)                    0.0302                   
+151SMS G KC=0.0257 4$LC=0.00353 5$MC=0.000755 11$NC+=0.000196 3                 
+151SMS G NC=0.0001696 24$OC=2.47E-5 4$PC=1.377E-6 20                            
+151SM  G 227.85    7   6     2 (M1,E2)                 0.152  17                
+151SMS G KC=0.122 22$LC=0.024 4$MC=0.0052 10$NC+=0.00134 21                     
+151SMS G NC=0.00117 20$OC=0.000165 19$PC=7.1E-6 20                              
+151SM  G 290.75    1 100       E1                      0.01593                  
+151SMS G KC=0.01358 19$LC=0.00185 3$MC=0.000394 6$NC+=0.0001025 15              
+151SMS G NC=8.87E-5 13$OC=1.302E-5 19$PC=7.45E-7 11                             
+151SM  G  325.85   10 13     2                                                  
+151SM  G 329.75    2  26     2 (E1)                    0.01161                  
+151SMS G KC=0.00991 14$LC=0.001339 19$MC=0.000286 4$NC+=7.44E-5 11              
+151SMS G NC=6.43E-5 9$OC=9.47E-6 14$PC=5.49E-7 8                                
+151SM  G  390.70   6   6.5   6                                                  
+151SM  G  395.68   10  5.1   6                                                  
+151SM  L  405.5      (1/2,3/2,5/2+)                                            ?
+151SMX L XREF=D$                                                                
+151SM cL J         primary |g from 1/2+ in (n,|g)                               
+151SM  L  415.64   2 (5/2-,7/2-)                                                
+151SMX L XREF=ADEG$                                                             
+151SM cL           Doublet in Coulomb excitation                                
+151SM cL J         |g's to 3/2-, 7/2- and 7/2+. (M1,E2) |g to 7/2-              
+151SM  G 91.7      3   4     2 [E1]                    0.349  6             B   
+151SMS G KC=0.293 5$LC=0.0436 8$MC=0.00933 16$NC+=0.00238 4                     
+151SMS G NC=0.00207 4$OC=0.000292 5$PC=1.403E-5 23                              
+151SM  G 113.04    3   6.8   11[M1,E2]                 1.35   16                
+151SMS G KC=0.93 9$LC=0.33 19$MC=0.07 5$NC+=0.019 11                            
+151SMS G NC=0.017 10$OC=0.0022 12$PC=5.1E-5 14                                  
+151SM  G 206.67    6  25     5 [M1,E2]                 0.204  17                
+151SMS G KC=0.16 3$LC=0.033 7$MC=0.0073 18$NC+=0.0019 4                         
+151SMS G NC=0.0016 4$OC=0.00023 4$PC=9.E-6 3                                    
+151SM  G 247.26    7  13     3 [M1,E2]                 0.120  16                
+151SMS G KC=0.097 19$LC=0.0180 20$MC=0.0040 6$NC+=0.00102 12                    
+151SMS G NC=0.00089 11$OC=0.000126 9$PC=5.7E-6 17                               
+151SM  G  247.91   8  20     3                                                  
+151SM  G  310.85   9  25     4                                                  
+151SM  G  346.0    1  27     6                                                  
+151SM  G 349.81    3 100     10(M1,E2)                 0.045  10                
+151SMS G KC=0.037 9$LC=0.0060 4$MC=0.00131 6$NC+=0.000339 19                    
+151SMS G NC=0.000294 15$OC=4.3E-5 4$PC=2.2E-6 7                                 
+151SM  G  410.79   7  44     5                                                  
+151SM  G  415.72   12 16     3                                                  
+151SM  L  419.1    2   (11/2+)                                              B   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g's to 13/2+ and 9/2-                                         
+151SM  G  124.2    4  70     7                                                  
+151SM  G  271.2    4 100     33                                                 
+151SM  G  327.6    4  33     33                                                 
+151SM  L  423.18   9 (11/2)-                                                C   
+151SMX L XREF=BCJ$                                                              
+151SM cL J         L=5 in ({+3}He,|a), |g to 13/2+                              
+151SM  G 128.35    25 20     2 [M1,E2]                 0.89   7                 
+151SMS G KC=0.64 7$LC=0.20 10$MC=0.045 24$NC+=0.011 6                           
+151SMS G NC=0.010 5$OC=0.0013 6$PC=3.5E-5 10                                    
+151SM  G  247.8                                                                 
+151SM  G  275.50   25 25     2                                                  
+151SM  G  331.58   15 86     3                                                  
+151SM  G  357.38   15 100    2                                                  
+151SM  L  437.5    3  (5/2+)                                                    
+151SM cL J         (E1) |g following p-wave capture in {+150}Sm g.s. gives      
+151SM2cL J|p|<5/2+. Absence in s-wave capture favors 5/2+                       
+151SMX L XREF=D$                                                                
+151SM  L  445.20   5 (13/2-)                                                L   
+151SMX L XREF=CL$                                                               
+151SM cL J$|DJ=1, D+Q |g to (11/2)- and band assignment                         
+151SM  G 184.02    5 100       [M1]                    0.303                    
+151SMS G KC=0.257 4$LC=0.0361 5$MC=0.00776 11$NC+=0.00204 3                     
+151SMS G NC=0.001759 25$OC=0.000264 4$PC=1.638E-5 23                            
+151SM cG M$|g(|q) and level scheme                                              
+151SM  L  445.68   1  5/2+               20 PS   3                              
+151SMX L XREF=ADK$                                                              
+151SM cL J         E1 |g's to 3/2-, 5/2-. 441|g(|q) and |g|g(|q) in {+151}Pm    
+151SMxcL |b{+-}                                                                 
+151SM cL T         (|b)(ce)(t) (1977Bu12). Other: 1971An07                      
+151SM  G 100.6     3   0.30  9 [M1,E2]                 2.0    4             B   
+151SMS G KC=1.29 13$LC=0.5 4$MC=0.12 8$NC+=0.031 20                             
+151SMS G NC=0.027 18$OC=0.0035 21$PC=7.0E-5 20                                  
+151SM cG           B(M1)(W.u.)|<1.9|*10{+-3} {I7}; B(E2)(W.u.)|<100 {I35}       
+151SM  G 121.77    4   2.3   2 (M1,E2)                 1.06   10            B   
+151SMS G KC=0.75 7$LC=0.24 13$MC=0.06 3$NC+=0.014 8                             
+151SMS G NC=0.012 7$OC=0.0016 8$PC=4.1E-5 11                                    
+151SM cG           B(M1)(W.u.)|<7.9|*10{+-3} {I15}; B(E2)(W.u.)|<280 {I50}      
+151SM  G 130.43    2   1.7   1 [E1]                    0.1339                   
+151SMB G BE1W=5.3E-5 9                                                          
+151SMS G KC=0.1133 16$LC=0.01620 23$MC=0.00346 5$NC+=0.000890 13                
+151SMS G NC=0.000774 11$OC=0.0001107 16$PC=5.69E-6 8                            
+151SM  G 143.2     3   0.25  8 [E1]                    0.1039 16            B   
+151SMB G BE1W=5.9E-6 21                                                         
+151SMS G KC=0.0880 14$LC=0.01248 19$MC=0.00267 4$NC+=0.000687 11                
+151SMS G NC=0.000597 9$OC=8.57E-5 13$PC=4.48E-6 7                               
+151SM  G  236.68   7   4.0   5                                                  
+151SMB G BE1W=2.1E-5 4                                                          
+151SM  G 277.4     1   1.5   3 [E1]                    0.0180                   
+151SMB G BE1W=4.9E-6 13                                                         
+151SMS G KC=0.01531 22$LC=0.00209 3$MC=0.000445 7$NC+=0.0001157 17              
+151SMS G NC=0.0001002 14$OC=1.469E-5 21$PC=8.36E-7 12                           
+151SM  G 278.0     1   0.20  9 [M1,E2]                 0.085  14                
+151SMS G KC=0.070 15$LC=0.0123 6$MC=0.00269 19$NC+=0.00069 4                    
+151SMS G NC=0.00060 4$OC=8.62E-5 16$PC=4.1E-6 12                                
+151SM cG RI        1.9 {I8} in (n,|g)                                           
+151SM cG           B(M1)(W.u.)|<6|*10{+-5} {I3}; B(E2)(W.u.)|<0.4 {I2}          
+151SM  G 340.9     1   1.8   5 [E1]                    0.01069                  
+151SMB G BE1W=3.1E-6 10                                                         
+151SMS G KC=0.00913 13$LC=0.001232 18$MC=0.000263 4$NC+=6.84E-5 10              
+151SMS G NC=5.92E-5 9$OC=8.72E-6 13$PC=5.07E-7 8                                
+151SM cG RI        4.6 {I12} in (n,|g)                                          
+151SM  G 354.14    11  2.4   5 [E2]                    0.0339               A   
+151SMB G BE2W=1.5 4                                                             
+151SMS G KC=0.0270 4$LC=0.00543 8$MC=0.001203 17$NC+=0.000307 5                 
+151SMS G NC=0.000268 4$OC=3.74E-5 6$PC=1.491E-6 21                              
+151SM  G 376.04        2.6   8 [E1]                    0.00841              A   
+151SMB G BE1W=3.4E-6 12                                                         
+151SMS G KC=0.00718 10$LC=0.000965 14$MC=0.000206 3$NC+=5.36E-5 8               
+151SMS G NC=4.64E-5 7$OC=6.84E-6 10$PC=4.01E-7 6                                
+151SM  G 379.86    3  24     2 (E1)                    0.00821                  
+151SMB G BE1W=3.0E-5 6                                                          
+151SMS G KC=0.00701 10$LC=0.000941 14$MC=0.000201 3$NC+=5.23E-5 8               
+151SMS G NC=4.52E-5 7$OC=6.68E-6 10$PC=3.92E-7 6                                
+151SM  G 440.85    2  28     2 E1                      0.00576                  
+151SMB G BE1W=2.3E-5 4                                                          
+151SMS G KC=0.00493 7$LC=0.000657 10$MC=0.0001400 20$NC+=3.65E-5 6              
+151SMS G NC=3.16E-5 5$OC=4.67E-6 7$PC=2.78E-7 4                                 
+151SM  G 445.68    2 100     6 E1                      0.00562                  
+151SMB G BE1W=7.8E-5 13                                                         
+151SMS G KC=0.00480 7$LC=0.000640 9$MC=0.0001364 19$NC+=3.56E-5 5               
+151SMS G NC=3.08E-5 5$OC=4.56E-6 7$PC=2.71E-7 4                                 
+151SM  L  448.58   3  (3/2)-                                                    
+151SMX L XREF=ABDEI$                                                            
+151SM cL J$L(d,t)=1; |g's to 7/2- and 5/2+                                      
+151SM  G  280.21   8  20     8                                              A   
+151SM  G  280.85   8   5.3   8                                              A   
+151SM  G  343.79   10  3.1   5                                              A   
+151SM  G  378.9    1  30     4                                                  
+151SM  G  382.78       2.2   7                                              A   
+151SM  G  443.8    1  84     12                                                 
+151SM  G  448.6    1 100     13                                                 
+151SM  L  470.41   3 (5/2,7/2+)                                                 
+151SMX L XREF=ADEI$                                                             
+151SM cL J         |g's to 7/2-, 7/2+, 3/2+                                     
+151SM  G  125.49   4   6     3  [D,E2]                  0.6   5                 
+151SM  G  146.45   5  13     3  [D,E2]                  0.3   2             A   
+151SM  G  261.42   8  17     5                                                  
+151SM  G  301.8    2  21     7                                              B   
+151SM  G  302.67   9  41     10                                                 
+151SM  G  400.74   12 11     5                                                  
+151SM  G  404.72   6 100     9                                                  
+151SM  G  470.5    2  28     9                                                  
+151SM  L  478      2                                                            
+151SMX L XREF=B                                                                 
+151SM  L  490.34   3 (7/2)-                                                     
+151SMX L XREF=ADFJ$                                                             
+151SM cL J         L=3 in ({+3}He,|a) and |g to (9/2)+                          
+151SM  G 195.56    6  21     4 [M1,E2]                 0.241  17                
+151SMS G KC=0.19 3$LC=0.040 10$MC=0.0089 24$NC+=0.0023 6                        
+151SMS G NC=0.0020 5$OC=0.00028 6$PC=1.1E-5 3                                   
+151SM  G  314.96   10 49     5                                                  
+151SM  G  321.95   10 77     9                                                  
+151SM  G  385.59   12 29     9                                              A   
+151SM  G  398.9    1  25     4                                                  
+151SM  G  420.65   6  45     6                                                  
+151SM  G  424.55   6  39     5                                                  
+151SM  G  490.26   5 100     7                                                  
+151SM  L  502.27   8 (11/2-)                                                J   
+151SMX L XREF=CG$                                                               
+151SM cL J$|DJ=1 |g to 9/2- and band assignment                                 
+151SM  G 207.39    18 60     15[M1,E2]                 0.202  17                
+151SMS G KC=0.16 3$LC=0.033 7$MC=0.0072 17$NC+=0.0019 4                         
+151SMS G NC=0.0016 4$OC=0.00023 4$PC=9.E-6 3                                    
+151SM  G  293.36   13100     20                                                 
+151SM  G  327.1    3  27     9                                                  
+151SM  G  410.8                                                                 
+151SM  L  502.33   3  1/2+                                                      
+151SMX L XREF=DHI$                                                              
+151SM cL           Doublet in (p,d)                                             
+151SM cL J         L=0 in (d,t)                                                 
+151SM  G 157.37    5  31     6 [M1,E2]                 0.470                    
+151SMS G KC=0.36 5$LC=0.09 4$MC=0.020 8$NC+=0.0051 20                           
+151SMS G NC=0.0044 18$OC=0.00061 20$PC=2.0E-5 6                                 
+151SM  G  187.01   6  65     11                                                 
+151SM  G  188.47   6  55     9                                                  
+151SM  G 195.50    6   9     2 [M1,E2]                 0.241  17                
+151SMS G KC=0.19 3$LC=0.040 10$MC=0.0089 24$NC+=0.0023 6                        
+151SMS G NC=0.0020 5$OC=0.00028 6$PC=1.1E-5 3                                   
+151SM  G  334.55   10 17     2                                                  
+151SM  G  397.45   13  3.1   12                                                 
+151SM  G  497.49   15100     12                                                 
+151SM  L  505.3      (5/2+)                                                     
+151SMX L XREF=DH$                                                               
+151SM cL J         L=2+0 in (p,d). L=0 probably corresponds to the              
+151SM2cL 502.29 level and L=2 to the 505.3 level. (E1) primary |g               
+151SM3cL following p-wave capture in (n,|g) supports J|p=5/2+                   
+151SM  L  521.15   2  3/2+                                                      
+151SMX L XREF=ADHIJ$                                                            
+151SM cL J         L=2 in (d,t) and |g(|q) in {+151}Pm |b{+-}                   
+151SM  G 105.49    3   4     2 [E1]                    0.238                A   
+151SMS G KC=0.201 3$LC=0.0294 5$MC=0.00628 9$NC+=0.001609 23                    
+151SMS G NC=0.001400 20$OC=0.000198 3$PC=9.82E-6 14                             
+151SM  G 125.55    4   4.1   6 [M1,E2]                 0.96   8                 
+151SMS G KC=0.68 7$LC=0.21 11$MC=0.05 3$NC+=0.012 7                             
+151SMS G NC=0.011 6$OC=0.0014 7$PC=3.8E-5 10                                    
+151SM  G 165.50    5   1.8   6 [M1,E2]                 0.402  8             A   
+151SMS G KC=0.31 4$LC=0.07 3$MC=0.017 6$NC+=0.0042 15                           
+151SMS G NC=0.0037 14$OC=0.00050 15$PC=1.7E-5 5                                 
+151SM  G 176.23    5   2.6   7 [M1,E2]                 0.331  12            A   
+151SMS G KC=0.26 4$LC=0.059 18$MC=0.013 5$NC+=0.0033 11                         
+151SMS G NC=0.0029 10$OC=0.00040 11$PC=1.5E-5 4                                 
+151SM  G  205.87   6   3.1   8                                                  
+151SM  G  207.34   6   2.6   7                                                  
+151SM  G  236.20   7  33     5                                                  
+151SM  G  352.74   11  2.2   6                                              A   
+151SM  G  353.36   10 37     4                                                  
+151SM  G 451.40    2 100     8 (E1)                    0.00545                  
+151SMS G KC=0.00466 7$LC=0.000621 9$MC=0.0001324 19$NC+=3.45E-5 5               
+151SMS G NC=2.99E-5 5$OC=4.42E-6 7$PC=2.63E-7 4                                 
+151SM  G  516.25   6  67     5                                                  
+151SM  G  521.1    2  11     2                                                  
+151SM  L  530.2    3   (9/2+)                                               F   
+151SMX L XREF=C                                                                 
+151SM  G  107.0                                                                 
+151SM  G  438.7    4                                                            
+151SM  L  531.81   15  13/2-                                                G   
+151SMX L XREF=CGJ$                                                              
+151SM cL J$|DJ=2 |g to 9/2-, |DJ=0 |g to 13/2+ and RUL                          
+151SM  G  356.42   15 100    4                                                  
+151SM  G  383.8    4   15.2  6                                                  
+151SM  L  620.51   6 (3/2-,5/2,7/2+)                                            
+151SMX L XREF=ADG$                                                              
+151SM cL J         |g's to 7/2- and 3/2+                                        
+151SM  G  275.60   8   4.7   12                                             A   
+151SM  G  411.50   12  4.4   11                                             A   
+151SM  G  452.16   13 19     6                                                  
+151SM  G  550.8    2  22     4                                                  
+151SM  G  554.6    2  23     4                                                  
+151SM  G  620.6    2 100     10                                                 
+151SM  L  632.07   3  (5/2)+                                                    
+151SMX L XREF=DHI$                                                              
+151SM cL J         L=2 in (p,d) and |g to (7/2)-                                
+151SM  G 110.89    3  48     15[M1,E2]                 1.43   18                
+151SMS G KC=0.98 9$LC=0.36 21$MC=0.08 5$NC+=0.020 12                            
+151SMS G NC=0.018 11$OC=0.0024 13$PC=5.3E-5 15                                  
+151SM  G  183.44   6  16     3                                                  
+151SM  G  216.31   10 10     8                                                  
+151SM  G 236.42    7  11     3 [M1,E2]                 0.136  17                
+151SMS G KC=0.110 21$LC=0.021 3$MC=0.0046 8$NC+=0.00118 16                      
+151SMS G NC=0.00103 15$OC=0.000146 14$PC=6.4E-6 19                              
+151SM  G  276.35   8   9     4                                                  
+151SM  G  308.08   9  23     4                                                  
+151SM  G  325.24   10 42     6                                                  
+151SM  G  423.04   13 40     6                                                  
+151SM  G  464.29   14 43     9                                                  
+151SM  G  562.3    3  19     10                                                 
+151SM  G  632.1    2 100     14                                                 
+151SM  L  648.26   6 (15/2-)                                                L   
+151SMX L XREF=CJK$                                                              
+151SM cL J$|DJ=1, D+Q |g to (13/2-) and |DJ=2 |g to (11/2)-                     
+151SM  G  203.07   5 100     4                                                  
+151SM  G  387.10   8  24.5   5                                                  
+151SM  L  663.01   3  3/2(+)                                                    
+151SMX L XREF=ADE(*)                                                            
+151SM cL J         (M1) primary |g from 1/2+ in (n,|g) and |g's to 5/2-, 5/2+,  
+151SMxcL 1/2+                                                                   
+151SM  G  192.61   6  58     9  [D,E2]                  0.16  11                
+151SM  G 217.31    7  33     5 [M1,E2]                 0.175  18            A   
+151SMS G KC=0.140 24$LC=0.028 5$MC=0.0062 13$NC+=0.0016 3                       
+151SMS G NC=0.0014 3$OC=0.00019 3$PC=8.1E-6 23                                  
+151SM  G  247.37   8   7     2                                              A   
+151SM  G  267.41   8   6     1                                              A   
+151SM  G  307.38   9  22     4                                              A   
+151SM  G  347.73   11 27     5                                              A   
+151SM  G  349.20   11 97     15                                                 
+151SM  G  356.20   11  5     1                                              A   
+151SM  G  378.07   11 45     6                                              A   
+151SM  G  494.6    2  14     7                                                  
+151SM  G  495.3    2 100     12                                                 
+151SM  G  558.2    2  39     6                                              A   
+151SM  G  593.5    2  20     5                                                  
+151SM  G  658.2    2  42     9                                              A   
+151SM  L  663.53   6  (5/2-,7/2,9/2-)                                           
+151SMX L XREF=ADE(*)G                                                           
+151SM cL J         |g's to 5/2-, 9/2-                                           
+151SM  G  360.95   11 14     4                                                  
+151SM  G  368.8    1   9     2                                                  
+151SM  G  454.4    4  14     5                                              B   
+151SM  G  597.7    1 100     41                                                 
+151SM  G  663.5    1  56     15                                                 
+151SM  L  671.99   10 (15/2+)                                               B   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (11/2+) and |DJ=1, D+Q |g to (17/2+)                     
+151SM  G  252.8    4   5.9   5                                                  
+151SM  G  288.78   8  54     1                                                  
+151SM  G  524.1    2 100     7                                                  
+151SM  L  673.1    2  (1/2-,3/2-)                                               
+151SMX L XREF=D$                                                                
+151SM cL J         (E1) primary |g from 1/2+ capture state                      
+151SM  L  696.31   11 (13/2-)                                               D   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to 9/2- and |DJ=1, D+Q |g to (11/2)-                        
+151SM  G  164.7                                                                 
+151SM  G  273.2    2  34     6                                                  
+151SM  G  277.2                                                                 
+151SM  G  401.48   11 100    3                                                  
+151SM  G  548.7    4    8.5  12                                                 
+151SM  L  703.28   3  3/2(-)                                                    
+151SMX L XREF=DEG$                                                              
+151SM cL J         (E1) primary |g from 1/2+ in (n,|g) and |g's to 1/2+, 7/2-   
+151SM  G  254.65   8   8     2                                                  
+151SM  G  257.52   8  18     3                                                  
+151SM  G  307.66   9  12     6                                                  
+151SM  G  347.60   11 64     8                                                  
+151SM  G  387.89   12 12     3                                                  
+151SM  G  396.47   12 12     2                                                  
+151SM  G  534.85   16 32     6                                                  
+151SM  G  535.51   16100     16                                                 
+151SM  G  637.4    3  24     12                                                 
+151SM  G  698.5    2  76     12                                                 
+151SM  G  703.3    3  52     16                                                 
+151SM  L  705.8    3  (13/2)+                                               F   
+151SMX L XREF=CEHIJ$                                                            
+151SM cL J$L=6 in (p,d); |DJ=1 |g's to (11/2+) and (11/2)-                      
+151SM  G  175.6    4   57    29                                                 
+151SM  G  282.65   20                                                           
+151SM  G  286.4    4                                                            
+151SM  G  557.9    4  100    9                                                  
+151SM  G  614.3    4   29    29                                                 
+151SM  L  715      1  7/2-                                                      
+151SMX L XREF=BD(712.8?)EFG$                                                    
+151SM cL J$L(t,p)=0 from 7/2- target                                            
+151SM  L  721.96   4  (1/2-,3/2-)                                               
+151SMX L XREF=D$                                                                
+151SM cL J         (E1) primary |g from 1/2+ in (n,|g). |g's to 1/2+, 3/2+ and  
+151SMxcL 3/2-                                                                   
+151SM  G  200.78   6   3.3   7                                                  
+151SM  G  273.33   8   5.4   9                                                  
+151SM  G  366.28   8  30     4                                                  
+151SM  G  406.64   12 23     3                                                  
+151SM  G  408.1    2   4     2                                                  
+151SM  G  414.9    3   4     2                                                  
+151SM  G  717.1    2 100     16                                                 
+151SM  L  741.03   3  3/2(+)             0.1 NS  LT                             
+151SMX L XREF=AD$                                                               
+151SM cL J         636|g(|q) and |g|g(|q) in {+151}Pm |b{+-}                    
+151SM cL T         (|b)(|g)(t) (1971An07)                                       
+151SM  G  270.72   3   4.8   5                                                  
+151SM  G  292.4    3   0.8   4                                                  
+151SM  G  295.4    1   1.0   3                                                  
+151SM  G  325.2    3   1.0   2                                              B   
+151SM  G  396.1    2   5     2                                              A   
+151SM  G  425.6    4   0.7   2                                              B   
+151SM  G  427.25   4   4.4   5                                                  
+151SM  G  456.05   13  2.7   5                                              B   
+151SM  G  572.5    2   3.6   8                                              B   
+151SM  G  573.2    2   2.0   4                                              B   
+151SM  G 636.20    3 100     6 (E1)                    0.00254                  
+151SMB G BE1W GT 4.1E-6                                                         
+151SMS G KC=0.00218 3$LC=0.000286 4$MC=6.08E-5 9$NC+=1.591E-5 23                
+151SMS G NC=1.374E-5 20$OC=2.05E-6 3$PC=1.249E-7 18                             
+151SM  G 671.28    3  63     5 (E1)                    0.00227                  
+151SMB G BE1W GT 2.2E-6                                                         
+151SMS G KC=0.00195 3$LC=0.000255 4$MC=5.42E-5 8$NC+=1.418E-5 20                
+151SMS G NC=1.224E-5 18$OC=1.82E-6 3$PC=1.118E-7 16                             
+151SM  G 736.12    10 33     3 (E1)                    0.00188                  
+151SMB G BE1W GT 8.8E-7                                                         
+151SMS G KC=0.001612 23$LC=0.000210 3$MC=4.46E-5 7$NC+=1.168E-5 17              
+151SMS G NC=1.008E-5 15$OC=1.505E-6 21$PC=9.27E-8 13                            
+151SM  G  740.8    2   1.6   3                                              B   
+151SM  L  742.0    2  (1/2-,3/2-)                                              ?
+151SMX L XREF=D$                                                                
+151SM cL J         (E1) primary |g from 1/2+ in (n,|g)                          
+151SM  L  750      1511/2-,9/2-                                                 
+151SMX L XREF=EHIJ$                                                             
+151SM cL J         L=5 in (p,d) and ({+3}He,|a)                                 
+151SM  L  754.3    4  (11/2+)                                               H   
+151SMX L XREF=C                                                                 
+151SM cL J$|g's to 9/2- and (11/2)-; band assignment                            
+151SM  G  331.1                                                                 
+151SM  G  459.5                                                                 
+151SM  G  579.0                                                                 
+151SM  L  754.83   6  (5/2-,7/2-)                                               
+151SMX L XREF=D$                                                                
+151SM cL J         |g's to 9/2-, (3/2-)                                         
+151SM  G  264.41   8  17     8                                                  
+151SM  G  359.21   11 20     8                                                  
+151SM  G  430.9    2  22     11                                                 
+151SM  G  439.47   13 1.8E2  14                                                 
+151SM  G  459.8    2 100     20                                                 
+151SM  G  545.9    2  46     16                                                 
+151SM  L  757.68   9 (21/2+)                                                A   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (17/2+) and band assignment                              
+151SM  G  374.49   5 100                                                        
+151SM  L  770.5    2  (1/2-,3/2-)                                               
+151SMX L XREF=D$                                                                
+151SM cL J         (E1) primary |g from 1/2+ in (n,|g)                          
+151SM  L  773.98   4  5/2(+)                                                    
+151SMX L XREF=ADE$                                                              
+151SM cL J         from 565|g(|q) in {+151}Pm |b{+-}                            
+151SM  G  358.32   11  4.3   8                                                  
+151SM  G  457.5    10  1.3   6                                              B   
+151SM  G  467.0    3   3.0   12                                                 
+151SM  G  471.3    2   3.5   13                                                 
+151SM  G  479.5    3  14     5                                              A   
+151SM  G 565.00    4 100     6 (E1)                    0.00329              B   
+151SMS G KC=0.00281 4$LC=0.000371 6$MC=7.90E-5 11$NC+=2.06E-5 3                 
+151SMS G NC=1.783E-5 25$OC=2.65E-6 4$PC=1.606E-7 23                             
+151SM  G  598.7    2  47     9                                              A   
+151SM  G  605.9    5   2.7   7                                              B   
+151SMF G FL=167.750                                                             
+151SM  G  669.2    2  81     12                                                 
+151SM  G  704.24   8  96     7                                                  
+151SM  G  769.10   8  30     3                                              B   
+151SM  L  777.4    10(LE 7/2)                                                  ?
+151SMX L XREF=AD$                                                               
+151SM cL J         |g to (3/2)-                                                 
+151SM  G  329.0    8 100                                                    B  ?
+151SM  L  791.9    4  (5/2+)                                                    
+151SMX L XREF=D(?)G$                                                            
+151SM cL J         (E1) primary |g following p-wave capture in {+150}Sm g.s.    
+151SM2cL gives J|p|<5/2+. Absence in s-wave capture favors 5/2+; however,       
+151SM3cL positive parity is not supported by its population in Coul. ex.        
+151SM  L  796.8    5  (11/2+)                                               K   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to 9/2- and band assignment                                       
+151SM  G  502.0                                                                 
+151SM  L  804.70   5  (3/2-,5/2)                                                
+151SMX L XREF=D$                                                                
+151SM cL J         |g's to 3/2+, 3/2-, 7/2-                                     
+151SM  G  358.99   11 14     3                                                  
+151SM  G  459.8    2  59     13                                                 
+151SM  G  490.8    3  20     13                                                 
+151SM  G  519.65   15 37     9                                                  
+151SM  G  595.7    2  49     11                                                 
+151SM  G  636.7    3 120     70                                                 
+151SM  G  699.8    3 100     20                                                 
+151SM  G  739.0    3 100     33                                                 
+151SM  L  813.5    3 (15/2-)                                                C   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to (17/2+) and |g to (11/2)-                                
+151SM  G  117.0                                                                 
+151SM  G  390.3    4  17     5                                                  
+151SM  G  430.30   25 100    9                                                  
+151SM  G  665.4    4   48    6                                                  
+151SM  L  821.98   8 (3/2-)                                                     
+151SMX L XREF=D$                                                                
+151SM cL E$this level may be populated in {+151}Pm |b{+-} decay, also; if       
+151SM2cL 718|g and 753|g are treated as doublets there                          
+151SM cL J$|g's to 3/2+, 3/2-, and (7/2)-; possible (E1) primary |g from 1/2+   
+151SM  G  376.27   11  5     2                                                  
+151SM  G  477.2    3   8     3                                                  
+151SM  G  508.3    3  17     7                                                  
+151SM  G  536.8    2   9     3                                                  
+151SM  G  612.9    3  23     7                                                  
+151SM  G  717.1    2 100     16                                                 
+151SM  G  752.4    3  51     25                                                 
+151SM  G  817.1    3  26     12                                                 
+151SM  G  822.0    6  46     18                                                 
+151SM  L  822.64   3  (3/2+,5/2+)       0.1 NS   LT                             
+151SMX L XREF=ADEHJ$                                                            
+151SM cL J$(E1) |g to 5/2-. In particle transfer reactions the level            
+151SM2cL corresponds to either of the two levels near 822 keV.                  
+151SM3cL L(p,d)=2 gives positive parity for one of these levels                 
+151SM cL T         (|b)(ce)(t) (1971An07)                                       
+151SM  G 119.48    4   8     3 [E1]                    0.1699               A   
+151SMB G BE1W GT 6.9E-5                                                         
+151SMS G KC=0.1436 21$LC=0.0207 3$MC=0.00443 7$NC+=0.001136 16                  
+151SMS G NC=0.000988 14$OC=0.0001409 20$PC=7.13E-6 10                           
+151SM  G  352.3    3   0.38  10                                             B   
+151SM  G  374.2    2   0.54  11                                             B   
+151SM  G  376.9    3   0.39  11                                                 
+151SM  G  407.03   3   4.6   4                                                  
+151SM  G  477.75   4   2.3   2                                                  
+151SM  G  507.27   14  1.2   2                                              B   
+151SM  G  537.65   11  1.1   2                                              B   
+151SM  G 654.25    6   5.9   4 (E1)                    0.00240              B   
+151SMB G BE1W GT 3.1E-7                                                         
+151SMS G KC=0.00206 3$LC=0.000269 4$MC=5.72E-5 8$NC+=1.498E-5 21                
+151SMS G NC=1.294E-5 19$OC=1.93E-6 3$PC=1.179E-7 17                             
+151SM  G 717.72    8 100     6 (E1)                    0.00198                  
+151SMB G BE1W GT 4.0E-6                                                         
+151SMS G KC=0.001697 24$LC=0.000221 3$MC=4.70E-5 7$NC+=1.231E-5 18              
+151SMS G NC=1.063E-5 15$OC=1.586E-6 23$PC=9.76E-8 14                            
+151SM  G 752.82    8  32     2 (E1)                    0.00179                  
+151SMB G BE1W GT 1.1E-6                                                         
+151SMS G KC=0.001540 22$LC=0.000200 3$MC=4.26E-5 6$NC+=1.115E-5 16              
+151SMS G NC=9.63E-6 14$OC=1.437E-6 21$PC=8.86E-8 13                             
+151SM  G  817.7    2   2.2   8                                              B   
+151SM  G  822.45   11  0.8   2                                              B   
+151SM  L  836.2    4  (5/2+)                                                   ?
+151SMX L XREF=D$                                                                
+151SM cL J         (E1) primary |g following p-wave capture in {+150}Sm g.s.    
+151SM2cL gives J|p|<5/2+. Absence in s-wave capture favors 5/2+                 
+151SM  L  844.5    2 (1/2-,3/2-)                                                
+151SMX L XREF=BDE$                                                              
+151SM cL J         (E1) primary |g from 1/2+ in (n,|g)                          
+151SM  L  850.6    3   (13/2+)                                              I   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (11/2)- and |g to (9/2)+                                 
+151SM  G  427.3    4                                                            
+151SM  G  759.1                                                                 
+151SM  L  851.6    3                                                            
+151SMX L XREF=AD(?)$                                                            
+151SM  G  381.2    3 100                                                    B   
+151SM  L  869.43   8 (17/2-)                                                L   
+151SMX L XREF=CFK$                                                              
+151SM cL J$|DJ=1, D+Q |g to (15/2-), |g to (13/2-)                              
+151SM  G 221.15    5 100     2 [M1]                    0.183                    
+151SMS G KC=0.1557 22$LC=0.0218 3$MC=0.00467 7$NC+=0.001227 18                  
+151SMS G NC=0.001059 15$OC=0.0001588 23$PC=9.88E-6 14                           
+151SM cG M$|g(|q) and level scheme                                              
+151SM  G  424.29   15 46     1                                                  
+151SM  L  869.8    4  (5/2+)                                                    
+151SMX L XREF=D$                                                                
+151SM cL J         (E1) primary |g following p-wave capture in {+150}Sm g.s.    
+151SM2cL and absence in s-wave capture                                          
+151SM  L  877.62   4  5/2(+)                                                    
+151SMX L XREF=AD(?)E$                                                           
+151SM cL J         |g(|q) in {+151}Pm |b{+-}                                    
+151SM cL           |g's known from {+151}Pm |b{+-} only                         
+151SM  G  429.1    3   1.8   7                                                  
+151SM  G  462.24   13  4.0   5                                                  
+151SM  G  532.5    2   3.8   5                                                  
+151SM  G  562.1    3   2.1   4                                                  
+151SM  G  574.97   7  13     1                                                  
+151SM  G  668.7    2  40     4                                                  
+151SM  G  709.25   6  15     2                                                  
+151SM  G 772.76    8 100     8 (E1)                    1.70E-3                  
+151SMS G KC=0.001461 21$LC=0.000190 3$MC=4.04E-5 6$NC+=1.057E-5 15              
+151SMS G NC=9.12E-6 13$OC=1.362E-6 19$PC=8.42E-8 12                             
+151SM  G 807.90    6  63     5 (E1)                    1.56E-3                  
+151SMS G KC=0.001337 19$LC=0.0001734 25$MC=3.69E-5 6$NC+=9.65E-6 14             
+151SMS G NC=8.33E-6 12$OC=1.245E-6 18$PC=7.71E-8 11                             
+151SM  G  811.8    1   7.5   5                                                  
+151SM  G 877.7     1  11     1 (E1)                    1.32E-3                  
+151SMS G KC=0.001137 16$LC=0.0001469 21$MC=3.12E-5 5$NC+=8.18E-6 12             
+151SMS G NC=7.06E-6 10$OC=1.055E-6 15$PC=6.57E-8 10                             
+151SM  L  887.32   8 (5/2-,7/2)                                                 
+151SMX L XREF=ABE(*)                                                            
+151SM cL J$|g's to (9/2)- and 5/2-; log| {Ift}=7.4 from 5/2+                    
+151SM  G  471.3    2  11     3                                                  
+151SM  G  584.9    4   5.1   10                                                 
+151SM  G  678.30   15 27     3                                                  
+151SM  G  712.0    1  56     6                                                  
+151SM  G  719.0    5   7     2                                                  
+151SMF G FL=168.402                                                             
+151SM  G  817.7    2 100     20                                                 
+151SM  G  887.6    6   1.6   6                                                  
+151SM  L  889.0    6 (1/2,3/2,5/2+)                                             
+151SMX L XREF=ADE(*)H(?)I$                                                      
+151SM cL           |g's are from {+151}Pm |b{+-}                                
+151SM cL J         primary |g in (n,|g) from 1/2+ capture state                 
+151SM  G  575.1    10 36     14                                                 
+151SMF G FL=313.85                                                              
+151SM  G  604.0    6 100     28                                                 
+151SM  L  894.9    2  (15/2-)                                               J   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (17/2+), |g to (11/2-)                                   
+151SM  G  198.6                                                                 
+151SM  G  393.3    4                                                            
+151SM  G  511.6    4                                                            
+151SM  G  747.0                                                                 
+151SM  L  898.4                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L  920.79   5  (LE 5/2)                                                  
+151SMX L XREF=D$                                                                
+151SM cL J         |g to 1/2+                                                   
+151SM  G   98.01   3  18     9  [D,E2]                  1.4   11                
+151SM  G  418.48   13 14     3                                                  
+151SMF G FL=502.33                                                              
+151SM  G  472.29   14 19     6                                                  
+151SM  G  565.12   17 73     LT                                                ?
+151SM cG E$this |g deexcites mainly from 773.9 level. The placement suggested   
+151SM2cG in (n,|g) only                                                         
+151SM  G  635.8    2 100     55                                                 
+151SM  L  925.9    2 (5/2,7/2)                                                  
+151SMX L XREF=ABJ$                                                              
+151SM cL J         |g's to 7/2+, 7/2-, 5/2+ and 5/2-                            
+151SM  G  603.0    6 100     30                                                 
+151SM  G  758.5    4  80     18                                                 
+151SM  G  856.2    3  58     10                                                 
+151SM  G  859.8    3  74     10                                                 
+151SM  G  926.1    5  36     6                                                  
+151SM  L  937.0                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L  951.42   5 (3/2-)                                                     
+151SMX L XREF=B(*)D$                                                            
+151SM cL J         primary |g from 1/2+; |g to 7/2-                             
+151SM  G  430.2    2   3.4   16                                                 
+151SM  G  505.70   15 33     16                                                 
+151SM  G  555.8    2  10     3                                                  
+151SM  G  595.7    2  11     3                                                  
+151SM  G  606.6    2  21     3                                                  
+151SM  G  637.4    3   9     5                                                  
+151SM  G  648.8    2  13     3                                                  
+151SM  G  783.6    2  57     9                                                  
+151SM  G  886.0    3  43     13                                                 
+151SM  G  951.3    3 100     19                                                 
+151SM  L  953.48   4  3/2(+)                                                    
+151SMX L XREF=AB(*)DE$                                                          
+151SM cL J         |g(|q) in {+151}Pm |b{+-}                                    
+151SM  G  148.85   5   4     2  [D,E2]                  0.3   2             A   
+151SM  G  598.0    10  2.6   13                                             B   
+151SM  G  668.5    8   1.0   5                                              B   
+151SM  G 785.10    7  63     5 (E1)                    1.65E-3                  
+151SMS G KC=0.001415 20$LC=0.000184 3$MC=3.91E-5 6$NC+=1.023E-5 15              
+151SMS G NC=8.83E-6 13$OC=1.319E-6 19$PC=8.16E-8 12                             
+151SM  G 848.65    7  80     6 (E1)                    1.41E-3                  
+151SMS G KC=0.001214 17$LC=0.0001570 22$MC=3.34E-5 5$NC+=8.75E-6 13             
+151SMS G NC=7.55E-6 11$OC=1.128E-6 16$PC=7.01E-8 10                             
+151SM  G  883.68   13 13     2                                              B   
+151SM  G 948.72    7 100     8 (E1)                    1.14E-3                  
+151SMS G KC=0.000979 14$LC=0.0001261 18$MC=2.68E-5 4$NC+=7.02E-6 10             
+151SMS G NC=6.06E-6 9$OC=9.07E-7 13$PC=5.67E-8 8                                
+151SM  G 953.41    11 28     3 (E1)                    1.13E-3              B   
+151SMS G KC=0.000970 14$LC=0.0001249 18$MC=2.65E-5 4$NC+=6.96E-6 10             
+151SMS G NC=6.00E-6 9$OC=8.98E-7 13$PC=5.61E-8 8                                
+151SM  L  955.5                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L  960.48   9  (LE 7/2)                                                  
+151SMX L XREF=D$                                                                
+151SM cL J         |g's to 5/2+, (5/2)-                                         
+151SM  G  328.38   10 28     16                                                 
+151SM  G  514.79   15100     16                                                 
+151SM  G  792.1    3  80     20                                                 
+151SM  L  964.21   6  5/2(+)                                                    
+151SMX L XREF=AD(?)H$                                                           
+151SM cL           Doublet in (p,d) at 988 {I10} with L=2+4. The L=2 component  
+151SM2cL probably corresponds to 964 level and the L=4 to 988 level             
+151SM cL J         from 796|g(|q) in {+151}Pm |b{+-}                            
+151SM cL           |g's known from {+151}Pm |b{+-} only                         
+151SM  G  661.5    2  36     14                                                 
+151SM  G  755      1  11     4                                                  
+151SMF G FL=208.991                                                             
+151SM  G 795.74    9  93     7 (E1+M2)   -0.17   7     0.0021 5                 
+151SMS G KC=0.0018 4$LC=0.00024 6$MC=5.1E-5 12$NC+=1.3E-5 3                     
+151SMS G NC=1.1E-5 3$OC=1.7E-6 4$PC=1.06E-7 25                                  
+151SM cG M,MR      from |g(|q) in {+151}Pm |b{+-}                               
+151SM  G  894.1    7   4.3   14                                                 
+151SM  G  898.58   12 39     4                                                  
+151SM  G  959.7    3 100     11                                                 
+151SM  G  964.4    4   7.5   15                                                 
+151SM  L  974.7    3 (17/2+)                                                F   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to 13/2+; |DJ=1, D+Q |g to (15/2+)                          
+151SM  G  161.7    4    2.3  7                                                  
+151SM  G  269.0    2  39     3                                                  
+151SM  G  302.7    4                                                            
+151SM  G  591.3    2   64    2                                                  
+151SM  G  826.8    2  100    3                                                  
+151SM  L  988      10(7/2+,9/2+)                                                
+151SMX L XREF=HJ$                                                               
+151SM cL           Doublet in both reactions. See comment for 964 level. In     
+151SM2cL ({+3}He,|a) the second component probably corresponds to 1016 level    
+151SM cL J         L=2+4 for doublet in (p,d). L=4 probably corresponds         
+151SM2cL to 988 level                                                           
+151SM  L  993.5    3  (13/2-)                                               E   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to 9/2- and band assignment                                       
+151SM  G  818.1    4  100                                                       
+151SM  L  994.15   13(17/2-)                                                G   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to 13/2- and |DJ=0 |g to (17/2+)                            
+151SM  G  180.8                                                                 
+151SM  G  322.0    4   8     2                                                  
+151SM  G  462.6    2 100     2                                                  
+151SM  G  610.8    2  36     2                                                  
+151SM  L 1016.5    4 (3/2-,5/2,7/2-)                                            
+151SMX L XREF=AEJ$                                                              
+151SM cL           See comment for 988 level                                    
+151SM cL J         log| {Ift}=8.0 from 5/2+ and |g's to 3/2-, (7/2-)            
+151SM  G  713.4    5 100     38                                                 
+151SM  G 1012.2    5  40     10                                                 
+151SM  L 1017.31   5   1/2,3/2,5/2+                                             
+151SMX L XREF=D$                                                                
+151SM cL J         primary |g from 1/2+ in (n,|g)                               
+151SM  G   65.89   2  68     36 [D,E2]                  6     5                 
+151SM  G  276.10   8  23     11                                                 
+151SM  G  396.8    2  15     5                                                  
+151SM  G  568.6    2  30     6                                                  
+151SM  G  601.5    3  41     14                                                 
+151SM  G  661.8    3  41     14                                                 
+151SM  G  672.5    2 100     18                                                 
+151SM  L 1022      2                                                            
+151SMX L XREF=BD(1020.7?)$                                                      
+151SM  L 1041.4    3  (15/2+)                                               K   
+151SMX L XREF=C                                                                 
+151SM cL J$|g's to (11/2+) and 13/2+; band assignment                           
+151SM  G  244.6    4                                                            
+151SM  G  893.7    4  100    25                                                 
+151SM  L 1054.25   12 (19/2+)                                               B   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1, D+Q |g's to (17/2+) and (21/2+)                               
+151SM  G  296.55   10 35     6                                                  
+151SM  G  382.1    2  31     2                                                  
+151SM  G  670.9    2 100     4                                                  
+151SM  L 1060      15 (9/2-,11/2-)                                              
+151SMX L XREF=H                                                                 
+151SM cL J$L(p,d)=2+5 for an unresolved doublet                                 
+151SM  L 1077.6                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L 1081      2 (3/2+,5/2+)                                                
+151SMX L XREF=BDEH(1060)$                                                       
+151SM cL J$L(p,d)=2+5 for a doublet. Primary |g from 1/2+ in (n,|g)             
+151SM  L 1087.8                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L 1091.5    3 (15/2+)                                                H   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to 13/2- and band assignment                                
+151SM  G  336.8    4                                                            
+151SMF G FL=754.3                                                               
+151SM  G  559.5    2 100     4                                                  
+151SM  L 1096      2                                                            
+151SMX L XREF=B                                                                 
+151SM  L 1107.55   9 (19/2-)                                                L   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (15/2-) and |DJ=1, D+Q |g to (17/2-)                     
+151SM  G  238.11   5 100     1                                                  
+151SMF G FL=869.43                                                              
+151SM  G  459.35   15 81     1                                                  
+151SM  L 1115.8                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L 1139.9                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L 1142.2    2 (19/2-)                                                C   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g's to (17/2+) and (21/2+)                                    
+151SM  G  329.3    4   1.4   10                                                 
+151SM  G  385.0    4   7.6   6                                                  
+151SM  G  759.03   12 100    2                                                  
+151SM  L 1145      2                                                            
+151SMX L XREF=BFHJ$                                                             
+151SM cL E$doublet in (p,d) at 1140 {I15}                                       
+151SM cL J$L=2+4 or 2+5 in (p,d) gives J|p=5/2+, 3/2+ for one                   
+151SM2cL component and 9/2+, 7/2+ or 11/2-, 9/2- for the second                 
+151SM  L 1161.04   16 (17/2-)                                               D   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to 13/2-, |g to (17/2+)                                     
+151SM  G  167.5                                                                 
+151SMF G FL=994.15                                                              
+151SM  G  266.1                                                                 
+151SM  G  347.7                                                                 
+151SM  G  464.7    2  100    5                                                  
+151SM  G  489.0                                                                 
+151SM  G  629.5    4                                                            
+151SM  G  777.8    4   23    2                                                  
+151SM  L 1170      9                                                            
+151SMX L XREF=JK$                                                               
+151SM cL J         L=(5,4) in ({+3}He,|a) gives J|p=11/2-, 9/2-, 9/2+ or 7/2+   
+151SM  L 1188      2  1/2,3/2,5/2+                                              
+151SMX L XREF=BDE$                                                              
+151SM cL J         primary |g from 1/2+ in (n,|g)                               
+151SM  L 1190.6    2  (17/2+)                                               I   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (15/2-), |DJ=0 |g to (17/2+)                             
+151SM  G  295.8    4                                                            
+151SM  G  339.8    4                                                            
+151SMF G FL=850.6                                                               
+151SM  G  377.2                                                                 
+151SM  G  518.6                                                                 
+151SM  G  807.1    4  100    6                                                  
+151SM  G 1042.8    4   70    4                                                  
+151SM  L 1193.9                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L 1205.7                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L 1211      2  1/2,3/2,5/2+                                              
+151SMX L XREF=DE$                                                               
+151SM cL J         primary |g from 1/2+                                         
+151SM  L 1220.0                                                                ?
+151SMX L XREF=D$                                                                
+151SM  L 1223.97   16 (17/2-)                                               E   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to (15/2+), |g to (17/2+)                                   
+151SM  G  230.5    4   1.8   6                                                  
+151SMF G FL=993.5                                                               
+151SM  G  410.6                                                                 
+151SM  G  527.6                                                                 
+151SM  G  552.0    2 100     12                                                 
+151SM  G  692.4    4                                                            
+151SM  G  840.9    4   27    3                                                  
+151SM  L 1226      4                                                            
+151SMX L XREF=B                                                                 
+151SM cL E$it is possible that this level corresponds to 1220 in (n,|g) and/or  
+151SM2cL 1236 in ({+3}He,{+4}He)                                                
+151SM  L 1236                                                                   
+151SMX L XREF=J$                                                                
+151SM  L 1236.53   9 (25/2+)                                                A   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (21/2+) and band assignment                              
+151SM  G  478.86   5 100                                                        
+151SM  L 1277      2  1/2,3/2,5/2+                                              
+151SMX L XREF=DEK$                                                              
+151SM cL J         primary |g from 1/2+ in (n,|g)                               
+151SM  L 1304      2  1/2,3/2,5/2+                                              
+151SMX L XREF=DE$                                                               
+151SM cL J         primary |g from 1/2+ in (n,|g)                               
+151SM  L 1321.83   13 (21/2+)                                               F   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1, D+Q to (19/2+); |DJ=2 |g's to (17/2+)                         
+151SM  G  179.5                                                                 
+151SM  G  267.8    4                                                            
+151SM  G  347.1    2 100     2                                                  
+151SM  G  564.1    2  46     2                                                  
+151SM  G  938.7    2  70     2                                                  
+151SM  L 1322      15                                                           
+151SMX L XREF=J$                                                                
+151SM  L 1345      2 (3/2+,5/2+)                                                
+151SMX L XREF=DEH$                                                              
+151SM cL J         L=2 in (p,d)                                                 
+151SM  L 1354      3  7/2-                                                      
+151SMX L XREF=B                                                                 
+151SM cL J$L(t,p)=0 from 7/2- target                                            
+151SM  L 1361.32   13(21/2-)                                                L   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (17/2-); |DJ=1, D+Q |g to (19/2-)                        
+151SM  G  253.79   15 92     2                                                  
+151SM  G  492.1    2 100     2                                                  
+151SMF G FL=869.43                                                              
+151SM  L 1379.04   16 (19/2-)                                               J   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (17/2+), |g to (21/2+)                                   
+151SM  G  188.4                                                                 
+151SMF G FL=1190.6                                                              
+151SM  G  484.4    4                                                            
+151SM  G  621.8    4                                                            
+151SM  G  995.7    2  100    6                                                  
+151SM  L 1380      15(11/2-,9/2-)                                               
+151SMX L XREF=HIJ$                                                              
+151SM cL           Doublet in (p,d)                                             
+151SM cL J         L=5 in ({+3}He,|a)                                           
+151SM  L 1386      2 (5/2+,3/2+)                                                
+151SMX L XREF=BDEH$                                                             
+151SM cL           Doublet in (p,d)                                             
+151SM cL J         L=2+5 for the doublet in (p,d). L=5 probably corresponds     
+151SM2cL to 1380 level. Primary |g from 1/2+ in (n,|g) supports 3/2+, 5/2+      
+151SM  L 1386.6    2  (19/2+)                                               K   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to (17/2+) and band assignment                                    
+151SM  G  345.4    4                                                            
+151SM  G 1003.4    2  100    2                                                  
+151SM  L 1409      2  1/2,3/2,5/2+                                              
+151SMX L XREF=DEK$                                                              
+151SM cL J         primary |g from 1/2+ in (n,|g)                               
+151SM  L 1439      2  1/2,3/2,5/2+                                              
+151SMX L XREF=DEF$                                                              
+151SM cL J         primary |g from 1/2+ in (n,|g)                               
+151SM  L 1478.6    3 (21/2-)                                                G   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (17/2-); |DJ=1 |g to (19/2+)                             
+151SM  G  254.7                                                                 
+151SM  G  336.3                                                                 
+151SMF G FL=1142.2                                                              
+151SM  G  424.8    2  48     6                                                  
+151SM  G  484.4    2  49     2                                                  
+151SMF G FL=994.15                                                              
+151SM  G  721.1    2 100     2                                                  
+151SM  L 1479      2  5/2+,3/2+                                                 
+151SMX L XREF=BE(1455)H$                                                        
+151SM cL J         L=2 in (p,d)                                                 
+151SM  L 1490.0    2  (19/2+)                                               H   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (15/2+), |DJ=1 |g to (17/2-)                             
+151SM  G  329.0                                                                 
+151SMF G FL=1161.04                                                             
+151SM  G  347.6                                                                 
+151SMF G FL=1142.2                                                              
+151SM  G  399.1    4                                                            
+151SM  G  495.9    2  100    9                                                  
+151SMF G FL=994.15                                                              
+151SM  G  732.3    4   45    4                                                  
+151SM  L 1490.5    3 (13/2+,11/2+)                                              
+151SMX L XREF=FJK$                                                              
+151SM cL J         L=6 in (|a,{+3}He)                                           
+151SM  L 1502.5    2 (23/2-)                                                C   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g's to (21/2+) and (25/2+)                                    
+151SM  G  266.1    4    5.8  3                                                  
+151SMF G FL=1236.53                                                             
+151SM  G  359.7    4   1.3   3                                                  
+151SMF G FL=1142.2                                                              
+151SM  G  744.85   13 100    2                                                  
+151SM  L 1524      30                                                           
+151SMX L XREF=FJ(1568)$                                                         
+151SM  L 1531.17   16 (21/2-)                                               E   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (17/2-); |g to (21/2+)                                   
+151SM  G  169.7    8                                                           ?
+151SM  G  307.5    4                                                            
+151SM  G  388.8                                                                 
+151SMF G FL=1142.2                                                              
+151SM  G  476.95   15 100    20                                                 
+151SM  G  537.4    4                                                            
+151SMF G FL=994.15                                                              
+151SM  G  774.0    5                                                            
+151SM  L 1532.88   13 (23/2+)                                               B   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1, D+Q to (25/2+); |g to (19/2+)                                 
+151SM  G  211.1                                                                 
+151SMF G FL=1321.83                                                             
+151SM  G  296.3    2  29     6                                                  
+151SM  G  478.9    2  77     4                                                  
+151SM  G  775.4    2  100    6                                                  
+151SM  L 1546      10                                                           
+151SMX L XREF=FJK$                                                              
+151SM  L 1625      15                                                           
+151SMX L XREF=FJK$                                                              
+151SM  L 1625.56   16 (21/2+)                                               I   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (17/2+); |DJ=1 |g to (19/2-)                             
+151SM  G  246.6    4                                                            
+151SM  G  434.8    4                                                            
+151SM  G  571.6    2  100    10                                                 
+151SM  G  867.7    4   23    2                                                  
+151SM  G 1242.3    4   37    2                                                  
+151SM  L 1628.1    2  (17/2)                                                O   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to (15/2-) and band assignment                                    
+151SM  G  979.7    4  100    14                                                 
+151SM  G 1183.6    4   89    11                                                 
+151SM  L 1630.0    2 (23/2-)                                                L   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (19/2-); |DJ=1, D+Q |g to (21/2-)                        
+151SM  G  268.5    2  63     1                                                  
+151SM  G  522.4    2 100     2                                                  
+151SM  L 1705      3 (3/2+,5/2+)                                                
+151SMX L XREF=BH(1670)JK$                                                       
+151SM cL J         L=2 in (p,d) and ({+3}He,|a)                                 
+151SM  L 1705.8    2   (21/2-)                                              D   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (19/2+); |g to (23/2-)                                   
+151SM  G  203.3                                                                 
+151SM  G  544.9    4   33    4                                                  
+151SMF G FL=1161.04                                                             
+151SM  G  563.4                                                                 
+151SMF G FL=1142.2                                                              
+151SM  G  651.7    2  100    8                                                  
+151SM  L 1721.1    3   (19/2)                                               N   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to (19/2-) and band assignment                                    
+151SM  G  613.6                                                                 
+151SM  G  851.8    4  100    5                                                  
+151SMF G FL=869.43                                                              
+151SM  L 1740.17   15 (25/2+)                                               F   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g's to (21/2+), |g to (25/2+)                                 
+151SM  G 207.3                                                                  
+151SM  G 237.6                                                                  
+151SM  G 418.3     2  100    1                                                  
+151SMF G FL=1321.83                                                             
+151SM  G 503.7     4   0.81  5                                                  
+151SMF G FL=1236.53                                                             
+151SM  G 982.4     2  25     1                                                  
+151SM  L 1746      9 (3/2+,5/2+)                                                
+151SMX L XREF=HJK$                                                              
+151SM cL J         L=2 in (p,d)                                                 
+151SM  L 1771      9                                                            
+151SMX L XREF=K$                                                                
+151SM  L 1798.2    4 (29/2+)                                                A   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (25/2+) and band assignment                              
+151SM  G  561.7    1 100                                                        
+151SMF G FL=1236.53                                                             
+151SM  L 1815      3                                                            
+151SMX L XREF=BHJK$                                                             
+151SM cL E$doublet in (p,d) and ({+3}He,|a). E(level) from (t,p)                
+151SM cL J$L=(2+4) in (p,d) and L=4,5 in ({+3}He,|a) suggests that              
+151SM2cL there are at least two levels, one with J|p=(3/2+5/2+) and the         
+151SM3cL other with J|p=9/2+, 7/2+, 11/2-, 9/2-                                 
+151SM  L 1830.4    2 (23/2+)                                                K   
+151SMX L XREF=C                                                                 
+151SM cL J$|g's to (21/2+) and (21/2-); band assignment                         
+151SM  G 351.7                                                                  
+151SMF G FL=1478.6                                                              
+151SM  G 443.7     4   15    1                                                  
+151SMF G FL=1386.6                                                              
+151SM  G 1072.7    2  100    3                                                  
+151SM  L 1835.4    2  (19/2)                                                O   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to (17/2-) and band assignment                                    
+151SM  G 207.5     4                                                            
+151SM  G 966.1     4  100    6                                                  
+151SMF G FL=869.43                                                              
+151SM  G 1187.1    4    7    2                                                  
+151SM  L 1845      11                                                           
+151SMX L XREF=K$                                                                
+151SM  L 1871      11                                                           
+151SMX L XREF=K$                                                                
+151SM  L 1883.1    2  (21/2)                                                M   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (19/2-); |g to (21/2-) and band assignment               
+151SM  G  162.0                                                                 
+151SM  G  521.8                                                                 
+151SM  G  775.6    2  100    2                                                  
+151SM  L 1904      13                                                           
+151SMX L XREF=HJK$                                                              
+151SM cL J         L=2+5 in (p,d) suggests a doublet with J|p=3/2+, 5/2+        
+151SM2cL for one level and J|p=9/2-, 11/2- for the other                        
+151SM  L 1906.57   15 (25/2-)                                               E   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (21/2-); |DJ=1 |g to (23/2-)                             
+151SM  G 373.9     2  100    9                                                  
+151SM  G 375.1     4                                                            
+151SM  G 403.7     4   21    3                                                  
+151SM  G 427.8     4   15    3                                                  
+151SMF G FL=1478.6                                                              
+151SM  G 670.0     2   53    9                                                  
+151SM  L 1911.87   16(25/2-)                                                L   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (21/2-); |DJ=1, D+Q |g to (23/2-)                        
+151SM  G  282.1    2    58   1                                                  
+151SM  G  550.6    2   100   2                                                  
+151SM  L  1916.6   2   (21/2)                                               N   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1, D+Q |g to (19/2-); |g to (21/2-) and band assignment          
+151SM  G  195.5    4                                                            
+151SM  G  555.3                                                                 
+151SM  G  809.3    4  100    9                                                  
+151SM  L 1927.26   15 (27/2-)                                               C   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to (25/2+); |g to (29/2+)                                   
+151SM  G  129.9    4  1.3    1                                                  
+151SM  G  424.4    4  2.7    4                                                  
+151SM  G  690.6    2 100     1                                                  
+151SMF G FL=1236.53                                                             
+151SM  L 1936.6    2  (23/2-)                                               J   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (21/2+); |g to (19/2-) and band assignment               
+151SM  G 311.0                                                                  
+151SMF G FL=1625.56                                                             
+151SM  G 557.7                                                                  
+151SM  G 1178.9    2 100     4                                                  
+151SM  L 1953      8                                                            
+151SMX L XREF=K$                                                                
+151SM  L 1955.1    2 (23/2+)                                                H   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (19/2+); |g to (25/2+)                                   
+151SM  G 465.1     2  100    7                                                  
+151SMF G FL=1490.0                                                              
+151SM  G 476.4                                                                  
+151SMF G FL=1478.6                                                              
+151SM  G 718.6     4  41     6                                                  
+151SMF G FL=1236.53                                                             
+151SM  L 1991      10                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2018.69   15 (25/2-)                                               G   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (21/2-); |DJ=0 |g to (25/2+)                             
+151SM  G 485.8                                                                  
+151SM  G 487.5                                                                  
+151SM  G 516.2                                                                  
+151SM  G 540.1     2  100    10                                                 
+151SM  G 782.1     2   62    2                                                  
+151SM  L 2040      11(3/2+,5/2+)                                                
+151SMX L XREF=HK$                                                               
+151SM cL J         L=2 in (p,d)                                                 
+151SM  L 2041.3    2  (21/2)                                                O   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to (19/2-) and band structure                                     
+151SM  G 206.1     4                                                            
+151SM  G 413.5     4                                                            
+151SM  G 933.9     4  100    6                                                  
+151SM  G 1171.4    4    8    3                                                  
+151SMF G FL=869.43                                                              
+151SM  L 2045      11                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2080      11                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2089.10   14 (27/2+)                                               B   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (23/2+); |DJ=1, D+Q |g's to (29/2+) and (25/2+)          
+151SM  G 182.5                                                                  
+151SM  G 290.8     4  15     1                                                  
+151SM  G 348.9                                                                  
+151SM  G 556.3     2  100    2                                                  
+151SM  G 852.5     2   56    1                                                  
+151SM  L 2097.7    3  (25/2+)                                               I   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g to (21/2+); |DJ=0 |g to (25/2+)                             
+151SM  G 161.1                                                                  
+151SM  G 299.5                                                                  
+151SM  G 472.3     4                                                            
+151SMF G FL=1625.56                                                             
+151SM  G 860.8     4  100    7                                                  
+151SMF G FL=1236.53                                                             
+151SM  L 2102                                                                  ?
+151SMX L XREF=K$                                                                
+151SM  L 2107.2    2 (23/2)                                                 M   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (21/2); |g to (23/2-)                                    
+151SM  G 190.6                                                                  
+151SMF G FL=1916.6                                                              
+151SM  G 224.0     4                                                            
+151SM  G 386.1                                                                  
+151SM  G 477.3                                                                  
+151SM  G 745.9     4  100    15                                                 
+151SM  L 2119                                                                  ?
+151SMX L XREF=K$                                                                
+151SM  L 2132.8    2 (23/2)                                                 N   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (21/2-); |g to (23/2-)                                   
+151SM  G 216.1     4                                                            
+151SMF G FL=1916.6                                                              
+151SM  G 411.9     4                                                            
+151SM  G 502.9                                                                  
+151SM  G 771.5     4  100    5                                                  
+151SM  L 2134      11                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2165      11                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2205                                                                  ?
+151SMX L XREF=K$                                                                
+151SM  L 2205.5    2 (27/2-)                                                L   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (23/2-); |DJ=1 |g to (25/2-)                             
+151SM  G  293.5    3  40     20                                                 
+151SM  G  575.7    2 100     30                                                 
+151SM  L 2229.2    2 (29/2+)                                                F   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=2 |g's to (25/2+); |DJ=1 |g to (27/2-)                           
+151SM  G 302.0     4  10     2                                                  
+151SM  G 431.0                                                                  
+151SM  G 488.9     2  100    2                                                  
+151SM  G 992.7     4    9    1                                                  
+151SMF G FL=1236.53                                                             
+151SM  L 2233      13                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2242.1    3 (25/2-)                                                D   
+151SMX L XREF=C                                                                 
+151SM cL J$|DJ=1 |g to (23/2+); |g to (27/2-)                                   
+151SM  G 314.8                                                                  
+151SM  G 536.3     4  20     6                                                  
+151SM  G 709.1     4  100    7                                                  
+151SM  L 2248.3    2  (23/2)                                                O   
+151SMX L XREF=C                                                                 
+151SM cL J$|g to (21/2-) and band assignment                                    
+151SM  G 206.9     4                                                            
+151SM  G 412.8     4                                                            
+151SM  G 886.9     4  100    14                                                 
+151SM  G 1140.4    4   43    14                                                 
+151SM  L 2259      13                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2299      11                                                           
+151SMX L XREF=K$                                                                
+151SM  L 2350.9    2  (25/2)                                                M   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (21/2) and (25/2-); band assignment                          
+151SM  G 218.1                                                                  
+151SM  G 243.8     4                                                            
+151SM  G 434.3                                                                  
+151SMF G FL=1916.6                                                              
+151SM  G 439.0     4  100    8                                                  
+151SM  G 467.9     4                                                            
+151SM  G 720.8     4   42    4                                                  
+151SM  L 2351.2    2  (27/2+)                                               K   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (25/2+) and (25/2-); band assignment                         
+151SM  G 444.6                                                                  
+151SM  G 520.8     4  38     2                                                  
+151SM  G 1114.5    4  100    5                                                  
+151SMF G FL=1236.53                                                             
+151SM  L 2364.3    2  (25/2)                                                N   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to (23/2-) and |g to (25/2-); band assignment               
+151SM  G 231.5     4                                                            
+151SM  G 448.0     4                                                            
+151SM  G 452.4                                                                  
+151SM  G 734.4     4  100    5                                                  
+151SM  L 2375.8    2  (29/2-)                                               E   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (25/2-); |DJ=1, D+Q |g to (27/2-)                        
+151SM  G 286.8     2  100    14                                                 
+151SM  G 448.5     2   86    7                                                  
+151SM  G 469.2     4   67    3                                                  
+151SM  G 577.6     2  89     4                                                  
+151SM  L 2423.1    2 (31/2-)                                                C   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to (29/2+) and band assignment                              
+151SM  G  495.7    4   8.2   12                                                 
+151SM  G  624.9    2  100    2                                                  
+151SM  L 2427.1    2 (33/2+)                                                A   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (29/2+) and band assignment                              
+151SM  G  629.0    1  100                                                       
+151SM  L 2444.2    2  (25/2)                                                O   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (23/2) and band assignment                                     
+151SM  G 195.3     4                                                            
+151SM  G 403.1     4                                                            
+151SM  G 814.7     4   73    9                                                  
+151SM  G 1082.9    4  100    18                                                 
+151SM  L 2472.0    3  (27/2+)                                               H   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (23/2+); |g to (29/2+)                                   
+151SM  G 453.3                                                                  
+151SM  G 517.2     4  100    17                                                 
+151SM  G 674.1     4   48    5                                                  
+151SM  L 2509.8    2 (29/2-)                                                L   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (25/2-) and |DJ=1, D+Q |g to (27/2-)                     
+151SM  G  304.1    4  25     1                                                  
+151SMF G FL=2205.5                                                              
+151SM  G  597.9    2 100     2                                                  
+151SM  L 2560.2    2  (29/2-)                                               G   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (25/2-); |DJ=0 |g to (29/2+)                             
+151SM  G 541.5     2  90     25                                                 
+151SM  G 633.2     4   8     8                                                  
+151SM  G 761.9     2  100    4                                                  
+151SM  L 2601.4    3  (29/2+)                                               I   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (25/2+); |DJ=0 |g to (29/2+)                             
+151SM  G 503.6     4                                                            
+151SM  G 674.1                                                                  
+151SM  G 803.3     4  100    4                                                  
+151SM  L 2610.8    3  (27/2)                                                N   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (25/2) and band assignment                                     
+151SM cL T$from analysis of delayed |g-ray intensities, 1992Ch43 report         
+151SM2cL T{-1/2}=23 ns {I4} for a 2606 level deexciting by a 693.6|g. But no    
+151SM3cL such |g is reported in their later work (1994Ba01) and by 1994Kh01. It 
+151SM4cL is possible that this |g is the same as the 698.8|g                    
+151SM  G 246.7     4                                                            
+151SM  G 477.9     4                                                            
+151SM  G 698.8     4  100    9                                                  
+151SM  L 2613.1    2  (27/2)                                                M   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to (25/2-); |g to (27/2-)                                   
+151SM  G 261.9     4                                                            
+151SMF G FL=2350.9                                                              
+151SM  G 407.8     4   95    12                                                 
+151SMF G FL=2205.5                                                              
+151SM  G 480.3                                                                  
+151SM  G 505.7     4                                                            
+151SM  G 701.5     4  100    10                                                 
+151SM  L 2650.8    3  (27/2)                                                O   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (25/2) and band assignment                                     
+151SM  G 207       1                                                            
+151SM  G 402.5     4                                                            
+151SM  G 739.8     4  25     25                                             X   
+151SM  G 1020.1    4  100    25                                             Y   
+151SM  L 2711.6    2  (31/2+)                                               B   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1, D+Q |g to (29/2+); |g to (31/2-)                              
+151SM  G 284.5     4   8     2                                                  
+151SM  G 288.5                                                                  
+151SM  G 335.8                                                                  
+151SM  G 482.4                                                                  
+151SM  G 622.4     2  100    6                                                  
+151SM  G 913.6     4   26    2                                                  
+151SM  L 2762.3    5  (29/2-)                                               D   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (25/2-) and (31/2-); band assignment                         
+151SM  G 339.2                                                                  
+151SM  G 520.2     4  100    31                                                 
+151SM  G 673.2                                                                  
+151SM  L 2788.4    2  (33/2+)                                               F   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (29/2+); |g to (33/2+)                                   
+151SM  G 361.1     4  2.2    5                                                  
+151SM  G 365.3                                                                  
+151SM  G 559.1     2  100    3                                                  
+151SM  G 990.2     4   3.5   9                                                  
+151SM  L 2821.4    3 (31/2-)                                                L   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1, D+Q |g to (29/2-) and band assignment                         
+151SM  G  311.6    4   19    3                                                  
+151SM  G  615.8    2  100    2                                                  
+151SMF G FL=2205.5                                                              
+151SM  L 2861.3    3  (29/2)                                                N   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (27/2) and band assignment                                     
+151SM  G 250.7     4                                                            
+151SM  G 497.2     4                                                            
+151SM  G 655.6     4  100    6                                                  
+151SMF G FL=2205.5                                                              
+151SM  L 2892.1    3  (29/2)                                                M   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (25/2); |g to (29/2-)                                    
+151SM  G 278.9     4                                                            
+151SM  G 382.3                                                                  
+151SM  G 541.3     4                                                            
+151SMF G FL=2350.9                                                              
+151SM  G 686.6                                                                  
+151SMF G FL=2205.5                                                              
+151SM  L 2898.1    2  (33/2-)                                               E   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (29/2-); |g to (33/2+)                                   
+151SM  G 186.1     4   8     1                                                  
+151SM  G 471.6     4   11    2                                                  
+151SM  G 475.3     4   21    4                                                  
+151SM  G 522.2     2  100    8                                                  
+151SM  L    2.9E3  9                                                            
+151SMX L XREF=HJ$                                                               
+151SM cL E,J       center of a wide structure. In (p,d) L=(2+5) or (2+4) for the
+151SM2cL structure suggests presence of 5/2+ and 11/2- states                   
+151SM  L 2935.6    4  (31/2+)                                               K   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (29/2+) and band assignment                                    
+151SM  G 584.3     4  59     10                                                 
+151SMF G FL=2351.2                                                              
+151SM  G 1137.5    4  100    17                                                 
+151SM  L 2991.0    2  (35/2-)                                               C   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (31/2-); |DJ=1 |g to (33/2+)                             
+151SM  G 563.8     2  100    7                                                  
+151SM  G 567.7     4   18    2                                                  
+151SM  L 3035.0    4  (31/2+)                                               H   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (33/2+) and (27/2+); band assignment                         
+151SM  G 563.6     4  100    25                                                 
+151SM  G 607.3     4   40    5                                                  
+151SM  L 3107      1  (31/2)                                                N   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (29/2) and band assignment                                     
+151SM  G 246       1                                                            
+151SM  G 495       1                                                            
+151SMF G FL=2610.8                                                              
+151SM  G 597                                                                    
+151SM  L 3108.2    2  (37/2+)                                               A   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (33/2+); |g to (35/2-)                                   
+151SM  G 116.9     4    1.5  4                                                  
+151SM  G 681.1     2  100    2                                                  
+151SM  L 3132.8    4  (33/2-)                                               L   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (31/2-) and band assignment                                    
+151SM  G 311.4     4  6.2    10                                                 
+151SM  G 623.2     4  100    3                                                  
+151SM  L 3140.2    3  (33/2-)                                               G   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=(0) |g to (33/2+) and band assignment                            
+151SM  G 580.1     4  100    17                                                 
+151SM  G 713.2     4   60    7                                                  
+151SM  G 716.9     4   3     3                                                  
+151SM  L 3183.2    5  (33/2+)                                               I   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (33/2+) and (29/2+); band assignment                         
+151SM  G 581.8     4                                                            
+151SM  G 756.1                                                                  
+151SM  G 760.1                                                                  
+151SM  L 3186.0    3  (31/2)                                                M   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (29/2) and band assignment                                     
+151SM  G 294.1     4                                                            
+151SM  G 573.0     4                                                            
+151SM  G 676.0     4  100    10                                                 
+151SM  L 3358.0    6   (33/2-)                                              D   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (29/2-) and band assignment                                    
+151SM  G 595.7     4                                                            
+151SM  L 3388.8    3  (35/2+)                                               B   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (31/2+) and (37/2+); band assignment                         
+151SM  G 280.5     4   2.4   6                                                  
+151SMF G FL=3108.2                                                              
+151SM  G 490.7                                                                  
+151SM  G 600.4                                                                  
+151SM  G 677.4     4  100    9                                                  
+151SM  G 961.6     4   27    12                                                 
+151SM  L 3408.7    2  (37/2+)                                               F   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (33/2+) and (37/2+); band assignment                         
+151SM  G 300.5     4   8     2                                                  
+151SMF G FL=3108.2                                                              
+151SM  G 620.1     2  100    20                                                 
+151SM  G 982.3     4   28    3                                                  
+151SM  L 3439.6    5  (35/2-)                                               L   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (33/2-) and band assignment                                    
+151SM  G 306.8     4                                                            
+151SM  G 618       1                                                            
+151SM  L 3478.1    3  (37/2-)                                               E   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (33/2-); |g to (35/2-)                                   
+151SM  G 371.3     4   3.6   9                                                  
+151SMF G FL=3108.2                                                              
+151SM  G 487.1                                                                  
+151SM  G 580.0     2  100    9                                                  
+151SM  L 3493.7    5  (33/2)                                                M   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (31/2) and band assignment                                     
+151SM  G 308       1                                                            
+151SM  G 601.6     4                                                            
+151SM  L 3627.0    4  (39/2-)                                               C   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=1 |g to (37/2+) and band assignment                              
+151SM  G 518.7     4  100    8                                                  
+151SMF G FL=3108.2                                                              
+151SM  G 636.1     4  48     16                                                 
+151SM  L 3764.7    5  (37/2-)                                               G   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (33/2-) and band assignment                                    
+151SM  G 624.5     4                                                            
+151SM  L 3812      1  (35/2)                                                M   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (33/2) and band assignment                                     
+151SM  G 318       1                                                            
+151SM  G 626       1                                                            
+151SM  L 3829.0    4  (41/2+)                                               A   
+151SMX L XREF=C$                                                                
+151SM cL J$|DJ=2 |g to (37/2+); |g to (39/2-)                                   
+151SM  G 202.0                                                                  
+151SM  G 720.8     4  100    7                                                  
+151SMF G FL=3108.2                                                              
+151SM  L 4080.0    5  (41/2+)                                               F   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (37/2+) and band assignment                                    
+151SM  G 671.3     4                                                            
+151SM  L 4105.6    5  (39/2+)                                               B   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (35/2+) and band assignment                                    
+151SM  G 716.8     4                                                            
+151SM  L 4122.2    5  (41/2-)                                               E   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (37/2-) and band assignment                                    
+151SM  G 644.1     4                                                            
+151SM  L 4323.5    5  (43/2-)                                               C   
+151SMX L XREF=C$                                                                
+151SM cL J$|g's to (41/2+) and (39/2-); band assignment                         
+151SM  G 494.5                                                                  
+151SM  G 696.5     4                                                            
+151SM  L 4574.0    6  (45/2+)                                               A   
+151SMX L XREF=C$                                                                
+151SM cL J$|g to (41/2+) and band assignment                                    
+151SM  G 745.0     4  100                                                       
+151SM  L    5.9E3  21                                                           
+151SMX L XREF=H$                                                                
+151SM cL E         center of a wide structure with L=(2+5) or (2+4)             
+
+
+

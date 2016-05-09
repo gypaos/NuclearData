@@ -1,0 +1,636 @@
+150ND    ADOPTED LEVELS, GAMMAS                                  13NDS    201306
+150ND  H TYP=MOD$AUT=B. Singh$DAT=11-Jan-2016$COM=added gs decay mode$          
+150ND  H TYP=FUL$AUT=S. K. Basu, A. A. Sonzogni$CIT=NDS 114, 435 (2013)$        
+150ND2 H CUT=1-Apr-2013$                                                        
+150ND  Q -83       20 7375.1 20 9929   10 -469    16   2012WA38                 
+150ND cQ $S(2n)=12413.9 {I20}, S(2p)=17859 {I11} (2012Wa38)                     
+150ND cL E$Deduced from E|g if levels connected by |g, others from populating   
+150ND2cL reaction                                                               
+150ND cL E(Y)$From (n,n'|g).                                                    
+150ND cG E$From (d,d'|g) below 1061 level and {+150}Pr |b{+-} decay (6.19 s)    
+150ND2cG above, or from Coulomb excitation.                                     
+150ND cL J(G)$From |s(|q), relative strengths within bands, and energy          
+150ND2cL spacings compared to g.s. band in {+150}Sm(d,{+6}Li).                  
+150ND cL J(K)$Level is Coulomb excited and is member of g.s. rotational band    
+150ND CL BAND(A,K)$GS ROTATIONAL BAND.                                          
+150ND CL BAND(B)$K=0 BETA BAND.                                                 
+150ND cG RI(J)$From (p,p'|g)                                                    
+150ND CL BAND(D)$K=0 OCTUPOLE BAND.                                             
+150ND CL BAND(E)$G-VIBRATIONAL BAND.                                            
+150ND cL E(L)$From {+150}Nd(d,d'|g)                                             
+150ND cL J$Unless specific arguments are given, J|p are from L-value in         
+150ND2cL inelastic scattering. Natural parity is expected. For levels seen      
+150ND3cL only in (|g,|g'), J|p are based upon |g(|q) and linear polarization    
+150ND4cL measurements.                                                          
+150ND cL E(X)$From (d,d'|g) (1980Ka24).                                         
+150ND cL T(M)$From Coulomb excitation                                           
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150ND  XA148ND(T,P)                                                             
+150ND  XB150ND(N,N'G)                                                           
+150ND  XC150ND(D,D'G)                                                           
+150ND  XDCOULOMB EXCITATION                                                     
+150ND  XE154SM(D,6LI)                                                           
+150ND  XF150PR B- DECAY (6.19 S)                                                
+150ND  XG150ND(E,E')                                                            
+150ND  XH150ND(P,P'),(D,D')                                                     
+150ND  XI150ND(G,G')                                                            
+150ND  XJ150ND(P,P'G)                                                           
+150ND  XK252CF SF DECAY                                                         
+150ND  L 0            0+                0.91E19 Y 7                         A   
+150NDX L XREF=ABCDEFGHIJK                                                       
+150ND2 L %2B-=100                                                               
+150ND cL T$from 2010Si06, 2009Ar10. The half-life for the decay to the first    
+150ND2cL 0+ state in {+150}Sm is 1.33|*10{+20} y (2009Ba21)                     
+150ND  L 130.21    7  2+                1.48 NS   3                         A   
+150NDX L XREF=ABCDEFGHIJK                                                       
+150ND2 L MOME2=-2.0 5 (1989Ra17) $MOMM1=+0.84 4 (2001Ho02)                      
+150ND cL J$from Coul. ex.                                                       
+150ND cL T$from B(E2) evaluation of 2001Ra27                                    
+150ND cL MOMM1$average value obtained by 2001Ho02                               
+150ND  G 130.22    9  100       [E2]                    0.857                   
+150NDS G KC=0.552 8$LC=0.238 4$MC=0.0538 8$NC=0.01166 17$OC=0.001532 22$        
+150NDS G PC=2.55E-5 4$NC+=0.01322 19                                            
+150NDB G BE2W=116 3                                                             
+150ND  L 381.10    8  4+                60.5 PS   5                         K   
+150NDX L XREF=BCDEFGHJK                                                         
+150NDF L FLAG=M                                                                 
+150ND2 L MOMM1=+1.8 3 (2001Ho02)                                                
+150ND cL J$E2 to 2+ level. |m; see 2+ level                                     
+150ND  G 251.24    9  100       [E2]                    0.0922                  
+150NDS G KC=0.0712 10$LC=0.01646 24$MC=0.00363 6$NC=0.000795 12$                
+150NDS G OC=0.0001102 16$PC=3.79E-6 6$NC+=0.000909 13                           
+150NDB G BE2W=180.7 16                                                          
+150ND  L 675.9     3  0+                5.7 PS    3                         B   
+150NDX L XREF=ABCDEFHJ                                                          
+150NDF L FLAG=M                                                                 
+150ND cL J$from L=0 in (t,p).                                                   
+150ND  G 545.4     4  100       [E2]                   0.0093514                
+150NDL G FL=130.21                                                              
+150NDS G KC=0.00778 11$LC=0.001235 18$MC=0.000265 4$NC=5.89E-5 9$OC=8.63E-6 13$ 
+150NDS G PC=4.59E-7 7$NC+=6.77E-5 10                                            
+150NDB G BE2W=43.1 23                                                           
+150ND cG BE2W$From B(E2) (2 to 0)=0.0428 {i19} in Coul ex                       
+150ND  L 720.16    11 6+                12.5 PS   5                         K   
+150NDX L XREF=BCDEGHJK                                                          
+150NDF L FLAG=M                                                                 
+150ND2 L MOMM1=+2.1 4 (2001Ho02)                                                
+150ND  G 339.1     5  100       [E2]                    0.0359                  
+150NDS G KC=0.0288 5$LC=0.00557 9$MC=0.001214 19$NC=0.000268 4$OC=3.80E-5 6$    
+150NDS G PC=1.612E-6 24$NC+=0.000307 5                                          
+150NDB G BE2W=206 9                                                             
+150ND  L 850.75    8  2+                4.5 PS    14                        B   
+150NDX L XREF=ABCDEFGJ                                                          
+150NDF L FLAG=M                                                                 
+150ND cL J$from Coulomb excitation and decay to 0+ and 4+ levels.               
+150ND  G 174.3     5  1.4    10 [E2]                    0.312 6                 
+150NDS G KC=0.223 4$LC=0.0695 13$MC=0.0155 3$NC=0.00339 7$OC=0.000455 9$        
+150NDS G PC=1.102E-5 18$NC+=0.00385 7                                           
+150NDB G BE2W=1.6E+2 13                                                         
+150ND  G 469.18    19 23.2   8  [E2]                   0.01400                  
+150NDS G KC=0.01154 17$LC=0.00193 3$MC=0.000417 6$NC=9.23E-5 13$OC=1.342E-5 19$ 
+150NDS G PC=6.73E-7 10$NC+=0.0001064 15                                         
+150NDB G BE2W=19 7                                                              
+150ND cG BE2W$From B(E2)|^ (from 381.5-keV (4+) level)=0.052 {i15}.             
+150ND  G 720.50    19 100       [E2]                   0.004677                 
+150NDS G KC=0.00394 6$LC=0.000578 9$MC=0.0001234 18$NC=2.75E-5 4$OC=4.08E-6 6$  
+150NDS G PC=2.36E-7 4$NC+=3.18E-5 5                                             
+150NDB G BE2W=10 3                                                              
+150ND cG BE2W$From B(E2)|^ (from 130-keV (2+) level)                            
+150ND  G 850.9     4  16     9  [E2]                   0.003195                 
+150NDS G KC=0.00270 4$LC=0.000383 6$MC=8.13E-5 12$NC=1.81E-5 3$OC=2.71E-6 4$    
+150NDS G PC=1.631E-7 23$NC+=2.10E-5 3                                           
+150NDB G BE2W=0.7 5                                                             
+150ND cG BE2W$From B(E2)|^ and adopted branching ratio.                         
+150ND  L 852.88    10 1-                46 FS     +7-6                      D   
+150NDX L XREF=BCDFGHIJ                                                          
+150ND cL J$decay to 0+,2+; L=1, natural parity in inelastic scattering, member  
+150ND2cL of K=0 octupole band.                                                  
+150ND cL T$from DSAM in (n,n'|g), other: 0.36 ps {I+5-9} Coul. Ex. (2004Zi02)   
+150ND  G 722.75    15 100    6  [E1]                                            
+150NDS G CC=0.001771 25$KC=0.001524 22$LC=0.000195 3$MC=4.10E-5 6$              
+150NDS G OC=1.388E-6 20$PC=8.96E-8 13$NC+=1.064E-5 1                            
+150NDB G BE1W=0.0074 +12-13                                                     
+150ND cG                                                                        
+150ND  G 852.91    15 87     6  [E1]                                            
+150NDS G CC=0.001269 18$KC=0.001093 16$LC=0.0001392 20$MC=2.92E-5 4$            
+150NDS G OC=9.91E-7 14$PC=6.45E-8 9$NC+=7.59E-6                                 
+150NDB G BE1W=0.0039 +6-7                                                       
+150ND cG                                                                        
+150ND  L 934.53    8  3-                82 FS    +12-10                     D   
+150NDX L XREF=BCDEFGHJ                                                          
+150ND cL J$|a|g(|q) in (|a,|a'|g) (1963Ha20).                                   
+150ND cL T$from DSAM in (n,n'|g)                                                
+150ND  G 553.24    5  34.8   18 [E1]                   0.003145              C  
+150NDS G KC=0.00269 4$LC=0.000349 5$MC=7.35E-5 11$NC=1.640E-5 23$OC=2.47E-6 4$  
+150NDS G PC=1.571E-7 22$NC+=1.90E-5 3                                           
+150NDB G BE1W=0.0045 +6-7                                                       
+150ND  G 804.47    5  100    4  [E1]                                         C  
+150NDS G CC=0.001425 20$KC=0.001227 18$LC=0.0001566 22$MC=3.29E-5 5$            
+150NDS G OC=1.114E-6 16$PC=7.23E-8 11$NC+=8.53E-6                               
+150NDB G BE1W=0.0042 +6-7                                                       
+150ND  L 1062.05   8  2+                1.46 PS   21                        E   
+150NDX L XREF=BCDEFGHJ                                                          
+150NDF L FLAG=M                                                                 
+150ND cL J$from Coul. ex. and |g decay to 0+ and 2+ states.                     
+150ND  G 680.30    21 6      4  [E2]                   0.005369                 
+150NDS G KC=0.00451 8$LC=0.000672 11$MC=0.0001434 24$NC=3.19E-5 6$OC=4.73E-6 8$ 
+150NDS G PC=2.70E-7 5$NC+=3.69E-5 6                                             
+150NDB G BE2W=1.7 12                                                            
+150ND cG                                                                        
+150ND cG                                                                        
+150ND  G 931.91    15 95     16 [M1+E2]   1.5    GT    0.0028222                
+150NDS G KC=0.00240 19$LC=0.000330 22$MC=7.0E-5 5$NC=1.56E-5 11$OC=2.35E-6 17$  
+150NDS G PC=1.47E-7 13$NC+=1.81E-5 13                                           
+150NDB G BE2W GT 2.9$BM1W LT 0.0033                                             
+150ND cG MR$from the adopted T{-1/2}(1062) and branching(932) and the measured  
+150ND2cG B(E2)(932).                                                            
+150ND  G 1061.96   15 100    4  [E2]                   0.001973                 
+150NDS G KC=0.001684 24$LC=0.000229 4$MC=4.86E-5 7$NC=1.084E-5 16$              
+150NDS G OC=1.634E-6 23$PC=1.020E-7 15$NC+=1.258E-5 18                          
+150NDB G BE2W=3.0 6                                                             
+150ND cG $B(E2)(W.u.) from B(E2)|^ in Coulomb excitation.                       
+150ND  L 1128.90   10 5-                0.07 PS   +20-4                     D   
+150NDX L XREF=BCDGHJ                                                            
+150NDF L FLAG=X                                                                 
+150ND cL J$from comparison of expected relative cross section and intensity of  
+150ND2cL 747.6-keV |g ray, and also decay to 4+ and 6+ levels in (d,d'|g).      
+150ND3cL Systematics of N=90 nuclei support interpretation as 5- member of      
+150ND4cL octupole band.                                                         
+150ND cL T$from DSAM in (n,n'|g)                                                
+150ND  G 408.73    6  15.9   20 [E1]                   0.006319                 
+150NDS G KC=0.00541 8$LC=0.000710 10$MC=0.0001496 21$NC=3.33E-5 5$OC=5.01E-6 7$ 
+150NDS G PC=3.11E-7 5$NC+=3.86E-5 6                                             
+150NDB G BE1W=0.007 +9-5                                                        
+150ND  G 747.80    6  100.0  33 [E1]                                            
+150NDS G CC=0.001652 24$KC=0.001422 20$LC=0.000182 3$MC=3.82E-5 6$              
+150NDS G OC=1.293E-6 19$PC=8.36E-8 12$NC+=9.91E-6 14                            
+150NDB G BE1W=0.007 +9-5                                                        
+150ND  L 1129.6    5  8+                4.7 PS    5                         K   
+150NDX L XREF=B(1126)DEJK                                                       
+150NDF L FLAG=M                                                                 
+150ND2 L MOMM1=+4.5 10 (2001Ho02)                                               
+150ND  G 409.5     5  100       [E2]                    0.0205                  
+150NDS G KC=0.01677 25$LC=0.00297 5$MC=0.000643 10$NC=0.0001420 21$             
+150NDS G OC=2.04E-5 3$PC=9.63E-7 14$NC+=0.0001634 24                            
+150NDB G BE2W=216 23                                                            
+150ND  L 1137.84   12 4+                3.3 PS    3                         B   
+150NDX L XREF=BCDEJ                                                             
+150NDF L FLAG=XM                                                                
+150ND cL J$from Coulomb excitation and decay to 4+, 6+ states. Interpretation   
+150ND2cL as member of |b band supported by systematics of N=90 nuclei.          
+150ND  G 203.2                                                                  
+150ND  G 287.3        1.3    4  [E2]                    0.0600                  
+150NDS G KC=0.0472 7$LC=0.01002 14$MC=0.00220 3$NC=0.000483 7$OC=6.77E-5 10$    
+150NDS G PC=2.58E-6 4$NC+=0.000553 8                                            
+150NDB G BE2W=23 8                                                              
+150ND  G 417.4        3.4    6  [E2]                    0.0194                 ?
+150NDS G KC=0.01590 23$LC=0.00279 4$MC=0.000604 9$NC=0.0001335 19$OC=1.92E-5 3$ 
+150NDS G PC=9.15E-7 13$NC+=0.0001537 22                                         
+150NDB G BE2W=9.2 22                                                            
+150ND cG RI$44 {I8} in (p,p'|g)                                                 
+150ND  G 756.3        100    14 [M1+E2]                 0.005413                
+150NDS G KC=0.0046 11$LC=0.00063 12$MC=0.000133 25$NC=3.0E-5 6$OC=4.5E-6 9$     
+150NDS G PC=2.8E-7 8$NC+=3.4E-5 7                                               
+150ND  G 1007.6       0.46   8  [E2]                   0.002213                 
+150NDS G KC=0.00188 3$LC=0.000258 4$MC=5.47E-5 8$NC=1.220E-5 17$OC=1.84E-6 3$   
+150NDS G PC=1.137E-7 16$NC+=1.415E-5 20                                         
+150NDB G BE2W=0.015 4                                                           
+150ND  L 1182.27   18 LE 2              0.5 NS    LT                            
+150NDX L XREF=BFG(1189)J                                                        
+150ND cL J$from |g(|q) in (n,n'|g).                                             
+150ND cL T$from 1986Fo05 in |b{+-} decay.                                       
+150ND  G 248.34       100    14                                                 
+150NDF G FLAG=J                                                                 
+150ND  G 329.37    15 66     10                                              C  
+150NDF G FLAG=J                                                                 
+150ND  L 1200.55   8  3(+)                                                  E   
+150NDX L XREF=BCFJ                                                              
+150NDF L FLAG=X                                                                 
+150ND cL J$from |g(|q) in (n,n'|g).                                             
+150ND  G 819.10    20 21     5                                                  
+150ND  G 1070.30   20 100    10                                                 
+150ND  L 1250                                                                   
+150NDX L XREF=G                                                                 
+150ND  L 1265      20                                                           
+150NDX L XREF=E                                                                 
+150ND  L 1283.68   12 (1-)              0.5 NS    LT                            
+150NDX L XREF=BEFHJ                                                             
+150ND cL J$(1,2) from |g(|q) in (n,n'|g). (0+,1-) in (p,p'),(d,d')              
+150ND cL T$from 1986Fo05 in |b{+-} decay.                                       
+150ND  G 349.02    15 71     5                                               C  
+150ND  G 431.00    15 100    5                                               C  
+150ND  G 432.79    20 50     5                                               C  
+150ND  L 1307.5       (3,4)                                                     
+150NDX L XREF=BG                                                                
+150ND cL J$from |g(|q) in (n,n'|g).                                             
+150ND  L 1318      2  (1-)                                                      
+150NDX L XREF=H                                                                 
+150ND  L 1352.5    4  4+                2.0 PS    6                         E   
+150NDX L XREF=BCDEGHJ                                                           
+150NDF L FLAG=XM                                                                
+150ND cL J$from |g(|q) in (n,n'|g).                                             
+150ND  G 289.57       6.4    10 [E2]                    0.0585                  
+150NDF G FLAG=J                                                                 
+150NDS G KC=0.0461 7$LC=0.00974 14$MC=0.00214 3$NC=0.000469 7$OC=6.58E-5 10$    
+150NDS G PC=2.52E-6 4$NC+=0.000537 8                                            
+150NDB G BE2W=1.3E+2 5                                                          
+150ND  G 633.0                                                                  
+150ND  G 972.0        100    11 [M1+E2]                 0.00307                ?
+150NDF G FLAG=J                                                                 
+150NDS G KC=0.0026 6$LC=0.00034 7$MC=7.2E-5 14$NC=1.6E-5 3$OC=2.5E-6 5$         
+150NDS G PC=1.6E-7 4$NC+=1.9E-5 4                                               
+150ND  G 1223.2       39     5  [E2]                                           ?
+150NDL G FL=130.21                                                              
+150NDF G FLAG=J                                                                 
+150NDS G CC=0.001486 21$KC=0.001263 18$LC=0.0001688 24$MC=3.57E-5 5$            
+150NDS G OC=1.205E-6 17$PC=7.66E-8 11$NC+=1.80E-5                               
+150NDB G BE2W=0.58 20                                                           
+150ND  L 1426.7       (2+)                                                      
+150NDX L XREF=BH(1408)                                                          
+150ND  L 1432.8    8  (7-)                                                  D   
+150NDX L XREF=DJ                                                                
+150ND  G 303.33       50     14                                                 
+150NDL G FL=1129.6                                                              
+150NDF G FLAG=J                                                                 
+150ND  G 712.44       100    22                                                 
+150NDF G FLAG=J                                                                 
+150ND  L 1435.03   9  2-                0.6 PS    +4-2                          
+150NDX L XREF=BDFGHJ                                                            
+150ND cL J$from excitation function in (n,n'|g)                                 
+150ND cL T$from DSAM in (n,n'|g)                                                
+150ND  G 234.46    5  12.0   8  [E1]                    0.0257                  
+150NDS G KC=0.0220 3$LC=0.00296 5$MC=0.000623 9$NC=0.0001384 20$OC=2.05E-5 3$   
+150NDS G PC=1.211E-6 17$NC+=0.0001602 23                                        
+150NDB G BE1W=0.0031 +15-12                                                     
+150ND  G 373.05    10 100    3  [E1]                   0.0078711             C  
+150NDS G KC=0.00674 10$LC=0.000889 13$MC=0.000187 3$NC=4.17E-5 6$OC=6.25E-6 9$  
+150NDS G PC=3.86E-7 6$NC+=4.83E-5 7                                             
+150NDB G BE1W=0.006 3                                                           
+150ND  G 582          1      LT                                                 
+150ND  G 584.27    6  2.9    6  [E1]                   0.002784                 
+150NDS G KC=0.00239 4$LC=0.000309 5$MC=6.50E-5 10$NC=1.451E-5 21$OC=2.19E-6 3$  
+150NDS G PC=1.397E-7 20$NC+=1.684E-5 24                                         
+150NDB G BE1W=4.9E-5 +24-20                                                     
+150ND  G 1305         1      LT                                                 
+150ND  L 1483.58   8  3-                0.35 PS   +11-7                         
+150NDX L XREF=BEGHJ                                                             
+150ND cL T$from DSAM in (n,n'|g)                                                
+150ND  G 283.03    5  26.4   16 [E1]                   0.01573                  
+150NDS G KC=0.01346 19$LC=0.00180 3$MC=0.000379 6$NC=8.42E-5 12$OC=1.255E-5 18$ 
+150NDS G PC=7.55E-7 11$NC+=9.75E-5 14                                           
+150NDB G BE1W=0.0026 +7-6                                                       
+150ND  G 345.74    9  6.8    13 [E1]                   0.0094914                
+150NDS G KC=0.00813 12$LC=0.001075 15$MC=0.000226 4$NC=5.04E-5 7$OC=7.55E-6 11$ 
+150NDS G PC=4.62E-7 7$NC+=5.84E-5 9                                             
+150NDB G BE1W=3.7E-4 9                                                          
+150ND  G 421.49    5  67     3  [E1]                   0.005869                 
+150NDS G KC=0.00503 7$LC=0.000659 10$MC=0.0001388 20$NC=3.09E-5 5$OC=4.65E-6 7$ 
+150NDS G PC=2.90E-7 4$NC+=3.59E-5 5                                             
+150NDB G BE1W=0.0020 5                                                          
+150ND  G 632.77    6  9.0    10 [E1]                   0.002344                 
+150NDS G KC=0.00201 3$LC=0.000259 4$MC=5.45E-5 8$NC=1.218E-5 17$OC=1.84E-6 3$   
+150NDS G PC=1.179E-7 17$NC+=1.413E-5 20                                         
+150NDB G BE1W=8.1E-5 +20-19                                                     
+150ND  G 1102.83   5  100    4  [E1]                                            
+150NDS G CC=0.000782 11$KC=0.000672 10$LC=8.48E-5 12$MC=1.779E-5 25$            
+150NDS G OC=6.05E-7 9$PC=3.98E-8 6$NC+=7.12E-6                                  
+150NDB G BE1W=1.7E-4 4                                                          
+150ND  G 1353.10   5  87     4  [E1]                                            
+150NDS G CC=0.000650 9$KC=0.000467 7$LC=5.85E-5 9$MC=1.227E-5 18$NC=2.74E-6 4$  
+150NDS G OC=4.18E-7 6$PC=2.77E-8 4$NC+=0.0001116 1                              
+150NDB G BE1W=8.0E-5 +20-19                                                     
+150ND  L 1488.2    7  0:2                                                       
+150NDX L XREF=J                                                                 
+150ND  G 204.15       31     7                                                  
+150ND  G 1358.31      100    16                                                 
+150ND  L 1489.9    11 1,2                                                       
+150NDX L XREF=J                                                                 
+150ND  G 813.92       100                                                       
+150ND  L 1497.0    10 3,(2,4,5)                                                 
+150NDX L XREF=J                                                                 
+150ND  G 359.16       100                                                       
+150ND  L 1517.4    7  4,5,6                                                     
+150NDX L XREF=J                                                                 
+150ND  G 797.21       69     15                                                 
+150ND  G 1136.29      100    16                                                 
+150ND  L 1518.5       3-                                                        
+150NDX L XREF=BGH                                                               
+150ND  L 1540.9    10 (6+)                                                  B   
+150NDX L XREF=D                                                                 
+150ND  G 1159.8                                                                 
+150ND  L 1545.17   21 3-                                                    Y   
+150NDX L XREF=BFG(1565)HJ                                                       
+150ND  G 694.05       25     7                                                  
+150NDF G FLAG=J                                                                 
+150ND  G 1414.97   20 100    15                                              C  
+150NDF G FLAG=J                                                                 
+150ND  L 1565.66   10 4-                0.33 PS  +28-11                         
+150NDX L XREF=B                                                                 
+150ND cL J$from excitation function in (n,n'|g)                                 
+150ND cL T$from DSAM in (n,n'|g)                                                
+150ND  G 214          9      LE                                                 
+150ND  G 365.11    5  100       [E1]                   0.0082912                
+150NDS G KC=0.00711 10$LC=0.000938 14$MC=0.000198 3$NC=4.40E-5 7$OC=6.59E-6 10$ 
+150NDS G PC=4.06E-7 6$NC+=5.10E-5 8                                             
+150NDB G BE1W=0.013 +7-6                                                        
+150ND  G 1184         2      LE                                                 
+150ND  L 1579.9    7  3-                                                        
+150NDX L XREF=BGHJ                                                              
+150ND  G 1198.5       100    12                                                 
+150ND  G 1450.05      68     9                                                  
+150ND  L 1598.5    11 10+               2.59 PS   13                        K   
+150NDX L XREF=DK                                                                
+150NDF L FLAG=M                                                                 
+150ND2 L MOMM1=+1.0 20 (2001Ho02)                                               
+150ND  G 468.9        100       [E2]                   0.01402                  
+150NDL G FL=1129.6                                                              
+150NDS G KC=0.01156 17$LC=0.00194 3$MC=0.000418 6$NC=9.25E-5 13$OC=1.344E-5 19$ 
+150NDS G PC=6.74E-7 10$NC+=0.0001066 15                                         
+150NDB G BE2W=201 11                                                            
+150ND cG E$average of 469 (Coulomb Excitation) 468.8 ({+252}Cf SF decay)        
+150ND  L 1604      2                                                            
+150NDX L XREF=EH                                                                
+150ND cL E$from (p,p')                                                          
+150ND  L 1645.0    7  5,(4)                                                     
+150NDX L XREF=J                                                                 
+150ND  G 924.82       57     9                                                  
+150ND  G 1264.01      100    14                                                 
+150ND  L 1646.6    7  3,5,(2,4)                                                 
+150NDX L XREF=J                                                                 
+150ND  G 294.29       100    16                                                 
+150ND  G 508.50       35     9                                                  
+150ND  L 1648      2  4+                                                        
+150NDX L XREF=GH                                                                
+150ND  L 1648.7    10 1,(0,2)                                                   
+150NDX L XREF=J                                                                 
+150ND  G 1518.45      100                                                       
+150ND  L 1687      2  3-                                                        
+150NDX L XREF=GH                                                                
+150ND  L 1714.3    3                                                            
+150NDX L XREF=F                                                                 
+150ND  G 1584.1    3  100    20                                              C  
+150ND  L 1738.3    4  0+                                                        
+150NDX L XREF=FGHJ                                                              
+150ND  G 1608.1    4  100                                                    C  
+150ND  L 1754      2  (4+)                                                      
+150NDX L XREF=H                                                                 
+150ND  L 1764.7    7  0:3                                                       
+150NDX L XREF=J                                                                 
+150ND  G 480.75       42     9                                                  
+150ND  G 912.16       100    14                                                 
+150ND  L 1776.9    12 1:5                                                       
+150NDX L XREF=J                                                                 
+150ND  G 196.98       100                                                       
+150ND  L 1781.8    10 (4+)                                                      
+150NDX L XREF=HJ                                                                
+150ND  G 847.25       100                                                       
+150ND  L 1799.6    7  (5-)                                                      
+150NDX L XREF=GHJ                                                               
+150ND  G 864.22       100    19                                                 
+150ND  G 1080.23      15     7                                                  
+150ND  L 1830      2  (5-)                                                      
+150NDX L XREF=H                                                                 
+150ND  L 1864.3    7  3-                                                        
+150NDX L XREF=G(1860)HJ                                                         
+150ND  G 1014.08      100    13                                                 
+150ND  G 1482.75      81     11                                                 
+150ND  L 1885      2  4+                                                        
+150NDX L XREF=GH                                                                
+150ND  L 1906.6    10 4+                                                        
+150NDX L XREF=GHJ                                                               
+150ND  G 844.53       100                                                       
+150ND  L 1911.5    4  0:4                                                       
+150NDX L XREF=FJ                                                                
+150ND  G 1781.3    4  100    33                                              C  
+150ND  L 1921      2  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 1967.5    4                                                            
+150NDX L XREF=F                                                                 
+150ND  G 1837.3    4  100    29                                              C  
+150ND  L 1975.7    10 1:5                                                       
+150NDX L XREF=J                                                                 
+150ND  G 775.13       100                                                       
+150ND  L 1984.5    10 1:5                                                       
+150NDX L XREF=J                                                                 
+150ND  G 1049.98      100                                                       
+150ND  L 1988      2  3-                                                        
+150NDX L XREF=GH                                                                
+150ND  L 1994.15   18                                                           
+150NDX L XREF=F                                                                 
+150ND  G 1141.26   15 100    5                                               C  
+150ND  L 2009.20   11 (1-,2,3-)                                                 
+150NDX L XREF=FH                                                                
+150ND cL J$|g decay to 1-,3- states.                                            
+150ND  G 947.30    15 57     3                                               C  
+150ND  G 1074.52   15 100    6                                               C  
+150ND  G 1156.1    3  25     4                                               C  
+150ND  G 1158.56   20 60     4                                               C  
+150ND  G 1878.9    3  9.7    14                                              C  
+150ND  L 2033      2  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2050      25 (0+)                                                  G   
+150NDX L XREF=E                                                                 
+150ND  L 2069.21   12 2+                                                        
+150NDX L XREF=FH(2055)                                                          
+150ND  G 634.1     9  22                                                     C  
+150ND  G 1007.16   15 84     5                                               C  
+150ND  G 1216.27   20 100    5                                               C  
+150ND  G 1218.48   20 50     5                                               C  
+150ND  G 1939.0    3  27     3                                               C  
+150ND  L 2077      2  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2090      2  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2109      2  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2118.7    15 (12+)             1.8 PS    +2-3                      K   
+150NDX L XREF=DK                                                                
+150ND  G 520.2                  [E2]                   0.01059                  
+150NDS G KC=0.00879 13$LC=0.001418 20$MC=0.000305 5$NC=6.76E-5 10$              
+150NDS G OC=9.89E-6 14$PC=5.17E-7 8$NC+=7.80E-5 11                              
+150NDB G BE2W=173 +29-20                                                        
+150ND cG E$average of 520.3 (Coulomb Excitation) 520.1 ({+252}Cf SF decay)      
+150ND  L 2129      2  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2174      2  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2194      2  2+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2206      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2223      4  2+                                                    G   
+150NDX L XREF=EH                                                                
+150ND cL E$from (p,p')                                                          
+150ND  L 2242      4  2+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2269      1  1                 0.006 EV  3                             
+150NDX L XREF=I                                                                 
+150ND  L 2271      4  (3-)                                                     ?
+150NDX L XREF=H                                                                 
+150ND  L 2328      4  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2384      4  2+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2408      1  1                 0.0017 EV 8                             
+150NDX L XREF=I                                                                 
+150ND  L 2412      4  (3-)                                                     ?
+150NDX L XREF=H                                                                 
+150ND  L 2414      1  1-                0.026 EV  4                             
+150NDX L XREF=I                                                                 
+150ND  L 2441      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2458         1                 0.0056 EV 11                            
+150NDX L XREF=I                                                                 
+150ND  L 2460      25 (4+)                                                  G   
+150NDX L XREF=E                                                                 
+150ND  L 2475      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2496.2    10 (1-)              0.018 EV  4                             
+150NDX L XREF=FHI                                                               
+150ND cL J$(1-,4+) in (p,p'), |g decay                                          
+150ND  G 2366.0    10 100                                                       
+150ND  L 2528      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2539.2    10                                                           
+150NDX L XREF=F                                                                 
+150ND  G 2409.0    10 100                                                       
+150ND  L 2563      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2571      1  (1)               0.008 EV  3                             
+150NDX L XREF=I                                                                 
+150ND  L 2588      1  1,2+              0.0015 EV 8                             
+150NDX L XREF=I                                                                 
+150ND  L 2596      4  5-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2620      25                                                           
+150NDX L XREF=E                                                                 
+150ND  L 2638      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2652      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2681      4  4+                                                       ?
+150NDX L XREF=H                                                                 
+150ND  L 2681      4  1+                0.012 EV  3                             
+150NDX L XREF=I                                                                 
+150ND  L 2681.6    18 (14+)                                                 K   
+150NDX L XREF=DK                                                                
+150ND  G 562.9                                                                  
+150ND cG E$average of 563.5 (Coulomb Excitation) 562.2 ({+252}Cf SF decay)      
+150ND  L 2707      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2737      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2755      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2789      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2818      4  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2836      4  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2837.2    10                                                           
+150NDX L XREF=F                                                                 
+150ND  G 2707.0    10 100                                                       
+150ND  L 2880      4  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2895      4  4+                                                       ?
+150NDX L XREF=H                                                                 
+150ND  L 2895      1  1+                0.017 EV  3                             
+150NDX L XREF=I                                                                 
+150ND  L 2920      1  2+,1              0.0024 EV 9                             
+150NDX L XREF=I                                                                 
+150ND  L 2925      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2961      4  2+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 2993      4  (1)               0.100 EV  11                            
+150NDX L XREF=HI                                                                
+150ND cL J$(1-,4+) in (p,p'), 1+ in (|g,|g')                                    
+150ND  L 3039      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 3058      1  1+                0.054 EV  6                             
+150NDX L XREF=I                                                                 
+150ND  L 3069      4  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 3085      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 3096      1  1+                0.027 EV  6                             
+150NDX L XREF=I                                                                 
+150ND  L 3103      1  1+                0.023 EV  4                             
+150NDX L XREF=I                                                                 
+150ND  L 3112      4  2+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 3157      4  (2+)                                                      
+150NDX L XREF=H                                                                 
+150ND  L 3160      1  1,2+              0.0023 EV 19                            
+150NDX L XREF=I                                                                 
+150ND  L 3180      4  (2+)                                                      
+150NDX L XREF=H                                                                 
+150ND  L 3186      1  1,2+              0.0032 EV 14                            
+150NDX L XREF=I                                                                 
+150ND  L 3221      4  (2+)              0.0075 EV 18                            
+150NDX L XREF=HI                                                                
+150ND  L 3244      1  2+,1              0.0021 EV 9                             
+150NDX L XREF=I                                                                 
+150ND  L 3252      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 3279.6    21 (16+)                                                 A   
+150NDX L XREF=K                                                                 
+150ND  G 598.0        100                                                       
+150NDL G FL=2681.6                                                              
+150ND  L 3301      4  4+                                                        
+150NDX L XREF=H                                                                 
+150ND  L 3315      4  3-                                                        
+150NDX L XREF=H                                                                 
+150ND  L 3327         1                 0.0101 EV 22                            
+150NDX L XREF=I                                                                 
+150ND  L 3340      4  (4+)                                                     ?
+150NDX L XREF=H                                                                 
+150ND  L 3342      1  1                 0.015 EV  3                             
+150NDX L XREF=I                                                                 
+150ND  L 3375      1  1,2+              0.0021 EV 17                            
+150NDX L XREF=I                                                                 
+150ND  L 3418      1  1                 0.028 EV  6                             
+150NDX L XREF=I                                                                 
+150ND  L 3423      1  1,2+              0.008 EV  4                             
+150NDX L XREF=I                                                                 
+150ND  L 3553      1  (2+)              0.0083 EV 22                            
+150NDX L XREF=I                                                                 
+150ND  L 3582      1  2+,1              0.0045 EV 18                            
+150NDX L XREF=I                                                                 
+150ND  L 3590      1  1,2+              0.004 EV  23                           ?
+150NDX L XREF=I                                                                 
+150ND cL E$3590|g may be a transition from 3720 level.                          
+150ND  L 3606      1  1                 0.008 EV  3                             
+150NDX L XREF=I                                                                 
+150ND  L 3642      1  1                 0.017 EV  6                             
+150NDX L XREF=I                                                                 
+150ND  L 3653      1  1                 0.059 EV  12                            
+150NDX L XREF=I                                                                 
+150ND  L 3672      1  1                 0.019 EV  5                             
+150NDX L XREF=I                                                                 
+150ND  L 3698      1  2+,1              0.0030 EV 13                            
+150NDX L XREF=I                                                                 
+150ND  L 3706      1  1                 0.043 EV  15                            
+150NDX L XREF=I                                                                 
+150ND  L 3711      1  1                 0.033 EV  8                             
+150NDX L XREF=I                                                                 
+150ND  L 3720      1  1                 0.025 EV  10                            
+150NDX L XREF=I                                                                 
+150ND  L 3737      1  2+,1              0.0023 EV 14                            
+150NDX L XREF=I                                                                 
+150ND  L 3751      1  1                 0.042 EV  9                             
+150NDX L XREF=I                                                                 
+150ND  L 3768      1  1                 0.009 EV  3                             
+150NDX L XREF=I                                                                 
+150ND  L 3860      1  1                 0.007 EV  3                            ?
+150NDX L XREF=I                                                                 
+150ND  L 3888      1  1,2+              0.0056 EV 23                            
+150NDX L XREF=I                                

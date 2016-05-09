@@ -1,0 +1,328 @@
+136LA    ADOPTED LEVELS, GAMMAS                                  02NDS    200206
+136LA  H TYP=FMT$AUT=J. Tuli$DAT=28-Oct-2014$COM=Added MS flag for isomers$     
+136LA  H TYP=ERR$AUT=J. Tuli$DAT=18-Mar-2005$COM=FIxed DSID xref=D$             
+136LA  H TYP=FUL$AUT=A.A. Sonzogni$CIT=NDS 95, 837 (2002)$CUT=1-Feb-2002$       
+136LA c  Theory: 1999Dr18, 1993Su22                                             
+136LA  XA136LA IT DECAY                                                         
+136LA  XB135BA(3HE,D),(A,T)                                                     
+136LA  XC138BA(P,3NG)                                                           
+136LA  XD128TE(11B,3NG)                                                         
+136LA cL E$From least-squares procedure to E|g, assuming |DE|g=1 keV when       
+136LA2cL unknown                                                                
+136LA CL BAND(A)$band based on 8+ isomer                                        
+136LA CL BAND(B)$PI=- band                                                      
+136LA CL BAND(C)$PI=- band                                                      
+136LA cL J$The low energy levels are expected to have the                       
+136LA2cL |pd{5/2} |nd{3/2} or |pg{7/2}{+-1} |nf{d3/2} configurations.           
+136LA cL J(J)$From {+128}Te({+11}B,|a2n|g) dataset, based on DCO ratios,        
+136LA2cL systematics of neighboring nuclei and Cranking Shell Model calculations
+136LA  Q 473       85 7440   70 5460   70  -1290     701995AU04                 
+136LA PN                                                                     6  
+136LA  L 0.0         1+                9.87 M    3                              
+136LA cL T$from 1968Ju02, using |g(t) following chemical separation             
+136LA2 L XREF=ABC                                                               
+136LA cL J$from AB (1976Fu06,1973In04); |p from L=2 in ({+3}He,d),(|a,t)        
+136LA3 L %EC+%B+=100                                                            
+136LA  L      21.8020 (2)+                                                      
+136LA cL J$M1+E2 |g to 1+ g.s., L=2 in (3He,d),(a,t)                            
+136LA2 L XREF=ABC                                                               
+136LA  G 21.8      2  100       M1+E2    0.33    25                             
+136LA  L      44.3325 (3)+                                                      
+136LA2 L XREF=ABC                                                               
+136LA cL J$M1+E2 |g to (2)+, L=2 in (3He,d),(a,t)                               
+136LA  G 22.5      2  100       M1+E2    0.21    GE                             
+136LA  L 140.0     3  (4)+                                                      
+136LA2 L XREF=ABC                                                               
+136LA cL J$|g to (3)+, L=4 in (3He,d),(a,t)                                     
+136LA  G 95.7      2  100                                                       
+136LA  L 158.3        (5)+                                                      
+136LA2 L XREF=ABC                                                               
+136LA cL J$|g to (4)+, L=4 in (3He,d),(a,t)                                     
+136LA  G 18.27        100                                                       
+136LA  L     172.0325 (3)                                                       
+136LA2 L XREF=B(*)C                                                             
+136LA cL J$D+Q |g's to (2)+ and (3)+ levels                                     
+136LA  G 127.7     2  100    45 D+Q                                             
+136LA  G 150.2     2   61    30 D+Q                                             
+136LA  L 173.5     4  (5)                                                       
+136LA2 L XREF=AB(*)C                                                            
+136LA cL J$D |g to (4)+ level                                                   
+136LA  G 33.5      2  100       D                                               
+136LA  L     211.9815 (2)                                                       
+136LA3 L XREF=C                                                                 
+136LA cL J$D+Q |g to 1+ g.s.                                                    
+136LA  G 211.9     2  100       D+Q                                             
+136LA  L 230.1        (6)                                                      ?
+136LA3 L XREF=AC                                                                
+136LA cL J$D |g to (5)+ level                                                   
+136LA  G 71.8      5  100      D                                                
+136LA  L 241                                                                   ?
+136LA2 L XREF=B                                                                 
+136LA  L 257          (4)+                                                      
+136LA2 L XREF=B                                                                 
+136LA cL J$L=2 in (3He,d),(a,t)                                                 
+136LA  L     270.1425 (3)              17 NS     4                              
+136LA cL T$from 1985Mo01                                                        
+136LA cL J$D+Q |g's to (2)+ and (4)+ levels                                     
+136LA2 L XREF=C                                                                 
+136LA  G 98.0      2   59    29                                                 
+136LA  G 130.2     2  100    46 D+Q                                             
+136LA  G 248.4     2   88    41 D+Q                                             
+136LA  L 274.6     3                                                            
+136LA2 L XREF=C                                                                 
+136LA  G 102.7     2  100    50                                                 
+136LA  G 230.2     2  100    50                                                 
+136LA  L 304          2+ TO 6+                                                  
+136LA cL J$L=4 in (3He,d),(a,t)                                                 
+136LA2 L XREF=B                                                                 
+136LA  L 331.6     3                                                            
+136LA2 L XREF=BC                                                                
+136LA  G 159.5     2   94    47 D+Q                                             
+136LA  G 287.3     2  100    50 D+Q                                             
+136LA  L 342.6     4                                                            
+136LA2 L XREF=BC                                                                
+136LA  G 72.5      2  100                                                       
+136LA  L 346.0     6                                                            
+136LA2 L XREF=C                                                                 
+136LA  G 174.0     5  100                                                       
+136LA  L 381.5     4  (4)                                                       
+136LA2 L XREF=C                                                                 
+136LA cL J$D+Q |g to (3) level                                                  
+136LA  G 111.4     2  100       D+Q                                             
+136LA  L 393.0     6                                                            
+136LA2 L XREF=C                                                                 
+136LA  G 181.0     5  100                                                       
+136LA  L 403                                                                   ?
+136LA2 L XREF=B                                                                 
+136LA  L     414.1916 (3)                                                       
+136LA2 L XREF=BC                                                                
+136LA cL J$414 |g(|Q) compatible with Q to 1+ g.s.                              
+136LA  G 202.1     2  42     21                                                 
+136LA  G 414.3     2  100    50                                                 
+136LA  L 436.9     4                                                            
+136LA2 L XREF=BC                                                                
+136LA  G 264.9     2  100       D+Q                                             
+136LA  L 484                                                                    
+136LA2 L XREF=C                                                                 
+136LA  L     548.0019                                                           
+136LA2 L XREF=BC                                                                
+136LA  G 336.0     5  100    50                                                 
+136LA  G 548.0     2   85    43                                                 
+136LA  L 563.8     3  (3)                                                       
+136LA2 L XREF=C                                                                 
+136LA cL J$D+Q |g to (2) level                                                  
+136LA  G 351.8     2  59     30 D+Q                                             
+136LA  G 563.5     2  100    50                                                ?
+136LA  L 570.9     3                                                            
+136LA2 L XREF=C                                                                 
+136LA  G 358.9     2   47    24                                                 
+136LA  G 571.2     2  100    47                                                ?
+136LA  L 594                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L 617                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L 629                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L 659.0     6                                                            
+136LA2 L XREF=C                                                                 
+136LA  G 447.0     5  100                                                       
+136LA  L 704                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L 710.7     4                                                            
+136LA2 L XREF=BC                                                                
+136LA  G 329.2     2  100                                                       
+136LA  L 726                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L     749.2319 (3)                                                       
+136LA2 L XREF=C                                                                 
+136LA cL J$D+Q |g to (2) level                                                  
+136LA  G 537.4     5   70    35 D+Q                                             
+136LA  G 749.2     2  100    50                                                 
+136LA  L 752.6     4                                                            
+136LA2 L XREF=BC                                                                
+136LA  G 482.5     2  100                                                       
+136LA  L 798                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L 829                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L 840                                                                    
+136LA2 L XREF=B                                                                 
+136LA  L 945.5     3                                                            
+136LA2 L XREF=C                                                                 
+136LA  G 733.5     2  100                                                       
+136LA  L 972                                                                   ?
+136LA2 L XREF=B                                                                 
+136LA  L 988.1     3                                                            
+136LA2 L XREF=C                                                                 
+136LA  G 776.1     2  100                                                       
+136LA  L 999                                                                   ?
+136LA2 L XREF=B                                                                 
+136LA  L 1006                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1028                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1076                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1114                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1155                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1180                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1211                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1247                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 1257                                                                   
+136LA2 L XREF=B                                                                 
+136LA  L 230+X       (8+)              114 MS     3                         AM  
+136LA DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+136LA2 L %IT=100                                                                
+136LA2 L XREF=ACD                                                               
+136LA cL T$weighted average of 115 ms {I5} (1985Mo01), 118 ms {I5}              
+136LA2cL (1980SuZY), and 110 ms {I5} (1966Gr19).                                
+136LA3cL Other: 114 ms (1977Go15)                                               
+136LA cL E$x |?10-40 keV, which will make the decay heavily converted and       
+136LA2cL as a consequence, avoid |g detection                                   
+136LA cL J$from lifetime considerations, one expects this level to decay        
+136LA2cL with E2 or M3 transitions and therefore have J=7 to 9. The (8+)        
+136LA3cL assignment follows the high-spin work of 2001Cy01                      
+136LA cL $The scheme for levels that feed the 114 ms isomer is based on that    
+136LA2cL of {+128}Te({+11}B,|a2n|g) (2001Cy01) dataset. Some of these levels    
+136LA3cL were also reported in the {+138}Ba(p,3n|g) (1985Mo01) dataset.         
+136LA  G (X)                                                                    
+136LAS G FL=230.1                                                               
+136LA  G (56.6+X)                                                               
+136LAS G FL=173.5                                                               
+136LA  L    X+259.115(6+)                                                       
+136LA2 L XREF=D$FLAG=J                                                          
+136LA cL E$gamma emission expected to be negligible due to electron conversion  
+136LA  L    X+311.9 9(9-)                                                   C   
+136LA2 L XREF=CD$FLAG=J                                                         
+136LA  G 82                                                                     
+136LA  L    X+510.1 9(7-)                                                   A   
+136LA2 L XREF=CD$FLAG=J                                                         
+136LA  G 280                                                                    
+136LA  L    X+636.011                                                           
+136LA2 L XREF=D                                                                 
+136LA  G 324                                                                    
+136LA  L    X+992.813(11-)                                                  C   
+136LA2 L XREF=CD$FLAG=J                                                         
+136LA  G 681                                                                    
+136LA  L   X+1095.111(8+)                                                   A   
+136LA2 L XREF=CD$FLAG=J                                                         
+136LA  G 459                                                                    
+136LA  G 585                                                                    
+136LA  G 836                                                                    
+136LA  L   X+1251.313(9+)                                                   A   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 156                                                                    
+136LA  L   X+1491.414(10-)                                                      
+136LA2 L XREF=CD$FLAG=J                                                         
+136LA  G 498                                                                    
+136LA  L   X+1657.714(10+)                                                  A   
+136LA2 L XREF=CD$FLAG=J                                                         
+136LA  G 406                                                                    
+136LA  L   X+2082.015(13-)                                                  C   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 1090                                                                   
+136LA  L   X+2083.014(11+)                                                  A   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 425                                                                    
+136LA  G 832                                                                    
+136LA  L   X+2339.215(11-)                                                      
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 258                                                                    
+136LAF G FL=X+2082.0                                                            
+136LA  G 847                                                                    
+136LA  L   X+2341.416(12+)                                                  A   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 258                                                                    
+136LAF G FL=X+2083.0                                                            
+136LA  G 684                                                                    
+136LA  L   X+2550.314(13-)                                                  B   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 892                                                                    
+136LA  G 1059                                                                   
+136LA  L   X+2581.717(14-)                                                  C   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 500                                                                    
+136LAF G FL=X+2082.0                                                            
+136LA  L   X+2662.018(12+)                                                      
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 579                                                                    
+136LAF G FL=X+2083.0                                                            
+136LA  L   X+2760.615(14-)                                                  B   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 210                                                                    
+136LA  G 678                                                                    
+136LAF G FL=X+2083.0                                                            
+136LA  L   X+2780.718(13+)                                                  A   
+136LA2 L XREF=D                                                                 
+136LA2 L FLAG=J                                                                 
+136LA  G 439                                                                    
+136LAF G FL=X+2341.4                                                            
+136LA  L   X+2937.720(15-)                                                  C   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 356                                                                    
+136LA  L   X+2953.720(15-)                                                      
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 372                                                                    
+136LA  L   X+3039.618(15-)                                                  B   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 279                                                                    
+136LA  L   X+3092.317                                                           
+136LA2 L XREF=D                                                                 
+136LA  G 1010                                                                   
+136LAF G FL=X+2082.0                                                            
+136LA  L   X+3129.722(16-)                                                      
+136LA2 L XREF=D                                                                 
+136LA2 L FLAG=J                                                                 
+136LA  G 176                                                                    
+136LAF G FL=X+2953.7                                                            
+136LA  L   X+3187.720(14+)                                                  A   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 407                                                                    
+136LA  L   X+3284.018(14+)                                                      
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 503                                                                    
+136LA  G 943                                                                    
+136LAF G FL=X+2341.4                                                            
+136LA  L   X+3360.518                                                           
+136LA2 L XREF=D                                                                 
+136LA  G 268                                                                    
+136LA  G 779                                                                    
+136LA  L   X+3375.621(16-)                                                  B   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 336                                                                    
+136LA  L   X+3460.020(15+)                                                      
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 176                                                                    
+136LAF G FL=X+3284.0                                                            
+136LA  L   X+3790.521                                                           
+136LA2 L XREF=D                                                                 
+136LA  G 430                                                                    
+136LA  L   X+3813.623(17-)                                                  B   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 438                                                                    
+136LA  L   X+3832.023(16+)                                                      
+136LA2 L XREF=D                                                                 
+136LA2 L FLAG=J                                                                 
+136LA  G 372                                                                    
+136LAF G FL=X+3460.0                                                            
+136LA  L   X+4035.723(15+)                                                  A   
+136LA2 L FLAG=J$XREF=D                                                          
+136LA  G 848                                                                    
+136LA  L     X+4363 3(18-)                                                  B   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 549                                                                    
+136LA  L   X+4632.725(16+)                                                  A   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 597                                                                    
+136LA  L     X+5045 3(19-)                                                  B   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 682                                                                    
+136LA  L     X+5479 3(17+)                                                  A   
+136LA2 L XREF=D$FLAG=J                                                          
+136LA  G 846                                                                    
+

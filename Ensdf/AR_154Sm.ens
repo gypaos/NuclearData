@@ -1,0 +1,839 @@
+154SM    ADOPTED LEVELS, GAMMAS                                  09NDS    200910
+154SM  H TYP=FUL$AUT=C. W. Reich$CIT=NDS 110, 2257 (2009)$CUT=1-May-2008$       
+154SM  Q -717.3    117966.8  9 9096    10-1200.4 11    2012WA38                 
+154SM cQ $Note: Current evaluation has used the following Q record              
+154SM  Q  -717.2   11 7967.1  9  9066  11-1196.8 24    2003AU03                 
+154SM c  The data on E|g and I|g values and J|p assignments are primarily from  
+154SM2c  the {+154}Pm |b{+-} decays (1.73 min and 2.68 min)                     
+154SM3c  (1971Da28,1974Ya07,1993GrZY) and the (n,n'|g) reaction (2006De19).     
+154SM cG           The unplaced |g's are not given here, see {+154}Pm |g-       
+154SM2cG      decay (1.73 m and 2.68 m) and {+154}Sm(n,n'|g).                   
+154SM cG E         Values are from the measurement giving the most precise      
+154SM2cG      value. This is often the {+154}Sm(n,n'|g) reaction or one of      
+154SM3cG      the {+154}Pm |b- decays.                                          
+154SM cG RI        From {+154}Pm |b- decays (1971Da28,1974Ya07,1993GrZY)        
+154SM2cG      and (n,n'|g) (1986Be52).                                          
+154SM cG M         From ce data following Coulomb excitation (1970Da28) and     
+154SM2cG    (n,n'|g), unless noted otherwise.                                   
+154SM cG M(V)      From |a{-K}(exp) in {+154}Pm |b- decay (2.68 m).             
+154SM cG M(W)      From |a{-K}(exp) in {+154}Pm |b- decay (1.73 m).             
+154SM cG M(T)      From |g(|q) in (|g,|g') (1977Be05) together with the         
+154SM2cG      observation that the transition involves a change of parity.      
+154SM cG M(U)      From |g(|q) and |g-branching considerations in               
+154SM2cG      (|g,|g') (1993Zi05)                                               
+154SM cL           In the Inelastic Scattering and (n,n'|g) data sets, a number 
+154SM2cL of levels are shown which are not included in this Adopted Levels      
+154SM3cL data set. For a listing of those levels, see those source data sets.   
+154SM cL           2006De19, in (n,n'|g), do not confirm the population of      
+154SM2cL levels at 1104, 1120, 1295, 1365 and 1371 keV, if they have J|<5.      
+154SM3cL See, also, the Inelastic Scattering Data Set.                          
+154SM cL E         From least-squares fit to |g energies, except omitted are    
+154SM2cL  those |g's with questionable placements and E|g's that do not have    
+154SM3cL  uncertainties.                                                        
+154SM cL E(G)      Proposed as a member of a band by 1992Mo20 in Coul. ex.,     
+154SM2cL but the existence of the suggested bandhead (at 1371 keV) is           
+154SM3cL questionable, and the band characteristics are not otherwise clear.    
+154SM CL BAND(A)   K|p=0+ ground-state band.                                    
+154SM2cL   A=13.80 keV, B=-23.0 eV, computed from the energies of the 0+, 2+    
+154SM3cL   and 4+ levels.                                                       
+154SM CL BAND(B)   K|p=0- octupole-vibrational band.                            
+154SM2cL   A=8.97 keV, B=+9.8 eV, computed from the energies of the 1-, 3-      
+154SM3cL   and 5- levels.                                                       
+154SM CL BAND(C)   First excited KPI=0+ band.                                   
+154SM2cL   A=13.60 keV, B=-84 eV, computed from the energies of the 0+, 2+      
+154SM3cL   and 4+ levels. 2001Ga02 suggest that this is probably not            
+154SM4cL   a pure |b vibration.                                                 
+154SM CL BAND(D)   K|p=2+ |g-vibrational band.                                  
+154SM2cL   A=17.30 keV, B=-72 eV, A{-4}=+2.2 eV, computed from the energies     
+154SM3cL   of the 2+ through 5+ levels.                                         
+154SM CL BAND(E)   Second excited KPI=0+ band.                                  
+154SM2cL   A=14.18 keV, B=-35 eV, computed from the energies of the 0+, 2+      
+154SM3cL   and 4+ levels.                                                       
+154SM CL BAND(F)   K|p=1- octupole-vibrational band.                            
+154SM2cL   A=10.40 keV, B=+13 eV, A{-2}=+0.316 keV, computed from the           
+154SM3cL   energies of the 1- through 4- levels.                                
+154SM  XH154SM(N,N'G)                                                           
+154SM  XE154SM(G,G'),(E,E')                                                     
+154SM  XGINELASTIC SCATTERING                                                   
+154SM  XB154PM B- DECAY (2.68 M)                                                
+154SM  XA154PM B- DECAY (1.73 M)                                                
+154SM  XFCOULOMB EXCITATION                                                     
+154SM  XD152SM(T,P)                                                             
+154SM  XC154EU EC DECAY                                                         
+154SM PN                                                                     6  
+154SM  L   0.0        0+               STABLE                               A   
+154SM2 L XREF=+                                                                 
+154SM cL T         The T{-1/2} for two-neutrino double |b- decay to the 2+      
+154SM2cL      level in {+154}Gd is measured to be |> 2.3x10{+18} y              
+154SM3cL      (1996De60). This is the same value listed in the tabulation of    
+154SM4cL      2002Tr04. A model calculation of the T{-1/2} for double           
+154SM5cL      |b- decay gives 1.0x10{+23} y for two-neutrino mode and           
+154SM5cL      9x10{+24}(m{-n}{+2}) y|*(eV){+2}.                                 
+154SM cL           The change in the nuclear charge radius between {+152}Sm     
+154SM2cL      and {+154}Sm can given by either |l or |D<r{+2}> where |l =       
+154SM3cL      |D<r{+2}> + c{-1} |D<r{+4}> + c{-2} |D<r{+6}>. |l=0.219 fm{+2}    
+154SM4cL      {I10} with the corresponding values |D<r{+2}>=0.231 fm{+2}        
+154SM5cL      {I11}, |D<r{+4}>=0.00187 fm{+4} {I9}, and |D<r{+6}>=0.0000126     
+154SM6cL      fm{+6} {I7} from 1990Wa25. Other values: |l=0.221 {I13}           
+154SM7cL      (1973Le16), 0.220 {I11} (1981Ne01) and 0.222 {I11} (1997Ji06)     
+154SM8cL      and |D<r{+2}>=0.215 {I16} (1974He28), 0.250 {I14} (1979Po04 as    
+154SM8cL      quoted in 1983La06), 0.230 {I12} (1980Br15), 0.230 (1985Al06),    
+154SM9cL      0.226 {I12} (1987Bo58), and 0.222 (1990En01). Other: 1989GaZO,    
+154SMKcL      1995Ne12, and 1996La03. |D<r{+2}> for the neutron distribution    
+154SMScL      is 0.27 {I4} 1983Ja06).                                           
+154SM cL           From an analysis of proton-diffraction data using            
+154SM2cL      800-MeV protons, 2004Ko34 deduce r{-BS}=5.24 fm {I9} for the      
+154SM3cL      "Black-Sphere" radius, taken to be a measure of the matter        
+154SM4cL       distribution. The nuclear radius has been reported as            
+154SM5cL      <r{+2}>{+1/2}=5.113 fm {I11} (1979Po04) and 5.1143 fm {I9}        
+154SM6cL      (1995Fr22 evaluation). From an analysis of data on nuclear rms    
+154SM7cL      charge radii, 2004An14 report <r{+2}>{+1/2}=5.111 fm 6, while     
+154SM8cL      2007Li14 recommend 5.120 fm 28. For other values, see 1976Co08    
+154SM9cL      and 1977HoZF in the (|g,|g'),(e,e') Data Set.                     
+154SM  L   81.981  15 2+               3.02 NS   4                          A   
+154SM2 L   MOME2=-1.87 4 $ MOMM1=+0.78 4                                        
+154SM2 L XREF=ABCD(86)EFGH                                                      
+154SM cL           The isomer shift is |D<r{+2}>=0.0008 fm{+2} {I5} (1974Ka38)  
+154SM2cL      and 0.0012 fm{+2} {I9} [computed from |D<r{+2}>/<r{+2}>(0) of     
+154SM3cL      1970Wh02 and <r{+2}>(0) of 1979Po04].                             
+154SM cL J         From E2 |g to 0+ ground state.                               
+154SM cL T         Weighted average of 3.03 ns {I5} (1967Wo06) and 3.00 ns      
+154SM2cL      {I6} (1968Ri09) from Coul. ex. Other: 2.74 ns {I24}               
+154SM3cL      (1959Bi10) from Coul. ex. From the B(E2) value of 4.32            
+154SM4cL      {I2}, T{-1/2}=3.01 ns {I4}, with the uncertainty primarily from   
+154SM5cL      the 1.5% uncertainty assigned to the theoretical |a.              
+154SM cL MOME2     From 1989Ra17 evaluation and 2005St24 compilation and        
+154SM2cL      based on muonic atom study (1979Po04). Others: -1.3 {I5}          
+154SM3cL      (1969Wh04), -1.5 {I3} (1982Cl03), and 1.42 (from ratio given      
+154SM4cL      by 1975Ro24 and converted to actual value by 1978LeZA).           
+154SM cL MOMM1     From 1989Ra17 evaluation and 2005St24 compilation and        
+154SM2cL      based on data of 1969Wh04 in Coul. ex. For other values, see the  
+154SM3cL      Coul. ex. data set.                                               
+154SM  G 81.990    18 100       E2                     4.86                     
+154SM3 G  BE2W=176 1                                                            
+154SM cG           B(E2)(W.u.) value computed directly from B(E2)|^.            
+154SM  L 266.817   22 4+               172 PS    4                          A   
+154SM2 L  MOMM1=+1.35 15 $ MOME2=-2.2 8 $ BE4=0.305 18                          
+154SMX L XREF=ABCEFGH                                                           
+154SM cL J         From E2 |g to 2+ level and band structure.                   
+154SM cL T         Weighted average of 173 ps {I5} (1972Di06) and 169 ps        
+154SM2cL      {I10} (1980Jo08) from Coul. ex.                                   
+154SM cL MOMM1     From 1989Ra17 evaluation and 2005St24 compilation and        
+154SM2cL      based on data of 1972Ku10.                                        
+154SM cL MOME2     From 1982Cl03 (inel. scatt.)                                 
+154SM cL BE4       From Coul. ex. Other: 0.221 {I10}, from 1976Co08, (e,e').    
+154SM  G 184.810   25 100       E2                     0.272                    
+154SM3 G  BE2W=245 6                                                            
+154SM  L  544.10   4  6+               22.7 PS   6                          A   
+154SM2 L MOMM1=+1.90 28 $  BE6=0.007 5                                          
+154SMX L XREF=BEFGH                                                             
+154SM cL J         From |g to 4+ level and band structure. Coulomb-excited.     
+154SM cL T         Weighted average of 23.3 ps {I7} (1972Di06) and 22.1         
+154SM2cL      ps {I7} (average of two values in 1980Jo08) from Coul. ex.        
+154SM cL MOMM1     From 1989Ra17 evaluation and 2005St24 compilation and        
+154SM2cL      based on data of 1972Ku10.                                        
+154SM cL BE6       From 1977HoZF, (e,e'), reported as a preliminary result.     
+154SM  G 277.34    4  100       E2                     0.0721                   
+154SM3 G  BE2W=289 8                                                            
+154SM  L  902.75   19 8+               5.9 PS    3                          A   
+154SM2 L MOMM1=2.8 4                                                            
+154SMX L XREF=FH                                                                
+154SM cL J         From |g to 6+ level and band structure. Coulomb-excited.     
+154SM cL T         Weighted average of 6.2 ps {I6} (1972Di06), 6.0 ps {I4}      
+154SM2cL      (1977Ke06), and 5.8 ps {I4} (1980Jo08) from Coul. ex.             
+154SM cL MOMM1     From graph in 1982An10. Other: see J-dependent expression    
+154SM2cL      given in 1989Ra17 evaluation which is based on data of 1982An10.  
+154SM  G  358.8    2  100       E2                     0.0327                   
+154SM3 G  BE2W=319 17                                                           
+154SM  L 921.345   19 1-               21 FS     1                          B   
+154SM2 L  XREF=ABEFGH                                                           
+154SM cL J         E1 excitation in (|g,|g')                                    
+154SM cL T         From weighted average of 20.1 fs {I14}, by DSAM in           
+154SM2cL      (n,n'|g) (1993Ju04) and 24 fs {I3}, (|g,|g').                     
+154SM  G 839.36    2  100    3  E1                                              
+154SMB G BE1W=0.0113 7                                                          
+154SM  G 921.33    3   68    2  E1                                              
+154SMB G BE1W=0.0058 4                                                          
+154SM cG M         From |g(|q) and linear polarization measurements in          
+154SM2cG      (|g,|g') (1976Me17).                                              
+154SM  L 1012.40   3  3-               23 FS     3                          B   
+154SM2 L XREF=ABFGH $ BE3=0.10 2                                                
+154SM cL J         E3 excitation in Coul. ex                                    
+154SM cL T         From 1993Ju04 by DSAM in (n,n'|g).                           
+154SM cL BE3       From Coul. ex.                                               
+154SM  G 745.50    4   59.0  18 E1                                              
+154SMB G BE1W=0.0092 13                                                         
+154SM  G 930.37    3  100     1 E1                                              
+154SMB G BE1W=0.0080 11                                                         
+154SM  L 1099.26   5  0+               0.90 PS   21                         C   
+154SM2 L  XREF=AD(1117)EFGH                                                     
+154SM cL J         L=0 in (t,p).                                                
+154SM cL T         From Coul. ex. (1999Kr10).                                   
+154SM  G 1017.23   10 100      [E2]                                             
+154SMB G BE2W=12 3                                                              
+154SM  L 1177.812  21 2+               2.4 PS    GT                         C   
+154SM2 L XREF=ABEFG(*)H                                                         
+154SM cL J         From |g's to 0+ and 4+ states. E2 excitation in Coul. ex.    
+154SM cL T         From Coul. ex. (1999Kr10). Other: 1.4 ps {I3},               
+154SM2cL      computed from B(E2)=0.023 {I5}, but 1999Kr10 argue that this      
+154SM3cL      value is too small.                                               
+154SM  G   910.96   3  75     6 E2                                              
+154SM3 G  BE2W<2.4                                                              
+154SM  G  1095.86   3 100     2 E2+M1     +6E+1  +13-3                          
+154SMB G BM1W<4.3E-6$BE2W<1.3                                                   
+154SM cG MR        in (n,n'|g), 2006De19 report |d=+56 {I+130-25}. See the      
+154SM2cG comment there regarding another possible |d value.                     
+154SM  G  1177.79   4  65.8  14 E2                                              
+154SM3 G  BE2W<0.58                                                             
+154SM  L 1181.26    4 5-                                                    B   
+154SM2 L  XREF=FG(*)H                                                           
+154SM cL J         From |g to 4+ state and octupole-band structure.             
+154SM  G   637.14   6  35        E1                                         @   
+154SM  G   914.44   3 100     2  E1                                             
+154SM  L 1202.44    6 0+                                                    E   
+154SM2 L  XREF=AD(1218)EGH                                                      
+154SM cL J         L=0 transition in (t,p) (1966Bj01). Nuclear shape is         
+154SM2cL      discussed by 1999Kr10 and 2001MoZT.                               
+154SM  G   281.01   9 100    21                                                 
+154SM  G  1120.51   8  79     2 E2                                              
+154SM  L 1286.29    4 2+                                                    E   
+154SM2 L  XREF=ABD(1299)H                                                       
+154SM cL J         From |g's to 0+ and 4+ states.                               
+154SM  G   274.0   10  34     1                                                 
+154SM  G   364.91   6  52     6  E1                                             
+154SM  G  1019.40  20  54.1  17                                                 
+154SM  G  1204.30   4 100    10  M1+E2    +0.8   +15-6                          
+154SM  G  1286.8    5   6.9  10                                                 
+154SM  L 1333.0    9 10+               2.45 PS   12                         A   
+154SM2 L  XREF=FH  $ MOMM1=3.2 8                                                
+154SM cL J         From multiple Coulomb excitation and band structure.         
+154SM cL T         Weighted average of 2.52 ps {I16} (1977Ke06) and 2.37 ps     
+154SM2cL      {I18} (1980Jo08), measured following Coulomb excitation.          
+154SM cL MOMM1     From graph in 1982An10. Other: see J-dependent expression    
+154SM2cL      given in 1989Ra17 evaluation, which is based on data of 1982An10. 
+154SM  G  430.2    5  100       [E2]                   0.0193                   
+154SM3 G  BE2W=314 16                                                           
+154SM  L 1337.60   5  4+                                                    C   
+154SM2 L  XREF=FGH                                                              
+154SM cL J         From |g's to 2+ and 6+ states. Populated in Coul. ex.        
+154SM  G   794.9    2  32     2                                                 
+154SM  G  1070.68   7  84     3  E2+M1    50     GT                             
+154SM cG MR        in (n,n'|g), 2006De19 also report |d=-1.1 {I3}.              
+154SM  G  1255.55   7 100     2  E2                                             
+154SM  L 1430.93   14 7-                                                    B   
+154SM2 L XREF=FH                                                                
+154SM cL J         From |g's to 6+ and 8+ levels and band structure.            
+154SM  G   528.8    4  30     4                                             @   
+154SM  G   886.75  14 100     6                                                 
+154SM  L 1440.04   3  2+                0.42 PS  3                          D   
+154SM2 L XREF=ABEFGH                                                            
+154SM cL J         |g's to 0+ and 4+ states. E2 excitation in Coul. ex.         
+154SM cL T         From Coul. ex., (1999Kr10); other: 0.28 ps {I4},             
+154SM2cL      computed from B(E2)=0.069 {I10}.                                  
+154SM  G  1173.1    4   8.0   9 [E2]                                            
+154SMB G BE2W=0.48 7                                                            
+154SM  G  1358.09   3 100     2 [M1+E2]                                         
+154SM cG MR        2006De19, (n,n'|g), report |d=-0.59 {I3} or -8.5 {I15}.      
+154SM  G  1440.05  10 100       [E2]                                        @   
+154SMB G BE2W=2.13 16                                                           
+154SM  L 1472.16   12 (4+)                                                  E   
+154SM2 L XREF=BH                                                                
+154SM cL J         From |g's to 3- and 4+ levels; expected band structure.      
+154SM  G   460.0    3   34                                                      
+154SM  G  1205.4    2 100    18                                                 
+154SM  L 1475         (6+)                                                  G   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g's to 4+ and 6+ levels. Suggested band member.        
+154SM  G  931                                                                   
+154SM  G 1208                                                                   
+154SM  L 1475.81   4  1-                                                    F   
+154SM2 L  XREF=AGH                                                              
+154SM cL J         |g's to 0+ and 2+ levels; angular distribution in            
+154SM2cL inelastic scattering. Assigned as the bandhead of the K|p=1- octupole  
+154SM3cL band.                                                                  
+154SM  G   554.3    4   5.6  11                                                 
+154SM  G  1393.83   3 100                                                   @   
+154SM  G  1476.0    6   2.5   7                                                 
+154SM  L 1515.18   5  2-                                                    F   
+154SM2 L  XREF=G(1522)H                                                         
+154SM cL J         |g to 2+ state only. Expected band structure.                
+154SM  G  1433.19   5 100     3 E1                                              
+154SM  L 1539.19   4  3+                                                    D   
+154SM2 L  XREF=BFG(1547)H                                                       
+154SM cL J         From |g's to 2+ and 4+ states. Expected band structure.      
+154SM  G  1272.34   7  38.0  17                                                 
+154SM  G  1457.23   4 100     3  E2+M1    -7.5   10                             
+154SM  L 1577         6+                                                    C   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g's to 4+ and 8+ states. Band assignment is from       
+154SM2cL      1992Mo20 (Coul. ex.).                                             
+154SM  G  674                                                                   
+154SM  G 1033                                                                   
+154SM  G 1310                                                                   
+154SM  L 1584.50   5  3-                                                    F   
+154SM2 L  XREF=BGH                                                              
+154SM cL J         From |g to 2+ and 4+ states and angular distribution in      
+154SM2cL      inelastic scattering.                                             
+154SM  G   45.5                                                   55            
+154SM cG E,TI      from {+154}Pm |b{+-} decay (2.68 min).                       
+154SM  G  1317.68   4 100     3 E1                                              
+154SM  G  1502.6    2  20.0  16 E1                                              
+154SM  L 1614.77   7                                                            
+154SM2 L XREF=A                                                                 
+154SM  G  693.39   6  100                                                       
+154SM  L 1660.65   4  4-                                                    F   
+154SM2 L XREF=H                                                                 
+154SM cL J         From |g to 4+ state and band structure.                      
+154SM  G  1393.83   3 100                                                   @   
+154SM  L 1664.82   7  4+                                                    D   
+154SM2 L XREF=BFGH                                                              
+154SM cL J         From |g's to 2+ and 4+ states, angular distribution in       
+154SM2cL      inelastic scattering, and expected band structure.                
+154SM  G  1398.00   6 100     3 M1(+E2)   -2.5   +10-25                         
+154SM  G  1582.8    3  33.0  18 E2                                              
+154SM  L 1673.90   7  2                                                         
+154SM2 L  XREF=ABH                                                              
+154SM cL J         dipole |g's to 1- and 3- levels.                             
+154SM  G   661.47   9 100     2 E1,M1                                           
+154SM  G   752.57  10  82     3 E1,M1                                           
+154SM cG RI        From (n,n'|g); I|g=121 from {+154}Pm |b- decay (1.73 m).     
+154SM  L 1706.71   5   3+                                                       
+154SM2 L  XREF=BGH                                                              
+154SM cL J         from |g(|q) in (n,n'|g), assuming that the transition to     
+154SM2cL the 2+ level involves no parity change.                                
+154SM  G  1440.05  10 100       M1+E2                                       @   
+154SM  G  1624.87  12  45    18 M1+E2     +0.75  +25-10                         
+154SM  L 1741         (8+)                                                  G   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 6+ level. Suggested band member.                  
+154SM  G 1197                                                                   
+154SM  L 1754.51    5                                                           
+154SM2 L XREF=AB                                                                
+154SM  G  742.2    3   85                                                       
+154SM  G  833.4    3  100                                                       
+154SM  L 1755.67   4  1-,2,3-                                                   
+154SM2 L  XREF=ABEH                                                             
+154SM cL J         From |g's to 1- and 3- levels.                               
+154SM  G   315.5    3  33     7                                                 
+154SM  G   742.90   6 100     3                                                 
+154SM  G   834.05  20  99     3                                                 
+154SM  G  1674.1    4  11.7  15                                                 
+154SM  L 1760         9-                                                    B   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 8+ level and band structure.                      
+154SM  G  857                                                                   
+154SM  L 1764.4    4                                                            
+154SM2 L XREF=A                                                                 
+154SM  G 1681.6    5   60                                                       
+154SM  G 1764.9    4  100                                                       
+154SM  L 1774.31   8  5-                                                    F   
+154SM2 L  XREF=BGH                                                              
+154SM cL J         From E1 |g to 4+ level, |g to 6+ level, and band structure.  
+154SM  G  1230.16   7 100     4                                                 
+154SM  G  1509.0    4  20     3 E1                                              
+154SM  L 1804.99   10 5+                                                    D   
+154SM2 L XREF=BFH                                                               
+154SM cL J         From |g's to 4+ and 6+ levels and band structure.            
+154SM  G  1261.0   1   47    4                                                  
+154SM  G  1538.1   2  100    5  M1(+E2)                                         
+154SM cG M         from (n,n'|g), |d=0.00 {I2} or -9 {I2} (2006De19).           
+154SM  L 1815.04   5   2+,3                                                     
+154SM2 L  XREF=BGH                                                              
+154SM cL J         dipole |g to 2+ level, |g to 4+ level.                       
+154SM  G  276.00   25  46                                                       
+154SM  G  375.06   8  100                                                       
+154SM  G  528.8    4   12                                                   @   
+154SM cG E         from 2006De19, (n,n'|g).                                     
+154SM  G  637.14   6   24                                                   @   
+154SM cG E         from 2006De19, (n,n'|g).                                     
+154SM  G  802.7    3   27                                                       
+154SM  G 1548.6    2   77                                                       
+154SM  G 1733.11   15  93       E1,M1                                           
+154SM cG M         from 2006De19 (n,n'|g)                                       
+154SM  L 1818.37   8   4+,5,6+                                                  
+154SM2 L XREF=BH                                                                
+154SM cL J         from |g's to 4+ and 6+ levels.                               
+154SM  G  1274.33  19  40     4                                                 
+154SM  G  1551.54   9 100     4                                                 
+154SM cG MR        2006De19, (n,n'|g), give |d=-0.05 {I5} or -5 {I+1-2}.        
+154SM  L 1825.9    10 12+              1.39 PS   9                          A   
+154SM2 L  XREF=F                                                                
+154SM cL J         From multiple Coulomb excitation and band structure.         
+154SM cL T         From Coulomb excitation (1980Jo08).                          
+154SM  G  492.9    5  100       [E2]                   0.0134                   
+154SM3 G  BE2W=282 19                                                           
+154SM  L 1878.70   4   2+                                                       
+154SM2 L  XREF=BH                                                               
+154SM cL J         From |g's to 0+ and 4+ levels.                               
+154SM  G  339.68   20  25                                                       
+154SM  G  406.63   15  23                                                       
+154SM  G  438.76   20  79                                                       
+154SM  G  592.5    3   45                                                       
+154SM  G  701.1    3   21                                                       
+154SM  G  956.9    3   76     9                                                 
+154SM cG E         from (n,n'|g). From {+154}Pm |b{+-} decay (2.68 min), a      
+154SM2cG questionable |g with E|g=958.1 {i4}is shown.                           
+154SM cG RI        from I|g(956.9|g)/I|g(1796.8|g) in (n,n'|g) and              
+154SM2cG I|g(1796.8|g). From {+154}Pm |b{+-} decay (2.68 min), I|g|<12, but |g  
+154SM3cG is shown as questionable.                                              
+154SM  G 1611.97   25  46                                                       
+154SM  G 1796.85   15 100       M1+E2     -1.5   +8-70                          
+154SM cG M,MR      from 2006De19 (n,n'|g).                                      
+154SM  G 1878.3    5    6.2                                                     
+154SM  L 1890.45   11  1-                                                       
+154SM2 L  XREF=AEH                                                              
+154SM cL J         E1 transitions to 0+ and 2+ levels in (n,n'|g). Excitation   
+154SM2cL via a presumptive E1 transition in (|g,|g'). See the comment in that   
+154SM3cL data set.                                                              
+154SM  G  603.54   25  12                                                       
+154SM cG E,RI      from {+154}Pm |b{+-} decay (1.73 min). |g not reported by    
+154SM2cG 2006De19, in (n,n'|g).                                                 
+154SM  G   688.1    4  15     5                                                 
+154SM  G  1808.29  19 100     7 E1                                              
+154SM  G  1890.80  16  83     5 E1                                              
+154SM  L 1900                                                                   
+154SM2 L XREF=E                                                                 
+154SM  G 1820                                                                   
+154SM  G 1900                                                                   
+154SM  L 1922.05   4   2+                                                       
+154SM2 L  XREF=BEH                                                              
+154SM cL J         fed by primary |g from 1- state populated via n-capture |g   
+154SM2cL rays; |g's to 2+ and 4+ levels. E1 |g from 3- indicates |p=+.          
+154SM  G   584.4    6  19     4                                                 
+154SM  G  909.7    3   21                                                       
+154SM cG E         from {+154}Pm |b{+-} decay (2.68 min). |g not reported by    
+154SM2cG 2006De19 in (n,n'|g).                                                  
+154SM cG RI        from I|g(909.7|g)/I|g(1655|g) in {+154}Pm |b{+-} decay (2.68 
+154SM2cG min) and I|g(1655|g).                                                  
+154SM  G  1655.24  15 100     6                                                 
+154SM  G  1840.44  18  98     6                                                 
+154SM  L 1925.56   16                                                           
+154SM2 L XREF=H                                                                 
+154SM cL J         2006De19, (n,n'|g), report J|p=4+.                           
+154SM  G 1658.73   15 100                                                       
+154SM  L 1945.61   6                                                            
+154SM2 L XREF=ABH                                                               
+154SM  G  933.5    4  100                                                       
+154SM cG E         |g not reported by 2006De19, (n,n'|g).                       
+154SM  G  1024.40   8  69       E1,M1                                           
+154SM cG E,M       from 2006De19, (n,n'|g).                                     
+154SM  G  1863.3    5  18                                                       
+154SM cG RI        from I|g(1863|g)/I|g(1024|g) in (n,n'|g) and I|g(1024|g). In 
+154SM2cG {+154}Pm |b{+-} decay (1.73 min), I|g|<150.                            
+154SM  L 1973.76   5  1-,2+                                                     
+154SM2 L XREF=AEGH                                                              
+154SM cL J         From |g's to 0+ and 3- levels. Proposed to be excited via    
+154SM2cL      M1 in (|g,|g'), indicating J|p=1+, but this leads to a violation  
+154SM3cL      of RUL for the 961.3 |g (which would then be M2) deexciting       
+154SM4cL      this level.                                                       
+154SM  G  961.3    5   17                                                       
+154SM  G 1891.8    3   81                                                       
+154SM  G 1973.59   20 100                                                       
+154SM  L 1974         (6+)                                                  D   
+154SM2 L XREF=F                                                                 
+154SM cL J         from |g's to 4+ and 6+ levels. Assigned as the 6+ member of  
+154SM2cL the |g-vibrational band by 1992Mo20 (Coul. ex.).                       
+154SM  G 1430                                                                   
+154SM  G 1707                                                                   
+154SM  L 1986.59   4   3-                                                       
+154SM2 L XREF=BEH                                                               
+154SM cL J         |g's to 2+,2- and 4+ levels indicate J|p=2+,3. E1 |g's to    
+154SM2cL positive-parity states indicate |p=-, and hence J=3. (See the          
+154SM3cL comment on the decay modes of this level in the (n,n'|g) data set.     
+154SM  G   64.548  25  33       E1                                          V   
+154SM  G  107.896  25  47       E1                                          V   
+154SM  G  171.6    3   49       E1                                          V   
+154SM  G  230.82   3   43                                                       
+154SM  G  232.08   3   30                                                       
+154SM  G  279.93   4   82                                                       
+154SM  G  402.15   10  11                                                       
+154SM  G  447.5    3    3.0                                                     
+154SM  G  471.36   20   7.0                                                     
+154SM  G  546.66   6  100                                                       
+154SM  G  700.0    3    4.5                                                    ?
+154SM  G  974.0    4    2.0                                                    ?
+154SM  G 1719.74   25   4.8                                                     
+154SM  G 1905.1    4    5.2                                                     
+154SM  L  2013.4    6                                                           
+154SM2 L  XREF=G(2012)H                                                         
+154SM  G   675.8    6 100    20                                                 
+154SM  L 2015.40   6  (1-,2+)                                                   
+154SM2 L XREF=AH(?)                                                             
+154SM cL J         From |g's to 0+ and 3- levels.                               
+154SM  G  837.4       100                                                       
+154SM  G 1002.8    10  53                                                       
+154SM  G 1933.5    3   93                                                       
+154SM  G 2015.5    4   67                                                   &   
+154SM  L 2062      4                                                            
+154SM2 L XREF=G                                                                 
+154SM  L 2065.90   8                                                            
+154SM2 L XREF=B                                                                 
+154SM  G  143.74   15  12                                                       
+154SM  G  247.75   15  17                                                       
+154SM  G  359.16   8  100                                                       
+154SM  G  526.7    4    7.1                                                     
+154SM  G 1799.4    5    3.7                                                    ?
+154SM  L 2069         (10+)                                                 G   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 8+ level and band structure.                      
+154SM  G 1166                                                                   
+154SM  L 2069.07   4  (2+)                                                      
+154SM2 L XREF=AH(?)                                                             
+154SM cL J         From |g's to 0+ and 4+ levels.                               
+154SM  G   95.2    3    0.5                                                    ?
+154SM3 G FL=1973.76                                                             
+154SM  G  782.9    3    2.5                                                     
+154SM  G  866.5    3    5.3                                                     
+154SM  G 891.28    4   71                                                       
+154SM  G 969.79    6   56    4                                                  
+154SM  G 1057.0    5    1.0                                                     
+154SM  G 1147.69   6  100    6                                                  
+154SM  G 1801.6    5    1.4                                                     
+154SM  G 1987.04   10  14    2                                                  
+154SM  G 2069.04   8   20    2                                                  
+154SM  L 2130      4                                                            
+154SM2 L XREF=G                                                                 
+154SM  L 2131.82   6  (2+)                                                      
+154SM2 L XREF=AH                                                                
+154SM cL J         From |g's to 0+ and 4+ levels.                               
+154SM  G   62.62   6    3.2                                                    ?
+154SM  G  953.97   8  100                                                       
+154SM  G 1032.55   8   69                                                       
+154SM  G 1210.2    3   15                                                       
+154SM  G 1865.7    5    6.4                                                     
+154SM  G 2050.1    3   13                                                       
+154SM  L 2139.82   4  (1,2+)                                                    
+154SM2 L XREF=AH(?)                                                             
+154SM cL J         |g's to 0+ and 2+ levels.                                    
+154SM  G 124.43    4    1.1                                                     
+154SM  G 166.06    3    3.6     E1                                          W   
+154SM  G 194.29    6    0.9                                                     
+154SM  G 384.5     3    0.4                                                     
+154SM  G 465.8     3    1.0                                                     
+154SM  G 524.2     3    0.5                                                     
+154SM  G 624.6     4    0.8                                                     
+154SM  G 664.20    14   3.0                                                     
+154SM  G 700.0     3    1.2                                                     
+154SM  G 853.1     5    0.6                                                    ?
+154SM  G 937.30    12   2.2                                                     
+154SM  G 962.00    8   19.1  16                                                 
+154SM  G 1040.7    5    0.8                                                     
+154SM  G 1218.57   10   3.7                                                     
+154SM  G 1873.6    8    0.4                                                    ?
+154SM  G 2057.76   6  100    10                                                 
+154SM  G 2139.76   8   57                                                       
+154SM  L 2154.3       7+                                                    D  ?
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 6+ state and band structure.                      
+154SM  L 2163         11-                                                   B   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g's to 9- and 10+ and band structure.                  
+154SM  G  403                                                                  ?
+154SM  G  830                                                                   
+154SM  L 2196.2    5  (1,2+)                                                   ?
+154SM cL J         From |g to 0+ level.                                         
+154SM2 L XREF=A                                                                 
+154SM  G 1096.9    5   100                                                     ?
+154SM cG E         The existence and placement of this |g are doubtful.         
+154SM  L 2232.8    4                                                            
+154SM2 L XREF=BH(?)                                                             
+154SM  G  526.0    4   100                                                      
+154SM  G 2150.5    5    14                                                     ?
+154SM  L 2275      4                                                            
+154SM2 L XREF=G                                                                 
+154SM  L 2288      4                                                            
+154SM2 L XREF=G                                                                 
+154SM  L 2293.85   12 (2+,3,4+)                                                 
+154SM2 L XREF=B                                                                 
+154SM cL J         From |g's to 2+ and 4+ levels.                               
+154SM  G  307.3    3    27                                                     ?
+154SM  G  371.7    3    29   LE                                                ?
+154SM  G  415.23   15  100                                                      
+154SM  G  709.1    3    48                                                      
+154SM  G  853.1    5    60   LE                                                ?
+154SM  G 2026.9    3    57                                                      
+154SM  G 2211.9    3    48                                                      
+154SM  L 2368.81   14 (1,2+)                                                    
+154SM2 L XREF=A                                                                 
+154SM cL J         From |g's to 0+ and 2+ levels.                               
+154SM  G  853.3         26   LE                                                 
+154SM  G 1082.0    5    22                                                      
+154SM  G 1191.1    3    44                                                      
+154SM  G 1447.4    3    34                                                     ?
+154SM  G 2287.0    3    26                                                      
+154SM  G 2368.74   20  100                                                      
+154SM  L 2373.0       14+                                                   A   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 12+ level and band structure.                     
+154SM  G  547.1                                                                 
+154SM  L 2421.4       (1,2+)                                                   ?
+154SM2 L XREF=A                                                                 
+154SM cL J         From |g's to 0+ and 2+ levels.                               
+154SM  G 2340.8    5   100                                                     ?
+154SM  G 2421.4    4    87                                                     ?
+154SM  L 2428.48   11                                                           
+154SM2 L XREF=A                                                                 
+154SM  G 2346.48   10  100                                                      
+154SM  L 2439         (12+)                                                 G   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 10+ level and band structure.                     
+154SM  G 1106                                                                   
+154SM  L 2443.5     4  1+                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         Excited via an M1 transition in (|g,|g').                    
+154SM  G 2361.5     5   38   24 [M1]                                            
+154SM3 G BM1W=0.014 9                                                           
+154SM  G 2443.5     5  100       M1                                         U   
+154SM3 G BM1W=0.033 8                                                           
+154SM  L 2486       3                                                          ?
+154SM2 L XREF=E                                                                 
+154SM  L 2556.56   22  1-                                                       
+154SM2 L XREF=AE                                                                
+154SM cL J         |g's to 0+ and 2+ levels; E1 excitation in (|g,|g').         
+154SM  G 2474.5    3  100       [E1]                                            
+154SM3 G BE1W=0.0021 3                                                          
+154SM  G 2556.6    3   48     6  E1                                         U   
+154SM3 G BE1W=9.4E-4 10                                                         
+154SM cG RI        From (|g,|g'); other: I|g(2556)/I|g(2474)=0.74 from          
+154SM2cG      {+154}Pm |b- decay (1.73 m).                                      
+154SM  L 2591.32   10                                                           
+154SM2 L XREF=A                                                                 
+154SM  G  917.0    5   13                                                       
+154SM  G 1389.3    3   25                                                       
+154SM  G 1670.16   25  19                                                       
+154SM  G 2509.27   15 100                                                       
+154SM  G 2591.14   20  39                                                       
+154SM  L 2618.03   12  1-                                                       
+154SM2 L XREF=AE                                                                
+154SM cL J         From E1 excitation in (|g,|g').                              
+154SM  G 2536.08   15 100       [E1]                                            
+154SM3 G BE1W=0.0017 4                                                          
+154SM  G 2617.92   20  67    12  E1                                         U   
+154SM3 G BE1W=0.0010 1                                                          
+154SM cG RI        From (|g,|g'); other: I|g(2617)/I|g(2536)=0.76 from          
+154SM2cG      {+154}Pm |b- decay (1.73 m).                                      
+154SM  L 2636         13-                                                   B   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g's to 11- and 12+ levels and band structure.          
+154SM  G  473                                                                  ?
+154SM  G  810                                                                   
+154SM  L 2721.28   24 (1,2+)                                                    
+154SM2 L XREF=A                                                                 
+154SM cL J         From |g's to 0+ and 2+ levels.                               
+154SM  G 2639.2    4    41                                                      
+154SM  G 2721.3    3   100                                                      
+154SM  L 2743.7    4   1-                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From E1 excitation in (|g,|g').                              
+154SM  G 2661.7     5  100      [E1]                                            
+154SM3 G BE1W=0.0014 2                                                          
+154SM  G 2743.7     5   58    8  E1                                         U   
+154SM3 G BE1W=7.4E-4 6                                                          
+154SM  L 2778.63   17  1                                                        
+154SM2 L XREF=AE                                                                
+154SM cL J         From |g's to 0+ and 2+ levels, J|p=1,2+. Dipole              
+154SM2cL      excitation in (|g,|g') rules out 2+.                              
+154SM  G 1022.4    4    33                                                      
+154SM  G 1576.7    8    36                                                      
+154SM  G 1856.3    4    36                                                      
+154SM  G 2697.4    3    27                                                      
+154SM cG RI        From {+154}Pm |b- decay (1.73 m); other: |< 17 from (|g,|g').
+154SM  G 2778.6    3   100       D                                              
+154SM  L 2793         (14+)                                                 G  ?
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 12+ level and band structure.                     
+154SM  G  967                                                                  ?
+154SM  L 2825.3     5  1-                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From E1 excitation in (|g,|g').                              
+154SM  G 2743.3     5  100      [E1]                                            
+154SM3 G BE1W=7.1E-4 16                                                         
+154SM  G 2825.3     5   53   14  E1                                         U   
+154SM3 G BE1W=3.5E-4 8                                                          
+154SM  L 2842.8    4   1-                                                       
+154SM2 L XREF=AE                                                                
+154SM cL J         From E1 excitation in (|g,|g').                              
+154SM  G 2761.1    5   100      [E1]                                            
+154SM3 G BE1W=8.5E-4 16                                                         
+154SM  G 2842.6    4    71   10  E1                                         U   
+154SM3 G BE1W=5.6E-4 7                                                          
+154SM cG RI        From (|g,|g'); other: I|g(2761)/I|g(2842)=0.87 from          
+154SM2cG      {+154}Pm |b- decay (1.73 m).                                      
+154SM  L 2882.0     5  1-                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From E1 excitation in (|g,|g').                              
+154SM  G 2800.0     5  100      [E1]                                            
+154SM3 G BE1W=3.4E-4 16                                                         
+154SM  G 2882.0     5   79   26  E1                                         U   
+154SM3 G BE1W=2.5E-4 8                                                          
+154SM  L 2907.3     5  1+                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From M1 excitation in (|g,|g').                              
+154SM  G 2825.3     5   52   13 [M1]                                            
+154SM3 G BM1W=0.019 6                                                           
+154SM  G 2907.3     5  100       M1                                         U   
+154SM3 G BM1W=0.033 7                                                           
+154SM  L 2968.2       16+                                                   A   
+154SM2 L XREF=F                                                                 
+154SM cL J         From |g to 14+ level and band structure.                     
+154SM  G  595.2                                                                 
+154SMF G FL=2373.0                                                              
+154SM  L 3051.23   15                                                           
+154SM2 L XREF=A                                                                 
+154SM  G  919.23   20  100                                                      
+154SM  G 1576.7    8    41                                                      
+154SM  G 1764.9    4    55                                                      
+154SM  G 1873.6    8    24                                                      
+154SM  G 2130.4    3    72                                                      
+154SM  G 2968.9    4    45                                                      
+154SM  L 3091.5    5   1+                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From M1 excitation in (|g,|g').                              
+154SM  G 3009.5     5   49    5 [M1]                                            
+154SM3 G BM1W=0.045 6                                                           
+154SM  G 3091.5     5  100       M1                                         U   
+154SM3 G BM1W=0.084 8                                                           
+154SM  L 3117.0     5  1+                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From M1 excitation in (|g,|g').                              
+154SM  G 3035.0     5   53    6 [M1]                                            
+154SM3 G BM1W=0.033 5                                                           
+154SM  G 3117.0     5  100       M1                                         U   
+154SM3 G BM1W=0.058 7                                                           
+154SM  L 3193.42   17  1+                                                       
+154SM2 L XREF=AE                                                                
+154SM cL J         From M1 excitation in (|g,|g').                              
+154SM  G 1374.3    3    46                                                      
+154SM  G 1389.3    3   100                                                      
+154SM  G 1487.1    3    57                                                     ?
+154SM  G 2015.5    4    36                                                  &   
+154SM  G 3111.2    5    29      [M1]                                            
+154SM3 G BM1W=0.092 9                                                           
+154SM cG E         Simple average of 3111.4 {I5} (|g,|g') and 3110.9 {I5}       
+154SM2cG      ({+154}Pm |b- decay (1.73 m)).                                    
+154SM  G 3193.4     5   51    4  M1                                         U   
+154SM3 G BM1W=0.150 11                                                          
+154SM cG E         From (|g,|g'); |g not reported in {+154}Pm |b- decay         
+154SM2cG      (1.73 m).                                                         
+154SM cG RI        Computed from I|g(3111) and I|g(3111)/I|g(3193)=0.57 {I4}    
+154SM2cG      (from (|g,|g')).                                                  
+154SM  L 3339.5    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3257.5     5   21   LE                                                S
+154SM  G 3339.5     5  100       D                                          U   
+154SM  L 3365.9    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3283.9     5   21   LE                                                S
+154SM  G 3365.9     5  100       D                                          U   
+154SM  L 3371.1    5   1+                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From M1 excitation in (|g,|g').                              
+154SM  G 3289.1     5   67   20 [M1]                                            
+154SM3 G BM1W=0.019 7                                                           
+154SM  G 3371.1     5  100       M1                                         U   
+154SM3 G BM1W=0.027 7                                                           
+154SM  L 3426.4    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3344.4     5   21   LE                                                S
+154SM  G 3426.4     5  100       D                                          U   
+154SM  L 3492.4    5   1+                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From M1 excitation in (|g,|g').                              
+154SM  G 3410.4     5   42   20 [M1]                                            
+154SM3 G BM1W=0.008 5                                                           
+154SM  G 3492.4     5  100       M1                                         U   
+154SM3 G BM1W=0.018 7                                                           
+154SM  L 3609.3        18+                                                  A   
+154SM2 L XREF=F                                                                 
+154SM cL J         |g to 16+, and band structure.                               
+154SM  G  641.1                                                                 
+154SM  L 3621.7    5   1+                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From M1 excitation in (|g,|g').                              
+154SM  G 3539.7     5   49   14 [M1]                                            
+154SM3 G BM1W=0.019 8                                                           
+154SM  G 3621.7     5  100       M1                                         U   
+154SM3 G BM1W=0.036 11                                                          
+154SM  L 3745.8    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3663.8     5   17   LE                                                S
+154SM  G 3745.8     5  100       D                                          U   
+154SM  L 3759.8    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3677.8     5   28   LE                                                S
+154SM  G 3759.8     5  100       D                                          U   
+154SM  L 3801.3    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3719.3     5   93   23                                                 
+154SM  G 3801.3    4   100       D                                          U   
+154SM  L 3826.7    5   1-                                                       
+154SM2 L XREF=E                                                                 
+154SM cL J         From E1 excitation in (|g,|g').                              
+154SM  G 3744.7     5  100      [E1]                                            
+154SM3 G BE1W=0.0012 3                                                          
+154SM  G 3826.7     5   41    6  E1                                         U   
+154SM3 G BE1W=4.5E-4 9                                                          
+154SM  L 3836.7    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3754.7     5   85   30                                                 
+154SM  G 3836.7     5  100       D                                          U   
+154SM  L 3844.0    5   1                                                        
+154SM2 L XREF=E                                                                 
+154SM cL J         From dipole excitation in (|g,|g').                          
+154SM  G 3762.0     5  112   40                                                 
+154SM  G 3844.0     5  100       D                                          U   
+154SM  L 4020      10                                                           
+154SM2 L XREF=E                                                                 
+154SM  G 3940                                                                   
+154SM  G 4020                                                                   
+154SM  L 4240      10                                                           
+154SM2 L XREF=E                                                                 
+154SM  G 4160                                                                   
+154SM  G 4240                                                                   
+154SM  L 4295.7        20+                                                  A   
+154SM2 L XREF=F                                                                 
+154SM cL J         |g to 18+ and band structure.                                
+154SM  G  686.4                                                                 
+154SM  L 4300      10                                                           
+154SM2 L XREF=E                                                                 
+154SM  G 4220                                                                   
+154SM  G 4300                                                                   
+154SM  L 5027.9        22+                                                  A   
+154SM2 L XREF=F                                                                 
+154SM cL J         |g to 20+ and band structure.                                
+154SM  G  732.2                                                                 
+154SM  L 6465.2    10  1-              4.3 FS    21                             
+154SM2 L XREF=E                                                                 
+154SM cL J         From E1 excitation in (|g,|g').                              
+154SM cL T         Calculated from level width of 0.105 eV {I50} (1977Be05).    
+154SM  G 3979      2  10     2                                                 ?
+154SM  G 4479      3   0.3                                                      
+154SM  G 4543      3  10     2                                                  
+154SM3 G FL=1922.05                                                             
+154SM  G 4709      3   4     3                                                  
+154SM3 G FL=1755.67                                                             
+154SM  G 5025      3   5     3  [E1]                                            
+154SMB G BE1W=8.E-6 7                                                           
+154SM  G 5263      3   7     1  E1                                          T   
+154SMB G BE1W=1.0E-5 5                                                          
+154SM  G 5287      3   8     2  E1                                          T   
+154SMS G BE1W= 1.1E-5 7 $  FL=1177.812                                          
+154SM  G 5366      3  45     1  E1                                          T   
+154SMB G BE1W=6.E-5 3                                                           
+154SM  G 5544      3   8     2  E1                                          T   
+154SMB G BE1W=1.0E-5 6                                                          
+154SM cG M         Multipolarity is not consistent with J|p's of 1- to 1-.      
+154SM  G 6383      3  67     1  E1+M2      0.081 18                         T   
+154SMB G BE1W=5.E-5 3 $ BM2W=0.04 3                                             
+154SM cG MR        From |g(|q) in (|g,|g'), mult=D+Q. Since a parity change     
+154SM2cG      is involved in the transition, mult is not M1+E2.                 
+154SM  G 6465      3 100        E1                                              
+154SM cG M         From |g(|q) and linear polarization in (|g,|g').             
+154SMB G BE1W=8.E-5 4      
