@@ -1,0 +1,555 @@
+
+
+151ND    ADOPTED LEVELS, GAMMAS                                  09NDS    200901
+151ND  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 110, 1 (2009)$CUT=20-Nov-2008$        
+151ND  Q 2443      5 5334.55 109931    10-1353   9     2012WA38                 
+151ND cQ $Note: Current evaluation has used the following Q record              
+151ND  Q 2442      4 5334.55 10  9938  26 -1350  30    2003AU03                 
+151ND  XD151PR B- DECAY (18.90 S)                                               
+151ND  XA150ND(N,G) E=TH                                                        
+151ND  XB150ND(D,P)                                                             
+151ND  XC150ND(D,PG)                                                            
+151ND  XE252CF SF DECAY                                                         
+151ND c  Other reaction: {+150}Nd(n,n) E=res (1968Ka28,1969Al09). Neutron       
+151ND2c  transmission and |g yields measured for neutron energies up to         
+151ND3c  10 keV and resonances in {+151}Nd determined. Neutron widths           
+151ND4c  determined for all resonances and |g partial widths for some.          
+151ND5c  The |G data are available for 16 strong resonances.                    
+151ND6c  Other: 1971Te04 (E<31 keV)                                             
+151ND c  Theoretical references: 1983Ri10, 1981Be59, 1980Cw03, 1968Ma15         
+151ND D  Yields and cross sections:                                             
+151ND D  154SM(N,A) E AP 14.7 MEV: 1998Ko37, 1984Qa01, 1982Ba70                 
+151ND D  245CM(N,F) E=TH: 1981Di01                                              
+151ND D  150ND(N,G): 1999An02 (E=0.46-3.44 MEV); 1995To01 (E=25,30 KEV);        
+151ND2D  1978Ko04 (E=5-350 KEV); 1973Ri08 (E=?), 1972Th03 (E=25 KEV),           
+151ND3D  1972Ki24 (E=TH)                                                        
+151ND c  See {+150}Nd(n,|g),(n,n):resonances dataset for 79 neutron resonances  
+151ND2c  in the energy region: 78 eV to 13.9 keV.                               
+151ND cG E,RI$Mostly from {+150}Nd(n,|g). A number of |g's not classified       
+151ND2cG in (n,|g) work (1976Pi13) have been placed by the evaluator.           
+151ND3cG If a |g is suspected of being partially due to a contaminant, the      
+151ND4cG intensity is given as an upper limit                                   
+151ND cG M$From ce data in (n,|g) and {+151}Pr |b{+-} decay                     
+151ND cG RI(A)$From (d,p|g). Intensities estimated by the evaluator are from    
+151ND2cG the published spectra given in 1984Ka12                                
+151ND cG RI(B)$Half of I|g reported in (n,|g) assigned to this location         
+151ND cG E(F)$|g from {+151}Pr |b{+-} only                                      
+151ND cL E$ From least-squares fit to E|g's for levels populated in             
+151ND2cL |g-ray studies. Normalized |h{+2}=1.8. Others are from (d,p) reaction. 
+151ND cL J$No spins have been directly measured, no internal conversion         
+151ND2cL coefficients are known and rather sparse coincidence measurements      
+151ND3cL exist. Thus, most spin assignments are in parentheses. The             
+151ND4cL model-dependent arguments are in agreement with most of these          
+151ND5cL assignments                                                            
+151ND cL E(I)$Based on weak peak in (d,p) seen only by 1967Ne08                 
+151ND cL J(G,H)$Primary |g from 1/2+ capture state gives J|p=1/2,3/2,5/2+       
+151ND cL E(H)$Level based on capture |g seen by either 1975SmZT or 1976Pi13     
+151ND2cL but not by both                                                        
+151ND cL J(K)$Probable i{-13/2} band.                                           
+151ND CL BAND(A)$ 3/2[651]+3/2[402].                                            
+151ND2cL Coriolis perturbed band (1985BuZU,1975SmZT)                            
+151ND CL BAND(B)$ 3/2[532] BAND.                                                
+151ND2cL Band assignment from 1985BuZU and 1975SmZT                             
+151ND CL BAND(C)$ 3/2[521] BAND.                                                
+151ND2cL Band assignment from 1985BuZU and 1975SmZT                             
+151ND CL BAND(D)$ 1/2[530] BAND.                                                
+151ND2cL Band assignment from 1985BuZU and 1975SmZT                             
+151ND CL BAND(E)$ 5/2[523] BAND.                                                
+151ND2cL Band assignment from 1985BuZU and 1975SmZT                             
+151ND CL BAND(F)$ 1/2[521]+G VIB ON 3/2[521].                                   
+151ND2cL Band assignment from 1985BuZU and 1975SmZT                             
+151ND CL BAND(K)$ 3/2[651] or 5/2[642] band.                                    
+151ND2cL The band assignment from 1996Ba34.                                     
+151ND3cL Similar bands reported in other N=91 nuclides, {+155}Gd, {+157}Dy and  
+151NDxcL {+159}Er                                                               
+151ND PN                                                                     6  
+151ND  L 0.0          3/2+             12.44 M   7                          A   
+151ND2 L %B-=100                                                                
+151NDX L XREF=ABCD$                                                             
+151ND cL T$from 1966ZgZZ. Others: 12 min (1950Ma05), 12 min {I1} (1952Ru10),    
+151ND2cL 17 min {I5} (1958Wi42), 1965Fo08, 1960Wi10, 1959Sc39                   
+151ND cL J$log| {Ift}=5.4 to 5/2+ and log| {Ift}=7.2 to 1/2+                    
+151ND  L 22.4506   10(5/2)+                                                 A   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$L(d,p)=2 and M1+E2 |g to 3/2+.                                       
+151ND2cL Nilsson model favors 5/2                                               
+151ND  G 22.51     10 100      M1+E2     0.16    3     49     13                
+151ND cG MR$from {+151}Pr |b{+-} decay, based on ce data and intensity balance  
+151ND2cG arguments.                                                             
+151NDS G LC=38 10$MC=8.5 23$NC+=2.1 6                                           
+151NDS G NC=1.8 5$OC=0.25 6$PC=0.00602 13                                       
+151ND  L 57.6741   4 (3/2)-                                                 B   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$E1 |g to 3/2+, |g to (5/2)+ and primary |g from 1/2+                 
+151ND  G 35.227    2 17.3    16[E1]                    0.762                    
+151NDS G LC=0.603 9$MC=0.1280 18$NC+=0.0315 5                                   
+151NDS G NC=0.0276 4$OC=0.00369 6$PC=0.0001452 21                               
+151ND  G 57.6740   4 100       E1                      1.144                    
+151NDS G KC=0.955 14$LC=0.1495 21$MC=0.0316 5$NC+=0.00791 11                    
+151NDS G NC=0.00690 10$OC=0.000964 14$PC=4.41E-5 7                              
+151ND  L 75.857    4 (7/2)+                                                 A   
+151NDX L XREF=AC$                                                               
+151ND cL J$M1(+E2) |g to (5/2)+ and probable member of g.s. band                
+151ND  G 53.408    4 100     9 M1(+E2)                 16     8                 
+151NDS G KC=6.1 13$LC=8 7$MC=1.8 16$NC+=0.4 4                                   
+151NDS G NC=0.4 4$OC=0.05 4$PC=0.00036 13                                       
+151ND cG CC$for M1                                                              
+151ND  G 75.95     10 14     2  [E2]                     5.99                   
+151NDS G KC=2.51  $LC=2.71  $MC=0.62 $NC+=0.15                                  
+151NDS G NC=0.13  $OC=0.017  $PC=0.00011                                        
+151ND cG RI$from {+151}Pr |b{+-}. I|g=38 {I4} in (n,|g)                         
+151ND  L 95.9      10(9/2+)                                                 A   
+151NDX L XREF=B$                                                                
+151ND cL J$probable 9/2+ member of g.s. band                                    
+151ND  L  0.0+X         (9/2+)                                                  
+151NDX L XREF=E                                                                 
+151ND cL E$x |?96 if this level corresponds to 95.9, (9/2+) level               
+151ND2cL reported in (d,p).                                                     
+151ND  L 105.7524  8  5/2-                                                  B   
+151NDX L XREF=AB(107.5)CD$                                                      
+151ND cL J$L(d,p)=3 and E1 |g to 3/2+                                           
+151ND  G 29.97     10 4.2    6 [E1]                    1.202  21                
+151NDS G LC=0.950 16$MC=0.202 4$NC+=0.0493 9                                    
+151NDS G NC=0.0434 8$OC=0.00570 10$PC=0.000212 4                                
+151ND  G 83.300    1 59      5 E1                      0.427                    
+151NDS G KC=0.360 5$LC=0.0527 8$MC=0.01114 16$NC+=0.00281 4                     
+151NDS G NC=0.00245 4$OC=0.000349 5$PC=1.748E-5 25                              
+151ND  G 105.753   1 100     5 E1                      0.222                    
+151NDS G KC=0.189 3$LC=0.0268 4$MC=0.00566 8$NC+=0.001437 21                    
+151NDS G NC=0.001248 18$OC=0.000180 3$PC=9.47E-6 14                             
+151ND  L 177.714   2 (7/2-)                                                 B   
+151NDX L XREF=AB(174.0)CD(177.78)$                                              
+151ND cL J$|g from (9/2-), |g to (5/2)+ and probable |g to (5/2)-               
+151ND2cL suggest 5/2-, 7/2 but 7/2- favored by probable assignment              
+151ND3cL to 3/2[532] band                                                       
+151ND  G 72        AP 10     LT                                                ?
+151ND  G 155.263   2  100    LT                                             &   
+151NDF G FLAG=B                                                                 
+151ND  L 189.054   1 (3/2)-              0.7 NS  LT                         C   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$L(d,p)=1 and E1 |g to 3/2+                                           
+151ND cL T         from |g|g(t) in (d,p|g)                                      
+151ND  G 83.3      3  2.7    14                                                 
+151ND cG E,RI$from {+151}Pr |b{+-}                                              
+151ND  G 131.381   2 10.3    7 M1,E2                   0.74   9                 
+151NDS G KC=0.546 12$LC=0.15 8$MC=0.034 18$NC+=0.008 5                          
+151NDS G NC=0.007 4$OC=0.0010 5$PC=3.0E-5 6                                     
+151ND  G 166.603   1 33.3    18E1                      0.0642                   
+151NDB G BE1W>1.5E-5                                                            
+151NDS G KC=0.0547 8$LC=0.00751 11$MC=0.001583 23$NC+=0.000405 6                
+151NDS G NC=0.000351 5$OC=5.16E-5 8$PC=2.91E-6 4                                
+151ND  G 189.057   2 100     5 E1                      0.0456                   
+151NDB G BE1W>3.1E-5                                                            
+151NDS G KC=0.0389 6$LC=0.00530 8$MC=0.001117 16$NC+=0.000286 4                 
+151NDS G NC=0.000248 4$OC=3.66E-5 6$PC=2.10E-6 3                                
+151ND  L  149.4+X       (13/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND cL E$this level may correspond to 258.9, (9/2+) level reported in (d,p),  
+151ND2cL but energy difference between 13/2+ and 9/2+ does not match 149.4|g    
+151ND3cL reported by 1996Ba34. In neighboring N=91 nuclides, 13/2+ bandhead     
+151ND4cL is at 214 ({+155}Gd), 239 ({+157}Dy), 226 ({+159}Er)                   
+151ND  G  149.4        100                                                      
+151ND  L 249.568   2 (5/2)-                                                 C   
+151NDX L XREF=ACD$                                                              
+151ND cL J$E1 |g to 3/2+; |g's to (3/2)- and (7/2)+. |g from (9/2-)             
+151ND  G 60.519    3  29     3 [M1,E2]                 10     4                 
+151NDS G KC=4.6 6$LC=4 4$MC=1.0 9$NC+=0.24 20                                   
+151NDS G NC=0.21 18$OC=0.027 22$PC=0.00026 8                                    
+151ND  G 143.5     3  3      2 [M1,E2]                 0.56   6                 
+151NDS G KC=0.421 14$LC=0.11 5$MC=0.024 12$NC+=0.006 3                          
+151NDS G NC=0.0053 25$OC=0.0007 3$PC=2.4E-5 5                                   
+151ND cG E,RI$from {+151}Pr |b{+-}. In (n,|g), E|g=143.806 {I18} may be placed  
+151ND2cG here, but its intensity in (n,|g) is too large to be assigned with     
+151NDxcG this level                                                             
+151ND  G 173.714   5  39     3                                                  
+151ND  G 191.889   10 25     2                                                  
+151ND  G 227.135   5  57     11                                                 
+151ND  G 249.563   2 100     7 E1                      0.0218                   
+151NDS G KC=0.0186 3$LC=0.00250 4$MC=0.000528 8$NC+=0.0001357 19                
+151NDS G NC=0.0001172 17$OC=1.742E-5 25$PC=1.034E-6 15                          
+151ND  L 258.9     10(13/2+)                                                A   
+151NDX L XREF=B$                                                                
+151ND cL J$L(d,p)=(6) and probable member of g.s. band                          
+151ND  L 335.72    4 (7/2)-                                                 C   
+151NDX L XREF=ABC$                                                              
+151ND cL J$L(d,p)=3 and probable member of 3/2[521] band                        
+151ND  G 86.28     1044      8                                                  
+151ND  G 146.54    107       LT                                                 
+151ND  G 229.7     1 10      AP                                             A   
+151ND  G 259.77    1017      3                                                  
+151ND  G 313.2     1 100     9                                                  
+151ND  L 404.8     10                                                           
+151NDX L XREF=B$                                                                
+151ND  L 443.62    11(9/2)-                                                 C   
+151NDX L XREF=BC$                                                               
+151ND cL J$L(d,p)=5 and possible 194-250 cascade to 3/2+                        
+151ND  G 107.9     1 100                                                    A   
+151ND  G 194       1                                                        A   
+151ND  G 266       1 50      AP                                             A   
+151ND  L  376.5+X       (17/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND  G  227.1         100                                                     
+151ND  L 495.305   4 (1/2)-                                                 D   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$E1 |g to 3/2+; M1,E2 |g to (3/2)-; L(d,p)=(1) and                    
+151ND2cL probable bandhead                                                      
+151ND  G 306.243   7  11.4   18M1,E2                   0.057  8                 
+151NDS G KC=0.047 9$LC=0.0077 3$MC=0.00167 8$NC+=0.000426 15                    
+151NDS G NC=0.000369 15$OC=5.41E-5 8$PC=2.8E-6 7                                
+151ND  G 389.5     1  2.4    2                                              F   
+151ND  G 437.631   8  49     3 M1,E2                   0.021  5                 
+151NDS G KC=0.018 4$LC=0.0027 3$MC=0.00057 6$NC+=0.000147 15                    
+151NDS G NC=0.000127 13$OC=1.89E-5 24$PC=1.1E-6 3                               
+151ND cG RI$from {+151}Pr |b{+-}. Other: 78 {I7} (n,|g)                         
+151ND  G 495.309   6 100     7 E1                      0.00402                  
+151NDS G KC=0.00345 5$LC=0.000450 7$MC=9.47E-5 14$NC+=2.45E-5 4                 
+151NDS G NC=2.11E-5 3$OC=3.18E-6 5$PC=2.01E-7 3                                 
+151ND  L 506.953   5 (3/2)-                                                 D   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$L(d,p)=1; E1 |g to (5/2)+; M1,E2 |g to 5/2-                          
+151ND  G 257.38    5  3.6    3 M1,E2                   0.094  9                 
+151NDS G KC=0.077 11$LC=0.0135 16$MC=0.0029 4$NC+=0.00074 9                     
+151NDS G NC=0.00065 8$OC=9.4E-5 8$PC=4.6E-6 11                                  
+151ND cG RI$from {+151}Pr |b{+-}. Other: 11 {I1} (n,|g)                         
+151ND  G 317.912   15 9.3    12M1,E2                   0.051  8                 
+151NDS G KC=0.042 8$LC=0.00688 14$MC=0.00148 5$NC+=0.000379 8                   
+151NDS G NC=0.000329 9$OC=4.82E-5 11$PC=2.6E-6 7                                
+151ND cG RI$from {+151}Pr |b{+-}. Other: 18 {I2} (n,|g)                         
+151ND  G 401.17    10 13.6   15M1,E2                   0.027  6                 
+151NDS G KC=0.023 5$LC=0.0034 3$MC=0.00073 5$NC+=0.000189 15                    
+151NDS G NC=0.000163 12$OC=2.42E-5 24$PC=1.4E-6 4                               
+151ND cG RI$from {+151}Pr |b{+-}. Other: 19 {I2} (n,|g)                         
+151ND  G 449.3     1 13      1 M1,E2                   0.020  5             F   
+151NDS G KC=0.017 4$LC=0.0025 3$MC=0.00053 6$NC+=0.000137 15                    
+151NDS G NC=0.000118 13$OC=1.76E-5 23$PC=1.0E-6 3                               
+151ND  G 484.501   5 100     5 E1                      0.00423                  
+151NDS G KC=0.00363 5$LC=0.000474 7$MC=9.97E-5 14$NC+=2.58E-5 4                 
+151NDS G NC=2.22E-5 4$OC=3.35E-6 5$PC=2.11E-7 3                                 
+151ND  G 507.0     1  24     1                                              F   
+151ND  L 531.85    4 (5/2-,7/2-)                                            E   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$L(d,p)=(3). Possibly the 5/2[523] bandhead. The |g-ray data          
+151ND2cL between different reactions are discrepant. It is possible that two    
+151ND3cL different levels are populated near this energy                        
+151ND  G 196.125   11 26     LT                                                 
+151ND cG           From (n,|g) only                                             
+151ND  G 342.6     1                                                            
+151ND cG           From {+151}Pr |b{+-} and (d,p|g). It is possible             
+151ND2cG that this |g ray deexcites a level different from the one in (n,|g)    
+151ND  G 474.21    10 100                                                       
+151ND cG           From (n,|g) only                                             
+151ND  L 542.80    2 (1/2:7/2)+                                             D   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$M1,E2 |g to 3/2+. L(d,p)=(3) is inconsistent                         
+151ND  G 542.776   17 100      M1,E2                   0.012  3                 
+151NDS G KC=0.0103 25$LC=0.00148 23$MC=0.00031 5$NC+=8.1E-5 13                  
+151NDS G NC=7.0E-5 11$OC=1.05E-5 18$PC=6.4E-7 18                                
+151ND  L 581.0     2                                                            
+151NDX L XREF=ABD$                                                              
+151ND cL J$|g to (3/2)- suggests 1/2, 3/2, 5/2, 7/2-                            
+151ND  G 523.22    20 100                                                       
+151ND cG           A 523.5|g from {+151}Pr |b{+-} decay shown to deexcite a     
+151ND2cG 599 level only, may also populate 581 level, as suggested by           
+151ND3cG a comparison of branching ratios from 599 level                        
+151ND  L 599.22    7 (5/2+)                                                     
+151NDX L XREF=AB(596.4)CD$                                                      
+151ND cL J$primary |g from 1/2+ and |g's to (7/2+) and (7/2-)                   
+151ND  G 421.67    10 100    14                                                 
+151ND  G 493.6     3  93     14                                                 
+151ND cG           |g not reported in (n,|g)                                    
+151ND  G 523.5     1  200    LT                                                 
+151ND cG RI$from (n,|g)                                                         
+151ND  L 622.53    4  5/2-,7/2-                                             E   
+151NDX L XREF=AB(624.1)$                                                        
+151ND cL J$L=3 in (d,p). Possibly the 7/2- member of 5/2[523] band              
+151ND  G 90.685    5 100     14                                                 
+151ND  G 373.17    10100     50                                                 
+151ND  L  626.68   10 (1/2:7/2)+                                                
+151NDX L XREF=D                                                                 
+151ND cL J$M1,E2 |g to 3/2+                                                     
+151ND  G 626.7     1  100      M1,E2                   0.0085 20                
+151NDS G KC=0.0072 18$LC=0.00101 18$MC=0.00021 4$NC+=5.6E-5 10                  
+151NDS G NC=4.8E-5 9$OC=7.2E-6 14$PC=4.5E-7 12                                  
+151ND  L 634.8     15 5/2-,7/2-                                             D   
+151NDX L XREF=B$                                                                
+151ND cL J$L(d,p)=3. Possibly the 7/2- member of the 1/2[530] band              
+151ND  L 673.90    3  1/2,3/2,5/2+                                          G  ?
+151NDX L XREF=A$                                                                
+151ND  G 131.04    3  100                                                      ?
+151ND  L 685.30    6  (3/2,5/2)+                                                
+151NDX L XREF=D$                                                                
+151ND cL J$M1,E2 |g's to 3/2+ and (5/2)+; |g's to (3/2)- and 5/2-               
+151ND  G 496.1     5  3.5    10                                                 
+151ND  G 579.7     1  23     4                                                  
+151ND  G 627.5     3  9.3    13                                                 
+151ND  G 662.8     1  100    5 M1,E2                   0.0074 17                
+151NDS G KC=0.0063 15$LC=0.00087 16$MC=0.00019 4$NC+=4.8E-5 9                   
+151NDS G NC=4.1E-5 8$OC=6.3E-6 12$PC=3.9E-7 11                                  
+151ND  G 685.2     1  34.3   17M1,E2                   0.0068 16                
+151NDS G KC=0.0058 14$LC=0.00080 15$MC=0.00017 3$NC+=4.4E-5 8                   
+151NDS G NC=3.8E-5 7$OC=5.7E-6 11$PC=3.6E-7 10                                  
+151ND  L 703       3                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 725       3                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 736.30    2 (5/2,7/2-)                                                 
+151NDX L XREF=AB(733)$                                                          
+151ND cL J$|g's to (3/2)- and (5/2)+. Absence of primary |g from 1/2+           
+151ND2cL favors 5/2, 7/2                                                        
+151ND  G 155.263   10150     LT                                             &   
+151ND  G 547.42    20128     LT                                                 
+151ND  G 678.30    20600     LT                                                 
+151ND  G 713.62    20100     17                                                 
+151ND  L 752.4     15                                                           
+151NDX L XREF=B$                                                                
+151ND  L 766       3                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L  684.4+X       (21/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND  G  307.9         100                                                     
+151ND  L 846.65    2  1/2-,3/2-                                             F   
+151NDX L XREF=ABCD$                                                             
+151ND cL J$L(d,p)=1. Probable |g to (7/2-) disfavors 1/2-                       
+151ND  G 110.353   8  3.2    3                                                  
+151ND  G 172.749   19 3.1    3                                              &   
+151ND  G 657.615   21 100    9                                                  
+151ND  G 668.56    10  54    LT                                                 
+151ND cG E$complex line                                                         
+151ND  G 846.5     3   59    11                                                 
+151ND cG           From {+151}Pr |b{+-} only. With this intensity it should     
+151ND2cG have been seen in (n,|g)                                               
+151ND  L 877.23    9  (1/2-,3/2,5/2)                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to 3/2+, (3/2)- and 5/2-                                        
+151ND  G 688.2     1    20   3                                                  
+151ND  G 771.5     3    12   10                                                 
+151ND  G 819.1     3    23   5                                                  
+151ND  G 877.3     2   100   7                                                  
+151ND  L 880.10    3 (1/2,3/2)+                                                 
+151NDX L XREF=AD$                                                               
+151ND cL J$primary |g from 1/2+; M1,E2 |g to 3/2+; E1 |g's to (3/2)- and (1/2)- 
+151ND  G 253.7     3  2.6    6                                              F   
+151ND  G 373.3     1  18     2 E1                      0.00785                  
+151NDS G KC=0.00673 10$LC=0.000888 13$MC=0.000187 3$NC+=4.83E-5 7               
+151NDS G NC=4.16E-5 6$OC=6.24E-6 9$PC=3.85E-7 6                                 
+151ND  G 385.0     1  37     3 E1                      0.00729              F   
+151NDS G KC=0.00625 9$LC=0.000822 12$MC=0.0001732 25$NC+=4.47E-5 7              
+151NDS G NC=3.86E-5 6$OC=5.79E-6 9$PC=3.58E-7 5                                 
+151ND  G 822.2     3  3.5    10                                             F   
+151ND  G 857.5     3  4.4    13                                             F   
+151ND  G 880.1     1 100     7 M1,E2                   0.0038 9                 
+151NDS G KC=0.0032 8$LC=0.00043 9$MC=9.2E-5 17$NC+=2.4E-5 5                     
+151NDS G NC=2.1E-5 4$OC=3.1E-6 6$PC=2.0E-7 5                                    
+151ND  L 892.97    3 1/2-,3/2-                                              F   
+151NDX L XREF=ABCD(?)$                                                          
+151ND cL J$L(d,p)=1                                                             
+151ND  G 643.33    5 100     9                                                  
+151ND  G 703.9     2 180     AP                                             A   
+151ND  G 787.42    1182      7                                                  
+151ND  G 893.40    3026      2                                                  
+151ND  L 942.57    10 (1/2,3/2,5/2)                                             
+151NDX L XREF=BD$                                                               
+151ND cL J$|g's to 3/2+ and (3/2)-                                              
+151ND  G 753.5     1  100    50                                                 
+151ND  G 942.6     3   67    30                                                 
+151ND  L 949.34    8 (1/2-,3/2,5/2+)                                            
+151NDX L XREF=AB(951)CD$                                                        
+151ND cL J$primary |g from 1/2+ and |g to 5/2-                                  
+151ND  G 760.15    15 100    24                                                 
+151ND  G 843.2     3   81    16                                             F   
+151ND  G 891.82    14 48     16                                                 
+151ND cG RI$from {+151}Pr |b{+-}. Other: 140 {I12} (n,|g)                       
+151ND  L 964.09    8  1/2,3/2,5/2+                                          G   
+151NDX L XREF=AB$                                                               
+151ND  G 714.49    9 100     10                                                 
+151ND  G 941.89    17300     37                                             &   
+151ND  L 986.0     15 1/2,3/2,5/2+                                          H  ?
+151NDX L XREF=A$                                                                
+151ND  L 995.9     20                                                           
+151NDX L XREF=B$                                                                
+151ND  L 1034.0    20 5/2-,7/2-                                                 
+151NDX L XREF=B$                                                                
+151ND cL J$L(d,p)=3                                                             
+151ND  L 1065.72   2                                                           ?
+151NDX L XREF=A$                                                                
+151ND  G 172.749   19 13     1                                              &   
+151ND  G 329.417   8  75     LT                                                 
+151ND  G 876.26    20 100    15                                                 
+151ND  L 1079      7                                                           ?
+151NDX L XREF=B$                                                                
+151ND  L 1104.1    2                                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g to 3/2+ suggests 1/2, 3/2, 5/2, 7/2+                              
+151ND  G 1104.1    2  100                                                       
+151ND  L 1110.0    15                                                           
+151NDX L XREF=B$                                                                
+151ND  L 1130.68   7  1/2,3/2,5/2+                                          G  ?
+151NDX L XREF=A$                                                                
+151ND  G 794.95    7 100     10                                                 
+151ND  G 941.89    17335     41                                             &   
+151ND  G 1072.86   14118     12                                                ?
+151ND  L 1150.70   6  1/2,3/2,5/2+                                          G   
+151NDX L XREF=AB(1155)$                                                         
+151ND  G 1074.80   14288     29                                                ?
+151ND  G 1150.46   10100     12                                                 
+151ND  L 1068.2+X       (25/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND  G  383.6         100                                                     
+151ND  L 1183.96   14 1/2,3/2,5/2+                                          H  ?
+151NDX L XREF=AD(?)$                                                            
+151ND  G 641.00    6 100                                                        
+151ND  L 1212.17   9  1/2,3/2,5/2+                                          G  ?
+151NDX L XREF=AD(?)$                                                            
+151ND  G 332.21    10 25     3                                                  
+151ND  G 876.26    20 100    15                                                 
+151ND  G 1154.5    3  135    LT                                                 
+151ND  L 1220.3    3   1/2,3/2,5/2+                                         G   
+151NDX L XREF=AB$                                                               
+151ND  G 970.8     3 100                                                        
+151ND  L 1229.84   15 (1/2,3/2,5/2)                                             
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to 3/2+ and (3/2)-                                              
+151ND  G 1040.6    2  100    17                                                 
+151ND  G 1172.6    3  56     6                                                  
+151ND  G 1229.8    3  22     14                                                 
+151ND  L 1256.48   6                                                            
+151NDX L XREF=A$                                                                
+151ND  G 105.899   12 6      1                                                  
+151ND  G 724.49    11 15     2                                                  
+151ND  G 761.36    17 17     2                                                  
+151ND  G 1256.6    20 100    30                                                 
+151ND  L 1380      4                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1409.6    15                                                           
+151NDX L XREF=AB$                                                               
+151ND  L 1436.82   8                                                            
+151NDX L XREF=AB(1432)$                                                         
+151ND  G 1436.83   20 100                                                       
+151ND  L 1449.6    2  (1/2-,3/2,5/2)                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to 3/2+, (3/2)- and 5/2-                                        
+151ND  G 1343.9    3  100    26                                                 
+151ND  G 1391.5    4   28    8                                                  
+151ND  G 1449.8    3   93    15                                                 
+151ND  L 1474      6                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1512.1    3                                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g to 3/2+ suggests 1/2, 3/2, 5/2, 7/2+                              
+151ND  G 1512.1    3  100                                                       
+151ND  L 1519      7                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1523.73   17 (1/2,3/2,5/2)                                             
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to 3/2+ and (3/2)-                                              
+151ND  G 1466.1    2  100    16                                                 
+151ND  G 1523.6    3   58    8                                                  
+151ND  L 1559      7                                                            
+151NDX L XREF=B$                                                                
+151ND  L 1575.57   8  1/2,3/2,5/2+                                          H   
+151NDX L XREF=A$                                                                
+151ND  G 138.57    4 7       1                                                  
+151ND  G 626.233   11100     10                                                 
+151ND  G 1032.61   10 53     LT                                                 
+151ND  L 1616      8                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1520.6+X       (29/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND  G  452.4         100                                                     
+151ND  L 1638.2    1  1/2,3/2,5/2+                                          H   
+151NDX L XREF=ABD$                                                              
+151ND  G 1638.3    2  100                                                       
+151ND  L 1672      5                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1697      8                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1745.85   8                                                            
+151NDX L XREF=AB(1751)$                                                         
+151ND  G 170.247   16 51     5                                                  
+151ND  G 309.036   14 100    10                                                 
+151ND  G 852.56    20 123    LT                                                 
+151ND  G 1164.6    3  159    LT                                                 
+151ND  L 1777      7                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1792.13   13 1/2,3/2,5/2+                                          H  ?
+151NDX L XREF=A$                                                                
+151ND  G 579.8     4  7      1                                              &   
+151ND  G 1192.99   12 100    13                                                 
+151ND  L 1813      5                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1836.27   8                                                            
+151NDX L XREF=AB(1834)$                                                         
+151ND  G 579.8     4  6      1                                              &   
+151ND  G 685.49    5  21     3                                                  
+151ND  G 1341.22   18 100    10                                                 
+151ND  L 1844.28   18 (1/2-,3/2,5/2)                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to 3/2+, (3/2)- and 5/2-                                        
+151ND  G 1655.4    3   94    21                                                 
+151ND  G 1738.4    3   34    6                                                  
+151ND  G 1844.2    3  100    13                                                 
+151ND  L 1878.09   15 (1/2,3/2,5/2)                                             
+151NDX L XREF=BD$                                                               
+151ND cL J$|g's to 3/2+ and (3/2)-                                              
+151ND  G 1689.1    3  13     3                                                  
+151ND  G 1820.5    3  33     6                                                  
+151ND  G 1878.0    2  100    13                                                 
+151ND  L 1907.9    2                                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to (3/2)- and 5/2- suggest 1/2-, 3/2, 5/2, 7/2-                 
+151ND  G 1802.0    3   51    26                                                 
+151ND  G 1850.3    3  100    32                                                 
+151ND  L 1918      4                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 1951.94   11                                                           
+151NDX L XREF=AB$                                                               
+151ND  G 1420.02   10 100                                                       
+151ND  L 2001      7                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2024      5                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2040      7                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2080      4                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2094.31   11 1/2,3/2,5/2+                                          H   
+151NDX L XREF=A$                                                                
+151ND  G 1028.52   10 100                                                       
+151ND  L 2129      5                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2033.2+X       (33/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND  G  512.6         100                                                     
+151ND  L 2160      5                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2182      8                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2205      6                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2235      6                                                        I  ?
+151NDX L XREF=B$                                                                
+151ND  L 2312.5    2  (1/2-,3/2,5/2)                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to 3/2+, (3/2)- and 5/2-                                        
+151ND  G 2206.7    3   58    16                                                 
+151ND  G 2254.8    3  100    30                                                 
+151ND  G 2312.7    4   35    18                                                 
+151ND  L 2341.4    2 (1/2-,3/2,5/2)                                             
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to 3/2+, (3/2)- and 5/2-                                        
+151ND  G 2235.6    3   47    10                                                 
+151ND  G 2283.7    3  100    26                                                 
+151ND  G 2341.6    4   37    23                                                 
+151ND  L 2429.8    3                                                            
+151NDX L XREF=D                                                                 
+151ND cL J$|g's to (3/2)- and 5/2- suggest 1/2-, 3/2, 5/2, 7/2-                 
+151ND  G 2324.1    4   39    33                                                 
+151ND  G 2372.1    3  100    33                                                 
+151ND  L 2600.8+X       (37/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND  G  567.6          100                                                    
+151ND  L 3220.8+X       (41/2+)                                             K   
+151NDX L XREF=E                                                                 
+151ND  G  620.0          100                                                    
+
+

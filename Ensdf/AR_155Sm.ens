@@ -1,0 +1,569 @@
+
+
+155SM    ADOPTED LEVELS, GAMMAS                                  05NDS    200501
+155SM  H TYP=FUL$AUT=C. W. REICH$CIT=NDS 104, 1 (2005)$CUT=1-Jun-2004$          
+155SM  Q 1627.0    125807.0  3 8.99E3  5 -1672.8 11    2012WA38                 
+155SM cQ $Note: Current evaluation has used the following Q record              
+155SM  Q   1627.2  12 5806.9627  8990  40 -1669.324    2003AU03                 
+155SM D  DATA SET UPDATED (DECEMBER, 2002) BY CW REICH TO INCLUDE A (HI,XNG)    
+155SM2D   DATA SET, ADDITIONAL B- DECAY DATA, Q VALUES AND NEW BAND PARAMETERS  
+155SM3D   FOR 3/2-[532].                                                        
+155SM c  Because of the relatively large errors quoted for the level energies   
+155SM2c  from the (d,p) data, there has been some ambiguity in deciding if a    
+155SM3c  given level (or which of a group of levels) is in fact populated in    
+155SM4c  this reaction. Some of these instances are indicated in the            
+155SM5c  cross-reference notations.                                             
+155SM c  1999As05, in (HI,xn|g), report a rotational band based on the 16.5,    
+155SM2c  5/2+ state. Because of the tentatively established features of this    
+155SM3c  band above the 358, 13/2+ state, the data on these higher-lying        
+155SM4c  levels are not further given here. For this information, see the       
+155SM5c  (HI,xn|g) Data Set.                                                    
+155SM cG M(Q)      |a(K)exp<0.03 allows mult=E1 or E2 for the doubly placed     
+155SM2cG 366.9 |g                                                               
+155SM cL E         For those levels that are seen in (n,|g), the level energies 
+155SM2cL are those reported by 1982Sc03                                         
+155SM cL E(R)      Observed as an unresolved doublet in the capture |g-ray      
+155SM2cL spectrum (1982Sc03)                                                    
+155SM cL J         For the levels above 1391 keV, the listed J|p values are     
+155SM2cL those of 1982Sc03 and are based on the measured reduced transition     
+155SM3cL probabilities of the primary |g-ray transitions in resonance-averaged  
+155SM4cL neutron capture.                                                       
+155SM cL J(P)      Value reported by 1982Sc03 in (n,|g), but basis not stated.  
+155SM CL BAND(A)   GS BAND. KPI=3/2-. CONF=3/2(521).                            
+155SM2cL A=10.70 keV, B=-6.1 eV, A{-3}=-7.4 eV (from 3/2-, 5/2-, 7/2- and 9/2-  
+155SM3cL levels).                                                               
+155SM CL BAND(B)   KPI=5/2+ BAND. Dominant CONF=5/2(642).                       
+155SM2cL A=8.60 keV, B=-4.9 eV (from 5/2+, 7/2+ and 9/2+ levels).               
+155SM CL BAND(C)   KPI=5/2- BAND. CONF=5/2(523).                                
+155SM2cL A=10.51 keV (from 5/2- and 7/2- levels).                               
+155SM CL BAND(D)   KPI=3/2+ BAND. DOMINANT CONF=3/2(651).                       
+155SM2cL A=9.2 keV, A{-3}=-0.17 keV (from 3/2+, 5/2+ and 7/2+ levels).          
+155SM3cL Large A{-3} value implied by the assumed band structure indicates      
+155SM4cL presence of Coriolis mixing (with 1/2[660]). |D' N=2 mixing (with      
+155SM5cL 3/2[402]) also expected to be present in this band.                    
+155SM CL BAND(E)   KPI=3/2- BAND. DOMINANT CONF=3/2(532).                       
+155SM2cL A=10.4 keV, A{-3}=-0.30 keV (from 3/2-, 5/2- and 7/2- levels).         
+155SM3cL The deduced A value is quite reasonable, although the A{-3} value      
+155SM4cL seems large. (Note that a B term was not included due to the lack      
+155SM5cL of additional band members.)                                           
+155SM CL BAND(F)   KPI=1/2- BAND. Conf=1/2(521).                                
+155SM2cL A=10.4 keV, B=-6.7 eV and a=-0.22 (from 1/2-, 3/2-, 5/2- and 7/2-      
+155SM3cL levels).                                                               
+155SM3cL Note that the decoupling parameter implied by this assignment of band  
+155SM4cL members is negative. For a pure 1/2[521] Nilsson state, the            
+155SM5cL decoupling parameter is expected to be positive (and|?0.8 in this      
+155SM5cL mass region).                                                          
+155SM CL BAND(G)   KPI=3/2+ BAND. DOMINANT CONF=3/2(402)+...   .                
+155SM2cL The small A-value (|?3.3 keV) implied by the 3/2+, 5/2+ level          
+155SM3cL spacing indicates strong mixing with other positive-parity bands.      
+155SM CL BAND(H)   KPI=1/2+ BAND. Conf=1/2(400).                                
+155SM2cL A=15.05 keV, a=+0.431 (from 1/2+, 3/2+ and 5/2+ levels).               
+155SM CL BAND(J)   KPI=1/2- BAND. Conf=1/2(530).                                
+155SM2cL A=7.90 keV, a=-0.362 (from 1/2-, 3/2- and 5/2- band members).          
+155SM CL BAND(K)$KPI=3/2+ BAND. PROBABLE KPI=0- OCTUPOLE VIBRATION BUILT ON GS  
+155SM2cL band.                                                                  
+155SM3cL A=9.55 keV (from 3/2+ and 5/2+ levels).                                
+155SM CL BAND(L)   KPI=1/2+ BAND. Conf=1/2(660) ?                               
+155SM  XV(HI,XNG)                                                               
+155SM  XW154SM(N,G)                                                             
+155SM  XX154SM(D,P)                                                             
+155SM  XY154SM(D,PG)                                                            
+155SM  XZ155PM B- DECAY                                                         
+155SM  L 0.0         3/2-              22.3 M    2                          A   
+155SM2 L %B-=100 $ MOME2=1.13 13  $ XREF=-(V)                                   
+155SM cL J         atomic beam (1968Ea02). log| {Ift}=5.5 to 5/2- level         
+155SM2cL in {+155}Eu indicates |p=-. Configuration=(|n 3/2[521]).               
+155SM cL T $weighted average of: 22.4 min {I3} (1969Un01); 21.9 min {I2}        
+155SM2cL (1960Su03); 23.5 min {I4} (1952Ru10).                                  
+155SM3cL Others: 25 min {I2} (1950Wi07); 21 min {I2} (1942Ku03)                 
+155SM cL MOME2     From 1989Ra17                                                
+155SM  L 16.547     25/2+                                                   B   
+155SM2 L XREF=VWX(25)YZ                                                         
+155SM cL J         E1 transition to g.s., together with intensity of primary    
+155SM2cL feeding transitions in resonance-averaged neutron capture, indicates   
+155SM3cL J|p=5/2+. Assigned as the 5/2[642] Nilsson state.                      
+155SM  G 16.547    10100       E1                      6.95                     
+155SM  L 53.034     15/2-                                                   A   
+155SM2 L XREF=-(V)                                                              
+155SM cL J         resonance-averaged neutron-capture data indicate J|p=5/2-.   
+155SM2cL 53 |g to 3/2- g.s. has an M1 component.                                
+155SM  G 53.033     2100       M1+E2     0.176   3     11.32  2                 
+155SM  L 76.299     27/2+                                                   B   
+155SM2 L XREF=VWX(80)YZ                                                         
+155SM cL J         M1+E2 transition to 5/2+ state. Resonance-averaged           
+155SM2cL neutron-capture data indicate J|>7/2.                                  
+155SM  G 59.753     1100       M1+E2     0.232   17    8.10   19                
+155SM  L 127.698    17/2-                                                   A   
+155SM2 L XREF=-(V)                                                              
+155SM cL J         M1+E2 transition to 5/2- member of g.s. band.                
+155SM2cL Resonance-averaged neutron-capture results indicate J|>7/2.            
+155SM  G 74.664     1100      5M1+E2     0.220   +17-194.14   10                
+155SM  G 111.154    2  9.08  91E1                      0.208                    
+155SM  G 127.698    1 16.0   10E2                      0.986                    
+155SM  L 152.417    39/2+                                                   B   
+155SM2 L XREF=+                                                                 
+155SM cL J         M1 transition to 7/2+ state. Resonance-averaged              
+155SM2cL neutron-capture data indicate J|>7/2. Level energy                     
+155SM3cL near that expected for                                                 
+155SM4cL the 9/2+ member of the 5/2+[642] band.                                 
+155SM  G 76.118     1100     12M1                      3.78                     
+155SM  G 135.873    5 14.8   22                                                 
+155SM  L 220.684    29/2-                                                   A   
+155SM2 L XREF=WX(227)YZ                                                         
+155SM cL J         M1 transition to 7/2- state. Resonance-averaged              
+155SM2cL neutron-capture data indicate J|>7/2. Level energy                     
+155SM3cL (and |p) consistent                                                    
+155SM4cL with assignment as the 9/2- member of the g.s. band.                   
+155SM  G 92.986     1100     16M1                      2.12                     
+155SM  G 144.382   15 25      5                                                 
+155SM  G 167.650    5 56      8                                                 
+155SM  L 250.5      9 11/2+                                                 B   
+155SM2 L XREF=VY                                                                
+155SM cL J         |g's to 7/2+ and 9/2+ members of the 5/2[642] band. Level    
+155SM2cL energy agrees with that expected for the 11/2+ member of that band.    
+155SM  G 98.3                                                                   
+155SM  G 174                                                                    
+155SM  L 337.3       (11/2-)                                                A   
+155SM2 L XREF=XY                                                                
+155SM cL J         |g's to 9/2+ and 9/2- states. Level energy agrees with that  
+155SM2cL expected for the 11/2- member of the g.s. band.                        
+155SM  G 116.5                                                                  
+155SM  G 184.8                                                                  
+155SM  L 359.0        13/2+                                                 B   
+155SM2 L XREF=VXY                                                               
+155SM cL J         |g's to 9/2+ and 11/2+ members of the 5/2[642] band. Level   
+155SM2cL energy agrees with that expected for the 13/2+ member of that band.    
+155SM  G 108.3                                                                  
+155SM  G 206.6                                                                  
+155SM  L 426.418    45/2-                                                   C   
+155SM2 L XREF=-(V)                                                              
+155SM cL J         resonance-averaged neutron-capture data indicate J|p=5/2-.   
+155SM2cL 5/2[523] Nilsson state.                                                
+155SM  G 298.79     3  1.5    5                                                 
+155SM  G 350.114    3 24.8   20E1                      0.0100                   
+155SM  G 409.873    2100      6E1                      0.00685                  
+155SM  L 500.000    47/2-                                                   C   
+155SM2 L XREF=-(V)                                                              
+155SM cL J         resonance-averaged neutron-capture data indicate J|>7/2.     
+155SM2cL L=2,3 in (d,p) limits J|p possibilities to 7/2-.                       
+155SM  G 347.580    4 51      8(E1)                    0.0102                   
+155SM  G 423.704    4100      7(E1)                    0.0063                   
+155SM  L 540        6                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 562        7                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 595.1       (9/2-)                                                 C   
+155SM2 L XREF=X(601)Y                                                           
+155SM cL J         not seen in (n,|g), suggesting J>7/2. Transitions to 9/2+    
+155SM2cL and (11/2+) states. Level energy agrees with that expected for the     
+155SM3cL 9/2- member of the K|p=5/2- band.                                      
+155SM  G 344.6                                                                  
+155SM  G 442.7                                                                  
+155SM  L 617.543    3 3/2+                                                  D   
+155SM2 L XREF=-(V)                                                              
+155SM cL J         resonance-averaged neutron capture indicates J|p=1/2+,3/2+.  
+155SM2cL E1 transition to 5/2- level eliminates 1/2+.                           
+155SM  G 564.507    4 19.2   12E1                      0.00332                  
+155SM  G 600.993    4100      6M1+E2     1.00    +22-180.0110  6                
+155SM  G 617.549    7 36.0   22E1                      0.00273                  
+155SM  L 658.387    4 5/2+                                                  D   
+155SM2 L XREF=WX(645)YZ                                                         
+155SM cL J         resonance-averaged neutron-capture results indicate J|p=5/2+.
+155SM2cL M1 transition to 7/2+ level supports |p=+ assignment.                  
+155SM  G 530.685   15 28.9   23(E1)                    0.00380                  
+155SM  G 582.072    5100      6M1                      0.0151                   
+155SM  G 605.381   14 21.1   21                                                 
+155SM  G 641.88     3 42      3                                                 
+155SM  G 658.396    9 39      3                                                 
+155SM  L 716        7(11/2-)                                                C   
+155SM2 L XREF=X                                                                 
+155SM cL J         level energy near that expected for the 11/2- member of this 
+155SM2cL band.                                                                  
+155SM  L 736.930   10(7/2+)                                                 D   
+155SM2 L XREF=WX(748)Y                                                          
+155SM cL J         resonance-averaged n-capture data indicate J|>7/2. |g's to   
+155SM2cL 9/2+, 7/2+ and 5/2- states, together with its level energy, support    
+155SM3cL the assignment of this level as the 7/2+ member of this K|p=3/2+ band. 
+155SM  G 584.511   11135     14                                             *   
+155SM  G 660.640   21 78     12                                                 
+155SM  G 683.88     5100     16                                                 
+155SM  L 778.146    3 3/2-                                                  E   
+155SM2 L XREF=WX(786)YZ                                                         
+155SM cL J         resonance-averaged n capture gives J|p=1/2-, 3/2-. E1        
+155SM2cL transition to 5/2+ state rules out J=1/2. log| {Ift}=5.4 from {+155}Pm 
+155SM3cL g.s. indicates that both levels involved have the same asymptotic      
+155SM4cL quantum numbers, [532] in this case.                                   
+155SM  G 119.758    2  3.6    4E1                      0.170                    
+155SM  G 160.603    1 11.7    7E1                      0.0765                   
+155SM  G 725.123    7 72      4M1                      0.0087                   
+155SM  G 761.631   20 28.9   17                                                 
+155SM  G 778.156    8100      6M1+E2     0.90    +33-250.0060  5                
+155SM  L 819.880    5 1/2-                                                  F   
+155SM2 L XREF=WX(*824)Y                                                         
+155SM cL J         resonance-averaged capture data and L=1 in (d,p) indicate    
+155SM2cL J|p=1/2- or 3/2-. Large (d,p) cross section establishes this level as  
+155SM3cL the bandhead of the 1/2[521] band.                                     
+155SM  G 819.880    5100       M1+E2     1.5     +8-4  0.0056815                
+155SM  L 821.304   11 5/2-                                                  E   
+155SM2 L XREF=WX(*824)Z                                                         
+155SM cL J         from resonance-averaged neutron capture, J|p=5/2- or         
+155SM2cL J|>7/2. |g's to the 5/2+ and 7/2+, but not the 9/2+, members of the    
+155SM3cL 5/2[642] band lend support to the 5/2- assignment. |b{+-} feeding      
+155SM4cL pattern of this level and the 778 and 919 levels in {+155}Sm |b{+-}    
+155SM5cL decay support the interpretation of them as members of the 3/2[532]    
+155SMxcL band.                                                                  
+155SM  G 745.004   12 50      4                                                 
+155SM  G 804.758   19100      6(E1)                    0.00158                  
+155SM  L 844.113    5 3/2-                                                  F   
+155SM2 L XREF=WYZ                                                               
+155SM cL J         resonance-averaged capture data allow J|p=1/2, 3/2-. M1      
+155SM2cL transition to 5/2- state rules out J=1/2.                              
+155SM  G 791.083    7100      6M1                      0.00707                  
+155SM  G 827.61    10  7.1   14                                             *   
+155SM  G 844.108   12 89      5M1,E2                                            
+155SM  L 865.848    7 3/2+                                                  G   
+155SM2 L XREF=WX(*874)                                                          
+155SM cL E         1982Sc03 identify the 874 level in (d,p) as being this state.
+155SM2cL However, this (d,p) level may also contribute to the 882.2 state seen  
+155SM3cL in (n,|g).                                                             
+155SM cL J         resonance-averaged neutron-capture results indicate J|p=     
+155SMScL 1/2+,3/2+. Transition to 5/2- state rules out 1/2+.                    
+155SM  G 812.819   17 45      5(E1)                    0.00154                  
+155SM  G 865.843    9100      6E1                      0.00136                  
+155SM  L 882.181   16 5/2+                                                  G   
+155SM2 L XREF=WX(*874?)Z                                                        
+155SM cL J         feeding pattern in resonance-averaged n capture indicates    
+155SM2cL J|p=5/2+.                                                              
+155SM  G 754.459   24 98      7                                                 
+155SM  G 829.15     4 68      8                                                 
+155SM  G 882.16     5100     11                                                 
+155SM  L 903.466    5(1/2)+                                                 H   
+155SM2 L XREF=WX(*909)Z                                                         
+155SM cL J         resonance-averaged neutron-capture results indicate J|p=1/2+ 
+155SM2cL or 3/2+. Existence of another 1/2+,3/2+ level at 968 keV and only      
+155SM3cL one 5/2+ level (at 1011 keV), together with the "completeness" aspect  
+155SM4cL of the resonance-averaged neutron-capture reaction, suggest that these 
+155SM5cL levels form a K|p=1/2+ band. The large (d,p) peak observed in this     
+155SM6cL energy region would then indicate a significant component of           
+155SM7cL 1/2[400] (J=1/2) in this state.                                        
+155SM  G 285.923    4100      6M1                      0.093                    
+155SM  G 886.927   18 54      4                                                 
+155SM  L 906.836   17 5/2-                                                  F   
+155SM2 L XREF=WX(*909?)Y                                                        
+155SM cL E         although most of the 909 peak in (d,p) is likely to be       
+155SM2cL associated with the 903 level, because of its closeness in energy      
+155SM3cL some part of this peak may be due to the population of this 906 state  
+155SM cL J         from population pattern in resonance-averaged n capture      
+155SM  G 779.131   24100      9                                                 
+155SM  G 853.805   23 94      8                                                 
+155SM  G 906.99    15 18      4                                                 
+155SM  L 915.525   20(1/2)-                                                 J   
+155SM2 L XREF=WX(*909?)Y                                                        
+155SM cL E         although most of the 909 peak in (d,p) is likely to be       
+155SM2cL associated with the 903 level, because of its closeness in energy      
+155SM3cL some part of this peak may be due to the population of this 915 state  
+155SM cL J         resonance-averaged neutron-capture results indicate          
+155SM2cL J|p=1/2-,3/2-. Probable assignment as head of 1/2[530] band favors     
+155SM3cL J=1/2.                                                                 
+155SM  G 297.990    8  3.1    5                                             *   
+155SM  G 915.490   20100      6E2                      0.00303                  
+155SM  L 919.0       (7/2)-                                                 E   
+155SM2 L XREF=Z                                                                 
+155SM cL J         feeding in |b{+-} decay from J|p=5/2- indicates |p=- and     
+155SM2cL J=3/2, 5/2 or 7/2. Nonobservation of this level in (n,|g) rules out    
+155SM3cL 3/2 and makes 5/2 unlikely. Interpretation of this level as the 7/2-   
+155SM4cL member of the 3/2[532] band clarifies the |b{+-} feeding pattern in    
+155SM5cL {+155}Pm |b{+-} decay (i.e., its members are populated by the three    
+155SM6cL strongest |b{+-} transitions in this region of excitation).            
+155SM  L 930.642    7 3/2-                                                  J   
+155SM2 L XREF=WX(937)YZ                                                         
+155SM cL J         J|p=1/2-,3/2- from resonance-averaged neutron capture. M1    
+155SM2cL component in transition to 5/2- rules out 1/2-.                        
+155SM3cL 1975Ja19 assign this level as the 5/2- member of the 1/2-[521] band.   
+155SM  G 272.250   15  2.1    4                                             *   
+155SM  G 877.600   15100      6E2+M1     1.7     +11-4 0.0049413                
+155SM  G 930.654   11 55      3M1                      0.00478                  
+155SM  L 962.420   18 7/2-                                                  F   
+155SM2 L XREF=WX(*963)Z                                                         
+155SM cL J         resonance-averaged n capture indicates J|p=5/2- or           
+155SM2cL J|>7/2. Level energy agrees with expected position of 7/2- member      
+155SM3cL of this band.                                                          
+155SM  G 80.238     2100     10 E1                     0.504                   ?
+155SM  G 741.79     3 64      8                                                 
+155SM  G 909.36     6 77      8                                                 
+155SM  L 968.090   20(3/2)+                                                 H   
+155SM2 L XREF=WX(*963)Y                                                         
+155SM cL J         resonance-averaged neutron capture indicates J|p=1/2+,3/2+.  
+155SM2cL Band-structure considerations (see comment on 903.466 level) favor     
+155SM3cL the 3/2+ assignment.                                                   
+155SM  G 968.090   20100        (E1)                   0.00110                  
+155SM  L 984.450   20 (5/2-)                                                J  ?
+155SM2 L XREF=WX(*999)                                                          
+155SM cL J         from resonance-averaged n capture, J|p=5/2- or J|>7/2.       
+155SM2cL |g's to 3/2+ and 7/2- states restrict J|p to 5/2- or 7/2+. Probably    
+155SM3cL the 5/2- member of the 1/2[530] band.                                  
+155SM  G 366.909    4 83      8                                             *   
+155SM2 G FLAG=Q $                                                               
+155SM  G 856.67     5100     11                                                 
+155SM  L 1010.924  25 5/2+                                                  H   
+155SM2 L XREF=WX(*999,1018)                                                     
+155SM cL J         from population pattern in resonance-averaged neutron        
+155SM2cL capture.                                                               
+155SM  G 584.511   11 41      4                                             *   
+155SM  G 883.26     4100     10                                                 
+155SM  G 1010.99    4100      8                                                 
+155SM  L 1043       8                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 1076       7                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 1106.668  10 3/2+                                                  K   
+155SM2 L XREF=WXZ                                                               
+155SM cL J         resonance-averaged neutron-capture results indicate J|p=1/2+ 
+155SM2cL or 3/2+. Transition to 5/2- rules out J|p=1/2+.                        
+155SM  G 191.156   10  4.1    8                                                 
+155SM  G 240.82     3  5.5    8                                                 
+155SM  G 1053.598  22 49      4                                                 
+155SM  G 1090.20   20  8.5   17                                                 
+155SM  G 1106.640  24100      6                                                 
+155SM  L 1154.43    8 5/2+                                                  K   
+155SM2 L XREF=WX(*1163)                                                         
+155SM cL J         from population pattern in resonance-averaged n capture      
+155SM  G 272.250   15 22      4                                             *   
+155SM  G 1026.70    8100     10                                                 
+155SM  L 1168.743   9 3/2-                                                      
+155SM2 L XREF=WX(*1163)Z                                                        
+155SM cL J         from resonance-averaged neutron capture, J|p=1/2-,3/2-.      
+155SM2cL Transition to 5/2+ level rules out 1/2-.                               
+155SM  G 302.888   14 33      8                                                 
+155SM  G 551.189   12100     10                                                 
+155SM  G 1152.16   20 54     11                                                 
+155SM  L 1180      11                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 1217.7     7(5/2-)                                                 P  ?
+155SM2 L XREF=WX(1225)                                                          
+155SM  L 1282.435   6 1/2+,3/2+                                             L   
+155SM2 L XREF=W                                                                 
+155SM cL J         from resonance-averaged neutron capture.                     
+155SM  G 297.990    8 23      3                                             *   
+155SM  G 351.795    7 54      5(E1)                    0.00991                  
+155SM  G 366.909    4 54      5                                             *   
+155SM2 G FLAG=Q $                                                               
+155SM  G 438.324    5 48      4                                                 
+155SM  G 664.868   15100      8                                                 
+155SM  L 1327.525  12 5/2+                                                  L   
+155SM2 L XREF=WZ                                                                
+155SM cL J         from resonance-averaged neutron capture.                     
+155SM  G 483.411    5100      7(E1)                    0.00466                  
+155SM  G 669.29    10 18      4                                                 
+155SM  G 827.61    10 35      7                                             *   
+155SM  G 1327.84   14 71      7                                                 
+155SM  L 1335.8     7 5/2                                                   P   
+155SM2 L XREF=WX(1339)                                                          
+155SM  L 1362.131  12 3/2+                                                      
+155SM2 L XREF=WXZ                                                               
+155SM cL J         from resonance-averaged neutron capture, J|p=1/2+,3/2+.      
+155SM2cL Transition to 5/2- level rules out 1/2+.                               
+155SM  G 193.382    7 12.2   18                                                 
+155SM  G 351.226   13 15.0   23                                                 
+155SM  G 935.55    13 26      7                                                 
+155SM  G 1309.14   18 57      5                                                 
+155SM  G 1345.78   11100     10                                                 
+155SM  L 1390.6     7 5/2                                                   P   
+155SM2 L XREF=W                                                                 
+155SM  L 1403.8    10 5/2                                                       
+155SM2 L XREF=WX(*1408)                                                         
+155SM  L 1408.2     4 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1408)                                                         
+155SM  L 1424.7     7 5/2                                                       
+155SM2 L XREF=W                                                                 
+155SM  L 1449       8                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 1474.0     5 1/2-,3/2-                                                 
+155SM2 L XREF=W                                                                 
+155SM  L 1478.0     9 1/2+,3/2+                                                 
+155SM2 L XREF=W                                                                 
+155SM  L 1481.6     8 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1487)                                                         
+155SM  L 1499.3     2 1/2+,3/2+                                                 
+155SM2 L XREF=W(*1487)                                                          
+155SM  L 1503.1    12 5/2                                                       
+155SM2 L XREF=W                                                                 
+155SM  L 1524.8     1 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1521)                                                         
+155SM  L 1531.9     9 5/2+                                                      
+155SM2 L XREF=WX(*1521)                                                         
+155SM  L 1548.4     2 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1561)                                                         
+155SM  L 1567.0     2 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1561)                                                         
+155SM  L 1570.9     8 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1582)                                                         
+155SM  L 1584.6     3 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1582,*1589)                                                   
+155SM  L 1600.8     3 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1589)                                                         
+155SM  L 1614.5     3 1/2-,3/2-                                                 
+155SM2 L XREF=W                                                                 
+155SM  L 1618.8     3 1/2-,3/2-                                                 
+155SM2 L XREF=WX(1628)                                                          
+155SM  L 1658.7     3 5/2+                                                      
+155SM2 L XREF=WX(*1663)                                                         
+155SM  L 1665.9     9(5/2+)                                                    ?
+155SM2 L XREF=WX(*1663)                                                         
+155SM  L 1671.2     3 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1663,*1681)                                                   
+155SM  L 1678.1     8(5/2+)                                                     
+155SM2 L XREF=WX(*1681)                                                         
+155SM  L 1696.5     6 5/2                                                       
+155SM2 L XREF=W                                                                 
+155SM  L 1708.2    12(5/2)                                                     ?
+155SM2 L XREF=WX(*1716)                                                         
+155SM  L 1718.2     2 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1716)                                                         
+155SM  L 1723.9     3 1/2,3/2                                                   
+155SM2 L XREF=WX(*1716)                                                         
+155SM  L 1733.6     71/2+,3/2+,5/2+                                             
+155SM2 L XREF=WX(1738)                                                          
+155SM  L 1752.0     2 1/2-,3/2-                                                 
+155SM2 L XREF=WX(1762)                                                          
+155SM  L 1774.2     3 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1781)                                                         
+155SM  L 1787.9     5 1/2,3/2                                               R   
+155SM2 L XREF=WX(*1781)                                                         
+155SM  L 1804.7     2 1/2-,3/2-                                             R   
+155SM2 L XREF=WX(1801,*1813)                                                    
+155SM  L 1821.4     6 5/2+                                                      
+155SM2 L XREF=WX(*1813)                                                         
+155SM  L 1830.7    10 5/2+                                                      
+155SM2 L XREF=WX(*1838)                                                         
+155SM  L 1833.2     2 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1838)                                                         
+155SM  L 1857.2     3 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1863)                                                         
+155SM  L 1864.9     6 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1863)                                                         
+155SM  L 1875.7     2 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1863)                                                         
+155SM  L 1885.4     4 1/2+,3/2+                                                 
+155SM2 L XREF=WX(*1888)                                                         
+155SM  L 1889.5     5 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1888)                                                         
+155SM  L 1899.4    10 5/2+                                                      
+155SM2 L XREF=WX(*1888)                                                         
+155SM  L 1904.5     4 1/2,3/2                                                   
+155SM2 L XREF=W                                                                 
+155SM  L 1920.1    101/2+,3/2+,5/2+                                             
+155SM2 L XREF=W                                                                 
+155SM  L 1925.7     6 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1932)                                                         
+155SM  L 1929.1     7 1/2-,3/2-                                                 
+155SM2 L XREF=WX(*1932)                                                         
+155SM  L 1954.2     2 1/2,3/2                                                   
+155SM2 L XREF=WX(*1964)                                                         
+155SM  L 1965.2     6 1/2,3/2                                                   
+155SM2 L XREF=W(*1964)                                                          
+155SM  L 1978.8     5 5/2+                                                      
+155SM2 L XREF=W                                                                 
+155SM  L 1987.2     5 1/2+,3/2+                                                 
+155SM2 L XREF=WX(1989)                                                          
+155SM  L 2010      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2043      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2066      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2094      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2113      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2122      13                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2180      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2209      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2245      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2302      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2344      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2363      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2382      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2400      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2431      12                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2446      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2480      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2513      13                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2547      13                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2566      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2584      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2599      12                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2627      14                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2670      12                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2719      14                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2785      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2829      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2860      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2887      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2917      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2945      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 2960      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3020      10                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3034      14                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3075      14                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3096      15                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3127      11                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3165      14                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3201      11                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3216      15                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3261      14                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3281      11                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3300      11                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3330      11                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3350      11                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3362      13                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3400      15                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3420      15                                                           
+155SM2 L XREF=X                                                                 
+155SM  L 3450      11                                                           
+155SM2 L XREF=X                                                                 
+
+
+

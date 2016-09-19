@@ -1,0 +1,1837 @@
+150SM    ADOPTED LEVELS, GAMMAS                                  13NDS    201306
+150SM  H TYP=FUL$AUT=S. K. Basu, A. A. Sonzogni$CIT=NDS 114, 435 (2013)$        
+150SM2 H CUT=1-Apr-2013$                                                        
+150SM  Q -2259     6  7986.7 4  8275.8 19 1450.4  12   2012WA38                 
+150SM cQ $S(2n)=13857.0 {I9}, S(2p)=14220.6 {I20} (2012Wa38)                    
+150SM c  Levels reported in scattering, pickup, and stripping reactions with    
+150SM2c  uncertainties such that they overlap levels observed in Coul. ex., |b  
+150SM3c  decay, (n,|g), or heavy ion (compound nucleus formation) reactions     
+150SM4c  have been assumed to be the same as the latter levels, unless other    
+150SM5c  evidence to the contrary exists.                                       
+150SM cL J$In (n,|g) E=th, 1969Re11 studied the directional anisotropy of       
+150SM2cL capture |g rays from aligned {+149}Sm nuclei. J|p were assigned by     
+150SM3cL combining these data with |a(exp) data. This work is referred to as    
+150SM4cL |g(|q) aligned. 1970Bu19 inferred multipolarities of primary capture   
+150SM5cL |g rays to low-lying states from the relative average intensity of |g  
+150SM6cL transitions in (n,|g) in a large number of neutron resonances. |p of   
+150SM7cL final state is inferred and limits set on J (referred to as (n,|g) av  
+150SM8cL res.). 1974Be37 analyzed |g spectra from (n,|g) in 16 resonances and   
+150SM9cL set limits on J,|p from analyses of |g transition intensities in       
+150SMacL individual resonances. (referred to as (n,|g) res.)                    
+150SM cL E$From least-squares fit to E|g. Some discrepancy exists between E|g   
+150SM2cL and energy-level differences. This could be due to rather high         
+150SM3cL precision quoted by the authors.                                       
+150SM cG E$E|g|<1833 keV are from {+150}Eu |e decay (36.9 y), unless otherwise  
+150SM2cG noted. |g rays with E|g|>3980 keV are taken from (n,|g). From          
+150SM3cG 2259-keV level and up, E|g and I|g are from {+150}Pm |b{+-} decay      
+150SM4cG (2.68 h), unless otherwise specified.                                  
+150SM cG M$From {+149}Sm(n,|g) E=th, unless otherwise noted.                    
+150SM cG E(F)$From {+149}Sm(n,|g) E=thermal.                                    
+150SM cG E(E),RI(E)$From (|a,2n|g)                                              
+150SM cL E$Levels at 2937 and higher are from (d,p) reaction and presence of    
+150SM2cL possible primary |g ray in (n,|g) E=th, unless otherwise noted.        
+150SM cG E(J),RI(J)$From {+150}Nd(|a,4n|g).                                     
+150SM cL E(J)$From {+150}Nd(|a,4n|g).                                           
+150SM cG E(G),RI(N)$From {+150}Pm |b{+-} decay (2.68 h).                        
+150SM cL E(K)$From {+150}Pm |b{+-} decay (2.68 h).                              
+150SM cG E(H),RI(M),M(P)$From {+150}Eu |e decay (36.9 y).                       
+150SM CL BAND(Q)$GS ROTATIONAL BAND.                                            
+150SM CL BAND(R)$K=0 OCTUPOLE BAND.                                             
+150SM CL BAND(S)$EVEN-SPIN NEGATIVE-PARITY SIDE BAND.                           
+150SM CL BAND(T)$EVEN-SPIN EVEN-PARITY SIDE BAND.                               
+150SM CL BAND(U)$EVEN-SPIN SIDE BAND.                                           
+150SM CL BAND(s)$NEGATIVE-PARITY SIDE BAND.                                     
+150SM cL J(B)$Even-spin negative-parity side band. The moment of inertia        
+150SM2cL versus angular frequency plot resembles that of a rotational band      
+150SM3cL based on a state with intrinsic spin 6.                                
+150SM cL J(D)$Members of an even-spin even-parity side band with E2             
+150SM2cL transitions to the g.s. band and E1 transitions to odd-spin negative-  
+150SM3cL parity K=0 octupole band.                                              
+150SM cL J(E)$Member of even-spin side band with branching to even-spin         
+150SM2cL even-parity side band and the odd-spin odd-parity octupole band.       
+150SM cG M(V)$Multipolarity equals (E2+E0) for the doubly placed 223.51|g. Use  
+150SM2cG of this multipolarity for J|p(1672 level) could be misleading.         
+150SM cL J(W)$Odd-spin odd-parity band with a cascade of E2 transitions from    
+150SM2cL J=(21) down to possibly 3- and E1 transitions to the g.s. band         
+150SM3cL members.                                                               
+150SM cL J(A)$Member of g.s. rotational band                                    
+150SM cL J(X)$From L in (p,p'), (d,d')                                          
+150SM cL J(Y)$From |g(|q) in (|g,|g')                                           
+150SM cL T(m)$From B(E2) in Coul. ex.                                           
+150SM cG RI$Relative branching from each level. Data are from {+149}Sm(n,|g)    
+150SM2cG E=th, unless otherwise noted.                                          
+150SM cL T(n)$From(|g,|g') with the assumption that the levels decay only to    
+150SM2cL g.s. and the first 2+ state.                                           
+150SM D  CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+150SM  XA150PM B- DECAY (2.68 H)                                                
+150SM  XB150EU EC DECAY (12.8 H)                                                
+150SM  XC150EU EC DECAY (36.9 Y)                                                
+150SM  XD148ND(A,2NG) E=26 MEV                                                  
+150SM  XE148SM(T,P) E=12 MEV                                                    
+150SM  XF149SM(N,G): AV RES                                                     
+150SM  XG149SM(N,G) E=THERMAL                                                   
+150SM  XH149SM(N,G) E=RESONANCE                                                 
+150SM  XI149SM(D,P)                                                             
+150SM  XJ150ND(A,4NG) E=45 MEV                                                  
+150SM  XK150SM(P,P'),(P,P'G)                                                    
+150SM  XL150SM(D,D')                                                            
+150SM  XMCOULOMB EXCITATION                                                     
+150SM  XN151SM(D,T) E=12 MEV                                                    
+150SM  XO151SM(3HE,A) E=24 MEV                                                  
+150SM  XP152SM(P,T) E=19 MEV                                                    
+150SM  XQ150SM(P,P'), (D,D')                                                    
+150SM  XR150SM(G,G')                                                            
+150SM  XS149SM(N,G):HIGH RESOLUTION                                             
+150SM  XT136XE(18O,4NG)                                                         
+150SM  L 0.0          0+                STABLE                              Q   
+150SMX L XREF=ABCDEGIJKLMNPST                                                   
+150SM  L 333.955   10 2+                48.4 PS   11                        Q   
+150SMX L XREF=ABCDEFGHIJKLMNOPST                                                
+150SM2 L MOME2=-1.32 19$MOMM1=+0.77 5 (1989Ra17)                                
+150SM cL J$from |g|g(|q), Coul. ex. and measured conversion coefficients.       
+150SM cL MOMM1$Others: from g-factor: 0.76 {i5} (1987Be08), 0.81 {i6}           
+150SM2cL (1987By02)                                                             
+150SM cL MOME2$Other: -1.25 {i20} (1978LeZA).                                   
+150SM  G 333.961   11 100    3  E2                      0.0405                  
+150SML G FL=0.0                                                                 
+150SMS G KC=0.0320 5$LC=0.00665 10$MC=0.001475 21$NC=0.000329 5$OC=4.57E-5 7$   
+150SMS G PC=1.749E-6 25$NC+=0.000376 6                                          
+150SMB G BE2W=57.1 13                                                           
+150SM cG E$weighted average of 333.92 {I3} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 333.9 {I1} ({+150}Eu |e decay (12.8 h)), 333.971 {I12} ({+150}Eu |e    
+150SM3cG decay (36.9 y)), 333.9 {I2} ({+148}Nd(|a,2n|g) E=26 MeV), 333.94 {I4}  
+150SM4cG ({+149}Sm(n,|g) E=thermal), 333.9 {I3} ({+150}Nd(|a,4n|g) E=45 MeV)    
+150SM cG M$from K/L of 1967Pr08..                                               
+150SM cG BE2W$From B(E2)(|^)=1.32 {i6} (Coul. ex.)                              
+150SM  L 740.464   19 0+                19.7 PS   19                        m   
+150SMX L XREF=ABCDEFGIKLMNPS                                                    
+150SM cL J$from E0 transition to g.s.                                           
+150SM  G 406.508   22 100       E2                      0.0227                  
+150SMS G KC=0.0183 3$LC=0.00343 5$MC=0.000756 11$NC=0.0001691 24$OC=2.39E-5 4$  
+150SMS G PC=1.031E-6 15$NC+=0.000194 3                                          
+150SMB G BE2W=53 5                                                              
+150SM cG E$weighted average of 406.51 {I3} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 406.5 {I1} ({+150}Eu |e decay (12.8 h)), 406.52 {I5} ({+150}Eu |e      
+150SM3cG decay (36.9 y)), 406.49 5 ({+149}Sm(n,|g) E=thermal)                   
+150SM cG BE2W$From B(E2)(2+ to 0+)=0.051 {i5} (Coul. ex.).                      
+150SM  G 740.59    10           E0                               1.37     14    
+150SM cG E$weighted average of 740.4 {I5} ({+150}Eu |e decay (12.8 h)), 740.6   
+150SM2cG {I1} ({+149}Sm(n,|g) E=thermal)                                        
+150SM cG TI,M$from {+150}Eu |e decay (36.9 y).                                  
+150SM  L 773.374   12 4+                6.5 PS    10                        Q   
+150SMX L XREF=ACDE(780)FGHIJKLMNOPST                                            
+150SM2 L MOMM1=+1.43 20 (1989Ra17)                                              
+150SM cL J$from E2 |g to 2+, member of g.s. band.                               
+150SM cL BE2$B(E2) (from 334 keV (2+) level)=0.96 {i10}.                        
+150SM cL MOMM1$g-factor/g-factor(2+)=1.60 {i12} (1993Va10) from |g(|q,H,t).     
+150SM2cL The authors state the value to be consistent between their number of   
+150SM3cL different measurements but is too large as compared with earlier       
+150SM4cL measured as well as theoretical values.                                
+150SM  G 439.400   14 100       E2                      0.0182                  
+150SMS G KC=0.01482 21$LC=0.00268 4$MC=0.000588 9$NC=0.0001317 19$OC=1.87E-5 3$ 
+150SMS G PC=8.41E-7 12$NC+=0.0001512 22                                         
+150SMB G BE2W=110 17                                                            
+150SM cG E$weighted average of 439.38 {I7} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 439.401 {I15} ({+150}Eu |e decay (36.9 y)), 439.3 {I2}                 
+150SM3cG ({+148}Nd(|a,2n|g) E=26 MeV), 439.39 {I7} ({+149}Sm(n,|g) E=thermal),  
+150SMxcG 439.6 {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                                
+150SM cG M$from {+149}Sm(n,|g) E=th.                                            
+150SM cG BE2W$From B(E2)(2+ to 4+)=0.96 {i10}.                                  
+150SM  L 1046.148  13 2+                0.86 PS  +31-21                     m   
+150SMX L XREF=ABCDEFGHIKLMNPS                                                   
+150SM2 L MOMM1=+0.72 17 (1989Ra17)                                              
+150SM cL J$from E2 |g to 0+.                                                    
+150SM cL $272.8 |g not adopted following {+149}Sm(n,|g):high resolution         
+150SM  G 305.68    3  2.5    5  E2                      0.0530                  
+150SMF G FLAG=N                                                                 
+150SMS G KC=0.0414 6$LC=0.00909 13$MC=0.00202 3$NC=0.000451 7$OC=6.21E-5 9$     
+150SMS G PC=2.23E-6 4$NC+=0.000515 8                                            
+150SMB G BE2W=1.1E+2 +4-3                                                       
+150SM cG E$weighted average of 305.7 {I2} ({+150}Pm |b{+-} decay (2.68 h)),     
+150SM2cG 305.4 {I4} ({+150}Eu |e decay (12.8 h)), 305.70 {I8} ({+150}Eu |e      
+150SM3cG decay (36.9 y)), 305.68 3 ({+149}Sm(n,|g) E=thermal),                  
+150SM  G 712.207   14 100    6  E2+E0+M1                0.007119                
+150SMF G FLAG=N                                                                 
+150SMS G KC=0.0060 16$LC=0.00085 18$MC=0.00018 4$NC=4.1E-5 9$OC=6.1E-6 14$      
+150SMS G PC=3.7E-7 11$NC+=4.8E-5 10                                             
+150SM cG E$weighted average of 712.22 {I4} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 712.2 {I1} ({+150}Eu |e decay (12.8 h)), 712.205 {I15} ({+150}Eu |e    
+150SM3cG decay (36.9 y)), 712.2 {I3} ({+148}Nd(|a,2n|g) E=26 MeV), 712.23 {I15} 
+150SMxcG ({+149}Sm(n,|g) E=thermal)                                             
+150SM  G 1046.16   14 8.1    9  (E2)                   0.002264             *   
+150SML G FL=0.0                                                                 
+150SMF G FLAG=N                                                                 
+150SMS G KC=0.00192 3$LC=0.000269 4$MC=5.76E-5 8$NC=1.302E-5 19$OC=1.93E-6 3$   
+150SMS G PC=1.142E-7 16$NC+=1.507E-5 21                                         
+150SMB G BE2W=0.81 +26-21                                                       
+150SM cG E$weighted average of 1046.12 {I8} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 1046.2 {I3} ({+150}Eu |e decay (12.8 h)), 1046.12 {I8} ({+150}Eu |e    
+150SM3cG decay (36.9 y)), 1047.9 {I4} ({+149}Sm(n,|g) E=thermal)                
+150SM cG M$from 1973PrZI.                                                       
+150SM  L 1071.406  12 3-                0.11 PS   +13-5                     R   
+150SMX L XREF=ACDEFGIJKLMPQST                                                   
+150SM2 L BE3=0.31 3                                                             
+150SM cL T$from DSA in {+150}Sm(n,n'|g) E=1.3 MeV (1993Ju04). See 1993Ju01 for  
+150SM2cL various values from Doppler broadening techniques.                     
+150SM cL J$from E1 |g's to 2+, 4+.                                              
+150SM cL BE3$From Coul. ex.                                                     
+150SM  G 298.060   13 6.70   23 E1                     0.01496                  
+150SMS G KC=0.01276 18$LC=0.001733 25$MC=0.000370 6$NC=8.32E-5 12$              
+150SMS G OC=1.222E-5 18$PC=7.01E-7 10$NC+=9.61E-5 14                            
+150SMB G BE1W=0.005 +4-3                                                        
+150SM cG E$weighted average of 297.9 {I2} ({+150}Pm |b{+-} decay (2.68 h)),     
+150SM2cG 298.061 {I14} ({+150}Eu |e decay (36.9 y)), 298.06 {I3}                
+150SMxcG ({+149}Sm(n,|g) E=thermal)                                             
+150SM cG RI$weighted average of 5.1 {I9} ({+150}Pm |b{+-} decay (2.68 h)), 6.71 
+150SM2cG {I16} ({+150}Eu |e decay (36.9 y)), 7.6 {I8} ({+149}Sm(n,|g) E=thermal)
+150SM  G 737.457   15 100.0  19 E1                     0.001873                 
+150SMS G KC=0.001606 23$LC=0.000209 3$MC=4.44E-5 7$NC=1.005E-5 14$              
+150SMS G OC=1.499E-6 21$PC=9.24E-8 13$NC+=1.164E-5 17                           
+150SMB G BE1W=0.005 +4-3                                                        
+150SM cG E$weighted average of 737.50 {I8} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 737.455 {I15} ({+150}Eu |e decay (36.9 y)), 737.5 {I3}                 
+150SM3cG ({+148}Nd(|a,2n|g) E=26 MeV), 737.47 {I17} ({+149}Sm(n,|g) E=thermal), 
+150SMxcG 737.6 {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                                
+150SM cG RI$weighted average of 100 {I7} ({+150}Pm |b{+-} decay (2.68 h)),      
+150SM2cG 100.0 {I20} ({+150}Eu |e decay (36.9 y)), 100 {I8} ({+149}Sm(n,|g)     
+150SMxcG E=thermal)                                                             
+150SM  L 1165.791  17 1-                0.06 PS   +3-2                          
+150SMX L XREF=ABCDFGK(1172)LPQS                                                 
+150SM cL J$from E1 |g to 0+.                                                    
+150SM cL T$from DSA in {+150}Sm(n,n'|g) E=1.3 MeV (1993Ju04). See 1993Ju01 for  
+150SM2cL various values from Doppler broadening techniques.                     
+150SM  G 425.22    8  2.7    3                                                  
+150SM cG E$weighted average of 425.33 {I7} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 425.3 {I3} ({+150}Eu |e decay (12.8 h)), 425.10 {I7} ({+149}Sm(n,|g)   
+150SMxcG E=thermal)                                                             
+150SM cG RI$weighted average of 3.0 {I3} ({+150}Pm |b{+-} decay (2.68 h)), 3.1  
+150SM2cG {I6} ({+150}Eu |e decay (12.8 h)), 2.2 {I3} ({+149}Sm(n,|g) E=thermal) 
+150SM  G 831.83    5  75     3  (E1)                                        *   
+150SMF G FLAG=N                                                                 
+150SMS G CC=0.001470 21$KC=0.001262 18$LC=0.0001635 23$MC=3.47E-5 5$            
+150SMS G OC=1.174E-6 17$PC=7.28E-8 11$NC+=9.10E-6                               
+150SMB G BE1W=0.0029 +14-10                                                     
+150SM cG E$weighted average of 831.85 {I4} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 831.8 {I1} ({+150}Eu |e decay (12.8 h)), 831.92 {I25} ({+150}Eu |e     
+150SM3cG decay (36.9 y)), 831.28 {I24} ({+149}Sm(n,|g) E=thermal)               
+150SM cG M$from 1966Sm03 in (n,|g) mult=E2 on basis of |a(K)exp. From           
+150SM2cG 1973PrZI, mult=E1 on basis of |a(K)exp. Mult=E1 on basis of |g(|q)     
+150SM3cG and |a(K)exp from 1969Re11.                                            
+150SM  G 1165.74   3  100    4  E1                                              
+150SML G FL=0.0                                                                 
+150SMF G FLAG=N                                                                 
+150SMS G CC=0.000792 11$KC=0.000670 10$LC=8.56E-5 12$MC=1.82E-5 3$NC=4.11E-6 6$ 
+150SMS G OC=6.16E-7 9$PC=3.88E-8 6$NC+=1.82E-5 3                                
+150SMB G BE1W=0.0014 +7-5                                                       
+150SM cG M$on basis of |a(K)exp, 1966Sm03 give mult=E2, but other authors       
+150SM2cG assign E1. On basis of |g(|q) and |a(K)exp, 1969Re11 assign E1.        
+150SM cG E$weighted average of 1165.77 {I6} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 1165.7 {I2} ({+150}Eu |e decay (12.8 h)), 1165.74 {I3} ({+150}Eu |e    
+150SM3cG decay (36.9 y)), 1165.1 {I13} ({+149}Sm(n,|g) E=thermal)               
+150SM  L 1193.843  12 2+                1.3 PS    3                         m   
+150SMX L XREF=ABCFGHKLMNPS                                                      
+150SM2 L MOMM1=+0.83 14 (1989Ra17)                                              
+150SM cL J$from E2 |g to 0+.                                                    
+150SM cL T$from B(E2)=0.048 {i10} and branching(1193)=0.52 {i3} from (n,|g).    
+150SM  G 147.73    4  0.15   8  M1(+E0)                                         
+150SM cG E,RI$from {+149}Sm(n,|g) E=thermal.                                    
+150SM  G 420.47    9  1.8    5  (E2)                    0.0206                  
+150SMS G KC=0.01670 24$LC=0.00308 5$MC=0.000677 10$NC=0.0001516 22$             
+150SMS G OC=2.14E-5 3$PC=9.44E-7 14$NC+=0.0001739 25                            
+150SMB G BE2W=7 3                                                               
+150SM cG E,RI$weighted average of 420.1 {I5} ({+150}Pm |b{+-} decay (2.68 h)),  
+150SM2cG 420.48 {I9} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG RI$weighted average of 2.3 {I4} ({+150}Pm |b{+-} decay (2.68 h)), 1.3  
+150SM2cG {I4} ({+149}Sm(n,|g) E=thermal)                                        
+150SM  G 453.40    5  3.4    4  (E2)                   0.01672                  
+150SMS G KC=0.01362 19$LC=0.00243 4$MC=0.000532 8$NC=0.0001193 17$              
+150SMS G OC=1.696E-5 24$PC=7.76E-7 11$NC+=0.0001370 20                          
+150SMB G BE2W=9.1 24                                                            
+150SM cG E$weighted average of 453.48 {I16} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 453.38 {I10} ({+150}Eu |e decay (36.9 y)), 453.40 {I6} ({+149}Sm(n,|g) 
+150SMxcG E=thermal)                                                             
+150SM cG M$|a(K)exp allows E1 or E2 but E1 ruled out by decay scheme.           
+150SM cG RI$weighted average of 3.0 {I6} ({+150}Pm |b{+-} decay (2.68 h)), 3.3  
+150SM2cG {I6} ({+150}Eu |e decay (36.9 y)), 4.1 {I8} ({+149}Sm(n,|g) E=thermal) 
+150SM  G 859.88    3  73.3   16E2+M1(+E0)               0.004511                
+150SMS G KC=0.0039 10$LC=0.00053 12$MC=0.000114 24$NC=2.6E-5 6$OC=3.9E-6 9$     
+150SMS G PC=2.4E-7 7$NC+=3.0E-5 7                                               
+150SM cG E$weighted average of 859.95 {I4} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 860.1 {I5} ({+150}Eu |e decay (12.8 h)), 859.867 {I18} ({+150}Eu |e    
+150SM3cG decay (36.9 y)), 859.28 {I20} ({+149}Sm(n,|g) E=thermal)               
+150SM cG RI$weighted average of 70 {I4} ({+150}Pm |b{+-} decay (2.68 h)), 50    
+150SM2cG {I13} ({+150}Eu |e decay (12.8 h)), 73.5 {I12} ({+150}Eu |e decay      
+150SM3cG (36.9 y)), 85 {I8} ({+149}Sm(n,|g) E=thermal)                          
+150SM  G 1193.830  22 100    3  E2                                              
+150SML G FL=0.0                                                                 
+150SMS G CC=0.001731 25$KC=0.001470 21$LC=0.000201 3$MC=4.31E-5 6$              
+150SMS G OC=1.452E-6 21$PC=8.75E-8 13$NC+=1.635E-5 2                            
+150SMB G BE2W=2.1 5                                                             
+150SM cG E$weighted average of 1193.87 {I6} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 1193.7 {I2} ({+150}Eu |e decay (12.8 h)), 1193.826 {I24} ({+150}Eu |e  
+150SM3cG decay (36.9 y)), 1193.1 {I7} ({+149}Sm(n,|g) E=thermal)                
+150SM cG M$|g(|q) studies support E2 (1969Re11).                                
+150SM cG RI$weighted average of 100 {I6} ({+150}Pm |b{+-} decay (2.68 h)), 100  
+150SM2cG {I22} ({+150}Eu |e decay (12.8 h)), 100 {I4} ({+150}Eu |e decay (36.9  
+150SM3cG y)), 100 {I10} ({+149}Sm(n,|g) E=thermal)                              
+150SM  L 1255.512  20 0+                                                        
+150SMX L XREF=ABFGO(1268)PS                                                     
+150SM cL J$E0 transitions to 0+ state at 740 keV and g.s.                       
+150SM  G 209.364   19 8.9    16 [E2]                    0.179                   
+150SMS G KC=0.1303 19$LC=0.0380 6$MC=0.00859 12$NC=0.00190 3$OC=0.000253 4$     
+150SMS G PC=6.52E-6 10$NC+=0.00216 3                                            
+150SM cG E$weighted average of 209.45 {I12} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 209.4 {I1} ({+150}Eu |e decay (12.8 h)), 209.36 {I2} ({+149}Sm(n,|g)   
+150SMxcG E=thermal)                                                             
+150SM cG RI$weighted average of 7.2 {I16} ({+150}Pm |b{+-} decay (2.68 h)),     
+150SM2cG 10.4 {I15} ({+150}Eu |e decay (12.8 h))                                
+150SM  G 515.3     8  25.0   LE E0                               13       4     
+150SM cG E,RI$from ({+150}Eu |e decay (12.8 h)                                  
+150SM  G 921.55    13 100    7  E2                     0.002965                 
+150SMS G KC=0.00250 4$LC=0.000359 5$MC=7.71E-5 11$NC=1.741E-5 25$OC=2.57E-6 4$  
+150SMS G PC=1.486E-7 21$NC+=2.01E-5 3                                           
+150SM cG E$weighted average of 921.61 {I16} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 921.7 {I3} ({+150}Eu |e decay (12.8 h)), 921.2 {I3} ({+149}Sm(n,|g)    
+150SMxcG E=thermal)                                                             
+150SM cG RI$weighted average of 100 {I8} ({+150}Eu |e decay (12.8 h)), 100 {I13}
+150SM2cG ({+149}Sm(n,|g) E=thermal)                                             
+150SM  G 1256.3    3            E0                               0.9      3     
+150SM cG E,RI$observed only in ({+149}Sm(n,|g) E=thermal)                       
+150SM cG E$E0 transition to ground state reported by 1963Gr18. Energy and       
+150SM2cG intensity as given are from 1976Ba18.                                  
+150SM  L 1278.922  14 6+                2.4 PS    7                         Q   
+150SMX L XREF=CDFGJPST                                                          
+150SM2 L MOMM1=+2.3 5 (1989Ra17)                                                
+150SM cL J$from E2 |g to 4+, member of g.s. band; not 2+ to 5+ from (n,|g): av  
+150SM2cL res.                                                                   
+150SM cL MOMM1$g-factor/g-factor(2+)=1.14 {i34} (1993Va10) from |g(|q,H,t).     
+150SM2cL See comment on 4+ level.                                               
+150SM  G 505.508   23 100       E2                     0.01246                  
+150SMS G KC=0.01024 15$LC=0.001743 25$MC=0.000381 6$NC=8.55E-5 12$              
+150SMS G OC=1.225E-5 18$PC=5.89E-7 9$NC+=9.83E-5 14                             
+150SMB G BE2W=1.5E+2 5                                                          
+150SM cG E$weighted average of 505.521 {I25} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 505.4 {I1} ({+148}Nd(|a,2n|g) E=26 MeV), 505.44 {I8} ({+149}Sm(n,|g)   
+150SM3cG E=thermal), 505.5 {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                    
+150SM cG M$from K/L in {+150}Eu |e decay (36.9 y).                              
+150SM  L 1357.710  13 5-                                                    R   
+150SMX L XREF=CDFGI(1369)JLO(1354)PQST                                          
+150SM cL J$from E1 |g's to 4+ and 6+.                                           
+150SM  G 78.76     1  0.158  18 E1                      0.525                   
+150SMS G KC=0.440 7$LC=0.0669 10$MC=0.01434 20$NC=0.00318 5$OC=0.000444 7$      
+150SMS G PC=2.06E-5 3$NC+=0.00365 6                                             
+150SM cG E$weighted average of 78.7 {I3} ({+150}Eu |e decay (36.9 y)), 78.76    
+150SM2cG {I1} ({+149}Sm(n,|g) E=thermal)                                        
+150SM cG RI$weighted average of 0.157 {I15} ({+150}Eu |e decay (36.9 y)), 0.37  
+150SM2cG {I18} ({+149}Sm(n,|g) E=thermal)                                       
+150SM  G 286.290   13 0.20   3                                              *   
+150SM cG E$weighted average of 286.293 {I15} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 286.28 {I3} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG RI$weighted average of 0.19 {I3} ({+150}Eu |e decay (36.9 y)), 0.28    
+150SM2cG {I10} ({+149}Sm(n,|g) E=thermal)                                       
+150SM  G 584.274   12 100    3  E1                     0.003055                 
+150SMS G KC=0.00262 4$LC=0.000344 5$MC=7.33E-5 11$NC=1.655E-5 24$OC=2.46E-6 4$  
+150SMS G PC=1.495E-7 21$NC+=1.92E-5 3                                           
+150SM cG E$weighted average of 584.274 {I12} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 584.3 {I2} ({+148}Nd(|a,2n|g) E=26 MeV), 584.24 {I10} ({+149}Sm(n,|g)  
+150SM3cG E=thermal), 584.5 {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                    
+150SM cG RI$weighted average of 100 {I3} ({+150}Eu |e decay (36.9 y)), 100 {I8} 
+150SM2cG ({+149}Sm(n,|g) E=thermal)                                             
+150SM cG M$from |g(|q) and |a(K)exp mult=E1 (1969Re11).                         
+150SM  L 1417.346  13 2+                                                        
+150SMX L XREF=ACFGHI(1425)PS                                                    
+150SM cL E$this level was observed in |b-decay studies of {+150}Sm and was      
+150SM2cL adopted by 1976Ba18. All transitions assigned to this level were       
+150SM3cL observed by 1966Sm03.                                                  
+150SM cL J$from E1 |g's to 1- and 3-.                                           
+150SM cL $370.8 and 676.8 gammas not adopted following {+149}Sm(n,|g):high      
+150SM2cL resolution                                                             
+150SM  G 161.84    3  3      1  (E2)                    0.428                  ?
+150SMS G KC=0.288 4$LC=0.1088 16$MC=0.0248 4$NC=0.00548 8$OC=0.000714 10$       
+150SMS G PC=1.360E-5 19$NC+=0.00621 9                                           
+150SM cG E,RI$From {+149}Sm(n,|g) E=thermal                                     
+150SM  G 223.51    2  1.7    3  (E2+E0)                                     &   
+150SMF G FLAG=V                                                                 
+150SM cG E$from {+149}Sm(n,|g) E=thermal                                        
+150SM cG E,RI$from {+149}Sm(n,|g) E=th.                                         
+150SM  G 251.582   19 43.7   18 E1                      0.0231                  
+150SMS G KC=0.0197 3$LC=0.00270 4$MC=0.000575 8$NC=0.0001294 19$OC=1.89E-5 3$   
+150SMS G PC=1.066E-6 15$NC+=0.0001494 21                                        
+150SM cG E$weighted average of 251.60 {I10} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 251.596 {I25} ({+150}Eu |e decay (36.9 y)), 251.56 {I3}                
+150SMxcG ({+149}Sm(n,|g) E=thermal)                                             
+150SM cG RI$weighted average of 41 {I6} ({+150}Pm |b{+-} decay (2.68 h)), 43.4  
+150SM2cG {I22} ({+150}Eu |e decay (36.9 y)), 46 {I4} ({+149}Sm(n,|g) E=thermal) 
+150SM  G 345.950   17 100    10 E1                     0.01031                  
+150SMS G KC=0.00880 13$LC=0.001187 17$MC=0.000253 4$NC=5.70E-5 8$OC=8.40E-6 12$ 
+150SMS G PC=4.89E-7 7$NC+=6.59E-5 10                                            
+150SM cG E$weighted average of 345.93 {I8} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 345.955 {I19} ({+150}Eu |e decay (36.9 y)), 345.93 {I4}                
+150SMxcG ({+149}Sm(n,|g) E=thermal)                                             
+150SM cG RI$weighted average of 100 {I11} ({+150}Pm |b{+-} decay (2.68 h)), 100 
+150SM2cG {I4} ({+150}Eu |e decay (36.9 y)), 100 {I10} ({+149}Sm(n,|g) E=thermal)
+150SM  G 1083.34   4  70     8  (E2+E0)                                         
+150SM cG E$weighted average of 1083.33 {I8} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 1083.34 {I3} ({+150}Eu |e decay (36.9 y)), 1082.6 {I4} ({+149}Sm(n,|g) 
+150SMxcG E=thermal)                                                             
+150SM cG RI$weighted average of 41 {I6} ({+150}Pm |b{+-} decay (2.68 h)), 41.0  
+150SM2cG {I24} ({+150}Eu |e decay (36.9 y)), 44 {I6} ({+149}Sm(n,|g) E=thermal) 
+150SM  G 1417.0       0.06   4                                                  
+150SMF G FLAG=H                                                                 
+150SM cG E,RI$from {+150}Eu |e decay (36.9 y)                                   
+150SM  L 1449.182  13 4+                1.8 PS    8                             
+150SMX L XREF=CDFGHI(1460)JLPS                                                  
+150SM cL J$from L(d,d')=4                                                       
+150SM  G 170.23    2  0.26   4  E2                      0.360                  ?
+150SMS G KC=0.247 4$LC=0.0881 13$MC=0.0201 3$NC=0.00443 7$OC=0.000580 9$        
+150SMS G PC=1.178E-5 17$NC+=0.00502 7                                           
+150SMB G BE2W=8.E+1 4                                                           
+150SM cG E,RI$from {+149}Sm(n,|g) E=thermal                                     
+150SM  G 255.34    3  1.06   15 (E2)                    0.0936              *   
+150SMS G KC=0.0710 10$LC=0.01761 25$MC=0.00395 6$NC=0.000877 13$                
+150SMS G OC=0.0001190 17$PC=3.70E-6 6$NC+=0.001000 14                           
+150SMB G BE2W=42 20                                                             
+150SM cG E,RI$from {+149}Sm(n,|g) E=thermal                                     
+150SM  G 377.73    3  3.0    3                                                  
+150SM cG E$weighted average of 377.73 {I3} ({+150}Eu |e decay (36.9 y)), 377.74 
+150SM2cG {I5} ({+149}Sm(n,|g) E=thermal)                                        
+150SM cG RI$from {+149}Sm(n,|g) E=thermal                                       
+150SM  G 403.05    16 46.9   18 E2                      0.0233                  
+150SMS G KC=0.0188 3$LC=0.00353 5$MC=0.000778 11$NC=0.0001739 25$OC=2.45E-5 4$  
+150SMS G PC=1.054E-6 15$NC+=0.000200 3                                          
+150SMB G BE2W=1.9E+2 9                                                          
+150SM cG E$weighted average of 403.36 {I10} ({+150}Eu |e decay (36.9 y)),       
+150SM2cG 402.97 {I5} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG M$confirmed by 1969Re11 through |g(|q) studies.                        
+150SM cG RI$weighted average of 47.2 {I19} ({+150}Eu |e decay (36.9 y)), 45 {I5}
+150SM2cG ({+149}Sm(n,|g) E=thermal)                                             
+150SM  G 675.853   24 100    2  E2+E0+M1                0.008121                
+150SMS G KC=0.0068 19$LC=0.00097 20$MC=0.00021 5$NC=4.7E-5 10$OC=7.0E-6 16$     
+150SMS G PC=4.2E-7 13$NC+=5.5E-5 12                                             
+150SM cG E$weighted average of 675.856 {I25} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 676.1 {I3} ({+148}Nd(|a,2n|g) E=26 MeV), 675.77 {I14} ({+149}Sm(n,|g)  
+150SM3cG E=thermal), 675.6 {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                    
+150SM cG RI$weighted average of 100.0 {I19} ({+150}Eu |e decay (36.9 y)), 100   
+150SM2cG {I10} ({+149}Sm(n,|g) E=thermal)                                       
+150SM  L 1504.572  13 3+                                                        
+150SMX L XREF=ACFGHI(1515)S                                                     
+150SM cL J$from |g's to 2+ and |g(|q) aligned.                                  
+150SM  G 310.75    4  2.2    4                                              *   
+150SM cG E$weighted average of 310.82 {I8} ({+150}Eu |e decay (36.9 y)), 310.73 
+150SM2cG {I4} ({+149}Sm(n,|g) E=thermal)                                        
+150SM cG RI$from {+150}Eu |e decay (36.9 y)                                     
+150SM  G 458.27    7  3.5    8  E2                     0.01623                  
+150SMS G KC=0.01324 19$LC=0.00235 4$MC=0.000515 8$NC=0.0001154 17$              
+150SMS G OC=1.642E-5 23$PC=7.55E-7 11$NC+=0.0001324 19                          
+150SM cG E$weighted average of 458.4 {I2} ({+150}Pm |b{+-} decay (2.68 h)),     
+150SM2cG 458.36 {I6} ({+150}Eu |e decay (36.9 y)), 458.17 {I6} ({+149}Sm(n,|g)  
+150SMxcG E=thermal)                                                             
+150SM cG RI$weighted average of 3.2 {I6} ({+150}Pm |b{+-} decay (2.68 h)), 3.3  
+150SM2cG {I4} ({+150}Eu |e decay (36.9 y)), 10.0 {I19} ({+149}Sm(n,|g)          
+150SMxcG E=thermal)                                                             
+150SM  G 731.218   23 25.6   12 E2                     0.004977                 
+150SMS G KC=0.00417 6$LC=0.000630 9$MC=0.0001362 19$NC=3.07E-5 5$OC=4.49E-6 7$  
+150SMS G PC=2.46E-7 4$NC+=3.54E-5 5                                             
+150SM cG E$weighted average of 731.06 {I16} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 731.220 {I24} ({+150}Eu |e decay (36.9 y)), 731.31 {I16}               
+150SMxcG ({+149}Sm(n,|g) E=thermal)                                             
+150SM cG M$confirmed by 1969Re11 through |g(|q) studies.                        
+150SM cG RI$weighted average of 26 {I4} ({+150}Pm |b{+-} decay (2.68 h)), 25.2  
+150SM2cG {I7} ({+150}Eu |e decay (36.9 y)), 33 {I3} ({+149}Sm(n,|g) E=thermal)  
+150SM  G 1170.589  24 100.0  14 E2(+M1)                 0.00235                 
+150SMS G KC=0.0019 4$LC=0.00026 5$MC=5.5E-5 11$NC=1.25E-5 24$OC=1.9E-6 4$       
+150SMS G PC=1.2E-7 3$NC+=1.8E-5 3                                               
+150SM cG E$weighted average of 1170.9 {I3} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 1170.587 {I24} ({+150}Eu |e decay (36.9 y)), 1170.2 {I10}              
+150SMxcG ({+149}Sm(n,|g) E=thermal)                                             
+150SM cG M$confirmed by 1969Re11 through |g(|q) studies.                        
+150SM cG RI$weighted average of 100 {I12} ({+150}Pm |b{+-} decay (2.68 h)),     
+150SM2cG 100.0 {I14} ({+150}Eu |e decay (36.9 y)), 100 {I19} ({+149}Sm(n,|g)    
+150SMxcG E=thermal)                                                             
+150SM  L 1603      4                                                            
+150SMX L XREF=P                                                                 
+150SM  L 1642.611  12 4+                0.54 PS   25                            
+150SMX L XREF=CE(1649)FGHI(1652)LPS                                             
+150SM cL J$from E2 |g to 2+ and E1 |g to 3-. Confirmed by 1969Re11 through      
+150SM2cL |g(|q) studies.                                                        
+150SM cL $475.9 |g not adopted following {+149}Sm(n,|g):high resolution         
+150SM  G 138.05    4  0.11   5                                                 ?
+150SM cG E,RI$from {+149}Sm(n,|g) E=thermal                                     
+150SM  G 193.46    2  0.70   17 (E2+E0)                                         
+150SM cG E,RI$from {+149}Sm(n,|g) E=thermal                                     
+150SM  G 225.34    2  0.39   8  [E2]                    0.1404                  
+150SMS G KC=0.1040 15$LC=0.0285 4$MC=0.00641 9$NC=0.001421 20$OC=0.000191 3$    
+150SMS G PC=5.29E-6 8$NC+=0.001617 23                                           
+150SMB G BE2W=7.E+1 4                                                           
+150SM cG E,RI$from {+149}Sm(n,|g) E=thermal                                     
+150SM  G 284.001   20 9.3    9  E1                     0.01691                  
+150SML G FL=1357.710                                                            
+150SMS G KC=0.01442 21$LC=0.00196 3$MC=0.000419 6$NC=9.43E-5 14$OC=1.382E-5 20$ 
+150SMS G PC=7.89E-7 11$NC+=0.0001079 16                                         
+150SMB G BE1W=0.0009 5                                                          
+150SM cG M$from {+150}Eu |e decay (36.9 y).                                     
+150SM cG E$weighted average of 284.995 {I26} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 285.01 {I3} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG RI$weighted average of 9.0 {I4} ({+150}Eu |e decay (36.9 y)), 11.5     
+150SM2cG {I10} ({+149}Sm(n,|g) E=thermal)                                       
+150SM  G 448.785   21 14.0   5                                                  
+150SM cG E$weighted average of 448.789 {I12} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 448.68 {I6} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG RI$from {+150}Eu |e decay (36.9 y)                                     
+150SM  G 571.258   15 22.4   6  (E1)                   0.003215                 
+150SMS G KC=0.00275 4$LC=0.000362 5$MC=7.70E-5 11$NC=1.740E-5 25$OC=2.59E-6 4$  
+150SMS G PC=1.568E-7 22$NC+=2.01E-5 3                                           
+150SMB G BE1W=0.00027 13                                                        
+150SM cG E$weighted average of 571.259 {I15} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 571.21 {I10} ({+149}Sm(n,|g) E=thermal)                                
+150SM cG M$confirmed in |g(|q) aligned.                                         
+150SM cG RI$weighted average of 22.3 {I5} ({+150}Eu |e decay (36.9 y)), 26 {I3} 
+150SM2cG ({+149}Sm(n,|g) E=thermal)                                             
+150SM  G 596.52    4  2.8    5  [E2]                   0.0081312                
+150SML G FL=1046.148                                                            
+150SMS G KC=0.00675 10$LC=0.001083 16$MC=0.000235 4$NC=5.29E-5 8$OC=7.66E-6 11$ 
+150SMS G PC=3.94E-7 6$NC+=6.10E-5 9                                             
+150SMB G BE2W=4.1 21                                                            
+150SM cG E$weighted average of 596.53 {I4} ({+150}Eu |e decay (36.9 y)), 596.34 
+150SM2cG {I18} ({+149}Sm(n,|g) E=thermal)                                       
+150SM cG RI$from {+149}Sm(n,|g) E=thermal                                       
+150SM  G 869.256   14 100    1 E2+E0(+M1)               0.004411                
+150SMS G KC=0.0038 10$LC=0.00052 11$MC=0.000111 23$NC=2.5E-5 6$OC=3.8E-6 9$     
+150SMS G PC=2.3E-7 7$NC+=2.9E-5 7                                               
+150SM cG E$weighted average of 869.256 {I14} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 869.21 {I20} ({+149}Sm(n,|g) E=thermal)                                
+150SM cG M$confirmed in |g(|q) aligned.                                         
+150SM cG RI$from {+150}Eu |e decay (36.9 y))                                    
+150SM  G 1308.675  23 48.2   10 E2                                              
+150SMS G CC=0.001459 21$KC=0.001226 18$LC=0.0001660 24$MC=3.55E-5 5$            
+150SMS G OC=1.198E-6 17$PC=7.30E-8 11$NC+=3.14E-5                               
+150SMB G BE2W=1.4 7                                                             
+150SM cG E$weighted average of 1308.675 {I23} ({+150}Eu |e decay (36.9 y)),     
+150SM2cG 1308.1 {I9} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG M$confirmed by 1969Re11 through |g(|q) aligned.                        
+150SM cG RI$weighted average of 48.2 {I10} ({+150}Eu |e decay (36.9 y)), 48 {I5}
+150SM2cG ({+149}Sm(n,|g) E=thermal)                                             
+150SM  L 1658.39   3  2(-)                                                      
+150SMX L XREF=AG                                                                
+150SM cL J$from |g's to 1-,3-, but not 0+,4+.                                   
+150SM  G 153.78    4  0.14   3                                                 ?
+150SM cG E,RI$observed only in {+149}Sm(n,|g) E=thermal                         
+150SM cG RI$from I|g(153)/I|g(492) in (n,|g).                                   
+150SM  G 241.5     4  0.08   AP                                                 
+150SMF G FLAG=G                                                                 
+150SM  G 465.1     6  0.27   4                                                  
+150SMF G FLAG=G                                                                 
+150SM  G 492.53    8  2.0    2                                                  
+150SMF G FLAG=G                                                                 
+150SM cG E$weighted average of 492.56 {I8} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 492.33 {I21} ({+149}Sm(n,|g) E=thermal)                                
+150SM  G 587.02    8  7.7    5                                                  
+150SMF G FLAG=G                                                                 
+150SM  G 612.25    8  5.3    4                                                  
+150SMF G FLAG=G                                                                 
+150SM  G 1324.51   6  100    4                                                  
+150SMF G FLAG=G                                                                 
+150SM  L 1672.717  22 (4+)                                                     ?
+150SMX L XREF=FGI(1686)S                                                        
+150SM cL J$from (E2+E0) |g to 4+ and |g's to 2+,3+,4+,6+; not consistent with   
+150SM2cL (2-,5-) from {+149}Sm(n,|g) av res. (1970Bu19)                         
+150SM cL $168.2, 223.5 and 393.9 |g's not adopted following {+149}Sm(n,|g):high 
+150SM2cL resolution                                                             
+150SM  G 626.67    22 8E+1   6                                                  
+150SMF G FLAG=F                                                                 
+150SM  G 899.6     3  10E+1  8                                              *  ?
+150SMF G FLAG=F                                                                 
+150SM cG E$from {+149}Sm(n,|g) E=thermal                                        
+150SM  L 1684.162  17 3-                                                        
+150SMX L XREF=ACEFGI(1697)K(1697)LOQ                                            
+150SM cL J$from E1 |g's to 2+ and 4+.                                           
+150SM  G 612.69    3  54     3                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 637.85    12 8      4                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 910.88    4  50     6  E1                                              
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.001232 18$KC=0.001058 15$LC=0.0001365 20$MC=2.90E-5 4$            
+150SMS G OC=9.81E-7 14$PC=6.12E-8 9$NC+=7.60E-6                                 
+150SM cG E$weighted average of 911.0 {I6} ({+150}Pm |b{+-} decay (2.68 h)),     
+150SM2cG 910.88 {I4} ({+150}Eu |e decay (36.9 y)), 910.73 {I25} ({+149}Sm(n,|g) 
+150SMxcG E=thermal)                                                             
+150SM  G 944          4      3                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 1350.28   10 100    6  E1                                             ?
+150SML G FL=333.955                                                             
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.000704 10$KC=0.000517 8$LC=6.57E-5 10$MC=1.394E-5 20$             
+150SMS G OC=4.74E-7 7$PC=3.00E-8 5$NC+=0.0001076                                
+150SM cG E$weighted average of 1350.7 {I5} ({+150}Pm |b{+-} decay (2.68 h)),    
+150SM2cG 1350.29 {I3} ({+150}Eu |e decay (36.9 y)), 1347.9 {I5} ({+149}Sm(n,|g) 
+150SMxcG E=thermal)                                                             
+150SM cG M$confirmed in |g(|q) aligned.                                         
+150SM  L 1713.51   5  1                                                         
+150SMX L XREF=ACG                                                               
+150SM cL J$from |g's to 0+ and 2+, and |g|g(|q) in {+150}Pm |b{+-}              
+150SM2cL inconsistent with J=2.                                                 
+150SM  G 548.59    11 1.3    4                                                  
+150SML G FL=1165.791                                                            
+150SMF G FLAG=NF                                                                
+150SM  G 667.31    13 5.0    9                                                  
+150SMF G FLAG=N                                                                 
+150SM  G 972.2     8  3.0    4                                                  
+150SMF G FLAG=N                                                                 
+150SM  G 1379.22   8  100    7  (E2+M1)                 0.00163                 
+150SMF G FLAG=N                                                                 
+150SMS G KC=0.00135 25$LC=0.00018 3$MC=3.8E-5 7$NC=8.7E-6 15$OC=1.30E-6 23$     
+150SMS G PC=8.2E-8 16$NC+=5.0E-5 4                                              
+150SM cG M$from {+150}Eu |e decay (36.9 y).                                     
+150SM  G 1713.31   12 11.2   13                                                 
+150SMF G FLAG=N                                                                 
+150SM  L 1760.060  19 (3-)                                                      
+150SMX L XREF=FGI(1760)OP                                                       
+150SM cL J$3-,4-,(2-),(5-) from (n,|g) av res. Excited in (p,t) so probably     
+150SM2cL not 2-,4-. Possible 565|g to 2+ so J|=5.                               
+150SM  G 117.58    2  3      2                                                 ?
+150SML G FL=1642.611                                                            
+150SMF G FLAG=F                                                                 
+150SM  G 255.34    3  55     8                                              *  ?
+150SML G FL=1504.572                                                            
+150SMF G FLAG=F                                                                 
+150SM  G 310.74    4  5.E+1  4                                              *  ?
+150SMF G FLAG=F                                                                 
+150SM  G 565.91    14 42     13                                                ?
+150SM  G 688.30    14 100    16 (E2)                   0.005738                 
+150SMF G FLAG=F                                                                 
+150SMS G KC=0.00480 7$LC=0.000736 11$MC=0.0001594 23$NC=3.59E-5 5$OC=5.24E-6 8$ 
+150SMS G PC=2.82E-7 4$NC+=4.14E-5 6                                             
+150SM cG M$from ce(K) data of 1966El05.                                         
+150SM  L 1764.89   4  7-                                                    R   
+150SMX L XREF=CDGJT                                                             
+150SMF L FLAG=W                                                                 
+150SM cL J$(E1) |g to 6+ in (|a,xn|g), |g to 5- in (|a,2n|g) establish J=(5-    
+150SM2cL 6-,7-). Assumed member of K=0 octupole band.                           
+150SM  G 407.4     3  3         E2                      0.0226                  
+150SML G FL=1357.710                                                            
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.0182 3$LC=0.00341 5$MC=0.000751 11$NC=0.0001679 24$OC=2.37E-5 4$  
+150SMS G PC=1.025E-6 15$NC+=0.000193 3                                          
+150SM cG E,RI$from (|a,4n|g) (1986UrZY).                                        
+150SM  G 485.8     3  100    4  E1                     0.004607                 
+150SML G FL=1278.922                                                            
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00394 6$LC=0.000523 8$MC=0.0001114 16$NC=2.51E-5 4$OC=3.73E-6 6$  
+150SMS G PC=2.23E-7 4$NC+=2.91E-5 4                                             
+150SM  L 1773.3       2-,5-,(3-,4-)                                            ?
+150SMX L XREF=F                                                                 
+150SM  L 1786.30   13 (LE3)                                                     
+150SMX L XREF=ABI(1790)O                                                        
+150SM cL J$from |g's to 1-,2+ and absence in (n,|g) res (1976Ba18).             
+150SM  G 620.40    20 95     16                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 740.4     5                                                            
+150SM  G 1452.32   20 1.0E+2 3                                                  
+150SMF G FLAG=GN                                                                
+150SM  L 1794.30   3  2+                                                        
+150SMX L XREF=FGHP                                                              
+150SM cL J$J|p=2+,5+ in (n,|g) av res. |g's to 0+,2+, so J|=5. The 515 |g is    
+150SM2cL not adopted.                                                           
+150SM  G 151.64    4  0.39   19                                                ?
+150SMF G FLAG=F                                                                 
+150SM  G 600.43    25 15     3                                                  
+150SMF G FLAG=F                                                                 
+150SM  G 722.65    18 24     4                                                  
+150SMF G FLAG=F                                                                 
+150SM  G 1798      4  100    19                                                 
+150SMF G FLAG=F                                                                 
+150SM  L 1819.510  13 4+                                                        
+150SMX L XREF=CE(*)FGHI(1826)LOPS                                               
+150SM cL J$E1 |g's to 3- and 5-                                                 
+150SM cL $1045.9, 135.16 gammas not adopted following {+149}Sm(n,|g):high       
+150SM2cL resolution                                                             
+150SM  G 315.0     2  0.33   11                                                 
+150SMF G FLAG=M                                                                 
+150SM cG E$from {+150}Eu |e decay (36.9 y)                                      
+150SM  G 370.721   25 2.07   17                                                 
+150SML G FL=1449.182                                                            
+150SMF G FLAG=M                                                                 
+150SM cG E$from {+150}Eu |e decay (36.9 y)                                      
+150SM  G 402.152   12 15.1   2  (E2)                    0.0234                  
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.0189 3$LC=0.00356 5$MC=0.000783 11$NC=0.0001752 25$OC=2.47E-5 4$  
+150SMS G PC=1.061E-6 15$NC+=0.000201 3                                          
+150SM cG E$from {+150}Eu |e decay (36.9 y)                                      
+150SM  G 461.75    4  15.9   4  E1                     0.005178                 
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00443 7$LC=0.000589 9$MC=0.0001255 18$NC=2.83E-5 4$OC=4.19E-6 6$  
+150SMS G PC=2.50E-7 4$NC+=3.27E-5 5                                             
+150SM cG E$weighted average of 461.761 {I15} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 461.59 {I6} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG M$determined by 1973MeZX from |a(K)exp data.                           
+150SM  G 540.55    6  1.67   13                                                 
+150SMF G FLAG=M                                                                 
+150SM cG E$from {+150}Eu |e decay (36.9 y)                                      
+150SM  G 625.568   20 5.98   13 (E2)                   0.0072311                
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00602 9$LC=0.000950 14$MC=0.000206 3$NC=4.64E-5 7$OC=6.74E-6 10$  
+150SMS G PC=3.52E-7 5$NC+=5.35E-5 8                                             
+150SM cG E$from {+150}Eu |e decay (36.9 y)                                      
+150SM cG M$from {+150}Eu |e decay (36.9 y).                                     
+150SM  G 748.06    9  100    2  E1                     0.001823                 
+150SMF G FLAG=MP                                                                
+150SMS G KC=0.001560 22$LC=0.000203 3$MC=4.31E-5 6$NC=9.75E-6 14$               
+150SMS G OC=1.456E-6 21$PC=8.98E-8 13$NC+=1.130E-5 16                           
+150SM cG E$weighted average of 748.057 {I12} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 749.31 {I17} ({+149}Sm(n,|g) E=thermal)                                
+150SM  G 773.29    4  11.7   2  E2                     0.004377             *   
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00368 6$LC=0.000547 8$MC=0.0001181 17$NC=2.66E-5 4$OC=3.91E-6 6$  
+150SMS G PC=2.17E-7 3$NC+=3.07E-5 5                                             
+150SM cG E$weighted average of 773.283 {I15} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 773.97 {I24} ({+149}Sm(n,|g) E=thermal)                                
+150SM cG M$from {+150}Eu |e decay (36.9 y).                                     
+150SM  G 1485.50   14 36.7   15 E2                                              
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.001193 17$KC=0.000960 14$LC=0.0001282 18$MC=2.74E-5 4$            
+150SMS G OC=9.26E-7 13$PC=5.72E-8 8$NC+=7.76E-5                                 
+150SM cG E$weighted average of 1485.49 {I3} ({+150}Eu |e decay (36.9 y)),       
+150SM2cG 1489.3 {I8} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG $This and some of the other |g rays which are shown as originating at  
+150SM2cG the 1819-keV level could energetically be assigned to the 1821- or     
+150SM3cG the 1822-keV level instead. 1966Sm03 assigned the 1489-keV transition  
+150SM4cG to the 1821-keV level in (n,|g), but 1977Si12 assigned it to the       
+150SM5cG 1819-keV level in |e decay.                                            
+150SM cG M$1966Sm03 suggest (E2)(M1) mixture (doublet) on basis of |a(K)exp     
+150SM2cG while 1973MeZX give E2 on basis of |a(K)exp and |a(L)exp data.         
+150SM  L 1821.894  19 (4)+                                                      
+150SMX L XREF=CE(*)GI(*)S                                                       
+150SM cL J$from E1 |g to 5- and (E2) |g to 6+.                                  
+150SM  G 179.26    5  0.40   21                                                 
+150SMF G FLAG=M                                                                 
+150SM cG E$from {+149}Sm(n,|g) E=thermal.                                       
+150SM  G 372.732   22 62.2   23                                                 
+150SMF G FLAG=M                                                                 
+150SM cG E$weighted average of 372.728 {I25} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 372.75 {I5} ({+149}Sm(n,|g) E=thermal)                                 
+150SM  G 464.10    5  100    20 E1                     0.005118                 
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00438 7$LC=0.000582 9$MC=0.0001240 18$NC=2.80E-5 4$OC=4.14E-6 6$  
+150SMS G PC=2.47E-7 4$NC+=3.23E-5 5                                             
+150SM cG E$weighted average of 464.11 {I7} ({+150}Eu |e decay (36.9 y)), 464.09 
+150SM2cG {I8} ({+149}Sm(n,|g) E=thermal)                                        
+150SM  G 542.970   24 35.0   18 (E2)                   0.01033                  
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00853 12$LC=0.001414 20$MC=0.000308 5$NC=6.92E-5 10$              
+150SMS G OC=9.96E-6 14$PC=4.94E-7 7$NC+=7.97E-5 12                              
+150SM cG E$weighted average of 542.972 {I25} ({+150}Eu |e decay (36.9 y)),      
+150SM2cG 542.95 {I9} ({+149}Sm(n,|g) E=thermal)                                 
+150SM cG M$from (n,|g) and {+150}Eu |e decay                                    
+150SM  L 1822.472  19 (3)-                                                      
+150SMX L XREF=CE(*)GI(*)O                                                       
+150SM cL J$from E1 |g to 4+ and M1(+E2) |g to 3-. The population in (t,p)       
+150SM2cL suggests natural parity.                                               
+150SM  G 751.07    2  39.8   9  M1(+E2)                 0.006316            *  ?
+150SMF G FLAG=HM                                                                
+150SMS G KC=0.0053 14$LC=0.00074 16$MC=0.00016 4$NC=3.6E-5 8$OC=5.4E-6 12$      
+150SMS G PC=3.2E-7 10$NC+=4.2E-5 9                                              
+150SM cG M$from {+150}Eu |e decay (36.9 y).                                     
+150SM  G 1049.04   3  100    4  E1                                              
+150SMF G FLAG=HM                                                                
+150SMS G CC=0.000944 14$KC=0.000812 12$LC=0.0001041 15$MC=2.21E-5 3$            
+150SMS G OC=7.49E-7 11$PC=4.70E-8 7$NC+=5.80E-6                                 
+150SM cG M$from {+150}Eu |e decay (36.9 y).                                     
+150SM  L 1833.01   3  (2)+                                                      
+150SMX L XREF=CHP                                                               
+150SM cL J$from M1(+E0+E2) |g to 2+ and (E2) |g to 0+.                          
+150SM  G 667.05    3  100    4                                                  
+150SMF G FLAG=HM                                                                
+150SM  G 788          1.48   15                                                ?
+150SMF G FLAG=HM                                                                
+150SM cG E$from {+150}Eu |e decay (36.9 y). In 1973MeZX but not 1978MeZK.       
+150SM  G 1499.35   10 15.2   7 M1(+E0+E2)              0.0014022                
+150SMF G FLAG=HMP                                                               
+150SMS G KC=0.00113 19$LC=0.000149 24$MC=3.2E-5 5$NC=7.2E-6 12$OC=1.08E-6 18$   
+150SMS G PC=6.8E-8 13$NC+=8.7E-5 5                                              
+150SM  G 1833.30   15 1.00   19 (E2)                                            
+150SMF G FLAG=HMP                                                               
+150SMS G CC=0.000966 14$KC=0.000647 9$LC=8.48E-5 12$MC=1.81E-5 3$NC=4.09E-6 6$  
+150SMS G OC=6.14E-7 9$PC=3.85E-8 6$NC+=0.000216 3                               
+150SM  L 1837.03   10 8+                1.3 PS    7                         Q   
+150SMX L XREF=DJST                                                              
+150SM cL J$from E2 |g to 6+.                                                    
+150SM  G 558.1     1  100       E2                     0.0096214                
+150SMS G KC=0.00796 12$LC=0.001306 19$MC=0.000285 4$NC=6.39E-5 9$OC=9.22E-6 13$ 
+150SMS G PC=4.62E-7 7$NC+=7.36E-5 11                                            
+150SMB G BE2W=1.7E+2 9                                                          
+150SM cG E$weighted average of 558.1 {I1} ({+148}Nd(|a,2n|g) E=26 MeV), 558.1   
+150SM2cG {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                                      
+150SM  L 1883.3       2+,5+                                                     
+150SMX L XREF=F                                                                 
+150SM  L 1927.33   9  (2+)                                                     ?
+150SMX L XREF=GHP                                                               
+150SM cL $Primary |g to level of this energy seen in (n,|g) E=res, but not in   
+150SM2cL (n,|g) E=th. However, 510- and 761-keV |g's observed by 1966Sm03 in    
+150SM3cL (n,|g) can be placed here.                                             
+150SM cL J$from (n,|g) E=resonance (1974Be37).                                  
+150SM  G 510.01    9  83     LE                                             *  ?
+150SMF G FLAG=F                                                                 
+150SM cG $Observed by 1966Sm03, placed in decay scheme by evaluator.            
+150SM  G 761.2     3  1.0E+2 3  (E1)                                           ?
+150SMF G FLAG=F                                                                 
+150SMS G CC=0.001754 25$KC=0.001506 22$LC=0.000196 3$MC=4.16E-5 6$              
+150SMS G OC=1.405E-6 20$PC=8.67E-8 13$NC+=1.090E-5 1                            
+150SM cG E$Observed by 1966Sm03, placed in decay scheme by evaluators.          
+150SM cG M$from (n,|g) E=th.                                                    
+150SM  L 1952.46   3  3-                                                    X   
+150SMX L XREF=FGLPQ                                                             
+150SM  G 308.05    4  2.2    3                                                  
+150SML G FL=1642.611                                                            
+150SMF G FLAG=F                                                                 
+150SM  G 1176.6    13 100    20 E1                                             ?
+150SMF G FLAG=F                                                                 
+150SMS G CC=0.000782 11$KC=0.000659 10$LC=8.41E-5 12$MC=1.79E-5 3$NC=4.04E-6 6$ 
+150SMS G OC=6.06E-7 9$PC=3.82E-8 6$NC+=2.17E-5 6                                
+150SM cG M$from (n,|g) E=th.                                                    
+150SM  L 1963.72   4  1(-)                                                  K   
+150SMX L XREF=AB                                                                
+150SM cL J$|b{+-} from (1-) (log| {Ift}=7.4) allows J=0,1,2. Two |g's to 0+     
+150SM2cL disallow J=0. log| {Ift}>8.6 for several |b{+-} decays to 2+ levels    
+150SM3cL indicate 2+ not likely thus requiring |g decays to 0+ states to be     
+150SM4cL M2. |b{+-} decays to other 1- states have log| {Ift}=7.3 or 7.5        
+150SM5cL making an assignment of 1(-) reasonable.                               
+150SM  G 917.46    15 17     2                                                  
+150SMF G FLAG=N                                                                 
+150SM cG E$weighted average of 917.44 {I16} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 917.7 {I6} ({+150}Eu |e decay)                                         
+150SM  G 1223.26   8  100    7                                                  
+150SMF G FLAG=N                                                                 
+150SM cG E$weighted average of 1223.28 {I6} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 1223.0 {I2} ({+150}Eu |e decay (12.8 h))                               
+150SM  G 1629.78   5  28     2                                                  
+150SMF G FLAG=N                                                                 
+150SM cG E$weighted average of 1629.79 {I4} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 1629.4 {I3} ({+150}Eu |e decay (12.8 h))                               
+150SM  G 1963.66   18 52     4                                                  
+150SMF G FLAG=N                                                                 
+150SM cG E$weighted average of 1963.71 {I8} ({+150}Pm |b{+-} decay (2.68 h)),   
+150SM2cG 1963.0 {I3} ({+150}Eu |e decay (12.8 h))                               
+150SM  L 1970.465  16 4+                                                        
+150SMX L XREF=CEFGHI(*)LP                                                       
+150SM cL $This level established in (d,d'), (p,t) and (n,|g) E=res. In (n,|g)   
+150SM2cL E=th, 1966Sm03 see several of the |g rays deexciting it.               
+150SM cL J$L(d,d')=4 and E1 |g to 3-.                                           
+150SM  G 151.06    4  0.33   17                                                ?
+150SMF G FLAG=F                                                                 
+150SM  G 286.290   13 6      3                                              *  ?
+150SMF G FLAG=M                                                                 
+150SM  G 553.20    10 2.9    6                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 612.69    3  8.2    5                                              &   
+150SMF G FLAG=M                                                                 
+150SM  G 777          0.6    3                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 899.07    3  83.1   8  E1                                          *   
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.001263 18$KC=0.001085 16$LC=0.0001401 20$MC=2.98E-5 5$            
+150SMS G OC=1.007E-6 14$PC=6.27E-8 9$NC+=7.80E-6                                
+150SM  G 1197.11   3  100    3 (E2+E0+M1)               0.00225                 
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.0018 4$LC=0.00025 5$MC=5.3E-5 10$NC=1.19E-5 23$OC=1.8E-6 4$       
+150SMS G PC=1.12E-7 25$NC+=1.9E-5 3                                             
+150SM cG $Placed in decay scheme in {+150}Eu |e decay (36.9 y).                 
+150SM  G 1636.53   3  64     2  E2                                              
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.001060 15$KC=0.000799 12$LC=0.0001058 15$MC=2.25E-5 4$            
+150SMS G OC=7.65E-7 11$PC=4.76E-8 7$NC+=0.000132                                
+150SM cG $Placed in decay scheme by 1977Si12, energy taken from 1978MeZK.       
+150SM cG M${+150}Eu |e decay (36.9 y)                                           
+150SM  L 1979.3       3-,4-                                                     
+150SMX L XREF=FI(*)                                                             
+150SM  L 2005.5    8  2+                                                        
+150SMX L XREF=FHP                                                               
+150SM cL E,J$from {+149}Sm(n,|g) E=res and av res                               
+150SM  L 2020.377  14 5+                                                        
+150SMX L XREF=CFGHLP                                                            
+150SM cL J$from {+149}Sm(n,|g) E=res and av res                                 
+150SM  G 377.73    3  5.9    4                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 515.79    1  51.8   10 E2                     0.01181                 ?
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00972 14$LC=0.001642 23$MC=0.000359 5$NC=8.05E-5 12$              
+150SMS G OC=1.155E-5 17$PC=5.61E-7 8$NC+=9.26E-5 13                             
+150SM cG M$based on {+150}Eu |e decay (36.9 y) |a(K)exp and |a(L)exp data.      
+150SM  G 571.26    2  21.6   5                                                  
+150SM  G 662.66    15 0.8    2  (E1)                   0.002334                ?
+150SMF G FLAG=MP                                                                
+150SMS G KC=0.00200 3$LC=0.000262 4$MC=5.57E-5 8$NC=1.259E-5 18$OC=1.88E-6 3$   
+150SMS G PC=1.148E-7 16$NC+=1.458E-5 21                                         
+150SM  G 741.47    2  44.7   5  E2(+M1)                 0.006517               ?
+150SMF G FLAG=MP                                                                
+150SMS G KC=0.0055 15$LC=0.00077 16$MC=0.00016 4$NC=3.7E-5 8$OC=5.6E-6 13$      
+150SMS G PC=3.3E-7 10$NC+=4.3E-5 9                                              
+150SM  G 1246.97   3  100    3  E2                                             ?
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.001593 23$KC=0.001348 19$LC=0.000184 3$MC=3.93E-5 6$              
+150SMS G OC=1.324E-6 19$PC=8.03E-8 12$NC+=2.21E-5 3                             
+150SM  L 2024.663  13 4+                                                        
+150SMX L XREF=CFGHIL                                                            
+150SM cL J$E0 component in |g to 4+                                             
+150SM  G 205.21    2  5.6    7  M1                      0.225                  ?
+150SMF G FLAG=P                                                                 
+150SMS G KC=0.191 3$LC=0.0267 4$MC=0.00574 8$NC=0.001301 19$OC=0.000195 3$      
+150SMS G PC=1.213E-5 17$NC+=0.001508 22                                         
+150SM  G 340.38    4  29     3                                                 ?
+150SML G FL=1684.162                                                            
+150SMF G FLAG=M                                                                 
+150SM  G 381.99    3  21.1   14                                                ?
+150SMF G FLAG=M                                                                 
+150SM  G 520.09    2  86.6   18 E2+M1                   0.016 4                 
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.013 4$LC=0.0019 4$MC=0.00042 7$NC=9.4E-5 16$OC=1.4E-5 3$          
+150SMS G PC=7.9E-7 25$NC+=0.000109 19                                           
+150SM  G 575.51    8  5.8    14 (E2+E0)                                     *   
+150SMF G FLAG=M                                                                 
+150SM  G 607.32    3  31.4   9  (E2)                   0.0077711                
+150SMF G FLAG=MP                                                                
+150SMS G KC=0.00646 9$LC=0.001030 15$MC=0.000224 4$NC=5.04E-5 7$OC=7.30E-6 11$  
+150SMS G PC=3.77E-7 6$NC+=5.80E-5 9                                             
+150SM  G 667.05    3  48.7   18                                             *   
+150SMF G FLAG=M                                                                 
+150SM  G 830.82    2  100    2  (E2)                   0.003726             *  ?
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00313 5$LC=0.000459 7$MC=9.88E-5 14$NC=2.23E-5 4$OC=3.28E-6 5$    
+150SMS G PC=1.85E-7 3$NC+=2.58E-5 4                                             
+150SM  G 953.20    8  8.5    13                                                 
+150SMF G FLAG=M                                                                 
+150SM  G 978.47    5  3.8    9                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 1251.25   3  30.7   18 (M1)                   0.002344                 
+150SMF G FLAG=MP                                                                
+150SMS G KC=0.00199 3$LC=0.000263 4$MC=5.61E-5 8$NC=1.272E-5 18$OC=1.92E-6 3$   
+150SMS G PC=1.227E-7 18$NC+=2.80E-5 4                                           
+150SM  G 1690.67   2  29     9  (E2)                                            
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.001027 15$KC=0.000752 11$LC=9.92E-5 14$MC=2.11E-5 3$NC=4.79E-6 7$ 
+150SMS G OC=7.18E-7 10$PC=4.48E-8 7$NC+=0.0001541                               
+150SM  L 2035.42   3  5-                                                        
+150SMX L XREF=CE(2038)GL(2033)                                                  
+150SM cL J$E1 |g's to 4+ and 6+                                                 
+150SM  G 756.51    3  25     LE (E1)                                        *  ?
+150SMF G FLAG=MP                                                                
+150SMS G CC=0.001776 25$KC=0.001525 22$LC=0.000198 3$MC=4.22E-5 6$              
+150SMS G OC=1.422E-6 20$PC=8.78E-8 13$NC+=1.104E-5 1                            
+150SM cG E$weighted average of 756.51 {I3} ({+150}Eu |e decay (36.9 y)), 756.2  
+150SM2cG {I3} ({+149}Sm(n,|g) E=thermal)                                        
+150SM  G 1261.98   6  100    2  E1                                              
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.000730 11$KC=0.000581 9$LC=7.41E-5 11$MC=1.572E-5 22$             
+150SMS G OC=5.34E-7 8$PC=3.38E-8 5$NC+=5.92E-5 9                                
+150SM cG E$weighted average of 1261.98 {I3} ({+150}Eu |e decay (36.9 y)),       
+150SM2cG 1263.2 {I6} ({+149}Sm(n,|g) E=thermal)                                 
+150SM  L 2044.0    10 (3+,4+)                                                   
+150SMX L XREF=CE(*)FH                                                           
+150SM cL J$from {+149}Sm(n,|g) E=res.                                           
+150SM  G 1710         1.0E+2 3                                                 ?
+150SMF G FLAG=HM                                                                
+150SM  L 2054.5       (2+,5+)                                                  ?
+150SMX L XREF=F                                                                 
+150SM  L 2062.80   4  (3)+                                                     ?
+150SMX L XREF=FGHI(*)                                                           
+150SM cL J,E$from {+149}Sm(n,|g) E=res, J|p=3+,4+, but from |g(|q) aligned      
+150SM2cL J|p=3+,5+.                                                             
+150SM  G 268.51    3  1.3    2                                                 ?
+150SML G FL=1794.30                                                             
+150SMF G FLAG=F                                                                 
+150SM  G 558.13    9  44     8  (E2+M1)                 0.013 4                ?
+150SML G FL=1504.572                                                            
+150SMF G FLAG=F                                                                 
+150SMS G KC=0.011 3$LC=0.0016 3$MC=0.00034 6$NC=7.8E-5 14$OC=1.15E-5 23$        
+150SMS G PC=6.7E-7 21$NC+=9.0E-5 17                                             
+150SM cG M$E2+M1 suggested by 1966Sm03 on basis of |a(K)exp.                    
+150SM  G 869.21    20 2.5E+2 4                                              &  ?
+150SMF G FLAG=F                                                                 
+150SM cG $Assigned to 2062 level by energy fit.                                 
+150SM  G 1016.3    5  100    13 E2                     0.002404             &  ?
+150SMF G FLAG=F                                                                 
+150SMS G KC=0.00204 3$LC=0.000287 4$MC=6.15E-5 9$NC=1.390E-5 20$OC=2.06E-6 3$   
+150SMS G PC=1.212E-7 17$NC+=1.608E-5 23                                         
+150SM  L 2070.270  23 2(-)                                                  K   
+150SMX L XREF=ACI(*)                                                            
+150SM cL J$from |g's to 1-,2+,3-,4- but not 0+,4+.                              
+150SM  G 565.70    3  18.0   14                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 652.84    9  4.6    6                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 876.41    4  100    5                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 904.46    8  12.5   9                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 999.0     10 0.8    3                                                 ?
+150SMF G FLAG=GN                                                                
+150SM  G 1024.13   6  10.0   8                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1736.40   8  95     5                                                  
+150SMF G FLAG=GN                                                                
+150SM  L 2095.33   3  (5)+                                                      
+150SMX L XREF=CFGH                                                              
+150SM cL J$5+ from |g(|q) aligned and E2(+M1) |g's to 4+,6+. 1974Be37 suggest   
+150SM2cL J|p=3+,4+ in (n,|g) res. J|p=2+,5+ from (n,|g) av res.                 
+150SM  G 125          1.1    6                                                  
+150SMF G FLAG=HM                                                                
+150SM  G 272.82    3  13     4                                              *  ?
+150SMF G FLAG=M                                                                 
+150SM cG E$weighted average of 272.79 {I9} ({+150}Eu |e decay (36.9 y)), 272.82 
+150SM2cG {I3} ({+149}Sm(n,|g) E=thermal)                                        
+150SM  G 335.7     1  21     8                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 590.79    7  18     3                                                 ?
+150SMF G FLAG=M                                                                 
+150SM cG E$weighted average of 590.71 {I11} ({+150}Eu |e decay (36.9 y)),       
+150SM2cG 590.85 {I10} ({+149}Sm(n,|g) E=thermal)                                
+150SM  G 816.41    8  28     3  E2+M1                   0.005113               ?
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.0044 11$LC=0.00061 13$MC=0.00013 3$NC=2.9E-5 7$OC=4.4E-6 10$      
+150SMS G PC=2.7E-7 8$NC+=3.4E-5 8                                               
+150SM cG E$weighted average of 816.44 {I8} ({+150}Eu |e decay (36.9 y)), 816.19 
+150SM2cG {I23} ({+149}Sm(n,|g) E=thermal)                                       
+150SM  G 1321.91   7  100    6  (E2)                                           ?
+150SMF G FLAG=M                                                                 
+150SMS G CC=0.001433 20$KC=0.001202 17$LC=0.0001626 23$MC=3.48E-5 5$            
+150SMS G OC=1.173E-6 17$PC=7.16E-8 10$NC+=3.39E-5                               
+150SM cG E$weighted average of 1321.91 {I3} ({+150}Eu |e decay (36.9 y)),       
+150SM2cG 1323.6 {I7} ({+149}Sm(n,|g) E=thermal)                                 
+150SM  L 2107.449  19 (6)+                                                      
+150SMX L XREF=CFL                                                               
+150SM cL J$E1 |g to 5-, E2 |g to 4+.                                            
+150SM  G 342.56    4  25     2                                                 ?
+150SML G FL=1764.89                                                             
+150SMF G FLAG=M                                                                 
+150SM  G 464.11    7  68     10                                                 
+150SML G FL=1642.611                                                            
+150SMF G FLAG=M                                                                 
+150SM  G 749.80    3  100    2  E1                     0.001813             *  ?
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.001552 22$LC=0.000202 3$MC=4.29E-5 6$NC=9.71E-6 14$               
+150SMS G OC=1.449E-6 21$PC=8.94E-8 13$NC+=1.125E-5 16                           
+150SM  G 828.56    2  87     3                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 1334.06   3  61     2  E2                                              
+150SMF G FLAG=MP                                                                
+150SMS G CC=0.001411 20$KC=0.001181 17$LC=0.0001595 23$MC=3.41E-5 5$            
+150SMS G OC=1.151E-6 17$PC=7.03E-8 10$NC+=3.64E-5                               
+150SM  L 2108.9       2- TO5-                                                  ?
+150SMX L XREF=F                                                                 
+150SM  L 2113      4                                                            
+150SMX L XREF=L                                                                 
+150SM  L 2117.030  15 4+                                                        
+150SMX L XREF=CGHIL                                                             
+150SM cL E$from {+149}Sm(n,|g) E=res and {+150}Eu |e decay (36.9 y).            
+150SM cL J$E2 |g to 2+, |g to 6+                                                
+150SM  G 474.49    3  5.6    3 (E2+M1+E0)               0.020 5                 
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.017 5$LC=0.0025 4$MC=0.00054 8$NC=0.000121 18$OC=1.8E-5 3$        
+150SMS G PC=1.0E-6 4$NC+=0.000140 21                                            
+150SM cG M$from (n,|g).                                                         
+150SM  G 612.69    3  3.59   22                                             &   
+150SML G FL=1504.572                                                            
+150SMF G FLAG=M                                                                 
+150SM  G 667.05    3  10.0   LE                                                 
+150SML G FL=1449.182                                                            
+150SMF G FLAG=M                                                                 
+150SM  G 699.5     3  0.22   15                                                ?
+150SMF G FLAG=M                                                                 
+150SM  G 759.57    9  3.0    3                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 838.40    8  2.2    4                                                  
+150SMF G FLAG=M                                                                 
+150SM  G 923.27    2  11.9   4  (E2)                   0.002955             *  ?
+150SMF G FLAG=MP                                                                
+150SMS G KC=0.00249 4$LC=0.000357 5$MC=7.68E-5 11$NC=1.733E-5 25$OC=2.56E-6 4$  
+150SMS G PC=1.480E-7 21$NC+=2.00E-5 3                                           
+150SM  G 1045.87   6  35     3                                              *   
+150SMF G FLAG=M                                                                 
+150SM  G 1071.00   3  5.6    4  (E2)                   0.002153             *  ?
+150SMF G FLAG=M                                                                 
+150SMS G KC=0.00183 3$LC=0.000255 4$MC=5.47E-5 8$NC=1.236E-5 18$OC=1.83E-6 3$   
+150SMS G PC=1.088E-7 16$NC+=1.430E-5 20                                         
+150SM cG M$from |a(K)exp in {+150}Eu |e decay (36.9 y).                         
+150SM  G 1343.78   22 100    3  M1+E2                   0.00173                 
+150SMF G FLAG=PM                                                                
+150SMS G KC=0.0014 3$LC=0.00019 4$MC=4.1E-5 7$NC=9.2E-6 16$OC=1.38E-6 25$       
+150SMS G PC=8.7E-8 18$NC+=4.1E-5 3                                              
+150SM  G 1783.19   5  3.96   11 E2                                              
+150SMF G FLAG=MP                                                                
+150SMS G CC=0.000983 14$KC=0.000681 10$LC=8.95E-5 13$MC=1.91E-5 3$NC=4.32E-6 6$ 
+150SMS G OC=6.47E-7 9$PC=4.06E-8 6$NC+=0.000194 3                               
+150SM  L 2119.36   3  (3-)                                                      
+150SMX L XREF=CE                                                                
+150SM cL E$from {+150}Eu |e decay (36.9 y) and {+148}Sm(t,p).                   
+150SM cL J$(E2) |g to 5-.                                                       
+150SM  G 286.29    2  20E1   14                                             *   
+150SMF G FLAG=M                                                                 
+150SM cG E$given 2119-keV level origin only by 1973MeZX in {+150}Eu |e decay    
+150SM2cG (36.9 y).                                                              
+150SM  G 476.89    13 63     LE                                             *   
+150SMF G FLAG=M                                                                 
+150SM  G 762.03    9  1.0E+2 3  (E2)                   0.004527                 
+150SMF G FLAG=MP                                                                
+150SMS G KC=0.00380 6$LC=0.000567 8$MC=0.0001226 18$NC=2.76E-5 4$OC=4.05E-6 6$  
+150SMS G PC=2.24E-7 4$NC+=3.19E-5 5                                             
+150SM  G 1346.40   7  100    23                                                 
+150SML G FL=773.374                                                             
+150SMF G FLAG=M                                                                 
+150SM  L 2152.56   3  4+                                                        
+150SMX L XREF=CE(2166)FGHIL                                                     
+150SM cL J$from |g(|q) aligned                                                  
+150SM  G 509.88    7  31     6                                              *  ?
+150SMF G FLAG=F                                                                 
+150SM cG E$weighted average of 509.84 {I5} ({+150}Eu |e decay (36.9 y)), 510.01 
+150SM2cG {I9} ({+149}Sm(n,|g) E=thermal)                                        
+150SM  G 647.81    13 16     5  (E2)                   0.0066310               ?
+150SMF G FLAG=F                                                                 
+150SMS G KC=0.00553 8$LC=0.000865 13$MC=0.000188 3$NC=4.22E-5 6$OC=6.14E-6 9$   
+150SMS G PC=3.24E-7 5$NC+=4.87E-5 7                                             
+150SM  G 795.30    19 14.2   21                                                ?
+150SMF G FLAG=F                                                                 
+150SM  G 958.25    20 41     17                                                ?
+150SMF G FLAG=M                                                                 
+150SM  G 1081.46   8  23     8                                                 ?
+150SMF G FLAG=M                                                                 
+150SM  G 1379.12   6  100    12 (E2)                                        *  ?
+150SMF G FLAG=F                                                                 
+150SMS G CC=0.001334 19$KC=0.001107 16$LC=0.0001490 21$MC=3.18E-5 5$            
+150SMS G OC=1.076E-6 15$PC=6.59E-8 10$NC+=4.68E-5                               
+150SM cG RI$used to normalize branching in (n,|g) and |e decay(36.9 y).         
+150SM cG M$from (n,|g) and {+150}Eu |e decay (36.9 y).                          
+150SM  G 1818.52   8  9.8    17                                                ?
+150SMF G FLAG=M                                                                 
+150SM  L 2160      2  1-                                                    X   
+150SMX L XREF=Q                                                                 
+150SM  L 2174      10                                                          ?
+150SMX L XREF=P                                                                 
+150SM cL E$from {+152}Sm(p,t) and {+148}Sm(t,p).                                
+150SM  L 2190.9    3  4+                                                        
+150SMX L XREF=FG                                                                
+150SM cL $Fed directly in (n,|g) E=th (1969Re11).                               
+150SM cL J$E2 to 2+, |g(|q) aligned.                                            
+150SM  G 997.1     3  100       E2                     0.002504                ?
+150SMF G FLAG=F                                                                 
+150SMS G KC=0.00212 3$LC=0.000299 5$MC=6.42E-5 9$NC=1.451E-5 21$OC=2.15E-6 3$   
+150SMS G PC=1.260E-7 18$NC+=1.679E-5 24                                         
+150SM  L 2193.51   3  (4+)                                                      
+150SMX L XREF=CEFGHI(2205)LP                                                    
+150SM  G 240.03    3  0.8    3                                                 ?
+150SML G FL=1952.46                                                             
+150SMF G FLAG=F                                                                 
+150SM  G 509.86    5  38     8                                              *   
+150SML G FL=1684.162                                                            
+150SMF G FLAG=F                                                                 
+150SM  G 836.58    3  68     10                        0.003666                 
+150SML G FL=1357.710                                                            
+150SMF G FLAG=F                                                                 
+150SM cG RI$I|g(836)/I|g(1123)=0.68 {i9} in (n,|g) E=th as compared with 0.91   
+150SM2cG {i3} in |e decay.                                                      
+150SM  G 915.28    12 5      2                                                  
+150SML G FL=1278.922                                                            
+150SMF G FLAG=M                                                                 
+150SM  G 1122.3    4  100    10                                                 
+150SMF G FLAG=F                                                                 
+150SM  G 1420         2                                                        ?
+150SMF G FLAG=M                                                                 
+150SM  L 2199.7    11 2,3,4                                                     
+150SMX L XREF=H                                                                 
+150SM  L 2227      5  -                                                        ?
+150SMX L XREF=FGL(2220)P(2220)                                                  
+150SM cL J$from (n,|g) E=av res                                                 
+150SM  G 2227      5  0.12                                                     ?
+150SMF G FLAG=F                                                                 
+150SM  L 2232.37   18 9-                                                    R   
+150SMX L XREF=DJT                                                               
+150SM cL E$from (|a,4n|g)                                                       
+150SM cL J$from E2 |g to 7-, E1 |g to 8+.                                       
+150SM  G 395.1     3  100    6  E1(+M2)   +0.03  5      0.00768                 
+150SML G FL=1837.03                                                             
+150SMF G FLAG=E                                                                 
+150SMX G EKC=0.0078 10                                                          
+150SMS G KC=0.0065 7$LC=0.00087 10$MC=0.000186 22$NC=4.2E-5 5$OC=6.2E-6 8$      
+150SMS G PC=3.6E-7 5$NC+=4.8E-5 6                                               
+150SM cG M,MR$from {+150}Nd(|a,4n|g) E=45 MeV.                                  
+150SM  G 467.5     3  17.6   9  E2                     0.01537                  
+150SML G FL=1764.89                                                             
+150SMF G FLAG=E                                                                 
+150SMX G EKC=0.014 4                                                            
+150SMS G KC=0.01256 18$LC=0.00221 4$MC=0.000484 7$NC=0.0001084 16$              
+150SMS G OC=1.545E-5 22$PC=7.18E-7 11$NC+=0.0001246 18                          
+150SM cG M$from {+150}Nd(|a,4n|g) E=45 MeV.                                     
+150SM  L 2233.5       2- TO 5-                                                  
+150SMX L XREF=F                                                                 
+150SM  L 2250.4    6  (3+,4+)                                                  ?
+150SMX L XREF=FGHI                                                              
+150SM cL $1963Gr18 see primary |g ray to this level. E is from (n,|g) E=res     
+150SM cL J$from (n,|g) av res and res.                                          
+150SM  L 2259.94   4  (1-)                                                      
+150SMX L XREF=A                                                                 
+150SM cL J$|g's to 0+,2+ and |b{+-} from (1-), similar to 1963.7 level          
+150SM  G 842.55    12 39     5                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1004.44   12 78     5                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1066.00   16 43     5                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1093.5    8  7.2    13                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 1213.72   8  100    7                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1519.53   12 26     5                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1926.04   8  33     7                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 2259.8    8  7      2                                                  
+150SMF G FLAG=GN                                                                
+150SM  L 2262.4    10 4(+)                                                     ?
+150SMX L XREF=FGHI(2290)L(*)                                                    
+150SM cL J$J from |g(|q) aligned, |p from 3+,4+ in (n,|g) av res and res.       
+150SM cL E$1963Gr18 see primary |g ray to this level in (n,|g) E=th.            
+150SM  L 2264      8  4(+)                                                     ?
+150SMX L XREF=G                                                                 
+150SM cL J$from |g(|q) aligned (1969Re11).                                      
+150SM  L 2271      4                                                            
+150SMX L XREF=I(*)L                                                             
+150SM  L 2280.800  19 (3-)                                                      
+150SMX L XREF=CFHI(*)LP                                                         
+150SM cL E$from {+150}Eu |e decay (36.9 y), (d,d'), and (d,p).                  
+150SM cL J$from |g's to 1- and 5-.                                              
+150SM  G 596.53    4  7      4                                              @   
+150SMF G FLAG=HM                                                                
+150SM  G 637.83    3  4.7    22                                             *  ?
+150SML G FL=1642.611                                                            
+150SMF G FLAG=HM                                                                
+150SM  G 923.27    2  100    3  (E2)                   0.002955             &   
+150SML G FL=1357.710                                                            
+150SMF G FLAG=HMP                                                               
+150SMS G KC=0.00249 4$LC=0.000357 5$MC=7.68E-5 11$NC=1.733E-5 25$OC=2.56E-6 4$  
+150SMS G PC=1.480E-7 21$NC+=2.00E-5 3                                           
+150SM  G 1115.4    3  5.0    19                                                 
+150SMF G FLAG=HM                                                                
+150SM  G 1209.5    2  1.1    5                                                  
+150SMF G FLAG=HM                                                                
+150SM  L 2289.5    6  3+,4+                                                     
+150SMX L XREF=H                                                                 
+150SM  L 2292.2    8  3+,4+                                                     
+150SMX L XREF=FGH                                                               
+150SM cL J$from (n,|g) av res and res.                                          
+150SM  L 2294      5  3-                                                    X   
+150SMX L XREF=Q                                                                 
+150SM  L 2328.1       3-,4-                                                     
+150SMX L XREF=F                                                                 
+150SM  L 2342.0    6  2+,3+,4+                                                  
+150SMX L XREF=GHI(2334)                                                         
+150SM cL J$from (n,|g) res.                                                     
+150SM  L 2360.3    4  3+,4+                                                     
+150SMX L XREF=FGHP                                                              
+150SM cL J$from {+149}Sm(n,|g) res.                                             
+150SM  L 2367.43   8  (3+)                                                  K   
+150SMX L XREF=AFGH(2371.2)I(2372)                                               
+150SM cL $Level fed by primary |g ray in (n,|g) E=th.                           
+150SM cL J$J|p=(3+,4+) in (n,|g) av res, (3+,5+) in |g(|q) aligned, and |<3     
+150SM2cL from |g's to 1-,2+.                                                    
+150SM  G 1201.8    5  7.7    14                                                ?
+150SMF G FLAG=GN                                                                
+150SM  G 2033.46   8  100    7                                                  
+150SMF G FLAG=GN                                                                
+150SM  L 2395.9    4  3+,4+                                                     
+150SMX L XREF=HI(2400)                                                          
+150SM cL E,J$from {+149}Sm(n,|g) E=resonance.                                   
+150SM  L 2433.19   20 10+                                                   Q   
+150SMX L XREF=DFJPT                                                             
+150SM cL E$from (|a,4n|g).                                                      
+150SM cL J$member of g.s. band.                                                 
+150SM  G 200.6     3  7.7       M1+E2     +0.05  20     0.239                   
+150SML G FL=2232.37                                                             
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.203 5$LC=0.0285 11$MC=0.00612 25$NC=0.00139 6$OC=0.000208 6$      
+150SMS G PC=1.29E-5 4$NC+=0.00161 6                                             
+150SM cG M,MR$from internal conversion and |g(|q).                              
+150SM  G 596.3     3  100    4  E2                     0.0081412                
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00676 10$LC=0.001084 16$MC=0.000236 4$NC=5.30E-5 8$OC=7.67E-6 11$ 
+150SMS G PC=3.94E-7 6$NC+=6.11E-5 9                                             
+150SM cG M$from internal conversion and |g(|q).                                 
+150SM  L 2444      10                                                           
+150SMX L XREF=E                                                                 
+150SM  L 2455.5    5  3+                                                       ?
+150SMX L XREF=FGHI(2468)P                                                       
+150SM cL $1963Gr18 see primary |g ray to this level.                            
+150SM cL J$from |g(|q) aligned in (n,|g) E=th.                                  
+150SM  L 2465.3    4  3+,4+                                                     
+150SMX L XREF=H                                                                 
+150SM cL J$from (n,|g) resonance                                                
+150SM  L 2472.4    5  3+,4+                                                     
+150SMX L XREF=FGH                                                               
+150SM cL $1963Gr18 see primary |g ray to this level.                            
+150SM cL J$from (n,|g) av res                                                   
+150SM  L 2480.5    4  3+,4+                                                     
+150SMX L XREF=H                                                                 
+150SM cL J$from (n,|g) res.                                                     
+150SM  L 2482      5  3-                                                    X   
+150SMX L XREF=E(2485)Q                                                          
+150SM  L 2495.6    7  (3)+                                                     ?
+150SMX L XREF=FGH                                                               
+150SM cL $From (n,|g) res and av res                                            
+150SM cL J$from J|p (n,|g) res=3+,4+ and J|p (n,|g) aligned=3+,5+.              
+150SM  L 2507.27   18 (1-,2+)                                               K   
+150SMX L XREF=AH                                                                
+150SM cL $Level placed by energy fitting.                                       
+150SM cL J$from decay of level to known low-lying levels.                       
+150SM  G 848.1     5  5      AP                                                ?
+150SMF G FLAG=GN                                                                
+150SM  G 1340.9    5  21     5                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1436.6    4  100    18                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 1766.7    3  72     LE                                             *   
+150SMF G FLAG=GN                                                                
+150SM  G 2173.7    8  21     8                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 2507.3    6  21     8                                                  
+150SMF G FLAG=GN                                                                
+150SM  L 2507.5    6  3+,4+                                                     
+150SMX L XREF=H                                                                 
+150SM cL E,J$from (n,|g) res.                                                   
+150SM  L 2522.3    6  3+,4+                                                     
+150SMX L XREF=HI                                                                
+150SM cL E,J$from {+149}Sm(n,|g) E=res.                                         
+150SM  L 2529.4    3  1,2+                                                  K   
+150SMX L XREF=A                                                                 
+150SM cL J$from |g's to 0+, 2+                                                  
+150SM  G 1789.8    8  4      2                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 2195.6    6  27     6                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 2529.2    3  100    12                                                 
+150SMF G FLAG=GN                                                                
+150SM  L 2550.57   23 1(-)              11E-3 EV  4                         K   
+150SMX L XREF=AR                                                                
+150SMF L FLAG=Yn                                                                
+150SM cL J$from |g's to 0+, 2+                                                  
+150SM  G 1810.5    6  17     6                                                  
+150SML G FL=740.464                                                             
+150SMF G FLAG=GN                                                                
+150SM  G 2216.5    3  100    17                                                 
+150SML G FL=333.955                                                             
+150SMF G FLAG=GN                                                                
+150SM  G 2550.5    5  51     11                                                 
+150SML G FL=0.0                                                                 
+150SMF G FLAG=GN                                                                
+150SM  L 2556.0    6  3+,4+                                                     
+150SMX L XREF=H                                                                 
+150SM cL E,J$from {+149}Sm(n,|g) res                                            
+150SM  L 2565.3    7  3+,4+                                                     
+150SMX L XREF=H                                                                 
+150SM cL E,J$from {+149}Sm(n,|g) res                                            
+150SM  L 2575.3    7  3+,4+                                                    ?
+150SMX L XREF=EGHI                                                              
+150SM cL $1963Gr18 see primary |g ray to this level from 4-.                    
+150SM cL J$from {+149}Sm(n,|g) res                                              
+150SM  L 2587.3    5  3+,4+                                                    ?
+150SMX L XREF=GH                                                                
+150SM cL $1963Gr18 see primary |g ray to this level from 4-.                    
+150SM cL J$from {+149}Sm(n,|g) res.                                             
+150SM  L 2589.12   20 (8-)                                                  S   
+150SMX L XREF=J                                                                 
+150SMF L FLAG=B                                                                 
+150SM  G 752.1     3  100       M2                      0.0213                  
+150SML G FL=1837.03                                                             
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.0179 3$LC=0.00263 4$MC=0.000569 8$NC=0.0001291 19$OC=1.93E-5 3$   
+150SMS G PC=1.193E-6 17$NC+=0.0001497 21                                        
+150SM  G 824.3     3  21                                                        
+150SML G FL=1764.89                                                             
+150SMF G FLAG=J                                                                 
+150SM  L 2602.5    4  (1+,2,3)                                              K   
+150SMX L XREF=A                                                                 
+150SM cL J$|g's to 1 and 3+.                                                    
+150SM  G 532.3     8  19     10                                             *  ?
+150SMF G FLAG=GN                                                                
+150SM  G 889.2     5  100    19                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 1097.1    10 24     10                                                 
+150SMF G FLAG=GN                                                                
+150SM  L 2612      8                                                           ?
+150SMX L XREF=GI(2624)                                                          
+150SM  L 2627      5  5-                                                    X   
+150SMX L XREF=EQ                                                                
+150SM  L 2655      7  (3,5)                                                    ?
+150SMX L XREF=EGI                                                               
+150SM cL J$from |g(|q) aligned in (n,|g) E=th.                                  
+150SM  L 2665      5  5-                                                    X   
+150SMX L XREF=Q                                                                 
+150SM  L 2668.8    5  1(-)              26E-3 EV  5                         Y   
+150SMX L XREF=R                                                                 
+150SMF L FLAG=n                                                                 
+150SM  L 2679.6    3  3                                                     K   
+150SMX L XREF=AG                                                                
+150SM cL J$|g's to 2+ and 4+, primary |g from 4- in (n,|g), gamma from 1(-)     
+150SM  G 1485.6    8  64     18                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 1906.3    6  100    18                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 2679.5    6  64     LE                                             *  ?
+150SMF G FLAG=GN                                                                
+150SM  L 2701.3    5                                                            
+150SMX L XREF=R                                                                 
+150SM  L 2715      4  3-                                                    X   
+150SMX L XREF=GIQ                                                               
+150SM  L 2731      9                                                           ?
+150SMX L XREF=GR(2725.4)                                                        
+150SM  L 2744.35   22 11-                                                   R   
+150SMX L XREF=DIJT                                                              
+150SMF L FLAG=W                                                                 
+150SM  G 311.23    17 77        E1(+M2)   -0.1   GE     0.16  15                
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.13 12$LC=0.022 21$MC=0.005 5$NC=0.0011 11$OC=0.00017 16$          
+150SMS G PC=1.0E-5 9$NC+=0.0013 12                                              
+150SM cG E$weighted average of 311.2 {I2} ({+148}Nd(|a,2n|g) E=26 MeV), 311.3   
+150SM2cG {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                                      
+150SM cG M$from |a(K)exp in (|a,2n|g)                                           
+150SM  G 512.0     3  100       E2                     0.01204                  
+150SML G FL=2232.37                                                             
+150SMF G FLAG=J                                                                 
+150SMX G EKC=0.0075 20                                                          
+150SMS G KC=0.00990 14$LC=0.001678 24$MC=0.000367 6$NC=8.23E-5 12$              
+150SMS G OC=1.180E-5 17$PC=5.71E-7 8$NC+=9.47E-5 14                             
+150SM cG E$weighted average of 511.9 {I5} ({+148}Nd(|a,2n|g) E=26 MeV), 512.1   
+150SM2cG {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                                      
+150SM cG RI$due to the overlap of the 512.1-keV peak with the annihilation      
+150SM2cG peak, the authors obtained this relative intensity from coincidence    
+150SM3cG data.                                                                  
+150SM  L 2754      7                                                           ?
+150SMX L XREF=GR(2761.8)                                                        
+150SM  L 2812.88   10 (1-,2)                                                K   
+150SMX L XREF=AGI(2821)P(2798)                                                  
+150SM cL J$log| {Ift}=6.6 from (1-). |g's to 1- and 3-. Primary |g from 4- in   
+150SM2cL (n,|g).                                                                
+150SM  G 1128.6    8  10     LE                                             *   
+150SMF G FLAG=GN                                                                
+150SM  G 1154.64   16 100    7                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1647.20   25 37     6                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1766.7    3  28     5                                              *   
+150SMF G FLAG=GN                                                                
+150SM  G 2478.6    2  55     6                                                  
+150SMF G FLAG=GN                                                                
+150SM  L 2861      7                                                           ?
+150SMX L XREF=GI(2865)                                                          
+150SM  L 2880.9    5  1(-)              9E-3 EV   5                         Y   
+150SMX L XREF=R                                                                 
+150SMF L FLAG=n                                                                 
+150SM  L 2885.7    5  1(+)              17E-3 EV  4                         Y   
+150SMX L XREF=R                                                                 
+150SMF L FLAG=n                                                                 
+150SM  L 2893.1    3  (1-,2)                                                K   
+150SMX L XREF=AR                                                                
+150SM cL J$log| {Ift}=6.7 from (1-). |g's to 1- and 3-.                         
+150SM  G 633.5     6  32     6                                                  
+150SMF G FLAG=GN                                                                
+150SM  G 1179.6    6  48     10                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 1726.9    6  90     16                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 1821.9    8  16     10                                                 
+150SMF G FLAG=GN                                                                
+150SM  G 2893.1    5  100    16                                                 
+150SMF G FLAG=GN                                                                
+150SM  L 2910.5    21 3-                                                    X   
+150SMX L XREF=GIPQ(2903)                                                        
+150SM  L 2929.24   22 (10)-                                                 S   
+150SMX L XREF=J                                                                 
+150SMF L FLAG=JB                                                                
+150SM cL J$from closed loops of interband and intraband transitions in          
+150SM2cL {+150}Nd(|a,4n|g) E=45 MeV.                                            
+150SM  G 340.2     3  77                                                        
+150SMF G FLAG=J                                                                 
+150SM  G 495.8     3  100    20 E1                     0.004407                 
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00376 6$LC=0.000499 7$MC=0.0001063 15$NC=2.40E-5 4$OC=3.56E-6 5$  
+150SMS G PC=2.14E-7 3$NC+=2.78E-5 4                                             
+150SM cG M$from (|a,4n|g)                                                       
+150SM  G 696.9     3  48                                                        
+150SML G FL=2232.37                                                             
+150SMF G FLAG=J                                                                 
+150SM  L 2937      20                                                          ?
+150SMX L XREF=GI(2934)P(2925)                                                   
+150SM  L 2976.3    5  1(+)              12E-3 EV  3                         Y   
+150SMX L XREF=R                                                                 
+150SMF L FLAG=n                                                                 
+150SM  L 2995.9    3  11(-)                                                     
+150SMX L XREF=GIJ                                                               
+150SM  G 251.6     3  18                                                        
+150SMF G FLAG=J                                                                 
+150SM  G 562.8     3  100                                                       
+150SMF G FLAG=J                                                                 
+150SM  G 763.5     3  18                                                        
+150SML G FL=2232.37                                                             
+150SMF G FLAG=J                                                                 
+150SM  L 3012.30   24                                                       K   
+150SMX L XREF=A                                                                 
+150SM  G 1507.1    6  100    AP                                                ?
+150SM  G 1848.0    10 5      AP                                                ?
+150SM  G 1940.6    3  100    20                                                 
+150SM  G 2679.5    6  70     LE                                             *   
+150SM  L 3023.7    5  2+                                                    K   
+150SMX L XREF=AG(3030)I(3005)P(3015)                                            
+150SM cL J$from |g's to 0+ and 2+ and 4(+).                                     
+150SM  G 761.3     8  100    19                                                 
+150SM  G 1364.1    8  19     6                                                 ?
+150SM  G 2691.0    8  6      5                                                 ?
+150SML G FL=333.955                                                             
+150SM  G 3022.7    20 25     6                                                  
+150SM  L 3038.2    4  1,2+                                                  K   
+150SMX L XREF=AI(3046)                                                          
+150SM cL J$from |b{+-} decay from (1-) state and |g's to 0+ and 2+.             
+150SM  G 225.0     8  17     AP                                                ?
+150SM  G 358.8     8  8.E+1  3                                                  
+150SM  G 2704.6    7  1.0E+2 5                                                  
+150SM  G 3037.8    10 33     17                                                 
+150SM  L 3048.4    3  12+                                                   Q   
+150SMX L XREF=DJT                                                               
+150SM cL J$member of g.s. band                                                  
+150SM  G 303.9     3  10     3  D                                               
+150SMF G FLAG=J                                                                 
+150SM  G 615.1     3  100    6  E2                     0.0075311                
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00627 9$LC=0.000995 14$MC=0.000216 3$NC=4.86E-5 7$OC=7.05E-6 10$  
+150SMS G PC=3.66E-7 6$NC+=5.60E-5 8                                             
+150SM cG M$from (|a,4n|g)                                                       
+150SM  L 3050.0    3  1(-)                                                  K   
+150SMX L XREF=AG(3050.1)QR                                                      
+150SMF L FLAG=Y                                                                 
+150SM  G 237.4     6  100    17                                                 
+150SM  G 499.4     10 33     AP                                                 
+150SM  G 542.9     8  1.0E+2 3                                                  
+150SML G FL=2507.27                                                             
+150SM  G 2003.4    10 7.E+1  3                                                  
+150SM  G 2716.1    8  17     8                                                  
+150SM  G 3049.7    10 33     17                                                 
+150SM  L 3080.9    4  1(+)                                                  K   
+150SMX L XREF=AG(3080.5)I(3088)R                                                
+150SMF L FLAG=Y                                                                 
+150SM  G 572.8     8  18     AP                                                ?
+150SML G FL=2507.27                                                             
+150SM  G 1915.9    6  100    18                                                ?
+150SM  G 3079.8    10 18     9                                                  
+150SM  L 3089.4    3  1,2+                                                  K   
+150SMX L XREF=AI(3104)                                                          
+150SM cL J$from |b{+-} decay from (1-) state and |g's to 0+ and 2+.             
+150SM  G 276.5     5  1.0E+2 4                                                  
+150SM  G 1128.6    8  71     14                                             *  ?
+150SML G FL=1963.72                                                             
+150SM  G 1670.7    5  93     14                                                 
+150SM  G 1833.3    10 29     21                                                 
+150SM  G 3090.5    10 7                                                         
+150SM  L 3113.2    5  1(+)                                                  Y   
+150SMX L XREF=R                                                                 
+150SM  L 3137.6    3  (1,2)                                                 K   
+150SMX L XREF=AGI(3135)                                                         
+150SM cL J$from |b{+-} decay from (1-) state and |g's to 0+,2+.                 
+150SM  G 1350.7    5  100    15                                                 
+150SM  G 2804.2    5  54     23                                                 
+150SM  G 3137.3    10 2      AP                                                 
+150SM  L 3182      6                                                           ?
+150SMX L XREF=GI                                                                
+150SM  L 3212.5    4  1(-)                                                  K   
+150SMX L XREF=AIR                                                               
+150SMF L FLAG=Y                                                                 
+150SM  G 532.3     8  36     LE                                             *   
+150SM  G 1499.6    6  100    18                                                 
+150SM  G 2017.8    8  55     18                                                 
+150SM  G 2878.7    8  36     18                                                 
+150SM  L 3226      7                                                           ?
+150SMX L XREF=G                                                                 
+150SM  L 3238.8    5                                                            
+150SMX L XREF=R                                                                 
+150SM  L 3244.7    5                                                           ?
+150SMX L XREF=GIR                                                               
+150SM  L 3258.3    5  1(-)              28E-3 EV  10                        Y   
+150SMX L XREF=R                                                                 
+150SMF L FLAG=n                                                                 
+150SM  L 3276      7                                                           ?
+150SMX L XREF=GI                                                                
+150SM  L 3293.3    3  13-                                                   R   
+150SMX L XREF=DJT                                                               
+150SMF L FLAG=W                                                                 
+150SM  G 244.7     3  23        D                                               
+150SMF G FLAG=J                                                                 
+150SM cG RI$intensity obtained from coincidence data.                           
+150SM  G 549.4     3  100       E2                     0.01002                  
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00828 12$LC=0.001366 20$MC=0.000298 5$NC=6.69E-5 10$              
+150SMS G OC=9.64E-6 14$PC=4.80E-7 7$NC+=7.70E-5 11                              
+150SM cG E$weighted average of 549.0 {I5} ({+148}Nd(|a,2n|g) E=26 MeV), 549.5   
+150SM2cG {I3} ({+150}Nd(|a,4n|g) E=45 MeV)                                      
+150SM cG M$from (|a,4n|g).                                                      
+150SM  L 3322.9    5  1(+)              21E-3 EV  4                         Y   
+150SMX L XREF=GIR                                                               
+150SMF L FLAG=n                                                                 
+150SM  L 3347      11                                                           
+150SMX L XREF=I                                                                 
+150SM  L 3366      11                                                           
+150SMX L XREF=I                                                                 
+150SM  L 3384.2    3  (12-)                                                 S  ?
+150SMX L XREF=J                                                                 
+150SMF L FLAG=JB                                                                
+150SM  G 335.9     3  12                                                        
+150SM  G 454.8     3  100                                                      ?
+150SMF G FLAG=J                                                                 
+150SM  L 3389      8                                                           ?
+150SMX L XREF=GI(3404)                                                          
+150SM  L 3416.9       1                 21E-3 EV  8                             
+150SMX L XREF=R                                                                 
+150SM  L 3431      5  1(-)                                                  Y   
+150SMX L XREF=IR                                                                
+150SMF L FLAG=n                                                                 
+150SM  L 3448      8                                                           ?
+150SMX L XREF=GI(3465)                                                          
+150SM  L 3492.2    5  1(-)              97E-3 EV  9                         Y   
+150SMX L XREF=GI(3488)R                                                         
+150SMF L FLAG=n                                                                 
+150SM  L 3522.7    4  (12)                                                  U  ?
+150SMX L XREF=GJ                                                                
+150SMF L FLAG=E                                                                 
+150SM  G 778.4     3  100                                                       
+150SM  L 3528      11                                                           
+150SMX L XREF=I                                                                 
+150SM  L 3566      7                                                           ?
+150SMX L XREF=GI(3556)                                                          
+150SM  L 3592.1    5  1(+)              25E-3 EV  6                         Y   
+150SMX L XREF=GI(3586)R                                                         
+150SMF L FLAG=n                                                                 
+150SM  L 3600.9    5  1(-)              22E-3 EV  12                        Y   
+150SMX L XREF=I(3586)R                                                          
+150SMF L FLAG=n                                                                 
+150SM  L 3611.7    5                                                            
+150SMX L XREF=R                                                                 
+150SM  L 3646.5    21                                                           
+150SMX L XREF=GI                                                                
+150SM  L 3675.9    3  14+                                                   Q   
+150SMX L XREF=IJT                                                               
+150SM cL J$E2 to 12+, member of g.s. band.                                      
+150SM  G 382.4        16        E1                     0.0080812                
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00690 10$LC=0.000926 13$MC=0.000197 3$NC=4.45E-5 7$OC=6.57E-6 10$ 
+150SMS G PC=3.86E-7 6$NC+=5.15E-5 8                                             
+150SM cG M$from (|a,4n|g).                                                      
+150SM  G 627.5     3  100       E2                     0.0071710                
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00597 9$LC=0.000942 14$MC=0.000205 3$NC=4.60E-5 7$OC=6.68E-6 10$  
+150SMS G PC=3.49E-7 5$NC+=5.30E-5 8                                             
+150SM cG M$from (|a,4n|g).                                                      
+150SM  L 3702.0    5  1(-)              78E-3 EV  16                        Y   
+150SMX L XREF=GI(3688)R                                                         
+150SMF L FLAG=n                                                                 
+150SM  L 3730      6                                                           ?
+150SMX L XREF=GI(3740)                                                          
+150SM  L 3753      7                                                           ?
+150SMX L XREF=G                                                                 
+150SM  L 3777      7                                                            
+150SMX L XREF=GI(3780)R(3768.7)                                                 
+150SM  L 3790.2    5  1(-)              65E-3 EV  12                        Y   
+150SMX L XREF=R                                                                 
+150SMF L FLAG=n                                                                 
+150SM  L 3835.0    3  14+                                                   T   
+150SMX L XREF=GIJT                                                              
+150SM  G 541.8     3  100       E1                     0.003605                 
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00309 5$LC=0.000407 6$MC=8.68E-5 13$NC=1.96E-5 3$OC=2.91E-6 4$    
+150SMS G PC=1.758E-7 25$NC+=2.27E-5 4                                           
+150SM  G 786.4     3  20                                                        
+150SMF G FLAG=J                                                                 
+150SM  L 3876      7                                                           ?
+150SMX L XREF=GI(3867)                                                          
+150SM  L 3907      7                                                           ?
+150SMX L XREF=GI(3896)                                                          
+150SM  L 3914.1    3  15-                                                   R   
+150SMX L XREF=JT                                                                
+150SMF L FLAG=W                                                                 
+150SM  G 238.3     3  11        E1                      0.0266                  
+150SML G FL=3675.9                                                              
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.0227 4$LC=0.00311 5$MC=0.000664 10$NC=0.0001493 22$OC=2.18E-5 4$  
+150SMS G PC=1.221E-6 18$NC+=0.0001724 25                                        
+150SM cG M$from (|a,4n|g).                                                      
+150SM  G 620.8     3  100       E2                     0.0073611                
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00613 9$LC=0.000970 14$MC=0.000211 3$NC=4.74E-5 7$OC=6.88E-6 10$  
+150SMS G PC=3.58E-7 5$NC+=5.46E-5 8                                             
+150SM cG M$from (|a,4n|g).                                                      
+150SM  L 3925      11                                                           
+150SMX L XREF=I                                                                 
+150SM  L 3941.2    4  (14-)                                                 S   
+150SMX L XREF=GJ                                                                
+150SMF L FLAG=B                                                                 
+150SM  G 557.0     3  100                                                       
+150SMF G FLAG=J                                                                 
+150SM  L 3943      7                                                            
+150SMX L XREF=GI(3948)                                                          
+150SM  L 3970      7                                                           ?
+150SMX L XREF=GI(3976)                                                          
+150SM  L 4000      7                                                           ?
+150SMX L XREF=GI                                                                
+150SM  L 4025.2    4  (14)                                                  U   
+150SMX L XREF=J                                                                 
+150SMF L FLAG=E                                                                 
+150SM  G 190.1     3  28                                                        
+150SM  G 502.5        100                                                       
+150SM  G 732.1        17                                                       ?
+150SM  L 4035.4    5  (1)               19E-3 EV  10                        n   
+150SMX L XREF=R                                                                 
+150SM  L 4305.8    4  16+                                                   T   
+150SMX L XREF=JT                                                                
+150SM  G 470.5                                                                  
+150SM  G 630.0     3  100    6  E2                     0.0071010                
+150SML G FL=3675.9                                                              
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00591 9$LC=0.000932 14$MC=0.000202 3$NC=4.55E-5 7$OC=6.61E-6 10$  
+150SMS G PC=3.46E-7 5$NC+=5.25E-5 8                                             
+150SM cG M$from (|a,4n|g).                                                      
+150SM  L 4386.3    3  16+                                                   Q   
+150SMX L XREF=JT                                                                
+150SM  G 472.2     3  88        E1                     0.004917                 
+150SML G FL=3914.1                                                              
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00421 6$LC=0.000559 8$MC=0.0001190 17$NC=2.69E-5 4$OC=3.98E-6 6$  
+150SMS G PC=2.38E-7 4$NC+=3.11E-5 5                                             
+150SM  G 551.2     3  59                                                        
+150SMF G FLAG=J                                                                 
+150SM  G 710.4     3  100       E2                     0.005328                 
+150SML G FL=3675.9                                                              
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00446 7$LC=0.000678 10$MC=0.0001468 21$NC=3.31E-5 5$OC=4.83E-6 7$ 
+150SMS G PC=2.62E-7 4$NC+=3.82E-5 6                                             
+150SM  L 4576.2    5  (16-)                                                 S   
+150SMX L XREF=J                                                                 
+150SMF L FLAG=B                                                                 
+150SM  G 635.0     3  100                                                       
+150SM  L 4605.7    4  17-                                                   R   
+150SMX L XREF=JT                                                                
+150SMF L FLAG=JW                                                                
+150SM  G 219.7                                                                  
+150SM  G 691.6     3  100       E2                     0.005678                 
+150SML G FL=3914.1                                                              
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00474 7$LC=0.000727 11$MC=0.0001575 23$NC=3.55E-5 5$OC=5.17E-6 8$ 
+150SMS G PC=2.79E-7 4$NC+=4.09E-5 6                                             
+150SM cG M$from (|a,4n|g)                                                       
+150SM  L 4612.0    5  (16)                                                  U   
+150SMX L XREF=J                                                                 
+150SMF L FLAG=E                                                                 
+150SM  G 586.8     3  100                                                       
+150SMF G FLAG=J                                                                 
+150SM  L 4929.1    4  18+                                                   T   
+150SMX L XREF=JT                                                                
+150SM  G 323.4     3  20        E1                     0.01218                  
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.01040 15$LC=0.001407 20$MC=0.000300 5$NC=6.76E-5 10$              
+150SMS G OC=9.94E-6 15$PC=5.75E-7 9$NC+=7.81E-5 11                              
+150SM  G 542.7     3  9                                                        ?
+150SMF G FLAG=J                                                                 
+150SM  G 623.3     3  100       E2                     0.0072911                
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00607 9$LC=0.000960 14$MC=0.000208 3$NC=4.69E-5 7$OC=6.80E-6 10$  
+150SMS G PC=3.55E-7 5$NC+=5.40E-5 8                                             
+150SM  L 5046.0    6  (18+)                                                 Q   
+150SMX L XREF=JT                                                                
+150SM  G 439.8                                                                  
+150SM  G 659.5        100                                                       
+150SM  G 739.8                                                                  
+150SM  L 5251.0    6                                                        U  ?
+150SMX L XREF=J                                                                 
+150SMF L FLAG=E                                                                 
+150SM  G 639.0     3  100                                                       
+150SMF G FLAG=J                                                                 
+150SM  L 5276.7    6  (18-)                                                 S   
+150SMX L XREF=J                                                                 
+150SMF L FLAG=B                                                                 
+150SM  G 700.5     3  100                                                       
+150SMF G FLAG=J                                                                 
+150SM  L 5346.1    5  19-                                                   R   
+150SMX L XREF=JT                                                                
+150SMF L FLAG=W                                                                 
+150SM  G 299.0                                                                  
+150SM  G 740.6     3  100       E2                     0.004837                 
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00405 6$LC=0.000610 9$MC=0.0001318 19$NC=2.97E-5 5$OC=4.35E-6 7$  
+150SMS G PC=2.39E-7 4$NC+=3.43E-5 5                                             
+150SM cG M$from (|a,4n|g)                                                       
+150SM  L 5580.9    7  (19-)                                                 s   
+150SMX L XREF=JT                                                                
+150SM  G 651.8        100                                                       
+150SM  G 975.0                                                                  
+150SM  L 5592.7    11 20+                                                   T   
+150SMX L XREF=JT                                                                
+150SM  G 663.6        100       E2                     0.006269                 
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00523 8$LC=0.000811 12$MC=0.0001757 25$NC=3.96E-5 6$OC=5.76E-6 8$ 
+150SMS G PC=3.07E-7 5$NC+=4.56E-5 7                                             
+150SM  L 5739.3    7  (20+)                                                 Q   
+150SMX L XREF=JT                                                                
+150SM  G 393.3                                                                  
+150SM  G 693.2        100                                                       
+150SM  L 5937.0    8  (21-)                                                 s   
+150SMX L XREF=T                                                                 
+150SM  G 197.8                                                                  
+150SM  G 355.9                                                                  
+150SM  G 591.0                                                                  
+150SM  L 6021.7    7  (20-)                                                 S  ?
+150SMX L XREF=J                                                                 
+150SMF L FLAG=B                                                                 
+150SM  G 745.0     3  100                                                       
+150SMF G FLAG=J                                                                 
+150SM  L 6064.9    8                                                            
+150SMX L XREF=J                                                                 
+150SM  G 484.0     3  100                                                       
+150SMF G FLAG=J                                                                 
+150SM  L 6106.4    8  (21-)                                                 R  ?
+150SMX L XREF=JT                                                                
+150SMF L FLAG=W                                                                 
+150SM  G 367.0                                                                  
+150SM  G 760.3        100       E2                     0.004547                 
+150SMF G FLAG=J                                                                 
+150SMS G KC=0.00382 6$LC=0.000571 8$MC=0.0001233 18$NC=2.78E-5 4$OC=4.07E-6 6$  
+150SMS G PC=2.25E-7 4$NC+=3.21E-5 5                                             
+150SM  L 6308.3    15 (22+)                                                 T   
+150SMX L XREF=T                                                                 
+150SM  G 715.6        100                                                       
+150SM  L 6420.4    13 (23-)                                                 s   
+150SMX L XREF=T                                                                 
+150SM  G 483.4        100                                                       
+150SM  L 6421.0    13                                                           
+150SMX L XREF=J                                                                 
+150SM  G 356.1        100                                                       
+150SMF G FLAG=J                                                                 
+150SM  L 6448.9    10 (22+)                                                 Q   
+150SMX L XREF=T                                                                 
+150SM  G 342.6                                                                  
+150SM  G 709.5                                                                  
+150SM  L 7057.9    16 (25-)                                                 s   
+150SMX L XREF=T                                                                 
+150SM  G 637.5        100                                                       
+150SML G FL=6420.4                                                              
+150SM  L 7068.3    18 (24+)                                                 T   
+150SMX L XREF=T                                                                 
+150SM  G 760.0        100                                                       
+150SM  L 7837.5    20 (26+)                                                 T   
+150SMX L XREF=T                                                                 
+150SM  G 769.2        100                                                       
+150SM  L 7854.1    19 (27-)                                                 s   
+150SMX L XREF=T                                                                 
+150SM  G 796.2                                                                  
+150SM  L 7986.4    18 3-,4-                                                     
+150SMX L XREF=F                                                                 
+150SM  L 8586.9    23 (28+)                                                 T   
+150SMX L XREF=T                                                                 
+150SM  G 749.4        100                                                       
+150SM  L 8760.9    21 (29-)                                                 s   
+150SMX L XREF=T                                                                 
+150SM  G 906.8        100                                                       
+150SM  L 9736.9    24 (31-)                                                 s   
+150SMX L XREF=T                                                                 
+150SM  G 976.0        100                                                       
