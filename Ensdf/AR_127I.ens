@@ -1,0 +1,568 @@
+
+
+127I     ADOPTED LEVELS, GAMMAS                                  11NDS    201108
+127I   H TYP=FUL$AUT=A. HASHIZUME$CIT=NDS 112, 1647 (2011)$CUT=1-Oct-2009$      
+127I   XA127TE B- DECAY (9.35 H)                                                
+127I   XB127TE B- DECAY (106.1 D)                                               
+127I   XC127XE EC DECAY (36.4 D)                                                
+127I   XDCOULOMB EXCITATION                                                     
+127I   XE124SN(6LI,3NG)                                                         
+127I   XF126TE(3HE,D),(A,T)                                                     
+127I   XG126TE(P,P) IAR                                                         
+127I   XH127I(G,G')                                                             
+127I   XI127I(N,N'G)                                                            
+127I   Q -662.3    219144    3 6208    4 -2184   4     2012WA38                 
+127I  cQ $Note: Current evaluation has used the following Q record              
+127I   Q -662.3    20  9144   3   6208  3 -2184   4    2003Au03                 
+127I  c  For IAR see {+126}Te(p,p)                                              
+127I  c  Nuclear structure calculations: 2009To03 (level energies, spin and     
+127I 2c  parities, magnetic moments, B(M1), shell model). 2009Al20 (level       
+127I 3c  energies, spin and parities, B(E2), B(M1), branching ratios, IBFM);    
+127I 4c  others: 2007Ji14, 2004So06, 2002Ma44, 2000Vo12, 1998To02,              
+127I 5c  1996Ar09, 1985Ha34                                                     
+127I  CL BAND(U,A) 2d{-5/2} band                                                
+127I  CL BAND(VBY) 1h{-11/2} band                                               
+127I  CL BAND(W,C) 1g{-9/2} |DJ=1 band                                          
+127I  CL BAND(X,D) 1g{-7/2} band                                                
+127I  cL E         Energies of levels connected by |g's are from a              
+127I 2cL least-squares fit to adopted E(|g's). Others from                      
+127I 3cL ({+3}He,d),(|a,t), unless otherwise noted                              
+127I  cL J(A,B,D)  |DJ=2 |g cascade relation and expected band structure        
+127I  cL J(CY)     |g-cascade relation and expected band structure              
+127I  cL J(Z)      From angular distribution of (p,p')                          
+127I  cL E(G)      L=2 in ({+3}He,d),(d,t) for E=1656 {I6}                      
+127I  cL E(H)      L=(2) in ({+3}He,d),(d,t) for E=1864 {I8}. The 1860 {I4}     
+127I 2cL level decays via a D,Q |g to 5/2+ and a |g to 7/2+                     
+127I  cL E(I)      Existence is not well established. Assignment to the         
+127I 2cL bandhead of the 1g{-9/2} |DJ=1 band is tentative (evaluator).          
+127I  cL T$In comments, g=(2J+1)/[2J(g.s.)+1]                                   
+127I  cG E$From (n,n'|g), unless otherwise noted                                
+127I  cG E(J)$From {+127}Xe |e decay                                            
+127I  cG E(K)$From {+124}Sn({+6}Li,3n|g)                                        
+127I  cG E(L),RI(L)$From Coul. ex.                                              
+127I  cG E(M)$Weighted av from {+127}Te |b{+-} decay (9.35 h) and (36.4 d),     
+127I 2cG Coul. ex., and (n,n'|g)                                                
+127I  cG E(N)$Weighted av from Coul. ex. and (n,n'|g)                           
+127I  cG E(O)$Weighted av from {+127}Te |b{+-} decay (109 d), Coul. ex.,        
+127I 2cG ({+6}Li,3n|g), and (n,n'|g)                                            
+127I  cG E(P)$Weighted av from Coul. ex., ({+6}Li,3n|g) and (n,n'|g)            
+127I  cG M         Multipolarities are based on L-subshell ratios in            
+127I 2cG {+127}Xe |e decay, |g|g(|q) in {+127}Te |b{+-} decay and {+127}Xe |e   
+127I 3cG decay, and |g(|q) in Coul. ex. ({+6}Li,3n|g) and {+127}I(n,n'|g)       
+127I  cG MR        From {+127}Xe |e decay and {+127}Te |b{+-} decay as given by 
+127I 2cG 1977Kr13 and 1980Kr22, unless otherwise noted                          
+127I  PN                                                                     6  
+127I   L 0.0         5/2+              STABLE                               U   
+127I X L XREF=ABCDEFHI                                                          
+127I 2 L MOMM1=+2.813273 84$MOME2=-0.789                                        
+127I  cL MOMM1$nuclear magnetic res and optical spectroscopy; value             
+127I 2cL relative to |m for {+1}H (1989Ra17)                                    
+127I  cL MOME2$atomic beam magnetic res (1989Ra17).                             
+127I 2cL Others: -0.722 {I21} (2004Al08), -0.710 {I10} (2001Bi17), -0.69 {I3}   
+127I 3cL (2000Va33) and -0.689 {I15} (2000Ha64): The value from 1989Ra17 is the 
+127I 4cL result of systematic treatment on wide range of nuclides. However, the 
+127I 6cL recent values are significantly smaller than adopted. The weighted     
+127I 7cL mean of the above 4 values is -0.705 {I8} (evaluator).                 
+127I  cL           <r{+2}>{+1/2}(charge)=4.750 {I4} (2004An14)                  
+127I  cL J         atomic beam J=5/2 (1976Fu06); L=2 in ({+3}He,d),(|a,t)       
+127I  cL           Configuration=(|p 2d{-5/2})                                  
+127I  cL T         The lower limit of half-life due to unusual decay mode is    
+127I 2cL 1.5|*10{+24} y (2005Be17), 1.1|*10{+25} y (1993Ej01); others:          
+127I 3cL (2005Be03), (1999Be61), (1991Ej01), (1991Ke05), (1987Ho02).            
+127I   L     57.608117/2+              1.95 NS   1                          X   
+127I X L XREF=ABCDEFHI                                                          
+127I  cL J         L=4 in ({+3}He,d),(|a,t); M1+E2 |g to 5/2+                   
+127I  cL T         from |b|g(t) in {+127}Te |b{+-} decay (106.1 d) (1976Sa20):  
+127I 2cL others: 1.90 ns {I15} (1969BeZH), 1.93 ns {I7} (1967Sv01), 1.5 ns {I3} 
+127I 3cL (1964Jh02) in {+127}Te |b{+-} decay (106.1 d); 1.86 ns {I11}           
+127I 4cL (1965Ge04), 1.0 ns {I2} (1964Jh02), 2.0 ns {I2} (1962Th12) in          
+127I 5cL {+127}Xe |e decay                                                      
+127I 2 L MOMM1=+2.54 5$MOME2=-0.71                                              
+127I  cL MOMM1,MOME2$Moss; values relative to those of g.s. for {+127}I         
+127I xcL (1989Ra17)                                                             
+127I  cL           Configuration=(|p 1g{-7/2})                                  
+127I   G 57.61     2 100       M1+E2     -0.083  5     3.72                 J   
+127I B G BM1W=0.0123 3$BE2W=17.3 22                                             
+127I S G KC=3.16 5$LC=0.449 8$MC=0.0910 16$NC+=0.0204 4                         
+127I S G NC=0.0183 4$OC=0.00209 4                                               
+127I   L    202.860 83/2+              0.387 NS  9                              
+127I X L XREF=ACDFHI                                                            
+127I  cL J         L=4 in ({+3}He,d),(|a,t), M1+E2 |g from 1/2+                 
+127I  cL T         from |e decay. Others: 0.39 ns {I6} from (|g,|g'), 0.52 ns   
+127I 2cL {I10} from DSA in Coul. ex (1975An19)                                  
+127I 2 L MOMM1=+0.97 7                                                          
+127I  cL MOMM1$integral PAC; value recalculated based on new measurements       
+127I 2cL (2005St24)                                                             
+127I  cL           Configuration=(|p 2d{-3/2})                                  
+127I   G 145.252   10 6.28   19E2                      0.471                J   
+127I B G BE2W=31.0 14                                                           
+127I S G KC=0.357 5$LC=0.0906 13$MC=0.0189 3$NC+=0.00405 6                      
+127I S G NC=0.00369 6$OC=0.000362 5                                             
+127I   G 202.860   10 100    2 M1+E2     +0.52   5     0.1143 22            J   
+127I B G BM1W=0.00444 25$BE2W=20 3                                              
+127I S G KC=0.0965 17$LC=0.0142 5$MC=0.00289 10$NC+=0.000645 20                 
+127I S G NC=0.000580 18$OC=6.50E-5 17                                           
+127I   L 295       4                                                            
+127I X L XREF=F                                                                 
+127I   L    374.992 91/2+              31 PS     8                              
+127I X L XREF=ACDFHI                                                            
+127I  cL J         L=0 in ({+3}He,d),(|a,t)                                     
+127I  cL T         from unweighted av of 15 ps {I3} from (|g,|g'), 34 ps {I3}   
+127I 2cL from B(E2) and 43 ps {I4} from DSA in Coul. ex. Other: |<0.135 ns from 
+127I 3cL (K| x ray)|g(t) and ce|g(t) in |e decay (1968Ko01)                     
+127I  cL           Configuration=(|p 3s{-1/2})                                  
+127I   G 172.132   10100     3 M1+E2     -0.085  6     0.1649 24            J   
+127I B G BM1W=0.075 20$BE2W=12 4                                                
+127I S G KC=0.1419 20$LC=0.0185 3$MC=0.00373 6$NC+=0.000843 12                  
+127I S G NC=0.000754 11$OC=8.82E-5 13                                           
+127I   G 374.991   1267      2 E2                      0.0199               J   
+127I B G BE2W=24 7                                                              
+127I S G KC=0.01671 24$LC=0.00257 4$MC=0.000524 8$NC+=0.0001158 17              
+127I S G NC=0.0001044 15$OC=1.144E-5 16                                         
+127I   L     417.99 65/2+              3.3 PS    3                              
+127I X L XREF=ADFHI                                                             
+127I  cL J         L=2 in ({+3}He,d),(|a,t); linear pol of (|g,|g') is          
+127I 2cL compatible only with J=5/2                                             
+127I  cL T         weighted average of 3.4 ps {I3} from (|g,|g') and 3.0 ps {I6}
+127I 2cL from DSA in Coul. ex.                                                  
+127I  cL BE2       B(E2)=0.0082 {I12} from Coul. ex.                            
+127I   G 215.17    133.91    17(M1+E2)   -0.203  15    0.0910                   
+127I B G BM1W=(0.0210 22)$BE2W=(12.7 23)                                        
+127I S G KC=0.0781 11$LC=0.01031 16$MC=0.00208 4$NC+=0.000469 7                 
+127I S G NC=0.000420 7$OC=4.88E-5 8                                             
+127I  cG MR        weighted av of |d values quoted by 1977Kr13                  
+127I   G 360.32    1013.6    4 (M1+E2)   +0.194  15    0.0233                   
+127I B G BM1W=(0.0156 16)$BE2W=(3.1 6)                                          
+127I S G KC=0.0201 3$LC=0.00256 4$MC=0.000515 8$NC+=0.0001164 17                
+127I S G NC=0.0001042 15$OC=1.222E-5 18                                         
+127I  cG MR        weighted av of |d values quoted by 1977Kr13. Other: +0.33    
+127I 2cG {I9} from (360|g)(57|g)(|q) for A{-2}=0.41 {I5} and |d(57|g)=-0.086    
+127I xcG {I5} (1977Ku17)                                                        
+127I   G 417.95    10100     3 (M1+E2)   -0.087  +5-7  0.01598                  
+127I B G BM1W=(0.076 8)$BE2W=(2.2 4)                                            
+127I S G KC=0.01381 20$LC=0.001741 25$MC=0.000350 5$NC+=7.92E-5 11              
+127I S G NC=7.09E-5 10$OC=8.34E-6 12                                            
+127I  cG MR        absolute value is from T{-1/2} and B(E2) in Coul. ex. Sign   
+127I 2cG is from 1977Kr13                                                       
+127I   L 473       4                                                            
+127I X L XREF=F                                                                 
+127I   L     618.31133/2+              2.1 PS    LT                             
+127I X L XREF=ACDHI                                                             
+127I  cL J         fed directly in |e decay from 1/2+, D+Q |g to 5/2+           
+127I  cL T         from (|g,|g')                                                
+127I   G 560.0     5   3                                                    L  ?
+127I   G 618.41    14100     10M1+E2     0.083   +16-19                     M   
+127I B G BM1W>0.043$BE2W>0.32                                                   
+127I S G CC=0.00609 9$KC=0.00528 8$LC=0.000656 10$MC=0.0001316 19$NC+=2.98E-5 5 
+127I S G NC=2.67E-5 4$OC=3.15E-6 5                                              
+127I  cG MR        from T{-1/2} and B(E2) in Coul. ex.                          
+127I   L     628.69167/2+              1.9 PS    6                              
+127I X L XREF=BDFHI                                                             
+127I  cL J         fed in |b{+-} decay from 11/2-, D+Q |g to 5/2+               
+127I  cL T         from DSA in Coul. ex., other; |43.1 ps in (|g,|g')           
+127I   G 426.1       2.2                                                    L  ?
+127I   G 570.9     5 5.9     12                                                 
+127I  cG RI        other: 8 in Coul. ex.                                        
+127I   G 628.6     2 100     8 (M1+E2)   0.59    11                             
+127I B G BM1W=(0.032 12)$BE2W=(19 9)                                            
+127I S G CC=0.00555 12$KC=0.00479 11$LC=0.000607 11$MC=0.0001219 22$NC+=2.75E-5 
+127I S G NC=2.47E-5 5$OC=2.89E-6 6                                              
+127I  cG MR        from T{-1/2} and B(E2)                                       
+127I   L     650.92 89/2(+)            3.9 PS    4                          U   
+127I X L XREF=BDEHI                                                             
+127I  cL J         D+Q |g to 7/2+; 9/2 supported by |g(|q) in Coul. ex.         
+127I  cL T         from B(E2) in Coul. ex., Other: 1.5 ps {I3} in DSA           
+127I   G 593.31    9 100      8(M1+E2)   -0.23   3                          O   
+127I B G BM1W=(0.023 4)$BE2W=(2.3 7)                                            
+127I S G CC=0.00668 10$KC=0.00578 9$LC=0.000722 11$MC=0.0001448 21$NC+=3.28E-5 5
+127I S G NC=2.93E-5 5$OC=3.46E-6 5                                              
+127I  cG MR        other: -0.4>|d>-1.5 in ({+6}Li,3n|g)                         
+127I   G 650.91    1312.5     5(E2)                                         O   
+127I B G BE2W=3.6 5                                                             
+127I S G CC=0.00423 6$KC=0.00362 5$LC=0.000488 7$MC=9.85E-5 14$NC+=2.21E-5 3    
+127I S G NC=1.98E-5 3$OC=2.26E-6 4                                              
+127I   L     716.50 6(11/2+)           3.0 PS    6                          D   
+127I X L XREF=BDEI                                                              
+127I   G 658.89    6 100       (E2)                                         O   
+127I B G BE2W=40 8                                                              
+127I S G CC=0.00410 6$KC=0.00351 5$LC=0.000472 7$MC=9.53E-5 14$NC+=2.13E-5 3    
+127I S G NC=1.92E-5 3$OC=2.19E-6 3                                              
+127I   L     744.71 89/2(+)            2.79 PS   18                         B   
+127I X L XREF=DEFHI                                                             
+127I  cL J         D+Q |g to 7/2+; 9/2 supported by |g(|q) in Coul. ex.         
+127I  cL T         from B(E2) in Coul. ex., others: 1.6 ps {I3} from DSA,       
+127I 2cL <3.5 ps in (|g,|g')                                                    
+127I   G 116.2     5  1                                                     L  ?
+127I   G 687.10    1729      4 (M1+E2)   +0.30   20                         P   
+127I B G BM1W=0.0050 11$BE2W=0.6 +8-6                                           
+127I S G CC=0.00466 14$KC=0.00403 13$LC=0.000502 13$MC=0.0001006 25$NC+=2.28E-5 
+127I S G NC=2.04E-5 5$OC=2.40E-6 7                                              
+127I  cG MR        from ({+6}Li,3n|g)                                           
+127I   G 744.70    9 100     11(E2)                                         P   
+127I B G BE2W=18 3                                                              
+127I S G CC=0.00302 5$KC=0.00260 4$LC=0.000342 5$MC=6.89E-5 10$NC+=1.548E-5 22  
+127I S G NC=1.388E-5 20$OC=1.596E-6 23                                          
+127I   L 831       4                                                            
+127I X L XREF=F                                                                 
+127I   L 883       4                                                            
+127I X L XREF=F                                                                 
+127I   L     990.94123/2+,5/2+                                                  
+127I X L XREF=DFHI                                                              
+127I  cL J         L=2 in ({+3}He,d),(|a,t)                                     
+127I   G 572.83    19100     8 (M1+E2)   -2.5    15                         N   
+127I S G CC=0.0061 6$KC=0.0052 5$LC=0.00071 4$MC=0.000143 7$NC+=3.21E-5 18      
+127I S G NC=2.88E-5 15$OC=3.28E-6 23                                            
+127I  cG MR        from (n,n'|g) as given by 1980Kr22                           
+127I   G 615.7     4 43      5                                              N   
+127I   G 788.24    1928      4                                              N   
+127I   G 933.2     4 10      3                                              N   
+127I   G 991.1     4 45      5 (M1+E2)   0.29    +13-8                      N   
+127I S G CC=0.00198 5$KC=0.00172 4$LC=0.000211 5$MC=4.23E-5 9$NC+=9.59E-6 20    
+127I S G NC=8.58E-6 18$OC=1.014E-6 22                                           
+127I  cG MR        B(E2) in Coul. ex. and g|G{+2}{-|g0}/|G in (|g,|g')          
+127I   L    1044.10167/2+              0.21 PS   7                              
+127I X L XREF=DFHI                                                              
+127I  cL J         L=4 in ({+3}He,d),(|a,t); |g to 3/2+                         
+127I  cL T         from DSA in Coul. ex.                                        
+127I   G 840.5     4 8       AP                                             N   
+127I   G 986.7     4 48      2 (M1+E2)                                      N   
+127I B G BM1W<0.036$BE2W<25                                                     
+127I S G CC=0.00181 24$KC=0.00157 21$LC=0.000195 23$MC=3.9E-5 5$NC+=8.8E-6 11   
+127I S G NC=7.9E-6 9$OC=9.3E-7 12                                               
+127I   G 1044.21   19100     15(M1+E2)   0.35    5                          N   
+127I B G BM1W=(0.053 20)$BE2W=(4.0 19)                                          
+127I S G CC=0.00175 3$KC=0.001518 24$LC=0.000186 3$MC=3.73E-5 6$NC+=8.45E-6 13  
+127I S G NC=7.56E-6 12$OC=8.93E-7 14                                            
+127I  cG MR        from T{-1/2} and B(E2) in Coul. ex.                          
+127I   L    1094.37123/2+,5/2+         0.21 PS   7                              
+127I X L XREF=DFHI                                                              
+127I  cL J         L=2 in ({+3}He,d),(|a,t)                                     
+127I  cL T         from DSA in Coul. ex.                                        
+127I   G 465.4     3 16      2                                                  
+127I   G 1037.0    6 18      4                                                  
+127I   G 1094.40   12100     27(M1+E2)   0.151   +17-13                         
+127I B G BM1W=0.06 3$BE2W=0.8 4                                                 
+127I S G CC=0.001606 23$KC=0.001393 20$LC=0.0001703 24$MC=3.41E-5 5$NC+=7.73E-6 
+127I S G NC=6.91E-6 10$OC=8.18E-7 12                                            
+127I  cG MR        B(E2) and g|G{+2}{-|g0}/|G in (|g,|g')                       
+127I   L    1122.76201/2+                                                       
+127I X L XREF=FI                                                                
+127I  cL J         L=0 in ({+3}He,d),(|a,t)                                     
+127I   G 919.9     2 100                                                        
+127I   L    1181.4015(9/2+)                                                     
+127I X L XREF=I                                                                 
+127I  cL J         (E2) |g to 5/2+, D+Q |g to 7/2+                              
+127I   G 763.2     2 62      4 (E2)                                             
+127I S G CC=0.00285 4$KC=0.00245 4$LC=0.000322 5$MC=6.47E-5 9$NC+=1.454E-5 21   
+127I S G NC=1.304E-5 19$OC=1.501E-6 21                                          
+127I   G 1124.0    2 100     9 D+Q                                              
+127I   L    1218.4517(7/2+)                                                     
+127I X L XREF=I                                                                 
+127I  cL J         (E2) |g to 3/2+, D+Q |g to 5/2+                              
+127I   G 1015.7    3 74      5 (E2)                                             
+127I S G CC=0.001480 21$KC=0.001279 18$LC=0.0001619 23$MC=3.25E-5 5$NC+=7.32E-6 
+127I S G NC=6.56E-6 10$OC=7.64E-7 11                                            
+127I   G 1218.4    2 100     7 D+Q                                              
+127I   L    1228.9120                                                           
+127I X L XREF=HI                                                                
+127I   G 1228.9    2 100                                                        
+127I   L    1235.0713(11/2)-                                                V   
+127I X L XREF=EFI                                                               
+127I  cL J         L=5 in ({+3}He,d),(|a,t); syst of the negative-parity states 
+127I 2cL in lighter odd I isotopes                                              
+127I   G 490.36    10100       (E1+M2)                  0.019 17                
+127I S G KC=0.016 14$LC=0.0022 20$MC=0.0005 4$NC+=0.00010 9                     
+127I S G NC=9.E-5 8$OC=1.1E-5 10                                                
+127I   L     1266.6 3(13/2+)                                                A   
+127I X L XREF=E                                                                 
+127I   G 550.1     3 100     9 D+Q       -0.40   15                         K   
+127I  cG MR        from ({+6}Li,3n|g)                                           
+127I   G 615.5     1063      6 Q                                            K   
+127I   L    1274.9710(7/2)+                                                     
+127I X L XREF=FHI                                                               
+127I  cL J         L=4 in ({+3}He,d),(|a,t); (E2) |g to 3/2+                    
+127I   G 529.7     7 20      5                                                  
+127I   G 857.2     2 39      5                                                  
+127I   G 1071.95   12100     8 (E2)                                             
+127I S G CC=0.001318 19$KC=0.001139 16$LC=0.0001434 20$MC=2.88E-5 4$NC+=6.49E-6 
+127I S G NC=5.81E-6 9$OC=6.77E-7 10                                             
+127I   G 1275.2    2 29      7 (E2)                                             
+127I S G CC=0.000934 13$KC=0.000794 12$LC=9.84E-5 14$MC=1.97E-5 3$NC+=2.22E-5 4 
+127I S G NC=3.99E-6 6$OC=4.67E-7 7$IPC=1.77E-5 3                                
+127I   L 1319      6 (7/2+,9/2+)                                                
+127I X L XREF=F                                                                 
+127I  cL J         L=(4) in ({+3}He,d),(|a,t)                                   
+127I   L 1342      6 (7/2+,9/2+)                                                
+127I X L XREF=F                                                                 
+127I  cL J         L=(4) in ({+3}He,d),(|a,t)                                   
+127I   L     1350.2 4(9/2+)                                                 W   
+127I X L XREF=EI                                                                
+127I 2 L FLAG=I                                                                 
+127I  cL J         |g to 7/2+, syst of the |DJ=1 bands in lighter odd I         
+127I 2cL isotopes                                                               
+127I   G 1292.6    4 100                                                        
+127I   L    1363.9720                                                           
+127I X L XREF=I                                                                 
+127I   G 1306.4    2 100     8                                                  
+127I   G 1362.8      22      LT                                                 
+127I 2 G FL=0.0                                                                 
+127I  cG E         complex peak                                                 
+127I   L 1375      6                                                            
+127I X L XREF=F                                                                 
+127I   L    1401.82133/2+,5/2+                                                  
+127I X L XREF=FHI                                                               
+127I  cL J         L=2 in ({+3}He,d),(|a,t)                                     
+127I   G 783.7     2 100     11D,Q                                              
+127I   G 1025.8    4 37      11                                                 
+127I   G 1198.8    4 26      8                                                  
+127I   G 1345.4    4 34      11                                                 
+127I   G 1401.6    2 97      16(M1+E2)                                          
+127I S G CC=0.00089 9$KC=0.00073 8$LC=9.0E-5 9$MC=1.79E-5 18$NC+=5.05E-5 13     
+127I S G NC=3.6E-6 4$OC=4.3E-7 5$IPC=4.64E-5 16                                 
+127I   L    1413.2015(9/2+)            0.64 PS   LT                             
+127I X L XREF=HI                                                                
+127I  cL J         (E2) |g to 5/2+                                              
+127I  cL T         from (|g,|g')                                                
+127I   G 995.0     2 93      9                                                  
+127I   G 1413.4    2 100     14(E2)                                             
+127I B G BE2W>2.1                                                               
+127I S G CC=0.000797 12$KC=0.000647 9$LC=7.95E-5 12$MC=1.591E-5 23$NC+=5.50E-5 8
+127I S G NC=3.22E-6 5$OC=3.78E-7 6$IPC=5.14E-5 8                                
+127I   L 1442.9    121/2+,3/2+,5/2+                                             
+127I X L XREF=FI                                                                
+127I  cL E         doublet in ({+3}He,d),(|a,t)                                 
+127I  cL J         from L=0+2 in ({+3}He,d),(|a,t)                              
+127I   G 1442.9    12100                                                       ?
+127I   L     1480.0 3(15/2+)                                                D   
+127I X L XREF=E                                                                 
+127I   G 763.5     3 100       (E2)                                         K   
+127I S G CC=0.00285 4$KC=0.00245 4$LC=0.000321 5$MC=6.47E-5 9$NC+=1.453E-5 21   
+127I S G NC=1.303E-5 19$OC=1.499E-6 21                                          
+127I   L 1507      6 3/2+,5/2+                                                  
+127I X L XREF=F                                                                 
+127I  cL J         L=2 in ({+3}He,d)                                            
+127I   L    1516.6515                                                          ?
+127I X L XREF=I                                                                 
+127I   G 1142.1    2 41      4                                                  
+127I   G 1516.2    2 100     11                                                 
+127I   L     1555.617(1/2+,3/2+,5/2+)                                           
+127I X L XREF=FHI                                                               
+127I  cL E         doublet in ({+3}He,d),(|a,t)                                 
+127I  cL J         from L=2+(0) in ({+3}He,d),(|a,t)                            
+127I   G 1555.6    17100                                                        
+127I   L 1569      6 7/2+,9/2+                                                  
+127I X L XREF=F                                                                 
+127I  cL J         L=4 in (|a,t)                                                
+127I   L    1654.0821                                                       G   
+127I X L XREF=I                                                                 
+127I   G 909.4     2 100     AP                                                 
+127I   G 1235.5    1018      AP                                                 
+127I   G 1653.1    2012      AP                                                 
+127I   L     1658.6 3 5/2+,3/2+                                             G   
+127I X L XREF=FHI                                                               
+127I  cL J         L=2 in ({+3}He,d),(|a,t)                                     
+127I   G 1601.1    8 46      13                                                 
+127I   G 1658.6    3 100     7                                                  
+127I   L     1675.8 9(11/2+)                                                C   
+127I X L XREF=E                                                                 
+127I   G 325.6     10100                                                    K   
+127I   L 1696      6                                                            
+127I X L XREF=F                                                                 
+127I   L 1719      6                                                            
+127I X L XREF=F                                                                 
+127I   L     1775.5 8                                                           
+127I X L XREF=I                                                                 
+127I   G 1358.0    9 33      17                                                 
+127I   G 1774.3    13100     42                                                 
+127I   L 1792      8 (1/2+)                                                     
+127I X L XREF=F                                                                 
+127I  cL J         L=(0) in ({+3}He,d),(|a,t)                                   
+127I   L 1836      8                                                            
+127I X L XREF=F                                                                 
+127I   L     1860.4 4                                                       H   
+127I X L XREF=F(1864)I                                                          
+127I   G 1802.9    1730      17                                                 
+127I   G 1860.4    4 100     13D,Q                                              
+127I   L 1869.5    9 (3/2+,5/2+)                                            H   
+127I X L XREF=F(1864)HI                                                         
+127I  cL J         L=(2) in ({+3}He,d),(|a,t)                                   
+127I   G 1869.5    9 100                                                        
+127I   L 1873      8                                                            
+127I X L XREF=F                                                                 
+127I   L     1876.7 5(17/2+)                                                A   
+127I X L XREF=E                                                                 
+127I   G 610.1     4 100       (E2)                                         K   
+127I S G CC=0.00500 7$KC=0.00427 6$LC=0.000583 9$MC=0.0001177 17$NC+=2.63E-5 4  
+127I S G NC=2.36E-5 4$OC=2.69E-6 4                                              
+127I   L 1886      8 3/2+,5/2+                                                  
+127I X L XREF=FH(1890)                                                          
+127I  cL E         from (|g,|g')                                                
+127I  cL J         L=2 in ({+3}He,d),(|a,t)                                     
+127I   L     1894.010(15/2)-                                                B   
+127I X L XREF=E                                                                 
+127I   G 658.9     10100       (E2)                                         K   
+127I S G CC=0.00410 6$KC=0.00351 5$LC=0.000472 7$MC=9.53E-5 14$NC+=2.13E-5 4    
+127I S G NC=1.92E-5 3$OC=2.19E-6 4                                              
+127I   L 1909      3 5/2+,7/2,9/2+                                              
+127I X L XREF=H                                                                 
+127I   L 1913      8 (1/2+)                                                     
+127I X L XREF=F                                                                 
+127I  cL J         L=(0) in ({+3}He,d),(|a,t)                                   
+127I   L 1978      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2060      8                                                            
+127I X L XREF=F                                                                 
+127I   L     2072.2 9(13/2+)                                                C   
+127I X L XREF=E                                                                 
+127I   G 396.5     4 100     25                                             K   
+127I   G 722.0     1025      13                                             K   
+127I   L     2075.4 8                                                          ?
+127I X L XREF=I                                                                 
+127I   G 2017        100     39                                                 
+127I  cG E         complex peak                                                 
+127I   G 2076.5    1267      28                                                 
+127I   L 2136      8 (3/2+,5/2+)                                                
+127I X L XREF=F                                                                 
+127I  cL J         L=(2) in ({+3}He,d),(|a,t)                                   
+127I   L 2168      8 (3/2+,5/2+)                                                
+127I X L XREF=F                                                                 
+127I  cL J         L=(2) in ({+3}He,d),(|a,t)                                   
+127I   L 2237      3                                                            
+127I X L XREF=FH                                                                
+127I  cL E         from (|g,|g')                                                
+127I   L 2264      3                                                            
+127I X L XREF=FH                                                                
+127I  cL E         from (|g,|g')                                                
+127I   L 2314      3                                                            
+127I X L XREF=FH                                                                
+127I  cL E         from (|g,|g')                                                
+127I   L 2355      3                                                            
+127I X L XREF=F(2359)H                                                          
+127I  cL E         from (|g,|g')                                                
+127I   L     2360.1 6(19/2+)                                                D   
+127I X L XREF=E                                                                 
+127I   G 880.1     5 100       (E2)                                         K   
+127I S G CC=0.00204 3$KC=0.001757 25$LC=0.000226 4$MC=4.55E-5 7$NC+=1.023E-5 15 
+127I S G NC=9.17E-6 13$OC=1.062E-6 15                                           
+127I   L 2399      3                                                            
+127I X L XREF=FH                                                                
+127I  cL E         from (|g,|g')                                                
+127I   L     2412.3 9(15/2+)                                                C   
+127I X L XREF=E                                                                 
+127I   G 340.1     4 100     25                                             K   
+127I   G 736.0     10 25     13                                             K   
+127I   L 2431      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2456      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2496      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2524      8                                                            
+127I X L XREF=F                                                                 
+127I   L     2545.815(19/2)-                                                B   
+127I X L XREF=E                                                                 
+127I   G 651.8     10100       (E2)                                         K   
+127I 2 G FL=1894.0                                                              
+127I S G CC=0.00421 7$KC=0.00361 6$LC=0.000486 8$MC=9.81E-5 15$NC+=2.20E-5 4    
+127I S G NC=1.97E-5 3$OC=2.25E-6 4                                              
+127I   L 2611      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2641      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2689      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2735      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2752      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2792      8                                                            
+127I X L XREF=F                                                                 
+127I   L     2810.212(21/2+)                                                A   
+127I X L XREF=E                                                                 
+127I   G 933.5     10100       (E2)                                         K   
+127I 2 G FL=1876.7                                                              
+127I S G CC=0.00178 3$KC=0.001539 22$LC=0.000197 3$MC=3.95E-5 6$NC+=8.90E-6 13  
+127I S G NC=7.97E-6 12$OC=9.25E-7 14                                            
+127I   L 2816      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2849      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2894      8                                                            
+127I X L XREF=F                                                                 
+127I   L 2947      8                                                            
+127I X L XREF=F                                                                 
+127I   L     2975.818(23/2)-                                                B   
+127I X L XREF=E                                                                 
+127I   G 430.0     10100       (E2)                    0.0132121            K   
+127I S G KC=0.01115 18$LC=0.00165 3$MC=0.000335 6$NC+=7.44E-5 12                
+127I S G NC=6.69E-5 11$OC=7.42E-6 12                                            
+127I   L 2997      8                                                            
+127I X L XREF=F                                                                 
+127I   L 3010      8                                                            
+127I X L XREF=F                                                                 
+127I   L 3102      8                                                            
+127I X L XREF=F                                                                 
+127I   L 3126      8                                                            
+127I X L XREF=F                                                                 
+127I   L 3218      8                                                            
+127I X L XREF=F                                                                 
+127I   L 3283      8                                                            
+127I X L XREF=F                                                                 
+127I   L 3335      8                                                            
+127I X L XREF=F                                                                 
+127I   L     3350.318                                                       Y   
+127I X L XREF=E                                                                 
+127I   G 374.5     5 100                                                    K   
+127I   L 3372      8                                                            
+127I X L XREF=F                                                                 
+127I   L 3404      8                                                            
+127I X L XREF=F                                                                 
+127I   L 7727      203/2+                                                       
+127I X L XREF=G                                                                 
+127I   L 7798      201/2+                                                       
+127I X L XREF=G                                                                 
+127I   L 8507      20(5/2+)                                                     
+127I X L XREF=G                                                                 
+127I   L 8870      20(5/2+)                                                    ?
+127I X L XREF=G                                                                 
+127I   L 9100      20                                                           
+127I X L XREF=G                                                                 
+127I   L 9292      20                                                           
+127I X L XREF=G                                                                 
+127I   L 9410      20                                                           
+127I X L XREF=G                                                                 
+127I   L 9545      20                                                           
+127I X L XREF=G                                                                 
+127I   L 9632      207/2-                                                       
+127I X L XREF=G                                                                 
+127I   L 9705      20                                                           
+127I X L XREF=G                                                                 
+127I   L 9740      207/2-                                                   Z   
+127I X L XREF=G                                                                 
+127I   L 9847      207/2-                                                   Z   
+127I X L XREF=G                                                                 
+127I   L 9903      20                                                       Z   
+127I X L XREF=G                                                                 
+127I   L 10083     20                                                          ?
+127I X L XREF=G                                                                 
+127I   L 10150     20(3/2-)                                                 Z   
+127I X L XREF=G                                                                 
+127I   L 10347     201/2-                                                       
+127I X L XREF=G                                                                 
+127I   L 10423     20                                                           
+127I X L XREF=G                                                                 
+127I   L 10518     20                                                          ?
+127I X L XREF=G                                                                 
+127I   L 10780     20                                                           
+127I X L XREF=G                                                                 
+127I   L 11142     203/2-                                                       
+127I X L XREF=G                                                                 
+127I   L 11421     20                                                           
+127I X L XREF=G                                                                 
+127I   L 11885     20                                                           
+127I X L XREF=G                                                                 
+127I   L 12193     20                                                           
+127I X L XREF=G                                                                 
+
+
+
