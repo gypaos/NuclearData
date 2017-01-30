@@ -1,0 +1,271 @@
+  8BE    ADOPTED LEVELS, GAMMAS                                  04NP     200505
+  8BE  H TYP=ERR$COM=ADDED COMMENT TO WIDTHG FOR 3010 AND 11350 KEV LEVELS$     
+  8BE2 H COM=ADDED XREFS FOR 9C B+P DECAY$                                      
+  8BE3 H AUT=J.H. KELLEY$                                                       
+  8BE3 H DAT=10-NOV-2014$                                                       
+  8BE  H TYP=UPD$AUT=J.H. Kelley, J.L. Godwin, C.G. Sheu$                       
+  8BE2 H CIT=ENSDF$                                                             
+  8BE3 H CUT=31-Mar-2004$                                                       
+  8BE4 H COM=Using 2004Ti06, and references cited therein, updated data sets    
+  8BE5 H to generally conform with ENSDF policies and proceedures$              
+  8BE  H TYP=FUL$AUT=D.R. Tilley, J.H. Kelley, J.L. Godwin, D.J Millener et al.$
+  8BE2 H CIT=NP A745, 155 (2004)$CUT=31-Mar-2004$                               
+  8BE  Q -17979.9  1018898.648 17254.404 91.84   4     2012WA38                 
+  8BE cQ $Note: Current evaluation has used the following Q record              
+  8BE  Q -17979.8  1018899.681217255.44 9 91.84   4    2003AU02                 
+  8BE c  See also table 8.10: electromagnetic transitions in {+8}Be (2004Ti06)  
+  8BE2c  and reaction: {+4}He(|a,|a).                                           
+  8BE cG E         From E(level) difference; recoil correction applied          
+  8BE cL E(A)      Giant resonance: see reaction {+7}Li(p,|g)                   
+  8BE  XA8LI B- DECAY                                                           
+  8BE  XB8B B+ DECAY                                                            
+  8BE  XC4HE(A,G)                                                               
+  8BE  XD4HE(A,A)                                                               
+  8BE  XE6LI(D,G)                                                               
+  8BE  XF6LI(D,N), 6LI(D,P)                                                     
+  8BE  XG6LI(D,A), 6LI(D,PA)                                                    
+  8BE  XH6LI(T,N)                                                               
+  8BE  XI6LI(3HE,P)                                                             
+  8BE  XJ6LI(A,D), 6LI(A,2A)                                                    
+  8BE  XK6LI(6LI,A)                                                             
+  8BE  XL7LI(P,G)                                                               
+  8BE  XM7LI(P,N)                                                               
+  8BE  XN7LI(P,P), 7LI(P,P')                                                    
+  8BE  XO7LI(P,A)                                                               
+  8BE  XP7LI(D,N)                                                               
+  8BE  XQ7LI(3HE,D), 7LI(3HE,DA)                                                
+  8BE  XR7LI(A,T)                                                               
+  8BE  XS7LI(7LI,6HE)                                                           
+  8BE  XT7BE(N,P)                                                               
+  8BE  XU9BE(P,D), 9BE(P,NP)                                                    
+  8BE  XV9BE(D,T)                                                               
+  8BE  XW9BE(3HE,A)                                                             
+  8BE  XX10BE(P,T)                                                              
+  8BE  XY10B(P,3HE)                                                             
+  8BE  XZ10B(D,A)                                                               
+  8BE  Xa11B(3HE,6LI)                                                           
+  8BE  Xb12C(D,6LI)                                                             
+  8BE  Xc12C(3HE,7BE)                                                           
+  8BE  Xd12C(A,2A), 12C(A,8BE)                                                  
+  8BE  XeAG(14N,8BE)                                                            
+  8BE  Xf9C B+P DECAY                                                           
+  8BE  L 0.0         0+                5.57 EV   25                             
+  8BE2 L ISPIN=0 $ %A=100                                                       
+  8BE3 L XREF=ABCDEHIJKLPQRSUVWYZabcdef                                         
+  8BE cL WIDTH     From {+4}He(|a,|a)(1992Wa09).                                
+  8BE2cL Previous value |G=6.8 eV {I17} (1968Be02).                             
+  8BE3cL Other value |G=5.5 eV {I13} {+9}Be(p,d).                               
+  8BE  L 3030      102+                1513 KEV  15                             
+  8BE2 L ISPIN=0 $ %A AP 100                                                    
+  8BE3 L XREF=ABCDEHIJKLPQRSUVWYZabcdf                                          
+  8BE cL E         see 2004Ti06 table 8.11.                                     
+  8BE  G 3029                  E2                                               
+  8BE cG WIDTHG    8.3|*10{+-3} eV (calculated in 1986La05)                     
+  8BE  L 11.35E+3  154+                3.5 MEV   AP                             
+  8BE2 L ISPIN=0 $ %A AP 100                                                    
+  8BE3 L XREF=CDJKPRUVWZbcd                                                     
+  8BE cL E         values in the literature are                                 
+  8BE2cL 11.4 MeV {I3} {+4}He(|a,|a) (1959Br71),                                
+  8BE3cL 11.7 MeV {I4} {+4}He(|a,|a) (1974Ch45),                                
+  8BE4cL 11.3 MeV {I4} {+6}Li(|a,d) (1962Ce01),                                 
+  8BE5cL 11.3 MeV {I2} {+7}Li(d,n)(1995Ar25),                                   
+  8BE6cL 11.40 MeV {I5} {+7}Li(d,n) (1969Ho11) and                              
+  8BE7cL 11.3 MeV {I3} {+9}Be(p,d) (1969Su02),                                  
+  8BE cL WIDTH     Values found in the literature are                           
+  8BE2cL 4.0 MeV {I4} {+4}He(|a,|a) (1974Ch45),                                 
+  8BE3cL |?4.3 MeV {+4}He(|a,|a) (1967Ke10),                                    
+  8BE4cL 3.7 MeV {I2} {+7}Li(d,n)(1995Ar25),                                    
+  8BE5cL 2.8 MeV {I2} {+7}Li(d,n) (1969Ho11).                                   
+  8BE6cL 5.2 MeV {I1} {+9}Be(p,d) (1981Be53)                                    
+  8BE7cL |?2.6 MeV {+9}Be({+3}He,|a) (1966Ca13,1967Ca13) and                    
+  8BE8cL |?4 MeV {+10}B(d,|a) (1966Lo18,1968Lo01).                              
+  8BE  G 11350                 E4                                               
+  8BE cG WIDTHG    0.46|*10{+-3} eV (calculated in 1986La05)                    
+  8BE  L 16626     3 2+                108.1 KEV 5                              
+  8BE2 L ISPIN=0&1 $ %IT LT 2.65E-3 $ %A AP 100                                 
+  8BE3 L XREF=BCDHIKLPQRUVWYZabc                                                
+  8BE cL E         from weighted average of                                     
+  8BE2cL E=16627 keV {I5} {+7}Li({+3}He,d),                                     
+  8BE3cL 16623 keV {I3} {+4}He(|a,|a) and                                       
+  8BE4cL 16630 keV {I3} {+4}He(|a,|a).                                          
+  8BE cL WIDTH     From weighted average of                                     
+  8BE2cL |G=113 keV {I3} {+7}Li({+3}He,d),                                      
+  8BE3cL 90 keV {I5} {+10}B(d,|a),                                              
+  8BE4cL 107.7 keV {I5} {+4}He(|a,|a) and                                       
+  8BE5cL 108.5 keV {I5} {+4}He(|a,|a).                                          
+  8BE  G 13580                 M1                                               
+  8BE2 G WIDTHG LT 2.80 EV 18$BM1W LT 5.3E-2 3                                  
+  8BE  G 16607                 E2                                               
+  8BE2 G WIDTHG=7.0E-2 EV 25$BE2W=7.1E-2 25                                     
+  8BE  L 16922     3 2+                74.0 KEV  4                              
+  8BE2 L ISPIN=0&1 $ %IT LT 3.89E-3 $ %A AP 100                                 
+  8BE3 L XREF=CDHIKLPQRUVWYZabc                                                 
+  8BE cL E         from weighted average of                                     
+  8BE2cL E=16901 keV {I5} {+7}Li({+3}He,d),                                     
+  8BE3cL 16925 keV {I3} {+4}He(|a,|a) and                                       
+  8BE4cL 16918 keV {I3} {+4}He(|a,|a).                                          
+  8BE cL WIDTH     From weighted average of                                     
+  8BE2cL |G=77 keV {I3} {+7}Li({+3}He,d),                                       
+  8BE3cL 70 keV {I5} {+10}B(d,|a),                                              
+  8BE4cL 74.4 keV {I4} {+4}He(|a,|a) and                                        
+  8BE5cL 73.6 keV {I4} {+4}He(|a,|a).                                           
+  8BE  G 13879                 M1                                               
+  8BE2 G WIDTHG LT 2.80 EV 18$BM1W LT 5.3E-2 3                                  
+  8BE  G 16903                 E2                                               
+  8BE2 G WIDTHG=8.4E-2 EV 14$BE2W=7.8E-2 13                                     
+  8BE  L 17640.0   101+                10.7 KEV  5                              
+  8BE2 L ISPIN=1 $ %IT=0.204 $ %P=99.8                                          
+  8BE3 L XREF=EILNPQUVWZac                                                      
+  8BE cL E         from {+7}Li(p,|g)                                            
+  8BE cL WIDTH     From {+7}Li(p,|g)                                            
+  8BE  G 718                   M1                                               
+  8BE2 G WIDTHG=1.3E-3 EV 3$BM1W=0.17 4                                         
+  8BE  G 1014                  M1+E2     -0.014  13                             
+  8BE2 G WIDTHG=3.2E-2 EV 3$BM1W=1.5 2                                          
+  8BE  G 14586                 M1+E2     0.21    4                              
+  8BE2 G WIDTHG= 6.8 EV 13 $BM1W=0.10 2 $BE2W=0.23 10                           
+  8BE  G 17619                 M1                                               
+  8BE2 G WIDTHG=15.0 EV 18 $ BM1W=0.13 2                                        
+  8BE  L 18150     4 1+                138 KEV   6                              
+  8BE2 L ISPIN=0 $ %IT=4.6E-3 $ %P AP 100                                       
+  8BE3 L XREF=ILNPQUVZa                                                         
+  8BE cL E         from weighted average of                                     
+  8BE2cL E=18155 keV {I5} {+7}Li(p,p' |g),                                      
+  8BE3cL 18150 keV {I5} {+10}B(d,|a) and                                        
+  8BE4cL 18144 keV {I5} {+9}Be(d,t).                                            
+  8BE cL WIDTH     From {+10}B(d,|a)                                            
+  8BE  G 1228                  M1                                               
+  8BE2 G WIDTHG=6.2E-2 EV 7$BM1W=1.6 2                                          
+  8BE  G 1524                  M1                                               
+  8BE2 G WIDTHG=7.7E-2 EV 19$BM1W=1.0 3                                         
+  8BE  G 15095                 M1                                               
+  8BE2 G WIDTHG=4.3 EV 12$BM1W=5.9E-2 17                                        
+  8BE  G 18128                 M1                                               
+  8BE2 G WIDTHG=1.9 EV 4 $BM1W=1.5E-2 3                                         
+  8BE  L 18910       2-                122 KEV                                  
+  8BE2 L %IT=2.2E-4 $ %N=? $ %P=?                                               
+  8BE3 L XREF=ILMNPT                                                            
+  8BE cL WIDTH     From R-matrix fit to {+7}Be(n,p), (n,|a) and (n,|a|g) data.  
+  8BE2cL Other values are |G=131 keV {I44} {+7}Li(p,|g),                        
+  8BE3cL 50 keV {I20} {+7}Li(p,n) and                                           
+  8BE4cL 48 keV {I18} {+7}Li(p,p).                                              
+  8BE  G 1988                  E1                                               
+  8BE2 G WIDTHG=9.9E-2 EV 43 $ BE1W=4.6E-2 20                                   
+  8BE  G 2284                  E1                                               
+  8BE2 G WIDTHG=0.17 EV 7 $ BE1W=5.3E-2 20                                      
+  8BE  L 19069     103+                271 KEV   15                             
+  8BE2 L ISPIN=1 $ %IT=3.87E-3 $ %P AP 100                                      
+  8BE3 L XREF=ILNPUV                                                            
+  8BE cL ISPIN     Tentative                                                    
+  8BE cL E         from weighted average of                                     
+  8BE2cL E=19060 keV {I20} {+7}Li(p,|g) and                                     
+  8BE3cL 19071 keV {I10} {+9}Be(d,t).                                           
+  8BE cL WIDTH     From weighted average of                                     
+  8BE2cL |G=271 keV {I17} {+7}Li(p,|g) and                                      
+  8BE3cL 270 keV {I30} {+9}Be(d,t).                                             
+  8BE  G 16013                 M1                                               
+  8BE2 G WIDTHG=10.5 EV$BM1W=0.122                                              
+  8BE  L 19235     103+                227 KEV   16                             
+  8BE2 L ISPIN=0 $ %N AP 50 $ %P AP 50                                          
+  8BE3 L XREF=MNPTUVWZe                                                         
+  8BE cL ISPIN     Tentative                                                    
+  8BE cL E         from weighted average of                                     
+  8BE2cL E=19220 keV {I30} {+9}Be({+3}He,|a),                                   
+  8BE3cL 19260 keV {I30} {+9}Be(d,t) and                                        
+  8BE4cL 19234 keV {I12} Ag({+14}N,{+8}Be).                                     
+  8BE cL WIDTH     From weighted average of                                     
+  8BE2cL |G=208 keV {I30} {+9}Be(p,d),                                          
+  8BE3cL 265 keV {I30} {+9}Be({+3}He,|a),                                       
+  8BE4cL 220 keV {I30} {+9}Be(d,t) and                                          
+  8BE5cL 210 keV {I35} Ag({+14}N,{+8}Be).                                       
+  8BE cL           Branching ratio from {+7}Li(p,n)                             
+  8BE  L 19400       1-                645 KEV   AP                             
+  8BE2 L %N=? $ %P=?                                                            
+  8BE3 L XREF=IMNU                                                              
+  8BE cL WIDTH     From {+7}Li(p,p),(p,p').                                     
+  8BE  L 19860     504+                0.7 MEV   1                              
+  8BE2 L ISPIN=0 $ %P=30 $ %A=70                                                
+  8BE3 L XREF=DIKORSVWZ                                                         
+  8BE cL           |G|a/|G{-p}=2.3 {I5} {+10}B(d,2|a),                          
+  8BE2cL {+10}B(d,p+{+7}Li)(1992Pu06). Other measurement |G|a/|G=0.96 from      
+  8BExcL {+4}He(|a,|a).                                                         
+  8BE cL E         from {+9}Be(d,t).                                            
+  8BE cL WIDTH     From {+9}Be(d,t).                                            
+  8BE  L 20100       2+                880 KEV   20                             
+  8BE2 L ISPIN=0 $ %N=? $ %P=? $ %A=?                                           
+  8BE3 L XREF=DMNOPSVZ                                                          
+  8BE cL           |G|a/|G{-p}=4.5 {I6} {+10}B(d,|a),{+10}B(d,p)(1992Pu06).     
+  8BE cL WIDTH     From {+7}Li(d,n)                                             
+  8BE  L 20200       0+                720 KEV   20                             
+  8BE2 L ISPIN=0 $ %A AP 50 $ %N=?                                              
+  8BE3 L XREF=DMPZ                                                              
+  8BE cL WIDTH     From {+7}Li(d,n).                                            
+  8BE cL           |G|a/|G|?0.50 {+4}He(|a,|a)                                  
+  8BE  L 20.9E+3     4-                1.6 MEV   2                              
+  8BE2 L %P=?                                                                   
+  8BE3 L XREF=N                                                                 
+  8BE cL WIDTH     From {+7}Li(p,p).                                            
+  8BE  L 21.5E+3     3(+)              1.1 MEV                                  
+  8BE2 L %IT=? $ %N=? $ %P=?                                                    
+  8BE3 L XREF=LMTZ                                                              
+  8BE cL WIDTH     From {+7}Li(p,n).                                            
+  8BE  L 22000       1-                4 MEV     AP                         A   
+  8BE2 L %IT=? $ %P=? $ ISPIN=1                                                 
+  8BE3 L XREF=L                                                                 
+  8BE cL WIDTH     From {+7}Li(p,|g).                                           
+  8BE  L 22.05E+3  10                  270 KEV   70                             
+  8BE2 L XREF=UW                                                                
+  8BE cL E         from {+9}Be({+3}He,|a).                                      
+  8BE cL WIDTH     From {+9}Be({+3}He,|a).                                      
+  8BE  L 22.24E3    2 2+               0.8 MEV   AP                             
+  8BE2 L %N=? $ %P=? $ %D=? $ %A=? $ ISPIN=0                                    
+  8BE3 L XREF=DGMNOZ                                                            
+  8BE cL E         from {+6}Li(d,|a) (1997Cz01).                                
+  8BE cL WIDTH     From {+6}Li(d,|a) (1965Fr02).                                
+  8BE  L 22.63E+3  10                  100 KEV   50                             
+  8BE2 L XREF=KW                                                                
+  8BE cL E         from {+9}Be({+3}He,|a).                                      
+  8BE cL WIDTH     From {+9}Be({+3}He,|a).                                      
+  8BE  L 22.98E+3  10                  230 KEV   50                             
+  8BE2 L XREF=W                                                                 
+  8BE cL E         from {+9}Be({+3}He,|a).                                      
+  8BE cL WIDTH     From {+9}Be({+3}He,|a).                                      
+  8BE  L 24000       (1,2)-            7 MEV     AP                         A   
+  8BE2 L ISPIN=1                                                                
+  8BE2 L %IT=? $ %P=? $ %A=? $ XREF=LOZ                                         
+  8BE cL WIDTH     From {+7}Li(p,|g).                                           
+  8BE  L 25200       2+                                                         
+  8BE2 L ISPIN=0 $ %P=? $ %D=? $ %A=?                                           
+  8BE3 L XREF=DGOZ                                                              
+  8BE  L 25500       4+                                                         
+  8BE2 L %D=? $ %A=? $ ISPIN=0                                                  
+  8BE3 L XREF=DG                                                                
+  8BE cL WIDTH     Broad                                                        
+  8BE  L 27494.1   180+                5.5 KEV   20                             
+  8BE2 L %IT=0.60$ %N=39.4$ %P=6.9$ %D=27.0$ %3H=11.7$ %3HE=6.6$ %A=7.9$ ISPIN=2
+  8BE3 L XREF=EFGX                                                              
+  8BE cL E         from weighted average of                                     
+  8BE2cL E=27492.2 keV {I26} {+10}B(p,{+3}He) (1975Ro01) and                    
+  8BE3cL 27495.8 keV {I24} {+6}Li(d,|g) (1976No07).                             
+  8BE cL WIDTH     From {+6}Li(d,|g).                                           
+  8BE2cL Other values are                                                       
+  8BE2cL |G=10 keV {I3} {+6}Li(d,p),(d,d),(d,|a) (1969Bl14),                    
+  8BE3cL 14.7 keV {I40} {+4}He(|a,|a),(|a,p) (1976Hi04) and                     
+  8BE4cL 12.3 keV {I3} {+10}B(p,{+3}He) (1975Ro01).                             
+  8BE cL E         for parameters of this state see (1979Fr04). However, the sum
+  8BE2cL of the branching ratios given in (1979Fr04) greatly exceeds 100%.      
+  8BE  G 9847.6                M1                                               
+  8BE2 G WIDTHG=21.9 EV 39  $ BM1W=1.10 20                                      
+  8BE cG WIDTHG    From (1979Fr04). Revised from |G{-|g}=24 eV {I3} (1976No07). 
+  8BE  L 28600                                                                 ?
+  8BE2 L %IT=? $ %P=?                                                           
+  8BE3 L XREF=L                                                                 
+  8BE cL WIDTH     Broad                                                        
+  8BE  L 32E3                          1 MEV                                   ?
+  8BE2 L XREF=Z                                                                 
+  8BE cL E         from {+10}B(d,|a) (1993Pa31).                                
+  8BE cL WIDTH     From {+10}B(d,|a) (1993Pa31).                                
+  8BE  L 41E3      AP                                                          ?
+  8BE2 L XREF=G                                                                 
+
+
