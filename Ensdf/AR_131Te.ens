@@ -1,0 +1,1437 @@
+131TE    ADOPTED LEVELS, GAMMAS                                  06NDS    200612
+131TE  H TYP=ERR$AUT=J. Tuli$DAT=3-Jul-2007$COM=Minor typo/syntex fix$          
+131TE  H TYP=FUL$AUT=YU. KHAZOV, I. MITROPOLSKY, A. RODIONOV$                   
+131TE2 H CIT=NDS 107, 2715 (2006)$CUT=17-Jul-2006$                              
+131TE  Q 2231.8    7 5929.38 6 10214   15-4165   10    2012WA38                 
+131TE cQ $Note: Current evaluation has used the following Q record              
+131TE  Q 2234.9    225929.38 6 10207   17-4135   25    2003AU03                 
+131TE c  In this evaluation, as compared with 1994Se10, {+130}Te(n,|g): Reactor 
+131TE2c  Spectrum dataset is dropped, as experimental data (1984Ho18)           
+131TE3c  relate to thermal neutron capture cross-section. Measured              
+131TE4c  three |g's in 1984Ho18 are included in {+130}Te(n,|g) E=th dataset     
+131TE c  Neutron resonance parameters: see 1981MuZQ, 2004BrZU                   
+131TE cL E$From least-squares fit to E|g's (including primary |g's from         
+131TE2cL capture state), except as noted: resulted normalized |h{+2}=1.26       
+131TE cG E(Q)$Weighted average of |b-decay and (n,|g) data                      
+131TE cG E(A),RI(J)$From |b-decay                                               
+131TE cG E$From (n,|g), except as noted                                         
+131TE cG RI$From (n,|g), except as noted. Relative photon branching             
+131TE2cG on each level                                                          
+131TE cG E(D),RI(E)$From IT decay (33.25 h)                                     
+131TE cG E(G)$From IT decay (93 ms)                                             
+131TE cG RI(I)$Normalized to (n,|g)                                             
+131TE cL $The level scheme is based on |b-decay, (n,|g), (d,p), and (t,d) data. 
+131TE2cL The (d,p) data are more reliable than (t,d) ones. The levels at 1036,  
+131TE3cL 1467 and 1853 suggested in 1994Se10 have not been adopted in the       
+131TE4cL present evaluation whereas the level at 2017 has been adopted; see     
+131TE5cL |b{+-} decay data for discussion. Also is not adopted the level at 1400
+131TE6cL suggested in 1994Se10, which was excited in (d,p) (1967Gr21) and (t,d) 
+131TE7cL with L(t,d)=5 (1981Sh21), but was not excited in (n,|g) and (d,p)      
+131TE8cL (2003To08). Apparently, there exist two close levels at 2496 keV,      
+131TE9cL which are excited in |b-decay, in (n,|g) and in (d,p) reactions. One   
+131TEacL of them de-excites by |g's 619, 1553, 1854, 2496 in |b- decay          
+131TEbcL (embedded on the base of energy relations) and another one de-excites  
+131TEdcL by 708, 837, 1230, 1615, 1642, 2200 in (n,|g) and (d,p) (embedded      
+131TEecL because of |g|g coincidences)                                          
+131TE cL J(A)$The assignments are from angular distributions and asymmetries of 
+131TE2cL (d,p), and also (t,d) reactions                                        
+131TE cL J(B)$From decay pattern and primary |g from J|p=1/2+ capture state     
+131TE2cL assuming M1, E1 or E2 multipolarities                                  
+131TE cL T$T{-1/2}(g.s.)=25.0 min {I1} from 1965Wa11; T{-1/2}(182)=33.25 h      
+131TE2cL from 2002Re30. Others: T{-1/2}(g.s.)=25 min {I2}, T{-1/2}(182)=30 h    
+131TE3cL {I2} (1965Sa23); see 1994Se10 for additional references                
+131TE  XA131SB B- DECAY                                                         
+131TE  XB131TE IT DECAY (33.25 H)                                               
+131TE  XF131TE IT DECAY (93 MS)                                                 
+131TE  XC130TE(N,G) E=TH                                                        
+131TE  XD130TE(D,P),(POL D,P)                                                   
+131TE  XE130TE(T,D)                                                             
+131TE PN                                                                     6  
+131TE  L 0.0          3/2+             25.0 M     1                             
+131TEX L XREF=+                                                                 
+131TE cL $Configuration=|nh{-3/2}{+-1}                                          
+131TEF L FLAG=A                                                                 
+131TE cL J$log| {Ift}=7.1 to 877, 1/2+ in {+131}I                               
+131TE2 L %B-=100$MOMM1=0.696 9 (2005St24,1979Ge04)                              
+131TE cL MOMM1$NMR on orientated nuclei; {+125}Te(36-keV state) standard        
+131TE  L 182.258   1811/2-             33.25 H   25                          M  
+131TE2 L %B-=74.1 5$%IT=25.9 5                                                  
+131TE3 L MOMM1=-1.04 4 (2005St24,1975Lh01)                                      
+131TE cL MOMM1$NMR on orientated nuclei; {+125}Te(36-keV state) standard.       
+131TE2cL Other:(-)1.123 {I7} (1998Wh05)                                         
+131TEX L XREF=+                                                                 
+131TEF L FLAG=A                                                                 
+131TE cL $%IT from 2002Re30. Others: of 22.2 % {I16} (1975Ja03), 18.3 % {I12}   
+131TE2cL (1961Be20), 21 % (1955He88)                                            
+131TE cL $Configuration=|nh{-11/2}{+-1}                                         
+131TE  G 182.25    2 100       (M4)                    25.2                     
+131TEF G FLAG=DE                                                                
+131TE cG M$E3,M4 from K/L in IT decay; |DJ|p=4,yes from level scheme            
+131TEB G BM4W=4.59 12                                                           
+131TE  L 296.023   19 1/2+                                                      
+131TEX L XREF=ACDE                                                              
+131TE cL $Configuration=|ns{-1/2}{+-1}                                          
+131TEF L FLAG=A                                                                 
+131TE  G 296.01    3  100      [M1,E2]                 0.038  3                 
+131TEF G FLAG=Q                                                                 
+131TE  L 642.331   16 5/2+                                                      
+131TEX L XREF=ACDE                                                              
+131TEF L FLAG=A                                                                 
+131TE cL J$log| {Ift}=7.16 from 7/2+ to 5/2+                                    
+131TE  G 642.28    2  100                                                       
+131TEF G FLAG=Q                                                                 
+131TE  L 776.90    10                                                           
+131TEX L XREF=A                                                                 
+131TE  G 134.6     1 100                                                        
+131TEF G FLAG=A                                                                 
+131TE  L 802.214   25 (9/2-)                                                    
+131TEX L XREF=CD                                                                
+131TE cL J$from decay pattern and systematics of the odd-Te isotopes            
+131TE  G 619.93    2  100                                                       
+131TE  L 854.396   19 3/2+                                                      
+131TEX L XREF=CDE                                                               
+131TEF L FLAG=A                                                                 
+131TE cL J$L(d,p)=2 in (d,p),(pol d,p); L(t,d)=0 in (t,d) discrepant            
+131TE  G 211.7     5  6.5    30[M1,E2]                 0.104  19                
+131TE  G 558.2     4  10.5   20                                                 
+131TE  G 854.39    2  100    11                                                 
+131TE  L 880.315   23 7/2-                                                      
+131TEX L XREF=CDE                                                               
+131TEF L FLAG=A                                                                 
+131TE  G 698.07    2  100                                                       
+131TE  L 943.43     4 7/2+                                                      
+131TEX L XREF=ACDE                                                              
+131TEF L FLAG=A                                                                 
+131TE  G 301.3     3 5.1     10[M1,E2]                 0.0359 22                
+131TEF G FLAG=AJ                                                                
+131TE  G 943.44    4 100                                                        
+131TEF G FLAG=QJ                                                                
+131TE  L 1014.96   20(13/2-)                                                    
+131TEX L XREF=F                                                                 
+131TE cL $Configuration=|nh{-11/2}~#(2{++} {+130}Te core) from 1998FoZY         
+131TE cL J$E2 |g from (17/2)- level, M1,E2 |g to 11/2-                          
+131TE  G 832.7     2 100       M1,E2                   0.0025 3                 
+131TEF G FLAG=G                                                                 
+131TE2 G EKC=0.0025 8                                                           
+131TE cG M$from IT Decay (93 ms)                                                
+131TE  L 1041.68    8 1/2+                                                      
+131TEX L XREF=CDE                                                               
+131TEF L FLAG=A                                                                 
+131TE  G 1041.68   20 100                                                       
+131TE  L 1050.834  17 3/2+,(5/2+)                                               
+131TEX L XREF=ACD                                                               
+131TE cL J$L(d,p)=(2); |g to 1/2+,3/2+,5/2+ states and from 1/2+ capture state  
+131TE  G 274.26    293.7     LT                                                 
+131TEF G FLAG=AI                                                                
+131TE  G 408.49    1  75.6   7                                                  
+131TE  G 754.89    4  69      6                                                 
+131TE  G 1050.91   4  100    10                                                 
+131TEF G FLAG=Q                                                                 
+131TE  L 1207.14    6 5/2+                                                      
+131TEX L XREF=ACDE                                                              
+131TEF L FLAG=A                                                                 
+131TE  G 352.5     8  1.7    11                                                 
+131TE  G 910.67    18 18.2   11                                                 
+131TEF G FLAG=Q                                                                 
+131TE  G 1207.15   10 100     3                                                 
+131TEF G FLAG=Q                                                                 
+131TE  L 1267.50   11 5/2+,(7/2)+                                               
+131TEX L XREF=ACDE                                                              
+131TE cL J$(7/2+,9/2+) from L(d,p)=(4) (2003To08); 5/2+,7/2+ from L(d,p)=2      
+131TE2cL (1967Gr21) and L(t,p)=2. |=(9/2+) from |g to 3/2+                      
+131TE cL E$1274 {I5} in (t,d)                                                   
+131TE  G 324.12    24 32     10[M1,E2]                 0.0290 12                
+131TEF G FLAG=Q                                                                 
+131TE  G 625.41    21 100    26                                                 
+131TEF G FLAG=Q                                                                 
+131TE  G 1267.58   16 68     11                                                 
+131TEF G FLAG=Q                                                                 
+131TE  L    1398.90 7 (3/2+,5/2+)                                               
+131TEX L XREF=ACDE                                                              
+131TE cL J$from L(d,p)=(2); from decay pattern; L(t,d)=5 contradicts to level   
+131TE2cL scheme                                                                 
+131TE  G 455.59    20 12     6                                                  
+131TE  G 544.3     5  4      3                                                  
+131TE  G 756.7     3  97     24                                                 
+131TE  G 1398.93   17 100    26                                                 
+131TEF G FLAG=Q                                                                 
+131TE  L 1400       5 9/2-,11/2-                                                
+131TEX L XREF=DE                                                                
+131TE cL J$from L(t,d)=5                                                        
+131TE  L 1469.68    8 5/2+                                                      
+131TEX L XREF=ACDE                                                              
+131TEF L FLAG=A                                                                 
+131TE  G 525.87    17 13     3                                                  
+131TE  G 1470.07   26 100    28                                                 
+131TEF G FLAG=Q                                                                 
+131TE  L 1579.7     3(17/2-)           71 PS     20                             
+131TEX L XREF=F                                                                 
+131TE cL J$E3 |g from (23/2)+ state, E2 |g to (13/2)-                           
+131TE cL $Configuration=|nh{-11/2}~#(4{++} {+130}Te core) from 1998FoZY         
+131TE cL T$from IT Decay (93 ms), |g|g(t)                                       
+131TE  G 564.7     2 100       E2                      0.00583                  
+131TE2 G EKC=0.006 2                                                            
+131TEF G FLAG=G                                                                 
+131TEB G BE2W=3.5 10                                                            
+131TE cG M$from IT Decay (93 ms)                                                
+131TE  L 1601.81   22  (3/2,5/2)+                                               
+131TEX L XREF=AD                                                                
+131TE cL J$log| {Ift}=7.0; from decay pattern                                   
+131TE cL E$tentative level in {+130}Te(d,p), ln=(2)                             
+131TE  G 824.91    19100                                                        
+131TEF G FLAG=A                                                                 
+131TE  L 1659.42    4 7/2-                                                      
+131TEX L XREF=CDE                                                               
+131TE cL J$from L(d,p)=3, |=5/2- from |g to 11/2-. L(t,d)-2 discrepant          
+131TE  G 779.28    12 23     13                                                 
+131TE  G 857.15    3  100     7                                                 
+131TE  G 1477.0    7  39     14                                                 
+131TE  L 1669.81    9 (5/2,7/2)+                                                
+131TEX L XREF=ACD                                                               
+131TE cL J$from log| {Ift}=6.73; from decay pattern                             
+131TE cL E$tentative level in {+130}Te(d,p)                                     
+131TE  G 619.8     3  40     20                                                 
+131TE  G 726.32     9 100    20                                                 
+131TEF G FLAG=Q                                                                 
+131TE  G 789.0     5  16      8                                                 
+131TE  G 815.0     8  12      8                                                 
+131TE  L 1678.26    8  1/2,3/2,5/2(+)                                           
+131TEX L XREF=C                                                                 
+131TE cL J$from |g's to states with J|p=1/2+                                    
+131TE  G 636.80    17 29     16                                                 
+131TE  G 823.85    18 29      8                                                 
+131TE  G 1382.1    5  100    14                                                 
+131TE  G 1678.5    3  34     18                                                 
+131TE  L 1683.01    6 1/2(+),3/2,5/2+                                           
+131TEX L XREF=C                                                                 
+131TE cL J$from |g's to states with J|p=5/2+; primary |g from capture state     
+131TE  G 632.03    19 19     6                                                  
+131TE  G 828.59    8  58     4                                                  
+131TE  G 1040.84   10 100    55                                                 
+131TE  G 1683.50   12 137    11                                                ?
+131TE  L    1721.64 6 5/2+                                                      
+131TEX L XREF=ACDE                                                              
+131TE cL J$from L(d,p)=3,2; L(t,d)=2; |p=- contradicts to |g decay              
+131TE  G 515.0     5  24     7                                                  
+131TE  G 1079.58   16 14     3                                                  
+131TE  G 1721.55   7  100    6                                                  
+131TEF G FLAG=Q                                                                 
+131TE  L 1755.94    4 (5/2-)                                                    
+131TEX L XREF=C                                                                 
+131TE cL J$from decay pattern                                                   
+131TE  G 875.61    3  100    13                                                 
+131TE  G 953.71    15 35     11                                                 
+131TE  G 1756.08   17 26      7                                                 
+131TE  L 1781.15    4 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 739.4     3  10      6                                                 
+131TE  G 900.85    3  71      6                                                 
+131TE  G 926.2     5  10      4                                                 
+131TE  G 1485.0    3  100    50                                                 
+131TE  G 1780.89   12 84     30                                                 
+131TE  L 1787.90    5 (5/2-),7/2-                                               
+131TEX L XREF=CDE                                                               
+131TE cL J$from L(d,p)=3 (2003To08) and decay pattern. L(d,p)=1 (1967Gr21),     
+131TE2cL L(t,p)=3 (1981Sh02)                                                    
+131TE  G 907.57    5  100     8                                                 
+131TE  G 985.65    11 31     12                                                 
+131TE  L 1841.9    5  (5/2+,7/2-)                                               
+131TEX L XREF=DE                                                                
+131TEF L FLAG=A                                                                 
+131TE  L 1852.4     6 (7/2,9/2)                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1050.2    6  100                                                       
+131TE  L 1855.78    7 (1/2+,3/2)                                                
+131TEF L FLAG=B                                                                 
+131TEX L XREF=C                                                                 
+131TE  G 457.2     4  12      5                                                 
+131TE  G 804.96    9  52      7                                                 
+131TE  G 813.3     4  10      7                                                 
+131TE  G 1000.9    4  14      5                                                 
+131TE  G 1213.2    4  14      5                                                 
+131TE  G 1855.82   12 100    10                                                 
+131TE  L 1867.00   14 7/2-                                                      
+131TEX L XREF=CDE                                                               
+131TE cL J$7/2-,5/2+ from Ay in (d,p), L(d,p)|=0; |g to (9/2-) suggests         
+131TE2cL J|p|=5/2+; L(t,d)=0 in (t,d) discrepant                                
+131TE  G 986.73    17 100    30                                                 
+131TE  G 1064.69   22 46     15                                                 
+131TE  L 1876.41    9(5/2+,7/2+,9/2+)                                           
+131TEX L XREF=AD                                                                
+131TE cL J$log| {Ift}=5.65; from decay pattern                                  
+131TE cL E$tentative level in {+130}Te(d,p)                                     
+131TE  G 669.00    197.3     12                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 933.09    10100     5                                                  
+131TEF G FLAG=A                                                                 
+131TE  G 1233.76   198.8     17                                                 
+131TEF G FLAG=A                                                                 
+131TE  L 1916.6    5                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 1940.0     4(23/2+)           93 MS     12                          M2 
+131TE2 L %IT=100                                                                
+131TEX L XREF=F                                                                 
+131TE cL $Configuration=|nh{-11/2}~#(7{+-} {+130}Te core) from 1998FoZY         
+131TE cL J$from systematics and decay pattern                                   
+131TE cL T$from |g|g(t) IT Decay (93 ms)                                        
+131TE  G 360.3     2 100       E3                       0.0735                  
+131TE2 G EKC=0.08 2                                                             
+131TEF G FLAG=G                                                                 
+131TE cG M$from IT Decay (93 ms)                                                
+131TEB G BE3W=0.0151 20                                                         
+131TE  L 1951.62    9 1/2+,3/2                                                  
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 229.9     3  15      9                                                 
+131TE  G 744.49    11 46      9                                                 
+131TE  G 900.9     3  28     11                                                 
+131TE  G 909.97    20 13      7                                                 
+131TE  G 1097.4    3  50     20                                                 
+131TE  G 1309.20   24 22      7                                                 
+131TE  G 1951.3    4  100    50                                                 
+131TE  L 2015.41    4 5/2+                                                      
+131TEX L XREF=ACDE                                                              
+131TE cL J$from L(d,p)=2 (2003To08) and log| {Ift}=7.09 from (7/2+) state;      
+131TE2cL L(d,p)=1 (1967Gr21) and (t,d)=(1) discrepant                           
+131TE  G 227.1     3  4       2                                                 
+131TE  G 332.2     7  12      6                                                 
+131TE  G 355.89    5  57     10                                                 
+131TE  G 545.8     5  8      4                                                  
+131TE  G 616.4     5  8      4                                                  
+131TE  G 807.8     3  24     4                                                  
+131TE  G 1135.13   5  55     6                                                  
+131TE  G 1161.8    5  25     8                                                  
+131TE  G 2015.96   29 100    10                                                 
+131TEF G FLAG=Q                                                                 
+131TE  L 2066.96   19(7/2+,9/2+)                                                
+131TEX L XREF=AE                                                                
+131TE cL J$from L(t,d)=(4), log| {Ift}=5.93; from decay pattern                 
+131TE  G 1123.63   19100     9                                                  
+131TEF G FLAG=A                                                                 
+131TE  L    2092.01 5 3/2-                                                      
+131TEX L XREF=CDE                                                               
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 7/2- state                          
+131TE  G 310.9     3  9       4                                                 
+131TE  G 335.9     3  7       4                                                 
+131TE  G 1041.5    7  9       4                                                 
+131TE  G 1211.85   16 33      6                                                 
+131TE  G 1795.94   6  100     4                                                 
+131TE  G 2092.10   10 91     17                                                 
+131TE  L 2147.5    6  3/2+                                                      
+131TEX L XREF=DE                                                                
+131TE  L 2179.8     3 (5/2,7/2)                                                 
+131TEX L XREF=A                                                                 
+131TE cL J$log| {Ift}=6.25; from decay pattern                                  
+131TE  G 456.7     5 63      LE                                                ?
+131TEF G FLAG=A                                                                 
+131TE  G 1538.0    4 21      13                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 2179.2    4 100     15                                                 
+131TEF G FLAG=A                                                                 
+131TE  L 2226.13   14(5/2,7/2,9/2)                                              
+131TEX L XREF=A                                                                 
+131TE cL J$log| {Ift}=6.58; from decay pattern                                  
+131TE  G 159.9     5 77      23                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 958.59    10100     30                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 1284.7    8 85      15                                             &  ?
+131TEF G FLAG=A                                                                 
+131TE  L 2231.08    6 1/2(+),3/2,5/2                                            
+131TEX L XREF=C                                                                 
+131TE cL J$1/2(+),3/2,5/2 from |g to 5/2+ and primary |g from 1/2+ capture state
+131TE  G 1024.1    3  12      6                                                 
+131TE  G 1180.6    4  20      4                                                 
+131TE  G 1187.3    14 14      6                                                 
+131TE  G 1588.48   14 42      6                                                 
+131TE  G 1935.7    6  6       4                                                 
+131TE  G 2231.07   7  100    10                                             &   
+131TE  L 2275.2    5  7/2-                                                      
+131TEX L XREF=DE                                                                
+131TEF L FLAG=A                                                                 
+131TE  L 2330.47   11 5/2-,7/2-                                                 
+131TEX L XREF=CDE                                                               
+131TEF L FLAG=A                                                                 
+131TE  G 670.29    12 52     13                                                ?
+131TEF G FL=1659.42                                                             
+131TE  G 1450.8    5  100    16                                                 
+131TE  G 1528.04   16 100    13                                                 
+131TE  L 2335.50   19 (5/2-)                                                    
+131TEX L XREF=A                                                                 
+131TE cL J$log| {Ift}=6.16; from decay pattern                                  
+131TE  G 866       1 25       5                                                ?
+131TEF G FLAG=A                                                                 
+131TE  G 1284.7    5 28       5                                             &  ?
+131TEF G FLAG=A                                                                 
+131TE  G 1392.0    4 43      15                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 1559.0    4 23      10                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 2335.03   29100      5                                                 
+131TEF G FLAG=A                                                                 
+131TE  L 2373.7     4 5/2,7/2-                                                  
+131TEX L XREF=CDE                                                               
+131TEF L FLAG=A                                                                 
+131TE  G 1492.9    10 33     22                                                 
+131TE  G 1571.6    4  100    60                                                 
+131TE  L 2393.7    6  (3/2+,5/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 2398.53   10 (5/2,7/2)                                                 
+131TEX L XREF=A                                                                 
+131TE cL J$log| {Ift}=5.88; from decay pattern                                  
+131TE  G 1191.9    6 92       8                                             &  ?
+131TEF G FLAG=A                                                                 
+131TE  G 1455.1    1 42      21                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 1756.1    2 100     13                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 2398.6    6 100      8                                                 
+131TEF G FLAG=A                                                                 
+131TE  L 2457.01   10 3/2+                                                      
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1250.8    8  8       4                                                 
+131TE  G 1405.4    10 31     15                                                 
+131TE  G 1414.3    15 17     17                                                 
+131TE  G 1602.9    3  49      8                                                 
+131TE  G 2161.2    7  32     14                                                 
+131TE  G 2456.7    4  100     5                                                 
+131TE  L 2496.49   18 (5/2,7/2)+                                                
+131TEX L XREF=A                                                                 
+131TE cL J$from log| {Ift}=5.66                                                 
+131TE  G 619.78    26 38     7                                                  
+131TEF G FLAG=AJ                                                                
+131TE  G 1553.5    4  13     7                                                  
+131TEF G FLAG=AJ                                                                
+131TE  G 1854.31   29100     13                                                 
+131TEF G FLAG=AJ                                                                
+131TE  G 2496.3    7  16     2                                                  
+131TEF G FLAG=AJ                                                                
+131TE  L 2496.55    8 1/2,3/2,5/2(+)                                            
+131TEX L XREF=CD                                                                
+131TE cL J$from |g to 1/2+                                                      
+131TE  G 708.60    15  35    17                                                 
+131TE  G 837.06    21  39    17                                                 
+131TE  G 1230.1    4   39    17                                                 
+131TE  G 1615.9    3   30    13                                                 
+131TE  G 1642.3    3   87    22                                                 
+131TE  G 2200.56   15 100    17                                                 
+131TE  L 2503.6    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 2512.00    4 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1 and |g to 7/2- state                                   
+131TE  G 419.9     3  0.9     4                                                 
+131TE  G 496.5     3  0.9     4                                                 
+131TE  G 755.4     4  1.1     7                                                 
+131TE  G 829.2     6  2.0     9                                                 
+131TE  G 853.2     5  1.1     7                                                 
+131TE  G 1303.9    6  1.3     7                                                 
+131TE  G 1459.7    9  0.7     4                                                 
+131TE  G 1470.2    3  2.4     7                                                 
+131TE  G 2215.93   5  100     3                                                 
+131TE  G 2512.05   6  72.1    7                                                 
+131TE  L 2544.21    9 (5/2-,7/2+)                                               
+131TEX L XREF=C                                                                 
+131TE cL J$from decay pattern                                                   
+131TE  G 1277.3    6  48     24                                                 
+131TE  G 1663.9    3  76     40                                                 
+131TE  G 1689.4    3  100    20                                                 
+131TE  G 1742.05   9  60     24                                                 
+131TE  G 1901.1    4  32     12                                                 
+131TE  L 2547.64    7 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 791.62    14 40      8                                                 
+131TE  G 1496.78   16 20      6                                                 
+131TE  G 1505.3    6  13      6                                                 
+131TE  G 1905.02   21 38     10                                                 
+131TE  G 2251.5    8  29     15                                                 
+131TE  G 2548.26   21 100    19                                                ?
+131TE  L 2552.06   18 (5/2+)                                                    
+131TEX L XREF=A                                                                 
+131TE cL J$from log| {Ift}=5.61; from decay pattern                             
+131TE  G 1608.8    2 100     20                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 2255.4    4 50       7                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 2551.3    9 27       7                                                 
+131TEF G FLAG=A                                                                 
+131TE  L 2582.534  24 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 490.74    24 0.63   22                                                 
+131TE  G 567.07    5  1.23   22                                                 
+131TE  G 860.7     3  0.30   11                                                 
+131TE  G 1112.84   9  0.86   15                                                 
+131TE  G 1183.65   8  1.12    7                                                 
+131TE  G 1375.1    10 0.15    7                                                 
+131TE  G 1531.66   6  2.24   11                                                 
+131TE  G 1540.5    7  0.52   19                                                 
+131TE  G 1702.45   17 1.49    7                                                 
+131TE  G 1940.4    3  1.4     5                                                 
+131TE  G 2286.48   5  100.0  11                                                 
+131TE  G 2582.58   6  18.17  19                                                 
+131TE  L 2598.94   24(5/2+,7/2+,9/2+)                                           
+131TEX L XREF=A                                                                 
+131TE cL J$from log| {Ift}=5.43; from decay pattern                             
+131TE  G 1331.8    3 69       8                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 1821.2    5 100     19                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 1956.4    5 65      30                                                 
+131TEF G FLAG=A                                                                 
+131TE  L 2662.20   19 (5/2+,7/2+)                                               
+131TEX L XREF=A                                                                 
+131TE cL J$from log| {Ift}=5.61; from decay pattern                             
+131TE  G 326.2     4 100     50                                                 
+131TEF G FLAG=A                                                                 
+131TE  G 1191.9    6 85       8                                             &  ?
+131TEF G FLAG=A                                                                 
+131TE  G 2662.3    2 88       8                                                 
+131TEF G FLAG=A                                                                 
+131TE  L 2671.30   20 1/2,3/2                                                   
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 1629.6    4  33     22                                                 
+131TE  G 1817.3    7  67     22                                                 
+131TE  G 2671.3    3  100    50                                                 
+131TE  L    2706.30 7 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 950.5     3  13      4                                                 
+131TE  G 1665.0    5  20     11                                                 
+131TE  G 2410.10   12 100     9                                                 
+131TE  G 2706.40   20 22      9                                                 
+131TE  L 2754.21    6 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 661.9     3  38      9                                                 
+131TE  G 738.87    15 91     12                                                 
+131TE  G 998.2     4  15      6                                                 
+131TE  G 1071.7    3  35     12                                                 
+131TE  G 1075.99   7  82      9                                                 
+131TE  G 1703.3    7  26     12                                                 
+131TE  G 1873.80   10 100    12                                                 
+131TE  G 2754.0    4  26     15                                                 
+131TE  L 2780.2    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 2788.4    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 2828.8    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 2932.29    8 1/2-                                                      
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 475.33    9  47      7                                                 
+131TE  G 1151.07   8  100    10                                                 
+131TE  G 1890.5    9  50     27                                                 
+131TE  G 2636.21   23 40     10                                                 
+131TE  G 2932.8    4  57     10                                                 
+131TE  L 2980.7    6  (3/2+)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3001.96    3 1/2-                                                      
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 419.44    5  6.41   28                                                 
+131TE  G 490.03    20 2.1     6                                                 
+131TE  G 1951.05   9  20.8   25                                                 
+131TE  G 1960.1    4  2.0     7                                                 
+131TE  G 2147.50   20 3.6     7                                                 
+131TE  G 2705.86   6  100     1                                                 
+131TE  G 3001.87   6  67      7                                                 
+131TE  L 3028.3    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3054.1    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3073.2    5  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3082.8    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3097.0    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3123.7    11                                                           
+131TEX L XREF=D                                                                 
+131TE  L 3142.3    5  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3146.23   18 1/2,3/2,5/2+                                              
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 2291.9    9  100    50                                                 
+131TE  G 3146.0    6  83     70                                                 
+131TE  L     3170.8 3 1/2,3/2,5/2+                                              
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 3170.6    5  100                                                       
+131TE  L 3184.7    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3186.87   14 1/2(+),3/2+,5/2+                                          
+131TEX L XREF=C                                                                 
+131TE cL J$from |g's to states with 5/2+; primary |g from 1/2+ capture state    
+131TE  G 1170.9    4  35     20                                                 
+131TE  G 1405.7    4  35     20                                                 
+131TE  G 2144.1    3  100    25                                                ?
+131TE  G 2332.1    5  35     20                                                 
+131TE  G 2544.3    6  35     20                                                 
+131TE  L 3203.4    6  9/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3209.2    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3239.6    6  9/2-,7/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3262.5    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3274.5    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3291.3    7  7/2-,5/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3301.9    8  5/2+,7/2-                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3311.6    8  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3322.4    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3333.6    7                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3354.0    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3375.6    8  11/2-,9/2+                                                
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3379.2    6  (5/2+)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3404.1    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3417.2    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3425.5    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3437.8    5  (5/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3443.0    6  7/2-,(5/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3458.8    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3469.2    5  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3473.5    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3506.4    6  5/2-                                                      
+131TEF L FLAG=A                                                                 
+131TEX L XREF=D                                                                 
+131TE  L 3507.43    9 1/2(-),3/2,5/2+                                           
+131TEX L XREF=C                                                                 
+131TE cL J$from |g to states with (5/2-); primary |g from 1/2+ capture state    
+131TE  G 1751.51   9  100    11                                                 
+131TE  G 2652.8    5  32     18                                                 
+131TE  G 3507.6    7  50     32                                                 
+131TE  L 3510.7    8  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3518.1    5  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3534.2    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3546.84    7 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 2495.4    3  54      7                                                 
+131TE  G 2504.7    3  34     15                                                 
+131TE  G 2665.0    9  44     15                                                 
+131TE  G 2691.2    9  10      7                                                 
+131TE  G 2903.0    13 7       7                                                 
+131TE  G 3250.9    3  15      5                                                 
+131TE  G 3547.10   23 100    12                                                 
+131TE  L 3552.3    5  7/2+,(9/2-)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3568.26    5 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 861.61    19 14      5                                                 
+131TE  G 1071.80   17 14      6                                                 
+131TEF G FL=2496.55                                                             
+131TE  G 1476.33   13 14      5                                                 
+131TE  G 2097.1    7  15      5                                                 
+131TE  G 2361.1    3  38      8                                                 
+131TE  G 2689.3    10 11      6                                                 
+131TE  G 2713.6    9  14      8                                                 
+131TE  G 2925.64   18 100    11                                                 
+131TE  G 3271.6    8  9       5                                                 
+131TE  G 3568.1    3  38      6                                                 
+131TE  L 3580.1    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3601.76    7 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 1019.4    6  42     21                                                 
+131TE  G 2549.7    5  55     27                                                 
+131TE  G 2746.1    7  27     15                                                 
+131TE  G 2959.28   22 73     27                                                 
+131TE  G 3305.41   19 100     9                                                 
+131TE  G 3602.0    3  85     27                                                 
+131TE  L 3623.72    6 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 868.0     6  21      9                                                 
+131TE  G 917.52    13 28     13                                                 
+131TE  G 1292.7    3  27     15                                                 
+131TE  G 1532.3    5  9       4                                                 
+131TE  G 1608.27   22 30     13                                                 
+131TE  G 2581.8    4  19      6                                                 
+131TE  G 2743.4    6  16      6                                                 
+131TE  G 2768.2    10 6       3                                                 
+131TE  G 3327.4    3  100    12                                                 
+131TE  G 3623.3    5  12      3                                                 
+131TE  L 3630.6    9  (5/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3640.9    8  (7/2-,5/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE cL J$small contribution from {+128}Te(d,p)                                
+131TE  L 3664.1    5  7/2-,(5/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3668.25   10 (1/2,3/2)                                                 
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 2269.7    7  11      4                                                 
+131TE  G 2617.6    6  19      6                                                 
+131TE  G 3025.9    6  19      6                                                 
+131TE  G 3372.4    5  19      6                                                 
+131TE  G 3667.80   24 100    11                                                 
+131TE  L 3668.7    6  7/2-,5/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3672.3    8  7/2-,5/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3689.81    5 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1359.34   16 47     12                                                 
+131TE  G 1737.8    5  59     29                                             &   
+131TE  G 2648.4    9  29     18                                                 
+131TE  G 3393.93   23 100    29                                             @   
+131TE  G 3689.99   10 2.9E2  29                                                 
+131TE  L 3698.26    6 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 1241.0    3  16      4                                                 
+131TE  G 2647.1    7  20     10                                                 
+131TE  G 3055.1    13 10      6                                                 
+131TE  G 3402.4    4  34     10                                                 
+131TE  G 3698.15   13 100    10                                             &   
+131TE  L 3709.5    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3728.1    10                                                           
+131TEX L XREF=D                                                                 
+131TE  L 3737.84   11 (1/2,3/2)                                                 
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 1226.18   23 100    27                                                 
+131TE  G 2530.6    8  54     27                                                 
+131TE  G 2685.9    9  9       9                                                 
+131TE  G 3095.7    5  45     18                                                 
+131TE  G 3442.0    12 9       9                                                 
+131TE  L 3739.1    8  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3750.7    5  3/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3763.42   14 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 3468.6    10 100    78                                                 
+131TE  G 3762.8    11 100    78                                                 
+131TE  L 3771.4    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3776.7    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3803.2    8  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3820.4    10 5/2+,7/2-                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3825.5    13 (1/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3842.0    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3847.4    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3857.8    5  7/2-,(5/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3871.1    10                                                           
+131TEX L XREF=D                                                                 
+131TE  L 3877.4    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3889.8    11 (5/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3895.9    10 5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3904.9    6  5/2+,(7/2-)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3920.2    9                                                            
+131TEX L XREF=D                                                                 
+131TE  L 3922.6    11 5/2-,3/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3934.6    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3938.59    7 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1, |=1/2- from |g to 7/2-                                
+131TE  G 3058.8    13 7       5                                                 
+131TE  G 3642.43   17 100     6                                                 
+131TE  G 3938.81   24 42      5                                                 
+131TE  L 3956.0    7  5/2+,7/2-                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3964.2    6  3/2+,5/2-                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3978.7    10                                                           
+131TEX L XREF=D                                                                 
+131TE  L 3986.98   23 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 3131.9    8  50     22                                                 
+131TE  G 3691.1    4  100    50                                                 
+131TE  G 3986.9    4  83     22                                                 
+131TE  L 3991.4    6  3/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 3996.4    8                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 3998.4    5  (3/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4005.8    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4018.2    5  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4023.6    6  7/2-,5/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4028.36   13 1/2,3/2,(5/2+)                                            
+131TEX L XREF=C                                                                 
+131TE cL J$from |g to 1/2+                                                      
+131TE  G 1515.6    10 100    25                                                 
+131TE  G 3175.0    10 67     33                                                 
+131TE  G 3732.4    8  75     42                                                 
+131TE  G 4028.6    8  75     42                                                 
+131TE  L 4028.5    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4036.63    4 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 1805.10   13 40      4                                             &  ?
+131TE  G 2828.7    12 8.3    42                                                 
+131TE  G 3155.3    7  32      6                                                 
+131TE  G 3181.0    7  14      6                                                 
+131TE  G 3393.93   23 9.7    56                                             @   
+131TE  G 3740.40   14 100     8                                                 
+131TE  G 4036.2    3  15      3                                                 
+131TE  L 4041.9    6  7/2-,5/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4053.7    6  7/2-,5/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4061.18   14 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4060.7    3  100    70                                                 
+131TE  L 4070.41    5 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 2349.2    4  19      8                                                 
+131TE  G 2599.7    7  8       4                                                 
+131TE  G 2863.13   20 15.5   40                                                 
+131TE  G 3019.9    5  5.1    25                                                 
+131TE  G 3030.1    6  2.5    25                                                 
+131TE  G 3189.8    10 15.2   50                                                 
+131TE  G 3774.47   11 100    23                                                 
+131TE  G 4070.4    4  13.9   25                                                 
+131TE  L 4073.8    11 (1/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4093.4    7  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4109.00    8 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 3812.2    5  20     16                                                 
+131TE  G 4109.1    3  100    9                                                  
+131TE  L 4115.3    10                                                           
+131TEX L XREF=D                                                                 
+131TE  L 4124.33   13 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 3482.5    4  100    50                                                 
+131TE  L 4136.2    5  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4150.0    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4157.4    5  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4163.2    8  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4168.7    6  13/2+                                                     
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4175.9    6  11/2-                                                     
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4186.8    6  9/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4191.8    7  9/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4196.2    12 5/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4205.1    6  9/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4211.7    5  13/2+                                                     
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4225.1    8  7/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4238.97    9 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1484.0    6  27     15                                                 
+131TE  G 2556.3    6  27     15                                                 
+131TE  G 3944.0    5  85     18                                                 
+131TE  G 4239.9    5  100    15                                                 
+131TE  L 4246.0     5 9/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4253.58    6 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 2162.2    9  26     12                                                 
+131TE  G 2472.5    4  19     10                                                 
+131TE  G 3203.5    7  14      7                                                 
+131TE  G 3212.5    4  21      7                                                 
+131TE  G 3957.65   23 100    12                                                 
+131TE  G 4253.5    3  81     12                                                 
+131TE  L 4260.5    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4265.6    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4272.3    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4278.57   15 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 1524.5    3  58     16                                                 
+131TE  G 3635.6    5  95     47                                                 
+131TE  G 3981.7    6  63     37                                                 
+131TE  G 4278.9    14 100    47                                                 
+131TE  L 4285.80    5 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 1737.8    5  9.5    48                                             &   
+131TE  G 3234.1    11 7.1    36                                                 
+131TE  G 3405.6    8  7.1    48                                                 
+131TE  G 3643.6    8  7.1    36                                                 
+131TE  G 3989.60   11 100.0  36                                                 
+131TE  G 4287.1    6  4.8    24                                                 
+131TE  L 4293.2    7  3/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4300.28    6 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 2830.6    8  33     17                                                 
+131TE  G 3250.0    9  22     17                                                 
+131TE  G 3257.9    7  33     17                                                 
+131TE  G 3658.5    5  28     17                                                 
+131TE  G 4004.3    4  100    33                                                 
+131TE  L 4309.6    6  3/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4324.59    7 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 3273.4    13 22     13                                                 
+131TE  G 3283.0    8  48     22                                                 
+131TE  G 3471.7    11 26     13                                                 
+131TE  G 3682.4    4  47     22                                                 
+131TE  G 4028.8    3  100    40                                                 
+131TE  L 4327.3    9                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 4341.3    7  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4344.6    5  (3/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4354.6    5                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 4358.0    8  3/2+,(5/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4363.1    7  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4364.65    8 3/2-                                                      
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 3483.5    13 40     20                                                 
+131TE  G 4069.0    5  100    60                                                 
+131TE  G 4364.2    14 40     20                                                 
+131TE  L 4373.1    8  9/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4379.7    7  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4383.5    8  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4389.3    11 (7/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4393.1    8                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 4403.7    7  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4412.1    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4425.07   10 3/2+,(5/2+)                                               
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 3571.4    7  100                                                       
+131TE  L     4437.0 3 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4438.0    6  100                                                       
+131TE  L 4445.77   25 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1444.12   14 96     12                                             &  ?
+131TE  G 4149.4    4  100    24                                                 
+131TE  G 4445.8    5  60     32                                                 
+131TE  L     4453.9 4 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4157.7    7  73     37                                                 
+131TE  G 4454.1    5  100    46                                                 
+131TE  L 4461.2    7  3/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4472.1    6  7/2-,5/2-                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4472.57   10 3/2(-),5/2(+)                                             
+131TEX L XREF=C                                                                 
+131TE cL J$from |g's to 1/2+ and 7/2-                                           
+131TE  G 3592.3    9  38     25                                                 
+131TE  G 3831.0    20 13     13                                                 
+131TE  G 4176.3    5  100    25                                                 
+131TE  L 4485.19   13 (1/2-,3/2-)                                               
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1483.0    5  100    56                                                 
+131TE  G 2705.0    8  100    56                                                 
+131TE  G 4188.2    5  100    56                                                 
+131TE  L    4489.4817 (1/2,3/2)                                                 
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 1488.3    4  23      8                                                 
+131TE  G 3437.6    9  23      8                                                 
+131TE  G 3447.8    5  38      8                                                 
+131TE  G 4193.5    3  100    15                                                 
+131TE  G 4489.2    6  23      8                                                 
+131TE  L 4490.5    8  7/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4506.2    8  5/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4514.6    12 1/2-,3/2-                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4519.97    8 (1/2,3/2)                                                 
+131TEX L XREF=C                                                                 
+131TEF L FLAG=B                                                                 
+131TE  G 3312.7    8  22     11                                                 
+131TE  G 3471.3    11 61     40                                                 
+131TE  G 3478.6    10 85     50                                                 
+131TE  G 4224.5    8  100    60                                                 
+131TE  G 4519.9    7  72     50                                                 
+131TE  L 4521.6    9  3/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4531.31    8 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 929.35    11 48     12                                                 
+131TE  G 4531.48   24100     10                                                 
+131TE  L 4539.4    7  5/2-,(3/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4545.18    5 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1542.84   17 13     2                                                  
+131TE  G 3690.9    4  12     6                                                  
+131TE  G 4249.5    7  45     16                                                 
+131TE  G 4545.37   11 100    3                                                  
+131TE  L 4558.45    5 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1556.52   18 22     4                                                  
+131TE  G 4558.65   18 100    6                                                  
+131TE  L 4563.18    6 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g's to 5/2+ and 7/2- states              
+131TE  G 3511.9    16 10     5                                                  
+131TE  G 3683.5    7  17     10                                                 
+131TE  G 3921.5    6  15      8                                                 
+131TE  G 4267.0    3  100    20                                                 
+131TE  G 4563.1    5  41     10                                                 
+131TE  L 4570.8    9  (3/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4583.14   12 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 3533.3    14 44     22                                                 
+131TE  G 4286.9    4  100    56                                                 
+131TE  G 4582.1    12 22     22                                                 
+131TE  L 4587.1    11 3/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4597.9    8  9/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4610.6    7                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4614.3    14 (9/2+)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4620.1    9  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4628.9    10 1/2-,3/2-                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4645.36    4 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 3175.4    6  14     6                                                  
+131TE  G 3791.5    12 5.7    29                                                 
+131TE  G 4349.4    3  60     14                                                 
+131TE  G 4646.0    3  100    14                                                 
+131TE  L 4649.93    9 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4354.0    4  75     75                                                 
+131TE  G 4649.9    4  100    75                                                 
+131TE  L 4654.5    6  5/2-,(3/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4659.2    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4671.9    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4678.0    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4682.5    6  13/2+,15/2-                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4694.4    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4707.51   10 5/2+,3/2+                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 1159.2    5  100    21                                                ?
+131TE  G 2927.0    3  36     29                                                 
+131TE  G 3499.8    11 21     14                                                 
+131TE  G 4065.0    10 36     29                                                 
+131TE  L 4716.7    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4723.4    8  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4727.3    8  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4732.73   12 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 3526.9    8  100    60                                                 
+131TE  G 4092.2    10 50     29                                                 
+131TE  G 4733.1    8  100    60                                                 
+131TE  L 4738.2    6  5/2+,(3/2+)                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4743.7    8  (5/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4749.1    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4753.9    9                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 4756.0    6                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 4759.9    8  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4765.6    5  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4770.8    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4775.2    10                                                           
+131TEX L XREF=D                                                                 
+131TE  L 4783.9    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4789.8    7  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4801.23   12 1/2,3/2,(5/2+)                                            
+131TEX L XREF=C                                                                 
+131TE cL J$from |g to 1/2+                                                      
+131TE  G 3759.4    5  100                                                       
+131TE  L 4801.6    8  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4808.8    7  (7/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4814.2    8  (5/2+)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4820.8    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4826.5    6  7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4842.9    6  5/2-,3/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4847.2    6  (3/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L     4856.2 3 (3/2+,5/2+)                                               
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4214.3    8  83     50                                                 
+131TE  G 4558.9    9  100    67                                                 
+131TE  L 4863.5    7  1/2-,3/2+                                                 
+131TEX L XREF=D                                                                 
+131TE  L 4869.67    7 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4574.6    8  20     11                                                 
+131TE  G 4870.1    4  100    14                                                 
+131TE  L 4880.3    10                                                           
+131TEX L XREF=D                                                                 
+131TE  L 4888.5    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 4894.05   11 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4597.2    5  100                                                       
+131TE  L 4899.2    7  (1/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4904.8    8                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 4907.3    8  5/2-,3/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4911.9    8  5/2-,3/2+                                                 
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4914.8    14 7/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4924.7    7  3/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4929.9    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4939.1    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4944.92   10 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 3737.7    13 63     40                                                 
+131TE  G 4648.9    8  100    50                                                 
+131TE  L 4958.7    8  1/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4964.21   14 1/2-,3/2-                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=A                                                                 
+131TE  G 4668.1    5  100                                                       
+131TE  L 4970.36   10 3/2-                                                      
+131TEX L XREF=CD                                                                
+131TE cL J$from L(d,p)=1; |=1/2- from |g to 5/2+ state                          
+131TE  G 4324.9    20 42     42                                                 
+131TE  G 4674.4    4  100    40                                                 
+131TE  L 4977.0    6  (1/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4984.2    8                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 4989.0    5  (1/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 4997.2    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5000.8    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5008.6    6                                                            
+131TEX L XREF=D                                                                 
+131TE cL J$L(d,p)|>4                                                            
+131TE  L 5012.7    7  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 5019.2    9  13/2+,15/2-                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 5027.6    5  13/2+,15/2-                                               
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 5034.5    6  5/2-                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 5040.5    10                                                           
+131TEX L XREF=D                                                                 
+131TE  L 5048.56   16 (1/2,3/2)                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=B                                                                 
+131TE  G 5048.0    6  100                                                       
+131TE  L 5056.4    6  7/2+                                                      
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 5062.4    6  (5/2-)                                                    
+131TEX L XREF=D                                                                 
+131TEF L FLAG=A                                                                 
+131TE  L 5074.6    13                                                           
+131TEX L XREF=D                                                                 
+131TE  L 5088.3    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5096.1    5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5104.0    5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5116.2    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5122.4    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5129.0    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5140.0    9                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 5148.0    7                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5156.6    7                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5161.4    6                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5172.21   25 (3/2,5/2)                                                 
+131TEX L XREF=CD                                                                
+131TEF L FLAG=B                                                                 
+131TE  G 4876.5    8  71     29                                                 
+131TE  G 5172.3    5  100    60                                                 
+131TE  L 5177.1    9                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5183.0    9                                                           ?
+131TEX L XREF=D                                                                 
+131TE  L 5191.3    14                                                           
+131TEX L XREF=D                                                                 
+131TE  L 5195.0    8                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5203.2    11                                                           
+131TEX L XREF=D                                                                 
+131TE  L 5256      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5285      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5348      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5409      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5575      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5631      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5680      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5754      5                                                            
+131TEX L XREF=D                                                                 
+131TE  L 5780      5                                                            
+131TEX L XREF=D                                                                 
+
