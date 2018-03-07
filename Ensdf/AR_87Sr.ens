@@ -1,0 +1,1181 @@
+
+
+ 87SR    ADOPTED LEVELS, GAMMAS                                  15NDS    201510
+ 87SR  H TYP=FUL$AUT=T.D. Johnson and W.D. Kulp(a)$CIT=NDS 129, 1 (2015)$       
+ 87SR2 H CUT=27-Jul-2015$                                                       
+ 87SR cL           Levels that occur in only one decay mode and are questioned  
+ 87SR2cL      there are not included here.                                      
+ 87SR cL E         From least-squares fit to |g-ray energies for levels         
+ 87SR2cL      with depopulating |g rays.                                        
+ 87SR cL J         From (d,p), (pol d,p), unless indicated otherwise.           
+ 87SR cL T         From (|a,n|g),(|a,3n|g), unless indicated otherwise.         
+ 87SR cG E,RI      From (n,|g), unless indicated otherwise.                     
+ 87SR cG M,MR      From (|a,3n|g),(|a,n|g), unless indicated otherwise.         
+ 87SR cL E(B)      From (d,p).                                                  
+ 87SR cL J(D)      J{+|p}=1/2-,3/2- from L=1 for the level observed in          
+ 87SR2cL      ({+3}He,|a).                                                      
+ 87SR cL J(E)      J{+|p}=(7/2+,9/2+) from L=(4) for the level observed in      
+ 87SR2cL      ({+3}He,|a).                                                      
+ 87SR cL J(F)      J{+|p}=1/2-,3/2- or J{+|p}=5/2-,7/2- from L=1+3 for the      
+ 87SR2cL      level observed in ({+3}He,|a).                                    
+ 87SR cL T(A)      Weighted average from (|a,n|g),(|a,3n|g) and (p,n|g).        
+ 87SR cG E(A)      From {+87}Y |e+|b+ decay. The other values are less precise  
+ 87SR2cG      and those from (p,n|g) deviate from these values by more than     
+ 87SR3cG      two standard deviations.                                          
+ 87SR cG E(B),RI(B)$Weighted average from (n,|g), (p,n|g), (|a,3n|g),           
+ 87SR2cG      and (|a,n|g).                                                     
+ 87SR cG E(C),RI(C)$Only from (|a,3n|g),(|a,n|g).                               
+ 87SR cG E(D)$Weighted average from (n,|g), (p,n|g), (|a,3n|g),                 
+ 87SR2cG      and (|a,n|g).                                                     
+ 87SR cG E(E),RI(D)$ Only from ({+9}Be,4n|g)                                    
+ 87SR  XA86KR(A,3NG), 84KR(A,NG)                                                
+ 87SR  XB86SR(D,P),(POL D,P)                                                    
+ 87SR  XC86SR(N,G) E=TH                                                         
+ 87SR  XD87RB(P,NG), (P,N)                                                      
+ 87SR  XE87SR IT DECAY                                                          
+ 87SR  XF87Y EC DECAY (79.8 H)                                                  
+ 87SR  XG88SR(3HE,A),(P,D),(12C,13C),                                           
+ 87SR  XH89Y(D,A), 89Y(P,3HE)                                                   
+ 87SR  XI87SR(P,P')                                                             
+ 87SR  XJ87RB B- DECAY                                                          
+ 87SR  XK87Y EC DECAY (13.37 H)                                                 
+ 87SR  XL82SE(9BE,4NG)                                                          
+ 87SR CL BAND(G)$|g cascade based on g.s.                                       
+ 87SR CL BAND(H)$|g cascade based on 17/2(+).                                   
+ 87SR  Q -1861.7   118428.15 129422.0  11-7314.9 11    2012Wa38                 
+ 87SR cQ $Q(|b{+-}n)=-13668 {I14}, Q(|ep)=-8903.3 {I11}                         
+ 87SR DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+ 87SR PN                                                                     6  
+ 87SR  L      0.0    9/2+              STABLE                               G   
+ 87SR2 L MOMM1=-1.0928 7 $ MOME2=+0.305 2                                       
+ 87SR3 L XREF=+                                                                 
+ 87SR cL J$from paramagnetic resonance (1976Fu06) and laser                     
+ 87SR2cL spectroscopy (1987An02,1987Bu11,1990Li28). |p                          
+ 87SR3cL from L(d,p)=4. Configuration is g{-9/2}                                
+ 87SR cL MOMM1     from 2011StZZ evaluation as quoted in 1990Bu12 and based     
+ 87SR2cL      on data of 1972Ol01; other: -1.0936030 {I13} cited in 2011StZZ,   
+ 87SR3cL      -1.089274 {I7} from 1974Sa25, -1.0924 {I7} (1987An02)             
+ 87SR cL MOME2     from 2006Sa21; calculated by combining the B/Q value         
+ 87SR2cL           from RCC theory and the measured B value from                
+ 87SR3cL           the 4D{+2}{-5/2} state of singly ionized {+87}Sr             
+ 87SR4cL           from Barwood, et al., Phys. Rev. A 67, 013402 (2003).        
+ 87SR5cL           other: +0.323b {I20} (2004Yu05), +0.327b {I24}               
+ 87SR6cL           (2002Ma09), +0.335 {I20} (1977He21),                         
+ 87SR7cL           +0.36 (1962Bu14)                                             
+ 87SR  L 388.5287  231/2-              2.815 H   12                          M1 
+ 87SR2 L %EC=0.30 8 $ %IT=99.70 8 $ MOMM1=+0.624 4                              
+ 87SR3 L XREF=-(JK)                                                             
+ 87SR cL J$from laser spectrometry (1987An02,1987Bu11,1990Li28)                 
+ 87SR2cL and |p from L(d,p)=1.                                                  
+ 87SR cL T         from IT decay.                                               
+ 87SR cL %EC,%IT   from {+87m}Sr |e+|b+ decay.                                  
+ 87SR cL MOMM1     from 2011StZZ evaluation and based on data of 1990Bu12;      
+ 87SR2cL      other: +0.787 {I9} (1987An02).                                    
+ 87SR  G 388.5276  23100       M4                      0.213                A   
+ 87SRS G  KC=0.181 3$LC=0.0266 4$MC=0.00456 7                                   
+ 87SRS G  NC=0.000557 8$OC=3.13E-5 5                                            
+ 87SR cG M         from |a{-K} and K/L from {+87m}Sr IT decay.                  
+ 87SRB G BM4W=11.24 6                                                           
+ 87SR  L 873.339    63/2-              1.7 PS     7                             
+ 87SR2 L XREF=ABCDFGHI                                                          
+ 87SR cL J         L=1 in (pol d,p) (1986Bu14) and |g(|q) and linear            
+ 87SR2cL            polarization measurements in (|a,n|g) (1981Ek01).           
+ 87SR  G 484.805   5 100       M1+E2     +0.19   5     0.002865             A   
+ 87SRS G  KC=0.00253 5$LC=0.000277 5$MC=4.66E-5 8                               
+ 87SRS G  NC=5.85E-6 10$OC=3.81E-7 6                                            
+ 87SRB G BM1W=0.11 5$BE2W=19 +17-10                                             
+ 87SR  L 1228.427  16 5/2+             1.0 PS     4                             
+ 87SR2 L XREF=ABCDGHI                                                           
+ 87SR cL J         from E1 |g to 3/2- level and E2 |g to 9/2+.                  
+ 87SR  G 355.08    3 17.9    11E1(+M2)   +0.005  LE    0.00270              B   
+ 87SRS G  KC=0.00239 4$LC=0.000259 4$MC=4.34E-5 6                               
+ 87SRS G  NC=5.42E-6 8$OC=3.46E-7 5                                             
+ 87SR cG MR        from RUL. |d=+0.07 {I+2-5} is reported in (|a,3n|g).         
+ 87SRB G BE1W>0.00081$BM2W<1                                                    
+ 87SR  G 1228.44   3 100      3E2                      3.78E-4              B   
+ 87SRS G  KC=0.000324 5$LC=3.50E-5 5$MC=5.88E-6 9                               
+ 87SRS G  NC=7.38E-7 11$OC=4.81E-8 7$IPC=1.259E-5 18                            
+ 87SRB G BE2W=7.5 23                                                            
+ 87SR  L 1253.941  13 5/2-             2.8 PS    +28-9                          
+ 87SR2 L XREF=ABCDGHI                                                           
+ 87SR cL J         L=3 in ({+3}He,|a), E2 |g to J{+|p}=1/2- level.              
+ 87SR cL T         other: 0.25 ps {I+23-9} from (p,n|g), but this value is      
+ 87SR2cL      considered by evaluator as not probable because of a large        
+ 87SR3cL B(E2)(W.u.)      for 865 |g.                                           
+ 87SR  G 380.57    3 18.7    16                                             B   
+ 87SR  G 865.411   22100      3E2                      8.17E-412            B   
+ 87SRS G  KC=0.000723 11$LC=7.93E-5 12$MC=1.331E-5 19                           
+ 87SRS G  NC=1.665E-6 24$OC=1.068E-7 15                                         
+ 87SRB G BE2W=15 +5-15                                                          
+ 87SR  L   1740.0   4 13/2+            0.28 PS   9                          G   
+ 87SR2 L XREF=AGL                                                               
+ 87SR cL J         E2 |g to J{+|p}=9/2+; from |g yield function in (|a,n|g)     
+ 87SR2cL      it follows that 1740 |g is part of the yrast cascade.             
+ 87SR  G 1739.8    4 100       E2                      3.67E-46             C   
+ 87SRS G  KC=0.0001605 23$LC=1.718E-5 24$MC=2.88E-6 4                           
+ 87SRS G  NC=3.63E-7 5$OC=2.38E-8 4$IPC=0.000186 3                              
+ 87SRB G BE2W=5.5 17                                                            
+ 87SR  L   1742.0  9  5/2+,7/2+                                             B   
+ 87SR2 L XREF=BH(1739)I(1740)                                                   
+ 87SR cL J         from L=3 from 1/2- in (d,|a)                                 
+ 87SR  L 1770.48   2 5/2+              5.5 PS    +63-21                         
+ 87SR2 L XREF=ABCDGI                                                            
+ 87SR cL J         L=2 in (d,p), E2 |g to J{+|p}=9/2+ level.                    
+ 87SR  G 517.3     1031      9 (E1)                    1.04E-3              C   
+ 87SRS G  KC=0.000919 14$LC=9.92E-5 15$MC=1.662E-5 25                           
+ 87SRS G  NC=2.08E-6 3$OC=1.344E-7 20                                           
+ 87SRB G BE1W=7.E-5 +4-7                                                        
+ 87SR  G 542.04    3 45      3 M1(+E2)   -0.04   8     0.002184                 
+ 87SRS G  KC=0.00193 3$LC=0.000210 3$MC=3.53E-5 6                               
+ 87SRS G  NC=4.43E-6 7$OC=2.90E-7 5                                             
+ 87SRB G BM1W=(0.0059 +21-59)$BE2W=(0.04 +15-4)                                 
+ 87SR  G 1770.48   3 100      3E2                      3.75E-4                  
+ 87SRS G  KC=0.0001552 22$LC=1.661E-5 24$MC=2.79E-6 4                           
+ 87SRS G  NC=3.51E-7 5$OC=2.31E-8 4$IPC=0.000200 3                              
+ 87SRB G BE2W=0.13 +5-13                                                        
+ 87SR  L 1920.49   13 7/2+             0.14 PS    3                         A   
+ 87SR2 L XREF=ADGHI$                                                            
+ 87SR cL J         Coupled-channel analysis in ({+3}He,|a) and |g linear        
+ 87SR2cL      polarization and angular distribution in (|a,n|g) give 7/2+.      
+ 87SR  G 691.8      420       7                                             C   
+ 87SR  G 1920.49   13100      3M1+E2     +0.70   5     3.96E-4                  
+ 87SRS G  KC=0.0001342 19$LC=1.432E-5 20$MC=2.40E-6 4                           
+ 87SRS G  NC=3.03E-7 5$OC=2.00E-8 3$IPC=0.000245 4                              
+ 87SR cG E,RI      weighted average from (|a,3n|g),(|a,n|g) and (p,n|g).        
+ 87SRB G BM1W=0.013 3$BE2W=1.9 5                                                
+ 87SR  L 2110.07   2 3/2-              0.092 PS  +21-16                     A   
+ 87SR2 L XREF=ACDGHI                                                            
+ 87SR cL J         L=1 in ({+3}He,|a), L=3 from 9/2+ in (p,p').                 
+ 87SR  G 856.07     37.4     12                                                 
+ 87SR  G 881.51    130.56    12(E1)                    3.19E-4                  
+ 87SRS G  KC=0.000283 4$LC=3.03E-5 5$MC=5.08E-6 8                               
+ 87SRS G  NC=6.38E-7 9$OC=4.17E-8 6                                             
+ 87SRB G BE1W=2.4E-5 9                                                          
+ 87SR  G 1236.72   3 100     16M1+E2                   3.73E-4                  
+ 87SRS G  KC=0.000319 5$LC=3.44E-5 5$MC=5.77E-6 9                               
+ 87SRS G  NC=7.26E-7 11$OC=4.76E-8 7$IPC=1.25E-5 16                             
+ 87SR cG E         from (n,|g); others: 1236.5 {I4} from (|a,3n|g),(|a,n|g),    
+ 87SR2cG      1237.50 {I6} from (p,n|g).                                        
+ 87SR  G 1721.61    319       3                                                 
+ 87SR  L   2153.5   6(11/2)+           0.09 PS   LT                             
+ 87SR2 L XREF=AGH(2166)I$                                                       
+ 87SR cL J         M1+E2 |g to 9/2+, coupled-channel analysis in ({+3}He,|a)    
+ 87SR2cL      gives 11/2+.                                                      
+ 87SR cL T         from (p,n|g).                                                
+ 87SR  G 2153.5    7 100       M1+E2     -0.80   10    4.78E-48             C   
+ 87SRS G  KC=0.0001086 16$LC=1.156E-5 17$MC=1.94E-6 3                           
+ 87SRS G  NC=2.44E-7 4$OC=1.617E-8 23$IPC=0.000355 6                            
+ 87SRB G BM1W>0.013$BE2W>2.0                                                    
+ 87SR  L 2169.43   2  1/2+             0.15 PS   GE                             
+ 87SR2 L XREF=ABCDH(2166)                                                       
+ 87SR cL J$L(d,p)=0, but a |g to 5/2- level suggests an interesting             
+ 87SR2cL configuration allowing a competitive M2 transtion.                     
+ 87SR cL T$from (p,n|g)                                                         
+ 87SR  G 915.56    8 0.98    18(M2)                    1.65E-3                  
+ 87SRS G  KC=0.001456 21$LC=0.0001609 23$MC=2.71E-5 4                           
+ 87SRS G  NC=3.40E-6 5$OC=2.22E-7 4                                             
+ 87SR cG E,RI$From (n,|g)                                                       
+ 87SRB G BM2W<159                                                               
+ 87SR  G 1296.00   3 100     15(E1)                    2.62E-4              D   
+ 87SRS G  KC=0.0001376 20$LC=1.464E-5 21$MC=2.45E-6 4                           
+ 87SRS G  NC=3.09E-7 5$OC=2.03E-8 3$IPC=0.0001070 15                            
+ 87SRB G BE1W<0.00096                                                           
+ 87SR cG RI$From (n,|g)                                                         
+ 87SR  L   2235.7  109/2+              0.15 PS   4                              
+ 87SR2 L XREF=ABDGI$                                                            
+ 87SR cL J         L=4 in ({+3}He,|a) and angular distribution                  
+ 87SR2cL           and polarization in (|a,n|g)                                 
+ 87SR  G 2235.7    10100       E2(+M1)   4       GT    5.35E-4              C   
+ 87SRS G  KC=0.0001012 15$LC=1.077E-5 16$MC=1.81E-6 3                           
+ 87SRS G  NC=2.28E-7 4$OC=1.502E-8 21$IPC=0.000421 6                            
+ 87SRB G BM1W<0.00098$BE2W>2.0                                                  
+ 87SR  L 2262       8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L 2414.520  203/2-,5/2-         0.13 PS   4                          A   
+ 87SR2 L XREF=ABCDH(2413)I$                                                     
+ 87SR cL J$L=3 from 9/2+ in (p,p'), |g to 1/2- rules out                        
+ 87SR2cL 7/2- or higher                                                         
+ 87SR  G 643.83    9 0.85    16(E1)                    6.23E-4                  
+ 87SRS G  KC=0.000552 8$LC=5.94E-5 9$MC=9.95E-6 14                              
+ 87SRS G  NC=1.249E-6 18$OC=8.10E-8 12                                          
+ 87SRB G BE1W=7.E-5 3                                                           
+ 87SR  G 1541.20    321       3                                                 
+ 87SR  G 2026.02    6100     10                                                 
+ 87SR  L   2420.4   8(5/2-)            0.08 PS   4                              
+ 87SR2 L XREF=AGH(2413)$                                                        
+ 87SR cL J         L=3 in ({+3}He,|a) leads to 5/2-,7/2-.                       
+ 87SR2cL           |g excitation function for (|a,n|g) suggests                 
+ 87SR3cL           5/2-                                                         
+ 87SR  G 1166.9    12100      4D+Q                                          C   
+ 87SRS G  KC=0.000361 6$LC=3.89E-5 7$MC=6.53E-6 11                              
+ 87SRS G  NC=8.21E-7 13$OC=5.38E-8 8$IPC=3.7E-6 6                               
+ 87SR cG M         D+Q from {+86}Kr(|a,3n|g) and from |p(1254) and |p(2420).    
+ 87SR  G 1546.7    1076      29                                             C   
+ 87SR  L   2488    8  -                                                         
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=3 from 9/2+ in (p,p').                                     
+ 87SR  L   2532.8   37/2+,9/2+                                              B   
+ 87SR2 L XREF=BD(2531)G(2536)$                                                  
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  L   2536.3  6  11/2-            0.19 PS   8                              
+ 87SR2 L XREF=AD(2531)$                                                         
+ 87SR cL J         E1 |g to 9/2+ and M1 |g from  13/2-.                         
+ 87SR  G 2536.7    7 100       E1+M2     -0.09   4     1.02E-32             C   
+ 87SRS G  KC=4.88E-5 11$LC=5.15E-6 12$MC=8.63E-7 19                             
+ 87SRS G  NC=1.087E-7 24$OC=7.19E-9 16$IPC=0.000970 15                          
+ 87SR cG MR        from RUL and |d=-0.18 {I+13-22} from (|a,3n|g).              
+ 87SRB G BE1W=0.00011 5$BM2W=0.6 7                                              
+ 87SR  L   2539    8  -                                                         
+ 87SR2 L XREF=D(2552)H(2550)I                                                   
+ 87SR cL J         L=3 from 9/2+ in (p,p').                                     
+ 87SR  L   2550.0   7(7/2)+            0.22 PS   7                              
+ 87SR2 L XREF=AD(2552)H(2550)$                                                  
+ 87SR cL J         M1 |g to 5/2+; |g(|q), linear polarization, and              
+ 87SR2cL      excitation function in (|a,n|g) favor J{+|p}=(7/2)+.              
+ 87SR  G 1321.6    7 100       M1+E2                                        C   
+ 87SR  L   2555.0   7(9/2)-            0.06 PS   4                              
+ 87SR2 L XREF=AD(2552)GH(2550)I$                                                
+ 87SR cL J         L=3 from 9/2+ in (p,p'); J|p=(9/2-) from coupled-channel     
+ 87SR2cL      analysis in ({+3}He,|a).                                          
+ 87SR  G 2555.0    7 100       E1(+M2)   +0.03   3     1.04E-3              C   
+ 87SRS G  KC=4.76E-5 8$LC=5.03E-6 8$MC=8.42E-7 13                               
+ 87SRS G  NC=1.061E-7 16$OC=7.02E-9 11$IPC=0.000986 14                          
+ 87SRB G BE1W=(0.0003 2)$BM2W=(0.2 +4-2)                                        
+ 87SR  L   2596.0  5  13/2-            1.0 PS    3                              
+ 87SR2 L XREF=AGIL$                                                             
+ 87SR cL J         L=3 from 9/2+ in (p,p')                                      
+ 87SR2cL           which gives |p=-, and J=13/2 is the only J value             
+ 87SR2cL          from (|a,n|g) with |p=-                                       
+ 87SR  G 855.9     3 100       E1(+M2)   -0.10   12    3.39E-4              C   
+ 87SRS G  KC=0.000300 5$LC=3.22E-5 5$MC=5.39E-6 8                               
+ 87SRS G  NC=6.77E-7 10$OC=4.42E-8 7                                            
+ 87SRB G BE1W=0.0006 2$BM2W=(30 +90-30)                                         
+ 87SR  L     2633   61/2-,3/2-                                                  
+ 87SR2 L XREF=DGHI$                                                             
+ 87SR cL E         weighted average of 2631 {I15} from (p,n), 2633 {I20} from   
+ 87SR2cL      (p,d), 2630 {I15} from (d,|a), and 2634 {I 8} from (p,p')         
+ 87SR cL J         L=1 in (p,d).                                                
+ 87SR  L     2656   95/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in (p,d).                                                
+ 87SR  L 2676.880  203/2+                                                       
+ 87SR2 L XREF=BCD(2682)I(2681)$                                                 
+ 87SR  G 566.55    101.3      3                                                 
+ 87SR  G 1422.99   4  6.8    10                                                 
+ 87SR cG E$ There is a possibility for a second placement from                  
+ 87SR2cG    the 6074 level, but the evaluators are adopting the                 
+ 87SR3cG    placement suggested by 1986Wi16 in (n,|g)                           
+ 87SR  G 1803.47    317       3                                                 
+ 87SR  G 2288.23    6100     12                                                 
+ 87SR  L   2679    101/2-,3/2-                                                  
+ 87SR2 L XREF=D(2682)G$                                                         
+ 87SR cL J         L=1 in ({+3}He,|a).                                          
+ 87SR  L   2682.0   5(3/2)+            0.25 PS    9                             
+ 87SR2 L XREF=AD(2682)I(2681)$                                                  
+ 87SR cL J         M1 |g to 5/2+; |g(|q), linear polarization, and              
+ 87SR2cL      excitation function in (|a,n|g) favor J{+|p}=(3/2)+.              
+ 87SR  G 911.5     5 100       M1+E2     -0.5    +3-13 6.90E-424            C   
+ 87SRS G  KC=0.000611 21$LC=6.6E-5 3$MC=1.11E-5 5                               
+ 87SRS G  NC=1.40E-6 6$OC=9.14E-8 24                                            
+ 87SRB G BM1W=0.09 4$BE2W=3.E+1 +4-3                                            
+ 87SR  L   2707.5   57/2+,9/2+         0.55 PS   14                             
+ 87SR2 L XREF=ADGHI$                                                            
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  G 787.0     4 100       M1(+E2)   0.00    9     9.39E-4              C   
+ 87SRS G  KC=0.000832 12$LC=8.99E-5 13$MC=1.509E-5 22                           
+ 87SRS G  NC=1.90E-6 3$OC=1.249E-7 18                                           
+ 87SRB G BM1W=(0.082 21)                                                        
+ 87SR  L  2803.15  24                                                       B   
+ 87SR2 L XREF=BD(2810)I$                                                        
+ 87SR  L  2818.89  189/2+                                                   B   
+ 87SR2 L XREF=BD(2810)$                                                         
+ 87SR  L   2821.0   5(9/2)+            0.7 PS     3                             
+ 87SR2 L XREF=AD(2810)$                                                         
+ 87SR cL J         from |g(|q), linear polarization, and                        
+ 87SR2cL      excitation function in (|a,n|g).                                  
+ 87SR  G 1050.5    5 100       E2                      5.17E-4              C   
+ 87SRS G  KC=0.000458 7$LC=4.98E-5 7$MC=8.35E-6 12                              
+ 87SRS G  NC=1.047E-6 15$OC=6.78E-8 10                                          
+ 87SRB G BE2W=28 12                                                             
+ 87SR  L   2831.2   5 15/2-            0.35 PS   LT                         G   
+ 87SR2 L XREF=AGIL$                                                             
+ 87SR cL J         L=3 from 9/2+ in (p,p'); coupled-channel analysis of         
+ 87SR2cL      of ({+3}He,|a) gives J{+|p}=15/2-.                                
+ 87SR  G 235.2     5 6.7       (M1)                    0.01662              C   
+ 87SRS G  KC=0.01467 22$LC=0.001636 25$MC=0.000275 5                            
+ 87SRS G  NC=3.45E-5 6$OC=2.23E-6 4                                             
+ 87SRB G BM1W>0.30                                                              
+ 87SR  G 1091.3    3 100       E1+(M2)   +0.12   17    0.000226             C   
+ 87SRS G  KC=0.00020 5$LC=2.1E-5 6$MC=3.5E-6 9                                  
+ 87SRS G  NC=4.5E-7 12$OC=2.9E-8 8                                              
+ 87SRB G BE1W>0.00067                                                           
+ 87SR  L 2850.54   3 1/2-,3/2-                                                  
+ 87SR2 L XREF=BCDG$                                                             
+ 87SR cL J         L=1 in ({+3}He,|a).                                          
+ 87SR  G 740.58     44.2      7                                                 
+ 87SR  G 1977.11    3100     14                                                 
+ 87SR  L   2893    8 (-)                                                        
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(3) from 9/2+ in (p,p').                                   
+ 87SR  L   2904.1   9                                                       B   
+ 87SR2 L XREF=BD$                                                               
+ 87SR  L   2920.8  127/2+,9/2+                                                  
+ 87SR2 L XREF=AB(2921)D(*2925)GH(2925)$                                         
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  G 2920.7    12100                                                    C   
+ 87SR  L 2921.12    53/2-                                                       
+ 87SR2 L XREF=B(2921)CD(2925)H(2925)I                                           
+ 87SR cL J         L=3 from 9/2+ in (p,p') and primary |g from 1/2+ in (n,|g).  
+ 87SR  G 811.09    1217       4                                                 
+ 87SR  G 1667.12    6100     17                                                 
+ 87SR  L 2940.73    31/2+                                                       
+ 87SR2 L XREF=BCDH(2925)I                                                       
+ 87SR  G 1712.09   11100     17                                                 
+ 87SR  G 2552.24    62217    LT                                                 
+ 87SR  L     2980  7   -                                                        
+ 87SR2 L XREF=DI$                                                               
+ 87SR cL E         weighted average of 2980 {I8} from (p,p') and 2975 {I15}     
+ 87SR2cL      from (p,n).                                                       
+ 87SR cL J         L=3 from 9/2+ in (p,p').                                     
+ 87SR  L 3007.21    43/2-                                                       
+ 87SR2 L XREF=CD(3016)I$                                                        
+ 87SR cL J         L=3 from 9/2+ in (p,p'), primary |g from 1/2+ in (n,|g).     
+ 87SR  G 1753.24   165.5     11                                                 
+ 87SR  G 2133.87   1022.8    25                                                 
+ 87SR  G 2618.95   10100     11                                                 
+ 87SR  L 3019.208  201/2-,3/2-                                                  
+ 87SR2 L XREF=CD(3016)GH$                                                       
+ 87SR cL J         L=1 in ({+3}He,|a).                                          
+ 87SR  G 1248.55    62.1      3                                                 
+ 87SR  G 1765.23    330       5                                                 
+ 87SR  G 2145.87    619.8    20                                                 
+ 87SR  G 2630.70    6100     11                                                 
+ 87SR  L   3035.5   5                                                           
+ 87SR2 L XREF=AI$                                                               
+ 87SR  G 882.0      8100     30                                             C   
+ 87SR cG RI$Based on branching from level scheme                                
+ 87SR2cG from (|a,3n|g),(|a,n|g) shown in 1981Ek01                              
+ 87SR  G 1295.5     3100     42                                             C   
+ 87SR cG RI$Based on branching from level scheme                                
+ 87SR2cG from (|a,3n|g),(|a,n|g) shown in 1981Ek01                              
+ 87SR  L 3047.2     3                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L 3066.358  22(1/2-,3/2)                                                 
+ 87SR2 L XREF=BCDH$                                                             
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 5/2- and 1/2-.    
+ 87SR  G 1812.37    340       6                                                 
+ 87SR  G 2193.04    6100     10                                                 
+ 87SR  G 2677.87    670       8                                                 
+ 87SR  L     3102   7                                                           
+ 87SR2 L XREF=DI                                                                
+ 87SR cL E         weighted average of 3103 {I8} from (p,p') and 3098 {I15}     
+ 87SR2cL      from (p,n).                                                       
+ 87SR  L   3117.4  6  13/2-            0.38 PS   12                             
+ 87SR2 L XREF=AI(3121)$                                                         
+ 87SR cL J         M1 |g to  11/)-: |g(|q) and linear polarization in           
+ 87SR2cL      (|a,n|g) gives 13/2-.                                             
+ 87SR  G 521.0     7 63       4M1+E2     +0.29   16    0.002459             C   
+ 87SRS G  KC=0.00217 8$LC=0.000238 10$MC=3.99E-5 16                             
+ 87SRS G  NC=5.01E-6 19$OC=3.26E-7 11                                           
+ 87SRB G BM1W=0.15 5$BE2W=5.E+1 +6-5                                            
+ 87SR  G 581.3     5 100      4M1+E2     +0.047  +12-230.00185              C   
+ 87SRS G  KC=0.001640 24$LC=0.000179 3$MC=3.00E-5 5                             
+ 87SRS G  NC=3.77E-6 6$OC=2.47E-7 4                                             
+ 87SRB G BM1W=0.18 6$BE2W=1.3 8                                                 
+ 87SR  L  3118.50  15                                                       B   
+ 87SR2 L XREF=BD(3126)I(3121)$                                                  
+ 87SR  L 3125.28    41/2+                                                       
+ 87SR2 L XREF=BCD(3126)                                                         
+ 87SR cL J         L = 0 in (d,p)                                               
+ 87SR2cL           and (pol d, p)                                               
+ 87SR  G 1896.87    536       6                                                 
+ 87SR  G 2251.89   6 100     10                                                 
+ 87SR  L  3136     6 5/2-,7/2-                                                  
+ 87SR2 L XREF=GI$                                                               
+ 87SR cL E         weighted average of 3133 {I8} from (p,p') and 3140 {I10}     
+ 87SR2cL      from ({+3}He,|a).                                                 
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L 3151.57    3(3/2)+                                                     
+ 87SR2 L XREF=BCD(3151)H(3156)$                                                 
+ 87SR cL J         L=2 in (d,p); isobaric analog to one of the members of the   
+ 87SR2cL      unresolved 11960 doublet in {+87}Y with J{+|p}=(3/2)+ and         
+ 87SR3cL      (5/2)+ while the other part of this doublet is assigned to the    
+ 87SR4cL      3166 level [J{+|p}=(5/2)+].                                       
+ 87SR  G 737.07    154.5     10                                                 
+ 87SR  G 1041.56   107.8     14                                                 
+ 87SR  G 1381.18    547       8                                                 
+ 87SR  G 1923.27    622       4                                                 
+ 87SR  G 2762.68    6100     10                                                 
+ 87SR3 G FL=388.5287                                                            
+ 87SR  L   3155.0  15                                                           
+ 87SR2 L XREF=AD(3151,3167)H(3156)I$                                            
+ 87SR  G 3154.9    15100                                                    C   
+ 87SR  L  3166.38   9(5/2)+                                                 B   
+ 87SR2 L XREF=BD(3167)H(3156)I(3172)$                                           
+ 87SR cL J         L=2 in (d,p) and J{+|p}=(5/2+) in (pol d,p).                 
+ 87SR  L 3232.27    6(1/2,3/2)                                                  
+ 87SR2 L XREF=B(3220)CD                                                         
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 1/2-.               
+ 87SR  G 2843.64    7100                                                        
+ 87SR  L   3249.4   5(17/2)-           1.3 PS    +16-6                      G   
+ 87SR2 L XREF=AIL$                                                              
+ 87SR cL J         from |g(|q), linear polarization, and                        
+ 87SR2cL      excitation function in (|a,n|g).                                  
+ 87SR  G 418.2     2 100       M1+E2                   0.0052 12            C   
+ 87SRB G BM1W=0.12 +13-12$                                                      
+ 87SR cG               B(M1) calculated assuming a small mixing ratio           
+ 87SR2cG               as the known mixing ratios for transitions for           
+ 87SR3cG               isotope seem to be consistently small                    
+ 87SR4cG               at less then 0.5 (absolute) with                         
+ 87SR4cG               with one                                                 
+ 87SR5cG               exception for the 2235|g from the 2235                   
+ 87SR6cG               keV level                                                
+ 87SRS G  KC=0.0046 11$LC=0.00052 13$MC=8.7E-5 22                               
+ 87SRS G  NC=1.1E-5 3$OC=6.7E-7 14                                              
+ 87SR  L 3258.85    3 5/2+                                                      
+ 87SR2 L XREF=BCD$                                                              
+ 87SR cL J         L=2 in (d,p) and |g to 9/2+.                                 
+ 87SR  G 581.83    1024       5                                                 
+ 87SR  G 844.35     3100     18                                                 
+ 87SR  G 1148.76    929       5                                                 
+ 87SR  G 1488.59   1325       5                                                 
+ 87SR  G 3258.56   1384       8                                                 
+ 87SR  L     3271   99/2+                                                       
+ 87SR2 L XREF=G(3260)H(3274)I(3278)                                             
+ 87SR cL J         L=0 from 9/2+ in (p,p').                                     
+ 87SR cL E         weighted average of 3278 {I8} from (p,p') and 3260 {I10}     
+ 87SR2cL      from ({+3}He,|a).                                                 
+ 87SR  L 3277.50    55/2+                                                       
+ 87SR2 L XREF=BCDH(3274)$                                                       
+ 87SR  G 2049.05   12 20      3                                                 
+ 87SR  G 2404.02    7100     11                                                 
+ 87SR  G 2888.94   1620       3                                                 
+ 87SR  L 3371.55    41/2+,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 1600.94    815.3    25                                                 
+ 87SR  G 2498.33    7100     10                                                 
+ 87SR  L  3385.32  115/2+                                                   B   
+ 87SR2 L XREF=BH(3397)                                                          
+ 87SR  L 3390.9     5(19/2-)                                                G   
+ 87SR2 L XREF=AIL$                                                              
+ 87SR cL J         L=(5) from 9/2+ in (p,p'), (D) |g to 17/2.  From |g yield    
+ 87SR2cL      functions in (|a,n|g), it follows that 142 |g is part of the      
+ 87SR3cL      yrast cascade.                                                    
+ 87SR  G 141.5     2 100       (M1)                    0.0630               C   
+ 87SRS G  KC=0.0555 8$LC=0.00628 10$MC=0.001058 16                              
+ 87SRS G  NC=0.0001323 20$OC=8.46E-6 13                                         
+ 87SR  L 3415.76    4 1/2(-),3/2(-)                                             
+ 87SR2 L XREF=BCI$                                                              
+ 87SR cL J         L=(5) from 9/2+ in (p,p'), primary |g from 1/2+ in           
+ 87SR2cL      (n,|g), and |g to 1/2- and 5/2-.                                  
+ 87SR  G 1246.31    4100     14                                                 
+ 87SR  G 2161.63   2140       7                                                 
+ 87SR  G 3027.16   1336.7    24                                                 
+ 87SR  L 3425.56    4 (5/2-)                                                    
+ 87SR2 L XREF=CGH(3434)$                                                        
+ 87SR cL J         L=3 in ({+3}He,|a) and |g to 1/2-.                           
+ 87SR2cL          Fed by a primary from 1/2+ in (n,|g), so there is a           
+ 87SR3cL          conflict as the 5/2- assignment would require the             
+ 87SR4cL          primary to have mult=M2                                       
+ 87SR  G 2196.89   1315.1    19                                                 
+ 87SR  G 2552.24    6205     LT                                                 
+ 87SR  G 3036.86    9100      5                                                 
+ 87SR  L 3431.39    41/2-,3/2,5/2+                                              
+ 87SR2 L XREF=BCH(3434)$                                                        
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2-.               
+ 87SR  G 2177.39    8100                                                        
+ 87SR  L  3447      8(-)                                                        
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(5) from 9/2+ in (p,p').                                   
+ 87SR  L  3483      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L 3507.09    5(3/2)+                                                     
+ 87SR2 L XREF=CH                                                                
+ 87SR cL J         L=3 from 1/2- in (d,|a) and the 3118|g branching to          
+ 87SR2cL           1/2- is too strong to be M2 so 5/2+ can be ruled out.        
+ 87SR  G 2278.71    7100     11                                                 
+ 87SR  G 3118.47    934.1    19                                                 
+ 87SR  L     3521   95/2-,7/2-                                                  
+ 87SR2 L XREF=GI$                                                               
+ 87SR cL E         weighted average of 3528 {I8} from (p,p') and 3510 {I10}     
+ 87SR2cL      from ({+3}He,|a).                                                 
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L   3547.9   65/2+                                                       
+ 87SR2 L XREF=B$                                                                
+ 87SR  L   3551    8   (-)                                                      
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(5) from 9/2+ in (p,p').                                   
+ 87SR  L  3591.07  16 (3/2+,5/2+)                                               
+ 87SR2 L XREF=B$                                                                
+ 87SR cL J$L(d,p)=(2)                                                           
+ 87SR  L 3602.61    43/2+                                                       
+ 87SR2 L XREF=BC$                                                               
+ 87SR  G 1832.12    4100     15                                                 
+ 87SR  G 2729.45   1732       6                                                 
+ 87SR  L 3607.63    31/2+,3/2,5/2+                                              
+ 87SR2 L XREF=CI(3612)                                                          
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 666.80    1310.8    22                                                 
+ 87SR  G 1497.29    744       7                                                 
+ 87SR  G 2378.6     559       7                                                 
+ 87SR  G 2734.09    8100     11                                                 
+ 87SR  L   3610.9   6(21/2)                                                 G   
+ 87SR2 L XREF=AL$                                                               
+ 87SR cL J         (D) |g to 19/2, from |g yield functions in (|a,n|g) it       
+ 87SR2cL      follows that 220 |g is part of the yrast cascade.                 
+ 87SR  G 220.0      2100       (D)                                          C   
+ 87SR  L   3628.1  3 (1/2-,3/2-)                                            B   
+ 87SR2 L XREF=BG(3620)HI(3635)                                                  
+ 87SR cL J         L=(1) in ({+3}He,|a).                                        
+ 87SR  L  3657      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L  3668.39  20                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L 3674.19    6(3/2+)                                                     
+ 87SR2 L XREF=B(3673.97)CI(3679)$                                               
+ 87SR cL J         primary |g in thermal (n,|g) and |g to 5/2- level            
+ 87SR2cL           and L=(2) in (pol d,p)                                       
+ 87SR  G 823.50    1718.3    46                                                 
+ 87SR  G 1563.7     4100     17                                                 
+ 87SR  G 2419.98   1858.7    83                                                 
+ 87SR  G 2445.52   1180.7    92                                                 
+ 87SR  G 3285.87   14121     LT                                                 
+ 87SR  L   3682.3   57/2+,9/2+                                              B   
+ 87SR2 L XREF=BGI(3679)$                                                        
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  L 3685.9     6 (17/2)                                                    
+ 87SR2 L XREF=L$                                                                
+ 87SR  G 1945.8    7  100                                                       
+ 87SR2 G FL=1740.0                                                              
+ 87SR  L   3691     8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L   3705.7   3                                                       B   
+ 87SR2 L XREF=BH(3713)$                                                         
+ 87SR  L 3716.81    4 1/2,3/2,5/2+                                              
+ 87SR2 L XREF=CH(3713)I(3716)$                                                  
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 1/2-.               
+ 87SR  G 795.58    255.0     18                                                 
+ 87SR  G 3328.25    9100      5                                                 
+ 87SR  L   3718.0   6(19/2)                                                 G   
+ 87SR2 L XREF=AI(3716)L$                                                        
+ 87SR cL J         from |g yield functions and correlation                      
+ 87SR2cL           of alignment to initial J in (|a,n|g)                        
+ 87SR  G 327.1      3100       (D)                                          C   
+ 87SR  L 3731.35    7 3/2                                                       
+ 87SR2 L XREF=BCI(3736)$                                                        
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 5/2+ and 5/2-.    
+ 87SR  G 2477.36    8100     11                                                 
+ 87SR  G 2503.2     4 40      4                                                 
+ 87SR  L   3739.7  11                                                       B   
+ 87SR2 L XREF=BI(3736)$                                                         
+ 87SR  L   3750    107/2+,9/2+                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  L 3765.49    71/2-,3/2,5/2                                               
+ 87SR2 L XREF=BCH(3772)$                                                        
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2-.               
+ 87SR  G 1351.01   1132       6                                                 
+ 87SR  G 2511.73   13100     13                                                 
+ 87SR  L 3776.00    43/2+                                                       
+ 87SR2 L XREF=BCH(3772)I$                                                       
+ 87SR cL J$primary |g in thermal (n,|g).                                        
+ 87SR2cL and L=2 (d,p) and comparison to DWBA calculations                      
+ 87SR  G 709.67     517       3                                                 
+ 87SR  G 925.21     98.3     13                                                 
+ 87SR  G 2902.66    7100     10                                                 
+ 87SR  L  3792.28  17                                                       B   
+ 87SR2 L XREF=BGI$                                                              
+ 87SR  L     3824   8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L 3872.24    51/2+                                                       
+ 87SR2 L XREF=BC$                                                               
+ 87SR cL J$L(d,p)=0                                                             
+ 87SR  G 1702.76   139.3     21                                                 
+ 87SR  G 2101.93   2514       3                                                 
+ 87SR  G 2998.95    7100     12                                                 
+ 87SR  L  3874      8(-)                                                        
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(5) from 9/2+ in (p,p').                                   
+ 87SR  L  3880.63  237/2+,9/2+                                              B   
+ 87SR2 L XREF=BG$                                                               
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  L  3894      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L  3919.51  17                                                       B   
+ 87SR2 L XREF=BH(3934)I$                                                        
+ 87SR  L   3943.4   3                                                       B   
+ 87SR2 L XREF=BH(3934)I$                                                        
+ 87SR  L 3951.45    41/2,3/2,5/2+                                               
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 580.03     926       5                                                 
+ 87SR  G 1781.95    5100     18                                                 
+ 87SR  L 3958.667  12 3/2+                                                      
+ 87SR2 L XREF=BC$                                                               
+ 87SR cL J         L=2 in (d,p) and |g to 1/2-.                                 
+ 87SR  G 3085.27    1100      6                                                 
+ 87SR  G 3570.21   1146       3                                                 
+ 87SR  L     3960  105/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L     3981   8(+)                                                        
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(4) from 9/2+ in (p,p').                                   
+ 87SR  L 4020      207/2+,9/2+                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  L 4026.41    41/2-,3/2                                                   
+ 87SR2 L XREF=CH(4025)I$                                                        
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2-.               
+ 87SR  G 1611.84    5100     16                                                 
+ 87SR  G 2772.51    884       9                                                 
+ 87SR  L   4031.5   47/2+,9/2+                                              B   
+ 87SR2 L XREF=BG(4020)H(4025)                                                   
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  L   4051.1   4                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L 4056.35    41/2,3/2,5/2+                                               
+ 87SR2 L XREF=BC$                                                               
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 1115.50   177.7     17                                                 
+ 87SR  G 2828.06   1420.3    25                                                 
+ 87SR  G 3182.62   10100      5                                                 
+ 87SR  G 3667.78   1041.6    25                                                 
+ 87SR  L 4080.79    5(3/2+,5/2+)                                                
+ 87SR2 L XREF=BCH(4096)I                                                        
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and L=(2) in (d,p).           
+ 87SR  G 1061.52    529       5                                                 
+ 87SR cG E$ There is a possibility for a second placement from the              
+ 87SR2cG    4863 keV level, but the evaluators are adopting the                 
+ 87SR3cG    placement suggested by 1986Wi16 in (n,|g)                           
+ 87SR  G 3207.58    9100                                                        
+ 87SR  L  4090      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L   4114.6   4(5/2-,7/2-)                                            B   
+ 87SR2 L XREF=BG$                                                               
+ 87SR cL J         L=(3) in ({+3}He,|a).                                        
+ 87SR  L  4116      8(+)                                                        
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(4) from 9/2+ in (p,p').                                   
+ 87SR  L  4150      8(-)                                                        
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(5) from 9/2+ in (p,p').                                   
+ 87SR  L 4164.97   2  1/2(-),3/2(-)                                             
+ 87SR2 L XREF=CI$                                                               
+ 87SR cL J         L=(5) from 9/2+ in (p,p') and primary |g from 1/2+ in        
+ 87SR2cL      (n,|g).                                                           
+ 87SR  G 557.23     65.1      9                                                 
+ 87SR  G 1145.71    345       7                                                 
+ 87SR  G 1224.26    35.5      9                                                 
+ 87SR  G 1243.80    94.6      8                                                 
+ 87SR  G 1995.46    3100     15                                                 
+ 87SR  G 2054.88    728       4                                                 
+ 87SR  G 2394.79   155.3      7                                                 
+ 87SR  G 2911.24   133.9      5                                                 
+ 87SR  G 3291.72    929.2    15                                                 
+ 87SR  L 4171.9     6 (17/2+)                                               H   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL J$From DCO ratio in ({+9}Be,4n|g) and cascade placement                
+ 87SR  G 1340.8    7  65     12                                                 
+ 87SR  G 2431.7    7  100    18                                                 
+ 87SR2 G FL=1740.0                                                              
+ 87SR  L     4180  205/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L 4182.36    51/2+                                                       
+ 87SR2 L XREF=BC$                                                               
+ 87SR cL J$L(d,p)=0                                                             
+ 87SR  G 465.53     525       5                                                 
+ 87SR  G 2072.8     699      13                                                 
+ 87SR  G 2411.73   1318.3    22                                                 
+ 87SR  G 3309.2     438.4    20                                                 
+ 87SR  G 3793.78   10100      5                                                 
+ 87SR  L  4187      8(+)                                                        
+ 87SR2 L XREF=I$                                                                
+ 87SR cL J         L=(2) from 9/2+ in (p,p').                                   
+ 87SR  L 4196.82    5 3/2+                                                      
+ 87SR2 L XREF=BC$                                                               
+ 87SR cL J         L=2 in (d,p) and |g to 1/2-.                                 
+ 87SR  G 765.25    164.6     11                                                 
+ 87SR  G 2426.37    833       4                                                 
+ 87SR  G 2942.76    7100     11                                                 
+ 87SR  G 2968.58   1619       3                                                 
+ 87SR  G 3808.39   1233.1    21                                                 
+ 87SR  L 4224.03    31/2+,3/2+                                                  
+ 87SR2 L XREF=CI$                                                               
+ 87SR cL J         L=4 from 9/2+ in (p,p') and primary |g from 1/2+ in (n,|g).  
+ 87SR  G 1547.08    3100     16                                                 
+ 87SR  G 2453.63   1015.4    17                                                 
+ 87SR  G 2995.86   1250       7                                                 
+ 87SR  G 3350.58   1021.9    12                                                 
+ 87SR  L 4235.66    63/2+,5/2+                                                  
+ 87SR2 L XREF=BCI$                                                              
+ 87SR cL J         L=2 in (d,p).                                                
+ 87SR  G 1084.13   1314       3                                                 
+ 87SR  G 1169.26   1324       5                                                 
+ 87SR  G 2981.77    936       4                                                 
+ 87SR  G 3007.01   11100      7                                                 
+ 87SR  L   4251.6   47/2+,9/2+                                              B   
+ 87SR2 L XREF=BGI$                                                              
+ 87SR cL J         L=4 in ({+3}He,|a).                                          
+ 87SR  L   4288     8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L   4310.19 18                                                           
+ 87SR2 L XREF=B                                                                 
+ 87SR  L   4323     8                                                       B   
+ 87SR2 L XREF=I$                                                                
+ 87SR  L 4337.06    4 1/2+,3/2                                                  
+ 87SR2 L XREF=BCI$                                                              
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2+.    
+ 87SR  G 571.74    151.7      4                                                 
+ 87SR  G 662.71    112.2      5                                                 
+ 87SR  G 911.34    25100     15                                                 
+ 87SR  G 965.67    132.1      5                                                 
+ 87SR  G 2227.05   126.8      9                                                 
+ 87SR  G 2566.50    735       4                                                 
+ 87SR  G 3948.55   124.5      3                                                 
+ 87SR  L  4354.50  24(5/2-,7/2-)                                            B   
+ 87SR2 L XREF=BGI$                                                              
+ 87SR cL J         L=(3) in ({+3}He,|a).                                        
+ 87SR  L  4379.72  12                                                       B   
+ 87SR2 L XREF=BI$                                                               
+ 87SR  L  4413.65  24                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4420)I$                                                 
+ 87SR  L  4433.4    4                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4420)I(4435)$                                           
+ 87SR  L 4435.60    5 1/2+,3/2                                                  
+ 87SR2 L XREF=BCG(4420)I(4435)$                                                 
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2+.    
+ 87SR  G 1019.61   115.2     11                                                 
+ 87SR  G 1158.04    911.6    20                                                 
+ 87SR  G 1428.46    519       3                                                 
+ 87SR  G 2664.4     728       3                                                 
+ 87SR  G 4046.92   10100      6                                                 
+ 87SR  L 4440.4     8(23/2)                                                 G   
+ 87SR2 L XREF=AL$                                                               
+ 87SR cL J         presumably dipole |g to 21/2+; from |g yield functions in    
+ 87SR2cL      (|a,n|g) it follows that 829 |g is part of the yrast cascade.     
+ 87SR  G 829.4      8100       (D)                                          C   
+ 87SR  L  4442.6    4                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L  4449.47  25                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L  4462.6    6                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4470)I$                                                 
+ 87SR cL J$Both 4462.6 and 4485.0 levels possibly                               
+ 87SR2cL correspond to the 4470 level in XREF=|g and therefore                  
+ 87SR3cL no J assignment is adopted                                             
+ 87SR  L  4485.9    7                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4470)$                                                  
+ 87SR cL J$Both 4462.6 and 4485.0 levels possibly                               
+ 87SR2cL correspond to the 4470 level in XREF=|g and therefore                  
+ 87SR3cL no J assignment is adopted                                             
+ 87SR  L  4501      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L  4514.3    3                                                       B   
+ 87SR2 L FLAG=E$XREF=BG(4530)$                                                  
+ 87SR cL J         Assigned (7/2+,9/2+) in XREF=G, however overlaps             
+ 87SR2cL    with several levels so no J adopted                                 
+ 87SR  L 4536.56    51/2-,3/2                                                   
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2-.               
+ 87SR  G 1120.71   1612.1    25                                                 
+ 87SR  G 1411.19    644       7                                                 
+ 87SR  G 2122.04    994      10                                                 
+ 87SR  G 3282.72   10100      6                                                 
+ 87SR  L  4540.8    3                                                       B   
+ 87SR2 L FLAG=E$XREF=BG(4530)I(4546)                                            
+ 87SR cL J         Assigned (7/2+,9/2+) in XREF=G, however overlaps             
+ 87SR2cL    with several levels so no J adopted                                 
+ 87SR  L 4551.19    6 1/2+,3/2                                                  
+ 87SR2 L XREF=CI(4546,4559)                                                     
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2+.    
+ 87SR  G 876.94    103.8      8                                                 
+ 87SR  G 1273.61   182.6      7                                                 
+ 87SR  G 1399.48   124.0      8                                                 
+ 87SR  G 3677.91    9100      6                                                 
+ 87SR  G 4162.6     522       7                                                 
+ 87SR  L  4564.9    3                                                           
+ 87SR2 L XREF=BI(4559)$                                                         
+ 87SR  L 4571.4     6 (19/2+)                                               H   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL J$DCO ratios and cascade placement                                     
+ 87SR  G  399.5    7   73    9 (D)                                              
+ 87SR  G  885.4    7    6    LT                                                 
+ 87SR  G 1180.6    7   46    6                                                  
+ 87SR  G 1322.1    7  100    6 (D)                                              
+ 87SR  L  4584.9    3                                                           
+ 87SR2 L XREF=BI$                                                               
+ 87SR  L  4595.6    3                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L 4604.86    41/2,3/2,5/2+                                               
+ 87SR2 L XREF=BC$                                                               
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 828.68     917       4                                                 
+ 87SR  G 874.05    218        3                                                 
+ 87SR  G 997.11     831       5                                                 
+ 87SR  G 1453.37    667      11                                                 
+ 87SR  G 1538.51    4100     14                                                 
+ 87SR  L  4618.5    5                                                       B   
+ 87SR2 L FLAG=F$XREF=BG(4620)I(4612)                                            
+ 87SR  L  4631.7    3                                                       B   
+ 87SR2 L FLAG=F$XREF=BG(4620)I$                                                 
+ 87SR  L 4644.07    41/2+,3/2                                                   
+ 87SR2 L XREF=BC$                                                               
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 927.39     818       3                                                 
+ 87SR  G 1137.01    915       3                                                 
+ 87SR  G 1212.30   187.9     21                                                 
+ 87SR  G 1366.36   1511.0    21                                                 
+ 87SR  G 1385.19    632       5                                                 
+ 87SR  G 2873.7     3100     11                                                 
+ 87SR  G 3415.8     321       4                                                 
+ 87SR  G 3770.46   1070       4                                                 
+ 87SR  L 4651.28    51/2+,3/2,5/2+                                              
+ 87SR2 L XREF=CI(4659)$                                                         
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 934.45     3100     18                                                 
+ 87SR  G 2236.95   1943       7                                                 
+ 87SR  G 2880.63   1036       4                                                 
+ 87SR  L  4653.2    3                                                           
+ 87SR2 L XREF=BI(4659)$                                                         
+ 87SR  L 4671.8     6 (21/2+)                                               H   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL J$DCO ratio and cascade placement                                      
+ 87SR  G  100.4    4  100    9                                                  
+ 87SR  G  954.0    7   53    7 (D)                                              
+ 87SR2 G FL=3718.0                                                              
+ 87SR  G  985.8    7    4    LT                                                 
+ 87SR  G 1060.9    7   22    3                                                  
+ 87SR  G 1281.0    7   25    4                                                  
+ 87SR  L  4676.3    4                                                           
+ 87SR2 L XREF=BI$                                                               
+ 87SR  L 4684.61    3 1/2-,3/2                                                  
+ 87SR2 L XREF=CI$                                                               
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2-.    
+ 87SR  G 953.10    1221       4                                                 
+ 87SR  G 1076.91    474      12                                                 
+ 87SR  G 1559.42    674      12                                                 
+ 87SR  G 1665.43    4100     LT                                                 
+ 87SR  G 1677.37    753      9                                                  
+ 87SR  G 3431.18   2313      2                                                  
+ 87SR  G 3811.07   12100      6                                                 
+ 87SR  G 4295.93   1345       3                                                 
+ 87SR  L  4689.3    7                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L  4695.8    5                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L  4708.16  23                                                       B   
+ 87SR2 L XREF=BG(4720)I(4716)$                                                  
+ 87SR  L  4717.8    45/2-,7/2-                                              B   
+ 87SR2 L XREF=BG(4720)I(4716)$                                                  
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L  4751      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L 4783.75    41/2+,3/2,5/2+                                          D   
+ 87SR2 L XREF=CG(4780)I(4785)$                                                  
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 1276.6     34.2     13                                                 
+ 87SR  G 1632.08    819       3                                                 
+ 87SR  G 1933.23    450       8                                                 
+ 87SR  G 2369.36   1617.3    24                                                 
+ 87SR  G 3555.10    9100      5                                                 
+ 87SR  G 3910.32   1137.2    21                                                 
+ 87SR  L 4789.87    6 3/2                                                   D   
+ 87SR2 L XREF=BCG(4780)I(4785)$                                                 
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 5/2+ and 5/2-.    
+ 87SR  G 1187.31   1211.2    22                                                 
+ 87SR  G 2375.38   1214.9    17                                                 
+ 87SR  G 3535.92    966       4                                                 
+ 87SR  G 3561.07   22100      5                                                 
+ 87SR  G 3916.30   1232.0    24                                                 
+ 87SR  L  4799.42  16                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4780)$                                                  
+ 87SR  L  4822.78  25                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L 4826.84    6 1/2+,3/2                                                  
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2+.    
+ 87SR  G 1455.23    748       8                                                 
+ 87SR  G 2717.4     412       3                                                 
+ 87SR  G 3056.60   1324.6    18                                                 
+ 87SR  G 4438.12   11100      5                                                 
+ 87SR  L  4846.46  201/2-,3/2-                                              B   
+ 87SR2 L XREF=BG(4860)$                                                         
+ 87SR cL J         L=1 in ({+3}He,|a).                                          
+ 87SR  L  4878      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L  4887.22  22                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L  4905.2    7                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L 4921.90    4                                                           
+ 87SR2 L XREF=CI(4918)$                                                         
+ 87SR  G 1314.28    4100     15                                                 
+ 87SR  G 2245.06    992      10                                                 
+ 87SR  G 2506.95   1850       7                                                 
+ 87SR  G 3693.34   1163       4                                                 
+ 87SR  L  4925.6    4                                                       B   
+ 87SR2 L XREF=BI(4918)$                                                         
+ 87SR  L  4934.24  23                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4950)$                                                  
+ 87SR  L  4943.3    4                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4950)I(4951)$                                           
+ 87SR  L  4948.63  24                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4950)I(4951)$                                           
+ 87SR  L 4953.11    6 1/2,3/2,5/2+                                          D   
+ 87SR2 L XREF=CG(4950)I(4951)$                                                  
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 770.77     913.2    24                                                 
+ 87SR  G 2031.96    7100     12                                                 
+ 87SR  G 4079.84   1619.4    15                                                 
+ 87SR  G 4564.35   1511.5     9                                                 
+ 87SR  L 4964.32    4 1/2+,3/2                                              D   
+ 87SR2 L XREF=CG(4950)$                                                         
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2+.    
+ 87SR  G 627.32     622       4                                                 
+ 87SR  G 781.85    1012.1    24                                                 
+ 87SR  G 799.26     718       3                                                 
+ 87SR  G 1199.04   1610.0    21                                                 
+ 87SR  G 2854.25    774       8                                                 
+ 87SR  G 3736.1     543.1    24                                                 
+ 87SR  G 4575.54   11100      5                                                 
+ 87SR  L  4969.1    5                                                       B   
+ 87SR2 L FLAG=D$XREF=BG(4950)$                                                  
+ 87SR  L  4975.1    4                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L  4990.7    3                                                           
+ 87SR2 L XREF=B$                                                                
+ 87SR  L  5020     205/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L 5063.08    41/2+,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 1111.68    631       5                                                 
+ 87SR  G 1286.94    844       8                                                 
+ 87SR  G 2648.52    7100     11                                                 
+ 87SR  G 2893.55   1534       5                                                 
+ 87SR  G 3834.68   1439       3                                                 
+ 87SR  G 4189.65   1192       5                                                 
+ 87SR  L 5067.58    51/2+,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 1915.99    5100     16                                                 
+ 87SR  G 2126.47   1454       7                                                 
+ 87SR  G 2653.09    893      10                                                 
+ 87SR  G 3297.24   1721.8    19                                                 
+ 87SR  G 3839.2     335       7                                                 
+ 87SR  L 5082.46    6 1/2,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 1130.94   6 99      16                                                 
+ 87SR  G 4209.24   1434.7    24                                                 
+ 87SR  G 4693.93   15100      7                                                 
+ 87SR  L 5091.04    31/2,3/2,5/2+                                               
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 1034.64    445       7                                                 
+ 87SR  G 1064.63    718       3                                                 
+ 87SR  G 1132.54    824       4                                                 
+ 87SR  G 1659.66    4100     15                                                 
+ 87SR  G 1665.43    45       LT                                                 
+ 87SR  G 2921.50    872       7                                                 
+ 87SR  G 4218.02   197.6      6                                                 
+ 87SR  L 5106.55    91/2-,3/2-                                                  
+ 87SR2 L XREF=CG(5120)                                                          
+ 87SR cL J         L=1 in ({+3}He,|a).                                          
+ 87SR  G 1050.28   178.6     17                                                 
+ 87SR  G 2099.46   1733       5                                                 
+ 87SR  G 4717.76   12100      5                                                 
+ 87SR  L  5120      85/2-,7/2-                                                  
+ 87SR2 L XREF=GI                                                                
+ 87SR cL E         from (p,p').                                                 
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L 5142.3     3 1/2,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         |g to 1/2+.                                                  
+ 87SR  G 1864.3     380      24                                                 
+ 87SR  G 2974.0     5100     28                                                 
+ 87SR  L  5169      8                                                           
+ 87SR2 L XREF=I$                                                                
+ 87SR  L 5173.7     7 (23/2+)                                               H   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL J$From DCO ratio and cascade placement                                 
+ 87SR  G  501.9    4  100     7(D)                                              
+ 87SR  G 1562.8    7   11    2                                                  
+ 87SR  L 5207.25    6 1/2+,3/2                                                  
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2+.    
+ 87SR  G 1791.65   118.2     16                                                 
+ 87SR  G 2530.24    926       3                                                 
+ 87SR  G 2792.66   254.6      7                                                 
+ 87SR  G 3436.76   1410.4     9                                                 
+ 87SR  G 3978.65   10100      5                                                 
+ 87SR  G 4333.9     33.0      5                                                 
+ 87SR  G 4818.9     45.3     16                                                 
+ 87SR  L  5260     205/2-,7/2-                                                  
+ 87SR2 L XREF=G(5260)                                                           
+ 87SR cL J         L=3 in ({+3}He,|a).                                          
+ 87SR  L 5282.37   101/2-,3/2-                                                  
+ 87SR2 L XREF=CG(5260)                                                          
+ 87SR cL J         L=1 in ({+3}He,|a).                                          
+ 87SR  G 2157.13   2331       6                                                 
+ 87SR  G 4408.74   2027       4                                                 
+ 87SR  G 4893.73   12100      6                                                 
+ 87SR  L 5296.15    6 1/2+,3/2                                                  
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's to 1/2- and 5/2+.    
+ 87SR  G 759.57    175.2     13                                                 
+ 87SR  G 3186.08    9100      5                                                 
+ 87SR  G 4067.75   1311.4     8                                                 
+ 87SR  G 4422.44   1337.7    24                                                 
+ 87SR  G 4907.5     44.2      8                                                 
+ 87SR  L 5333.29    81/2,3/2,5/2+                                               
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 2266.85   1068       8                                                 
+ 87SR  G 2918.69   2424       5                                                 
+ 87SR  G 4459.90   11100      5                                                 
+ 87SR  L 5379.02    81/2-,3/2                                                   
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2-.               
+ 87SR  G 774.29    155.5     13                                                 
+ 87SR  G 4124.93   1316.8    10                                                 
+ 87SR  G 4505.50   12100      6                                                 
+ 87SR  L 5397.14    6 1/2,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 1172.97   1234       6                                                 
+ 87SR  G 1890.05    5100     15                                                 
+ 87SR  G 1965.72   1727       6                                                 
+ 87SR  G 2720.17   1363       8                                                 
+ 87SR  G 5008.68   2030       3                                                 
+ 87SR  L  5420     205/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in ({+3}He,|a)                                           
+ 87SR  L  5560     205/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in ({+3}He,|a)                                           
+ 87SR  L 5647.33    7 1/2-,3/2                                                  
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 1/2- and 5/2-.      
+ 87SR  G 2044.77    8100     11                                                 
+ 87SR  G 2414.93    969       7                                                 
+ 87SR  G 2970.6     320       5                                                 
+ 87SR  G 4392.7     335      10                                                 
+ 87SR  G 5258.74   1836       3                                                 
+ 87SR  L 5673.18    6 1/2,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 1028.64   1913       3                                                 
+ 87SR  G 1714.49    855       9                                                 
+ 87SR  G 3563.20   1398       9                                                 
+ 87SR  G 4798.1     623      11                                                 
+ 87SR  G 5284.63   13100      6                                                 
+ 87SR  L  5770     205/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in ({+3}He,|a)                                           
+ 87SR  L 5811.16    41/2,3/2,5/2+                                               
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g).                              
+ 87SR  G 1614.44   1017       3                                                 
+ 87SR  G 1646.04    724       4                                                 
+ 87SR  G 1938.92    827       5                                                 
+ 87SR  G 2035.24    7100     11                                                 
+ 87SR  G 2385.70   1121.6    25                                                 
+ 87SR  G 3396.51    947.3    25                                                 
+ 87SR  G 3700.86   1125.4    16                                                 
+ 87SR  L 5843.34    5 3/2                                                       
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2- and 5/2+.      
+ 87SR  G 1192.01    589      14                                                 
+ 87SR  G 1971.15    6100     16                                                 
+ 87SR  G 4589.04   1823.8    17                                                 
+ 87SR  G 4615.0     341       4                                                 
+ 87SR  L 5885.3     8 (25/2+)                                               H   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL J$DCO ratio and cascade placement                                      
+ 87SR  G  711.6    4  100      (D)                                              
+ 87SR  L  5920     205/2-,7/2-                                                  
+ 87SR2 L XREF=G$                                                                
+ 87SR cL J         L=3 in ({+3}He,|a)                                           
+ 87SR  L 5943.16    6 3/2                                                       
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2- and 5/2+.      
+ 87SR  G 990.11    1433       7                                                 
+ 87SR  G 1606.02    8100     17                                                 
+ 87SR  G 2167.42   1587      12                                                 
+ 87SR  G 4688.97   1383       5                                                 
+ 87SR  G 4714.5     540       6                                                 
+ 87SR  G 5074.1    1516      10                                                 
+ 87SR  L 6074.44    81/2+,3/2,5/2+                                              
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2+.               
+ 87SR  G 2018.06   11100     13                                                 
+ 87SR  G 2308.94   1086.1    99                                                 
+ 87SR  G 4304.18   2145.1    66                                                 
+ 87SR  G 5200.56   2127.0    25                                                 
+ 87SR  L 6074.7     7 (25/2+)                                                   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL E$The high spin of this level makes it unlikely                        
+ 87SR2cL to be the 6074.44 level populated in (n,|g)                            
+ 87SR cL J$From DCO ratio and cascade placement                                 
+ 87SR  G  901.0    4  100    9 (D)                                              
+ 87SR  G 1634.1    7  10     2                                                  
+ 87SR  L 6093.68    6 1/2+,3/2                                                  
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g's 1/2- and 5/2+.       
+ 87SR  G 1869.44   1033       6                                                 
+ 87SR  G 2816.6     48.4     21                                                 
+ 87SR  G 2834.89    8100     11                                                 
+ 87SR  G 3172.48   2014.7    16                                                 
+ 87SR  G 3924.28   2213.7    16                                                 
+ 87SR  G 5220.12   1362       3                                                 
+ 87SR  G 5704.95   2027       3                                                 
+ 87SR  L 6189.07    61/2(+),3/2,5/2+                                            
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to (5/2)+.             
+ 87SR  G 1362.24    736       6                                                 
+ 87SR  G 2929.83   2510.0    19                                                 
+ 87SR  G 3122.51   1329.0    19                                                 
+ 87SR  G 3512.21   10100      6                                                 
+ 87SR  G 5315.3     423       5                                                 
+ 87SR  L 6374.1     9 (27/2+)                                               H   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL J$From DCO ratio and cascade placement                                 
+ 87SR  G  299.4    7   91    10                                                 
+ 87SR2 G FL=6074.7                                                              
+ 87SR  G  488.8    7  100    8 (D)                                              
+ 87SR  L 6674.6    10 (29/2+)                                               H   
+ 87SR2 L XREF=L$                                                                
+ 87SR cL J$DCO ratio and cascade placement                                      
+ 87SR  G  300.5    4  100      (D)                                              
+ 87SR  L 7032.43    81/2-,3/2                                                   
+ 87SR2 L XREF=C$                                                                
+ 87SR cL J         primary |g from 1/2+ in (n,|g) and |g to 5/2-.               
+ 87SR  G 1941.42   1913       3                                                 
+ 87SR  G 2495.79    8100     11                                                 
+ 87SR  G 2976.1     74.5     24                                                 
+ 87SR  G 4618.3     92.4     11                                                 
+ 87SR  G 5778.7     45.2      7                                                 
+ 87SR  G 6159.0     46.9     11                                                 
+ 87SR  L 7442.5    10 31/2(+)                                               H   
+ 87SR cL J$From DCO ratio and cascade placement                                 
+ 87SR  G  767.9    4  100      (D)                                              
+ 87SR  L    10720  20  3/2-                                                     
+ 87SR2 L XREF=G$                                                                
+ 87SR cL E         isobaric analog to {+87}Rb gs (J{+|p}=3/2-).                 
+ 87SR cL J         L=1 in ({+3}He,|a), isobaric analog to {+87}Rb gs            
+ 87SR2cL      (J{+|p}=3/2-).                                                    
+ 87SR  L    11120  20  5/2-                                                     
+ 87SR2 L XREF=G$                                                                
+ 87SR cL E         isobaric analog to the 403 level in {+87}Rb.                 
+ 87SR cL J         L=3 in ({+3}He,|a); isobaric analog to the 403 level in      
+ 87SR2cL      {+87}Rb (J{+|p}=5/2-).                                            
+ 87SR  L    11550  20  1/2-                                                     
+ 87SR2 L XREF=G$                                                                
+ 87SR cL E         isobaric analog to the 845 level in {+87}Rb.                 
+ 87SR cL J         L=1 in ({+3}He,|a); isobaric analog to the 845 level in      
+ 87SR2cL      {+87}Rb (J{+|p}=1/2-).                                            
