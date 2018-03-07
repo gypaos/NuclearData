@@ -1,0 +1,1218 @@
+124SN    ADOPTED LEVELS, GAMMAS                                  08NDS    200807
+124SN  H TYP=FUL$AUT=J. KATAKURA, Z.D. WU$CIT=NDS 109, 1655 (2008)$             
+124SN2 H CUT=1-Apr-2008$                                                        
+124SN  XA124IN B- DECAY (3.7 S)                                                 
+124SN  XB124IN B- DECAY (3.12 S)                                                
+124SN  XC124SN IT DECAY                                                         
+124SN  XE122SN(T,P)                                                             
+124SN  XN124SN(G,G'),(POL G,G')                                                 
+124SN  XJ124SN(E,E')                                                            
+124SN  XK124SN(N,N'G)                                                           
+124SN  XF124SN(P,P')                                                            
+124SN  XL124SN(P,P'G)                                                           
+124SN  XG124SN(D,D')                                                            
+124SN  XH124SN(3HE,3HE')                                                        
+124SN  XI124SN(A,A')                                                            
+124SN  XDCOULOMB EXCITATION                                                     
+124SN  XM128TE(D,6LI)                                                           
+124SN  Q -613.2    228489.2  2412093   20-6702   4     2012WA38                 
+124SN cQ $Note: Current evaluation has used the following Q record              
+124SN  Q -616.5    218487.6  2612100   24-6688   19    2003AU03                 
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 2{-1}+):                               
+124SN2tL    > 9.1|*10{+20} y (2008BaZZ)                                         
+124SN3tL    > 3.1|*10{+18} y (2008Da02)                                         
+124SN4tL    > 2.3|*10{+18} y (2007Ki13)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 0{-1}+):                               
+124SN2tL    > 1.1|*10{+21} y (2008BaZZ)                                         
+124SN3tL    > 7.7|*10{+18} y (2008Da02)                                         
+124SN4tL    > 6.7|*10{+18} y (2007Ki13)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 2{-2}+):                               
+124SN2tL    > 9.4|*10{+20} y (2008BaZZ)                                         
+124SN3tL    > 4.4|*10{+18} y (2008Da02)                                         
+124SN4tL    > 7.9|*10{+18} y (2007Ki13)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 0{-2}+):                               
+124SN2tL    > 1.2|*10{+21} y (2008BaZZ)                                         
+124SN3tL    > 7.9|*10{+18} y (2008Da02)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 0{-3}+):                               
+124SN2tL    > 1.2|*10{+21} y (2008BaZZ)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 0{-4}+):                               
+124SN2tL    > 8.2|*10{+20} y (2008BaZZ)                                         
+124SN3tL    > 4.4|*10{+18} y (2008Da02)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 2{-3}+):                               
+124SN2tL    > 8.6|*10{+20} y (2008BaZZ)                                         
+124SN3tL    > 4.4|*10{+18} y (2008Da02)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 2{-4}+):                               
+124SN2tL    > 9.6|*10{+20} y (2008BaZZ)                                         
+124SN3tL    > 3.1|*10{+18} y (2008Da02)                                         
+124SN tL $T{-1/2}(2|b{+-}(0|n+2|n)(0+ to 0{-5}+):                               
+124SN2tL    > 9.5|*10{+20} y (2008BaZZ)                                         
+124SN cL E         For |g-connecting levels from a least-squares fit to the     
+124SN2cL adopted E|g's. Others from (t,p), unless otherwise noted               
+124SN cL E(D)      From (p,p')                                                  
+124SN cL J(A)      From |g(|q) and |g-pol in (n,n'|g)                           
+124SN cL J(B)      From |g'(90|')/|g'(127|') and asymmetry in                   
+124SN2cL (pol |g,|g')                                                           
+124SN cL T         From DSA of |g's in (n,n'|g), unless otherwise noted         
+124SN cL T(H)      From |G{+2}{-|g0}/|G{-|g} and branching ratios in (|g,|g')   
+124SN cG E         From weighted av from (n,n'|g) and {+124}In |b{+-} decay     
+124SN2cG (3.12 s), unless otherwise noted                                       
+124SN cG E(U)      From weighted av from (n,n'|g) and {+124}In |b{+-} decay     
+124SNxcG (3.7 s)                                                                
+124SN cG E(W)      From {+124}In |b{+-} decay (3.12 s); not observed in 3.7-s   
+124SN2cG decay and in (n,n'|g)                                                  
+124SN cG E(X)      From {+124}In |b{+-} decay (3.7 s); not observed in 3.12-s   
+124SN2cG decay and in (n,n'|g)                                                  
+124SN cG E(Y)$From (n,n'|g)                                                     
+124SN cG E(V,Z)    From (|g,|g')                                                
+124SN cG RI,M,MR   From (n,n'|g), unless otherwise noted                        
+124SN cG M(Z)      From (|g,|g')                                                
+124SN PN                                                                     6  
+124SN  L 0.0         0+                STABLE                                   
+124SNX L XREF=ABCDEFGHIJKLMN                                                    
+124SN cL $<r{+2}>{+1/2}=4.6759 fm {i12} (2004An14, evaluation)                  
+124SN cL $ Mass excess=-88228 {I20} with Penning trap mass spectrometer         
+124SN2cL ISOLTRAP (2005Si34)                                                    
+124SN  L 1131.739  172+                0.92 PS   3                              
+124SNX L XREF=ABCDEFGHIJKLMN                                                    
+124SN cL J         E2 transition to 0+                                          
+124SN2 L MOMM1=-0.30 20 $MOME2=-0.01 17                                         
+124SN cL MOMM1     From transient field integral PAC (1980Ha19,1989Ra17).       
+124SN2cL See also 2005St24 compilation.                                         
+124SN cL MOME2     From Coul. ex. reorientation (1975Gr30,1989Ra17).            
+124SN2cL See also 2005St24 compilation.                                         
+124SN cL T         from B(E2) in Coul. ex. Others: 0.93 ps {I13} from (|g,|g'); 
+124SN2cL > 1.2 ps from (n,n'|g). 2001Ra27 evaluation gives 0.917 ps {I22}.      
+124SN  G 1131.69   2 100       E2                      9.85E-4               C  
+124SNB G BE2W=9.0 3                                                             
+124SNS G KC=0.000855 12$LC=0.0001039 15$MC=2.03E-5 3$NC+=5.51E-6 8              
+124SNS G NC=3.81E-6 6$OC=3.27E-7 5$IPC=1.368E-6 20                              
+124SN cG M         from |a(K)exp=0.0009 {I2} in {+124}In |b{+-} decay (3.7 s)   
+124SN  L 2101.711  234+                3.7 PS    4                              
+124SNX L XREF=ABDEFJ(2180)KM                                                    
+124SN cL J         L=4 in (p,p'); L=5 in (t,p) but its assignment is            
+124SN2cL questionable.                                                          
+124SN cL T         from B(E2) in Coul. ex. Other: >0.8 ps from DSA              
+124SN2cL in (n,n'|g)                                                            
+124SN cL           B(E4)(e,e')=0.014 {I3}                                       
+124SN  G 969.97    2 100       E2                      1.38E-3               C  
+124SNB G BE2W=4.8 6                                                             
+124SNS G KC=0.001195 17$LC=0.0001473 21$MC=2.88E-5 4$NC+=5.86E-6 9              
+124SNS G NC=5.40E-6 8$OC=4.59E-7 7                                              
+124SN  L 2129.596  252+                0.8 PS    +5-2                           
+124SNX L XREF=BDFGKLM                                                           
+124SN cL J          |g(|q) in (n,n'|g), log| {Ift}=5.63 from (1)+               
+124SN cL T         other: |>1.8 fs in Coul. ex.                                 
+124SN  G 997.85    2 100.00  10M1+E2     +3.2    +7-5  1.31E-32              C  
+124SNB G BM1W=0.0021 5$BE2W=17.4 4                                              
+124SNS G KC=0.001142 17$LC=0.0001399 21$MC=2.73E-5 4$NC+=5.57E-6 8              
+124SNS G NC=5.13E-6 8$OC=4.39E-7 7                                              
+124SN  G 2129.6    3 1.73    10E2                      6.48E-4                  
+124SNB G BE2W=0.012 +4-8                                                        
+124SNS G KC=0.000250 4$LC=2.93E-5 5$MC=5.70E-6 8$NC+=0.000363 5                 
+124SNS G NC=1.075E-6 15$OC=9.44E-8 14$IPC=0.000362 5                            
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN  L 2192.17    30+                0.55 PS   GT                             
+124SNX L XREF=BFK                                                               
+124SN cL J         J|p=0+ from |g(|q), |g-pol and excitation function           
+124SN2cL in (n,n'|g)                                                            
+124SN  G 1060.42   2 100       E2                      1.13E-3               C  
+124SN cG M         |g(|q) in (n,n'|g) and RUL                                   
+124SNS G KC=0.000983 14$LC=0.0001201 17$MC=2.35E-5 4$NC+=4.78E-6 7              
+124SNS G NC=4.40E-6 7$OC=3.77E-7 6                                              
+124SN  L   2204.62023(5-)              0.27 US   6                              
+124SNX L XREF=ACE(2213)FGKM                                                     
+124SN cL J         E2 |g from (7-), L=5(+4) in (p,p')                           
+124SN cL T         from |b|g(t) {+124}In |b{+-} decay (3.7 s) (1979Fo10)        
+124SN  G 102.91    2 100     5 E1                      0.1672               UC  
+124SNB G BE1W=4.4E-7 11                                                         
+124SNS G KC=0.1447 21$LC=0.0183 3$MC=0.00356 5$NC+=0.000706 10                  
+124SNS G NC=0.000656 10$OC=4.96E-5 7                                            
+124SN cG M         from |a(K)exp=0.15 {I3} in {+124}In |b{+-} decay (3.7 s)     
+124SN  G 1072.88   2 92      10[E3]                    0.00226              UC  
+124SNB G BE3W=1.3 4                                                             
+124SNS G KC=0.00194 3$LC=0.000255 4$MC=5.02E-5 7$NC+=1.017E-5 15                
+124SNS G NC=9.39E-6 14$OC=7.83E-7 11                                            
+124SN cG RI        weighted av of 84 {I7} from (n,n') and 104 {I9} from         
+124SN2cG {+124}In |b{+-} decay (3.7 s)                                          
+124SN  L 2221.75    54+                0.9 PS    +9-3                       A   
+124SNX L XREF=BK                                                                
+124SN  G 1089.97   5 100       E2                      1.07E-3               C  
+124SNB G BE2W=11 +4-11                                                          
+124SNS G KC=0.000926 13$LC=0.0001129 16$MC=2.20E-5 3$NC+=4.50E-6 7              
+124SNS G NC=4.14E-6 6$OC=3.55E-7 5                                              
+124SN  L    2325.01 4(7-)              3.1 US    5                              
+124SNX L XREF=ACEFKM                                                            
+124SN cL J         L=7 in (p,p') and (t,p)                                      
+124SN cL T         from |b|g(t) {+124}In |b{+-} decay (3.7 s) (1979Fo10)        
+124SN  G 120.38    3 100       E2                      0.826                UC  
+124SNB G BE2W=0.107 18                                                          
+124SNS G KC=0.628 9$LC=0.1600 23$MC=0.0324 5$NC+=0.00606 9                      
+124SNS G NC=0.00578 9$OC=0.000280 4                                             
+124SN cG M         from |a(K)exp=0.64 {I13} in {+124}In |b{+-} decay (3.7 s)    
+124SN  L     2366.5 5                                                           
+124SNX L XREF=B                                                                 
+124SN  G 1234.8    5 100                                                    WC  
+124SN  L 2426.316  212+                0.35 PS   +20-10                         
+124SNX L XREF=BDEFGKMN                                                          
+124SN cL J         E2 |g to 0+                                                  
+124SN cL T         other: >0.08 ps in Coul. ex., 0.72 ps {I18} in (|g,|g')      
+124SN  G 1294.54   2 53      6 M1+E2     -0.21   2     8.97E-4               C  
+124SNB G BM1W=0.00962 8$BE2W=0.18 4                                             
+124SNS G KC=0.000766 11$LC=9.08E-5 13$MC=1.770E-5 25$NC+=2.34E-5 4              
+124SNS G NC=3.34E-6 5$OC=2.95E-7 5$IPC=1.97E-5 3                                
+124SN  G 2426.36   3 100     8 E2                      7.32E-4                  
+124SNB G BE2W=0.34 +11-20                                                       
+124SNS G KC=0.000198 3$LC=2.31E-5 4$MC=4.50E-6 7$NC+=0.000507 7                 
+124SNS G NC=8.48E-7 12$OC=7.46E-8 11$IPC=0.000506 7                             
+124SN  L 2448      10(8+)                                                   D   
+124SNX L XREF=FM(*)                                                             
+124SN cL J         L=(8) in (p,p')                                              
+124SN  L    2454.34 36+                                                     A   
+124SNX L XREF=KM(*)                                                             
+124SN  G 129.3     3 8.2     12                                             Y   
+124SN  G 249.72    2 100     5 E1(+M2)   +0.05   3      0.0145 9            Y   
+124SNS G KC=0.0126 8$LC=0.00155 11$MC=0.000302 22$NC+=6.1E-5 5                  
+124SNS G NC=5.6E-5 4$OC=4.6E-6 4                                                
+124SN  L    2568.15 46-                                                     A   
+124SNX L XREF=AK                                                                
+124SN  G 243.13    3 50      6 M1(+E2)   +0.01   3     0.0494               UC  
+124SNS G KC=0.0428 6$LC=0.00534 8$MC=0.001046 15$NC+=0.000214 3                 
+124SNS G NC=0.000197 3$OC=1.716E-5 24                                           
+124SN cG RI        weighted av of 47 {I3} from (n,n'|g) and 62 {I6} from        
+124SN2cG {+124}In |b{+-} decay (3.11 s)                                         
+124SN cG M         from |a(K)exp=0.042 {I13} in {+124}In |b{+-} decay (3.7 s)   
+124SN  G 363.53    3 100     7 M1(+E2)   +0.01   2     0.01750              UC  
+124SNS G KC=0.01519 22$LC=0.00187 3$MC=0.000366 6$NC+=7.49E-5 11                
+124SNS G NC=6.89E-5 10$OC=6.03E-6 9                                             
+124SN cG M         from |a(K)exp=0.030 {I9} in {+124}In |b{+-} decay (3.7 s)    
+124SN  L    2578.44 58(+)                                                       
+124SNX L XREF=ACK                                                               
+124SN cL J         |g(|q) and |g-pol in (n,n'|g), low level population in       
+124SN2cL (n,n'|g), E2 |g from (10+)                                             
+124SN  G 253.43    3 100       D+Q       +0.09   5                          UC  
+124SN  L 2602.495  253-                0.068 PS  6                              
+124SNX L XREF=BDE(2612)FGI(2610)JKM(*)                                          
+124SN cL J         L=3 in (|a,|a')                                              
+124SN cL           B(E3)(e,e')=0.076 {I11};                                     
+124SN2cL 2002Ki06 evaluation gives 0.073 {I10}.                                 
+124SN  G 1470.71   2 100       E1+M2     +0.05   2     4.84E-48              C  
+124SNB G BE1W=0.00125 11$BM2W=7 6                                               
+124SNS G KC=0.000242 5$LC=2.81E-5 5$MC=5.47E-6 10$NC+=0.000209 3                
+124SNS G NC=1.030E-6 19$OC=9.00E-8 16$IPC=0.000208 3                            
+124SN  L    2614.45 34-                                                     A   
+124SNX L XREF=KM(*)                                                             
+124SN  G 409.83    2 100       M1(+E2)   +0.02   2     0.01295              Y   
+124SNS G KC=0.01125 16$LC=0.001379 20$MC=0.000270 4$NC+=5.52E-5 8               
+124SNS G NC=5.08E-5 8$OC=4.45E-6 7                                              
+124SN  L     2656.6 5(10+)             45 US     5                           M1 
+124SNX L XREF=C                                                                 
+124SN2 L %IT=100                                                                
+124SN cL J         systematics of 10+ state in {+116}Sn-{+130}Sn isotopes       
+124SN cL T         from measurements with pulsed beam                           
+124SN2cL in {+124}Sn IT decay (1992Br06)                                        
+124SN  G 78.2      5 100       E2                      3.83   11                
+124SNB G BE2W=0.024 3                                                           
+124SNS G KC=2.53 7$LC=1.04 4$MC=0.214 7$NC+=0.0390 13                           
+124SNS G NC=0.0376 13$OC=0.00140 4                                              
+124SN cG E,M       from {+124}Sn IT decay                                       
+124SN  L 2688.50    50+                0.28 PS   GT                             
+124SNX L XREF=DFKLM                                                             
+124SN cL J         p(|q) from (p,p') IAR and excitation function in (n,n'|g)    
+124SN cL T         other: >0.2 ps in Coul. ex.                                  
+124SN  G 558.81    1228.2    13E2                                               
+124SN cG M         |g(|q) in (n,n'|g) and RUL                                   
+124SN  G 1556.77   5 100.0   13                                             Y   
+124SN  L    2701.78 35-                                                     A   
+124SNX L XREF=KM(*)                                                             
+124SN  G 133.52    139.5     8                                              Y   
+124SN  G 497.16    2 100     8 M1(+E2)   -0.01   4     0.00804              Y   
+124SNS G KC=0.00699 10$LC=0.000851 12$MC=0.0001664 24$NC+=3.41E-5 5             
+124SNS G NC=3.13E-5 5$OC=2.75E-6 4                                              
+124SN  L   2703.187252+                0.4 PS    +4-1                       A   
+124SNX L XREF=BKM(*)                                                            
+124SN  G 573.89    1212.0    13D+Q       -0.4    +4-8                           
+124SN  G 601.4     2 4.4     5 [E2]                    0.00444              Y   
+124SNB G BE2W=17 +5-17                                                          
+124SNS G KC=0.00382 6$LC=0.000500 7$MC=9.82E-5 14$NC+=1.98E-5 3                 
+124SNS G NC=1.83E-5 3$OC=1.484E-6 21                                            
+124SN  G 1571.43   2 100.0   13M1+E2     -0.27   4     6.79E-4               C  
+124SNB G BM1W=0.01046 21$BE2W=0.22 6                                            
+124SNS G KC=0.000505 8$LC=5.96E-5 9$MC=1.161E-5 17$NC+=0.0001029 15             
+124SNS G NC=2.19E-6 4$OC=1.94E-7 3$IPC=0.0001006 15                             
+124SN  G 2703.31   8 21.3    14E2                      8.22E-4              Y   
+124SNB G BE2W=0.046 +14-5                                                       
+124SNS G KC=0.0001639 23$LC=1.91E-5 3$MC=3.71E-6 6$NC+=0.000635 9               
+124SNS G NC=7.00E-7 10$OC=6.17E-8 9$IPC=0.000634 9                              
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN cG E         there is an unplaced 2699.6 {I4} |g in |b{+-} decay with     
+124SN2cG I|g=22 {I2}. It may correspond to 2703|g from (n,n'|g).                
+124SN  L 2706      10(4+)                                                   D   
+124SNX L XREF=FM(*)                                                             
+124SN cL J         L=(4) in (p,p')                                              
+124SN  L    2753.05 34-                                                     A   
+124SNX L XREF=K                                                                 
+124SN  G 150.3     2 2.6     3 (M1+E2)                   0.28 10            Y   
+124SNS G KC=0.23 8$LC=0.042 22$MC=0.008 5$NC+=0.0016 9                          
+124SNS G NC=0.0015 8$OC=9.E-5 4                                                 
+124SN cG M         from (n,n'|g) and |p's of relevant levels                    
+124SN cG MR        -0.02 {I20} or -4 {I+18-3}                                   
+124SN  G 548.43    2 100     8 M1+E2     -0.46   3     0.00622              Y   
+124SNS G KC=0.00540 8$LC=0.000666 10$MC=0.0001302 19$NC+=2.66E-5 4              
+124SNS G NC=2.45E-5 4$OC=2.12E-6 3                                              
+124SN  L 2819.3     5(6+)              0.4 PS    GT                             
+124SNX L XREF=K                                                                 
+124SN cL J         from |g(|q) and excitation function                          
+124SN2cL in (n,n'|g)                                                            
+124SN  G 717.6     5 100       E2                                               
+124SN2 G FL=2101.711                                                            
+124SN cG M         from |g(|q) in (n,n'|g) and RUL                              
+124SN  L    2836.58 43+                0.28 PS   GT                         A   
+124SNX L XREF=BGK                                                               
+124SN  G 614.76    6 34.5    18(M1+E2)                 0.0045 4              C  
+124SNS G KC=0.0039 3$LC=0.000489 20$MC=9.6E-5 4$NC+=1.95E-5 9                   
+124SNS G NC=1.79E-5 8$OC=1.52E-6 13                                             
+124SN cG RI        other: 32.0 {I25} in {+124}In |b{+-} decay (3.11 s)          
+124SN cG M         from (n,n'|g) and |p's of relevant levels                    
+124SN cG MR        +0.4 {I2} or +1.9 {I10}                                      
+124SN  G 706.98    4 100.0   17M1+E2     +2.1    3     0.00302               C  
+124SNB G BM1W<0.028$BE2W<1.5E+2                                                 
+124SNS G KC=0.00261 5$LC=0.000330 5$MC=6.45E-5 10$NC+=1.310E-5 21               
+124SNS G NC=1.209E-5 19$OC=1.013E-6 18                                          
+124SN  G 735.34    1818.6    17(M1+E2)   -0.94   10    0.002925             Y   
+124SNS G KC=0.00253 5$LC=0.000312 5$MC=6.10E-5 10$NC+=1.244E-5 20               
+124SNS G NC=1.146E-5 19$OC=9.84E-7 18                                           
+124SN cG M         from (n,n'|g) and |p's of relevant levels                    
+124SNB G BM1W<0.012?$BE2W<14?                                                   
+124SN  G 1704.87   1127.8    10(M1+E2)   +1.5    3     6.11E-410             C  
+124SNS G KC=0.000393 8$LC=4.65E-5 9$MC=9.05E-6 18$NC+=0.0001619 25              
+124SNS G NC=1.71E-6 4$OC=1.50E-7 3$IPC=0.0001600 25                             
+124SN cG RI        other: 45 {I4} in {+124}In |b{+-} decay (3.11 s)             
+124SN cG M         from (n,n'|g) and |p's of relevant levels                    
+124SNB G BM1W<0.0012?$BE2W<0.58?                                                
+124SN  L    2855.13 56-                                                     A   
+124SNX L XREF=K                                                                 
+124SN  G 650.51    4 100       M1(+E2)   +0.02   3     0.00421              Y   
+124SNS G KC=0.00366 6$LC=0.000443 7$MC=8.65E-5 13$NC+=1.773E-5 25               
+124SNS G NC=1.630E-5 23$OC=1.434E-6 20                                          
+124SN  L 2875.37    52+                0.13 PS   +7-3                       A   
+124SNX L XREF=BF(*2880)KM(*)                                                    
+124SN  G 1743.62   4 100     8 M1+E2     +5.6    +11-8 5.96E-4               C  
+124SNB G BM1W=0.0009 4$BE2W=6.29 8                                              
+124SNS G KC=0.000363 6$LC=4.29E-5 6$MC=8.35E-6 12$NC+=0.000182 3                
+124SNS G NC=1.573E-6 23$OC=1.376E-7 20$IPC=0.000180 3                           
+124SN cG MR        preferred value. Other: -0.20 {I6}                           
+124SN  G 2875.8    4 13.3    13E2                      8.80E-4              Y   
+124SNB G BE2W=0.071 +19-39                                                      
+124SNS G KC=0.0001474 21$LC=1.714E-5 24$MC=3.33E-6 5$NC+=0.000712 10            
+124SNS G NC=6.28E-7 9$OC=5.54E-8 8$IPC=0.000712 10                              
+124SN cG M         from (n,n'|g) and |p's of relevant levels                    
+124SN  L 2878.65    52+                0.067 PS  +18-14                     A   
+124SNX L XREF=BF(*)KM(*)                                                        
+124SN  G 656.8     5 8.2     5 E2                                               
+124SN cG M         from |g(|q) in (n,n'|g) and RUL                              
+124SN  G 686.2     2 13.4    6                                                  
+124SN  G 749.05    1023.1    22D,D+Q                                        Y   
+124SN  G 776.7     2 13.1    6 Q                                            Y   
+124SN  G 1746.94   6 100.0   10M1+E2     +0.67   8     6.17E-424             C  
+124SNS G KC=0.000384 25$LC=4.5E-5 3$MC=8.8E-6 6$NC+=0.000178 6                  
+124SNS G NC=1.66E-6 11$OC=1.46E-7 11$IPC=0.000177 6                             
+124SN cG MR        +0.67 {I8} if J|p=2+ or +2.6 {I4} if J|p=3+                  
+124SN  G 2878.6    5 4.7     4 E2                                               
+124SN cG M         from |g(|q) in (n,n'|g) and RUL                              
+124SN  L 2958.11    64+                0.9 PS    GT                             
+124SNX L XREF=FK                                                                
+124SN cL J         |g(|q) and (M1+E2) |g to 4+ in (n,n'|g)                      
+124SN  G 531.1     2 26      3 (Q)                                          Y   
+124SN2 G FL=2426.316                                                            
+124SN  G 737.4     5 43      6 D+Q       +0.6    9                              
+124SN  G 856.55    1335.7    26(M1+E2)                 0.0020320            Y   
+124SNS G KC=0.00176 18$LC=0.000215 18$MC=4.2E-5 4$NC+=8.6E-6 8                  
+124SNS G NC=7.9E-6 7$OC=6.8E-7 7                                                
+124SN cG MR        -1.0 {I4} or -6 {I+18-14}                                    
+124SN  G 1826.38   7 100     5                                              Y   
+124SN  L    2988.03 33-                0.55 PS   GT                         A   
+124SNX L XREF=F(3002)GK                                                         
+124SN  G 234.95    7 16.5    11(M1+E2)   -0.07   11    0.0542 11            Y   
+124SNS G KC=0.0470 9$LC=0.00588 17$MC=0.00115 4$NC+=0.000235 7                  
+124SNS G NC=0.000217 6$OC=1.88E-5 4                                             
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN cG MR        preferred value. Other: -4 {I+2-8}                           
+124SNB G BM1W<0.28?$BE2W<72?                                                    
+124SN  G 373.75    1310.5    10(M1+E2)                  0.0170 7            Y   
+124SNS G KC=0.0145 5$LC=0.00195 21$MC=0.00038 5$NC+=7.7E-5 8                    
+124SNS G NC=7.1E-5 8$OC=5.74E-6 15                                              
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN cG MR        -0.01 {I12} or -8 {I+4-92}                                   
+124SN  G 385.38    5 53      4 M1+E2     +1.7    3     0.0157724            Y   
+124SNS G KC=0.01347 20$LC=0.00186 4$MC=0.000367 8$NC+=7.33E-5 14                
+124SNS G NC=6.80E-5 14$OC=5.30E-6 8                                             
+124SNB G BM1W<0.066$BE2W<7.8E+2                                                 
+124SN  G 1856.33   3 100     8 E1(+M2)   -0.02   2     6.87E-4              Y   
+124SNS G KC=0.0001639 24$LC=1.90E-5 3$MC=3.68E-6 6$NC+=0.000501 7               
+124SNS G NC=6.94E-7 11$OC=6.08E-8 9$IPC=0.000500 7                              
+124SNB G BE1W<4.3E-5?$BM2W<0.068?                                               
+124SN  L     3011.1 3(7,8,9)                                                    
+124SNX L XREF=A                                                                 
+124SN cL J         log| {Ift}=6.57 from (8-)                                    
+124SN  G 432.7     3 100                                                    XC  
+124SN  L 3109.5    5 1,2+                                                       
+124SNX L XREF=B                                                                 
+124SN cL J         |g to 0+                                                     
+124SN  G 3109.5    5 100                                                    W   
+124SN  L 3130      20(3-,5-)                                                D   
+124SNX L XREF=FG                                                                
+124SN cL J         p(|q) in (p,p') through f{-7/2} analog resonance             
+124SN  L    3143.86 64+                0.11 PS   +9-4                           
+124SNX L XREF=FK                                                                
+124SN cL J         L=4 in (p,p')                                                
+124SN  G 717.68    8 100     8 [E2]                    0.00281              Y   
+124SNB G BE2W=3.7E+2 +14-31                                                     
+124SNS G KC=0.00243 4$LC=0.000310 5$MC=6.07E-5 9$NC+=1.228E-5 18                
+124SNS G NC=1.134E-5 16$OC=9.39E-7 14                                           
+124SN  G 2011.96   8 100     8 [E2]                    6.23E-4              Y   
+124SNB G BE2W=2.1 +8-18                                                         
+124SNS G KC=0.000277 4$LC=3.26E-5 5$MC=6.34E-6 9$NC+=0.000307 5                 
+124SNS G NC=1.194E-6 17$OC=1.047E-7 15$IPC=0.000306 5                           
+124SN  L    3214.36102+                0.025 PS  6                              
+124SNX L XREF=BFG(3190)KN                                                       
+124SN cL J         L=2 in (p,p')                                                
+124SN cL T         other: 0.044 ps {I6} in (|g,|g')                             
+124SN  G 2082.66   1817.4    17M1+E2     +1.2    5     6.44E-410             C  
+124SNB G BM1W=0.006 4$BE2W=1.4 6                                                
+124SNS G KC=0.000270 8$LC=3.17E-5 9$MC=6.18E-6 18$NC+=0.000336 6                
+124SNS G NC=1.16E-6 4$OC=1.03E-7 4$IPC=0.000335 6                               
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN  G 3214.29   12100     8 E2                      9.97E-4                  
+124SNB G BE2W=1.5 4                                                             
+124SNS G KC=0.0001221 17$LC=1.416E-5 20$MC=2.75E-6 4$NC+=0.000858 12            
+124SNS G NC=5.19E-7 8$OC=4.59E-8 7$IPC=0.000857 12                              
+124SN  L 3227.95   11                  0.07 PS   +23-3                          
+124SNX L XREF=K                                                                 
+124SN  G 1098.4    2 67      17                                             Y   
+124SN  G 2096.22   16100     8                                              Y   
+124SN  L    3240.3621(7,8,9)                                                    
+124SNX L XREF=A                                                                 
+124SN cL J         log| {Ift}=6.40 from (8-)                                    
+124SN  G 915.35    20100                                                    XC  
+124SN  L    3264.49112+                0.19 PS   +22-8                          
+124SNX L XREF=BF(*3275)K                                                        
+124SN cL J         |g(|q) and |g-pol in (n,n'|g)                                
+124SN  G 3264.44   11100       E2                      1.01E-3                  
+124SNB G BE2W=0.22 +16-12                                                       
+124SNS G KC=0.0001190 17$LC=1.380E-5 20$MC=2.68E-6 4$NC+=0.000879 13            
+124SNS G NC=5.06E-7 7$OC=4.47E-8 7$IPC=0.000878 13                              
+124SN  L    3267.13 91,2,3             0.14 PS   GT                             
+124SNX L XREF=F(*)K                                                             
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 2135.37   8 100       D,D+Q                                        Y   
+124SN  L    3293.42 92,3                                                        
+124SNX L XREF=BK                                                                
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1163.82   9 100     13D,D+Q                                         C  
+124SN  G 2161.7    3 38      4                                              Y   
+124SN  L    3312.99 72,3,4                                                     ?
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1183.39   6 100                                                    Y   
+124SN  L    3330.41102,3               0.07 PS   +9-3                           
+124SNX L XREF=FK                                                                
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 2198.65   9 100                                                    Y   
+124SN  L    3333.54 92(+)                                                       
+124SNX L XREF=BK                                                                
+124SN cL J         |g(|q) and (M1+E2) |g to 2+ in (n,n'|g)                      
+124SN  G 630.35    14207     21D+Q                                          Y   
+124SN cG MR        +2.3 {I12} or 0.0 {I3}                                       
+124SN  G 1204.1    3 33      7                                              WC  
+124SN  G 2201.79   13100     12(M1+E2)   +1.1    6     6.72E-411             C  
+124SNS G KC=0.000244 8$LC=2.86E-5 9$MC=5.57E-6 18$NC+=0.000393 7                
+124SNS G NC=1.05E-6 4$OC=9.3E-8 4$IPC=0.000392 7                                
+124SN cG RI        other: 38 {I7} in {+124}In |b{+-} decay (3.12 s)             
+124SN  G 3333.3    3 106     11(Q)                                              
+124SN  L 3346.46    7(3,4)                                                      
+124SNX L XREF=G(*)K                                                             
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1244.71   6 100     8                                              Y   
+124SN  G 2215.0    2 29      3                                              Y   
+124SN  L 3360      5 4+                                                         
+124SNX L XREF=EF                                                                
+124SN cL J         L=4 in (p,p')                                                
+124SN  L     3362.3 3(7,8,9)                                                    
+124SNX L XREF=AG(*)                                                             
+124SN cL J         log| {Ift}=6.25 from (8-)                                    
+124SN  G 784.0     6 70      10                                             X   
+124SN cG RI        from {+124}In |b{+-} decay (3.7 s)                           
+124SN  G 1037.3    3 100     10                                             XC  
+124SN cG RI        from {+124}In |b{+-} decay (3.7 s)                           
+124SN  L    3363.59 83(+)                                                       
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) and (M1+E2) |g to 4+ in (n,n'|g)                      
+124SN  G 1261.30   1637      4 (M1+E2)   -1.1    6     0.000876             Y   
+124SNS G KC=0.00074 5$LC=8.9E-5 6$MC=1.73E-5 10$NC+=1.87E-5 5                   
+124SNS G NC=3.26E-6 20$OC=2.85E-7 20$IPC=1.52E-5 7                              
+124SN  G 2231.97   8 100     8 D(+Q)     -0.01   3                          Y   
+124SN  L 3396.5    8 1,2+                                                       
+124SNX L XREF=B                                                                 
+124SN cL J         |g to 0+                                                     
+124SN  G 3396.5    8 100                                                    W   
+124SN  L    3410.14131                                                          
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1280.37   1561      6                                              Y   
+124SN  G 3410.4    2 100     9 D,D+Q                                        Y   
+124SN  L 3414      5 4+                                                         
+124SNX L XREF=EFI                                                               
+124SN cL J         L=4 in (|a,|a')                                              
+124SN  L    3490.18141-                0.0051 PS 5                          B   
+124SNX L XREF=KN                                                                
+124SN cL T         from (|g,|g'), other: 0.006 ps {I+4-3} in (n,n'|g)           
+124SN cL           B(E1)(|g,|g')=6.1|*10{+-5} {I7}                              
+124SN  G 3490.13   14100       E1                      1.52E-3              Y   
+124SNS G KC=6.47E-5 9$LC=7.42E-6 11$MC=1.440E-6 21$NC+=0.001447 21              
+124SNS G NC=2.72E-7 4$OC=2.39E-8 4$IPC=0.001447 21                              
+124SN cG M         from (|g,|g')                                                
+124SN  L    3498.58151,2,3                                                      
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1369.2    2 62      6                                              Y   
+124SN  G 2366.6    2 100     9 D,D+Q                                        Y   
+124SN  L    3509.15 93(+)                                                       
+124SNX L XREF=EFK                                                               
+124SN cL J         |g(|q) and (M1+E2) |g to 2+ in (n,n'|g)                      
+124SN  G 1379.58   9 100     8 (M1+E2)   +2.4    4     7.12E-412            Y   
+124SNS G KC=0.000584 10$LC=6.98E-5 12$MC=1.361E-5 23$NC+=4.46E-5 7              
+124SNS G NC=2.56E-6 5$OC=2.23E-7 4$IPC=4.19E-5 7                                
+124SN cG MR        preferred value. Other: +0.68 {I8}                           
+124SN  G 2377.2    2 55      5 (M1+E2)   +10     +90-5 7.17E-4              Y   
+124SNS G KC=0.000205 3$LC=2.40E-5 4$MC=4.67E-6 7$NC+=0.000483 7                 
+124SNS G NC=8.80E-7 13$OC=7.75E-8 11$IPC=0.000482 7                             
+124SN cG MR        preferred value. Other: +0.32 {I11}                          
+124SN  L    3524.02 8(7-,8-)                                                    
+124SNX L XREF=A                                                                 
+124SN cL J         |g to 6-, log| {Ift}=5.06 from (8-)                          
+124SN  G 955.90    10100     8                                              XC  
+124SN cG RI        from {+124}In |b{+-} decay (3.7 s)                           
+124SN  G 1198.97   1071      6                                              X   
+124SN cG RI        from {+124}In |b{+-} decay (3.7 s)                           
+124SN  L    3551.5312(3-)                                                       
+124SNX L XREF=BF(3560)K                                                         
+124SN cL J         p(|q) in (p,p') through f{-7/2} analog resonance allows      
+124SN2cL (3-,5-). log| {Ift}=6.26 from (1)+ rules out 5-                        
+124SN  G 1330.0    3 100     9                                               C  
+124SN  G 1421.7    2 56      6                                              Y   
+124SN  G 1450.1    3 86      10(D,D+Q)                                       C  
+124SN cG RI        weighted av of 79 {I8} from (n,n'|g) and 100 {I11} from      
+124SN2cG {+124}In |b{+-} decay (3.12 s)                                         
+124SN  G 2419.77   20220     20                                             WC  
+124SN cG RI        from {+124}Sn |b{+-} decay (3.12 s)                          
+124SN  L 3583.66   132+                                                         
+124SNX L XREF=F(3570)K                                                          
+124SN cL J         L=2 in (p,p')                                                
+124SN  G 355.75    1271      7 (Q)                                          Y   
+124SN  G 1453.5    3 100     8 (M1+E2)                 0.000705             Y   
+124SNS G KC=0.00056 5$LC=6.6E-5 5$MC=1.29E-5 10$NC+=6.5E-5 3                    
+124SNS G NC=2.43E-6 19$OC=2.13E-7 19$IPC=6.2E-5 3                               
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN cG MR        -20 {I31} or -0.4 {I3}                                       
+124SN  G 2452.3    3 51      5 (M1+E2)                 7.43E-4              Y   
+124SNS G KC=0.000200 7$LC=2.34E-5 8$MC=4.55E-6 16$NC+=0.000515 9                
+124SNS G NC=8.6E-7 3$OC=7.6E-8 3$IPC=0.000514 9                                 
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN cG MR        -6 -15 or -0.5 {I3}                                          
+124SN  G 3583.6    4 69      7 (E2)                    1.12E-3              Y   
+124SNS G KC=0.0001020 15$LC=1.180E-5 17$MC=2.29E-6 4$NC+=0.001004 14            
+124SNS G NC=4.33E-7 6$OC=3.83E-8 6$IPC=0.001004 14                              
+124SN cG M         from (n,n'|g) and RUL of relevant levels                     
+124SN  L    3603.86172,3                                                        
+124SNX L XREF=FK                                                                
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1177.3    3 27      4                                              Y   
+124SN  G 2472.2    2 100     8                                              Y   
+124SN  L     3643.4 3(7,8,9)                                                    
+124SNX L XREF=AF                                                                
+124SN cL J         log| {Ift}=6.18 from (8-)                                    
+124SN  G 403.01    20100                                                    XC  
+124SN  L    3655.20152,3                                                        
+124SNX L XREF=BK                                                                
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 952.4     2                                                        Y  ?
+124SN  G 1433.3    3 80      11                                             Y   
+124SN  G 1525.6    2 100     13D,D+Q                                            
+124SN  G 1553.6    3 48      9                                              Y   
+124SN  L 3684.91    8(7-)                                                       
+124SNX L XREF=AF                                                                
+124SN cL J         log| {Ift}=4.55 from (8-), L=(6,7) in (p,p')                 
+124SN  G 1106.9    6 2.6     5                                              XC  
+124SN  G 1116.77   1040      4                                              XC  
+124SN  G 1359.86   10100     8                                              X   
+124SN  L 3697.3    4 1                 0.029 PS  +13-10                     B   
+124SNX L XREF=KN                                                                
+124SN cL T         other: 0.034 ps {I6} in (|g,|g')                             
+124SN  G 2565.4    6 17      4                                              Y   
+124SN  G 3697.3    4 100     9 D                                            Y   
+124SN cG M         from (|g,|g')                                                
+124SN  L    3710.39192+                0.030 PS  +28-15                         
+124SNX L XREF=BKN                                                               
+124SN cL J         E2 |g to 0+                                                  
+124SN cL T         other: 0.054 ps {I9} in (|g,|g')                             
+124SN  G 2578.6    3 29      4                                              Y   
+124SN  G 3710.34   24100     9 E2                      1.16E-3                  
+124SNB G BE2W=0.6 +3-2                                                          
+124SNS G KC=9.63E-5 14$LC=1.114E-5 16$MC=2.16E-6 3$NC+=0.001055 15              
+124SNS G NC=4.08E-7 6$OC=3.61E-8 5$IPC=0.001055 15                              
+124SN  L     3724.7 31,2+                                                       
+124SNX L XREF=BK                                                                
+124SN cL J         |g to 0+                                                     
+124SN  G 2593.1    4 100     21                                              C  
+124SN  G 3724.5    4 95      21                                             W   
+124SN  L    3741.6210(2)+                                                       
+124SNX L XREF=BF(*3752)K                                                        
+124SN cL J         log| {Ift}=5.77 from (1)+, |g's to 2+, 3- and 4+             
+124SN  G 1138.4    3 47      15                                             WC  
+124SN  G 1519.53   25100     13                                              C  
+124SN  G 1611.3    4 36      3                                              WC  
+124SN  G 1640.46   19161     15                                              C  
+124SN  G 2609.89   1560      6                                              WC  
+124SN  L    3760.2720(0+,1,2)                                                   
+124SNX L XREF=BF(*)                                                             
+124SN cL J         log| {Ift}=6.46 from (1)+, |g to 2+                          
+124SN  G 2628.50   20100                                                    WC  
+124SN  L    3761.83212+                0.05 PS   +7-3                           
+124SNX L XREF=BF(*)K                                                            
+124SN cL J         E2 |g to 0+                                                  
+124SN  G 2630.3    4 41      5 D,D+Q                                        Y   
+124SN  G 3761.68   24100     9 E2                      1.18E-3                  
+124SNB G BE2W=0.29 +18-3                                                        
+124SNS G KC=9.42E-5 14$LC=1.089E-5 16$MC=2.12E-6 3$NC+=0.001076 15              
+124SNS G NC=3.99E-7 6$OC=3.53E-8 5$IPC=0.001075 15                              
+124SN  L    3765.1411(7-,8-,9-)                                                 
+124SNX L XREF=A                                                                 
+124SN cL J         log| {Ift}=5.26 from (8-)                                    
+124SN  G 1186.6    4 8.7     22                                             XC  
+124SN  G 1440.13   10100     9                                              X   
+124SN  L 3787      10                                                           
+124SNX L XREF=F                                                                 
+124SN  L 3802.54   172,3                                                        
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1673.3    3 18      3                                              Y   
+124SN  G 2670.6    2 100     9                                              Y   
+124SN  L    3809.7121(7,8,9)                                                    
+124SNX L XREF=A                                                                 
+124SN cL J         log| {Ift}=5.86 from (8-)                                    
+124SN  G 1484.69   20100                                                    X   
+124SN  L 3820      10(3-,5-)                                                    
+124SNX L XREF=F                                                                 
+124SN cL J         p(|q) in (p,p') through f{-7/2} analog resonance             
+124SN  L     3831.4 32,3,4                                                      
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 1702.6    4 49      5                                              Y   
+124SN  G 2698.9    4 100     9 Q                                            Y   
+124SN  L 3834.3    7 1,2+                                                       
+124SNX L XREF=B                                                                 
+124SN cL J         |g to 0+                                                     
+124SN  G 3834.2    7 100                                                    W   
+124SN  L    3864.26131,2+                                                       
+124SNX L XREF=BK                                                                
+124SN cL J         |g to 0+                                                     
+124SN  G 1734.69   2068      7                                              WC  
+124SN  G 2732.36   2077      7                                              WC  
+124SN  G 3864.4    3 100     9                                                  
+124SN  L 3872      10(6+)                                                       
+124SNX L XREF=F                                                                 
+124SN cL J         L=(6) in (p,p')                                              
+124SN  L 3888.0    8 1,2+                                                       
+124SNX L XREF=BI(*3900)                                                         
+124SN cL J         |g to 0+                                                     
+124SN  G 3887.9    8 100                                                    W   
+124SN  L 3910.7    9 2+                                                         
+124SNX L XREF=BFI(*)                                                            
+124SN cL J         L=2 in (p,p')                                                
+124SN  G 3910.6    9 100                                                    W   
+124SN  L    3917.27 52+                                                         
+124SNX L XREF=BF(*3930)                                                         
+124SN cL J         |g's to 0+ and 4+                                            
+124SN  G 1042.12   1527      2                                              WC  
+124SN  G 1214.26   2014      1                                              WC  
+124SN  G 1314.73   5 100     9                                              WC  
+124SN  G 1490.9    4 4.2     4                                              WC  
+124SN  G 1695.63   208.4     9                                              WC  
+124SN  G 1787.71   209.8     9                                              WC  
+124SN  G 1815.3    3 4.2     9                                              WC  
+124SN  G 3917.0    3 42      4                                              W   
+124SN  L 3923      5 4+                                                         
+124SNX L XREF=EF(*3930)                                                         
+124SN cL J         L=4 in (t,p)                                                 
+124SN  L     3931.5 3(7,8,9)                                                    
+124SNX L XREF=AF(*3930)                                                         
+124SN cL J         log| {Ift}=5.92 from (8-)                                    
+124SN  G 569.11    15100                                                    XC  
+124SN  L 3963.6    3 1,2                                                        
+124SNX L XREF=FK                                                                
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 2831.9    3 100     12(D,D+Q)                                      Y   
+124SN  G 3963.0    6 94      10                                             Y   
+124SN  L 4043.8    5 1,2+                                                       
+124SNX L XREF=BF                                                                
+124SN cL J         |g to 0+                                                     
+124SN  G 4043.7    5 100                                                    W   
+124SN  L     4074.4 42                                                          
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 2942.4    4 100     10(D,D+Q)                                      Y   
+124SN  G 4075.3    8 85      9 (Q)                                          Y   
+124SN  L 4094.2    3 2,3                                                        
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 2962.4    3 100                                                    Y   
+124SN  L 4120      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L     4156.1 32+                                                         
+124SNX L XREF=BFK                                                               
+124SN cL J         L=2 in (p,p')                                                
+124SN  G 3024.4    3 34      7                                               C  
+124SN  G 4155.8    6 100     11                                             W   
+124SN  L     4208.1 32,3                                                        
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 3076.3    3 100                                                    Y   
+124SN  L     4219.2 61                 13.1 FS   14                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 4219.1    6           D                                            V   
+124SN  L 4227.57   161,2+                                                       
+124SNX L XREF=BK                                                                
+124SN cL J         |g to 0+                                                     
+124SN  G 1352.11   16100     12D,D+Q                                         C  
+124SN  G 4228.0    4 72      16                                             W   
+124SN  L     4263.5 61                 23 FS     4                          H   
+124SNX L XREF=N                                                                 
+124SN  G 4263.4    6           D                                            V   
+124SN  L 4264.1    3 1,2+                                                       
+124SNX L XREF=BF                                                                
+124SN cL J         |g to 0+                                                     
+124SN  G 4264.0    3 100                                                    W   
+124SN  L    4269.8222(4)                                                        
+124SNX L XREF=K                                                                 
+124SN cL J         |g(|q) in (n,n'|g)                                           
+124SN  G 686.2     2 100     11                                             Y   
+124SN  G 3137.8    5 52      6                                              Y   
+124SN  L 4331.4    4 1,2+                                                       
+124SNX L XREF=BF(4343)                                                          
+124SN cL J         |g to 0+                                                     
+124SN  G 4331.3    4 100                                                    W   
+124SN  L    4359.58200+ TO 4+                                                   
+124SNX L XREF=K                                                                 
+124SN cL J         |g to 2+                                                     
+124SN  G 3227.8    2 100                                                    Y   
+124SN  L 4400      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 4470.3    4 1,2+                                                       
+124SNX L XREF=BF                                                                
+124SN cL J         |g to 0+                                                     
+124SN  G 4470.2    4 100                                                    W   
+124SN  L 4528.8    4 1,2+                                                       
+124SNX L XREF=BEF                                                               
+124SN cL J         |g to 0+                                                     
+124SN  G 4528.7    4 100                                                    W   
+124SN  L 4560      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 4570      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L     4604.6 71,2+                                                       
+124SNX L XREF=B                                                                 
+124SN cL J         |g to 0+                                                     
+124SN  G 4604.5    7 100                                                    W   
+124SN  L     4605.8 6                  10.1 FS   25                         H   
+124SNX L XREF=N                                                                 
+124SN  G 4605.7    6                                                        V   
+124SN  L 4620      5 (4+)                                                       
+124SN cL J         L=4 in (t,p)                                                 
+124SNX L XREF=E                                                                 
+124SN  L 4620      20(3-,4-,5-)                                                 
+124SNX L XREF=F                                                                 
+124SN cL J         p(|q) in (p,p') through f{-7/2} analog resonance             
+124SN  L 4672      5 3-                                                         
+124SNX L XREF=EF                                                                
+124SN cL J         L=3 in (t,p)                                                 
+124SN  L 4707      5 3-                                                         
+124SNX L XREF=EFI(*4800)                                                        
+124SN cL J         L=3 in (t,p)                                                 
+124SN  L 4770      20(3-,4-)                                                D   
+124SNX L XREF=FI(*)                                                             
+124SN cL J         p(|q) in (p,p') through f{-7/2} analog resonance             
+124SN  L 4818      5 (5-)                                                       
+124SNX L XREF=E                                                                 
+124SN cL J         L=5 in (t,p)                                                 
+124SN  L 4880      103-                                                         
+124SNX L XREF=EFI(*)                                                            
+124SN cL J         L=3 in (t,p)                                                 
+124SN  L 4916      103-                                                         
+124SNX L XREF=E                                                                 
+124SN cL J         L=3 in (t,p)                                                 
+124SN  L 4948      5 (5-)                                                       
+124SNX L XREF=EF(*4960)                                                         
+124SN cL J         L=5 in (t,p)                                                 
+124SN  L     4953.8 71                 14 FS     3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 4953.7    7           D                                            V   
+124SN  L 4970      5 (2+,3-)                                                    
+124SNX L XREF=EF(*)                                                             
+124SN cL J         L=(2,3) in (t,p)                                             
+124SN  L 5014      5 3-                                                         
+124SNX L XREF=EF                                                                
+124SN cL J         L=3 in (t,p)                                                 
+124SN  L 5050      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L     5064.8 7                  7.0 FS    15                         H   
+124SNX L XREF=N                                                                 
+124SN  G 5064.7    7                                                        V   
+124SN  L 5100      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 5131      5 (4+)                                                       
+124SNX L XREF=E                                                                 
+124SN cL J         L=(4) in (t,p)                                               
+124SN  L 5166      5 3-                                                         
+124SNX L XREF=EI(*5200)                                                         
+124SN cL J         L=3 in (t,p)                                                 
+124SN  L 5196      5 3-                                                         
+124SNX L XREF=EFI(*)                                                            
+124SN cL J         L=3 in (t,p)                                                 
+124SN  L 5267      5 (7-)                                                       
+124SNX L XREF=EF                                                                
+124SN cL J         L=7 in (t,p)                                                 
+124SN  L 5290      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 5313      5 (5-)                                                       
+124SNX L XREF=EF                                                                
+124SN cL J         L=5 in (t,p)                                                 
+124SN  L 5345      5 (5-)                                                       
+124SNX L XREF=E                                                                 
+124SN cL J         L=5 in (t,p)                                                 
+124SN  L 5379      5 (5-)                                                       
+124SNX L XREF=EF                                                                
+124SN cL J         L=5 in (t,p)                                                 
+124SN  L 5430      5 (5-)                                                       
+124SNX L XREF=EF                                                                
+124SN cL J         L=5 in (t,p)                                                 
+124SN  L 5459      10(5-)                                                       
+124SNX L XREF=EF                                                                
+124SN cL J         L=5 in (t,p)                                                 
+124SN  L 5520      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 5552      10                                                           
+124SNX L XREF=E                                                                 
+124SN  L 5614      10                                                           
+124SNX L XREF=EF                                                                
+124SN  L 5640      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 5710      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 5760      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L 5800      20                                                           
+124SNX L XREF=F                                                                 
+124SN  L     5842.6 71-                1.02 FS   8                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=6.4|*10{+-5} {I5}                              
+124SN  G 5842.5    7           E1                      0.00229              Z   
+124SNS G KC=3.30E-5 5$LC=3.77E-6 6$MC=7.31E-7 11$NC+=0.00225 4                  
+124SNS G NC=1.378E-7 20$OC=1.218E-8 17$IPC=0.00225 4                            
+124SN  L 5866      10                                                           
+124SNX L XREF=EF(*)                                                             
+124SN  L     5869.8 8(1)               5.1 FS    10                         H   
+124SNX L XREF=F(*)N                                                             
+124SN2 L FLAG=B                                                                 
+124SN  G 5869.7    8           (D)                                          V   
+124SN  L     5902.7 71                 5.4 FS    20                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 5902.5    7           D                                            V   
+124SN  L     5951.9 71                 1.38 FS   19                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 5951.7    7           D                                            V   
+124SN  L     5968.6 71                 2.2 FS    4                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 5968.4    7           D                                            V   
+124SN  L     6002.2 71                 1.7 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6002.0    7           D                                            V   
+124SN  L     6129.2 71                 0.82 FS   9                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6129.0    7           D                                            V   
+124SN  L     6171.0121                 1.04 FS   10                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6170.8    12          D                                            V   
+124SN  L     6184.2 61-                0.94 FS   11                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=5.9|*10{+-5} {I7}                              
+124SN  G 6184.0    6           E1                                           Z   
+124SN  L     6236.7 71                 0.64 FS   6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6236.5    7           D                                            V   
+124SN  L     6287.3 71                 1.52 FS   24                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6287.1    7           D                                            V   
+124SN  L     6321.8 71-                0.70 FS   6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=7.4|*10{+-5} {I7}                              
+124SN  G 6321.6    7           E1                                           Z   
+124SN  L     6369.3 71-                0.277 FS  16                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=18.2|*10{+-5} {I11}                            
+124SN  G 6369.1    7           E1                                           Z   
+124SN  L     6453.3 71                 1.30 FS   16                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6453.1    7           D                                            V   
+124SN  L     6467.7 61                 0.95 FS   9                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6467.5    6           D                                            V   
+124SN  L     6503.4 61                 1.26 FS   20                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6503.2    6           D                                            V   
+124SN  L     6524.2 51-                0.56 FS   6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=8.3|*10{+-5} {I9}                              
+124SN  G 6524.0    5           E1                                           Z   
+124SN  L     6548.7 51                 0.65 FS   7                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6548.5    5           D                                            V   
+124SN  L     6561.0 71-                0.35 FS   3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=13.1|*10{+-5} {I12}                            
+124SN  G 6560.8    7           E1                                           Z   
+124SN  L     6566.0 81                 0.85 FS   11                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6565.8    8           D                                            V   
+124SN  L     6584.3 61-                0.75 FS   8                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=6.0|*10{+-5} {I6}                              
+124SN  G 6584.1    6           E1                                           Z   
+124SN  L     6600.0 71                 1.4 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6599.8    7           D                                            V   
+124SN  L     6635.8 61-                0.39 FS   3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=11.4|*10{+-5} {I9}                             
+124SN  G 6635.6    6           E1                                           Z   
+124SN  L     6678.1 71-                0.42 FS   3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=10.4|*10{+-5} {I9}                             
+124SN  G 6677.9    7           E1                                           Z   
+124SN  L     6683.5 81-                0.71 FS   9                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=6.1|*10{+-5} {I8}                              
+124SN  G 6683.3    8           E1                                           Z   
+124SN  L     6705.6 81-                0.97 FS   14                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=4.5|*10{+-5} {I6}                              
+124SN  G 6705.4    8           E1                                           Z   
+124SN  L     6713.8 71-                0.52 FS   5                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=8.3|*10{+-5} {I8}                              
+124SN  G 6713.6    7           E1                                           Z   
+124SN  L     6722.5 61                 0.66 FS   7                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6722.3    6           D                                            V   
+124SN  L     6764.4 81-                0.58 FS   7                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=7.2|*10{+-5} {I9}                              
+124SN  G 6764.2    8           E1                                           Z   
+124SN  L     6775.8 81                 0.84 FS   15                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6775.6    8           D                                            V   
+124SN  L     6790.8 81-                0.71 FS   8                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=5.8|*10{+-5} {I7}                              
+124SN  G 6790.6    8           E1                                           Z   
+124SN  L     6808.2 61(+)              1.08 FS   14                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(M1)(|g,|g')=0.35 {I5}                                      
+124SN  G 6808.0    6           (M1)                                         Z   
+124SN  L     6847.3 81-                0.90 FS   10                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=4.5|*10{+-5} {I5}                              
+124SN  G 6847.1    8           E1                                           Z   
+124SN  L     6902.3 81-                1.13 FS   14                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.5|*10{+-5} {I4}                              
+124SN  G 6902.1    8           E1                                           Z   
+124SN  L     6928.4 8(1)               1.4 FS    4                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6928.2    8           (D)                                          V   
+124SN  L     6939.1 81                 1.6 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6938.9    8           D                                            V   
+124SN  L     6947.7 81                 1.6 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 6947.5    8           D                                            V   
+124SN  L     7018.2 81                 1.07 FS   13                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7018.0    8           D                                            V   
+124SN  L     7032.7 71-                0.97 FS   11                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.9|*10{+-5} {I4}                              
+124SN  G 7032.5    7           E1                                           Z   
+124SN  L     7062.4 91                 2.6 FS    6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7062.2    9           D                                            V   
+124SN  L     7071.3 81                 1.31 FS   18                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7071.1    8           D                                            V   
+124SN  L     7086.7 71                 1.46 FS   25                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7086.5    7           D                                            V   
+124SN  L     7125.9 71                 1.22 FS   17                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7125.7    7           D                                            V   
+124SN  L     7234.0 81                 1.8 FS    5                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7233.8    8           D                                            V   
+124SN  L     7258.8101                 1.7 FS    5                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7258.6    10          D                                            V   
+124SN  L     7295.7 71-                0.63 FS   5                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=5.3|*10{+-5} {I4}                              
+124SN  G 7295.5    7           E1                                           Z   
+124SN  L     7308.7 91                 1.7 FS    4                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7308.5    9           D                                            V   
+124SN  L     7326.4 71                 1.7 FS    4                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7326.2    7           D                                            V   
+124SN  L     7337.7 71-                0.76 FS   11                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=4.3|*10{+-5} {I6}                              
+124SN  G 7337.5    7           E1                                           Z   
+124SN  L     7344.6 71                 1.06 FS   21                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7344.4    7           D                                            V   
+124SN  L     7394.7 41-                0.93 FS   15                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.5|*10{+-5} {I6}                              
+124SN  G 7394.5    4           E1                                           Z   
+124SN  L     7487.8 71-                0.72 FS   9                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=4.3|*10{+-5} {I6}                              
+124SN  G 7487.6    7           E1                                           Z   
+124SN  L     7536.7 71-                0.70 FS   11                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=4.4|*10{+-5} {I7}                              
+124SN  G 7536.5    7           E1                                           Z   
+124SN  L     7551.1 61-                0.83 FS   12                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.6|*10{+-5} {I5}                              
+124SN  G 7550.9    6           E1                                           Z   
+124SN  L     7567.1101                 1.33 FS   18                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7566.9    10          D                                            V   
+124SN  L     7576.1 71-                0.96 FS   12                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.1|*10{+-5} {I4}                              
+124SN  G 7575.9    7           E1                                           Z   
+124SN  L     7596.6101-                0.64 FS   6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=4.7|*10{+-5} {I4}                              
+124SN  G 7596.4    10          E1                                           Z   
+124SN  L     7604.0 81-                0.59 FS   8                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=5.0|*10{+-5} {I7}                              
+124SN  G 7603.7    8           E1                                           Z   
+124SN  L     7642.9 81-                1.22 FS   24                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=2.4|*10{+-5} {I5}                              
+124SN  G 7642.6    8           E1                                           Z   
+124SN  L     7666.3 71                 1.9 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7666.0    7           D                                            V   
+124SN  L     7679.1141                 1.7 FS    4                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7678.8    14          D                                            V   
+124SN  L     7684.2111-                0.92 FS   17                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.1|*10{+-5} {I6}                              
+124SN  G 7683.9    11          E1                                           Z   
+124SN  L     7691.5 71                 1.08 FS   18                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7691.2    7           D                                            V   
+124SN  L     7702.9 91                 2.2 FS    5                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7702.6    9           D                                            V   
+124SN  L     7747.7 71-                0.76 FS   8                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.7|*10{+-5} {I4}                              
+124SN  G 7747.4    7           E1                                           Z   
+124SN  L     7759.4 41-                0.62 FS   6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=4.5|*10{+-5} {I4}                              
+124SN  G 7759.1    4           E1                                           Z   
+124SN  L     7770.9 61                 1.09 FS   20                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7770.6    6           D                                            V   
+124SN  L     7778.4 91                 1.6 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7778.1    9           D                                            V   
+124SN  L     7788.6 51                 0.78 FS   9                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7788.3    5           D                                            V   
+124SN  L     7815.6 51-                0.345 FS  25                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=7.9|*10{+-5} {I6}                              
+124SN  G 7815.3    5           E1                                           Z   
+124SN  L     7863.7 81-                0.90 FS   11                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=3.0|*10{+-5} {I4}                              
+124SN  G 7863.4    8           E1                                           Z   
+124SN  L     7872.4 61                 0.78 FS   12                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7872.1    6           D                                            V   
+124SN  L     7880.5 51-                0.39 FS   3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=6.9|*10{+-5} {I5}                              
+124SN  G 7880.2    5           E1                                           Z   
+124SN  L     7905.4121                 1.6 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7905.1    12          D                                            V   
+124SN  L     7913.4 81                 1.03 FS   21                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7913.1    8           D                                            V   
+124SN  L     7939.3121                 1.6 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7939.0    12          D                                            V   
+124SN  L     7957.4 91                 0.53 FS   3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 7957.1    9           D                                            V   
+124SN  L     7999.2 91-                0.90 FS   12                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=2.8|*10{+-5} {I4}                              
+124SN  G 7998.9    9           E1                                           Z   
+124SN  L     8112.1161                 1.22 FS   18                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8111.8    16          D                                            V   
+124SN  L     8119.1 81                 0.55 FS   4                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8118.8    8           D                                            V   
+124SN  L     8132.0151                 0.64 FS   6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8131.7    15          D                                            V   
+124SN  L     8162.5 81                 1.17 FS   16                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8162.2    8           D                                            V   
+124SN  L     8214.6121                 1.6 FS    3                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8214.3    12          D                                            V   
+124SN  L     8229.2 61                 0.72 FS   8                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8228.9    6           D                                            V   
+124SN  L     8257.2 91                 1.43 FS   18                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8256.9    9           D                                            V   
+124SN  L     8270.1 71(+)              0.81 FS   6                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(M1)(|g,|g')=0.26 {I2}                                      
+124SN  G 8269.8    7           (M1)                                         Z   
+124SN  L     8350.4131                 1.44 FS   19                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8350.1    13          D                                            V   
+124SN  L     8376.5111-                0.78 FS   7                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN cL           B(E1)(|g,|g')=2.9|*10{+-5} {I2}                              
+124SN  G 8376.2    11          E1                                           Z   
+124SN  L     8423.1 71                 0.92 FS   9                          H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8422.8    7           D                                            V   
+124SN  L     8433.5101                 1.08 FS   13                         H   
+124SNX L XREF=N                                                                 
+124SN2 L FLAG=B                                                                 
+124SN  G 8433.2    10          D                                            V   
+

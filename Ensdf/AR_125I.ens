@@ -1,0 +1,651 @@
+125I     ADOPTED LEVELS, GAMMAS                                  11NDS    201102
+125I   H TYP=FUL$AUT=J. KATAKURA$CIT=NDS 112, 495 (2011)$CUT=1-Jan-2010$        
+125I   Q -1644.2   229542.8  195600.85 7 -1663.5 25    2012WA38                 
+125I  cQ $Note: Current evaluation has used the following Q record              
+125I   Q -1644.5   229542.8  195600.85  7 -1665.8 19   2009AUZZ                 
+125I  DG CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+125I  cG M,MR      From {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g),                
+125I 2cG unless otherwise noted                                                 
+125I  cG E(H)      Observed in coincidence only in (|a,2n|g); no I|g value      
+125I 2cG was given (1977Ha36)                                                   
+125I  cG E(I)      Weak transition observed in coincidence only (1999Sh19)      
+125I  cL E         E(levels) with uncertainty |<1 keV are from a least-squares  
+125I 2cL fit to E|g's observed in {+125}Xe |e                                   
+125I 3cL decay and {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g);                     
+125I 4cL E(levels) with uncertainty=4-10 keV                                    
+125I 5cL are from {+124}Te({+3}He,d), {+124}Te(|a,t); and E(levels) with        
+125I 6cL uncertainty >10 keV are from {+124}Te(p,p) IAR with S(p)=5600.85 {I7}  
+125I  cL E(G)      Analog resonance                                             
+125I  cL J(G)      From {+124}Te(p,p)                                           
+125I  cL T         From {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g),                
+125I 2cL unless otherwise noted                                                 
+125I  CL BAND(A)$ 7/2+ BAND                                                     
+125I  CL BAND(C)$ |pd{-5/2}, |a=-1/2 yrast band (2001Sh02)                      
+125I  CL BAND(B)$ |pd{-5/2}, |a=+1/2 yrast band (2001Sh02)                      
+125I  CL BAND(D)$ Probable 3-qp band.                                           
+125I 2cL |ph{-11/2}|ng{-7/2}|nh{-11/2} (2001Sh02)                               
+125I  CL BAND(E)$ Probable |ph{-11/2} 1/2[550] band (2001Sh02)                  
+125I  CL BAND(F)$ Probable |pg{-9/2} 9/2[404] band (2001Sh02)                   
+125I   XA123SB(A,2NG),122SN(6LI,3NG)                                            
+125I   XB124TE(A,T)                                                             
+125I   XC124TE(P,P),(P,P') IAR                                                  
+125I   XD124TE(3HE,D)                                                           
+125I   XE125XE EC DECAY                                                         
+125I  PN                                                                     6  
+125I   L 0.0         5/2+              59.407 D  10                         B   
+125I X L XREF=ABDE                                                              
+125I  cL J         Microwave spectroscopy J=5/2 (1976Fu06)                      
+125I 2cL L=2 in ({+3}He,d), (|a,t)                                              
+125I  cL T         Weighted average of 59.37 d {I6}                             
+125I 2cL (1991Al05), 59.416 d {I10} (1990Wo03), 59.38 d {I3} (1990De09), 59.39  
+125I 3cL d {I2} (1989Sc17), and 59.40 d {I5} (1989Si19)                         
+125I 4cL Others: 59.156 d {I20} (1980Ho17), 59.47 d {I21} (1982HoZF), 59.83 d   
+125I 5cL {I11} (1965An07), 59.89 d {I18} (1968La10), 60.18 d {I17} (1972Em01),  
+125I 6cL 60.0 d {I5} (1951Fr21), 57.4 d {I2} (1960Ma36), 58.76 d {I13}          
+125I 7cL (1966Ri14)                                                             
+125I 2 L MOMM1=2.821 5 (1979Sc13)$ MOME2=-0.776 17 (1958Fl39)                   
+125I  cL MOMM1      From nuclear magnetic resonance on oriented nuclei.         
+125I 2cL See also 2005St24 compilation.                                         
+125I  cL MOME2      From microwave absorption.                                  
+125I 2cL See also 2005St24 compilation.                                         
+125I 3 L %EC=100                                                                
+125I   L 113.544    77/2+              0.61 NS   2                          C   
+125I X L XREF=ABDE                                                              
+125I  cL J         L=4 in ({+3}He,d), (|a,t); M1+E2 |g to 5/2+                  
+125I  cL T         From X|g(t) in {+125}Xe |e decay                             
+125I   G 113.551   15100       M1+E2     -0.12   2     0.530                 C  
+125I S G KC=0.454 7$LC=0.0614 14$MC=0.0124 3$NC+=0.00279 6                      
+125I S G NC=0.00250 6$OC=0.000290 6                                             
+125I  cG MR        From L-subshell ratio of ce in {+125}Xe |e decay and |g(|q)  
+125I 2cG in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)                             
+125I B G BM1W=0.0159 6$BE2W=12 4                                                
+125I   L 188.416    43/2+              0.344 NS  9                              
+125I X L XREF=ABDE                                                              
+125I  cL J         L=2 in ({+3}He,d), (|a,t); M1+E2 |g from 1/2+                
+125I  cL T         From X|g(t) in {+125}Xe |e decay                             
+125I 2 L MOMM1=+1.06 7 (1973Ka37)                                               
+125I  cL MOMM1      From integral perturbed angular correlation.                
+125I 2cL See also 2005St24 compilation.                                         
+125I   G 74.875    7 0.22    3 E2                      4.92                  C  
+125I S G KC=2.88 4$LC=1.627 23$MC=0.346 5$NC+=0.0724 11                         
+125I S G NC=0.0664 10$OC=0.00600 9                                              
+125I B G BE2W=35.6 12                                                           
+125I   G 188.418   4 100       M1+E2     +0.357  9     0.1354 20             C  
+125I S G KC=0.1152 17$LC=0.01625 25$MC=0.00329 5$NC+=0.000737 11                
+125I S G NC=0.000662 10$OC=7.53E-5 11                                           
+125I  cG MR        From {+125}Xe |e decay                                       
+125I B G BM1W=0.00739 20$BE2W=18.4 10                                           
+125I   L 243.382    41/2+              0.230 NS  10                             
+125I X L XREF=BDE                                                               
+125I  cL J         L=0 in ({+3}He,d), (|a,t); E2 |g to 5/2+                     
+125I   G 54.968    4 22.6    6 M1+E2     -0.022  8     4.20                  C  
+125I S G KC=3.60 5$LC=0.479 8$MC=0.0965 15$NC+=0.0218 4                         
+125I S G NC=0.0195 3$OC=0.00227 4                                               
+125I  cG MR        From {+125}Xe |e decay                                       
+125I B G BM1W=0.058 7$BE2W=6 5                                                  
+125I   G 243.378   5 100.0   20E2                      0.0799                C  
+125I B G BE2W=34 8                                                              
+125I S G KC=0.0651 10$LC=0.01185 17$MC=0.00244 4$NC+=0.000532 8                 
+125I S G NC=0.000481 7$OC=5.04E-5 7                                             
+125I   L 372.066   133/2+                                                       
+125I X L XREF=ABDE                                                              
+125I  cL J         L=2 in ({+3}He,d), (|a,t); log| {Ift}=9.05 from 1/2(+)       
+125I   G 258.36    8 7.9     10                                                 
+125I   G 372.081   14100.0   22M1,E2                   0.0209 6              C  
+125I S G KC=0.0178 8$LC=0.00249 16$MC=0.00050 4$NC+=0.000113 7                  
+125I S G NC=0.000101 6$OC=1.15E-5 3                                             
+125I   L 453.792    93/2+                                                       
+125I X L XREF=E                                                                 
+125I  cL J         M1 |g to 5/2+; log| {Ift}=6.812 from 1/2(+)                  
+125I   G 210.418   211.60    10M1,E2                   0.113  18                
+125I S G KC=0.093 12$LC=0.016 5$MC=0.0032 11$NC+=0.00070 22                     
+125I S G NC=0.00063 21$OC=6.8E-5 18                                             
+125I   G 340.22    100.43    5 E2                      0.0269                   
+125I S G KC=0.0225 4$LC=0.00357 6$MC=0.000729 11$NC+=0.0001607 23               
+125I S G NC=0.0001449 21$OC=1.574E-5 23                                         
+125I  cG M         M1,E2 from |a(K) in {+125}Xe |e decay and relevant levels    
+125I   G 453.796   11100.0   21M1                      0.01302               C  
+125I S G KC=0.01126 16$LC=0.001414 20$MC=0.000284 4$NC+=6.43E-5 9               
+125I S G NC=5.75E-5 8$OC=6.78E-6 10                                             
+125I   L 536.10    137/2+                                                   A   
+125I X L XREF=AB                                                                
+125I  cL J         L=4 in (|a,t); M1+E2 |g to 5/2+                              
+125I   G 536.11    20100       M1+E2     -0.13   6                           C  
+125I S G CC=0.00860 13$KC=0.00744 11$LC=0.000931 14$MC=0.000187 3$NC+=4.23E-5 6 
+125I S G NC=3.79E-5 6$OC=4.46E-6 7                                              
+125I  cG MR        from {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)                 
+125I   L 595.56    119/2+                                                   B   
+125I X L XREF=A                                                                 
+125I  cL J         M1+E2 |g to 7/2+, |g(|q) in                                  
+125I 2cL {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)                                
+125I   G 482.00    20100       M1+E2     -0.23   3     0.01112               C  
+125I S G KC=0.00961 14$LC=0.001212 17$MC=0.000243 4$NC+=5.51E-5 8               
+125I S G NC=4.93E-5 7$OC=5.80E-6 9                                              
+125I   G 595.55    2023        Q                                             C  
+125I   L 625       4 (+)                                                        
+125I X L XREF=B                                                                 
+125I  cL J         L=(2,4) in (|a,t)                                            
+125I   L 704.31    119/2+                                                       
+125I X L XREF=A                                                                 
+125I  cL J         Stretched E2 |g to 5/2+.                                     
+125I   G 168.20    103                                                       C  
+125I   G 590.84    2020        M1+E2     +0.15   +6-7                        C  
+125I S G CC=0.00678 10$KC=0.00587 9$LC=0.000732 11$MC=0.0001468 21$NC+=3.33E-5 5
+125I S G NC=2.98E-5 5$OC=3.51E-6 5                                              
+125I   G 704.26    20100       E2                                            C  
+125I S G CC=0.00347 5$KC=0.00297 5$LC=0.000396 6$MC=7.97E-5 12$NC+=1.79E-5 3    
+125I S G NC=1.605E-5 23$OC=1.84E-6 3                                            
+125I   L 768.10    1311/2+                                                  C   
+125I X L XREF=A                                                                 
+125I  cL J         Stretched E2 |g to 7/2+                                      
+125I   G 172.56    104                                                       C  
+125I   G 654.52    20100       E2                                            C  
+125I S G CC=0.00417 6$KC=0.00357 5$LC=0.000481 7$MC=9.70E-5 14$NC+=2.17E-5 3    
+125I S G NC=1.95E-5 3$OC=2.23E-6 4                                              
+125I   L      935.7 39/2(+)            0.2 NS    1                          F   
+125I X L XREF=AB                                                                
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g);           
+125I 2cL L=(4,2) in {+124}Te(|a,t)                                              
+125I   G 822.2     3 100       D+Q       +0.12   +5-3                        C  
+125I   L 1007.450  163/2+                                                       
+125I X L XREF=BDE                                                               
+125I  cL J         L=2 in ({+3}He,d), (|a,t); log| {Ift}=7.382 from 1/2(+)      
+125I   G 553.69    4 19.0    7                                                  
+125I   G 635.382   2374      AP(M1,E2)                                      *C  
+125I S G CC=0.0051 7$KC=0.0044 6$LC=0.00057 5$MC=0.000114 10$NC+=2.57E-5 23     
+125I S G NC=2.30E-5 20$OC=2.7E-6 3                                              
+125I  cG RI        From |g|g-coin                                               
+125I   G 764.17    104.7     10                                                 
+125I   G 819.02    4 15.1    7                                               C  
+125I   G 1007.431  25100     2 M1,E2                                            
+125I S G CC=0.00173 22$KC=0.00150 20$LC=0.000186 21$MC=3.7E-5 5$NC+=8.4E-6 10   
+125I S G NC=7.5E-6 9$OC=8.9E-7 11                                               
+125I   L 1066      3 3/2+,5/2+                                                  
+125I X L XREF=D                                                                 
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L     1082.8 8                                                           
+125I X L XREF=E                                                                 
+125I  cL J         |g to 3/2+                                                   
+125I   G 894.4     8 100                                                        
+125I   L 1084.86   14(11/2)-           0.2 NS    LE                         E   
+125I X L XREF=ABD                                                               
+125I  cL J         L=(0)+(5) for E=1087 keV in ({+3}He,d); E1(+M2) |g to 9/2+   
+125I   G 380.56    10100       E1(+M2)   +0.04   +3-2                        C  
+125I S G CC=0.00552 25$KC=0.00478 21$LC=0.00059 3$MC=0.000119 6$NC+=2.67E-5 14  
+125I S G NC=2.39E-5 13$OC=2.77E-6 15                                            
+125I B G BE1W>2.3E-5?                                                           
+125I   G 489.3     3 3                                                       C  
+125I   L 1089.904  12(1/2)+                                                     
+125I X L XREF=BDE                                                               
+125I  cL J         L=(0)+(5) for E=1087 keV in ({+3}He,d), (|a,t);              
+125I 2cL M1 |g to 1/2+                                                          
+125I   G 636.110   1710      AP(M1,E2)                                      *C  
+125I S G CC=0.0051 7$KC=0.0044 6$LC=0.00057 5$MC=0.000114 10$NC+=2.57E-5 23     
+125I S G NC=2.30E-5 20$OC=2.7E-6 3                                              
+125I  cG RI        From |g|g-coin                                               
+125I   G 717.90    6 1.21    10                                              C  
+125I   G 846.511   18100     3 M1                                               
+125I S G CC=0.00290 4$KC=0.00252 4$LC=0.000310 5$MC=6.21E-5 9$NC+=1.408E-5 20   
+125I S G NC=1.259E-5 18$OC=1.488E-6 21                                          
+125I   G 901.51    3 52.1    12M1,E2                                         C  
+125I S G CC=0.0022 3$KC=0.0019 3$LC=0.00024 3$MC=4.8E-5 6$NC+=1.09E-5 13        
+125I S G NC=9.8E-6 12$OC=1.14E-6 15                                             
+125I   G 1089.86   4 5.87    19                                                 
+125I   L 1150      5                                                            
+125I X L XREF=D                                                                 
+125I   L 1173.07   1911/2+                                                  A   
+125I X L XREF=A                                                                 
+125I  cL J         Stretched E2 |g to 7/2+                                      
+125I   G 468.7     3 10                                                      C  
+125I   G     577.3 5      21                                                 C  
+125I   G 637.03    20100       E2                                            C  
+125I S G CC=0.00447 7$KC=0.00382 6$LC=0.000517 8$MC=0.0001044 15$NC+=2.34E-5 4  
+125I S G NC=2.10E-5 3$OC=2.39E-6 4                                              
+125I   L 1180.872  133/2+                                                       
+125I X L XREF=E                                                                 
+125I  cL J         E2(+M1) |g to 1/2+; log| {Ift}=6.626 from 1/2(+)             
+125I   G 727.096   238.03    24M1,E2                                         C  
+125I S G CC=0.0037 5$KC=0.0032 5$LC=0.00040 4$MC=8.1E-5 8$NC+=1.83E-5 19        
+125I S G NC=1.64E-5 17$OC=1.91E-6 22                                            
+125I   G 809.18    131.02    16                                                 
+125I   G 937.494   2322.1    5 E2(+M1)                                       C  
+125I S G CC=0.0020 3$KC=0.00176 24$LC=0.000219 25$MC=4.4E-5 5$NC+=1.00E-5 12    
+125I S G NC=8.9E-6 11$OC=1.04E-6 13                                             
+125I   G 992.43    3 14.9    3                                               C  
+125I   G 1180.838  25100.0   24M1,E2                                            
+125I S G CC=0.00122 15$KC=0.00106 13$LC=0.000130 15$MC=2.6E-5 3$NC+=1.02E-5 5   
+125I S G NC=5.3E-6 6$OC=6.2E-7 8$IPC=4.34E-6 21                                 
+125I   L 1198      3 3/2+,5/2+                                                  
+125I X L XREF=BD                                                                
+125I  cL J         L=2 in ({+3}He,d), (|a,t)                                    
+125I   L 1203.72   1713/2+                                                  B   
+125I X L XREF=A                                                                 
+125I  cL J         Stretched E2 |g to 9/2+                                      
+125I   G 435.55    2032        M1+E2     -0.34   +7-11 0.0142523             C  
+125I S G KC=0.01229 21$LC=0.001570 22$MC=0.000316 5$NC+=7.13E-5 10              
+125I S G NC=6.39E-5 9$OC=7.48E-6 11                                             
+125I   G 608.12    20100       E2                                            C  
+125I S G CC=0.00504 7$KC=0.00430 6$LC=0.000588 9$MC=0.0001188 17$NC+=2.66E-5 4  
+125I S G NC=2.39E-5 4$OC=2.71E-6 4                                              
+125I   L 1252      4 7/2+,9/2+                                                  
+125I X L XREF=BD                                                                
+125I  cL J         L=4 in ({+3}He,d), (|a,t)                                    
+125I   L 1263.95    3(1/2,3/2)                                                  
+125I X L XREF=E                                                                 
+125I  cL J         |g's to 3/2+ and 1/2+; log| {Ift}=7.511 from 1/2(+)          
+125I   G 1020.55   5 38.6    9                                               C  
+125I   G 1075.54   3 100     3                                               C  
+125I   L 1269.9     411/2(+)                                                F   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g); M1+E2 |g  
+125I 2cL to 9/2(+)                                                              
+125I   G 334.10    10100       M1+E2     +0.14   1     0.0283                C  
+125I S G KC=0.0244 4$LC=0.00311 5$MC=0.000625 9$NC+=0.0001414 20                
+125I S G NC=0.0001266 18$OC=1.486E-5 21                                         
+125I   L 1289      3                                                            
+125I X L XREF=D                                                                 
+125I   L 1332.0     6                                                           
+125I X L XREF=A                                                                 
+125I   G     795.9 5 100                                                     C  
+125I   L 1337      3 3/2+,5/2+                                                  
+125I X L XREF=BD                                                                
+125I  cL J         L=2 in ({+3}He,d), (|a,t)                                    
+125I   L 1365      6                                                            
+125I X L XREF=B                                                                 
+125I   L 1381.635  221/2+,3/2+                                                  
+125I X L XREF=DE                                                                
+125I  cL J         L=(0)+(2) in ({+3}He,d);                                     
+125I 2cL log| {Ift}=6.56 from 1/2(+), M1,E2 |g to 1/2+                          
+125I   G 1138.23   3 100     3 M1,E2                                         C  
+125I  cG M         From {+125}Xe |e decay                                       
+125I S G CC=0.00132 16$KC=0.00114 14$LC=0.000141 16$MC=2.8E-5 3$NC+=7.9E-6 7    
+125I S G NC=5.7E-6 7$OC=6.7E-7 8$IPC=1.47E-6 8                                  
+125I   G 1193.23   3 22.1    5                                               C  
+125I   G 1381.0    8 0.50    7                                                  
+125I   L 1392      6 3/2+,5/2+,(1/2+)                                           
+125I X L XREF=B                                                                 
+125I  cL J         L=2+(0) in (|a,t)                                            
+125I   L 1442.80    53/2+                                                       
+125I X L XREF=BDE                                                               
+125I  cL J         L=2 in ({+3}He,d), L=2+(0) in (|a,t); log| {Ift}=7.341 from  
+125I xcL 1/2(+)                                                                 
+125I   G 1070.85   10100     6                                               C  
+125I   G 1199.67   1422.4    24                                                 
+125I   G 1254.35   129       3                                                  
+125I   G 1442.70   6 39      3                                                  
+125I   L 1481      3                                                            
+125I X L XREF=D                                                                 
+125I   L 1512      3                                                            
+125I X L XREF=D                                                                 
+125I   L 1543      5                                                            
+125I X L XREF=D                                                                 
+125I   L 1554.44   2015/2                                                   C   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)            
+125I   G       350 1                                                        I  ?
+125I   G 786.43    20100       Q                                             C  
+125I   L 1562.43   101/2,3/2                                                    
+125I X L XREF=E                                                                 
+125I  cL J         Log| {Ift}=7.13 from 1/2(+)                                  
+125I   G 1108.71   12100     21                                                 
+125I   G 1318.91   1644      10                                              C  
+125I   G 1562.4    3 42      6                                                  
+125I   L 1580      5 (1/2+)                                                     
+125I X L XREF=D                                                                 
+125I  cL J         L=(0) in ({+3}He,d)                                          
+125I   L 1610      5 (1/2+)                                                     
+125I X L XREF=D                                                                 
+125I  cL J         L=(0) in ({+3}He,d)                                          
+125I   L 1616.7     413/2(+)                                                F   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g); M1+E2 |g  
+125I 2cL to 11/2(+)                                                             
+125I   G 346.78    10100       M1+E2     +0.11   4     0.0257                C  
+125I S G KC=0.0222 4$LC=0.00282 4$MC=0.000566 8$NC+=0.0001281 19                
+125I S G NC=0.0001147 17$OC=1.347E-5 19                                         
+125I   G     681.5 3      38                                                    
+125I   L 1663      4 3/2+,5/2+                                                  
+125I X L XREF=BD                                                                
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L 1664.55   22(15/2)-                                                E   
+125I X L XREF=A                                                                 
+125I  cL J         Stretched E2 |g to (11/2)-                                   
+125I   G 579.70    20100       E2                                            C  
+125I S G CC=0.00572 8$KC=0.00488 7$LC=0.000673 10$MC=0.0001360 19$NC+=3.04E-5 5 
+125I S G NC=2.73E-5 4$OC=3.09E-6 5                                              
+125I   L 1690      5 1/2+                                                       
+125I X L XREF=BD                                                                
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 1733      4 7/2+,9/2+                                                  
+125I X L XREF=BD                                                                
+125I  cL J         L=4 in ({+3}He,d)                                            
+125I   L 1778      4 +                                                          
+125I X L XREF=BD                                                                
+125I  cL J         L=0 in ({+3}He,d) (1977Li10), L=2 in ({+3}He,d) (1979Sz05)   
+125I   L 1827      6 +                                                          
+125I X L XREF=BD                                                                
+125I  cL J         L=2 in ({+3}He,d) (1977Li10), L=4+(2) in ({+3}He,d)          
+125I xcL (1979Sz05)                                                             
+125I   L 1868.7     6                                                           
+125I X L XREF=A                                                                 
+125I  cL J         |g to (11/2)-                                                
+125I   G     783.8 5 100                                                     C  
+125I   L 1870.9    3 15/2                                                   A   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)            
+125I   G 697.81    20100       Q                                             C  
+125I   L 1887.93   2217/2+                                                  B   
+125I X L XREF=A                                                                 
+125I  cL J         Stretched E2 |g to 13/2+                                     
+125I   G     333.6 5       8                                                 C  
+125I   G 684.10    20100       E2                                            C  
+125I S G CC=0.00373 6$KC=0.00319 5$LC=0.000427 6$MC=8.61E-5 12$NC+=1.93E-5 3    
+125I S G NC=1.732E-5 25$OC=1.98E-6 3                                            
+125I   L 1916      5 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 1938      4 3/2+,5/2+                                                  
+125I X L XREF=BD                                                                
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L 1978      5 3/2+,5/2+                                                  
+125I X L XREF=D                                                                 
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L 1997.4     5(15/2)                                                 F   
+125I X L XREF=A                                                                 
+125I  cL J         |g's to 11/2(+) and 13/2(+); No |g to J<11/2                 
+125I   G 380.6     3 100                                                     C  
+125I   G       728 1      33                                                    
+125I   L 2031      5 3/2+,5/2+                                                  
+125I X L XREF=D                                                                 
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L 2069      5 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2142      5 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2183      5 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2221.7     6                                                           
+125I X L XREF=A                                                                 
+125I   G    1018.0 5 100                                                     C  
+125I   L 2231      5 (3/2+,5/2+)                                                
+125I X L XREF=D                                                                 
+125I  cL J         L=(2) in ({+3}He,d)                                          
+125I   L 2278.1     3(19/2)-                                                E   
+125I X L XREF=A                                                                 
+125I  cL J         Stretched E2 |g to (15/2)-                                   
+125I   G 613.59    20100       E2                                            C  
+125I S G CC=0.00492 7$KC=0.00421 6$LC=0.000574 8$MC=0.0001158 17$NC+=2.59E-5 4  
+125I S G NC=2.33E-5 4$OC=2.65E-6 4                                              
+125I   L 2302      5 (3/2+,5/2+)                                                
+125I X L XREF=D                                                                 
+125I  cL J         L=(2) in ({+3}He,d)                                          
+125I   L 2350.52   24(17/2)            1.6 NS    3                          D   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)            
+125I   G 686.0     3 100                                                     C  
+125I   G 796.1     3 100                                                     C  
+125I   L 2354      5 (3/2+,5/2+)                                                
+125I X L XREF=D                                                                 
+125I  cL J         L=(2) in ({+3}He,d)                                          
+125I   L 2397.0     6                                                       F   
+125I X L XREF=A                                                                 
+125I   G 399.6     3 100                                                        
+125I   L 2399      5 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2438      5 3/2+,5/2+                                                  
+125I X L XREF=D                                                                 
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L 2462.9     4                                                           
+125I X L XREF=A                                                                 
+125I   G       594 1                                                        I  ?
+125I F G FL=1868.7                                                              
+125I   G 798.3     3 100                                                     C  
+125I   L 2472      5 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2502.3     319/2                                                   C   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)            
+125I   G     614.2 3      25                                                    
+125I   G 948.0     3 100       Q                                                
+125I   L 2517      8 3/2+,5/2+                                                  
+125I X L XREF=D                                                                 
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L 2553      8 (3/2+,5/2+)                                                
+125I X L XREF=D                                                                 
+125I  cL J         L=(2) in ({+3}He,d)                                          
+125I   L 2554.78   25 19/2                                                  D   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)            
+125I   G 204.26    10100       M1+E2     -0.23   +4-3  0.1052 16             C  
+125I S G KC=0.0902 14$LC=0.01204 25$MC=0.00243 6$NC+=0.000547 11                
+125I S G NC=0.000491 10$OC=5.68E-5 11                                           
+125I   G     666.8 3 43        D+Q        -0.19  +23-33                      C  
+125I   L 2589      8                                                            
+125I X L XREF=D                                                                 
+125I   L 2624.2     6                                                           
+125I X L XREF=A                                                                 
+125I   G     736.3 5 100                                                     C  
+125I   L 2654      5 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2694      8 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2713.3     6                                                       A   
+125I X L XREF=A                                                                 
+125I   G     842.4 5 100                                                     C  
+125I   L 2731      8 3/2+,5/2+                                                  
+125I X L XREF=D                                                                 
+125I  cL J         L=2 in ({+3}He,d)                                            
+125I   L 2737.9     421/2                                                   B   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)            
+125I   G 850.0     3 100       Q                                             C  
+125I   L 2783.9     4(23/2-)                                                E   
+125I X L XREF=A                                                                 
+125I  cL J         Stretched (E2) |g to (19/2)-                                 
+125I   G 505.71    20100       (E2)                                          C  
+125I S G CC=0.00829 12$KC=0.00705 10$LC=0.001001 14$MC=0.000203 3$NC+=4.52E-5 7 
+125I S G NC=4.06E-5 6$OC=4.56E-6 7                                              
+125I   L 2790.9     3 (21/2)           0.3 NS    1                          D   
+125I X L XREF=A                                                                 
+125I  cL J         (M1) |g to 19/2; Band structure                              
+125I   G 236.08    10100       (M1)                    0.0697                   
+125I F G FL=2554.78                                                             
+125I S G KC=0.0601 9$LC=0.00771 11$MC=0.001552 22$NC+=0.000351 5                
+125I S G NC=0.000314 5$OC=3.69E-5 6                                             
+125I B G BM1W=0.0052 18                                                         
+125I   L 2796      8                                                            
+125I X L XREF=D                                                                 
+125I   L 2815.0     8                                                       F   
+125I X L XREF=A                                                                 
+125I   G     418.0 5 100                                                        
+125I   L 2838      8                                                            
+125I X L XREF=D                                                                 
+125I   L 2884      8                                                            
+125I X L XREF=D                                                                 
+125I   L 2916.1     6                                                           
+125I X L XREF=A                                                                 
+125I   G    1028.2 5 100                                                        
+125I   L 2919.1     6                                                           
+125I X L XREF=A                                                                 
+125I   G     294.8810100                                                     C  
+125I   L 2932      8 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 2982      8 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3026      8                                                            
+125I X L XREF=D                                                                 
+125I   L 3060      8 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3060.2     4                                                           
+125I X L XREF=A                                                                 
+125I   G 322.24    10100       (M1)                    0.0310                C  
+125I S G KC=0.0268 4$LC=0.00340 5$MC=0.000684 10$NC+=0.0001548 22               
+125I S G NC=0.0001385 20$OC=1.628E-5 23                                         
+125I   L 3073.4    11                                                          ?
+125I X L XREF=A                                                                 
+125I   G     610.5 10                                                       I  ?
+125I   L 3098.9     3(23/2)                                                 D   
+125I X L XREF=A                                                                 
+125I  cL J         M1+E2 |g to (21/2); Band structure                           
+125I   G 308.00    10100       M1+E2     -0.31   +12-100.0350                C  
+125I S G KC=0.0301 5$LC=0.00393 9$MC=0.000792 19$NC+=0.000179 4                 
+125I S G NC=0.000160 4$OC=1.86E-5 4                                             
+125I   L 3100      8                                                            
+125I X L XREF=D                                                                 
+125I   L 3149      8 1/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3158.8     6                                                           
+125I X L XREF=A                                                                 
+125I   G 242.68    10100       M1,E2                   0.073  8                 
+125I F G FL=2916.1                                                              
+125I S G KC=0.061 5$LC=0.0096 24$MC=0.0020 5$NC+=0.00043 11                     
+125I S G NC=0.00039 10$OC=4.3E-5 9                                              
+125I   L 3195      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3241      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3258.9    16                                                       F  ?
+125I X L XREF=A                                                                 
+125I   G       444 1 100                                                       ?
+125I   L 3259.5     4                                                           
+125I X L XREF=A                                                                 
+125I   G 199.32    10100       M1,E2                    0.134 24             C  
+125I 2 G FL=3060.2                                                              
+125I S G KC=0.110 16$LC=0.019 7$MC=0.0039 14$NC+=0.0008 3                       
+125I S G NC=0.0008 3$OC=8.2E-5 24                                               
+125I   L 3284      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3293.4     4                                                           
+125I X L XREF=A                                                                 
+125I   G 194.3     3                                                        HC  
+125I F G FL=3098.9                                                              
+125I   G 502.7     3 100                                                     C  
+125I   L 3302.9     7                                                           
+125I X L XREF=A                                                                 
+125I   G     840.0 5 100                                                     C  
+125I   L 3312      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3343      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3375      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3413      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3447      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3458.8     7                                                           
+125I X L XREF=A                                                                 
+125I   G     300.0 3 100                                                     C  
+125I F G FL=3158.8                                                              
+125I   L 3474      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3496.9     5                                                       D   
+125I X L XREF=A                                                                 
+125I   G 398.0     3 100       M1,E2                   0.0174 8              C  
+125I F G FL=3098.9                                                              
+125I S G KC=0.0148 9$LC=0.00204 8$MC=0.000413 19$NC+=9.2E-5 3                   
+125I S G NC=8.3E-5 3$OC=9.45E-6 14                                              
+125I   L 3500      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3547      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3585      101/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3621      101/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3654      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3674.5     527/2                                                   E   
+125I X L XREF=A                                                                 
+125I  cL J         |g(|q) in {+123}Sb(|a,2n|g),{+122}Sn({+6}Li,3n|g)            
+125I   G 890.6     3 100       Q                                             C  
+125I   L 3685      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3728      101/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3768      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3775.3    14                                                          ?
+125I X L XREF=A                                                                 
+125I   G 278.0     3 100                                                       ?
+125I   L 3800      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3829      101/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3859      101/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3867.9     7                                                       B   
+125I X L XREF=A                                                                 
+125I   G    1130.0 5 100                                                     C  
+125I F G FL=2737.9                                                              
+125I   L 3894      101/2+                                                       
+125I X L XREF=D                                                                 
+125I  cL J         L=0 in ({+3}He,d)                                            
+125I   L 3930      10                                                           
+125I X L XREF=D                                                                 
+125I   L 3964      10                                                           
+125I X L XREF=D                                                                 
+125I   L 4006      10                                                           
+125I X L XREF=D                                                                 
+125I   L 4042      10                                                           
+125I X L XREF=D                                                                 
+125I   L 4082      10                                                           
+125I X L XREF=D                                                                 
+125I   L 13092     201/2+                                                   G   
+125I X L XREF=C                                                                 
+125I  cL           IAR of g.s. 1/2+ in {+125}Te                                 
+125I   L 13127     203/2+                                                   G   
+125I X L XREF=C                                                                 
+125I  cL           IAR of 35 keV, 3/2+ state in {+125}Te                        
+125I   L 13752     20(5/2)+                                                 G   
+125I X L XREF=C                                                                 
+125I  cL           IAR of 671 keV, 5/2+ state in {+125}Te                       
+125I   L 13830     20(5/2+)                                                 G   
+125I X L XREF=C                                                                 
+125I  cL           IAR of 729 keV {I3}/2+ state in {+125}Te                     
+125I   L 14123     20                                                       G  ?
+125I X L XREF=C                                                                 
+125I   L 14230     20                                                       G   
+125I X L XREF=C                                                                 
+125I   L 14341     20                                                       G   
+125I X L XREF=C                                                                 
+125I   L 14631     20(1/2+)                                                 G   
+125I X L XREF=C                                                                 
+125I   L 14911     20(7/2)-                                                 G   
+125I X L XREF=C                                                                 
+125I  cL           IAR of 1820 keV, (5/2-,7/2-) state in {+125}Te               
+125I   L 15025     20(3/2)-                                                 G   
+125I X L XREF=C                                                                 
+125I   L 15069     207/2-                                                   G   
+125I X L XREF=C                                                                 
+125I   L 15115     20(1/2)-                                                 G   
+125I X L XREF=C                                                                 
+125I   L 15183     207/2-                                                   G   
+125I X L XREF=C                                                                 
+125I   L 15354     203/2-                                                   G   
+125I X L XREF=C                                                                 
+125I   L 15601     20                                                       G  ?
+125I X L XREF=C                                                                 
+125I   L 15811     20                                                       G   
+125I X L XREF=C                                                                 
+125I   L 15968     20                                                       G  ?
+125I X L XREF=C                                                                 
+125I   L 16138     20                                                       G  ?
+125I X L XREF=C                                                                 
+

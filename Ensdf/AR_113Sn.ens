@@ -1,0 +1,787 @@
+113SN    ADOPTED LEVELS, GAMMAS                                  10NDS    201006
+113SN  H TYP=FUL$AUT=Jean Blachot$CIT=NDS 111, 1471 (2010)$CUT=1-May-2009$      
+113SN  Q -3911     187743.6  167626    5 -2248.8 23    2012WA38                 
+113SN cQ $Note: Current evaluation has used the following Q record              
+113SN  Q -3913     177743.1  187626    5 -2250   4     2003AU03,2009AUZZ        
+113SN cG E,RI$Average from (p,n|g), (p,3n|g), (|a,2n), (|a,3n) when they are    
+113SN2cG  given                                                                 
+113SN cG M$The M and |d are from (|a,2n|g), unless otherwise noted.             
+113SN cL           For neutron resonance, see {+112}Sn(n,|g) (1981MuZQ).        
+113SN cL           For gross structure of deeply bound hole states in odd tin   
+113SN2cL isotopes observed with the ({+3}He,|a) reaction, see 1978Ta22.         
+113SN3cL For onset of neutron single-particle strengths with (|a,{+3}He) at 183 
+113SN4cL MeV, see 1991Ma06                                                      
+113SN cL J$J|p without comments are based on band assignments                   
+113SN cL J(D)$J is assigned to 7/2 from shell-model syst.                       
+113SN cL T$In the ps range are from Doppler shift in (|a,2n|g) (1991Vi09)       
+113SN cL E$From least-squares fit to |g energies.                               
+113SN CL BAND(A)$ DJ=2 band based on 17/2                                       
+113SN CL BAND(B)$ DJ=2 band based on 39/2-                                      
+113SN CL BAND(C)$ DJ=2 band based on 31/2-                                      
+113SN CL BAND(E)$ PROPOSED NEUTRON H11/2 BAND. DELTA J=2 SPACINGS.              
+113SN  XA113SN IT DECAY (21.4 M)                                                
+113SN  XB113SB EC DECAY                                                         
+113SN  XC110CD(A,NG)                                                            
+113SN  XD111CD(A,2NG)                                                           
+113SN  XE112CD(A,3NG)                                                           
+113SN  XF112SN(N,G) E=95 EV                                                     
+113SN  XG112SN(D,P),114SN(D,T)                                                  
+113SN  XH113IN(P,NG)                                                            
+113SN  XI113IN(P,3NG)                                                           
+113SN  XJ114SN(P,D)                                                             
+113SN  XK115SN(P,T)                                                             
+113SN  XL114SN(P,D) IAS                                                         
+113SN  XM100MO(18O,5NG)                                                         
+113SN PN                                                                     6  
+113SN  L 0.0         1/2+              115.09 D  3                              
+113SN2 L XREF=+                                                                 
+113SN2 L %EC+%B+=100                                                            
+113SN2 L MOMM1=-0.8791 6 (1989Ra17)                                             
+113SN cL MOMM1$atomic beam.                                                     
+113SN cL T         from weighted average of 115.2 d {I8} (1972Em01), 115.07 d   
+113SN2cL      {I10} (1972La14), 115.09 d {I4} (1980Ho17), 115.12 d {I13}        
+113SN3cL      (1982RuZV), and 115.08 d {I8} (1992Un01).  The reduced-|h{+2} =   
+113SN4cL      0.03.  Because this set of values is consistent, the Limited      
+113SN5cL      Relative Statistical Weight method (1985ZiZY, 1992Ra09) does not  
+113SN6cL      increase the uncertainty for the 1980Ho17 value even though it    
+113SN7cL      contributes 66% of the relative weight.  If the 1980Ho17          
+113SN8cL      uncertainty were increased from 0.04 to 0.056 in order to         
+113SN9cL      decrease its relative weight to 50%, the weighted average         
+113SN0cL      average would still be 115.09 with an uncertainty of 0.04.        
+113SNAcL      The very small reduced-|h{+2} value suggests that the reported    
+113SNBcL      uncertainties are overestimated.  Other measurements: 107 d       
+113SNCcL      (1959Bu08), 115.12 d {I20} (1976MeZR, replaced by 1982RuZV),      
+113SNCcL      and 115.06 d 7 (1982HoZJ, replaced by 1992Un01).                  
+113SN cL J$atomic beam (1976Fu06), L(d,p)=0.                                    
+113SN  L     77.38919 7/2+             21.4 M    4                           M  
+113SNX L XREF=ABCDEGHIJK                                                        
+113SN3 L %IT=91.1 23$ %EC+%B+=8.9 23 (1961Sc12)                                 
+113SN cL T$from 1974Ho17. Others: 21 min {I1} (1961Se08), 20 min {I1}           
+113SNxcL (1961Sc12).                                                            
+113SN cL           %IT from I(K|a| x ray,{+113}In)/I(K|a| x ray,{+113}Sn).      
+113SN cL J$atomic beam (1976Fu06), 77|g is M3(+E4).                             
+113SN  G 77.38     2 100       M3+E4     0.13    2     181    5                 
+113SN cG M,MR$see {+113}Sn IT decay (21.4 min)                                  
+113SN cG BM3W$the calculated B(E4)(W.u.) gives 140 {I50} which violates RUL     
+113SNB G BM3W=0.0281 15$BE4W=1.4E+2 5                                           
+113SN  L     409.83 45/2+                                                       
+113SN2 L XREF=BCDGHIJK                                                          
+113SN cL J$L(d,p)=2, |s(d,p)/|s(d,t) favors 5/2+.                               
+113SN  G 332.41    5 100     4  M1+E2    -0.08   2                              
+113SN  G 409.9     2 0.87    11                                                 
+113SN  L     498.07 53/2+              0.35 PS   GT                             
+113SNX L XREF=BCDFGHIJK                                                         
+113SN cL J$L(d,p)=2, |s(d,p)/|s(d,t) favors 3/2+.                               
+113SN  G 88.25     2 3.4     4                                                  
+113SN  G 420.7     2 0.3     2                                                  
+113SN  G 497.96    9 100     5  M1+E2    0.12    6                              
+113SNB G BM1W<0.49$BE2W<44                                                      
+113SN  L 738.4     3 11/2-             86 NS     2                          E   
+113SNX L XREF=CDEGHIJM$MOMM1=-1.293 16 (1989Ra17)$ MOME2=+0.41 1 (1989Ra17)     
+113SN cL MOMM1$|m and Q: differential perturbed angular distribution            
+113SN cL J$L(d,p)=5, M2(+E3) |g to 7/2+                                         
+113SN cL T$unweighted av of 88 ns {I3} (1973IsZQ), 89 ns {I3}                   
+113SN2cL (1974Di18), 82.1 ns {I17} (1974Br29)                                   
+113SN  G 661.0     3 100       M2(+E3)   2.6     LT    0.0133 16                
+113SN cG M,MR$from 1972Br38. RUL gives |d|<0.65, then B(M2)(W.u.)=0.10 {I2}     
+113SNB G BM2W>0.015$BE3W<3.0E+2                                                 
+113SN  L    1013.94143/2+              0.2 PS    1                              
+113SN2 L XREF=BCDGH                                                             
+113SN cL E$a level with L(d,p)=2 observed at 1014 {I5}, may                     
+113SN2cL correspond to either 1013.22 or 1018.09 level                          
+113SN cL J$log| {Ift}=5.86 {I3} from 5/2+, M1+E2 |g to 1/2+                     
+113SN  G 603.0     4 0.65    14                                                 
+113SN  G 936.7     2 100     5                                                  
+113SN  G 1014.4    3 96      6  M1+E2    0.5     1                              
+113SNB G BM1W=0.041 21$BE2W=8 5                                                 
+113SN  L    1018.08 55/2+              1.0 PS    5                              
+113SNX L XREF=BCDHIK                                                            
+113SN cL J$allowed |e decay from 5/2+. E2 |g to 1/2+                            
+113SN  G 608.2     2 100     7  M1+E2    3       1                              
+113SNB G BM1W=0.006 5$BE2W=1.1E+2 6                                             
+113SN  G 940.63    6  59     3  M1+E2    0.5     2                              
+113SNB G BM1W=0.007 4$BE2W=1.6 13                                               
+113SN  G 1018.12   6 15      3  E2                                              
+113SNB G BE2W=1.4 8                                                             
+113SN  L 1042      253/2+,5/2+                                                  
+113SN2 L XREF=J                                                                 
+113SN cL E$from (p,d), possibly same as 1018 level.                             
+113SN cL J$L(p,d)=2.                                                            
+113SN  L 1140      25                                                           
+113SN2 L XREF=J                                                                 
+113SN  L     1248.7 3                                                           
+113SN2 L XREF=DH                                                                
+113SN  G 838.9     3 100                                                        
+113SN  L    1284.06115/2+              0.5 PS    2                              
+113SN2 L XREF=BCDHI                                                             
+113SN cL J$E2 |g to 1/2+. log| {Ift}=6.93 {I7} from 5/2+                        
+113SN  G 786.1     3 11      1                                                  
+113SN  G 873.9     4 6.3     3  M1+E2    2.7     8                              
+113SNB G BM1W=0.0004 3$BE2W=3.0 13                                              
+113SN  G 1206.3    3 9       5                                                  
+113SN  G 1284.2    2 100     5    E2                                            
+113SNB G BE2W=8 4                                                               
+113SN  L 1303      251/2+                                                       
+113SN2 L XREF=J                                                                 
+113SN cL J$L(p,d)=0.                                                            
+113SN  L    1314.07153/2+                                                       
+113SN2 L XREF=BCDFGHI                                                           
+113SN cL J$L(d,p)=2.                                                            
+113SN  G 816.3     3 18.3    22                                                 
+113SN  G 1314.0    2 100     11  M1                                             
+113SN  L    1355.90203/2+              0.7 PS    3                              
+113SN cL J$M1 |g to 1/2+                                                        
+113SN2 L XREF=CDHI                                                              
+113SN  G 1356.0    3 100       M1+E2     0.14    6                              
+113SNB G BM1W=0.012 6$BE2W=0.10 10                                              
+113SN  L    1472.54155/2+              0.8 PS    5                              
+113SN2 L XREF=CDHI                                                              
+113SN cL J$|g(|q) gives 3/2,5/2. E2 to 1/2+ g.s.                                
+113SN  G 1472.8    3 100       E2                                               
+113SNB G BE2W=3.1 20                                                            
+113SN  L 1537      5  (7/2+,9/2+)                                               
+113SN2 L XREF=G                                                                 
+113SN cL J$L(d,p)=(4)                                                           
+113SN  L 1539.0    7  5/2+             0.6 PS    1                              
+113SN cL J$M1+E2 |g to 1/2+                                                     
+113SN2 L XREF=CDHI                                                              
+113SN  G 1129.2    7 100        M1+E2    -2.5    10                             
+113SNB G BM1W=0.0035 25$BE2W=14 3                                               
+113SN  L     1539.9 4(11/2-)            0.2 PS   1                              
+113SN2 L XREF=CDHI                                                              
+113SN cL J$from |g(|q), |g to 11/2-                                             
+113SN  G 801.5     3 100        M1+E2    -0.3    1                              
+113SNB G BM1W=0.20 10$BE2W=22 18                                                
+113SN  L    1556.50103/2+                                                       
+113SN2 L XREF=BCDFGHI                                                           
+113SN cL J$allowed |e decay from 5/2+, M1 |g to 1/2+.                           
+113SN  G 242.6     3 2.2     5                                                  
+113SN  G 273.4     8 3.6     4                                                  
+113SN cG E$not reported in (|a,2n|g)                                            
+113SN  G 538.2     2 5.6     4                                                  
+113SN  G 1058.3    2 5.2     5                                                  
+113SN  G 1146.6    4 43      3                                                  
+113SN  G 1478.8    2 11.5    15                                                 
+113SN  G 1557.0    2 100     8  M1+E2    0.2     1                              
+113SN  L    1646.06143/2+,5/2+                                                  
+113SN2 L XREF=BCDGH                                                             
+113SN cL J$L(d,p)=2.                                                            
+113SN cL E$the 1646 level in (d,p) could also correspond to the 1651 level.     
+113SN  G 1147.2    4 88      22                                                 
+113SN  G 1568.9    2 34      4                                                  
+113SN  G 1646.0    2 100     15                                                 
+113SN  L     1647.2 3                                                           
+113SN2 L XREF=D                                                                 
+113SN  G 1149.3    4 100     30                                                 
+113SN  G 1237.1    4 30      15                                                 
+113SN  L    1651.62175/2+                                                       
+113SN2 L XREF=BCDHJ                                                             
+113SN cL J$L(p,d)=2, M1 |g to 7/2+                                              
+113SN  G 1241.6    3 100     20 M1                                              
+113SN  G 1574.3    2 50      5  M1+E2    -1.0    5                              
+113SN  L    1732.2217(3/2+,5/2+)                                                
+113SN2 L XREF=BCDH                                                              
+113SN cL J$log| {Ift}=6.05 {I5} from 5/2+                                       
+113SN  G 448.3     5 4.8     20                                                 
+113SN  G 718.4     3 7       4                                                  
+113SN  G 1234.2    3 100     13  M1                                             
+113SN  G 1654.6    3 13.0    13                                                 
+113SN  L    1744.81143/2+,5/2+         0.31 PS   8                              
+113SN2 L XREF=BCDGHIJ                                                           
+113SN cL J$L(d,p)=2 at 1745 {I5}.                                               
+113SN  G 725.3     106       3                                                  
+113SN  G 1247.1    3 15      2   M1+E2   2.1     15                             
+113SNB G BM1W=0.0006 +8-6$BE2W=1.4 6                                            
+113SN  G 1334.9    2 100     5  M1+E2    0.6     4                              
+113SNB G BM1W=0.014 6$BE2W=2.2 22                                               
+113SN  G 1667.5    3 41      3                                                  
+113SN  L     1781.1 3  9/2-            0.19 PS   7                              
+113SN2 L XREF=DHI                                                               
+113SN cL J$M1+E2 |g to 11/2- and |g to 7/2+                                     
+113SN  G 1042.6    5 100     5    M1+E2  -0.5     3                             
+113SN cG M$|d=0.5 {I3} or -1.6 {I3}                                             
+113SNB G BM1W=0.08 4$BE2W=14 +15-14                                             
+113SN  G 1703.8    4 5       2    [E1]                                          
+113SNB G BE1W=1.5E-5 8                                                          
+113SN  L     1821.0 31/2+                                                       
+113SN2 L XREF=CGHJ                                                              
+113SN cL J$L(d,p)=0                                                             
+113SN  G 1821.0    3 100                                                        
+113SN  L     1831.0 31/2+                                                       
+113SN cL J$L(p,d)=0                                                             
+113SN2 L XREF=CHJ                                                               
+113SN  G 1831.0    3 100                                                        
+113SN  L    1867.28205/2+              0.33 PS   10                             
+113SN2 L XREF=CDHI                                                              
+113SN cL J$M1,E2 |g to 3/2+,5/2+, |g(|q) in {+113}In(p,n|g).                    
+113SN  G  394.8    3 11.3    25                                                 
+113SN  G 583.2     3 100     5 M1+E2     0.15    10                             
+113SNB G BM1W=0.30 10$BE2W=15 +21-15                                            
+113SN  L     1906.6 415/2-             0.8 PS    2                          E   
+113SN cL J$stretched E2 to 11/2-                                                
+113SN2 L XREF=CDEGHIM                                                           
+113SN  G 1168.3    3 100       E2                                               
+113SNB G BE2W=10 3                                                              
+113SN  L    1909.6418 (5/2+,7/2+)                                               
+113SN2 L XREF=CDHI                                                              
+113SN cL J$|g's to 3/2+,5/2+, |g(|q) in {+113}In(p,n|g).                        
+113SN  G 1411.7    2 100     14                                                 
+113SN  G 1499.5    3 45      9                                                  
+113SN  L     1935.4 4(11/2-)           1.9 PS    8                              
+113SN2 L XREF=CDHI                                                              
+113SN cL J$|g to 11/2-, M1+E2 |g to 11/2-                                       
+113SN  G 1196.9    3 100        M1+E2    -5      3                              
+113SNB G BM1W=0.0003 +4-3$BE2W=3.6 16                                           
+113SN  L     1945.3 4 (9/2-)           0.40 PS   20                             
+113SN2 L XREF=CDHI                                                              
+113SN cL J$|g to 11/2-                                                          
+113SN  G 1206.9    3 100        M1+E2    0.15    5                              
+113SNB G BM1W=0.031 16$BE2W=0.4 3                                               
+113SN  L     1952.1 413/2-             1.0 PS    4                              
+113SN2 L XREF=CDEHI                                                             
+113SN cL J$|g to 11/2-, |g(|q) in {+113}In(p,n|g).                              
+113SN  G 1213.6    3 100        M1+E2    3.4     2                              
+113SNB G BM1W=0.0010 4$BE2W=6.1 25                                              
+113SN  L    1957.05163/2(+),5/2(+)                                              
+113SN2 L XREF=B                                                                 
+113SN cL J$log| {Ift}=6.40 {I10} from 5/2+, |g to 1/2+ and 7/2+.                
+113SN  G 1458.9    2 85      8                                                  
+113SN  G 1547.2    5 100     AP                                                 
+113SN  G 1880.1    4 33      4                                                  
+113SN  G 1956.9    4 100     10                                                 
+113SN  L     2031.4 3                                                           
+113SN2 L XREF=DH                                                                
+113SN  G 1621.6    3 100                                                        
+113SN  L    2039.88197/2+              0.2 PS    1                              
+113SN2 L XREF=CDH                                                               
+113SN cL J$|g's to 3/2+,5/2+ and 5/2+,7/2+. |g(|q) in {+113}In(p,n|g).          
+113SN  G 172.7     3  80     7  M1+E2    0.4     2                              
+113SNB G BM1W=5 3$BE2W=2.0E+4 20                                                
+113SN  G 567.2     3 80      7  M1+E2    6       3                              
+113SNB G BM1W=0.004 4$BE2W=3.8E+2 20                                            
+113SN  G  684.0    2 100     7  E2                                              
+113SNB G BE2W=1.9E+2 10                                                         
+113SN  G 755.8     3 47      5                                                  
+113SN  L    2045.4720(3/2+,5/2+)                                                
+113SN2 L XREF=BEJK                                                              
+113SN cL J$log| {Ift}=6.63 {I12} from 5/2+, |g to 7/2+.                         
+113SN  G  573.0    3 53      5  (M1)                                            
+113SN  G 1547.9    5 100     AP                                                 
+113SN  G 1635.3    3 63      8                                                  
+113SN  G 1968.3    5 35      5                                                  
+113SN  L 2050      5 1/2-,3/2-                                                  
+113SN2 L XREF=G                                                                 
+113SN cL E$probably not identical to 2045 level from |g decay.                  
+113SN cL J$L(d,p)=1.                                                            
+113SN  L 2105      5 (3/2-)                                                     
+113SN cL J$L(d,p)=1, and from shell-model syst.                                 
+113SN2 L XREF=G                                                                 
+113SN  L    2128.14213/2+,5/2+                                                  
+113SN2 L XREF=BG                                                                
+113SN cL J$L(d,p)=2 at 2129 {I5}, the 2129 level in (d,p) does not seem to      
+113SN2cL correspond to the 2134 level (no |g to g.s.).                          
+113SN  G 1718.3    2 100                                                        
+113SN  L     2135.0 3                                                           
+113SN2 L XREF=DH                                                                
+113SN  G 1725.2    3 100                                                        
+113SN  L    2176.27187/2+              0.3 PS    2                              
+113SN2 L XREF=DHI                                                               
+113SN cL J$M1 |g to 5/2+ and 7/2+                                               
+113SN  G 892.1     3  64     4  M1+E2    -0.2    1                              
+113SN cG M$|d=-0.2 {I1} or -2.1 {I6}                                            
+113SNB G BM1W=0.029 20$BE2W=1.2 +14-2                                           
+113SN  G 1766.4    3 100     8  M1                                              
+113SNB G BM1W=0.006 4                                                           
+113SN  G 2099.0    3 56      4  M1                                              
+113SNB G BM1W=0.0020 14                                                         
+113SN  L     2200.7 35/2+              0.24 PS   GT                             
+113SN2 L XREF=CDGHI                                                             
+113SN cL J$M1+E2 |g to 3/2+, |g(|q) in {+113}In(p,n|g).                         
+113SN  G 1702.6    3 100        M1+E2    -0.5    3                              
+113SNB G BM1W<0.018$BE2W<2.0                                                    
+113SN  L     2258.6 3  5/2+             0.3 PS    1                             
+113SN2 L XREF=CDHI                                                              
+113SN cL J$from |g(|q) and linear polarization in (|a,2n|g)                     
+113SN  G 786.0     3  67     25                                                 
+113SN  G  974.6    4 100     8                                                  
+113SN  L     2275.8 31/2-,3/2-                                                  
+113SN2 L XREF=DGH                                                               
+113SN cL J$L(d,p)=1                                                             
+113SN  G 1866.0    3 100                                                        
+113SN  L     2336.7 4 11/2-            0.35 PS   8                              
+113SN2 L XREF=CDHI                                                              
+113SN cL J$|g to 11/2-                                                          
+113SN  G 1598.3    3 100       M1+E2     1.9     2                              
+113SNB G BM1W=0.0033 10$BE2W=3.7 9                                              
+113SN  L    2385.7725  7/2+            0.7 PS    6                              
+113SN2 L XREF=CDH                                                               
+113SN cL J$|g's to 5/2+                                                         
+113SN  G  518.4    5  17     7                                                  
+113SN  G 913.2     3 100     30 M1+E2    0.4     2                              
+113SNB G BM1W=0.03 3$BE2W=4 +6-4                                                
+113SN  G 1101.8    4  14     7                                                  
+113SN  L     2410.8 5                                                           
+113SN2 L  XREF=D                                                                
+113SN  G  543.5    4 100                                                        
+113SN  L    2448.3823 7/2+                                                      
+113SN2 L XREF=CDHI                                                              
+113SN cL J$M1+E2 |g to 5/2+                                                     
+113SN  G 975.8     3 70.8                                                       
+113SN  G 1092.6    5 7       3                                                  
+113SN  G 1164.3    3 100        M1+E2    1.4     6                              
+113SN  L    2457.1122                                                           
+113SN2 L XREF=CH                                                                
+113SN  G 1959.1    3 100     5                                                  
+113SN  G 2047.2    3 14      1                                                  
+113SN  L     2467.9 3                                                           
+113SN2 L XREF=H                                                                 
+113SN  G 1969.8    3 100                                                        
+113SN  L     2506.0 3                                                           
+113SN2 L XREF=CDH                                                               
+113SN  G 1034.0    4 66      22                                                 
+113SN  G 1221.7    3 100     10                                                 
+113SN  L     2512.0 3(3/2,5/2)                                                  
+113SN2 L XREF=CDH                                                               
+113SN cL J$|g to 3/2+,5/2+, |g(|q) in {+113}In(p,n|g).                          
+113SN  G 2013.9    3 100                                                        
+113SN  L    2538.27223/2+,5/2+                                                  
+113SN2 L XREF=BHI                                                               
+113SN cL J$L(d,p)=2.                                                            
+113SN  G 2040.3    3 100     18                                                 
+113SN  G 2128.3    3 60      10                                                 
+113SN  L 2540      5 5/2-,7/2-                                                  
+113SN2 L XREF=G                                                                 
+113SN cL J$L(d,p)=3                                                             
+113SN  L     2540.0 4(15/2-)           0.07 PS   3                              
+113SN2 L XREF=CDH                                                               
+113SN cL J$E2 |g to 11/2-                                                       
+113SN  G 633.3     3 70      5  M1+E2    -1.2    8                              
+113SNB G BM1W=0.21 19$BE2W=6.E+2 5                                              
+113SN  G 1801.6    3 100     5   E2                                             
+113SNB G BE2W=8 4                                                               
+113SN  L     2552.4 3(3/2,5/2,7/2)                                              
+113SN2 L XREF=DH                                                                
+113SN cL J$|g's to 3/2+,5/2+, |g(|q) in {+113}In(p,n|g).                        
+113SN  G 1079.8    4 100     66                                                 
+113SN  G 1268.4    3 100     20                                                 
+113SN  L 2579      AP                                                           
+113SN2 L XREF=F                                                                 
+113SN cL E$not the same as 2583 level with J|p between 7/2- and 15/2-           
+113SN  L     2582.3 4 (15/2-)          0.22 PS   9                              
+113SN2 L XREF=CDHI                                                              
+113SN cL J$E2 |g to 11/2-                                                       
+113SN  G 1843.8    3 100                                                        
+113SN  L    2590.7722  (3/2)                                                    
+113SN2 L XREF=GHI                                                               
+113SN cL J$L=1,2 (d,p)                                                          
+113SN  G 2092.9    3 12      3                                                  
+113SN  G 2180.7    3 100     10                                                 
+113SN  L     2616.7 5                                                           
+113SN2 L XREF=CHI                                                               
+113SN  G 2206.9    5 100                                                        
+113SN  L     2619.4 4                                                           
+113SN2 L  XREF=D                                                                
+113SN  G  282.7    3 33      13                                                 
+113SN  G  838.4    4 100     13                                                 
+113SN  G 1881.0    3 60      7                                                  
+113SN  L 2620      5 1/2+                                                       
+113SN2 L XREF=CDGHI                                                             
+113SN cL E$could correspond to 2617 or 2624 level,                              
+113SN2cL who have |g feeding to low J|p.                                        
+113SN cL J$L(d,p)=0.                                                            
+113SN  L    2624.0421                                                           
+113SN2 L XREF=CDH                                                               
+113SN  G 879.4     3 56      3                                                  
+113SN  G 1151.8    5 25      13                                                 
+113SN  G 2213.9    3 100     10                                                 
+113SN  L     2649.0 4(9/2-)                                                     
+113SN2 L XREF=CDH                                                               
+113SN  G 1910.6    3 100       (E2)                                             
+113SN  L     2662.8 3(3/2+,5/2+)                                                
+113SN2 L XREF=CDHI                                                              
+113SN cL J$|g to 3/2+,5/2+, |g(|q) in {+113}In(p,n|g).                          
+113SN  G 2164.7    3 100                                                        
+113SN  L     2671.1 4                                                           
+113SN2 L XREF=CDH                                                               
+113SN  G 1932.7    3 100                                                        
+113SN  L     2675.3 4                                                           
+113SN2 L  XREF=D                                                                
+113SN cL E$from coin between 1284-583-808 gammas                                
+113SN  G  808.0    4 83      33                                                 
+113SN  G 1202.8    4 100     33                                                 
+113SN  L     2700.4 4                  0.4 PS    1                              
+113SN2 L  XREF=D                                                                
+113SN  G  363.7    4 56      22                                                 
+113SN  G  748.4    3 100     22                                                 
+113SN  G  765.0    4 44      22                                                 
+113SN  G 1962.0    3 78      22                                                 
+113SN  L     2717.8 4(11/2-)                                                    
+113SN2 L  XREF=D                                                                
+113SN cL J$M1 |g to 11/2-                                                       
+113SN  G  381.1    5 66      33                                                 
+113SN  G  772.5    3 100     33   M1                                            
+113SN  G 1979.4    3 100     33                                                 
+113SN  L     2749.7 4 17/2-            0.21 PS   7                              
+113SN2 L XREF=D                                                                 
+113SN cL J$E2 |g to 13/2-                                                       
+113SN  G 797.7     3 100           (E2)                                         
+113SNB G BE2W=2.6E+2 9                                                          
+113SN  L 2764      5 (7/2)-                                                     
+113SN cL J$L(d,p)=3                                                             
+113SN2 L XREF=G$FLAG=D                                                          
+113SN  L     2777.9 4                                                           
+113SN2 L XREF=CDGHI                                                             
+113SN  G 2039.5    3 100     12                                                 
+113SN  L 2780      5                                                            
+113SN2 L XREF=F                                                                 
+113SN  L     2806.6 5 19/2-            0.31 PS   10                         E   
+113SN2 L XREF=CDEIM                                                             
+113SN cL J$stretched (E2) to 15/2-                                              
+113SN  G 900.0     3 100        E2                                              
+113SNB G BE2W=1.0E+2 3                                                          
+113SN  L     2851.6 4 (17/2-)           1.2 PS   6                              
+113SN2 L  XREF=D                                                                
+113SN  G  899.1    4 100     50                                                 
+113SN  G  945.0    2 84      11                                                 
+113SN  L 2862      5 (7/2)-                                                     
+113SN cL J$L(d,p)=3                                                             
+113SN2 L XREF=G$FLAG=D                                                          
+113SN  L     2888.9 4                                                           
+113SN2 L XREF=CDH                                                               
+113SN  G 2150.5    3 100                                                        
+113SN  L     2915.9 4                                                           
+113SN2 L  XREF=D                                                                
+113SN  G  963.8    2 100     17                                                 
+113SN  G 1009.1    5 17      8                                                  
+113SN  L     2932.2 5                                                           
+113SN2 L XREF=B                                                                 
+113SN  G 1918.7    8 37      15                                                 
+113SN  G 2433.9    8 100     19                                                 
+113SN  G 2854.4    8 48      11                                                 
+113SN  L     2956.5 4                                                           
+113SN2 L XREF=CDH                                                               
+113SN  G 1672.4    3 100                                                        
+113SN  L     2975.0 4(19/2-)           0.28 PS   14                             
+113SN2 L XREF=CDEIM                                                             
+113SN  G 225.3     3 60      30 M1+E2    0.25    5                              
+113SNB G BM1W=1.8 13$BE2W=1.7E+3 15                                             
+113SN  G 392.7     2 61      5                                                  
+113SN  G 1068.3    3 100     30 E2                                              
+113SNB G BE2W=20 13                                                             
+113SN  L 3004      5 1/2-,3/2-                                                  
+113SN2 L XREF=G                                                                 
+113SN cL J$L(d,p)=1.                                                            
+113SN  L 3080      5 (7/2)-                                                     
+113SN cL J$L(d,p)=3                                                             
+113SN2 L XREF=G$FLAG=D                                                          
+113SN  L     3091.2 4 19/2-            0.45 PS   18                             
+113SN2 L XREF=DEIM                                                              
+113SN cL J$(E2) to 15/2-                                                        
+113SN  G 1184.7    3 100        E2                                              
+113SNB G BE2W=17 7                                                              
+113SN  L     3128.7 5 21/2-                                                     
+113SN2 L XREF=CDEI                                                              
+113SN cL J$M1,E2 to 19/2-                                                       
+113SN  G 153.0       3       1                                                  
+113SN  G 322.4     3 100     13M1+E2     0.15    5                              
+113SN  L     3130.3 5                                                           
+113SN2 L  XREF=DM                                                               
+113SN  G  510.9    5 100     57                                                 
+113SN2 G FL=2619.4                                                              
+113SN  G 1223.6    4 29      14                                                 
+113SN  L     3138.9 6                                                           
+113SN2 L  XREF=D                                                                
+113SN  G 1271.6    5 100                                                        
+113SN  L 3204      5 1/2-,3/2-                                                  
+113SN2 L XREF=G                                                                 
+113SN cL J         L(d,p)=1.                                                    
+113SN  L     3223.2 5(19/2)-             1.4 PS  GT                             
+113SN cL J$Q |g to 15/2-                                                        
+113SN2 L  XREF=DM                                                               
+113SN  G 1316.5    3 100        Q                                               
+113SN cG M$From {+100}Mo({+18}O,5n|g)                                           
+113SN  L 3307      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     3409.5 617/2                                                   A   
+113SN2 L  XREF=M                                                                
+113SN  G    1502.6 5      100   D                                               
+113SN cG M$From {+100}Mo({+18}O,5n|g)                                           
+113SN  L     3412.5 4                                                           
+113SN2 L  XREF=D                                                                
+113SN  G 1502.8    3 100                                                        
+113SN  L 3418      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     3420.4 5(21/2-)                                                    
+113SN2 L  XREF=DM                                                               
+113SN cL J$M1+E2 |g to (21/2-)                                                  
+113SN  G  291.7    2 100     11   M1+E2    0.35  15                             
+113SNX G FL=3128.7                                                              
+113SN  G  613.9    4 39      11   M1+E2    0.4   1                              
+113SN  L     3456.5 5                                                           
+113SN2 L  XREF=D                                                                
+113SN  G 1546.8    4 100                                                        
+113SN  L     3458.3 5(23/2-)                                                    
+113SN2 L XREF=DEM                                                               
+113SN cL J$M1,E2 to (21/2-)                                                     
+113SN  G 329.3     3 100       M1+E2     0.16    5                              
+113SNX G FL=3128.7                                                              
+113SN  G 651.1     5 3.4     17                                                 
+113SN  L 3494      5  (7/2)-                                                    
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 3499      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L 3539      5  (7/2)-                                                    
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 3584      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     3680.4 6(23/2-)                                                    
+113SN2 L XREF=E                                                                 
+113SN cL J$M1+E2 |g to (21/2-)                                                  
+113SN  G 551.7     3 100        M1+E2    10      GT                             
+113SNX G FL=3128.7                                                              
+113SN  L 3696      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 3743      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 3796      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 3808      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 3822      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     3837.5 6(23/2-)                                                    
+113SN2 L  XREF=D                                                                
+113SN  G 379.2     4 33      17                                                 
+113SN  G 708.7     4 100     8    M1                                            
+113SNX G FL=3128.7                                                              
+113SN  L 3846      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L 3873      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     3901.9 5(23/2-)           0.6 PS    2                              
+113SN2 L XREF=DEM                                                               
+113SN cL J$(E2) |g to 19/2-                                                     
+113SN  G 678.7     4 44      11 (E2)                                            
+113SNB G BE2W=6.E+1 3                                                           
+113SN  G 810.8     3 100        (E2)                                            
+113SNB G BE2W=58 20                                                             
+113SN  L 3906      2 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     3913.8 6  (21/2-)                                                  
+113SN2 L  XREF=D                                                                
+113SN cL J$M1 |g to (19/2-)                                                     
+113SN  G 1107.2    3 100        M1                                              
+113SN  L 3960      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L     3972.1 5(23/2-)           0.5 PS    2                              
+113SN cL J$M1+E2 |g to (21/2-)                                                  
+113SN2 L XREF=DEM                                                               
+113SN  G 551.9     3 14      14 M1+E2    10      GT                             
+113SNB G BM1W<0.00067                                                           
+113SN  G 843.7     3 100     18 M1+E2     0.25   5                              
+113SNX G FL=3128.7                                                              
+113SNB G BM1W=0.06 3$BE2W=4 3                                                   
+113SN  L 4022      5 (3/2)                                                      
+113SN2 L XREF=G                                                                 
+113SN  L 4044      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     4051.8 521/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G     642.0 5      100 5E2                                               
+113SN  G     960.7 5       73 5 D                                               
+113SN  L     4058.0 6  25/2+           0.69 NS   28                             
+113SN2 L XREF=DEM                                                               
+113SN cL J$E1 |g to 23/2-, a three quasi-particle neutron configuration         
+113SN2cL proposed by 1997Ka40                                                   
+113SN cL T$from |g-rf(t) in (|a,2n|g)                                           
+113SN  G 86.1      2 40      20                                                 
+113SN  G 599.1     3 100     20 E1                                              
+113SNB G BE1W=1.4E-6 7                                                          
+113SN  L 4233      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4265      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4315      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4335      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L 4343      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4364      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L 4397      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4430      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4438      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L     4475.1 6 (27/2+)          1.1 PS    GT                             
+113SN cL J$D+Q |g to (25/2)                                                     
+113SN2 L XREF=DEM                                                               
+113SN  G 417.1     3 100        M1+E2    0.4     2                              
+113SNB G BM1W<0.27$BE2W<3.2E+2                                                  
+113SN  L 4504      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L 4589      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4609      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 4649      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L     4714.4 6(27/2-)           0.31 PS   10                             
+113SN2 L XREF=DEM                                                               
+113SN cL J$(E2) |g to (23/2-)                                                   
+113SN  G 812.4     3 100        (E2)                                            
+113SNB G BE2W=1.6E+2 6                                                          
+113SN  L     4752.2 625/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G     700.3 5       88 5E2                                               
+113SN  G     850.5 5      100 5 D                                               
+113SN  L 4992      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 5012      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 5067      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 5239      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 5291      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L 5318      5                                                            
+113SN2 L XREF=G                                                                 
+113SN  L 5450      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     5534.4 629/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G     782.3 5      100 4E2                                               
+113SN  G     820.3 5    34.9 18 D                                               
+113SN  L     5605.7 831/2+                                                      
+113SN2 L XREF=M                                                                 
+113SN  G    1130.6 5      100  E2                                               
+113SN  L     5645.6 731/2-                                                  C   
+113SN2 L XREF=M                                                                 
+113SN  G     930.8 5      100  E2                                               
+113SN  L 5647      5 (7/2)-                                                     
+113SN2 L XREF=G$FLAG=D                                                          
+113SN cL J$L(d,p)=3                                                             
+113SN  L     6385.3 733/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G     739.4 5     17.8 9 D                                               
+113SN2 G FL=5645.6                                                              
+113SN  G     851.3 5      100 3E2                                               
+113SN  L     6682.3 935/2-                                                  C   
+113SN2 L XREF=M                                                                 
+113SN  G     1036.75      100  E2                                               
+113SN  L     7322.0 937/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G     936.7 5      100  E2                                               
+113SN  L     7745.525  1/2+                                                     
+113SN2 L XREF=F                                                                 
+113SN  L     7784.41039/2-                                                  C   
+113SN2 L XREF=M                                                                 
+113SN  G    1102.3 5      100  E2                                               
+113SN  L     7883.11039/2-                                                  B   
+113SN2 L XREF=M                                                                 
+113SN  G    1200.7 5      100  E2                                               
+113SN  L     8347.81041/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G    1025.7 5      100  E2                                               
+113SN  L     8811.71043/2-                                                  C   
+113SN2 L XREF=M                                                                 
+113SN  G     928.4 5       14LE E2                                              
+113SN  G    1027.4 5      100 4E2                                               
+113SN  L     9014.01043/2-                                                  B   
+113SN2 L XREF=M                                                                 
+113SN  G    1130.8 5       91 5E2                                               
+113SN  G    1229.6 5      100 5E2                                               
+113SN  L     9466.91145/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G    1119.1 5      100  E2                                               
+113SN  L     9936.41147/2-                                                  C   
+113SN2 L XREF=M                                                                 
+113SN  G    1124.7 5      100  E2                                               
+113SN  L    10209.71147/2-                                                  B   
+113SN2 L XREF=M                                                                 
+113SN  G    1195.7 5      100  E2                                               
+113SN  L    10589.11249/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G    1122.2 5      100  E2                                               
+113SN  L    11242.01251/2-                                                  C   
+113SN2 L XREF=M                                                                 
+113SN  G    1305.6 5      100  E2                                               
+113SN  L    11405.11251/2-                                                  B   
+113SN2 L XREF=M                                                                 
+113SN  G    1195.4 5      100  E2                                               
+113SN  L    11723.51353/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G    1134.4 5      100  E2                                               
+113SN  L 11826     50  9/2+                                                     
+113SN2 L XREF=L                                                                 
+113SN cL           IAS of {+113}In g.s.                                         
+113SN  L 12254     50  1/2-                                                     
+113SN2 L XREF=L                                                                 
+113SN cL           IAS of {+113}In 392 level.                                   
+113SN  L 12513     50  3/2-                                                     
+113SN2 L XREF=L                                                                 
+113SN cL           IAS of {+113}In 647 level.                                   
+113SN  L    12642.91355/2-                                                  B   
+113SN2 L XREF=M                                                                 
+113SN  G    1237.8 5      100  E2                                               
+113SN  L    12736.813(55/2-)                                                C   
+113SN2 L XREF=M                                                                 
+113SN  G    1494.8 5      100  (E2)                                             
+113SN  L    13034.61457/2                                                   A   
+113SN2 L XREF=M                                                                 
+113SN  G    1311.1 5      100  E2                                               
+113SN  L    14032.61459/2-                                                  B   
+113SN2 L XREF=M                                                                 
+113SN  G    1389.7 5      100  E2                                               
+113SN  L    14286.51459/2-                                                  C   
+113SN2 L XREF=M                                                                 
+113SN  G    1549.7 5      100  (E2)                                             
+113SN  L    14577.515(61/2)                                                 A   
+113SN2 L XREF=M                                                                 
+113SN  G    1542.9 5      100  (E2)                                             
+113SN  L    15653.915(63/2-)                                                B   
+113SN2 L XREF=M                                                                 
+113SN  G    1621.3 5      100  (E2)                                             
+113SN  L    15990.818(63/2-)                                                C   
+113SN2 L XREF=M                                                                 
+113SN  G    1704.3 10     100  (E2)                                             
+113SN  L    16309.818(65/2)                                                 A   
+113SN2 L XREF=M                                                                 
+113SN  G    1732.3 10     100   (E2)                                            
+113SN  L    17504.318(67/2-)                                                B   
+113SN2 L XREF=M                                                                 
+113SN  G    1850.4 10     100  (E2)                                             
+113SN  L    18219.820 (69/2)                                                A  ?
+113SN2 L XREF=M                                                                 
+113SN  G    1910.8 10     100  (E2)                                            ?
+

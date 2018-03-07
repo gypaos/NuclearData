@@ -1,0 +1,340 @@
+125SN    ADOPTED LEVELS, GAMMAS                                  11NDS    201102
+125SN  H TYP=FUL$AUT=J. KATAKURA$CIT=NDS 112, 495 (2011)$CUT=1-Jan-2010$        
+125SN  Q 2360      3 5733.50 201.232E4 3 -7247.5 22    2012WA38                 
+125SN cQ $Note: Current evaluation has used the following Q record              
+125SN  Q 2357.0    275733.1   6 12319  31 -7262  85    2009AUZZ                 
+125SN cG E,RI      From {+125}In |b{+-} decay (2.36 s), unless otherwise noted  
+125SN cG E(A)      From {+125}In |b{+-} decay (12.2 s)                          
+125SN cG E(B),RI(I)$From {+124}Sn(d,p|g)                                        
+125SN cG E(C),RI(H)$From {+124}Sn(n,|g)                                         
+125SN cG E(D)      Weighted av from {+124}Sn(d,p|g) and {+124}Sn(n,|g)          
+125SN cG E(E)      Doubly placed; energy values are weighted av from            
+125SN2cG {+124}Sn(d,p|g) and {+124}Sn(n,|g), intensity from {+125}Sn(n,|g)      
+125SN cG E(J),RI(J)$From IT {+125}Sn IT decay (6.2 |ms)                         
+125SN cG M,MR      From |a(K)exp in {+125}In |b{+-} decay (12.2 s, 2.36 s) and  
+125SN2cG |a(K)exp in {+124}Sn(d,p|g)                                            
+125SN cL E$From a least-squares fit to the adopted E|g's for levels             
+125SN2cL connected by |g's. Others from (d,p) and (|a,{+3}He)                   
+125SN cL J(G)      Spin-parity assignments are based on agreement between       
+125SN2cL the experimental level energies and those predicted for                
+125SN3cL (|nh{-11/2}){+n} |n=3 states (2000Zh47).                               
+125SN  XA124SN(A,3HE)                                                           
+125SN  XB124SN(D,P)                                                             
+125SN  XC124SN(D,PG)                                                            
+125SN  XD124SN(N,G) E=0.05-11.5 KEV                                             
+125SN  XE125IN B- DECAY (12.2 S)                                                
+125SN  XF125IN B- DECAY (2.36 S)                                                
+125SN  XG125SN IT DECAY (0.23 US)                                               
+125SN  XH125SN IT DECAY (6.2 US)                                                
+125SN PN                                                                     6  
+125SN  L 0.0         11/2-             9.64 D    3                              
+125SNX L XREF=ABCDEFGH                                                          
+125SN cL J         L=5 in (d,p), (|a,{+3}He); |DJ=2, yes shape to 7/2{++}       
+125SN2cL from F-K plot.                                                         
+125SN cL T         Value recommended by 1968Er03 based on their value of 9.67 d 
+125SN2cL {I4}, along with 9.4 d {I1} from 1950Ne52 and 9.625 d {I25} from       
+125SN3cL 1966La13.                                                              
+125SN4cL Others: 10 d (1939Li04), 9.5 d (1949Ne06), 10.0 d {I3} (1949Le05)      
+125SN2 L %B-=100                                                                
+125SN3 L MOMM1=-1.348 2$ MOME2=+0.14 21                                         
+125SN cL MOMM1$LASER spectroscopy (1986An24). See also 2005St24 compilation.    
+125SN cL MOME2$LASER spectroscopy (2004Le13,2005Le34).                          
+125SN2cL See also 2005St24 compilation.                                         
+125SN cL $<r{+2}>{+1/2}=4.678 fm {i3} (2004An14, evaluation). 2005Le34 gave     
+125SN2cL measured value of 4.677 fm {i3}.                                       
+125SN cL           Configuration=(|n 1h{-11/2})                                 
+125SN  L 27.50     143/2+              9.52 M    5                           M1 
+125SN DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+125SNX L XREF=ABCDEF                                                            
+125SN cL J         L=2 in (d,p), M1+E2 |g from 1/2+                             
+125SN cL T         From 1968Er03. Others: 9 min (1939Li04), 10 min (1947Su21),  
+125SN2cL 9.8 min {I2} (1949Le05), 9.5 min {I1} (1950Ne52)                       
+125SN2 L %B-=100                                                                
+125SN3 L MOMM1=+0.764 3$MOME2=+0.79 7                                           
+125SN cL MOMM1$LASER spectroscopy (2004Le13,2005Le34).                          
+125SN2cL See also 2005St24 compilation.                                         
+125SN cL MOME2$ LASER spectroscopy (2004Le13). 2004Le13 gave measured           
+125SN2cL Q value of +0.79 {I7}, but 2005Le34 by the same author gave no value   
+125SN3cL because the weakest line was buried in the strongest component of the  
+125SN4cL 11/2{+-} state and could not be isolated.                              
+125SN2cL See also 2005St24 compilation.                                         
+125SN cL $<r{+2}>{+1/2}=4.676 fm {i3} (2005Le34).                               
+125SN cL           Configuration=(|n 2d{-3/2})                                  
+125SN  L 215.12    151/2+                                                       
+125SNX L XREF=BCDE                                                              
+125SN cL J         L=0 in (d,p)                                                 
+125SN cL           Configuration=(|n 3s{-1/2})                                  
+125SN  G 187.63    3 100       M1+E2     0.9     +13-6 0.13   3             AC  
+125SNS G KC=0.110 22$LC=0.018 6$MC=0.0035 13$NC+=0.00069 23                     
+125SNS G NC=0.00065 22$OC=4.5E-5 9                                              
+125SN  L 617.89     8(9/2-)                                                     
+125SNX L XREF=CF                                                                
+125SN cL J$M1,E2   |g to 11/2-; systematics of odd-Sn isotopes favors 9/2-      
+125SN  G 617.88    10100       (M1,E2)                                       C  
+125SNS G CC=0.0044 4$KC=0.0038 3$LC=0.000482 20$MC=9.4E-5 4$NC+=1.92E-5 9       
+125SNS G NC=1.77E-5 8$OC=1.50E-6 13                                             
+125SN  L 854.69    177/2+                                                       
+125SNX L XREF=B(859)CDF                                                         
+125SN cL J         log| {Ift}=6.23 from 9/2+, M1,E2 |g in {+124}Sn(d,p|g)       
+125SN2cL to 3/2+                                                                
+125SN  G 827.15    10100       (E2)                                             
+125SNS G CC=0.00199 3$KC=0.001722 25$LC=0.000216 3$MC=4.22E-5 6$NC+=8.57E-6 12  
+125SNS G NC=7.91E-6 11$OC=6.64E-7 10                                            
+125SN cG M         M1,E2 in {+124}Sn(d,p|g) and relevant levels                 
+125SN  L 930.38    231/2,3/2                                                    
+125SNX L XREF=CD                                                                
+125SN cL J         |g from 1/2- (n,|g) resonance (62 eV); |g to 1/2+            
+125SN  G 715.4     2 28                                                     DC  
+125SNF G FLAG=H                                                                 
+125SN  G 902.3     4 100                                                    D   
+125SNF G FLAG=H                                                                 
+125SN  L 936.49     8(7/2)-                                                     
+125SNX L XREF=BCDF                                                              
+125SN cL J         L=(3) in (d,p); M1,E2 |g in {+124}Sn(d,p|g) to 11/2-         
+125SN  G 936.50    10100       (E2)                                          C  
+125SNS G CC=0.001491 21$KC=0.001293 19$LC=0.0001599 23$MC=3.13E-5 5$NC+=6.36E-6 
+125SNS G NC=5.86E-6 9$OC=4.97E-7 7                                              
+125SN cG M         (M1,E2) in {+124}Sn(d,p|g) and relevant levels               
+125SN  L 1059.25   187/2+                                                       
+125SNX L XREF=B(*1069)CF                                                        
+125SN cL J         Log| {Ift}=5.44 from 9/2+, |g to 3/2+                        
+125SN  G 1031.75   10100                                                        
+125SN  L     1072.0 41/2,3/2                                                    
+125SNX L XREF=B(*1069)CD                                                        
+125SN cL J         |g from 1/2- (n,|g) resonance (62 eV); |g to 1/2+            
+125SN  G 857.1     4 86      7                                              DC  
+125SNF G FLAG=H                                                                 
+125SN cG RI        100  in (n,|g)                                               
+125SN  G 1043.9    6 100                                                    E   
+125SNF G FLAG=H                                                                 
+125SN  L 1087.35   18 (15/2-)                                               G   
+125SNx L XREF=GH                                                                
+125SN  G 1087.5    2 100                                                        
+125SN  L     1187.5 71/2+,3/2+,5/2+                                             
+125SNX L XREF=CD                                                                
+125SN cL J         M1,E2 |g to 1/2+                                             
+125SN  G 972.4     9 95      25M1,E2                                        D   
+125SNS G CC=0.00152 15$KC=0.00132 14$LC=0.000160 14$MC=3.1E-5 3$NC+=6.4E-6 6    
+125SNS G NC=5.9E-6 5$OC=5.1E-7 6                                                
+125SNF G FLAG=I                                                                 
+125SN cG RI        54 {I25} in (n,|g)                                           
+125SN  G 1159.9    8 100     10M1,E2                                        DC  
+125SNS G CC=0.00103 10$KC=0.00090 9$LC=0.000107 9$MC=2.10E-5 18$NC+=7.06E-6 21  
+125SNS G NC=3.9E-6 4$OC=3.4E-7 4$IPC=2.77E-6 21                                 
+125SNF G FLAG=I                                                                 
+125SN  L 1218.86   18 (13/2-)                                                   
+125SNX L XREF=GH                                                                
+125SN cL J         Systematics                                                  
+125SN  G 1218.7    2 100                                                        
+125SN  L     1258.9 6(5/2)+                                                     
+125SNX L XREF=B(1261)CD                                                         
+125SN cL J         L=2 in (d,p); J|p=(5/2)+ in {+124}Sn(pol p,p) IAR in {+125}Sb
+125SN  G 1043.9    6 30                                                     E   
+125SN  G 1231.1    11100       M1,E2                                        D   
+125SNS G CC=0.00092 9$KC=0.00079 8$LC=9.4E-5 8$MC=1.84E-5 16$NC+=1.43E-5 5      
+125SNS G NC=3.5E-6 3$OC=3.0E-7 3$IPC=1.05E-5 7                                  
+125SN  L 1362.52    77/2+                                                       
+125SNX L XREF=A(1377)B(1364)F                                                   
+125SN cL J         L=4 in (d,p), (|a,{+3}He); |g to 3/2+                        
+125SN  G 426.03    103.3     3                                               C  
+125SN  G 507.7     2 0.66    13                                              C  
+125SN  G 744.62    107.4     7                                               C  
+125SN  G 1335.04   10100     5 (E2)                                             
+125SNS G CC=0.000728 11$KC=0.000607 9$LC=7.29E-5 11$MC=1.422E-5 20$NC+=3.37E-5 5
+125SNS G NC=2.68E-6 4$OC=2.32E-7 4$IPC=3.08E-5 5                                
+125SN cG M         (M1,E2) in {+125}In |b- decay and relevant levels            
+125SN  G 1362.5    3 0.33    7                                                  
+125SN  L 1540.3    10(5/2)+                                                     
+125SNX L XREF=BC                                                                
+125SN cL J         L=2 in (d,p); J|p=(5/2)+ in {+124}Sn(pol p,p) IAR in {+125}Sb
+125SN  G 1512.8    9 100                                                    B   
+125SN  L 1757.0    111/2,3/2                                                    
+125SNX L XREF=BCD                                                               
+125SN cL J         |g from 1/2- (n,|g) resonance (62 eV); |g to 1/2+            
+125SN  G 1541.9    10100                                                    C   
+125SN  L 1803      10                                                           
+125SNX L XREF=B                                                                 
+125SN  L     1875.312                                                           
+125SNX L XREF=D                                                                 
+125SN  G 616.4     10100                                                    C   
+125SN  L 1880.01   20 (15/2+)                                                   
+125SNX L XREF=GH                                                                
+125SN cL J         Systematics                                                  
+125SN  G 661.0     2 53      5                                              J   
+125SN  G 792.8     2 100     10                                             J   
+125SN  L 1892.8     3 (19/2+)          6.2 US    2                              
+125SNX L XREF=BGH                                                               
+125SN cL J         Systematics                                                  
+125SN cL T         From 2008Lo07; Other 6.2 |ms 7 (2000Pi03)                    
+125SN  G 10        AP                                                           
+125SN  G 805.5     2 100     10                                             J   
+125SN  L 2059.5     4(23/2+)           0.6 US    2                              
+125SNX L XREF=G                                                                 
+125SN cL T         From 2008Lo07                                                
+125SN  G 167.0     3 100                                                        
+125SN  L 2076.0     3 (19/2-)                                               G   
+125SNX L XREF=G                                                                 
+125SN  G 988.4     3 100                                                        
+125SN  L 2135.6     3 (19/2-)                                               G   
+125SNX L XREF=G                                                                 
+125SN  G 1048.3    3 100                                                        
+125SN  L 2176.1    4 7/2,9/2,11/2                                               
+125SNX L XREF=F                                                                 
+125SN cL J         Log| {Ift}=5.91 from 9/2+                                    
+125SN  G 1558.2    4 100                                                     C  
+125SN  L 2249.5    9 (3/2+,5/2+)                                                
+125SNX L XREF=B(2254)D                                                          
+125SN cL J         L=(2) in (d,p)                                               
+125SN  G 2034.5    10100                                                    C   
+125SN  G 2221.5    1520                                                     C   
+125SN  L 2284.2    10                                                           
+125SNX L XREF=D                                                                 
+125SN  G 2256.7    10100                                                    C   
+125SN  L 2308.1     4(21/2+)                                                    
+125SNX L XREF=G                                                                 
+125SN  G 415.3     3 100                                                        
+125SN  L     2331.516                                                           
+125SNX L XREF=D                                                                 
+125SN  G 1259.5    15100                                                    C   
+125SN  L     2347.211                                                           
+125SNX L XREF=D                                                                 
+125SN  G 1275.2    10100                                                    C   
+125SN  L 2355      10(1/2-,3/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(1) in (d,p)                                               
+125SN  L 2462.2     3 (23/2-)                                               G   
+125SNX L XREF=BG                                                                
+125SN  G 154.0     3                                                            
+125SN  G 326.7     3 20      2                                                  
+125SN  G 385.9     3 100     10                                                 
+125SN  G 402.9     3 65      7                                                  
+125SN  L 2519      4                                                            
+125SNX L XREF=B                                                                 
+125SN  L     2532.616                                                           
+125SNX L XREF=D                                                                 
+125SN  G 1460.6    15100                                                    C   
+125SN  L 2589      10(5/2-,7/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 2623.5     5 (27/2-)           0.23 US  2                          G   
+125SNX L XREF=G                                                                 
+125SN cL T         From 2008Lo07; other: 0.23 |ms 3 (2000Pi03)                  
+125SN  G 161.3     3                                                            
+125SN2 G FL=2462.2                                                              
+125SN  L 2760      107/2-                                                       
+125SNX L XREF=AB                                                                
+125SN cL J         L=3 in (d,p), (|a,{+3}He); J|p=7/2- in {+124}Sn(pol p,p) IAR 
+125SN2cL in {+125}Sb                                                            
+125SN  L 2800      10                                                           
+125SNX L XREF=B                                                                 
+125SN  L 2883      10(5/2-,7/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 2990      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 3020      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 3080      105/2-,7/2-                                                  
+125SNX L XREF=B                                                                 
+125SN cL J         L=3 in (d,p)                                                 
+125SN  L 3109      3                                                            
+125SNX L XREF=B                                                                 
+125SN  L 3150      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 3180      10                                                           
+125SNX L XREF=B                                                                 
+125SN  L 3195      7 5/2-,7/2-                                                  
+125SNX L XREF=AB                                                                
+125SN cL J         L=3 in (d,p), (|a,{+3}He)                                    
+125SN  L 3247      10                                                           
+125SNX L XREF=B                                                                 
+125SN  L 3344      10(3/2-)                                                     
+125SNX L XREF=B                                                                 
+125SN cL J         L=(1) in (d,p); J|p=(3/2-) in {+124}Sn(pol p,p) IAR in       
+125SN2cL {+125}Sb                                                               
+125SN  L 3375      6                                                            
+125SNX L XREF=B                                                                 
+125SN  L 3416      10(3/2)-                                                     
+125SNX L XREF=B                                                                 
+125SN cL J         L=1 in (d,p); J|p=(3/2-) in {+125}Sn(pol p,p) IAR in         
+125SN2cL {+125}Sb                                                               
+125SN  L 3482      101/2-,3/2-                                                  
+125SNX L XREF=B                                                                 
+125SN cL J         L=1 in (d,p)                                                 
+125SN  L 3530      10(9/2-,11/2-)                                               
+125SNX L XREF=AB                                                                
+125SN cL J         L=(5) in (d,p), (|a,{+3}He); but L=(1) reported in another   
+125SN2cL (d,p) experiment (1967Sc12)                                            
+125SN  L 3610      10(5/2-,7/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 3703      10                                                           
+125SNX L XREF=A(*3730)B                                                         
+125SN  L 3738      7                                                            
+125SNX L XREF=A(*3730)B                                                         
+125SN  L 3774      14                                                           
+125SNX L XREF=A(*3730)B                                                         
+125SN  L 3820      15(1/2)-                                                     
+125SNX L XREF=A(*3830)B                                                         
+125SN cL           L=(1)+(5) in (d,p); J|p=(1/2)- in {+124}Sn(pol p,p) IAR      
+125SN2cL in {+125}Sb                                                            
+125SN  L 3850      15                                                           
+125SNX L XREF=A(*3830)B                                                         
+125SN  L 3870      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 3920      15                                                           
+125SNX L XREF=A(*3940)B                                                         
+125SN  L 3970      15(-)                                                        
+125SNX L XREF=A(*3940)B                                                         
+125SN cL           L=(3)+(5) in (d,p), (|a,{+3}He)                              
+125SN  L 4030      15(9/2-,11/2-)                                               
+125SNX L XREF=A(4010)B                                                          
+125SN cL J         L=(5) in (|a,{+3}He)                                         
+125SN  L 4100      15(1/2-,3/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(1) in (d,p)                                               
+125SN  L 4160      15(5/2-,7/2-)                                                
+125SNX L XREF=A(*4200)B                                                         
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 4200      15(5/2-,7/2-)                                                
+125SNX L XREF=A(*4200)B                                                         
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 4290      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 4320      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 4430      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 4510      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 4550      15(9/2-,11/2-)                                               
+125SNX L XREF=A(4580)B                                                          
+125SN cL J         L=(5) in (d,p), (|a,{+3}He)                                  
+125SN  L 4650      15(5/2-,7/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 4730      15(5/2-,7/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 4780      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 4830      15(5/2-,7/2-)                                                
+125SNX L XREF=B                                                                 
+125SN cL J         L=(3) in (d,p)                                               
+125SN  L 4880      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 4900      15(9/2-,11/2-)                                               
+125SNX L XREF=A(4930)B                                                          
+125SN cL J         L=(5) in (|a,{+3}He)                                         
+125SN  L 4980      15                                                           
+125SNX L XREF=B                                                                 
+125SN  L 5060      15(9/2-,11/2-)                                               
+125SNX L XREF=A(5020)B                                                          
+125SN cL J         L=(5) in (d,p), (|a,{+3}He)                                  
+125SN  L 5120      40(9/2-,11/2-)                                               
+125SNX L XREF=A                                                                 
+125SN cL J         L=(5) in (|a,{+3}He)                                         
+125SN  L 5230      40(9/2-,11/2-)                                               
+125SNX L XREF=A                                                                 
+125SN cL J         L=(5) in (|a,{+3}He)                                         
+

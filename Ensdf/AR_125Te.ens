@@ -1,0 +1,1633 @@
+125TE    ADOPTED LEVELS, GAMMAS                                  11NDS    201102
+125TE  H TYP=FUL$AUT=J. KATAKURA$CIT=NDS 112, 495 (2011)$CUT=1-Jan-2010$        
+125TE  Q -185.77   6 6568.97 3 8690.9  16-2250.4 17    2012WA38                 
+125TE cQ $Note: Current evaluation has used the following Q record              
+125TE  Q -185.77   6 6568.97  3 8691.0 16-2242.2 24    2009AUZZ                 
+125TE DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+125TE cG E         From {+125}Sb |b-decay, {+125}Te IT decay, {+124}Sn(|a,3n|g),
+125TE2cG {+124}Te(n,|g) and Coulomb Excitation, unless otherwise noted          
+125TE cG E(A)      See comment on the 402 level in adopted levels               
+125TE cG E(D)      From Coul. ex.                                               
+125TE cG E(M)      Multiple placement in (n,|g)                                 
+125TE cG RI        From {+125}I IT decay, {+125}Sb |b-decay {+124}Sn(|a,3n|g),  
+125TE2cG {+124}Te(n,|g) and Coulomb Excitation, unless otherwise noted.         
+125TE cG RI(E)     From Coul. ex.                                               
+125TE cG M         From |a(exp) and |g|g(|q) in {+125}Sb |b{+-} decay and       
+125TE2cG {+125}Te it decay and |g(|q) in {+124}Sn(|a,3n|g)                      
+125TE cG MR        From 1977Kr13, unless otherwise noted                        
+125TE cL E         From a least-squares fit to the adopted E|g's for levels     
+125TE2cL connecting with |g's, others from (d,p), unless otherwise noted        
+125TE cL E(A)      The E1 81 |g to 9/2- requires J|p(402 level)|>7/2+ and so    
+125TE2cL the 402 gs transition has mult M2 or higher. From B(M2)(W.u.)<10       
+125TE3cL (RUL), one gets T{-1/2}(402 level)>1.8 ms. This is highly unlikely and 
+125TE4cL so there is a problem with the placement of one or more of the |g's    
+125TE5cL from this proposed level                                               
+125TE cL E(B)      (d,p) experiment suggests L=1 for a sum peak of 3875 and     
+125TE2cL 3887 keV                                                               
+125TE  XACOULOMB EXCITATION                                                     
+125TE  XB124SN(A,3NG)                                                           
+125TE  XC124TE(D,P)                                                             
+125TE  XD124TE(T,D)                                                             
+125TE  XE124TE(N,G) E=THERMAL                                                   
+125TE  XF125I EC DECAY                                                          
+125TE  XG125SB B- DECAY                                                         
+125TE  XH125TE IT DECAY                                                         
+125TE  XI125TE(D,D')                                                            
+125TE  XJ126TE(D,T)                                                             
+125TE  XK126TE(3HE,A)                                                           
+125TE  XM127I(MU-,NU2NG)                                                        
+125TE PN                                                                     6  
+125TE  L 0.0          1/2+             STABLE                                   
+125TEX L XREF=ABCDEFGHJKM                                                       
+125TE2 L MOMM1=-0.8885051 4                                                     
+125TE cL MOMM1     From NMR (1977Bu29); value relative to |m for {+2}H          
+125TE2cL (1977Bu29).                                                            
+125TE3cL See also 2005St24 compilation.                                         
+125TE cL $<r{+2}>{+1/2}=4.7198 fm {i18} (2004An14, evaluation).                 
+125TE cL J         Optical spectroscopy J=1/2 (1976Fu06); L=0 in (d,p)          
+125TE cL           Configuration=(|n 3s{-1/2})                                  
+125TE  L 35.4925    53/2+              1.482 NS  8                              
+125TEX L XREF=ABCDEFGHJKM                                                       
+125TE cL J         L=2 in (d,p), ({+3}He,|a); M1+E2 |g to 1/2+                  
+125TE cL T         From weighted av of |g|g(t), X|g(t), ce|g(t),(ce)(ce)(t):    
+125TE2cL 1.55 ns {I3} (1967Vo02), 1.475 ns {I10} (1968Ho05), 1.486 ns {I9}      
+125TE3cL (1970Be47), 1.50 ns {I8} (1970Ba69), 1.51 ns {I5} (1972Sa08), 1.45 ns  
+125TE4cL {I3} (1970Ma20), 1.41 ns {I4} (1971Bo13). Other: 1.32 ns {I21}         
+125TExcL (1964Ro21); charge state dependence (1995At01,1997At01)                
+125TE2 L MOMM1=+0.605 4 $ MOME2=-0.31 2                                         
+125TE cL MOMM1     From Moss (1975Bo51); value relative to |m for {+125}Te.     
+125TE2cL See also 2005St24 compilation.                                         
+125TE cL MOME2     From Moss (1977La03); value relative to Q for {+129}I.       
+125TE2cL See also 2005St24 compilation.                                         
+125TE cL           Configuration=(|n 2d{-3/2})                                  
+125TE  G 35.4925   5 100       M1+E2     0.031   3     13.69                    
+125TES G KC=11.69 17$LC=1.602 25$MC=0.321 5$NC+=0.0699 11                       
+125TES G NC=0.0632 10$OC=0.00675 10                                             
+125TE cG E         From {+125}I |e decay                                        
+125TE cG MR        From 1982Br16. Other: +0.027 {I1} (1977Kr13)                 
+125TEB G BM1W=0.0226 4$BE2W=11.9 24                                             
+125TE  L 144.775    811/2-             57.40 D   15                          M1 
+125TEX L XREF=ABCDEGHJKM                                                        
+125TE2 L %IT=100                                                                
+125TE3 L MOMM1=-0.985 6 $ MOME2=-0.06 2                                         
+125TE cL MOMM1     From radiative detection of NMR (1980Ge02); value relative   
+125TE2cL to |m=+0.605 {I4} for {+125}Te 36-keV level.                           
+125TE3cL See also 2005St24 compilation.                                         
+125TE cL MOME2     From Mossbauer detection of oriented nuclei (1987Be36);      
+125TE2cL value relative to Q=-0.31 {I2} for {+125}Te 36-keV level.              
+125TE3cL 2006Si40 gave +0.02 {I17} from laser spectroscopy.                     
+125TE4cL See also 2005St24 compilation.                                         
+125TE cL J         L=5 in (d,p), ({+3}He,|a); M4 |g to 3/2+                     
+125TE cL T         From 1978La21. Others: 58 d {I4} (1988GeZS), 58 d {I1}       
+125TE2cL (1965An05), 58 d {I4} (1949Hi27)                                       
+125TE cL           Configuration=(|n 1h{-11/2})                                 
+125TE  G 109.276   15100     1 M4                      356                      
+125TES G KC=185 3$LC=133.0 19$MC=30.9 5$NC+=6.49 9                              
+125TES G NC=5.96 9$OC=0.528 8                                                   
+125TE DG CC        M4 CC(THEORY)'S MULT. BY 0.975 5 (Cf. 1990Ne01)              
+125TEB G BM4W=3.44 10                                                           
+125TE  G 144.780   251.4E-4    [E5]                    259                     ?
+125TES G KC=39.5 6$LC=171.0 24$MC=40.1 6$NC+=7.97 12                            
+125TES G NC=7.42 11$OC=0.547 8                                                  
+125TE cG CC        |a(K)+(1.33)|a(L) (1978Ba45)                                 
+125TEB G BE5W=0.0400 11                                                         
+125TE  L 321.090    89/2-              0.673 NS  13                             
+125TEX L XREF=ABEGIJKM                                                          
+125TE cL J         M1+E2 |g to 11/2-, E1 |g from 7/2+                           
+125TE cL T         From {+125}Sb |b{+-} decay                                   
+125TE2 L MOMM1=-0.92 3$ MOME2=0.12 +5-9                                         
+125TE cL MOMM1     From integral PAC (1970Cr07). See also 2005St24 compilation. 
+125TE cL MOME2     From integral PAC (1976Va28); value relative to              
+125TE2cL Q=-0.31 {I2} for {+125}Te 36-keV level. See also 2005St24 compilation. 
+125TE  G 176.314   2 100       M1+E2     -0.60   2     0.164  3                 
+125TEB G BM1W=0.00377 10$BE2W=30.2 16                                           
+125TES G KC=0.1376 21$LC=0.0216 5$MC=0.00437 9$NC+=0.000936 19                  
+125TES G NC=0.000850 17$OC=8.57E-5 16                                           
+125TE cG MR        From {+125}Sb |b{+-} decay                                   
+125TE  L     402.09 47/2+                                                   A  ?
+125TEX L XREF=G                                                                 
+125TE cL J         E1 |g to 9/2-, |g to 3/2+                                    
+125TE  G 81.02     4 63      4 E1                      0.354                A  ?
+125TES G KC=0.304 5$LC=0.0402 6$MC=0.00796 12$NC+=0.001697 24                   
+125TES G NC=0.001541 22$OC=0.0001558 22                                         
+125TE  G 366.56    11100     7                                              A  ?
+125TE  G 401.95    1278      7 [M3]                    0.193                A  ?
+125TES G KC=0.1600 23$LC=0.0268 4$MC=0.00552 8$NC+=0.001200 17                  
+125TES G NC=0.001086 16$OC=0.0001137 16                                         
+125TE  L 443.562    53/2+              19.1 PS   6                              
+125TEX L XREF=ABCDEGJKM                                                         
+125TE cL J         M1+E2 |g to 1/2+, L=2 in (d,t), (t,d), ({+3}He,|a)           
+125TE cL T         From B(E2) in Coul. ex. (1975Be04)                           
+125TE2 L MOMM1=+0.65 18                                                         
+125TE cL MOMM1$From transient field IPAC (1989Be22). Others: +1.0 {I3} from     
+125TE2cL transient field IPAC (2007St24),                                       
+125TE3cL  +0.59 {I9} from ion implantation PAC (1974Ro40).                      
+125TE4cL See also 2005St24 compilation.                                         
+125TE  G 408.065   1059.3    4 M1+E2     +1.50   7     0.01500                  
+125TES G KC=0.01278 18$LC=0.00179 3$MC=0.000359 5$NC+=7.75E-5 11                
+125TES G NC=7.02E-5 10$OC=7.30E-6 11                                            
+125TEB G BM1W=0.00192 14$BE2W=17.9 8                                            
+125TE  G 443.555   9 100.0   6 M1+E2     -2.3    1     0.01169                  
+125TES G KC=0.00995 14$LC=0.001398 20$MC=0.000281 4$NC+=6.06E-5 9               
+125TES G NC=5.49E-5 8$OC=5.69E-6 8                                              
+125TEB G BM1W=0.00130 11$BE2W=24.2 9                                            
+125TE  L 463.3668  235/2+              13.2 PS   5                              
+125TEX L XREF=ABCDEGIJKM                                                        
+125TE cL J         L=2 in (d,t), log| {Ift}=8.04 from 7/2+                      
+125TE cL T         From  B(E2) in Coul. ex. (1975Be04). Other: 18.8 ps {I25}    
+125TE2cL in {+125}Sb |b{+-} decay                                               
+125TE2 L MOMM1=+0.50 13                                                         
+125TE cL MOMM1$From transient field IPAC (1989Be22). Others: +0.85 {I23}        
+125TE2cL from transient field IPAC (2007St24),                                  
+125TE3cL +0.80 {I23} from transient field IPAC (1985Gr17).                      
+125TE4cL See also 2005St24 compilation.                                         
+125TE  G 19.80     6 0.069   3 [M1]                    10.93  19                
+125TES G LC=8.79 15$MC=1.76 3$NC+=0.384 7                                       
+125TES G NC=0.346 6$OC=0.0373 7                                                 
+125TEB G BM1W=0.107 7                                                           
+125TE  G 427.874   4 100     2 M1+E2     -0.538  11    0.01360                  
+125TES G KC=0.01172 17$LC=0.001511 22$MC=0.000302 5$NC+=6.59E-5 10              
+125TES G NC=5.95E-5 9$OC=6.40E-6 9                                              
+125TEB G BM1W=0.0119 6$BE2W=13.0 8                                              
+125TE  G 463.365   4 36.1    4 E2                      0.01014                  
+125TES G KC=0.00861 12$LC=0.001226 18$MC=0.000246 4$NC+=5.31E-5 8               
+125TES G NC=4.81E-5 7$OC=4.96E-6 7                                              
+125TE cG RI        Other: 50 (|a,3n|g)                                          
+125TEB G BE2W=14.1 6                                                            
+125TE  L 525.228    77/2-              160 PS    LE                             
+125TEX L XREF=ABCDEGJKM                                                         
+125TE cL J         L=3 in (d,t), ({+3}He,|a); |g|g(|q) in {+125}Sb |b{+-}       
+125TE2cL decay                                                                  
+125TE cL T         From {+125}Sb |b{+-} decay                                   
+125TE2 L MOMM1<0                                                                
+125TE cL MOMM1     From integral PAC (1971Ro17). See also 2005St24 compilation. 
+125TE  G 61.85     160.14    6 [E1]                    0.750  12                
+125TES G KC=0.641 10$LC=0.0875 14$MC=0.0173 3$NC+=0.00367 6                     
+125TES G NC=0.00334 6$OC=0.000331 6                                             
+125TEB G BE1W>7.8E-6                                                            
+125TE  G 204.138   1021.34   20M1+E2     +1.60   3     0.1270 19                
+125TES G KC=0.1039 15$LC=0.0185 3$MC=0.00377 6$NC+=0.000796 12                  
+125TES G NC=0.000726 11$OC=7.00E-5 11                                           
+125TE cG MR        Weighted av from +1.3 {I2} (1997De38), +1.74 {I9} (1998Ro20) 
+125TE2cG +1.60 {I2} (1998Ro20)                                                  
+125TEB G BM1W>0.00075$BE2W>32                                                   
+125TE  G 380.452   8 100.0   3 E2                      0.0182                   
+125TES G KC=0.01537 22$LC=0.00230 4$MC=0.000465 7$NC+=9.95E-5 14                
+125TES G NC=9.04E-5 13$OC=9.15E-6 13                                            
+125TE cG M         |g(|q) not consistent with |DJ=2 in (|a,3n|g)                
+125TEB G BE2W>9.5                                                               
+125TE  G 489.73    8 0.09    4 [M2]                    0.0327                   
+125TES G KC=0.0279 4$LC=0.00382 6$MC=0.000769 11$NC+=0.0001685 24               
+125TES G NC=0.0001521 22$OC=1.643E-5 23                                         
+125TEB G BM2W>0.20                                                              
+125TE  L 537.851   16(1/2+)                                                     
+125TEX L XREF=ACEGJ                                                             
+125TE cL J         L=(0) in (d,t)                                               
+125TE  G 502.6     4 56.71   22                                                 
+125TE cG RI        From {+124}Te(n,|g) and Coul. ex. The data in                
+125TE2cG {+125}Sb |b{+-} decay conflict with these data.                        
+125TE  G 537.9     3 100.0   3                                                  
+125TE cG RI        From {+124}Te(n,|g) and Coul. ex. The data in                
+125TE2cG {+125}Sb |b{+-} decay conflict with these data.                        
+125TE  L 636.0908  207/2+              40 PS     20                             
+125TEX L XREF=ABCEGJK(*639)M                                                    
+125TE cL J         L=4 in (d,t), ({+3}He,d); M1+E2 |g to 5/2+                   
+125TE cL T         From {+125}Sb |b{+-} decay                                   
+125TE  G 110.895   120.0059  7                                                  
+125TE  G 172.719   8 1.08    4 M1(+E2)   -0.004  8     0.1484                   
+125TES G KC=0.1280 18$LC=0.01642 23$MC=0.00328 5$NC+=0.000719 10                
+125TES G NC=0.000649 9$OC=7.04E-5 10                                            
+125TEB G BM1W=(0.0011 6)$BE2W=(0.0004 +17-4)                                    
+125TE  G 314.95    110.023   3 (E1)                                             
+125TEB G BE1W=5.E-8 3                                                           
+125TES G CC=0.00833 12$KC=0.00723 11$LC=0.000891 13$MC=0.0001766 25$NC+=3.85E-5 
+125TES G NC=3.47E-5 5$OC=3.71E-6 6                                              
+125TE  G 491.29    140.027   13                                                 
+125TE  G 600.597   2 100.0   3 E2                                               
+125TEB G BE2W=4.8 24                                                            
+125TES G CC=0.00494 7$KC=0.00423 6$LC=0.000571 8$MC=0.0001143 16$NC+=2.48E-5 4  
+125TES G NC=2.24E-5 4$OC=2.36E-6 4                                              
+125TE  L 642.206    37/2+              70 PS     LE                             
+125TEX L XREF=ABCDEGJK(*639)M                                                   
+125TE cL J         L=4 in (d,p), |g to 3/2+                                     
+125TE cL T         From {+125}Sb |b{+-} decay                                   
+125TE  G 116.955   115.27    5 E1                      0.1264                   
+125TEB G BE1W>0.00011                                                           
+125TES G KC=0.1090 16$LC=0.01398 20$MC=0.00277 4$NC+=0.000595 9                 
+125TES G NC=0.000539 8$OC=5.56E-5 8                                             
+125TE  G 178.842   5 0.68    5 M1+E2                    0.18  5                 
+125TES G KC=0.15 3$LC=0.026 11$MC=0.0052 23$NC+=0.0011 5                        
+125TES G NC=0.0010 5$OC=0.00010 4                                               
+125TE  G 198.654   110.257   12[E2]                    0.1534                   
+125TEB G BE2W>1.6                                                               
+125TES G KC=0.1233 18$LC=0.0241 4$MC=0.00493 7$NC+=0.001032 15                  
+125TES G NC=0.000944 14$OC=8.85E-5 13                                           
+125TE  G 321.05    3 8.36    10E1                                               
+125TES G CC=0.00793 11$KC=0.00688 10$LC=0.000847 12$MC=0.0001680 24$NC+=3.66E-5 
+125TES G NC=3.30E-5 5$OC=3.53E-6 5                                              
+125TE cG RI        Other: 15 (|a,3n|g)                                          
+125TEB G BE1W>8.5E-6                                                            
+125TE  G 497.37    120.064   7 [M2]                    0.0312                   
+125TES G KC=0.0267 4$LC=0.00364 6$MC=0.000733 11$NC+=0.0001607 23               
+125TES G NC=0.0001450 21$OC=1.566E-5 22                                         
+125TEB G BM2W>0.32                                                              
+125TE  G 606.713   3 100.0   4 E2                                               
+125TEB G BE2W>2.3                                                               
+125TES G CC=0.00481 7$KC=0.00412 6$LC=0.000555 8$MC=0.0001111 16$NC+=2.41E-5 4  
+125TES G NC=2.18E-5 3$OC=2.29E-6 4                                              
+125TE  L     652.90 5(5/2)                                                      
+125TEX L XREF=G                                                                 
+125TE cL J         |g's to 1/2+ and 9/2-; 1998Sa55 suggests (3/2+) from         
+125TE2cL systematics                                                            
+125TE  G 209.32    9 100     6                                                  
+125TE  G 331.82    6 5.6     5                                                  
+125TE  G 617.40    1411.8    13                                                 
+125TE  G 652.8     4 5.9     20                                                 
+125TE  L 671.4448  245/2+              1.26 PS   6                              
+125TEX L XREF=ACDEGIJKM                                                         
+125TE cL J         L=2 in (d,p), log| {Ift}=6.94 from 7/2+                      
+125TE cL T$from B(E2) in Coul. ex. (1975Be04).  Other: 40 ps {I25} in {+125}Sb  
+125TExcL |b{+-} decay                                                           
+125TE2 L MOMM1=-0.6 7                                                           
+125TE cL MOMM1     From transient field IPAC (1989Be22). Other: -0.5 {I7}       
+125TE2cL from transient field ipac (1989Ra17)                                   
+125TE  G 132.81    140.008   5                                                  
+125TE2 G FL=537.851                                                             
+125TE  G 208.077   5 2.20    12M1+E2     +0.105  14    0.0901                   
+125TES G KC=0.0777 11$LC=0.00999 15$MC=0.00199 3$NC+=0.000437 7                 
+125TES G NC=0.000394 6$OC=4.27E-5 6                                             
+125TEB G BM1W=0.035 3$BE2W=6.2 17                                               
+125TE  G 227.891   101.18    6 (M1+E2)                 0.083  13                
+125TES G KC=0.069 9$LC=0.011 4$MC=0.0022 7$NC+=0.00047 14                       
+125TES G NC=0.00043 13$OC=4.3E-5 10                                             
+125TE  G 635.950   3 100.0   5 M1+E2     +0.332  3                              
+125TES G CC=0.00515 8$KC=0.00446 7$LC=0.000553 8$MC=0.0001100 16$NC+=2.42E-5 4  
+125TES G NC=2.18E-5 3$OC=2.37E-6 4                                              
+125TEB G BM1W=0.0511 25$BE2W=9.6 5                                              
+125TE  G 671.441   6 16.00   11E2                                               
+125TES G CC=0.00371 6$KC=0.00318 5$LC=0.000421 6$MC=8.41E-5 12$NC+=1.83E-5 3    
+125TES G NC=1.652E-5 24$OC=1.748E-6 25                                          
+125TEB G BE2W=11.9 6                                                            
+125TE  L 729.229   123/2+                                                       
+125TEX L XREF=ACDEGI(740)J                                                      
+125TE cL J         L=2 in (d,p) and populated by strong primary |g              
+125TE2cL from 1/2+ capture state                                                
+125TE2 L BE2=0.0030 18                                                          
+125TE cL BE2       From Coul. ex.                                               
+125TE  G 191.43    5 2.50    5                                                  
+125TE  G 285.57    5 8.3     LE                                                 
+125TE cG           Doublet                                                      
+125TE  G 693.75    2 100.0   5                                                  
+125TE cG RI        From Coul. ex. and {+124}Te(n,|g)                            
+125TE  G 729.29    3 27.28   20                                             D   
+125TE cG RI        From Coul. ex. and {+124}Te(n,|g)                            
+125TE  L 786.577   237/2-                                                       
+125TEX L XREF=CDEJKM                                                            
+125TE cL J         L=3 in (t,d), |g to 11/2-                                    
+125TE  G 261.42    7 3.5     9                                                  
+125TE  G 465.55    5 100.0   9                                                  
+125TE  G 641.85    5 59.4    7                                              &   
+125TE  L 804.6     4 (15/2-)                                                    
+125TEX L XREF=CJK                                                               
+125TE cL J         Suggested from CCBA analysis in (d,t)                        
+125TE  L     840.911015/2(-)                                                    
+125TEX L XREF=BK                                                                
+125TE cL J         |g(|q) in (|a,3n|g)                                          
+125TE  G 696.1     1 100       Q                                                
+125TE  L 1017.73    37/2(+)                                                     
+125TEX L XREF=ACEI(*1040)J                                                      
+125TE cL J         Stretched Q |g to 3/2+ in Coul. ex.                          
+125TE  G 346.34    8 9       3                                                  
+125TE  G 554.39    5 42      3 D+Q                                              
+125TE  G 574.17    5 100.0   11Q                                            *   
+125TE  L    1029.4 109/2(+)                                                     
+125TEX L XREF=AI(*1040)K                                                        
+125TE cL J         Stretched Q |g to 5/2+                                       
+125TE  G 566.0       100       Q                                                
+125TE  L 1053.85    33/2+,5/2+                                                  
+125TEX L XREF=ACDEI(*1040)JK                                                    
+125TE cL J         L=2 in (d,t), ({+3}He,|a)                                    
+125TE  G 382.1                                                                  
+125TE  G 411.55    2217      5                                                  
+125TE  G 516.69    184.3     11                                                 
+125TE2 G FL=537.851                                                             
+125TE  G 590.39    5 51.8    10                                             @   
+125TE  G 610.22    5 100.0   21                                                 
+125TE  G 1018.36   5 33.3    7                                                  
+125TE  L 1066.31    33/2+,5/2+                                                  
+125TEX L XREF=ACEJ                                                              
+125TE cL J         L=2 in (d,t)                                                 
+125TE  G 394.63    9 100     7                                              E   
+125TE  G 424.6                                                                  
+125TE  G 528.63    5 80      7                                              E   
+125TE  G 603.4       53      AP                                             E   
+125TE  G 622.88    5 80      7                                              E   
+125TEF G FLAG=M                                                                 
+125TE  G 1066.29   5 53      7                                              E   
+125TEF G FLAG=M                                                                 
+125TE  L 1071.868  175/2-                                                       
+125TEX L XREF=E                                                                 
+125TE cL J         |g's to 3/2+ and 9/2- and |g from 3/2-                       
+125TE  G 285.37    5 15.2    LT                                             &   
+125TE  G 546.56    5 100.0   6                                                  
+125TE  G 628.4                                                                  
+125TE  G 750.68    5 19.59   22                                                 
+125TE  L 1091.40    93/2+,5/2+                                                  
+125TEX L XREF=EJK                                                               
+125TE cL J         L=2 in (d,t)                                                 
+125TE  G 449.18    9 100     33                                                 
+125TE  G 629.63                                                                 
+125TE2 G FL=463.3668                                                            
+125TE  L 1133.330  233/2+,5/2+                                                  
+125TEX L XREF=ACDEI(*1130)JK                                                    
+125TE cL J         L=2 in ({+3}He,|a), (d,t)                                    
+125TE  G 403.86    9 11.9    14                                                 
+125TE  G 461.69    5 30.9    5                                                  
+125TE2 G FL=671.4448                                                            
+125TE  G 490.9                                                                  
+125TE  G 497.35    173.1     9                                                  
+125TE  G 595.78    5 11.6    9                                                  
+125TE2 G FL=537.851                                                             
+125TE  G 688.09    5                                                           ?
+125TE2 G FL=443.562                                                             
+125TE  G 1097.63   5 100.0   11                                                 
+125TE2 G FL=35.4925                                                             
+125TE  L 1148.7    6 7/2+,9/2+                                                  
+125TEX L XREF=CI(*1130)JK(1153)                                                 
+125TE cL J         L=4 in (d,t)                                                 
+125TE  L    1191.7314(11/2+)                                                    
+125TEX L XREF=B                                                                 
+125TE cL J         |g(|q) in (|a,3n|g)                                          
+125TE  G 549.6     3 11                                                         
+125TE  G 555.6     2 100       (Q)                                              
+125TE  G 1047.1    3 20                                                         
+125TE  L 1209.61    35/2-,7/2,9/2                                               
+125TEX L XREF=C(1204)E                                                          
+125TE cL J         |g's to 7/2- and 9/2-, |g from 7/2+                          
+125TE  G 684.40    6 19.1    8                                                  
+125TE  G 888.56    5 100.0   13                                                 
+125TE  L 1242.820  251/2+,3/2,5/2+                                              
+125TEX L XREF=C(*1243)D(*1242)EI(*1260)J(*1241)K(*1237)                         
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 571.37    6 8.4     5                                                  
+125TE  G 704.94    5 19.0    5                                                  
+125TE  G 779.7                                                                  
+125TE  G 799.27    1110.0    9                                              *  ?
+125TE  G 1207.29   5 100     LE                                                 
+125TE  G 1242.92   5 39.3    9                                                  
+125TE  L 1245.62    5                                                          ?
+125TEX L XREF=C(*1243)D(*1242)EI(*1260)J(*1241)K(*1237)                         
+125TE  G 574.17    5                                                        *   
+125TE  G 610.2                                                                  
+125TE  G 782.8                                                                  
+125TE  L 1265.17    43/2+,5/2+                                                  
+125TEX L XREF=CDEI(*1260)JK                                                     
+125TE cL J         L=2 in (d,t), (t,d) and ({+3}He,|a)                          
+125TE  G 193.3                                                                  
+125TE  G 593.58    7 9.9     7                                                  
+125TE  G 821.58    6 13.1    6                                                  
+125TE  G 1229.67   5 100.0   12                                                 
+125TE  L    1310.511615/2(-)                                                    
+125TEX L XREF=B                                                                 
+125TE cL J         |g to 11/2- and |g from 19/2(-)                              
+125TE  G 469.3     2 100                                                        
+125TE  G 1165.9    3 75                                                         
+125TE  L 1314.6    107/2+,9/2+                                                  
+125TEX L XREF=CEJ(1309)K(1316)                                                  
+125TE cL J         L=4 in ({+3}He,|a)                                           
+125TE  G 641.85    5 100     LE                                             &  ?
+125TE2 G FL=671.4448                                                            
+125TE  G 678.5                                                                  
+125TE  L 1319.538  213/2-                                                       
+125TEX L XREF=CD(*1322)EJ(*1317)                                                
+125TE cL J         |g's to 7/2- and 1/2+ and populated by strong primary |g     
+125TE2cL from 1/2+ capture state                                                
+125TE  G 247.67    5 13.11   17                                                 
+125TE  G 264.34    120.7     1                                                  
+125TE2 G FL=1053.85                                                             
+125TE  G 532.9     1 15.0    5                                                  
+125TE  G 590.39    5 9.40    10                                             @   
+125TE  G 648.01    9 1.49    13                                                 
+125TE  G 781.84    5 36.4    LT                                                 
+125TE  G 794.22    5 100.0   3                                                  
+125TE  G 875.85    8 2.91    20                                                 
+125TE  G 1284.22   9 15.0    LT                                             &   
+125TE  G 1319.53   7 11.7    LT                                             *   
+125TE  L 1322.33    45/2-,7/2-                                                  
+125TEX L XREF=D(*1322)EJ(*1317)                                                 
+125TE cL J         |g to 9/2- and |g from 3/2-                                  
+125TE  G 535.81    6 100     4                                                  
+125TE  G 797.11    5 29.6    4                                                  
+125TE  G 1001.30   6 59.6    22                                                 
+125TE  L 1358.19    77/2+,9/2+                                                  
+125TEX L XREF=CD(1364)EJK                                                       
+125TE cL J         L=4 in (d,t)                                                 
+125TE  G 686.67    8                                                            
+125TE  G 716.24    15100     33                                                 
+125TE  L 1435.91    45/2+                                                       
+125TEX L XREF=CDEJK                                                             
+125TE cL J         L=2 in ({+3}He,|a), (d,t), (t,d) and |g to 7/2-              
+125TE  G 706.59                                                                 
+125TE  G 764.34    109.0     10                                                 
+125TE  G 911.04    186.1     12                                                 
+125TE  G 972.51    1414.9    20                                                 
+125TE  G 992.39    9 19.8    16                                                 
+125TE  G 1400.40   5 100.0   20                                                 
+125TE  L 1500.66   1719/2(-)                                                    
+125TEX L XREF=B                                                                 
+125TE cL J         |g(|q) in (|a,3n|g)                                          
+125TE  G 189.8     2 0.53                                                       
+125TE  G 659.9     2 100       Q                                                
+125TE  L 1520.87    9                                                           
+125TEX L XREF=CEJ(*1526)                                                        
+125TE  G 1057.50   9 100                                                    &   
+125TE  L 1529.514  223/2+,5/2+                                                  
+125TEX L XREF=CDEJ(*1526)K                                                      
+125TE cL J         L=2 in (t,d), ({+3}He,|a)                                    
+125TE  G 801.17    135.7     LT                                                 
+125TE2 G FL=729.229                                                             
+125TE  G 887.11    6 28.9    12                                                 
+125TE  G 894.78    242.6     6                                                  
+125TE2 G FL=636.0908                                                            
+125TE  G 1066.29   5                                                        *   
+125TE  G 1086.05   3 36.7    15                                                 
+125TE  G 1493.30   6 100     4                                              &   
+125TE2 G FL=35.4925                                                             
+125TE  G 1529.9    5                                                            
+125TE  L 1570.16   21(15/2+)                                                    
+125TEX L XREF=B                                                                 
+125TE cL J         |g(|q) in (|a,3n|g)                                          
+125TE  G 378.5     2 100       (Q)                                              
+125TE  L 1580.85   11                                                           
+125TEX L XREF=CEI(*1570)K(*1583)                                                
+125TE cL J         |g to 3/2+                                                   
+125TE  G 1137.28   11100                                                        
+125TE  L 1587.37    41/2+                                                       
+125TEX L XREF=CD(1584)EI(*1570)J(1583)K(*1583)                                  
+125TE cL J         L=0 in (d,p)                                                 
+125TE  G 858.46    135.5     8                                                  
+125TE  G 1143.91   8 13.0    8                                                  
+125TE  G 1551.76   1810.6    6                                                  
+125TE  G 1587.27   5 100.0   14                                                 
+125TE  L 1652.64    35/2+                                                       
+125TEX L XREF=CEJ(1645)K(1643)                                                  
+125TE cL J         L=2 in (d,t) and |g to 7/2-                                  
+125TE  G 580.43    7 14.1    14                                                 
+125TE2 G FL=1071.868                                                            
+125TE  G 585.88    9 12.4    14                                                 
+125TE2 G FL=1066.31                                                             
+125TE  G 866.33    10                                                           
+125TE  G 923.29    5 100     3                                              *   
+125TE  G 981.71    9 29.0    24                                                 
+125TE2 G FL=671.4448                                                            
+125TE  G 1010.53   1218.3    LT                                                 
+125TE  G 1115.23   9 24.8    21                                                 
+125TE2 G FL=537.851                                                             
+125TE  G 1127.3    5 23.1    LT                                                 
+125TE  G 1209.59   1820      3                                                  
+125TE  L 1670.25    3(3/2+,5/2+)                                                
+125TEX L XREF=CEI(*1680)J(1666)K(1662)                                          
+125TE cL J         L=(2) in (d,t)                                               
+125TE  G 940.94    6 73      3                                                  
+125TE  G 998.49    7 48      3                                                  
+125TE2 G FL=671.4448                                                            
+125TE  G 1034.0                                                                 
+125TE  G 1132.37   3 56.5    19                                             @   
+125TE  G 1227.10   6 100     4                                              &   
+125TE2 G FL=443.562                                                             
+125TE  G 1634.5    3 20      3                                                  
+125TE  G 1669.9    3 88      3                                                  
+125TE  L 1699.88    43/2-                                                       
+125TEX L XREF=CDEI(*1680)JK                                                     
+125TE cL J         L=1 in (d,p), (d,t) and |g to 7/2-                           
+125TE  G 628.07    5 100     3                                                  
+125TE  G 913.13    6 38.1    16                                                 
+125TE  G 1029.33   1717.8    22                                                 
+125TE2 G FL=671.4448                                                            
+125TE  G 1255.4    3 10      3                                                  
+125TE  L 1713.54    31/2+                                                       
+125TEX L XREF=CEJ(1710)                                                         
+125TE cL J         L=0 in (d,t)                                                 
+125TE  G 984.33    5 100     3                                                  
+125TE  G 1042.12   6 65.2    24                                                 
+125TE  G 1269.94   6 79.7    24                                             &   
+125TE  G 1678.17   1451      5                                                  
+125TE  G 1713.43   8 41.4    LT                                             *   
+125TE  L 1732.5    107/2+,9/2+                                                  
+125TEX L XREF=EI(*1750)J(1727)K(1726)                                           
+125TE cL J         L=4 in (d,t), ({+3}He,|a)                                    
+125TE  G 1090.3      100                                                        
+125TE  L 1759.83    33/2+,5/2+                                                  
+125TEX L XREF=CD(1754)EI(*1750)J(1755)K                                         
+125TE cL J         L=2 in (t,d)                                                 
+125TE  G 626.47    2                                                            
+125TE  G 705.8                                                                  
+125TE  G 1030.92   5                                                            
+125TE2 G FL=729.229                                                             
+125TE  G 1087.36                                                            *   
+125TE2 G FL=671.4448                                                            
+125TE  G 1118.0                                                                 
+125TE  G 1123.28   10                                                           
+125TE2 G FL=636.0908                                                            
+125TE  G 1296.7    5                                                        *   
+125TE  L 1766.36    53/2-,5/2,7/2+                                              
+125TEX L XREF=EI(*1750)J(*1770)                                                 
+125TE cL J         |g's to 3/2+ and 7/2-                                        
+125TE  G 556.73    5 67      3                                                  
+125TE  G 633.7                                                                  
+125TE  G 712.2                                                                  
+125TE  G 979.84    9 55      5                                                  
+125TE  G 1322.79   12100     11                                                 
+125TE  L 1770.68    5                                                           
+125TEX L XREF=CEJ(*1770)                                                        
+125TE cL J         |g to 3/2+. Possible |g to 5/2+                              
+125TE  G 637.7                                                                  
+125TE  G 1307.26   5                                                        *   
+125TE  G 1327.20   11100     7                                              *   
+125TE  G 1735.39   1344      4                                                  
+125TE  L 1775.04    6(1/2,3/2,5/2+)                                            ?
+125TE cL J         |g to (1/2+)                                                 
+125TEX L XREF=EJ(*1770)                                                         
+125TE  G 1237.18   5 100                                                        
+125TE  L 1813.09    73/2+,5/2+                                                  
+125TEX L XREF=CEJ(1809)K(*1814)                                                 
+125TE cL J         L=2 in (d,t)                                                 
+125TE  G 1276.1                                                                 
+125TE  G 1349.71   7                                                        *   
+125TE  L 1820.2    7 5/2-,7/2-                                                  
+125TEX L XREF=CDK(*1814)                                                        
+125TE cL J         L=(3) in (d,p), L=3 in (t,d)                                 
+125TE  L 1824      3                                                            
+125TEX L XREF=CK(*1826)                                                         
+125TE  L 1832.46    47/2+,9/2+                                                  
+125TEX L XREF=EJK(*1826)                                                        
+125TE cL J         L=4 in (d,t)                                                 
+125TE  G 622.88    5                                                            
+125TEF G FLAG=M                                                                 
+125TE  G 1160.78   10                                                       *   
+125TE  G 1307.26   5                                                        *   
+125TE  L 1851.37   2221/2(-)                                                    
+125TEX L XREF=B                                                                 
+125TE cL J         |g(|q) in (|a,3n|g)                                          
+125TE  G 350.7     2 100       D+Q                                              
+125TE  L 1851.37+X                                                              
+125TE DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+125TEX L XREF=B                                                                 
+125TE  L 1865.19    43/2+,5/2+                                                  
+125TEX L XREF=CD(1857)EJ(1857)                                                  
+125TE cL J         L=2 in (t,d)                                                 
+125TE  G 799.27    11                                                       *   
+125TE  G 1327.20   11                                                       *   
+125TE  G 1421.57   9 41.4    23                                                 
+125TE  G 1829.68   5 51      LT                                             *   
+125TE  G 1865.10   8 100     7                                                  
+125TE  L 1888      3                                                            
+125TEX L XREF=C(1888)J(1881)K(1886)                                             
+125TE cL E         Average of 1888 keV {I1} in (d,p), 1881 keV {I5} in (d,t)    
+125TE2cL and 1886 keV {I3} in ({+3}He,|a)                                       
+125TE  L 1899.21    53/2+,5/2,7/2+                                              
+125TEX L XREF=EJ(*1900)                                                         
+125TE cL J         |g's to 3/2+ and 7/2+                                        
+125TE  G 1170.42   10                                                       *   
+125TE2 G FL=729.229                                                             
+125TE  G 1258.3                                                                 
+125TE  G 1263.9                                                                 
+125TE  G 1435.91   1014      4                                              &   
+125TE  G 1455.42   7 58      3                                                  
+125TE  G 1863.64   9 100     8                                                  
+125TE  L 1905.17    33/2+,5/2+                                                  
+125TEX L XREF=CEJ(*1900)K(*1909)                                                
+125TE cL J         |g's to 1/2+ and 7/2+                                        
+125TE  G 771.60    1010.8    13                                                 
+125TE  G 1175.46   6 54.9    LT                                             *   
+125TE2 G FL=729.229                                                             
+125TE  G 1269.94   6 60.2    LT                                             &   
+125TE2 G FL=636.0908                                                            
+125TE  G 1367.17   7 40.8    21                                                 
+125TE  G 1461.36   5 91.4    LT                                             *   
+125TE2 G FL=443.562                                                             
+125TE  G 1905.38   8 100     5                                                  
+125TE  L 1911.17    53/2-,5/2,7/2+                                              
+125TEX L XREF=EK(*1909)                                                         
+125TE cL J         |g to 7/2- and                                               
+125TE2cL |g from 3/2+                                                           
+125TE  G 701.58    5 100     7                                                  
+125TE  G 839.19    9 58      5                                                  
+125TE  G 1385.82   9 77      14                                                 
+125TE  G 1448.16   1472.1    LT                                                 
+125TE  L 1918.59    43/2+,5/2+                                                  
+125TEX L XREF=CEK(*1922)J(1926)                                                 
+125TE cL J         L=2 in (d,t)                                                 
+125TE  G 1189.28   7 52      4                                                  
+125TE  G 1247.7    3 8       3                                                  
+125TE  G 1381.1    11                                                           
+125TE  G 1475.03   6 100     4                                                  
+125TE  G 1882.45   1055      5                                                  
+125TE2 G FL=35.4925                                                             
+125TE  G 1919.55   1292      6                                                  
+125TE2 G FL=0.0                                                                 
+125TE  L 1932.79    85/2-,7/2-                                                  
+125TEX L XREF=CD(1925)E                                                         
+125TE cL J         L=3 in (t,d)                                                 
+125TE  G 799.27    11                                                       *   
+125TE  G 915.95    15                                                           
+125TE2 G FL=1017.73                                                             
+125TE  G 1261.00   12                                                       *   
+125TE  G 1296.7    5                                                        *   
+125TE  L 1956.701  213/2-                                                       
+125TEX L XREF=CDEJ(1951)                                                        
+125TE cL J         L=1 in (d,p), (d,t) and |g to 5/2+                           
+125TE  G 636.7                                                                  
+125TE  G 884.94    6 4.78    22                                                 
+125TE  G 903.18    101.88    22                                                 
+125TE  G 1170.42   104.1     3                                              *   
+125TE  G 1227.10   6 9.4     LT                                             &   
+125TE2 G FL=729.229                                                             
+125TE  G 1284.22   9 16.3    LT                                             &   
+125TE2 G FL=671.4448                                                            
+125TE  G 1418.89   5 21.7    4                                                  
+125TE  G 1493.30   6 28.3    11                                             &   
+125TE  G 1513.33   6 17.2    5                                                  
+125TE  G 1921.59   9 15.7    LT                                             *   
+125TE2 G FL=35.4925                                                             
+125TE  G 1956.73   5 100.0   4                                                  
+125TE  L 1969.41   107/2+,9/2+                                                  
+125TEX L XREF=EJK                                                               
+125TE cL J         L=4 in (d,t)                                                 
+125TE  G 1327.2    1 100                                                    *   
+125TE  L 1978.77    41/2-,3/2                                                   
+125TEX L XREF=E                                                                 
+125TE cL J         |g's to 1/2+ and 5/2- and populated by strong primary |g     
+125TE2cL from 1/2+ capture state                                                
+125TE  G 907.31    1010.8    10                                                 
+125TE2 G FL=1071.868                                                            
+125TE  G 1440.94   5 98.0    LT                                                 
+125TE  G 1535.02   1123.0    LT                                             &   
+125TE  G 1942.8    1 20      2                                                  
+125TE2 G FL=35.4925                                                             
+125TE  G 1978.76   5 100.0   20                                                 
+125TE  L 1982.27   195/2-                                                       
+125TEX L XREF=CD(1978)EI(*2000)                                                 
+125TE cL J         L=3 in (t,d) and |g to 3/2+                                  
+125TE  G 1538.70   19100                                                        
+125TE  L 1990.66    51/2+                                                       
+125TEX L XREF=EI(*2000)J(1985)                                                  
+125TE cL J         L=0 in (d,t)                                                 
+125TE  G 1262.15   18100     25                                                 
+125TE2 G FL=729.229                                                             
+125TE  G 1547.03   5                                                            
+125TE  L 1995.18    59/2-                                                       
+125TEX L XREF=CEI(*2000)J(*2008)K(2007)                                         
+125TE cL J         L=5 in ({+3}He,|a), |g to 5/2-                               
+125TE  G 785.51    9                                                            
+125TE  G 923.29    5                                                        *   
+125TE  G 1470.6    2                                                        *   
+125TE2 G FL=525.228                                                             
+125TE  L 2009.39    33/2-                                                       
+125TEX L XREF=CD(2005)EI(*2000)J(*2008)                                         
+125TE cL J         L=1 in (d,p) and |g to 5/2+                                  
+125TE  G 687.19                                                                 
+125TE  G 766.71    8 4.3     3                                                  
+125TE  G 937.47    5 19.8    5                                                  
+125TE  G 1338.06   6 13.4    LT                                             *   
+125TE  G 1470.64   202.0     7                                              *   
+125TE2 G FL=537.851                                                             
+125TE  G 1545.76   136.1     7                                                  
+125TE  G 1565.91   116.4     5                                                  
+125TE  G 1973.92   9 12.5    7                                                  
+125TE  G 2009.28   10100.0   13                                                 
+125TE  L 2021.36    63/2+,5/2,7/2+                                              
+125TEX L XREF=E                                                                 
+125TE cL J         |g's to 3/2+ and 7/2+                                        
+125TE  G 1349.71   7                                                        *   
+125TE  G 1384.8                                                                 
+125TE  G 1578.04   8                                                        *   
+125TE  L 2047.28    41/2-,3/2-                                                 ?
+125TEX L XREF=C(2049)D(2044)EJ(2042)K(*2045)                                    
+125TE cL J         L=1 in (d,p), (t,d), (d,t)                                   
+125TE  G 975.41    3 100                                                        
+125TE  L 2048.96    63/2+,5/2,7/2+                                              
+125TEX L XREF=EK(*2045)                                                         
+125TE cL J         |g's to 3/2+ and 7/2+                                        
+125TE  G 995.44    1120      3                                                  
+125TE  G 1319.53   7                                                        *   
+125TE  G 1378.7    5 52      4                                                  
+125TE  G 1412.6    5 41.3    LT                                             &   
+125TE  G 1585.5    5                                                            
+125TE  G 1606.0    3 100     4                                                  
+125TE  L 2060.89    43/2+,5/2+                                                  
+125TEX L XREF=CEJ(2058)                                                         
+125TE cL J         L=2 in (d,t)                                                 
+125TE  G 851.87    188.0     12                                                 
+125TE  G 1331.39                                                                
+125TE  G 1388.19   219.1     LT                                                 
+125TE2 G FL=671.4448                                                            
+125TE  G 1424.86   2013      3                                                  
+125TE  G 1522.38   1115.5    LT                                             &   
+125TE2 G FL=537.851                                                             
+125TE  G 1597.13                                                                
+125TE  G 1617.51   5 100.0   20                                                 
+125TE  G 2025.52   1915.1    18                                                 
+125TE  G 2060.67   1122.0    LT                                             &   
+125TE  L 2067.56    5                                                          ?
+125TEX L XREF=E                                                                 
+125TE cL J         |g's to 3/2+ and 5/2+                                        
+125TE  G 1397.49   9 100     8                                                  
+125TE2 G FL=671.4448                                                            
+125TE  G 1623.56   5 44                                                         
+125TE2 G FL=443.562                                                             
+125TE  L 2077.05    71/2-,3/2,5/2+                                              
+125TEX L XREF=EI(*2090)                                                         
+125TE cL J         |g's to 1/2+ and 5/2-                                        
+125TE  G 1005.2    1 14.3    14                                                 
+125TE  G 2041.46   1632.2    25                                             &   
+125TE  G 2077.04   10100.0   20                                             *   
+125TE  L 2079.5    9 (7/2+,9/2+)                                                
+125TEX L XREF=CI(*2090)J(2080)K(2082)                                           
+125TE cL J         L=(4) in (d,t), ({+3}He,|a)                                  
+125TE  L 2087.02    9(1/2,3/2,5/2+)                                             
+125TEX L XREF=EI(*2090)                                                         
+125TE cL J         |g to (1/2+)                                                 
+125TE  G 1549.16   8 100                                                    *   
+125TE  L 2108.55    51/2-,3/2                                                   
+125TEX L XREF=EI(*2090)K(*2105)                                                 
+125TE cL J         |g's to 1/2+ and 5/2- and populated by strong primary |g     
+125TE2cL from 1/2+ capture state                                                
+125TE  G 786.4                                                                  
+125TE  G 1036.73   5 100     3                                                  
+125TE  G 1664.74   1129.5    23                                                 
+125TE  G 2073.07   1168      3                                                  
+125TE  G 2108.41   1364      4                                                  
+125TE  L 2112.5    9 (5/2-,7/2-)                                                
+125TEX L XREF=CD(2105)J(2103)K(*2105)                                           
+125TE cL J         L=(3) in (d,t), (t,d)                                        
+125TE  L 2126.8    9                                                            
+125TEX L XREF=CJ(2121)                                                          
+125TE cL J         1999Ho01 suggest L(d,p) > 3                                  
+125TE  L 2129.65    51/2-,3/2                                                   
+125TEX L XREF=E                                                                 
+125TE cL J         |g to 5/2- and populated by strong primary |g                
+125TE2cL from 1/2+ capture state                                                
+125TE  G 1057.50   9 15.9    13                                             &   
+125TE  G 1591.84   8 21.1    14                                                 
+125TE  G 1686.18   6 64.0    LT                                             *   
+125TE  G 2094.1    5 100.0   18                                                 
+125TE  L 2132.75    5 3/2+,5/2,7/2+                                             
+125TEX L XREF=E                                                                 
+125TE cL J         |g's to 3/2+ and 7/2+                                        
+125TE  G 1461.36   5                                                        *   
+125TE  G 1495.8                                                                 
+125TE  G 1668.6      100     3                                                  
+125TE  G 1688.45   18                                                           
+125TE2 G FL=443.562                                                             
+125TE  L 2145.67   17                                                           
+125TEX L XREF=C(*2153)E                                                         
+125TE cL J         |g to 5/2+                                                   
+125TE  G 1473.7                                                                 
+125TE  G 1682.31   17100     10                                                 
+125TE  L 2149.61    3(1/2-,3/2,5/2+)                                            
+125TEX L XREF=C(*2153)E                                                         
+125TE cL J         |g's to (1/2+) and 5/2-                                      
+125TE  G 1078.24   9 95      11                                                 
+125TE2 G FL=1071.868                                                            
+125TE  G 1611.56   24100     20                                                 
+125TE  G 1686.18   3                                                        *   
+125TE  L 2159.5    21(7/2+,9/2+)                                                
+125TEX L XREF=J(2157)K                                                          
+125TE cL J         L=(4) in (d,t)                                               
+125TE  L 2174.8    3                                                            
+125TEX L XREF=B                                                                 
+125TE  G 673.9     3 100                                                        
+125TE  G 864.6     3 86                                                         
+125TE  L 2176.06    61/2+,3/2,5/2+                                              
+125TEX L XREF=D(*2178)EJ(*2175)                                                 
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 1503.49   11100     LT                                             &   
+125TE2 G FL=671.4448                                                            
+125TE  G 1732.87   7                                                        *   
+125TE2 G FL=443.562                                                             
+125TE  G 2176.37   16100     13                                                 
+125TE  L 2181.96    51/2+,3/2,5/2+                                              
+125TEX L XREF=D(*2178)EJ(*2175)                                                 
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 1452.91   11                                                           
+125TE  G 1510.4    3                                                            
+125TE  G 1643.80   9 81      5                                                  
+125TE  G 1738.41   7 100     4                                                  
+125TE  G 2146.69   2321      4                                                  
+125TE  G 2182.41   2040      5                                                  
+125TE  L 2187.7    12(7/2+,9/2+)                                                
+125TEX L XREF=CJ(2197)K(2190)                                                   
+125TE cL J         L=(4) in ({+3}He,|a), (d,t)                                  
+125TE  L 2204.19    5                                                           
+125TEX L XREF=CE                                                                
+125TE cL J         |g's to 3/2+ and 5/2-                                        
+125TE  G 881.74    1043      4                                                  
+125TE  G 1132.37   6 100     LT                                             @   
+125TE  G 1760.59   9 100     8                                                  
+125TE  L 2220.25    63/2+,5/2,7/2+                                              
+125TEX L XREF=C(*2224)EJ(*2221)K(*2226)                                         
+125TE cL J         |g's to 3/2+ and 7/2+                                        
+125TE  G 1549.16   8                                                        *   
+125TE2 G FL=671.4448                                                            
+125TE  G 1578.04   8                                                        *   
+125TE  G 1582.99   14                                                       *   
+125TE2 G FL=636.0908                                                            
+125TE  G 2184.7    3                                                            
+125TE  L 2226.53    43/2+                                                       
+125TEX L XREF=C(*2224)EJ(*2221)K(*2226)                                         
+125TE cL J         |g to 7/2+ and populated by strong primary |g                
+125TE2cL from 1/2+ capture state                                                
+125TE  G 1160.78   1018      LT                                             *   
+125TE2 G FL=1066.31                                                             
+125TE  G 1497.72   1131      3                                                  
+125TE2 G FL=729.229                                                             
+125TE  G 1554.84   6 100     3                                                  
+125TE2 G FL=671.4448                                                            
+125TE  G 1590.0                                                                 
+125TE  G 1763.35   9 26.1    19                                                 
+125TE  G 1782.81   8 38      3                                                  
+125TE  G 2190.71   1158.6    25                                             *   
+125TE  L 2231.92    6                                                           
+125TEX L XREF=EK(*2226)                                                         
+125TE cL J         |g to 3/2+                                                   
+125TE  G 1503.49   1140      LT                                             &   
+125TE2 G FL=729.229                                                             
+125TE  G 1788.02   7 100     5                                                  
+125TE2 G FL=443.562                                                             
+125TE  L 2247.31    61/2-,3/2,5/2+                                              
+125TEX L XREF=C(*2250)D(*2244)E                                                 
+125TE cL J         |g's to 1/2+ and 5/2-                                        
+125TE  G 1175.46   6                                                        *   
+125TE  G 1802.1                                                                 
+125TE2 G FL=443.562                                                             
+125TE  G 2247.15   16                                                           
+125TE  L 2251.16    5(1/2,3/2,5/2+)                                             
+125TEX L XREF=C(*2250)D(*2244)E                                                 
+125TE cL J         |g to (1/2+)                                                 
+125TE  G 1233.13   1541.7    LT                                                 
+125TE  G 1522.38   1166.7    LT                                             &   
+125TE2 G FL=729.229                                                             
+125TE  G 1579.7    8 83      12                                                 
+125TE  G 1713.43   8                                                        *   
+125TE  G 1807.22   9 100     8                                                  
+125TE2 G FL=443.562                                                             
+125TE  L 2259.4    24                                                           
+125TEX L XREF=K                                                                 
+125TE cL           Doublet structure                                            
+125TE  L 2270.89    53/2-                                                       
+125TEX L XREF=C(2274)D(2273)EI(*2280)                                           
+125TE cL J         L=(1) in (t,d) and |g to 5/2+                                
+125TE  G 1541.4    3 19      4                                                  
+125TE  G 1599.60   7 63      3                                                  
+125TE  G 1732.87   7 80      LT                                             *   
+125TE  G 2235.56   12100     4                                                  
+125TE  G 2270.49   1750      4                                                  
+125TE  L 2282.6    12                                                           
+125TEX L XREF=CI(*2280)                                                         
+125TE  L 2292.62    8                                                           
+125TEX L XREF=C(2294)E                                                          
+125TE cL J         |g to 7/2+ and to < 7/2+                                     
+125TE  G 1049.35   1550      9                                                  
+125TE  G 1274.60   1822      7                                                  
+125TE  G 1656.87   11100     10                                                 
+125TE  L 2311.47   101/2+,3/2,5/2+                                              
+125TEX L XREF=D(*2311)EK(*2317)                                                 
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 1045.52   1549      12                                                 
+125TE2 G FL=1265.17                                                             
+125TE  G 1582.99   14170     LT                                             *   
+125TE2 G FL=729.229                                                             
+125TE  G 1847.3                                                                 
+125TE  G 2275.7    3 95      12                                                 
+125TE  G 2310.6    15100     12                                                 
+125TE  L 2313.72    71/2,3/2,5/2+                                               
+125TEX L XREF=C(*2316)D(*2311)EK(*2317)                                         
+125TE cL J         |g to 1/2+                                                   
+125TE  G 1584.60   1347      4                                              &   
+125TE  G 1870.03   1567      4                                                  
+125TE  G 2278.17   2020      3                                                  
+125TE  G 2313.68   11100     3                                                  
+125TE  L 2315.75    9(3/2,5/2+)                                                 
+125TEX L XREF=C(*2316)D(*2311)EK(*2317)                                         
+125TE cL J         |g's to (1/2+), 5/2- and 5/2+                                
+125TE  G 1182.7    5 75      5                                                  
+125TE  G 1244.1    5                                                            
+125TE  G 1261.0    6 150     LT                                             *   
+125TE  G 1777.95   10                                                           
+125TE  G 1852.2                                                                 
+125TE  G 1872.00   17100     9                                                  
+125TE  L 2332.7    9                                                            
+125TEX L XREF=CD(*2346)I(*2350)                                                 
+125TE  L 2351.25    7                                                           
+125TEX L XREF=CD(*2346)EI(*2350)                                                
+125TE cL J         |g  to 7/2+ and 5/2-,7/2,9/2                                 
+125TE  G 1140.4                                                                 
+125TE  G 1298.4                                                                 
+125TE  G 1621.59   9 104     LT                                                 
+125TE2 G FL=729.229                                                             
+125TE  G 1680.09   15100     5                                                  
+125TE  G 1888.41   12                                                       *   
+125TE2 G FL=463.3668                                                            
+125TE  G 1908.3    7 86.5    6                                                  
+125TE  G 2316.2    1558      11                                                 
+125TE  L 2372.94    8(1/2+,3/2,5/2+)                                            
+125TEX L XREF=EK(2364)                                                          
+125TE cL J         |g's to (1/2+) and 5/2+                                      
+125TE  G 1834.81   8                                                            
+125TE  G 1910.50   15                                                           
+125TE2 G FL=463.3668                                                            
+125TE  G 1929.1                                                                 
+125TE  L 2375.11   22(19/2+)                                                    
+125TEX L XREF=B                                                                 
+125TE cL J         |g(|q) in (|a,3n|g)                                          
+125TE  G 523.7     2 100       D+Q                                              
+125TE2 G FL=1851.37                                                             
+125TE  G 805.1     3 22                                                         
+125TE  G 874.3     3 26                                                         
+125TE  L 2375.4    9 5/2-,7/2-                                                  
+125TEX L XREF=CD                                                                
+125TE cL           L=3 in (t,d)                                                 
+125TE  L 2379.72    51/2+,3/2,5/2+                                              
+125TEX L XREF=C(*2382)E                                                         
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 1650.30   8 100     6                                                  
+125TE  G 1708.90   1069.8    LT                                                 
+125TE2 G FL=671.4448                                                            
+125TE  G 1841.51   9 60      6                                                  
+125TE2 G FL=537.851                                                             
+125TE  G 1916.0                                                                 
+125TE  G 1935.7    2 40      7                                                  
+125TE  G 2380.00   13                                                       *   
+125TE  L 2384.82    6                                                           
+125TEX L XREF=C(*2384)EK(*2389)                                                 
+125TE  G 1713.43   8                                                        *   
+125TE  G 1921.59   9                                                        *   
+125TE  G 2348.17   20100     17                                                 
+125TE2 G FL=35.4925                                                             
+125TE  L 2391.1    9                                                            
+125TEX L XREF=CK(*2389)                                                         
+125TE cL J         1999Ho01 suggest high L in (d,p)                             
+125TE  L 2409.94    7                                                           
+125TEX L XREF=C(*2412)E                                                         
+125TE cL J         |g to 5/2+ and 5/2- and 5/2-,7/2-                            
+125TE  G 1087.36                                                            *   
+125TE  G 1338.06   6                                                        *   
+125TE  G 1947.3                                                                 
+125TE  L 2415.52    61/2+,3/2,5/2+                                              
+125TEX L XREF=C(*2412)E                                                         
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 1096.06   1033      6                                                  
+125TE  G 1686.49                                                                
+125TE  G 1744.05   8 100     6                                                  
+125TE  G 2380.00   13                                                       *   
+125TE  G 2415.34   1644      5                                                  
+125TE  L 2419.1    9                                                            
+125TEX L XREF=C                                                                 
+125TE  L 2426.2    12                                                           
+125TEX L XREF=CK(247)                                                           
+125TE cL J         1999Ho01 suggest high L in (d,p)                             
+125TE  L 2438.99    8(3/2-,5/2+)                                                
+125TEX L XREF=CE                                                                
+125TE cL J         |g's to (1/2+) and 7/2-                                      
+125TE  G 1709.99   1036.7    LT                                                 
+125TE  G 1768.03   1810.3    22                                                 
+125TE  G 1899.5    3 23      5                                                  
+125TE2 G FL=537.851                                                             
+125TE  G 2402.90   16100     6                                                  
+125TE2 G FL=35.4925                                                             
+125TE  L 2450.6    9                                                            
+125TEX L XREF=CK                                                                
+125TE cL J         1999Ho01 suggest high L in (d,p)                             
+125TE  L 2466.58    51/2+,3/2,5/2+                                              
+125TEX L XREF=CE                                                                
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 1412.60   1059      LT                                             &   
+125TE  G 1795.12   9 100     5                                                  
+125TE  G 1928.9    1 63      2                                                  
+125TE  G 2002.63   1560      8                                                  
+125TE2 G FL=463.3668                                                            
+125TE  G 2022.92   1369      5                                                  
+125TE  G 2430.4    5 68      25                                                 
+125TE  G 2467.03   1367      6                                                  
+125TE  L 2479.1    9                                                            
+125TEX L XREF=C                                                                 
+125TE  L 2488.4    9                                                            
+125TEX L XREF=CK(*2492)                                                         
+125TE  L 2495.73    83/2,5/2,7/2+                                               
+125TEX L XREF=CEK(*2492)                                                        
+125TE cL J         |g's to 3/2+, 5/2+ and 5/2-                                  
+125TE  G 1422.8                                                                 
+125TE  G 2032.13   1043      4                                                  
+125TE  G 2049.6    5 19      5                                                  
+125TE2 G FL=443.562                                                             
+125TE  G 2460.77   13100     5                                                  
+125TE2 G FL=35.4925                                                             
+125TE  L 2504.77   11                                                           
+125TEX L XREF=E                                                                 
+125TE cL J         |g's to 3/2+ and 5/2+                                        
+125TE  G 2041.46   16100     LT                                             &   
+125TE  G 2060.67   21100     18                                             &   
+125TE  G 2469.6    2                                                            
+125TE  L 2522.45    73/2-                                                       
+125TEX L XREF=CE                                                                
+125TE cL J         L=1 in (d,p) and |g to 5/2+                                  
+125TE  G 1851.54   9                                                            
+125TE2 G FL=671.4448                                                            
+125TE  G 2077.04   10                                                       *  ?
+125TE2 G FL=443.562                                                             
+125TE  G 2485.8    5                                                            
+125TE  G 2521.8    1                                                            
+125TE2 G FL=0.0                                                                 
+125TE  L 2528.75    9                                                           
+125TEX L XREF=C(2525)EK(2530)                                                   
+125TE cL J         |g's to 3/2+ and 5/2+                                        
+125TE  G 1799.3    1 100     8                                                  
+125TE  G 1857.71   1490      10                                                 
+125TE  L 2542.0    12                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2550.48    63/2                                                        
+125TEX L XREF=C(2547)EK(*2557)                                                  
+125TE cL J         |g's to 1/2+, 5/2+ and 5/2- and populated by strong primary  
+125TE2cL |g from 1/2+ capture state                                             
+125TE  G 1477.8    2 39      7                                                  
+125TE2 G FL=1071.868                                                            
+125TE  G 2014.16   2275      17                                                 
+125TE2 G FL=537.851                                                             
+125TE  G 2086.99   1392      6                                                  
+125TE  G 2106.25   19100     8                                                  
+125TE2 G FL=443.562                                                             
+125TE  G 2514.62   1390      7                                                  
+125TE  G 2550.78   10                                                       *   
+125TE  L 2550.48+X  3                                                           
+125TEX L XREF=B                                                                 
+125TE  G 703.4     3 100       D(+Q)                                            
+125TE2 G FL=1851.37+X                                                           
+125TE  L 2560.99   131/2,3/2,5/2+                                              ?
+125TEX L XREF=C(2557)EK(*2557)                                                  
+125TE cL J         |g to 1/2+                                                   
+125TE  G 1832.17   2070      9                                                  
+125TE  G 2560.66   17100     10                                                 
+125TE  L 2568.27    51/2+,3/2,5/2+                                              
+125TEX L XREF=E                                                                 
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 1435.91   1020.8    LT                                             &   
+125TE2 G FL=1133.330                                                            
+125TE  G 1838.42   1233      4                                                  
+125TE2 G FL=729.229                                                             
+125TE  G 2103.37   1650.0    LT                                             *   
+125TE2 G FL=463.3668                                                            
+125TE  G 2124.66   1554.2    LT                                             &   
+125TE  G 2532.81   11100     4                                                  
+125TE  G 2568.21   1382.4    LT                                                 
+125TE  L 2570.2     3(23/2+)                                                    
+125TEX L XREF=B                                                                 
+125TE cL J         |g(|q) in (|a,3n|g)                                          
+125TE  G 195.0     3 5.5                                                        
+125TE2 G FL=2375.11                                                             
+125TE  G 718.9     3 100       D                                                
+125TE2 G FL=1851.37                                                             
+125TE  L 2585.67    71/2,3/2                                                    
+125TEX L XREF=C(2590)EK(2582)                                                   
+125TE cL J         Populated by strong primary |g from 1/2+ capture state.      
+125TE2cL |g's to 5/2+ and 7/2+                                                  
+125TE  G 2047.27   11100.0   24                                                 
+125TE2 G FL=537.851                                                             
+125TE  G 2122.4      20.8                                                       
+125TE  G 2141.76   1356      5                                                  
+125TE  G 2550.78   10                                                       *   
+125TE2 G FL=35.4925                                                             
+125TE  L 2591.95    7                                                           
+125TEX L XREF=C(2596)E                                                          
+125TE  G 1950.2    1                                                            
+125TE2 G FL=642.206                                                             
+125TE  G 2128.1    1                                                            
+125TE2 G FL=463.3668                                                            
+125TE  L 2607.00    61/2-,3/2,5/2+                                              
+125TEX L XREF=CE                                                                
+125TE cL J         |g's to 1/2+ and 5/2-                                        
+125TE  G 1288.3                                                                 
+125TE  G 1535.02   6 59      6                                              &   
+125TE  G 1878.5    3 58      16                                             *   
+125TE  G 2571.92   1657      5                                                  
+125TE  G 2607.01   12100     5                                                  
+125TE  L 2611.6+X   3                                                           
+125TEX L XREF=B                                                                 
+125TE  G 760.2     3 100       (Q)                                              
+125TE  L 2622.6    18(5/2-,7/2-)                                                
+125TEX L XREF=C                                                                 
+125TE cL J         L=(3) in (d,p)                                               
+125TE  L 2630.5    18                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2642.3    18(1/2-,3/2-)                                                
+125TEX L XREF=CK                                                                
+125TE cL J         L=(1) in (d,p)                                               
+125TE  L 2649.99    43/2-                                                       
+125TEX L XREF=C(2651)E                                                          
+125TE cL J         |g's to 1/2+ and 7/2- and populated by strong primary |g     
+125TE2cL from 1/2+ capture state                                                
+125TE  G 1330.4                                                                 
+125TE  G 1515.71   1522      3                                                  
+125TE2 G FL=1133.330                                                            
+125TE  G 1578.04   4 81      4                                              *   
+125TE  G 1584.60   1344.4    LT                                             &   
+125TE2 G FL=1066.31                                                             
+125TE  G 1921.59   9 121     LT                                             *   
+125TE2 G FL=729.229                                                             
+125TE  G 2124.66   1536.3    LT                                             &   
+125TE  G 2186.69   11100     6                                                  
+125TE  G 2204.84   1628      4                                                  
+125TE2 G FL=443.562                                                             
+125TE  G 2614.26   1247      8                                                  
+125TE  L 2669.7    18                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2680.2    21                                                           
+125TEX L XREF=CK(2678)                                                          
+125TE  L 2684.8    21                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2689.71   17                                                           
+125TEX L XREF=CE                                                                
+125TE cL J         |g to 5/2+                                                   
+125TE  G 2018.25   17100                                                        
+125TE  L 2706.11   12                                                           
+125TEX L XREF=CE                                                                
+125TE cL J         |g to 3/2+                                                   
+125TE  G 2670.59   12100                                                        
+125TE  L 2711.6    12                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2717.3    12                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2723.1    15                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2729.28    91/2,3/2,5/2+                                               
+125TEX L XREF=CEK                                                               
+125TE cL J         |g to 1/2+                                                   
+125TE  G 1595.7                                                                 
+125TE  G 2190.71   11                                                       *   
+125TE2 G FL=537.851                                                             
+125TE  G 2730.55   15                                                       *   
+125TE2 G FL=0.0                                                                 
+125TE  L 2743.1    12                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2751.79   121/2-,3/2-                                                  
+125TEX L XREF=CE                                                                
+125TE cL J         L=1 in (d,p)                                                 
+125TE  G 2716.33   12100     8                                                  
+125TE  G 2751.1    4 44      LT                                             *   
+125TE  L 2753.8     3(1/2,3/2,5/2+)                                            ?
+125TEX L XREF=E                                                                 
+125TE cL J         |g to (1/2+)                                                 
+125TE  G 2215.9    3 100                                                        
+125TE  L 2761.5    12                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2770.76    73/2-                                                       
+125TEX L XREF=C(2768)EK(*2772)                                                  
+125TE cL J         L=1 in (d,p), |g to 5/2+                                     
+125TE  G 1698.54   11100     13                                                 
+125TE  G 2233.01   2127      4                                                  
+125TE  G 2308.51   2033      4                                                  
+125TE2 G FL=463.3668                                                            
+125TE  G 2735.48   1750      5                                                  
+125TE  G 2770.45   1533.3    23                                                 
+125TE  L 2776.60   12                                                           
+125TEX L XREF=C(2773)EK(*2772)                                                  
+125TE  G 2333.01   12100                                                        
+125TE  L 2785.36    83/2                                                        
+125TEX L XREF=CE                                                                
+125TE cL J         |g's to 5/2+ and 5/2- and populated by strong primary |g     
+125TE2cL from 1/2+ capture state                                                
+125TE  G 1713.43   8                                                        *   
+125TE  G 2321.6                                                                 
+125TE  G 2751.1    4                                                        *   
+125TE  G 2786.30                                                                
+125TE2 G FL=0.0                                                                 
+125TE  L 2801.92   201/2+,3/2,5/2+                                              
+125TEX L XREF=C(2804)E                                                          
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 2338.2                                                                 
+125TE  G 2801.9    2                                                            
+125TE  L 2814.40    9                                                          ?
+125TEX L XREF=C(*2817)E                                                         
+125TE  G 2351.75   13                                                           
+125TE2 G FL=463.3668                                                            
+125TE  G 2370.18   12                                                           
+125TE2 G FL=443.562                                                             
+125TE  L 2819.37   14                                                          ?
+125TEX L XREF=C(*2817)E                                                         
+125TE  G 2148.9      55.6                                                       
+125TE  G 2355.65   1889      6                                                  
+125TE  G 2784.34   23100     11                                                 
+125TE  L 2832.1    15                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2840.8    15                                                           
+125TEX L XREF=CK(*2847)                                                         
+125TE  L 2852.3    15                                                           
+125TEX L XREF=CK(*2847)                                                         
+125TE  L 2860.8    15                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2868.4    21                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2874.3    24                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2881.5    24                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2888.5    13                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2898.09    91/2+,3/2,5/2+                                              
+125TEX L XREF=C(2900)E                                                          
+125TE cL J         |g's to 1/2+ and 5/2+                                        
+125TE  G 2434.95   2150.0    LT                                             *   
+125TE  G 2898.00   10100     6                                                  
+125TE  L 2910.0    15                                                           
+125TEX L XREF=CK                                                                
+125TE  L 2927.3    21                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2932.7    21                                                           
+125TEX L XREF=C                                                                 
+125TE  L 2936.67   10                                                           
+125TEX L XREF=C(2939)E                                                          
+125TE  G 2492.29   12                                                       *   
+125TE2 G FL=443.562                                                             
+125TE  G 2902.38   15100     8                                                  
+125TE2 G FL=35.4925                                                             
+125TE  L 2952.20   10                                                           
+125TEX L XREF=CE                                                                
+125TE  G 1878.5    3                                                        *   
+125TE2 G FL=1071.868                                                            
+125TE  G 2916.87   10                                                           
+125TE  L 2965.4    211/2-,3/2-                                                  
+125TEX L XREF=CK                                                                
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 2974.63    7                                                           
+125TEX L XREF=E                                                                 
+125TE  G 2245.30   1961      8                                                  
+125TE  G 2302.6    1 72.2    LT                                                 
+125TE2 G FL=671.4448                                                            
+125TE  G 2510.92   15100     11                                                 
+125TE  G 2939.98   1125      7                                                  
+125TE2 G FL=35.4925                                                             
+125TE  L 2990.87    71/2+,3/2,5/2+                                              
+125TEX L XREF=CE                                                                
+125TE cL J         |g's to 1/2+, 5/2+                                           
+125TE  G 2262.6      12.5                                                       
+125TE  G 2317.9    3 38      9                                                  
+125TE2 G FL=671.4448                                                            
+125TE  G 2527.19   12100     4                                                  
+125TE  G 2547.2      25.0                                                       
+125TE  G 2956.05   10                                                           
+125TE2 G FL=35.4925                                                             
+125TE  G 2990.02   1548      5                                                  
+125TE2 G FL=0.0                                                                 
+125TE  L 3002.37   12                                                           
+125TEX L XREF=EK(*3005)                                                         
+125TE  G 2273.36   1871      6                                                  
+125TE  G 2330.27   20100     6                                                  
+125TE  G 2539.40   2329      6                                                  
+125TE  L 3008.2    15                                                           
+125TEX L XREF=CK(*3005)                                                         
+125TE  L 3015.1    21                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3021.63    73/2                                                        
+125TEX L XREF=C(3023)E                                                          
+125TE cL J         |g's to 1/2+, 5/2+ and 5/2- and populated by strong          
+125TE2cL primary |g from 1/2+ capture state                                     
+125TE  G 1699.87   11                                                           
+125TE2 G FL=1322.33                                                             
+125TE  G 1949.3                                                                 
+125TE  G 2291.32   2036      4                                                  
+125TE2 G FL=729.229                                                             
+125TE  G 2483.8    3 27      7                                                  
+125TE  G 2557.38   13100     5                                                  
+125TE2 G FL=463.3668                                                            
+125TE  G 2986.37   1582      5                                                  
+125TE  G 3022.27   2041      5                                                  
+125TE  L 3032.0    15                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3044.9    24                                                           
+125TEX L XREF=CK(3049)                                                          
+125TE  L 3060.2    15                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3072.38    7                                                           
+125TEX L XREF=C(3071)E                                                          
+125TE cL J         |g's to 3/2+ and 5/2+                                        
+125TE  G 1829.68   9                                                        *   
+125TE  G 2400.50   20100     8                                                  
+125TE  G 3036.76   1159.1                                                       
+125TEF G FLAG=M                                                                 
+125TE  L 3082.3    24                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3090.9    15                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3098.3    21                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3106.64    71/2+,3/2                                                   
+125TEX L XREF=EK                                                                
+125TE cL J         |g to 5/2+ and populated by strong primary |g                
+125TE2cL from 1/2+ capture state                                                
+125TE  G 2434.95   21                                                       *   
+125TE  G 2568.72   13                                                           
+125TE  G 2644.59   20100     12                                                 
+125TE2 G FL=463.3668                                                            
+125TE  G 2662.78   1865      9                                                  
+125TE  G 3106.41   10                                                       *   
+125TE  L 3130.1    121/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 3142.30    73/2                                                        
+125TEX L XREF=CE                                                                
+125TE cL J         |g's to 1/2+, 5/2+ and 5/2- and                              
+125TE2cL populated by strong primary |g from 1/2+ capture state                 
+125TE  G 2070.68   11100     3                                                  
+125TE  G 2699.01   2084      10                                                 
+125TE  G 3106.41   1080.6    LT                                             *   
+125TE  G 3142.48   1848      4                                                  
+125TE  L 3151.0    24                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3169.5    15                                                           
+125TEX L XREF=CK(3164)                                                          
+125TE  L 3174.41    81/2-,3/2                                                   
+125TEX L XREF=E                                                                 
+125TE cL J         |g to 5/2- and populated by strong primary |g                
+125TE2cL from 1/2+ capture state                                                
+125TE  G 2103.37   16                                                       *   
+125TE2 G FL=1071.868                                                            
+125TE  G 2730.55   15                                                       *   
+125TE  G 3138.67   10                                                           
+125TEF G FLAG=M                                                                 
+125TE  L 3183.84   111/2,3/2,5/2+                                               
+125TEX L XREF=E                                                                 
+125TE cL J         |g to 1/2+                                                   
+125TE  G 2454.17   1567      6                                                  
+125TE  G 2740.78     85.3                                                       
+125TE  G 3184.20   15100     7                                                  
+125TE  L 3189      4                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3201.0    12                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3208.37    81/2,3/2                                                    
+125TEX L XREF=C(3211)EK(*3215)                                                  
+125TE cL J         Populated by strong primary |g from 1/2+ capture state       
+125TE  G 1888.41   12107     LT                                             *   
+125TE  G 2763.4                                                                 
+125TE  G 3174.07   1564      9                                                  
+125TE2 G FL=35.4925                                                             
+125TE  G 3207.84   14100     7                                                  
+125TE  L 3219      3                                                            
+125TEX L XREF=CK(3215)                                                          
+125TE  L 3236      3                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3259.8    21                                                           
+125TEX L XREF=C                                                                 
+125TE  L 3273      4                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3291.59    8                                                          ?
+125TEX L XREF=E                                                                 
+125TE  G 1971.59   1373      6                                                  
+125TE  G 3291.8    1 100     7                                                  
+125TE  L 3298      3                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3330      3                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3334      8 1/2-,3/2-                                                  
+125TEX L XREF=CK(3339)                                                          
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 3375      5                                                            
+125TEX L XREF=K                                                                 
+125TE  L 3386      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3430.03   111/2-,3/2-                                                  
+125TEX L XREF=CE                                                                
+125TE cL J         L=1 in (d,p)                                                 
+125TE  G 3394.48   11                                                           
+125TEF G FLAG=M                                                                 
+125TE  G 3430.5                                                                 
+125TE  L 3458      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3488      5                                                            
+125TEX L XREF=K                                                                 
+125TE  L 3518      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3532.16   10                                                           
+125TEX L XREF=C(3538)E                                                          
+125TE  G 3089.2    3                                                            
+125TE  G 3496.54   10                                                           
+125TEF G FLAG=M                                                                 
+125TE  L 3554.76   12                                                           
+125TEX L XREF=E                                                                 
+125TE  G 3092.10   2056      7                                                  
+125TE2 G FL=463.3668                                                            
+125TE  G 3519.2                                                                 
+125TE  G 3554.28   15100     8                                                  
+125TE  L 3564.20   121/2-,3/2,5/2+                                             ?
+125TEX L XREF=EK                                                                
+125TE cL J         |g's to 1/2+ and 5/2-                                        
+125TE  G 2492.29   12100     6                                              *   
+125TE  G 3564.9                                                                 
+125TE  L 3598      8 1/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 3627      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L     3655  8 1/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 3696      8 (3/2+,5/2+)                                                
+125TEX L XREF=C                                                                 
+125TE cL J         L=(2) in (d,p)                                               
+125TE  L 3721      8 (3/2+,5/2+)                                                
+125TEX L XREF=C                                                                 
+125TE cL J         L=(2) in (d,p)                                               
+125TE  L 3743      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3786      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3837      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3866      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3875      8                                                        B   
+125TEX L XREF=C                                                                 
+125TE  L 3887      8                                                        B   
+125TEX L XREF=C                                                                 
+125TE  L 3914      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3949      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 3981      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 4006      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 4021      8                                                            
+125TEX L XREF=C                                                                 
+125TE  L 4041      8 1/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 4090      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4127      101/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 4141      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4163      101/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 4192      101/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 4213      10                                                           
+125TEX L XREF=CK(4208)                                                          
+125TE  L 4234      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4255      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4270      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4302      10                                                           
+125TEX L XREF=CK                                                                
+125TE  L 4334      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4360      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4377      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4404      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4433      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4458      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4476      10                                                           
+125TEX L XREF=CK(4480)                                                          
+125TE  L 4494      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4515      10                                                           
+125TEX L XREF=CK(4513)                                                          
+125TE  L 4532      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4551      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4607      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4621      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4651      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4677      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4689      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4741      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4770      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4797      101/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 4836      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4849      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4880      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4914      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4928      101/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 4961      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 4977      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5008      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5022      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5055      101/2-,3/2-                                                  
+125TEX L XREF=C                                                                 
+125TE cL J         L=1 in (d,p)                                                 
+125TE  L 5083      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5100      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5125      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5141      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5161      10(1/2+)                                                     
+125TEX L XREF=C                                                                 
+125TE cL J         L=(0) in (d,p)                                               
+125TE  L 5189      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5201      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5248      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5291      10(1/2+)                                                     
+125TEX L XREF=C                                                                 
+125TE cL J         L=(0) in (d,p)                                               
+125TE  L 5314      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5329      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5375      10(1/2+)                                                     
+125TEX L XREF=C                                                                 
+125TE cL J         L=(0) in (d,p)                                               
+125TE  L 5390      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5406      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5437      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5452      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5479      10(1/2+)                                                     
+125TEX L XREF=C                                                                 
+125TE cL J         L=(0) in (d,p)                                               
+125TE  L 5506      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5546      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5570      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5592      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5629      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5641      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5660      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5679      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5702      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5725      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5752      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5785      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5804      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5837      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5867      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5903      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5941      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 5966      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 6012      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 6032      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 6049      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 6084      10                                                           
+125TEX L XREF=C                                                                 
+125TE  L 6126      10                                                           
+125TEX L XREF=C                                                                 
+

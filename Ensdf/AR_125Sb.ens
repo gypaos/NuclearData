@@ -1,0 +1,423 @@
+125SB    ADOPTED LEVELS, GAMMAS                                  11NDS    201102
+125SB  H TYP=FUL$AUT=J. KATAKURA$CIT=NDS 112, 495 (2011)$CUT=1-Jan-2010$        
+125SB  Q 766.7     228707    3 7311    3 -4.84E3 3     2012WA38                 
+125SB cQ $Note: Current evaluation has used the following Q record              
+125SB  Q 766.7     218706.7  267307.7  26 -4839  28    2009AUZZ                 
+125SB c  Other reaction: 1992NiZZ; heavy ion reaction, but no data are available
+125SB cG E         From {+125}Sn |b{+-} decay (9.64 d), unless otherwise noted  
+125SB cG M,MR      From |g|g(|q), (pol |g)|g(|q) in {+125}Sn |b{+-} decay       
+125SB2cG (9.52 min, 9.64 d)                                                     
+125SB cG E(F)      From {+125}Sn |b{+-} decay (9.52 min)                        
+125SB cL E         From a least-squares fit to adopted E|g's for levels         
+125SB2cL connecting with |g's. Others from (d,{+3}He), unless otherwise noted   
+125SB cL J(E)      |g|g(|q) and (pol |g)|g(|q) in {+125}Sn |b{+-} decay         
+125SB2cL (9.52 min, 9.64 d)                                                     
+125SB cL E(A),J(A) Analog resonance, J|p from analyzing power in {+124}Sn(pol   
+125SBxcL p,p). The uncertainties in the resonance energies are 5-20 keV.        
+125SB cL J(B)      From L=2 in ({+3}He,d), reaction strength favors 3/2+.       
+125SB2cL Those states are considered to excite by 2d3/2 stripping, because      
+125SB3cL the 332-keV level exhausts essentially all of the 2d5/2 strength       
+125SB2cL in the ({+3}He,d) reaction                                             
+125SB cL E(C)      From ({+3}He,d)                                              
+125SB cL E(D)      From (t,|a)                                                  
+125SB  XA124SN(POL P,P) IAR                                                     
+125SB  XB124SN(3HE,D)                                                           
+125SB  XC125SN B- DECAY (9.52 M)                                                
+125SB  XD125SN B- DECAY (9.64 D)                                                
+125SB  XE126TE(D,3HE)                                                           
+125SB  XF126TE(T,A)                                                             
+125SB  XG238U(12C,XG)                                                           
+125SB  XH124SN(7LI,A2NG)                                                        
+125SB  XI125SB IT DECAY (25 US)                                                 
+125SB PN                                                                     6  
+125SB  L 0.0         7/2+              2.75856 Y  25                            
+125SBX L XREF=BCDEFGHI                                                          
+125SB2 L %B-=100$MOMM1=+2.63 4 (1989Ra17)                                       
+125SB cL J         L=4 in (d,{+3}He), ({+3}He,d), (t,|a); |DJ=2-yes shape       
+125SB2cL |b{+-} feeds 11/2- daughter (1959Na06,1964Ma30,1966Ma49)               
+125SB cL T$From weighted average of 1007.56 d {I10} (1992Un01), 1008.1 d {I8}   
+125SB2cL (1983Wa26) and 1007.3 d {I3} (1980Ho17)(1y=365.242 d). Others: 2.6 y   
+125SB3cL {I1} (1960Kl04), 2.78 y {I4} (1961Wy01), 2.71 y {I2} (1965Fl02), 2.81  
+125SBxcL y {I5} (1966La13), 2.7 y (1950Le09)                                    
+125SB cL MOMM1 $ From nuclear magnetic resonance on oriented nuclei             
+125SB2cL (1989Ra17). 1974Ca06 give measurement. See also 2005St24 compilation.  
+125SB cL           Configuration=(|p 1g{-7/2})                                  
+125SB  L 332.06    3 5/2+              156 PS    8                              
+125SBX L XREF=BCDEF                                                             
+125SB cL J         L=2 in ({+3}He,d), (t,|a); M1+E2 |g to 7/2+                  
+125SB cL T         From {+125}Sn |b{+-} decay (9.52 min)                        
+125SB cL           Configuration=(|p 2d{-5/2})                                  
+125SB  G 331.96    6 100     1 M1+E2     -0.24   4     0.0242                C  
+125SBB G BM1W=0.00356 20$BE2W=1.3 5                                             
+125SBS G KC=0.0210 3$LC=0.00264 4$MC=0.000523 8$NC+=0.0001108 17                
+125SBS G NC=0.0001008 16$OC=9.94E-6 15                                          
+125SB cG E,RI      Weighted average of {+125}Sn |b{+-} decay (9.64 d) and       
+125SB2cG {+125}Sn |b{+-} decay (9.52 min)                                       
+125SB  L 642.97    2 3/2+,5/2+                                              B   
+125SBX L XREF=BCEF                                                              
+125SB cL J         L=2 in ({+3}He,d), (t,|a)                                    
+125SB2cL favors 3/2+                                                            
+125SB  G 310.96    4 29      3                                              F   
+125SB  G 642.96    2 100.0   19                                             FC  
+125SB  L 921.67     31/2+                                                       
+125SBX L XREF=BCEF                                                              
+125SB cL J         L=0 in ({+3}He,d), (t,|a)                                    
+125SB cL           Configuration=(|p 3s{-1/2})                                  
+125SB  G 278.56    1512      3                                              FC  
+125SB  G 589.61    2 100.0   21                                             FC  
+125SB  L 1067.30   3 9/2+                                                   E   
+125SBX L XREF=DHI                                                               
+125SB cL J         M1+E2 |g to 7/2+                                             
+125SB  G 1067.10   5 100       M1+E2     -0.86   18                             
+125SBS G CC=0.00134 4$KC=0.00117 4$LC=0.000142 4$MC=2.79E-5 7$NC+=5.93E-6 15    
+125SBS G NC=5.39E-6 14$OC=5.35E-7 14                                            
+125SB  L 1089.50    311/2+                                                  E   
+125SBX L XREF=DGHI                                                              
+125SB cL J         E2 |g to 7/2+                                                
+125SB  G 1089.15   10100       E2                                            C  
+125SBS G CC=0.001133 16$KC=0.000983 14$LC=0.0001211 17$MC=2.39E-5 4$NC+=5.05E-6 
+125SBS G NC=4.60E-6 7$OC=4.52E-7 7                                              
+125SB  L 1349.60    37/2+                                                       
+125SBX L XREF=CD                                                                
+125SB cL J         Log| {If{+1u}t}=10.38 from 11/2-, M1+E2 |g to 5/2+           
+125SB  G 258.25    106.4     LT                                             &C ?
+125SB2 G FL=1089.50                                                             
+125SB  G 282.45    5 5.8     6                                               C  
+125SB2 G FL=1067.30                                                             
+125SB  G 1017.50   8 100     4 M1+E2     2.1     +5-3                        C  
+125SBS G CC=0.00137 3$KC=0.001190 23$LC=0.000147 3$MC=2.89E-5 6$NC+=6.11E-6 11  
+125SBS G NC=5.57E-6 10$OC=5.48E-7 11                                            
+125SB cG E,RI      Weighted average of {+125}Sn |b{+-} decay (9.64 d) and       
+125SB2cG {+125}Sn |b{+-} decay (9.52 min)                                       
+125SB  G 1349.39   6 18.7    8                                                  
+125SB cG E,RI      Weighted average of {+125}Sn |b{+-} decay (9.64 d) and       
+125SB2cG {+125}Sn |b{+-} decay (9.52 min)                                       
+125SB  L 1419.85    49/2+                                                       
+125SB cL J         M1+E2 |g to 7/2+, 469 E1 |g from 11/2-                       
+125SBX L XREF=D                                                                 
+125SB  G 1087.70   10100     16                                              C  
+125SB  G 1419.70   5 40.8    8 D(+Q)     +0.01   3                           C  
+125SBS G CC=0.000830 12$KC=0.000680 10$LC=8.11E-5 12$MC=1.595E-5 23$NC+=5.30E-5 
+125SBS G NC=3.09E-6 5$OC=3.09E-7 5$IPC=4.96E-5 7                                
+125SB  L 1483.78   2 3/2+,5/2+                                                  
+125SBX L XREF=BC                                                                
+125SB cL J         L=2 in ({+3}He,d)                                            
+125SB  G 840.83    5 40.4    17                                             FC  
+125SB  G 1151.70   8 18.0    17                                             F   
+125SB  G 1483.77   2 100.0   17                                             F   
+125SB  L 1560      5                                                        C   
+125SBX L XREF=B                                                                 
+125SB  L 1591.57    57/2+,9/2+                                                  
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=10.23 from 11/2-. |g to 5/2+                      
+125SB  G 524.30    5 31      3                                                  
+125SB  G 1259.35   10100     6                                               C  
+125SB  G 1591.4    2 81      6                                                  
+125SB  L 1660      20                                                       C   
+125SBX L XREF=B                                                                 
+125SB  L 1700.69    51/2+,3/2,5/2+                                              
+125SBX L XREF=C                                                                 
+125SB cL J         |g's to 1/2+ and 5/2+                                        
+125SB  G 779.5     3 13      4                                              FC  
+125SB  G 1057.77   2118      4                                              F   
+125SB  G 1368.61   4 100     3                                              FC  
+125SB  L 1736.13    3(3/2)+                                                 B   
+125SBX L XREF=BC                                                                
+125SB cL J         L=2 in ({+3}He,d); reaction strength favors 3/2+             
+125SB  G 386.52    3 14.3    4                                              FC  
+125SB  G 1093.27   145.2     4                                              FC  
+125SB  G 1404.06   2 100.0   10                                             FC  
+125SB  G 1736.07   7 4.4     3                                              F   
+125SB  L 1800      201/2+                                                   C   
+125SBX L XREF=B                                                                 
+125SB cL J         L=0 in ({+3}He,d)                                            
+125SB  L 1806.700  16(9/2)+                                                     
+125SBX L XREF=DEF                                                               
+125SB cL J         L=4 in (d,{+3}He), (t,|a). Large C{+2}S in (d,{+3}He) favors 
+125SB2cL 9/2+                                                                   
+125SB  G 386.6     2 3.3     7                                               C  
+125SB  G 1806.690  16100.0   20                                              C  
+125SB  L 1889.848  159/2-,11/2-                                                 
+125SBX L XREF=BD                                                                
+125SB cL J         E1 |g to 9/2+ and 11/2+. Large C{+2}S in (d,{+3}He) favors   
+125SB2cL 11/2-; however, this requires the weak gs |g to be M2.                 
+125SB  G 469.85    5 34.7    7 E1(+M2)   +0.010  24                          C  
+125SBS G CC=0.00292 6$KC=0.00254 5$LC=0.000307 6$MC=6.03E-5 12$NC+=1.274E-5 25  
+125SBS G NC=1.160E-5 22$OC=1.138E-6 22                                          
+125SB  G 800.28    5 24.9    5 E1(+M2)   0.18    +11-8                       C  
+125SBS G CC=0.0011 3$KC=0.0010 3$LC=0.00012 4$MC=2.3E-5 7$NC+=4.8E-6 15         
+125SBS G NC=4.4E-6 13$OC=4.4E-7 13                                              
+125SB  G 822.48    5 100.0   20E1                                            C  
+125SBS G CC=0.000849 12$KC=0.000740 11$LC=8.79E-5 13$MC=1.727E-5 25$NC+=3.66E-6 
+125SBS G NC=3.33E-6 5$OC=3.30E-7 5                                              
+125SB  G 1557.3    1 0.095   23                                              C  
+125SB2 G FL=332.06                                                              
+125SB  G 1889.884  161.7     1                                               C  
+125SB  L 1894      10                                                       D   
+125SBX L XREF=F                                                                 
+125SB  L 1913.77    83/2+,5/2                                                   
+125SBX L XREF=C                                                                 
+125SB cL J         |g's to 5/2+ and 7/2+. log| {Ift}=6.47 from 3/2+             
+125SB  G 430.03    1463      16                                             F   
+125SB  G 1581.96   2053      11                                             F   
+125SB  G 1913.66   10100     11                                             F   
+125SB  L 1947.45    4(3/2)+                                                 B   
+125SBX L XREF=BC                                                                
+125SB cL J         |g's to 1/2+ and 7/2+. log| {Ift}=5.80 from 3/2+.            
+125SB2cL L=2 in (d,{+3}He)                                                      
+125SB  G 1025.46   2212      5                                                  
+125SB  G 1304.42   1011      3                                              F   
+125SB  G 1615.38   3 100     3                                              FC  
+125SB  G 1947.50   1313      3                                              F   
+125SB  L 1971.25   20 15/2-            4.1 US    2                              
+125SBX L XREF=HI                                                                
+125SB cL J$ M2+E3 |g to 11/2+, E3 |g to 9/2+                                    
+125SB cL T$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SB  G 881.8     3  63.8   8 E3(+M2)   0.75    GE                             
+125SBS G CC=0.0045 6$KC=0.0039 6$LC=0.00053 5$MC=0.000104 10$NC+=2.20E-5 22     
+125SBS G NC=2.01E-5 20$OC=1.94E-6 22                                            
+125SB cG M,MR$ From {+124}Sn({+7}Li,|a2n|g)                                     
+125SBB G BM2W LE 0.00015$BE3W GE 0.10                                           
+125SB  G 904.0     3  100.0  25E3                                               
+125SBS G CC=0.00372 6$KC=0.00317 5$LC=0.000442 7$MC=8.80E-5 13$NC+=1.84E-5 3    
+125SBS G NC=1.684E-5 24$OC=1.601E-6 23                                          
+125SB cG M$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SBB G BE3W=0.395 23                                                          
+125SB  L 1971.25+X 20 (19/2-)          25 US     4                              
+125SB DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+125SBX L XREF=I                                                                 
+125SB cL E,T       From 2010Re01                                                
+125SB  L 1982.84    411/2-                                                      
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=7.28 from 11/2-, |g|g(|q) and (pol |g)|g(|q)      
+125SB2cL favors 11/2-                                                           
+125SB  G 563.0     2 0.38    5                                               C  
+125SB  G 893.40    5 7.04    23D+Q       0.29    17                          C  
+125SBS G CC=0.0011 5$KC=0.0010 4$LC=0.00012 6$MC=2.3E-5 11$NC+=4.8E-6 22        
+125SBS G NC=4.4E-6 20$OC=4.4E-7 20                                              
+125SB cG M,MR      From |g|g(|q) (1980Ve04). Other: |d=0.3 {I+9-6} (1977Kr13)   
+125SB  G 915.55    5 100.0   21E1+M2     -0.02   1                           C  
+125SBS G CC=0.000688 10$KC=0.000600 9$LC=7.11E-5 11$MC=1.395E-5 21$NC+=2.96E-6 5
+125SBS G NC=2.69E-6 4$OC=2.67E-7 4                                              
+125SB  G 1982.5    2 0.077   23                                                 
+125SB  L 1993.64   25 (15/2)+                                                   
+125SBX L XREF=GH                                                                
+125SB cL J$ E2 |g to 11/2+                                                      
+125SB  G 904.1     3  100      E2                                               
+125SBS G CC=0.001712 24$KC=0.001482 21$LC=0.000186 3$MC=3.67E-5 6$NC+=7.75E-6 11
+125SBS G NC=7.06E-6 10$OC=6.89E-7 10                                            
+125SB cG E$ Weighted average of {+238}U({+12}C,X|g) and {+124}Sn({+7}Li,|a2n|g) 
+125SB cG M$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SB  L 2002.140  129/2,11/2+                                                  
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=7.50 from 11/2-, |g to 7/2+                       
+125SB  G 652.6     1 2.12    5                                                  
+125SB  G 912.0     5 0.35    10                                              C ?
+125SB  G 934.63    5 10.86   20                                              C  
+125SB2 G FL=1067.30                                                             
+125SB  G 2002.134  12100.0   20                                              C  
+125SB  L 2112.1     3 (19/2-)          28.0 US   7                              
+125SBX L XREF=H                                                                 
+125SB cL J$ E2 |g to 15/2-                                                      
+125SB cL T$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SB  G 140.9     3  100      E2                      0.490  8                 
+125SBS G KC=0.379 6$LC=0.0892 15$MC=0.0182 3$NC+=0.00363 6                      
+125SBS G NC=0.00336 6$OC=0.000267 5                                             
+125SB2 G FL=1971.25                                                             
+125SB cG M$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SBB G BE2W=0.00658 19                                                        
+125SB  L 2113.0    101/2-,3/2-                                                  
+125SBX L XREF=CEF                                                               
+125SB cL J         L=1 in (d,{+3}He), (t,|a)                                    
+125SB  G 2113      1 100                                                    F   
+125SB  L 2193.4     3 15/2+                                                     
+125SB cL J$ E2 |g from (19/2)+. |g to 11/2+                                     
+125SBX L XREF=GH                                                                
+125SB  G 1103.7    5  100                                                       
+125SB cG E$ Weighted average of {+238}U({+12}C,X|g) and {+124}Sn({+7}Li,|a2n|g) 
+125SB  L 2201.023  129/2,11/2+                                                  
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=7.90 from 11/2-, |g to 7/2+                       
+125SB  G 311.3     1 22.5    25                                              C  
+125SB  G 1111.4    1 35      5                                               C  
+125SB  G 2201.002  12100     5                                                  
+125SB  L 2217.2     3 (17/2)-                                                   
+125SBX L XREF=H                                                                 
+125SB cL J$ M1 |g to 15/2-, systematics.                                        
+125SB  G 105.1     3  28.9   24                                                 
+125SB2 G FL=2112.1                                                              
+125SB  G 246.1     3  100    4 M1                      0.0524                   
+125SBS G KC=0.0453 7$LC=0.00570 9$MC=0.001128 17$NC+=0.000239 4                 
+125SBS G NC=0.000218 4$OC=2.16E-5 3                                             
+125SB2 G FL=1971.25                                                             
+125SB cG M$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SB  L 2227.0     4                                                           
+125SBX L XREF=D                                                                 
+125SB  G 1137.5    5 100     AP                                                 
+125SB  G 2227.0    5  70     AP                                                 
+125SB  L 2240.72    49/2+                                                       
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=6.53 from 11/2-, M1+E2 |g's to 11/2+ and 9/2+,    
+125SB2cL |g|g(|q) (1971Ma01,1980Ve04) favors 9/2.                               
+125SB  G 258.25    107.7     LT                                             &  ?
+125SB  G 350.95    5 100.0   18D+Q       0.42    3                           C  
+125SB  G 434.13    109.2     7                                               C  
+125SB  G 890.5     5 3.3     7                                                 ?
+125SB  G 1151.23   5 43.4    7 M1+E2     2.1     +12-10                      C  
+125SBS G CC=0.00105 6$KC=0.00091 6$LC=0.000111 6$MC=2.20E-5 12$NC+=6.92E-6 19   
+125SBS G NC=4.23E-6 22$OC=4.19E-7 24$IPC=2.27E-6 8                              
+125SB  G 1173.30   5 68.8    15M1+E2     1.1     GE                          C  
+125SBS G CC=0.00102 5$KC=0.00088 5$LC=0.000107 5$MC=2.12E-5 10$NC+=8.37E-6 15   
+125SBS G NC=4.08E-6 19$OC=4.04E-7 20$IPC=3.88E-6 12                             
+125SB  L 2253.39    59/2,11/2,13/2                                              
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=6.99 from 11/2-                                   
+125SB  G 270.60    5 100.0   18                                              C  
+125SB  G 363.5     2 2.7     5                                               C  
+125SB  G 903.5     5 12      3                                                 ?
+125SB  G 1163.84   5 29.1    18                                              C  
+125SB  L 2275.769  109/2,11/2+                                                  
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=6.49 from 11/2-, intense |g to 7/2+               
+125SB  G 684.0     2 5.9     11                                                 
+125SB  G 1186.15   154.8     5                                               C  
+125SB  G 1208.4    2 4.3     11                                              C  
+125SB  G 2275.748  10100.0   21                                                 
+125SB  L 2288.21    8(11/2+)                                                    
+125SBX L XREF=D                                                                 
+125SB cL J         Log| {Ift}=6.13 from 11/2-, |g|g(|q) suggests 11/2+          
+125SB  G 286.2     2 2.2     4                                               C  
+125SB  G 1198.70   155.8     4                                               C  
+125SB  G 1220.88   10100.0   22M1+E2     9.9     GE                          C  
+125SBS G CC=0.000901 13$KC=0.000774 11$LC=9.44E-5 14$MC=1.86E-5 3$NC+=1.349E-5 1
+125SBS G NC=3.59E-6 5$OC=3.54E-7 5$IPC=9.55E-6 14                               
+125SB  L 2299      101/2-,3/2-                                              D   
+125SBX L XREF=EF                                                                
+125SB cL J         L=1 in (t,|a), (d,{+3}He)                                    
+125SB  L 2325.0     3 (19/2)+          31 NS     2                              
+125SBX L XREF=GH                                                                
+125SB cL J$ E2 |g to 15/2+. |g to (17/2)-, systematics.                         
+125SB cL T$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SB  G 107.9     3  55     3 [E1]                    0.152                    
+125SB cG E$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SBB G BE1W=1.50E-6 14                                                        
+125SB  G 131.59    17 55     3 E2                      0.624                    
+125SBS G KC=0.476 7$LC=0.1185 18$MC=0.0243 4$NC+=0.00481 8                      
+125SBS G NC=0.00446 7$OC=0.000350 6                                             
+125SB cG E$ Weighted average of {+238}U({+12}C,X|g) and {+124}Sn({+7}Li,|a2n|g) 
+125SB cG RI$ From {+124}Sn({+7}Li,|a2n|g)                                       
+125SB cG M$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SBB G BE2W=2.68 25                                                           
+125SB  G 331.36    24 100    5 (E2)                    0.0269                   
+125SBS G KC=0.0226 4$LC=0.00345 5$MC=0.000690 10$NC+=0.0001422 21               
+125SBS G NC=0.0001304 19$OC=1.178E-5 17                                         
+125SB cG E$ Weighted average of {+238}U({+12}C,X|g) and {+124}Sn({+7}Li,|a2n|g) 
+125SB cG RI$ From {+124}Sn({+7}Li,|a2n|g)                                       
+125SB cG M$ M1 or E2 from {+124}Sn({+7}Li,|a2n|g). Placement in the level scheme
+125SB2cG requires |DJ=2.                                                        
+125SBB G BE2W=0.048 5                                                           
+125SB  L 2471.0     4 (23/2)+          272 NS    16                             
+125SBX L XREF=GH                                                                
+125SB cL J$ E2 |g to (19/2+), systematics                                       
+125SB cL T$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SB  G 146.02    19 100      E2                      0.432                    
+125SBS G KC=0.336 5$LC=0.0770 12$MC=0.01573 24$NC+=0.00313 5                    
+125SBS G NC=0.00290 5$OC=0.000232 4                                             
+125SB cG E$ Weighted average of {+238}U({+12}C,X|g) and {+124}Sn({+7}Li,|a2n|g) 
+125SB cG M$ From {+124}Sn({+7}Li,|a2n|g)                                        
+125SBB G BE2W=0.59 4                                                            
+125SB  L 2480      20                                                       C   
+125SBX L XREF=B                                                                 
+125SB  L 2483.8     4                                                           
+125SBX L XREF=G                                                                 
+125SB  G 490.2     3  100                                                       
+125SB  L 2488.5     5                                                           
+125SBX L XREF=G                                                                 
+125SB  G 295.1     4  100                                                       
+125SB  L 2515      101/2-,3/2-                                              D   
+125SBX L XREF=F                                                                 
+125SB cL J         L=1 in (t,|a)                                                
+125SB  L 2570      201/2+                                                   C   
+125SBX L XREF=B                                                                 
+125SB cL J         L=0 in ({+3}He,d)                                            
+125SB  L 2636.5     5                                                           
+125SBX L XREF=G                                                                 
+125SB  G 152.7     3  100                                                       
+125SB  L 2670      201/2+                                                   C   
+125SBX L XREF=B                                                                 
+125SB cL J         L=0 in ({+3}He,d)                                            
+125SB  L 2678      105/2-,7/2,9/2+                                          D   
+125SBX L XREF=F                                                                 
+125SB cL J         L=3,4 in (t,|a)                                              
+125SB  L 2710      201/2+                                                   C   
+125SBX L XREF=B                                                                 
+125SB cL J         L=0 in ({+3}He,d)                                            
+125SB  L 2780      20                                                       C   
+125SBX L XREF=B                                                                 
+125SB  L 2815.4     6                                                           
+125SBX L XREF=G                                                                 
+125SB  G 331.6       100                                                        
+125SB  L 2820      20                                                       C   
+125SBX L XREF=B                                                                 
+125SB  L 2890      203/2+,5/2+                                              C   
+125SBX L XREF=B                                                                 
+125SB cL J         L=2 in ({+3}He,d)                                            
+125SB  L 2917.3     5                                                           
+125SBX L XREF=G                                                                 
+125SB  G 446.3     3  100                                                       
+125SB  L 3122      107/2+,9/2+                                              D   
+125SBX L XREF=F                                                                 
+125SB cL J         L=4 in (t,|a)                                                
+125SB  L 3190      105/2-,7/2-                                              D   
+125SBX L XREF=F                                                                 
+125SB cL J         L=3 in (t,|a)                                                
+125SB  L 3399.2     6                                                           
+125SBX L XREF=G                                                                 
+125SB  G 481.8     3  100                                                       
+125SB  L 3462      101/2-,3/2-                                              D   
+125SBX L XREF=F                                                                 
+125SB cL J         L=1 in (t,|a)                                                
+125SB  L 3941.8     6                                                           
+125SBX L XREF=G                                                                 
+125SB  G 542.5     3  100    33                                                 
+125SB  G 1024.7    5  22     8                                                  
+125SB  L 4479.9     6                                                           
+125SBX L XREF=G                                                                 
+125SB  G 538.1     4  1.0E2  3                                                  
+125SB  G 1080.5    5  60     20                                                 
+125SB  L 4933.1     7                                                           
+125SBX L XREF=G                                                                 
+125SB  G 452.9     5  100    25                                                 
+125SB  G 991.5     5  38     15                                                 
+125SB  L 5365.1     9                                                           
+125SBX L XREF=G                                                                 
+125SB  G 432.0     5  100                                                       
+125SB  L 15172     203/2+                                                   A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 27.5-keV level in {+125}Sn                            
+125SB  L 15379     201/2+                                                   A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 215.1-keV level in {+125}Sn                           
+125SB  L 16417     20(5/2)+                                                 A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 1258-keV level in {+125}Sn                            
+125SB  L 16701     20(5/2)+                                                 A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 1540-keV level in {+125}Sn                            
+125SB  L 17869     207/2-                                                   A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 2676-keV level in {+125}Sn                            
+125SB  L 18468     20(3/2-)                                                 A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 3349-keV level in {+125}Sn                            
+125SB  L 18537     20(3/2-)                                                 A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 3421-keV level in {+125}Sn                            
+125SB  L 18959     20(1/2)-                                                 A   
+125SBX L XREF=A                                                                 
+125SB cL           IAR of 3830-keV level in {+125}Sn                            
+125SB  L 19118     20(1/2)-                                                 A   
+125SBX L XREF=A                                                                 
+125SB cL           The closest level of L=(1) is observed at 4060 keV           
+125SB2cL in {+124}Sn(d,p). Energy difference is too large.                      
+

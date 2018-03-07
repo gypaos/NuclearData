@@ -1,0 +1,2116 @@
+124TE    ADOPTED LEVELS, GAMMAS                                  08NDS    200807
+124TE  H TYP=FUL$AUT=J. KATAKURA, Z.D. WU$CIT=NDS 109, 1655 (2008)$             
+124TE2 H CUT=1-Apr-2008$                                                        
+124TE  XA124SB B- DECAY (60.20 D)                                               
+124TE  XB124SB B- DECAY (93 S)                                                  
+124TE  XC124I EC DECAY                                                          
+124TE  XD122SN(A,2NG)                                                           
+124TE  XE123TE(N,G) E=THERMAL                                                   
+124TE  XF123TE(N,G) E=RES: AV                                                   
+124TE  XG124TE(N,N'G)                                                           
+124TE  XH124TE(G,G),(G,G')                                                      
+124TE  XI123SB(3HE,D)                                                           
+124TE  XJ123TE(D,P)                                                             
+124TE  XK124TE(P,P')                                                            
+124TE  XL125TE(D,T)                                                             
+124TE  XM125TE(P,D)                                                             
+124TE  XN126TE(P,T)                                                             
+124TE  XO124TE(D,D')                                                            
+124TE  XP124TE(A,A')                                                            
+124TE  XQCOULOMB EXCITATION                                                     
+124TE  XR127I(MU,XNG)                                                           
+124TE  Q -3159.6   199424.48 9 8589.5  16-1851.6 17    2012WA38                 
+124TE cQ $Note: Current evaluation has used the following Q record              
+124TE  Q -3159.6   199423.97 178589.4  15-1844.4 24    2003AU03                 
+124TE cL E         From a least-squares fit to the adopted E|g's. Others are    
+124TE2cL average of reaction data                                               
+124TE cL T         From Doppler broadening (GRID technique) in                  
+124TE2cL (n,|g) E=thermal, unless otherwise noted.                              
+124TE cG E         Average from {+124}Sb |b{+-} decays (60.20 d, 93 s),         
+124TE2cG {+124}I |e decay and (n,|g), (|a,2n|g) and (n,n'|g), unless otherwise  
+124TE3cG noted.                                                                 
+124TE cG E(A)      The final level of the transition was just assumed           
+124TE2cG by evaluator.                                                          
+124TE3cG And it should be one of the 2039[2+] or 2039[3+] level.                
+124TE cG E(B)$From (n,|g) E=thermal. Energy values are recalculated             
+124TE2cG because 2000Do11 gives them as relative to the transition from the     
+124TE3cG first 2+ state to the ground state.                                    
+124TE cG RI        Average from {+124}Sb |b{+-} decays (60.20 d, 93 s),         
+124TE2cG {+124}I |e decay and (n,|g), (|a,2n|g) and (n,n'|g), unless otherwise  
+124TE3cG noted                                                                  
+124TE cG RI(C)     From (n,|g)                                                  
+124TE cG M         From |g|g(|q) and |a(K)exp in {+124}Sb |b{+-} decay (60.20   
+124TE2cG d), |a(K)exp in {+124}I |e decay                                       
+124TE2cG and (n,|g), and |g(|q) in (|a,2n|g), unless otherwise indicated.       
+124TE cG MR        From nuclear orientation in {+124}Sb |b{+-}                  
+124TE2cG decay (60.20 d), unless otherwise indicated                            
+124TE PN                                                                     6  
+124TE  L 0.0         0+                STABLE                                   
+124TEX L XREF=ABCDEFGHIJKLMNOPQR                                                
+124TE cL $<r{+2}>{+1/2}=4.7178 fm {i17} (2004An14, evaluation)                  
+124TE  L 602.7271  212+                6.2 PS    1                              
+124TEX L XREF=ABCDEFGHIJKLMNOPQR                                                
+124TE cL J         E2 |g to 0+                                                  
+124TE cL T         from Coul. ex. Other: 4.5 ps {I5} ((|g,|g))                  
+124TE2cL B(E2)=0.567 {I5}. 2001Ra27 evaluation gives 6.23 ps {I7}.              
+124TE2 L MOMM1=+0.74 6$MOME2=-0.45 5                                            
+124TE cL MOMM1$from transient field integral perturbed angular correlation      
+124TE2cL (2007St24); other: +0.56 {I6}, +0.62 {I8} from ion implantation        
+124TE3cL perturbed correlations, +0.66 {I6}, +0.52 {I6} from transient field    
+124TE4cL integral perturbed angular correlations                                
+124TE5cL (1988Du10,1985ThZx,1989Ra17,1981Sh15). See also 2005St24 compilation.  
+124TE cL MOME2$from Coulomb excitation reorientation, weighted average of       
+124TE2cL -0.46 {I10}(1974Ba45),-0.49 {I8}(1974La05) and -0.41 {I8} (1975Kl07)   
+124TE3cL (1989Ra17).                                                            
+124TE4cL See also 2005St24 compilation.                                         
+124TE  G 602.7260  23100.0     E2                      0.00490                  
+124TEB G BE2W=31.1 5                                                            
+124TES G KC=0.00420 6$LC=0.000566 8$MC=0.0001132 16$NC+=2.45E-5 4               
+124TES G NC=2.22E-5 4$OC=2.33E-6 4                                              
+124TE cG M         from K/L ratio in {+124}I |e decay                           
+124TE cG E         from 2000He14.                                               
+124TE  L 1248.5811 254+                1.4 PS    +14-5                          
+124TEX L XREF=ABCDEGIJKLMNOPR                                                   
+124TE cL J         L=0+2 in ({+3}He,d) from 7/2+;                               
+124TE2cL |g|g(|q) in {+124}Sb |b{+-} decay (60.20 d) and (n,|g)                 
+124TE  G 645.8520  19100.0     E2                      0.00409                  
+124TEB G BE2W=(97.529 4)                                                        
+124TES G KC=0.00351 5$LC=0.000467 7$MC=9.35E-5 13$NC+=2.03E-5 3                 
+124TES G NC=1.84E-5 3$OC=1.94E-6 3                                              
+124TE cG E         from 2000He14.                                               
+124TE cG M         |g|g(|q) and |a(K)exp in {+124}Sb |b{+-} decay               
+124TE  L 1325.5131 242+                1.04 PS   +21-14                         
+124TEX L XREF=ACDEFGIJKLMNOQR                                                   
+124TE2 L BE2=0.019 5                                                            
+124TE cL J         L=2 in (p,t); Coulomb excitation; |g|g(|q) in                
+124TE2cL {+124}Sb |b{+-} decay (60.20 d) and (n,|g)                             
+124TE cL T         Other: 0.4 ps {I2}(Coul. ex.)                                
+124TE  G 722.782   3 100.0   3 M1+E2(+E0)-3.4    3     0.00314                  
+124TEB G BM1W=0.0467 7                                                          
+124TES G KC=0.00271 4$LC=0.000352 5$MC=7.02E-5 10$NC+=1.529E-5 22               
+124TES G NC=1.382E-5 20$OC=1.471E-6 22                                          
+124TE cG E         from 2000He14.                                               
+124TE  G 1325.504  4 16.1    5 E2                      8.27E-4                  
+124TEB G BE2W=0.49 +5-10                                                        
+124TES G KC=0.000693 10$LC=8.48E-5 12$MC=1.685E-5 24$NC+=3.16E-5 5              
+124TES G NC=3.33E-6 5$OC=3.62E-7 5$IPC=2.79E-5 4                                
+124TE cG E         from 2000He14.                                               
+124TE cG M         |a(K)exp in (n,|g) and |g(|q) in (n,n'|g)                    
+124TE  L 1657.283  220+                0.55 PS   +14-7                          
+124TEX L XREF=ACDEFGJKLMNO                                                      
+124TE cL J         L=0 in (d,p) from 1/2+; |g|g(|q) in (n,|g) E=thermal         
+124TE  G 1054.551  22100.0   8 E2                      1.29E-3                  
+124TEB G BE2W=20 4                                                              
+124TES G KC=0.001115 16$LC=0.0001392 20$MC=2.77E-5 4$NC+=6.05E-6 9              
+124TES G NC=5.46E-6 8$OC=5.90E-7 9                                              
+124TE cG M         |g|g(|q) and |a(K)exp in (n,|g) E=thermal                    
+124TE  G 1658.1    12          E0                               0.016     3     
+124TE cG M         from (n,|g)                                                  
+124TE cG  $ q{-K}{+2}(E0/E2)=0.087 {I23}, X(E0/E2)=0.014 {I4},                  
+124TE2cG |r{+2}(E0)=0.012 {I3} (2005Ki02, evaluation)                           
+124TE  L 1746.958  116+                                                         
+124TEX L XREF=BDEFGIKOR                                                         
+124TE cL J         log| {Ift}=4.3 from 5+; |g(|q) in (|a,2n|g)                  
+124TE  G 498.369   12100       E2                      0.00823                  
+124TES G KC=0.00701 10$LC=0.000982 14$MC=0.000197 3$NC+=4.25E-5 6               
+124TES G NC=3.85E-5 6$OC=3.99E-6 6                                              
+124TE cG M         from |g(|q) in (|a,2n|g) and J|p's of relevant levels        
+124TE  L 1882.92    30+                0.76 PS   +21-14                         
+124TEX L XREF=CDEFGIJKLMN                                                       
+124TE cL J         L=0 in (d,p) from 1/2+; |g|g(|q) in (n,|g) E=thermal         
+124TE  G 226.4                 E0                               0.070     11    
+124TE cG M         from (n,|g)                                                  
+124TEF G FL=1657.283                                                            
+124TE  G 557.43    3 100.0   10E2                      0.00604                  
+124TEB G BE2W=3.5E+2 +7-10                                                      
+124TES G KC=0.00516 8$LC=0.000706 10$MC=0.0001415 20$NC+=3.06E-5 5              
+124TES G NC=2.77E-5 4$OC=2.90E-6 4                                              
+124TE cG M         from |g|g(|q) in (n,|g) E=thermal and                        
+124TE2cG J|p of relevant levels                                                 
+124TE  G 1883.3                E0                               0.317     11    
+124TE cG M         from (n,|g) E=thermal                                        
+124TE  L 1957.902   84+                                                         
+124TEX L XREF=ACDEFGIJKLMNOR                                                    
+124TE cL J         L=4 in (p,p'); |g|g(|q) in {+124}Sb |b{+-} decay (60.20 d)   
+124TE2cL and (n,|g) E=thermal                                                   
+124TE  G 632.38    5 7.65    20                                                 
+124TE  G 709.303   13100.0   7 M1+E2(+E0)-0.18   5     0.00402                  
+124TES G KC=0.00349 5$LC=0.000429 7$MC=8.53E-5 13$NC+=1.87E-5 3                 
+124TES G NC=1.689E-5 25$OC=1.85E-6 3                                            
+124TE cG           |g|g(|q) and ce(K) in {+124}Sb |b{+-} decay                  
+124TE cG RI        Average of |B- decay, |e decay, (n,|g) E=thermal             
+124TE2cG and (n,n'|g)                                                           
+124TE  G 1355.169  1178.5    19E2(+M3)   -0.32   +25-180.0011 4                 
+124TES G KC=0.0009 3$LC=0.00011 4$MC=2.3E-5 8$NC+=3.72E-5 19                    
+124TES G NC=4.5E-6 16$OC=4.9E-7 17$IPC=3.2E-5 4                                 
+124TE cG RI        Average of |B- decay, |e decay, (n,|g) E=thermal             
+124TE2cG and (n,n'|g)                                                           
+124TE cG           |g|g(|q) and |a(K)exp in {+124}Sb |b{+-} decay               
+124TE cG MR        from 1993Go10                                                
+124TE  L 2039.293   33+                0.55 PS   +14-7                          
+124TEX L XREF=A(*)C(*)D(*)EF(*)GI(*)J(*)K(*)L(*)M(*2032)N(*2037)O(*2037)R(*)    
+124TE cL J         |g(|q) in (n,n'|g) and M1+E2 |g to 2+                        
+124TE  G 713.776   2 100.0   18M1+E2     -3.9    2     0.00323              B   
+124TE2 G FLAG=C                                                                 
+124TEB G BM1W=0.0028 6$BE2W=59 10                                               
+124TES G KC=0.00278 4$LC=0.000362 5$MC=7.23E-5 11$NC+=1.574E-5 23               
+124TES G NC=1.422E-5 20$OC=1.513E-6 22                                          
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE cG M,MR      From |g(|q) and linear polarization in 1989GoZK              
+124TE  G 790.711   3 31.7    24M1+E2     -4.3    3                          B   
+124TE2 G FLAG=C                                                                 
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE cG M,MR      From |g(|q) in 1989GoZK and J|p's of relevant levels.        
+124TE  G 1436.559  5 54.3    24M1+E2     +3      +15-2                      B   
+124TE2 G FLAG=C                                                                 
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE cG M,MR      From |g(|q) 1990Be50 and relevant levels.                    
+124TE  L 2039.421   32+                0.49 PS   +14-7                          
+124TEX L XREF=A(*)C(*)D(*)EF(*)GI(*)J(*)K(*)L(*)M(*2032)N(*2037)O(*2037)R(*)    
+124TE cL J         E2 |g to 0+                                                  
+124TE  G 382.00    16 1.57   11                                                 
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE  G 713.906    23.7     21                                             B   
+124TE2 G FLAG=C                                                                 
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE  G 790.837    33.7     21                                             B   
+124TE2 G FLAG=C                                                                 
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE  G 1436.689  5 100.0   21M1+E2     +0.13   4                          B   
+124TE2 G FLAG=C                                                                 
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE cG M,MR      from |g(|q) in 1990Be50 and J|p's of relevant levels.        
+124TE  G 2039.36   3 56.8    6 E2                      6.67E-4              B   
+124TE2 G FLAG=C                                                                 
+124TEB G BE2W=0.31 7                                                            
+124TES G KC=0.000305 5$LC=3.64E-5 5$MC=7.21E-6 10$NC+=0.000319 5                
+124TES G NC=1.427E-6 20$OC=1.562E-7 22$IPC=0.000317 5                           
+124TE cG M         From |g(|q) and |a(K)exp in (n,|g) E=thermal                 
+124TE  L 2091.603  172+                0.28 PS   7                              
+124TEX L XREF=ACEFGIJKLMR                                                       
+124TE cL J         L=2 in ({+3}He,d) from 7/2+;                                 
+124TE2cL |g|g(|q) in {+124}Sb |b{+-} decay (60.20 d) and (n,|g) E=thermal       
+124TE  G 766.01    121.80    3 E0+E2,M1                0.0030 4                 
+124TES G KC=0.0026 4$LC=0.00033 3$MC=6.5E-5 6$NC+=1.43E-5 14                    
+124TES G NC=1.29E-5 13$OC=1.40E-6 15                                            
+124TE cG M         from |a(K)exp in {+124}Sb |b{+-} decay                       
+124TE  G 843.7     6  0.28   8                                                  
+124TE  G 1488.886  18100.0   6 M1(+E2)   +0.10   23    8.29E-416                
+124TEB G BM1W=(0.022 8)$BE2W=(0.1 +4-10)                                        
+124TES G KC=0.000659 14$LC=7.92E-5 16$MC=1.57E-5 3$NC+=7.51E-5 12               
+124TES G NC=3.11E-6 7$OC=3.42E-7 7$IPC=7.17E-5 11                               
+124TE cG M         from |a(K)exp in {+124}Sb |b{+-} decay and (n,|g) E=thermal  
+124TE  G 2091.19   10 29.4   3                                                  
+124TE cG           Reported in (n,|g) E=thermal only; not reported in           
+124TE2cG {+124}Sb |b{+-} decay (60.20 d), {+124}I |e decay and (n,n'|g)         
+124TE  L 2153.29    30+                                                         
+124TEX L XREF=EFGJ                                                              
+124TE cL J         L=0 in (d,p) from 1/2+; |g(|q) in (n,n'|g)                   
+124TE  G 827.78    3 100.0   10E2                      0.00222                  
+124TES G KC=0.00192 3$LC=0.000246 4$MC=4.90E-5 7$NC+=1.069E-5 15                
+124TES G NC=9.65E-6 14$OC=1.032E-6 15                                           
+124TE cG M         from |a(K)exp in (n,|g) {+124}Sb |b{+-}                      
+124TE2cG and |g(|q) in (n,n'|g)                                                 
+124TE  G 1550.44   8 23.9    5                                                  
+124TE  L 2182.41    42+                                                         
+124TEX L XREF=AEFGIJM(2205)                                                     
+124TE cL J         L=2 in ({+3}He,d) from 7/2+; |g(|q) in (n,n'|g) and |g|g(|q) 
+124TE2cL and |a(exp) in (n,|g) and                                              
+124TE  G 856.84    6 9.2     9 M1,E2                   0.0023 3                 
+124TES G KC=0.00202 25$LC=0.00025 3$MC=5.0E-5 5$NC+=1.09E-5 12                  
+124TES G NC=9.9E-6 10$OC=1.07E-6 12                                             
+124TE cG           From |a(K)exp in (n,|g) E=thermal                            
+124TE  G 1579.70   4 100.0   10M1+E2(+E0)-0.17   7     7.71E-4                  
+124TES G KC=0.000579 9$LC=6.95E-5 11$MC=1.379E-5 20$NC+=0.0001079 16            
+124TES G NC=2.73E-6 4$OC=3.00E-7 5$IPC=0.0001048 15                             
+124TE cG M,MR      from |g|g(|q) and |a(K)exp in (n,|g)                         
+124TE  G 2182.41   1211.5    18                                                 
+124TE  L 2224.954  154+                                                         
+124TEX L XREF=ACDEGIJKLM(2217)NO                                                
+124TE cL J         |g(|q) in (n,n'|g) and M1+E2 |g to 4+                        
+124TE  G 899.48    3 21.3    5 (E2)                                             
+124TE2 G FL=1325.5131                                                           
+124TE cG M         from |g(|q) in (|a,2n|g) and J|p's of relevant levels.       
+124TE cG           Not observed in (n,n'|g) and (n,|g) E=thermal                
+124TE  G 976.352   25100.0   11M1+E2     +0.68   6     0.00180                  
+124TES G KC=0.00156 3$LC=0.000192 3$MC=3.81E-5 6$NC+=8.37E-6 14                 
+124TES G NC=7.54E-6 12$OC=8.23E-7 14                                            
+124TE cG M         from |g(|q) in (n,n'|g) and |a(K)exp in (n,|g)               
+124TE cG MR        from 1989GoZK                                                
+124TE  G 1622.240  2549.2    8 E2                      6.64E-4                  
+124TES G KC=0.000467 7$LC=5.64E-5 8$MC=1.118E-5 16$NC+=0.0001293 19             
+124TES G NC=2.21E-6 3$OC=2.41E-7 4$IPC=0.0001269 18                             
+124TE cG M         from |g(|q) in (n,n'|g) and J|p's of relevant levels         
+124TE  L 2273.97   15                                                           
+124TEX L XREF=LM(2264)                                                          
+124TE  L 2282.43   17                                                           
+124TEX L XREF=KM(2283)                                                          
+124TE  L 2293.711   33-                0.17 PS    6                             
+124TEX L XREF=ACDEGJ(2294)KL(2294)M(2300)N(2292)O(2291)P(2300)Q(2300)           
+124TE cL J         L=3 in (|a,|a'), (p,p') and |g|g(|q) in {+124}Sb |b{+-}      
+124TE2cL decay (60.20 d)                                                        
+124TE cL T         from Coul. ex.: others 100 ps {I5} from |b-|g(centroid shift)
+124TE2cL (1971BeWP)                                                             
+124TE2 L BE3=0.09 3                                                             
+124TE cL  $ B(E3) from T{-1/2}. B(E3)=0.12 {I4} (2002Ki06, evaluation).         
+124TE  G 254.39    9 0.034   2 E1                      0.01465                  
+124TE2 G FL=2039.293                                                            
+124TEB G BE1W=3.0E-5 11                                                         
+124TES G KC=0.01270 18$LC=0.001575 23$MC=0.000312 5$NC+=6.78E-5 10              
+124TES G NC=6.13E-5 9$OC=6.51E-6 10                                             
+124TE cG M         From |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)             
+124TE cG FL        E1 |g from 3-                                                
+124TE  G 335.80    9 0.160   9 E1                      0.00706                  
+124TEB G BE1W=6.2E-5 23                                                         
+124TES G KC=0.00612 9$LC=0.000754 11$MC=0.0001495 21$NC+=3.26E-5 5              
+124TES G NC=2.94E-5 5$OC=3.15E-6 5                                              
+124TE cG M         From |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)             
+124TE  G 968.195   4 3.963   17E1(+M2)   -0.02   2     6.53E-411                
+124TEB G BE1W=(6.4E-5 23)$BM2W=(0.13 +26-13)                                    
+124TES G KC=0.000569 9$LC=6.78E-5 11$MC=1.343E-5 22$NC+=2.94E-6 5               
+124TES G NC=2.65E-6 5$OC=2.89E-7 5                                              
+124TE cG E         from 2000He14.                                               
+124TE cG M,MR       From |g|g(|q) and |a(K)exp in {+124}Sb |b{+-}               
+124TE2cG decay (60.20 d)                                                        
+124TE  G 1045.125  4 3.87    4 E1(+M2)   -0.03   2     5.67E-410                
+124TEB G BE1W=(5.0E-5 18)$BM2W=(0.19 +26-19)                                    
+124TES G KC=0.000494 9$LC=5.87E-5 11$MC=1.163E-5 21$NC+=2.55E-6 5               
+124TES G NC=2.30E-6 4$OC=2.51E-7 5                                              
+124TE cG E         from 2000He14.                                               
+124TE cG M,MR       From |g|g(|q) and |a(K)exp in {+124}Sb |b{+-}               
+124TE2cG decay (60.20 d)                                                        
+124TE  G 1690.971  4 100.0   3 E1+M2     +0.010  +3-4  6.15E-4                  
+124TEB G BE1W=0.00030 11$BM2W=0.05 4                                            
+124TES G KC=0.000213 3$LC=2.50E-5 4$MC=4.94E-6 7$NC+=0.000372 6                 
+124TES G NC=9.78E-7 14$OC=1.071E-7 15$IPC=0.000371 6                            
+124TE cG E         from 2000He14.                                               
+124TE cG M         From |g|g(|q) and |a(K)exp in {+124}Sb |b{+-}                
+124TE2cG decay (60.20 d)                                                        
+124TE cG MR        from averaged A{-2} and A{-4} values of |g|g(|q)             
+124TE2cG in {+124}Sb |b{+-} decay (60.20 d)                                     
+124TE  G 2293.72   7 0.070   3 [E3]                    7.45E-4                  
+124TEB G BE3W=1.5E+2 6                                                          
+124TES G KC=0.000412 6$LC=5.03E-5 7$MC=1.000E-5 14$NC+=0.000272 4               
+124TES G NC=1.98E-6 3$OC=2.16E-7 3$IPC=0.000270 4                               
+124TE  L 2308.42    90+                0.25 NS    LT                            
+124TEX L XREF=CEFI(2312)J(2309)K(2307)LM(2311)                                  
+124TE cL J         E0 transitions to 0+ states                                  
+124TE cL T         from centroid shift in (n,|g) E=thermal (1988Pe06)           
+124TE  G 426.2                 E0                               0.036     13    
+124TE cG M         From ce in (n,|g) E=thermal                                  
+124TE cG  $ q{-K}{+2}(E0/E2)=0.8 {I4}, X(E0/E2)=2.1 {I10},                      
+124TE2cG |r{+2}(E0)>0.3 (2005Ki02, evaluation)                                  
+124TE  G 652.2                 E0                               0.007     LT    
+124TE cG M         From ce in (n,|g) E=thermal                                  
+124TE2 G FL=1657.283                                                            
+124TE cG  $ q{-K}{+2}(E0/E2)<0.2, X(E0/E2)<0.4, (2005Ki02, evaluation)          
+124TE  G 1705.65   9 100.0   11E2                      6.50E-4                  
+124TES G KC=0.000424 6$LC=5.11E-5 8$MC=1.013E-5 15$NC+=0.0001643 23             
+124TES G NC=2.01E-6 3$OC=2.19E-7 3$IPC=0.0001621 23                             
+124TE  G 2309.5                E0                               0.007     LT    
+124TE cG M         From ce in (n,|g) E=thermal                                  
+124TE cG  $ q{-K}{+2}(E0/E2)<0.2, X(E0/E2)<0.07 (2005Ki02, evaluation)          
+124TE  L 2321.719  20(6+)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); (Q) |g to 4+                            
+124TE  G 1073.133  19100       (Q)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2322.95    32+                                                         
+124TEX L XREF=ACDEFGI(*)JKLN(*2329)                                             
+124TE cL J         |g|g(|q) in (n,|g) E=thermal; M1(+E2) |g to 2+               
+124TE  G 997.26    9 5.0     13                                                 
+124TE  G 1720.24   3 100.0   8 M1(+E2)   +0.18   20    7.18E-413                
+124TES G KC=0.000484 10$LC=5.79E-5 11$MC=1.148E-5 22$NC+=0.0001648 24           
+124TES G NC=2.28E-6 5$OC=2.50E-7 5$IPC=0.0001622 24                             
+124TE cG M,MR      from |g|g(|q) and |a(K)exp in (n,|g) E=thermal               
+124TE  G 2323.04   133.1     15                                                 
+124TE  L 2326.6    5                                                            
+124TEX L XREF=I(*)JN(*2329)O(*2330)                                             
+124TE  L 2335.030  105-                                                         
+124TEX L XREF=ACDEGJKLN(*2329)O(*2330)                                          
+124TE cL J         From |g(|q) in (|a,2n|g) and E1 |g to 4+                     
+124TE  G 377.17    3 3.8     14                                                 
+124TE  G 1086.450  11100.0   8 E1                      5.24E-4                  
+124TES G KC=0.000457 7$LC=5.43E-5 8$MC=1.074E-5 15$NC+=2.36E-6 4                
+124TES G NC=2.13E-6 3$OC=2.32E-7 4                                              
+124TE cG M         from |g(|q) in (|a,2n|g) and linear polarization in (n,n'|g) 
+124TE  L 2349.465  176+                                                         
+124TEX L XREF=BDEIJK                                                            
+124TE cL J         log|{Ift}=4.9 from 5+; |g(|q) in (|a,2n|g)                   
+124TE  G 602.70    20100     26                                                 
+124TE cG           Not reported in {+124}Sb |b{+-} decay and (n,|g) E=thermal   
+124TE  G 1100.84   5 77.9    13E2                      1.18E-3                  
+124TE2 G FL=1248.5811                                                           
+124TES G KC=0.001018 15$LC=0.0001264 18$MC=2.51E-5 4$NC+=5.96E-6 9              
+124TES G NC=4.96E-6 7$OC=5.36E-7 8$IPC=4.61E-7 7                                
+124TE cG M         from |g(|q) in (|a,2n|g) and J|p's of relevant levels        
+124TE  L 2454.069  212+                                                         
+124TEX L XREF=ACDEFGIJKLM(2444)                                                 
+124TE cL J         L=2 in (d,p) from 1/2+; |g(|q) in (n,n'|g)                   
+124TE  G 571.0     10 2.3    11                                                 
+124TE  G 1128.57   5 18.5    9                                                  
+124TE  G 1205.44   3 10.4    13                                                 
+124TE  G 1851.38   4 100.0   12M1+E2     +0.039  1     0.000673                 
+124TES G KC=0.00039 3$LC=4.7E-5 4$MC=9.3E-6 7$NC+=0.000227 5                    
+124TES G NC=1.83E-6 13$OC=2.01E-7 15$IPC=0.000225 5                             
+124TE cG M         from |g(|q) in (n,n'|g) and J|p's of relevant levels         
+124TE cG MR        from |g(|q) in (|a,2n|g).                                    
+124TE2cG others: -0.02 {I4} or +2.1 {I3} (1989GoZK)                             
+124TE  G 2454.12   8 23      3 E2                      7.68E-4                  
+124TES G KC=0.000219 3$LC=2.59E-5 4$MC=5.13E-6 8$NC+=0.000518 8                 
+124TES G NC=1.017E-6 15$OC=1.115E-7 16$IPC=0.000517 8                           
+124TE cG M         from |g(|q) in (n,n'|g) and J|p's of relevant levels         
+124TE  L 2483.362  13 4+                                                        
+124TEX L XREF=ACDEFGK                                                           
+124TE cL J         |g(|q) in (n,n'|g) and M1+E2 |g's to 4+                      
+124TE  G 148.21    102.1     4                                                  
+124TE  G 189.61    193.4     6                                                  
+124TE  G 443.99    10 14     10                                             @   
+124TEF G FL=2039.421                                                            
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE  G 443.99    10 100.0  9 M1+E2                   0.0120 6             @   
+124TEF G FL=2039.293                                                            
+124TES G KC=0.0103 7$LC=0.00138 3$MC=0.000276 7$NC+=6.00E-5 11                  
+124TES G NC=5.43E-5 11$OC=5.75E-6 14                                            
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE cG M         From |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)             
+124TE  G 525.441   1372      3 M1+E2                   0.0077 7                 
+124TES G KC=0.0066 6$LC=0.00087 3$MC=0.000173 6$NC+=3.77E-5 15                  
+124TES G NC=3.41E-5 13$OC=3.64E-6 22                                            
+124TE cG M         from |g(|q) in (n,n'|g) and |a(K)exp in {+124}Sb |b{+-}      
+124TE2cG decay (60.20 d)                                                        
+124TE cG           |d=-0.16 {I6} or +13 {I2} (1989GoZK)                         
+124TE  G 1234.2    5  45.5   23                                                 
+124TE cG E,RI      From (n,|g) E=thermal. Not observed in                       
+124TE2cG {+124}Sb |b{+-} decay (60.20 d)                                        
+124TE  L     2491.83                                                            
+124TEX L XREF=JK                                                                
+124TE  L 2496.9    3                                                            
+124TEX L XREF=JK                                                                
+124TE  L 2511.96    54                                                          
+124TEX L XREF=ADEIJKLM(*2521)N(*2520)O                                          
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1263.37   5 100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2521.33    32+                                                         
+124TEX L XREF=ACEFGJLM(*2521)N(*2520)O(*2525)                                   
+124TE cL J         |g(|q) in (n,n'|g) and M1+E2 |g to 2+                        
+124TE  G 1195.66   124.06    20                                                 
+124TE  G 1918.60   3 100.0   8 M1(+E2)   -0.02   3     6.98E-4                  
+124TES G KC=0.000387 6$LC=4.62E-5 7$MC=9.16E-6 13$NC+=0.000256 4                
+124TES G NC=1.82E-6 3$OC=2.00E-7 3$IPC=0.000254 4                               
+124TE cG M         from |a(K)exp in (n,|g) and |g(|q) in (n,n'|g)               
+124TE cG MR        from 1989GoZK                                                
+124TE  L 2529.60   101+                                                         
+124TEX L XREF=EFGI(*2540)JLO(*2525)                                             
+124TE cL J         L=0 in (d,p) from 1/2+ and |g(|q) in (n,n'|g);               
+124TE2cL 1989GoZK gave 2 or 3 to the spin from |g(|q) but the A{-2} and A{-4}   
+124TE3cL values are consistent with |DJ=0 or 1 to 2+ state.                     
+124TE  G 1204.1    3  9      3                                                  
+124TE  G 1926.86   10100.0   20M1(+E2)   -0.14   10    6.97E-4                  
+124TES G KC=0.000382 6$LC=4.57E-5 7$MC=9.05E-6 14$NC+=0.000260 4                
+124TES G NC=1.80E-6 3$OC=1.97E-7 3$IPC=0.000258 4                               
+124TE cG M         from |g(|q) and J|p's of relevant levels                     
+124TE cG MR        from 1989GoZK                                                
+124TE  L 2534.31   6 (3+,4+,5+)                                                 
+124TEX L XREF=I(*2540)K                                                         
+124TE cL J         L=(4) in (p,p')                                              
+124TE  L    2549.97 5(4)                                                        
+124TEX L XREF=ADI(*2540)JKNO                                                    
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1301.38   5 100                                                        
+124TE  L 2578.9    7                                                            
+124TEX L XREF=KLM(2571)                                                         
+124TE  L 2589.61    9(6)                                                        
+124TEX L XREF=DM(*2593)                                                         
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 842.65    9 100                                                        
+124TE  L 2594.46    55                                                          
+124TEX L XREF=DEM(*2593)                                                        
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 368.2     5 5       4                                                  
+124TE  G 636.58    5 21.8    14(D)                                              
+124TE cG RI        from (|a,2n|g)                                               
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 847.43    1621.0    11                                                 
+124TE cG RI        from (|a,2n|g)                                               
+124TE  G 1345.939  15100.0   25D                                               ?
+124TE cG           Observed in (|a,2n|g) only: transition is questionable.      
+124TE2cG (n,|g) E=thermal reports 1346.05 keV |g as unplaced |g.                
+124TE cG E,RI      from (|a,2n|g)                                               
+124TE cG M,MR       from |g(|q) in (|a,2n|g)                                    
+124TE  L 2600.95    51+                                                         
+124TEX L XREF=EFGJKLM(*2593)                                                    
+124TE cL J         L=2 in (d,p) from 1/2+; |g(|q) in (n,n'|g)                   
+124TE  G 943.3     3  4.4    3                                                  
+124TE  G 1275.35   11 16.5   4                                                  
+124TE  G 1998.15   6 100.0   10                                                 
+124TE  G 2601.16   1050.4    5                                                  
+124TE  L 2618.63    7(3)                                                        
+124TEX L XREF=ADEFGIK                                                           
+124TE cL J         |g(|q) in (n,n'|g)                                           
+124TE  G 527.7     5  5.6    4                                                  
+124TE  G 1370.08   13100     4 D+Q                                              
+124TE cG M         from |g(|q) in (n,n'|g)                                      
+124TE cG           |d=+0.32 {I6} or +9 {I+13-2} (1989GoZK)                      
+124TE  G 2015.85   8 35.2    11D+Q       -0.29   12                             
+124TE cG M         from |g(|q) in (n,n'|g)                                      
+124TE cG MR        from 1989GoZK                                                
+124TE  L 2629.14   14                                                           
+124TEX L XREF=K                                                                 
+124TE  L 2641.15    72+                                                         
+124TEX L XREF=CEFGIJ(*2644.4)L                                                  
+124TE cL J         E2 |g to 0+ and 4+                                           
+124TE  G 984.4     5 4.0     9                                                  
+124TE  G 1315.66   108.1     8                                                  
+124TE  G 1392.58   164.4     4                                                  
+124TE  G 2038.33   11100.0   14E2                      6.67E-4                  
+124TES G KC=0.000305 5$LC=3.64E-5 5$MC=7.21E-6 10$NC+=0.000318 5                
+124TES G NC=1.428E-6 20$OC=1.563E-7 22$IPC=0.000317 5                           
+124TE  L 2647.20   10                                                           
+124TEX L XREF=J(*2644.4)KM(*2653)                                               
+124TE  L 2655.88   25                                                           
+124TEX L XREF=JM(*2653)                                                         
+124TE  L 2664.373  156                                                          
+124TEX L XREF=DJ(*2665)K(*2664)LM(*2670)N(*2670)                                
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 329.336   12100       D+Q       -0.19   2                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE cG MR        from 1998Wa18                                                
+124TE  L 2664.43    38+                                                         
+124TEX L XREF=DJ(*2665)K(*2664)LM(*2670)N(*2670)                                
+124TE cL J         |g(|q) in (|a,2n|g); E2 |g to 6+                             
+124TE  G 917.44    5 100       E2                      1.75E-3                  
+124TES G KC=0.001515 22$LC=0.000192 3$MC=3.82E-5 6$NC+=8.34E-6 12               
+124TES G NC=7.53E-6 11$OC=8.09E-7 12                                            
+124TE cG M         from |g(|q) and |a(K)exp in (|a,2n|g)                        
+124TE  L 2673.771  137(-)                                                       
+124TEX L XREF=DGJKM(*2670)N(*2670)                                              
+124TE cL J         |g(|q) in (|a,2n|g); systematics                             
+124TE  G 338.754   112.86    11                                                 
+124TE  G 926.78    4 100.0   13D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2681.46    42+                                                         
+124TEX L XREF=ACEFGIJKL                                                         
+124TE cL J         |g(|q) in (n,n'|g); M1+E2 |g to 2+                           
+124TE  G 641.9     3  3.3    26                                             &   
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TEF G FL=2039.421                                                            
+124TE  G 641.9     3  3.3    26                                             &   
+124TEF G FL=2039.293                                                            
+124TE cG E,RI      from (n,|g)                                                  
+124TE  G 2078.71   4 100.0   8 M1+E2     -0.14   3     7.07E-4                  
+124TES G KC=0.000327 5$LC=3.90E-5 6$MC=7.73E-6 11$NC+=0.000333 5                
+124TES G NC=1.533E-6 22$OC=1.685E-7 24$IPC=0.000331 5                           
+124TE cG M         from |a(K)exp in {+124}I |e decay                            
+124TE cG MR        from 1989GoZK                                                
+124TE  G 2681.53   1011.4    13                                                 
+124TE  L 2693.679   53-                                                         
+124TEX L XREF=ACDEGIJKLOP                                                       
+124TE cL J         |g|g(|q) in {+124}Sb |b{+-} decay (60.20 d); E2 |g to 3-     
+124TE  G 209.86    7 0.10    2                                                  
+124TE  G 371.00    110.70    9                                                  
+124TE  G 400.30    6 2.53    12E2                      0.01565                  
+124TES G KC=0.01322 19$LC=0.00195 3$MC=0.000394 6$NC+=8.45E-5 12                
+124TES G NC=7.67E-5 11$OC=7.80E-6 11                                            
+124TE cG M         from |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)             
+124TE  G 469.06    7 0.91    5 E1                      0.00309                  
+124TES G KC=0.00269 4$LC=0.000327 5$MC=6.49E-5 9$NC+=1.417E-5 20                
+124TES G NC=1.279E-5 18$OC=1.379E-6 20                                          
+124TE cG M         from |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)             
+124TE  G 735.9     7 1.30    12E1                      1.13E-3              @   
+124TES G KC=0.000982 14$LC=0.0001180 17$MC=2.34E-5 4$NC+=5.12E-6 8              
+124TES G NC=4.62E-6 7$OC=5.01E-7 7                                              
+124TE cG M         from |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)             
+124TE  G 1368.157  5 47.7    4 E1(+M2)   -0.02   1     4.78E-4                  
+124TES G KC=0.000303 5$LC=3.58E-5 6$MC=7.09E-6 10$NC+=0.0001314 19              
+124TES G NC=1.403E-6 20$OC=1.534E-7 22$IPC=0.0001298 19                         
+124TE cG M         from |g|g(|q) and |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)
+124TE cG E         from 2000He14.                                               
+124TE  G 1445.08   4 6.02    7 E1(+M2)   +0.10   9     0.000524                 
+124TES G KC=0.00029 4$LC=3.4E-5 4$MC=6.7E-6 8$NC+=0.000186 5                    
+124TES G NC=1.34E-6 16$OC=1.46E-7 18$IPC=0.000184 5                             
+124TE cG M         from |g|g(|q) in {+124}Sb |b{+-} decay (60.20 d) and J|p's of
+124TE2cG relevant levels                                                        
+124TE  G 2090.930  7 100.0   5 E1(+M2)   +0.03   2     8.38E-4                  
+124TES G KC=0.0001522 23$LC=1.78E-5 3$MC=3.52E-6 6$NC+=0.000664 10              
+124TES G NC=6.97E-7 11$OC=7.65E-8 12$IPC=0.000664 10                            
+124TE cG E         from 2000He14                                                
+124TE cG M,MR      from |g|g(|q) and |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)
+124TE cG RI        intensity ratios to 1368 keV |g are inconsistent between     
+124TE2cG decay data and (n,|g) E=thermal data.                                  
+124TE  G 2693.57   6 0.06    1                                                  
+124TE  L 2701.61    32-                                                         
+124TEX L XREF=ACDEGJKM                                                          
+124TE cL J         E1(+M2) |g to 2+; log| {Ift}=8.115 from 3-; log| {Ift}=7.05  
+124TE2cL from 2-; nuclear orientation                                           
+124TE  G 662.23    133.3     3                                                  
+124TE2 G FLAG=A                                                                 
+124TEF G FL=2039.293                                                            
+124TE  G 743.2     3 0.95    25                                                ?
+124TE cG           Reported in {+124}I |e decay;                                
+124TE2cG not observed in {+124}Sb |b{+-} decay (60.20 d), (n,n'|g)  and         
+124TE3cG (n,|g) E=thermal                                                       
+124TE  G 1376.10   3 100.0   6 E1(+M2)   -0.01   3     4.79E-4                  
+124TES G KC=0.000300 5$LC=3.54E-5 6$MC=7.01E-6 12$NC+=0.0001370 20              
+124TES G NC=1.387E-6 23$OC=1.517E-7 25$IPC=0.0001355 19                         
+124TE cG M,MR      from |g|g(|q) and |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)
+124TE  G 2098.91   108.9     3                                                  
+124TE cG           (n,|g) E=thermal places this |g from 3756-keV level          
+124TE  L 2710.64    44+                                                         
+124TEX L XREF=ADEGJL                                                            
+124TE cL J         |g(|q) in (|a,2n|g); |g to 2+                                
+124TE  G 619.07    14 3.47   24                                                 
+124TE  G 962.78    24 168    13Q                                               ?
+124TE cG           Reported in (|a,2n|g) only; intensity too large not to       
+124TE2cG be observed in other data sets.                                        
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 1385.11   4 100     4                                                  
+124TE  G 1462.0    3  13.8   21                                                 
+124TE  G 2107.92   1369.4    20                                                 
+124TE cG RI        intensity ratios to 1385 keV |g are inconsistent between     
+124TE2cG (n,|g) E=thermal and other data.                                       
+124TE  L    2713.7712(5,7)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 966.81    12100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2721.7    6 3+,4+                                                      
+124TEX L XREF=IO(*2727)M(*2727)N(*2730)                                         
+124TE cL J         L=0+2 in ({+3}He,d) from 7/2+                                
+124TE  L 2730.6     5 (0+,1+)                                                   
+124TEX L XREF=JK(*2734)M(*2727)N(*2730)O(*2727)                                 
+124TE cL J         L=(0) in (d,p) from 1/2+                                     
+124TE  L 2733.9     3 2+ TO 6+                                                  
+124TEX L XREF=EK(*2734)M(*2727)N(*2730)O(*2727)                                 
+124TE cL J         |g to 4+                                                     
+124TE  G 1485.3    3  100                                                       
+124TE  L 2737.90    56(+)                                                       
+124TEX L XREF=DJLM(*2727)N(*2730)                                               
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 4+                              
+124TE  G 402.86    7 7.7     7 D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 990.96    7 14.3    17D+Q       -0.73   7                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 1489.0    3 100.0   22Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2747.04    41(-)              27 FS     3                              
+124TEX L XREF=CEFGHJKM(*2758)                                                   
+124TE cL J         log| {Ift}=7.49 from 2-; |g(|q) in (n,n'|g);                 
+124TE2cL probable E1 |g from capture state suggests negative parity             
+124TE cL T         from (|g,|g')                                                
+124TE  G 564.3     5 0.67    4                                                  
+124TE  G 2144.23   6 20.8    4                                                  
+124TE  G 2746.92   7 100.0   9                                                  
+124TE  L 2766.93    9 1+ TO 4+                                                  
+124TEX L XREF=EKLM(*2758)                                                       
+124TE cL J         |g's to 2+ and 3+                                            
+124TE  G 675.61    18 7.7    8                                                  
+124TE  G 727.0     15 8      6                                              &   
+124TEF G FL=2039.421                                                            
+124TE  G 727.0     15 8      6                                              &   
+124TEF G FL=2039.293                                                            
+124TE  G 2164.07   10 100.0  12                                                 
+124TE  L 2773.89    36(+)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g) ; Q |g to 4+                             
+124TE  G 1026.922  25100.0   3 D                                             C  
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 1526.0    6 64.6    22Q                                             C  
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2774.968  253-,4-                                                      
+124TEX L XREF=AEGIKLM                                                           
+124TE cL J         log| {Ift}=7.491 from 3-; E1 |g to 4+                        
+124TE  G 291.4     3 2.13    19                                                 
+124TE  G 481.1     4 5.8     5                                                  
+124TE  G 735.74    3 13.6    14                                             @   
+124TE2 G FLAG=A                                                                 
+124TEF G FL=2039.293                                                            
+124TE  G 816.85    1116.3    20                                                 
+124TE  G 1526.24   5 100.0   10E1                      5.35E-4                  
+124TES G KC=0.000252 4$LC=2.96E-5 5$MC=5.86E-6 9$NC+=0.000248 4                 
+124TES G NC=1.160E-6 17$OC=1.270E-7 18$IPC=0.000247 4                           
+124TE cG M         from |a(K)exp in {+124}Sb |b{+-} decay (60.20 d)             
+124TE  G 2172.1    5 0.50    10                                                 
+124TE  L 2783.21    71+,2+                                                      
+124TEX L XREF=EHJKLM(*2796)                                                     
+124TE cL J         L=2 in (d,p) from 1/2+; |g to g.s.; |g-excitation from 0+    
+124TE cL           T{-1/2}=0.23 ps {I7} if J=1, T{-1/2}=0.21 ps {I7} if J=2     
+124TExcL from (|g,|g')                                                          
+124TE  G 629.70    22 2.5    13                                                 
+124TE  G 1125.81   12 5.93   25                                                 
+124TE  G 2783.26   10100.0   20                                                 
+124TE  L 2790.41    9 0+ TO 4+                                                  
+124TEX L XREF=EM(*2796)                                                         
+124TE cL J         |g's to 2+                                                   
+124TE  G 751.5     4  9      6                                                  
+124TEF G FL=2039.421                                                            
+124TE  G 1464.66   11 100.0  18                                                 
+124TE  G 2188.00   15 41     4                                                  
+124TE  L 2808.66    82+                                                         
+124TEX L XREF=AEFGIJKM(*2796)                                                   
+124TE cL J         |g(|q) in (n,n'|g); |g to g.s.                               
+124TE  G 717.3     5  10.2   25                                                 
+124TE  G 926.0     5  5.1    22                                                 
+124TE  G 2205.88   1056      7                                                  
+124TE  G 2808.63   12100.0   20E2                      8.78E-4                  
+124TES G KC=0.0001729 25$LC=2.04E-5 3$MC=4.04E-6 6$NC+=0.000681 10              
+124TES G NC=8.01E-7 12$OC=8.79E-8 13$IPC=0.000680 10                            
+124TE cG M         from |g(|q) in (n,n'|g) and J|p's of relevant levels         
+124TE  L 2814.53    82+ TO 5+                                                   
+124TEX L XREF=AEK(2816)                                                         
+124TE cL J         |g's to 3+ and 4+                                            
+124TE  G 775.25    1177.5    22                                                 
+124TE2 G FLAG=A                                                                 
+124TEF G FL=2039.293                                                            
+124TE  G 1565.93   11100     3                                                  
+124TE  L 2817.48   112+                                                         
+124TEX L XREF=EFGJK(2820)L                                                      
+124TE cL J         |g(|q) in (n,n'|g); |g to 0+                                 
+124TE  G 934.79    14 4.6    3                                                  
+124TE  G 2214.43   16100.0   10                                                 
+124TE  L 2834.898  203-                                                         
+124TEX L XREF=CDEGKM(2834)                                                      
+124TE cL J         |g(|q) in (n,n'|g); E1 |g to 2+                              
+124TE  G 351.47    130.70    10                                                 
+124TE  G 541.21    5 6.9     7                                                  
+124TE  G 609.92    8 4.74    15                                                 
+124TE  G 743.18    110.39    18                                                 
+124TE  G 795.62    7 1.2     9                                              &   
+124TEF G FL=2039.421                                                            
+124TE  G 795.62    7 1.2     9                                              &   
+124TEF G FL=2039.293                                                            
+124TE  G 876.97    9 0.72    3                                                  
+124TE  G 1509.37   3 100.0   8 E1                      5.28E-4                  
+124TES G KC=0.000256 4$LC=3.02E-5 5$MC=5.97E-6 9$NC+=0.000235 4                 
+124TES G NC=1.182E-6 17$OC=1.294E-7 19$IPC=0.000234 4                           
+124TE cG M         from |a(K)exp in (n,|g) E=thermal                            
+124TE  G 1586.1    3 0.18    4                                                  
+124TE  G 2232.06   7 17.1    3 E1(+M2)   +0.03   8     9.17E-4                  
+124TES G KC=0.000138 5$LC=1.61E-5 7$MC=3.18E-6 13$NC+=0.000760 13               
+124TES G NC=6.30E-7 25$OC=6.9E-8 3$IPC=0.000759 13                              
+124TE cG M         from |g(|q) in (n,n'|g) and J|p's of relevant levels         
+124TE cG MR        from 1989GoZK                                                
+124TE  L 2839.039  176                                                          
+124TEX L XREF=DLP(*2840)                                                        
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 504.007   15100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2841.7    3 (0-,1-,2-)                                                 
+124TEX L XREF=JKP(*2840)                                                        
+124TE cL J         L=(1) in (d,p) from 1/2+                                     
+124TE  L 2844.498  22(5)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 361.135   18100     4 D                                            *   
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 1595.94   1970      3                                                  
+124TE  L 2853.2    6                                                            
+124TEX L XREF=JM(*2850)                                                         
+124TE  L 2858.90   152,3                                                        
+124TEX L XREF=EFGJL                                                             
+124TE cL J         |g(|q) in (n,n'|g)                                           
+124TE  G 819.5     3  1.5    4                                                  
+124TEF G FL=2039.293                                                            
+124TE  G 2256.19   17100.0   21D+Q       -0.05   4                              
+124TE cG M         from |g(|q) in (n,n'|g)                                      
+124TE cG MR        from 1989GoZK                                                
+124TE  L 2865.262  183-                                                         
+124TEX L XREF=AEDK                                                              
+124TE cL J         |g's to 3- and 5-; Q |g to 5-; |g(|q) in (|a,2n|g) suggests  
+124TE2cL 7, but conflicts |g transition to 3-                                   
+124TE  G 530.231   15100.0   18Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 571.41    22 45     3                                                  
+124TE  L    2872.88 53+,4+,5+                                                   
+124TEX L XREF=DIN(*2870)                                                        
+124TE cL J         |g(|q) in (|a,2n|g); L=2+4 in ({+3}He,d) from 7/2+           
+124TE  G 1624.29   5 100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2873.53    67                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1126.57   5 100       D+Q                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE cG MR        -0.35 {I3} or 0.56 {I5}; Other: -1.1 {I+5-9}(1991Le16)       
+124TE  L 2880.33    65(+)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1133.37   5 100       D+Q       -0.47   3                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  L     2884.2101,2+                                                       
+124TEX L XREF=HI(*2884.9)                                                       
+124TE cL J         |g-excitation from 0+                                        
+124TE cL           T{-1/2}=0.25 ps {I9} if J=1, T{-1/2}=0.23 ps {I8} if J=2     
+124TE2cL from (|g,|g')                                                          
+124TE  G 2884.2      100                                                        
+124TE cG E         from (|g,|g),(|g,|g')                                        
+124TE  L 2886.05    33-                                                         
+124TEX L XREF=ACEGI(*2884.9)JKM(*2894)                                          
+124TE cL J         |g(|q) in (n,n'|g); E1+M2 |g to 2+                           
+124TE  G 402.80    202.7     6                                                  
+124TE  G 550.3     4 2.8     4                                                  
+124TE  G 592.34    4 21.6    5                                                  
+124TE  G 846.8     3 1.1     3                                                  
+124TE2 G FLAG=A                                                                 
+124TEF G FL=2039.293                                                            
+124TE  G 928.0     4 0.42    18                                                 
+124TE  G 1560.46   1331.6    5 E1(+M2)   -0.2    2     0.0005910                
+124TES G KC=0.00028 11$LC=3.4E-5 13$MC=7.E-6 3$NC+=0.000265 23                  
+124TES G NC=1.3E-6 6$OC=1.4E-7 6$IPC=0.000263 24                                
+124TE cG M         from |g(|q) in (n,n'|g) and J|p's of relevant levels         
+124TE cG MR        from 1989GoZK                                                
+124TE  G 1637.43   6 36.8    22                                                 
+124TE  G 2283.19   9 100.0   14E1+M2     +0.06   2     9.45E-4                  
+124TES G KC=0.0001342 22$LC=1.57E-5 3$MC=3.10E-6 6$NC+=0.000792 12              
+124TES G NC=6.14E-7 11$OC=6.74E-8 12$IPC=0.000791 12                            
+124TE cG M         from |g(|q) in (n,n'|g) and |a(K)exp in {+124}I |e decay     
+124TE cG MR        from 1989GoZK                                                
+124TE  L     2897.3101,2+                                                       
+124TEX L XREF=HM(*2894)                                                         
+124TE cL J         |g-excitation from 0+                                        
+124TE cL           T{-1/2}=0.25 ps {I9} if J=1, T{-1/2}=0.22 ps {I8} if J=2     
+124TE2cL from (|g,|g')                                                          
+124TE  G 2897.3      100                                                        
+124TE cG E         from (|g,|g),(|g,|g')                                        
+124TE  L    2902.71 3(5)                                                        
+124TEX L XREF=DJKL                                                              
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1654.12   3 100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2911.180  147(-)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 5(-)                            
+124TE  G 561.716   11100     3 D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 576.147   1599.4    19Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 1164.25   5 38.0    13D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2920.69    4(3,4)                                                      
+124TEX L XREF=DEK                                                               
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 585.71    18 50     6                                                  
+124TE  G 626.87    12 100    6                                                  
+124TE  G 1672.11   4 100     60(D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2933.77    66                                                          
+124TEX L XREF=DEFKM(*2938)                                                      
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 598.73    6 33      3 D                                                
+124TE cG RI        from (|a,2n|g)                                               
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 974.7     4 6       2                                                  
+124TE cG RI        from (|a,2n|g) and intensity ratio in (n,|g)                 
+124TE  G 1186.91   11100     4 D                                                
+124TE cG RI        from (|a,2n|g)                                               
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2939.75   9                                                            
+124TEX L XREF=J(*2942)KM(*2938)                                                 
+124TE  L 2945.59    6 2+                                                        
+124TEX L XREF=EIJ(*2942)K                                                       
+124TE cL J         |g's to 0+ and 4+                                            
+124TE  G 491.58    11 54.6   16                                                 
+124TE  G 792.8     4  36.4   18                                                 
+124TE  G 853.99    13 55     3                                                  
+124TE  G 906.11    12 64     19                                             @   
+124TEF G FL=2039.421                                                            
+124TE  G 906.11    12 18     12                                             @   
+124TEF G FL=2039.293                                                            
+124TE  G 1063.06   16 27     4                                                  
+124TE  G 1697.1    12 27     15                                                 
+124TE  G 2945.44   14 100    36                                                 
+124TE  L 2947.72   120+ TO 3+                                                   
+124TEX L XREF=EFLN(*2950)                                                       
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 2344.97   12 100                                                       
+124TE  L 2954.249  166                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 280.49    3 15.0    16D+Q       +0.13   3                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 470.863   2261      8                                                  
+124TE  G 619.230   20100     4 D+Q       -0.15   5                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 1207.7    4 67      3                                                  
+124TE  L 2957.55    7 3-,4+                                                     
+124TEX L XREF=ELM(*2959)N(*2950)                                                
+124TE cL J          |g's to 2+ and 5-                                           
+124TE  G 622.32    16 5.6    6                                                  
+124TE  G 664.13    22 13.9   4                                                  
+124TE  G 999.70    16 11.1   6                                                  
+124TE  G 1708.87   10 100.0  19                                                 
+124TE  G 2355.01   16 22     3                                                  
+124TE  L 2963.1     7 0+ TO 3+                                                  
+124TEX L XREF=EJKM(*2959)N(*2950)                                               
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 2360.3    7  100                                                       
+124TE  L 2965.18    3(7-)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); (Q) to 5(-)                             
+124TE  G 615.66    4 100     5 (D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 630.18    3 72.7    17(Q)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2966.98    6(5,6)                                                      
+124TEX L XREF=DI(2968)                                                          
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1220.02   5 100       (D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 2973.256  24(5,6)                                                      
+124TEX L XREF=DK(*2973.5)                                                       
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 134.19    4 11.4    20(D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 299.52    3 100     4                                                  
+124TE  G 1226.22   5 81      6                                                  
+124TE  L 2975.48   11 1                65 FS     9                              
+124TEX L XREF=EFGHJK(*2973.5)N(*2980)                                           
+124TE cL J         |g(|q) in (n,n'|g)                                           
+124TE cL T         in the case of J=2, 60 fs {I8}                               
+124TE  G 821.7     4  2.6    7                                                  
+124TE  G 1317.8    8  5.2    14                                                 
+124TE  G 1650.4    3  3.9    7                                                  
+124TE  G 2372.71   16 26.0   23                                                 
+124TE  G 2975.21   22 100    9                                                  
+124TE  L 2982.71    9 2+,3+                                                     
+124TEX L XREF=EN(*2980)                                                         
+124TE cL J         |g's to 2+ and 4+ and |g from 0+,1+ capture state.           
+124TE  G 891.1     5  16.0   10                                                 
+124TE  G 1024.2    4  8      2                                                  
+124TE  G 1657.11   10 100    2                                                  
+124TE  G 1734.3    3  40     4                                                  
+124TE  G 2380.33   20 100    12                                                 
+124TE  L    2986.7019(5,6)                                                      
+124TEX L XREF=DLN(*2980)                                                        
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1738.11   19100                                                        
+124TE  L 2988.24    51,2+                                                       
+124TEX L XREF=CEFGJKL(2991.3)M                                                  
+124TE cL J         log| {Ift}=8.08 from 2-; |g to g.s.                          
+124TE  G 694.6     5  0.9    5                                                  
+124TE  G 1105.31   17 3.57   21                                                 
+124TE  G 1330.4    5  8.9    15                                                 
+124TE  G 1662.94   15 9.8    5                                                  
+124TE  G 2385.20   13100.0   9                                                  
+124TE  G 2987.91   2339      5                                                  
+124TE  L 3001.12    32+,3                                                       
+124TEX L XREF=CDEJKLNP                                                          
+124TE cL J         log| {Ift}=6.79 from 2-; |g's to 2+ and 4+                   
+124TE  G 166.04    247       3                                                  
+124TE  G 307.35    8 13.5    22                                                 
+124TE  G 517.85    7 23.3    19                                                 
+124TE  G 546.99    1412.5    13                                                 
+124TE  G 677.6     5 31.3    13                                                 
+124TE  G 707.46    8 81.6    22                                                 
+124TE  G 776.17    2611.0    8                                                  
+124TE  G 961.80    9 16      3                                                  
+124TEF G FL=2039.293                                                            
+124TE  G 1042.7    1012.5    25                                                 
+124TE  G 1675.58   5 100.0   18                                                 
+124TE  G 1752.42   1451      7                                                  
+124TE  L 3011.7    3                                                            
+124TEX L XREF=L                                                                 
+124TE  L 3018.11   27                                                           
+124TEX L XREF=L                                                                 
+124TE  L 3030.7    3                                                            
+124TEX L XREF=K                                                                 
+124TE  L 3032.839  167                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 121.656   1713.2    3 D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 359.070   15100     3 D+Q       -0.16   7                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 368.38    3 5.6     6 (D)                                              
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3036.3    8                                                            
+124TEX L XREF=JKL                                                               
+124TE  L 3038.29    38(+)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g) ;  Q |g to 6+                            
+124TE  G 373.851   13100.0   17D+Q       -0.18   2                              
+124TE2 G FL=2664.43                                                             
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 1291.33   1074.2    20Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3039.9    12 0+ TO 3+                                                  
+124TEX L XREF=EM(*3041)                                                         
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 2437.1    12 100                                                       
+124TE  L 3045.37    62+                                                         
+124TEX L XREF=EFIM(*3041)                                                       
+124TE cL J         L=2+4 in ({+3}He,d) from 7/2+; |g's to 0+ and 3-             
+124TE  G 722.8     3  62     25                                                 
+124TE  G 751.78    11 15.0   5                                                  
+124TE  G 892.2     5  3.3    22                                                 
+124TE  G 953.66    16 5.0    4                                                  
+124TE  G 1005.80   13 5.0    13                                             @   
+124TEF G FL=2039.421                                                            
+124TE  G 1005.80   13 6.7    12                                             @   
+124TEF G FL=2039.293                                                            
+124TE  G 2442.74   10 100.0  10                                                 
+124TE  L 3048.9     3 1,2+                                                      
+124TEX L XREF=ELN(*3050)                                                        
+124TE cL J         |g's to 0+ and 2+                                            
+124TE  G 895.4     3  29     9                                                  
+124TE  G 2446.9    6  100    57                                                 
+124TE  L 3054.62    9 3-,4+                                                     
+124TEX L XREF=EL(3055)N(*3050)                                                  
+124TE cL J         |g'g to 2+ and 5-                                            
+124TE  G 719.6     4  59     12                                                 
+124TE  G 760.90    21 17.7   24                                                 
+124TE  G 963.45    21 29.4   24                                                 
+124TE  G 1014.8    4  18     3                                                  
+124TEF G FL=2039.293                                                            
+124TE  G 1096.67   16 23.5   14                                                 
+124TE  G 1729.1    3  100.0  24                                                 
+124TE  G 1805.78   23 59     18                                                 
+124TE  L 3056.50   10 2+,3,4+                                                   
+124TEX L XREF=EJL(3060)                                                         
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 1731.1    11 16     8                                                  
+124TE  G 1807.3    3  29     6                                                  
+124TE  G 2453.81   10 100.0  21                                                 
+124TE  L 3069.27   106(+)                                                       
+124TEX L XREF=DM(*3079)N(*3070)                                                 
+124TE cL J         |g(|q) in (|a,2n|g); (Q) |g to 4+                            
+124TE  G 1111.33   1088      10(Q)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 1322.6    3 100     20D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3082.77   10 2+ TO 6+                                                  
+124TEX L XREF=EJLM(*3079)N(*3070)                                               
+124TE cL J         |g to 4+                                                     
+124TE  G 1834.17   10 100                                                       
+124TE  L 3088.57    7 2+                                                        
+124TEX L XREF=EF(*3090)I(*3091)J(*3091)L(*3091)                                 
+124TE cL J         |g's to 0+ and 4+                                            
+124TE  G 567.24    10 54.6   11                                                 
+124TE  G 634.42    20 18.2   15                                                 
+124TE  G 765.8     4  18     12                                                 
+124TE  G 996.9     3  36     22                                                 
+124TE  G 1049.18   20 27     9                                              @   
+124TE cG RI$ from authors' table II, 0.070 {I7} in authors' table I probably    
+124TE2cG corresponds to total intensity for the doublet. Uncertainty is         
+124TE3cG assigned by compilers                                                  
+124TEF G FL=2039.293                                                            
+124TE  G 1049.18   20 36     9                                              @   
+124TEF G FL=2039.421                                                            
+124TE cG RI$ from authors' table II, 0.070 {I7} in authors' table I probably    
+124TE2cG corresponds to total intensity for the doublet. Uncertainty is         
+124TE3cG assigned by compilers                                                  
+124TE  G 1205.63   16 45     27                                                 
+124TE  G 1431.8    5  100    17                                                 
+124TE  G 1840.1    4  72     15                                                 
+124TE  L 3091.86    8 1,2+                                                      
+124TEX L XREF=EF(*3090)HI(*3091)J(*3090)L(*3091)                                
+124TE cL J         |g's to 0+ and 2+                                            
+124TE  G 782.3     6  1.7    4                                                  
+124TE  G 1766.27   12 22.4   9                                                  
+124TE  G 2488.2    5  28     3                                                  
+124TE  G 3091.96   11 100.0  21                                                 
+124TE  L 3095.07    6 1- TO 4+                                                  
+124TEX L XREF=EJL                                                               
+124TE cL J         |g's 2+ and 3-                                               
+124TE  G 401.29    22 19.1   6                                                  
+124TE  G 1003.3    5  7.1    7                                                  
+124TE  G 1769.53   10 78.6   7                                                  
+124TE  G 2492.14   12 100    4                                                  
+124TE  L 3100.67    41,2+              1.04 PS   14                             
+124TEX L XREF=EFM(*3106)                                                        
+124TE cL J         |g to 0+                                                     
+124TE  G 112.430   193.3     12                                                 
+124TE  G 353.58    4 100.0   9                                                  
+124TE  G 399.50    16 0.89   7                                                  
+124TE  G 499.92    13 2.38   9                                                  
+124TE  G 918.40    22 1.2    9                                                  
+124TE  G 2499.0    10 1.2    5                                                  
+124TE  G 3101.7    5  1.8    3                                                  
+124TE  L 3107.60    6 2+,3,4+                                                   
+124TEX L XREF=EM(*3106)                                                         
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 813.6     3  5.3    16                                                 
+124TE  G 1068.25   13 5      3                                              @   
+124TEF G FL=2039.421                                                            
+124TE  G 1068.25   13 47     16                                             @   
+124TEF G FL=2039.293                                                            
+124TE  G 1149.7    4  11     3                                                  
+124TE  G 1782.02   11 74     3                                                  
+124TE  G 2505.01   14 100    7                                                  
+124TE  L 3109.38   11 2+,3,4-                                                   
+124TEX L XREF=EM(*3106)                                                         
+124TE cL J         |g's to 2- and 4+                                            
+124TE  G 407.9     6  11.1   11                                                 
+124TE  G 1152.5    4  11.1   22                                                 
+124TE  G 1860.70   11 100.0  22                                                 
+124TE  L 3113.7    11                                                           
+124TEX L XREF=J                                                                 
+124TE  L 3118.52   152+,3+                                                      
+124TEX L XREF=ELN(*3120)                                                        
+124TE cL J         |g's to 2+ and 4+ and |g from 0+,1+ capture state.           
+124TE  G 1792.99   21 15.8   18                                                 
+124TE  G 1869.3    5  5.3    16                                                 
+124TE  G 2515.90   22 100    4                                                  
+124TE  L 3125.1    5                                                            
+124TEX L XREF=I(*3130)JM(*3133)N(*3120)                                         
+124TE  L 3136.76    48(+)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 6+                              
+124TE  G 472.333   24100     9 D+Q       -0.12   3                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TEF G FL=2664.43                                                             
+124TE  G 1389.71   1042.8    19Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3139.4    5                                                            
+124TEX L XREF=I(*3130)JM(*3133)                                                 
+124TE  L 3143.22   11 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 2+ and |g from 0+,1+ capture state.                  
+124TE  G 1817.75   13 32.0   20                                                 
+124TE  G 2540.32   21 100    12                                                 
+124TE  L 3149.5    7                                                            
+124TEX L XREF=JM(3153)                                                          
+124TE  L 3154.37    310(+)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 8+                              
+124TE  G 489.930   11100       Q                                                
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3162.92   17 2+,3,4+                                                   
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 869.1     4  29     9                                                  
+124TE  G 1837.7    3  50     6                                                  
+124TE  G 1914.2    3  100    16                                                 
+124TE  L 3167.94    82+,3,4+                                                    
+124TEX L XREF=EJM(3169)                                                         
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 392.93    14 18.8   6                                                  
+124TE  G 874.41    14 9.4    5                                                  
+124TE  G 1842.24   14 100    5                                                  
+124TE  G 1920.2    8  6      4                                                  
+124TE  L 3181.4    7                                                            
+124TEX L XREF=I(*3200)JL(*3200)N(*3190)                                         
+124TE  L 3206.6    6                                                            
+124TEX L XREF=I(*3200)JL(*3200)N(*3190)                                         
+124TE  L 3210.9     4 2+ TO 6+                                                  
+124TEX L XREF=EL(*3200)M(*3212)                                                 
+124TE cL J         |g to 4+                                                     
+124TE  G 1962.3    4  100                                                       
+124TE  L 3212.23    71-,2+                                                      
+124TEX L XREF=EM(*3212)N(*3220)                                                 
+124TE cL J         |g's to 0+ and 3-                                            
+124TE  G 465.20    13 3.6    3                                                  
+124TE  G 918.50    22 6      3                                                  
+124TE  G 1886.52   19 14.3   9                                                  
+124TE  G 2609.40   10 100.0  10                                                 
+124TE  G 3212.75   22 7.1    6                                                  
+124TE  L 3217.60   11 2+                                                        
+124TEX L XREF=EM(*3212)N(*3220)                                                 
+124TE cL J         |g's to 0+ and 4+                                            
+124TE  G 923.48    21 24.0   20                                                 
+124TE  G 1178.3    7  20.0   24                                                 
+124TEF G FL=2039.293                                                            
+124TE  G 1259.5    5  16     6                                                  
+124TE  G 1893.6    10 68     16                                                 
+124TE  G 2615.21   17 100    20                                                 
+124TE  G 3217.35   21 32     3                                                  
+124TE  L 3220.50    82+                0.12 PS   3                              
+124TEX L XREF=EGHM(*3212)N(*3220)                                               
+124TE cL J         |g's to 0+ and 4+                                            
+124TE cL T         from (|g,|g')                                                
+124TE  G 926.4     5  5.5    24                                                 
+124TE  G 1180.86   15 9      4                                              @   
+124TEF G FL=2039.421                                                            
+124TE  G 1180.86   15 9.1    24                                             @   
+124TEF G FL=2039.293                                                            
+124TE  G 1895.14   2116      7                                                  
+124TE cG RI        from (n,|g) E=thermal                                        
+124TE  G 1972.9    7  3.6    15                                                 
+124TE  G 2617.80   21100     7                                                  
+124TE cG RI        from (n,|g) E=thermal                                        
+124TE  G 3221.05   1892.7    18                                                 
+124TE cG RI        from (n,|g) E=thermal                                        
+124TE  L 3231.2    7                                                            
+124TEX L XREF=J                                                                 
+124TE  L 3235.4     3 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 2632.6    3  100                                                       
+124TE  L 3238.24    8 1,2+                                                      
+124TEX L XREF=EHI(*3240)J                                                       
+124TE cL J         |g's to 0+ and 2+                                            
+124TE  G 1355.10   14 23     13                                                 
+124TE  G 2635.67   12 100    3                                                  
+124TE  G 3238.15   14 79.7   16                                                 
+124TE  L 3240.88   212+,3,4+                                                    
+124TEX L XREF=EI(*3240)                                                         
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 1914.8    5  31     15                                                 
+124TE  G 1992.39   22 100    31                                                 
+124TE  L 3257.98   102+,3,4+                                                    
+124TEX L XREF=EIJN                                                              
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 1166.4    7  26     12                                                 
+124TE  G 1218.77   19 16     9                                              @   
+124TEF G FL=2039.421                                                            
+124TE  G 1218.77   19 11     4                                              @   
+124TEF G FL=2039.293                                                            
+124TE  G 1932.33   15 100    7                                                  
+124TE  G 2008.9    4  16     8                                                  
+124TE  L 3260.84    6(6)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 380.509   15100                                                        
+124TE  L 3272.299  228                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 361.135   1852.2    20D                                            *   
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 433.08    153.7     15                                                 
+124TE  G 607.72    7 100     4 Q                                                
+124TEF G FL=2664.373                                                            
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3279.94    72+,3,4+                                                    
+124TEX L XREF=EL(*3280)M(*3282)                                                 
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 1240.51   11 14     14                                             @   
+124TEF G FL=2039.421                                                            
+124TE  G 1240.51   11 43     10                                             @   
+124TEF G FL=2039.293                                                            
+124TE  G 1323.5    6  57     21                                                 
+124TE  G 2677.25   12 100    4                                                  
+124TE  L 3284.22    6 2+                                                        
+124TEX L XREF=EL(*3280)M(*3282)                                                 
+124TE cL J         |g's to 0+, 3+ and 3-                                        
+124TE  G 990.38    13 55     22                                                 
+124TE  G 1130.4    3  9.1    15                                                 
+124TE  G 1244.85   11 18     9                                              @   
+124TEF G FL=2039.421                                                            
+124TE  G 1244.85   11 81     12                                             @   
+124TEF G FL=2039.293                                                            
+124TE  G 1958.90   12 100    3                                                  
+124TE  L 3288.91    9 1,2+                                                      
+124TEX L XREF=EJ                                                                
+124TE cL J         |g's to 0+ and 2+                                            
+124TE  G 1963.43   10 100.0  10                                                 
+124TE  G 2685.84   22 48     3                                                  
+124TE  G 3289.1    5  13     5                                                  
+124TE  L 3290.763  239(-)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 7(-)                            
+124TE  G 258.01    9 5.3     4                                                  
+124TE  G 617.03    3 100.0   18Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L     3302.0101,2+                                                       
+124TEX L XREF=HN(3300)                                                          
+124TE cL J         |g-excitation from 0+                                        
+124TE cL           T{-1/2}=0.30 ps {I14} if J=1, T{-1/2}=0.28 ps {I13} if J=2   
+124TE2cL from (|g,|g')                                                          
+124TE  G 3302.0      100                                                        
+124TE cG E         from (|g,|g),(|g,|g')                                        
+124TE  L 3307.37    67                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 468.40    6 54      10                                                 
+124TE  G 1560.25   9 100     5                                                  
+124TE  L 3308.5     5 2+ TO 6+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 4+                                                     
+124TE  G 2059.9    5  100                                                       
+124TE  L 3318.98   15 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 864.89    20 29     3                                                  
+124TE  G 1993.46   22 100    29                                                 
+124TE  L 3336.22    48                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 662.45    3 100       D+Q       -2.73   4                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  L 3336.51   132+,3+,4+                                                   
+124TEX L XREF=EI(3330)J                                                         
+124TE cL J         L=2 in (d,p); |g to 2+ and 4+                                
+124TE  G 2010.88   20 46     6                                                  
+124TE  G 2087.98   17 100    7                                                  
+124TE  L 3348.68   25 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 0+ and 2+                                            
+124TE  G 242.6     8  3.3    17                                                 
+124TEF G FL=3107.60                                                             
+124TE  G 2022.8    3  43     4                                                  
+124TE  G 3349.0    5  100.0  20                                                 
+124TE  L 3350.958  169(-)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g) ; Q |g to 7(-)                           
+124TE  G 677.183   10100       Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3355.2     3 2+ TO 6+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 4+                                                     
+124TE  G 2106.6    3  100                                                       
+124TE  L 3365.43    7(7)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 627.53    4 100       (D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3367.98    39                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 213.600   1519.9    12D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 703.59    3 100.0   21D                                                
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3370.15    58                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 331.86    4 100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3370.45   12 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 2767.69   12 100                                                       
+124TE  L 3382.932  18(7)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1635.962  14100                                                        
+124TE  L 3393.63   131+,2+                                                      
+124TEX L XREF=EJM(3390)                                                         
+124TE cL J         |g's to 0+ and 3+                                            
+124TE  G 910.7     5  7.4    15                                                 
+124TE  G 940.0     10 19     6                                                  
+124TE  G 1301.5    5  100.0  11                                                 
+124TE  G 1353.4    4  37     5                                                  
+124TEF G FL=2039.293                                                            
+124TE  G 2068.0    5  44     11                                                 
+124TE  G 2789.8    6  85     5                                                  
+124TE  G 3393.81   16 70     5                                                  
+124TE  L 3399.67    92+,3+                                                      
+124TEX L XREF=EI(3400)                                                          
+124TE cL J         |g's to 2+ and 4+ and |g from 0+,1+ capture state.           
+124TE  G 916.1     3  7.7    10                                                 
+124TE  G 1308.43   19 7.7    8                                                  
+124TE  G 2074.20   23 23.1   18                                                 
+124TE  G 2796.80   11 100    4                                                  
+124TE  L 3409.04    49                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 744.61    3 100       D                                                
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3422.60    46(+)                                                       
+124TEX L XREF=DM(*3427)                                                         
+124TE cL J         |g(|q) in (|a,2n|g) ; Q |g to 8+                             
+124TE  G 758.16    3 100       Q                                                
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3430.04   18 1-,2,3+                                                   
+124TEX L XREF=EJLM(*3427)                                                       
+124TE cL J         |g's to 1 and 3- and |g from 0+,1+ capture state.            
+124TE  G 454.46    16 33     4                                                  
+124TE  G 1136.9    6  50     5                                                  
+124TE  G 1339.0    5  100    12                                                 
+124TE  L 3438.70   21 0+ TO 4+                                                  
+124TEX L XREF=EN(*3440)                                                         
+124TE cL J         |g to 2+                                                     
+124TE  G 2835.94   21 100                                                       
+124TE  L 3443.05    6 1,2+                                                      
+124TEX L XREF=EN(*3440)                                                         
+124TE cL J         |g's to 0+                                                   
+124TE  G 162.9     3  2.3    11                                                 
+124TE  G 741.25    15 13.6   9                                                  
+124TE  G 921.5     3  9.1    16                                                 
+124TE  G 1560.34   11 34.1   7                                                  
+124TE  G 2840.21   10 100.0  21                                                 
+124TE  G 3443.01   15 50     3                                                  
+124TE  L 3444.03    3(5,6)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 411.186   24100                                                        
+124TE  L 3450.78    91-,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+ and 3-                                              
+124TE  G 449.37    22 16.7   5                                                  
+124TE  G 749.4     9  6      4                                                  
+124TE  G 1157.11   16 16.7   11                                                 
+124TE  G 2125.17   22 31     11                                                 
+124TE  G 2848.13   16 100    11                                                 
+124TE  G 3451.2    6  11     7                                                  
+124TE  L 3452.69    3(6)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1117.653  24100                                                        
+124TE  L 3456.61   132+,3,4+                                                    
+124TEX L XREF=EM(*3457)                                                         
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 2208.5    4  43     19                                                 
+124TE  G 2853.80   13 100    4                                                  
+124TE  L 3460.35   21 1,2+                                                      
+124TEX L XREF=EM(*3457)                                                         
+124TE cL J         |g to 0+                                                     
+124TE  G 2134.78   21 100    10                                                 
+124TE  G 3460.8    8  38     23                                                 
+124TE  L 3474.64   12 0+ TO 4+                                                  
+124TEX L XREF=EM(*3476)                                                         
+124TE cL J         |g to 2+                                                     
+124TE  G 2871.88   12 100                                                       
+124TE  L 3475.54    8(6,7)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 502.20    1133      8                                                  
+124TE  G 1728.63   10100     8 (D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3479.37    9 0+ TO 3+                                                  
+124TEX L XREF=EJM(*3476)N                                                       
+124TE cL J         |g' to 2+ and 1+,(2+)                                        
+124TE  G 696.06    18 44     4                                                  
+124TE  G 1026.1    3  44     4                                                  
+124TE  G 2153.77   14 78     7                                                  
+124TE  G 2876.56   14 100    7                                                  
+124TE  L 3479.56    46(+)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g) ; Q |g to 8+                             
+124TE  G 815.12    3 100       Q                                                
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3487.16   22 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2884.1    3  55     10                                                 
+124TE  G 3487.4    3  100    4                                                  
+124TE  L 3490.25   11 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 1+ and 2+                                            
+124TE  G 889.06    15 24.5   18                                                 
+124TE  G 2887.70   14 100    6                                                  
+124TE  L 3497.54   23 2+ TO 6+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 4+                                                     
+124TE  G 2248.94   23 100                                                       
+124TE  L 3513.44   105,6,7                                                      
+124TEX L XREF=DI(*3520)N(*3520)                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1766.47   10100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3526.692  23(7,8)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 852.918   19100                                                        
+124TE  L 3530.04   101-,2+                                                      
+124TEX L XREF=EGI(3520)JM(3526)N(3520)                                          
+124TE cL J         |g to 0+ and 3-                                              
+124TE  G 1236.23   21 10.6   11                                                 
+124TE  G 2205.0    5  15     9                                                  
+124TE  G 2927.01   16 100    10                                                 
+124TE  G 3530.19   14 45     9                                                  
+124TE cG RI        from (n,|g) E=thermal                                        
+124TE  L 3537.68   14 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2934.92   14 100    6                                                  
+124TE  G 3536.9    15 38     7                                                  
+124TE  L 3543.09   101-,2+                                                      
+124TEX L XREF=EH                                                                
+124TE cL J         |g-excitation from 0+; |g to 3-                              
+124TE cL           T{-1/2}=33 fs {I5} if J=1, T{-1/2}=30 fs {I5} if J=2 from    
+124TE2cL (|g,|g')                                                               
+124TE  G 380.3     3  2.0    3                                                  
+124TE  G 842.0     4  2.0    5                                                  
+124TE  G 1248.3    6  12.00  24                                                 
+124TE  G 2940.27   11 57.0   11                                                 
+124TE  G 3543.20   22 100    15                                                 
+124TE  L 3550.00    310(+)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 8+                              
+124TE  G 395.641   1446.1    13D+Q       -0.34   3                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 885.53    3 100.0   18Q                                                
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L    3554.45107                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1807.48   10100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3576.03   20 2+,3+,4+                                                  
+124TEX L XREF=EI(3560)L(*3580)M(3567)N(3570)                                    
+124TE cL J         |g's to 2+ and 4+; L=0+2 in ({+3}He,d) from 7/2+             
+124TE  G 1280.8    8  50     3                                                  
+124TE  G 1484.5    3  70     40                                                 
+124TE  G 2328.2    6  40     24                                                 
+124TE  G 2973.2    3  100    90                                                 
+124TE  L 3588.3     3 0+ TO 4+                                                  
+124TEX L XREF=EL(*3580)N(*3590)                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 2985.5    3  100                                                       
+124TE  L 3598.975  219(-)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 7(-)                            
+124TE  G 189.97    7 12.1    8 (D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 687.792   15100     3 Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3599.3     3 2+,3,4+                                                   
+124TEX L XREF=EN(*3590)                                                         
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 2350.6    4  56     13                                                 
+124TE  G 2996.6    4  100    18                                                 
+124TE  L 3622.07    8 1-,2+                                                     
+124TEX L XREF=EM(*3626)                                                         
+124TE cL J         |g's to 0+ and 3-                                            
+124TE  G 735.71    12 23.1   12                                                 
+124TE  G 1469.0    7  35     9                                                  
+124TE  G 2296.53   14 38.5   27                                                 
+124TE  G 3019.59   12 100    12                                                 
+124TE  G 3623.0    7  19     12                                                 
+124TE  L 3628.53    9 1,2+                                                      
+124TEX L XREF=EM(*3626)                                                         
+124TE cL J         |g to 0+                                                     
+124TE  G 1745.38   18 19.4   16                                                 
+124TE  G 2303.11   21 19     4                                                  
+124TE  G 3025.82   12 100    6                                                  
+124TE  G 3629.0    10 16     10                                                 
+124TE  L 3652.13    6(7)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 778.59    3 100                                                        
+124TE  L 3652.81   10 1,2+                                                      
+124TEX L XREF=EM(*3653)                                                         
+124TE cL J         |g to 0+                                                     
+124TE  G 1498.5    6  8.7    22                                                 
+124TE  G 2327.32   17 48     6                                                  
+124TE  G 3050.06   12 100    5                                                  
+124TE  L 3654.4     4 2+               39 FS     9                              
+124TEX L XREF=EHM(*3653)                                                        
+124TE cL J         |g to 0+ and 4+                                              
+124TE  G 1562.8    5  100    7                                                  
+124TE  G 2405.6    8  33     18                                                 
+124TE  G 3051.4    10 83     50                                                 
+124TE  G 3655.0    10 83     50                                                 
+124TE  L 3662.00   13 2+,3,4+                                                   
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and 4+                                              
+124TE  G 2413.5    4  38     10                                                 
+124TE  G 3059.22   13 100    4                                                  
+124TE  L 3666.90   10 1+ TO 3+                                                  
+124TEX L XREF=EL(3670)M(3669)                                                   
+124TE cL J         |g's to 2+ and 3+ and |g from 0+,1+ capture state.           
+124TE  G 1574.3    6  22     11                                                 
+124TE  G 1626.5    6  38.9   22                                                 
+124TEF G FL=2039.293                                                            
+124TE  G 2341.35   15 100    7                                                  
+124TE  G 3064.26   14 50     3                                                  
+124TE  L 3685.70   13 0+ TO 4+                                                  
+124TEX L XREF=EM(3690)                                                          
+124TE cL J         |g to 2+                                                     
+124TE  G 1594.7    5  24     14                                                 
+124TE  G 3082.89   13 100    5                                                  
+124TE  L 3703.487  238                                                          
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 352.51    7 20.5    15D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 412.76    3 41.0    22D+Q       +1.9    2                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 670.628   22100     3 D+Q       +0.40   3                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  L 3709.72    82+                                                         
+124TEX L XREF=EI(3710)                                                          
+124TE cL J         |g's to 0+, 3+ and 3-                                        
+124TE  G 1008.24   16 13.8   10                                                 
+124TE  G 1108.5    3  6.9    8                                                  
+124TE  G 1386.6    4  3.5    17                                                 
+124TE  G 1415.90   10 55.2   10                                                 
+124TE  G 1670.8    10 28     14                                                 
+124TEF G FL=2039.293                                                            
+124TE  G 3107.22   22 100.0  21                                                 
+124TE  G 3710.5    6  17     8                                                  
+124TE  L 3713.99    7(8,9)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1049.55   6 100                                                        
+124TEF G FL=2664.43                                                             
+124TE  L 3723.63   16 2+,3,4+                                                   
+124TEX L XREF=EL(*3750)M(3730)                                                  
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 2397.5    5  40     5                                                  
+124TE  G 2475.08   16 100    9                                                  
+124TE  L 3755.65    6 1,2+                                                      
+124TEX L XREF=EL(*3750)M(3754)                                                  
+124TE cL J         |g to 0+                                                     
+124TE  G 654.80    10 9.09   18                                                 
+124TE  G 660.51    15 3.9    5                                                  
+124TE  G 767.48    17 13.0   10                                                 
+124TE  G 988.1     5  3.9    4                                                  
+124TEF G FL=2766.93                                                             
+124TE  G 1154.65   21 7.8    7                                                  
+124TE  G 1447.8    5  5      3                                                  
+124TE  G 2098.62   14 52     3                                                  
+124TE  G 3152.93   12 100    6                                                  
+124TE  G 3756.0    6  9      4                                                  
+124TE  L 3774.1     5 1,2+                                                      
+124TEX L XREF=EI(*3780)N(*3790)                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1681.0    10 9      8                                                  
+124TE  G 2448.2    10 100    3                                                  
+124TE  G 3172.0    10 23     14                                                 
+124TE  G 3775.4    10 23     18                                                 
+124TE  L 3805.40   15 0+ TO 3+                                                  
+124TEX L XREF=EI(*3780)L(*3810)M(*3807)                                         
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 2479.86   15 100                                                       
+124TE  L 3810.07   11 0+ TO 3+                                                  
+124TEX L XREF=EL(*3810)M(3829)N(*3790)                                          
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3207.30   11 100                                                       
+124TE  L 3836.46   10(9)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1172.02   9 100       (D)                                              
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3845.22   118                                                          
+124TEX L XREF=DM                                                                
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 812.38    10100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3850.54    511                                                         
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 696.17    4 100       D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3853.57   13 0+ TO 3+                                                  
+124TEX L XREF=EM(3855)                                                          
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3250.80   13 100                                                       
+124TE  L 3862.6     3 0+ TO 3+                                                  
+124TEX L XREF=EM(*3871)                                                         
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 1770.5    5  67     40                                                 
+124TE  G 2537.3    5  100    67                                                 
+124TE  G 3260.0    4  67     40                                                 
+124TE  L 3872.32    5(9,10)                                                     
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 834.03    4 100                                                        
+124TE  L 3880.20   17 1,2+                                                      
+124TEX L XREF=EM(*3871)                                                         
+124TE cL J         |g to 0+                                                     
+124TE  G 2554.77   20 58     5                                                  
+124TE  G 3879.9    3  100    10                                                 
+124TE  L 3884.87   11 1,2+                                                      
+124TEX L XREF=EL(*3890)M(3887)                                                  
+124TE cL J         |g to 0+                                                     
+124TE  G 1183.27   16 37.5   25                                                 
+124TE  G 3282.13   16 75     5                                                  
+124TE  G 3884.69   25 100    12                                                 
+124TE  L 3904.12   16 0+ TO 3+                                                  
+124TEX L XREF=EL(*3890)                                                         
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3301.35   16 100                                                       
+124TE  L 3929.47   12 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2045.6    6  23     9                                                  
+124TE  G 2603.6    10 46     23                                                 
+124TE  G 3326.74   12 100    6                                                  
+124TE  G 3929.2    10 46     23                                                 
+124TE  L 3931.57    310                                                         
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 580.608   22100     8 D+Q       -0.51   1                              
+124TE cG M,MR      from |g(|q) in (|a,2n|g)                                     
+124TE  G 640.84    8 95      10(D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3945.22   22 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2287.91   21 100                                                       
+124TE  L 3946.40   18 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3343.61   19 60     5                                                  
+124TE  G 3946.4    4  100    50                                                 
+124TE  L 3967.34   16 1-,2+                                                     
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 0+ and 3-                                            
+124TE  G 1272.4    5  57.9   21                                                 
+124TE  G 1645.9    9  5      4                                                  
+124TEF G FL=2322.95                                                             
+124TE  G 2311.2    9  11     3                                                  
+124TE  G 2641.60   22 79     42                                                 
+124TE  G 3364.8    5  100    42                                                 
+124TE  G 3967.7    3  84     26                                                 
+124TE  L 3984.78   10(8)                                                        
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 633.82    9 100                                                        
+124TE  L 3988.593  2411(-)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 9(-)                            
+124TE  G 637.96    9                                                            
+124TE2 G FL=3350.958                                                            
+124TE cG E         The uncertainty of the weighted average |g energies was      
+124TE2cG too small, the evaluator assumed an uncertainty of 3 times of that.    
+124TE  G 697.826   5 100     4 Q                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 3989.1     9 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 2664.8    15 60     7                                                  
+124TE  G 3385.7    10 100    14                                                 
+124TE  L 3996.33   14 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 2670.79   14 100                                                       
+124TE  L 3998.3     5 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3395.7    10 71     60                                                 
+124TE  G 3998.2    5  100    60                                                 
+124TE  L 4010.8     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1920.0    5  60     30                                                 
+124TE  G 2352.6    9  80     50                                                 
+124TE  G 4009.9    6  100    40                                                 
+124TE  L 4030.3     3 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3427.5    3  100                                                       
+124TE  L 4032.76    311(-)                                                      
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g); Q |g to 9(-)                            
+124TE  G 681.72    4 100     6                                                  
+124TE  G 742.16    4 72      3 Q                                                
+124TEF G FL=3290.763                                                            
+124TE cG E         The uncertainty of the energy seems to be too small          
+124TE2cG comparing with the energy difference of corresponding levels.          
+124TE3cG The evaluator assumed 3 times larger uncertainty than reported one.    
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 4034.43    3(10)                                                       
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 435.458   15100       D                                                
+124TEF G FL=3598.975                                                            
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 4043.80   14 0+ TO 3(-)                                                
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 2+ and 1(-)                                          
+124TE  G 1296.72   13 100    4                                                  
+124TE  G 2719.6    8  14     7                                                  
+124TE  L 4051.40    511                                                         
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 897.03    4 100       D                                                
+124TEF G FL=3154.37                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 4051.51   12 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 956.31    25 8.7    13                                                 
+124TE  G 3448.77   13 100    13                                                 
+124TE  L 4057.22   18 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 3454.44   18 100                                                       
+124TE  L 4090.23   151,2+                                                       
+124TEX L XREF=EH                                                                
+124TE cL J         |g to 0+                                                     
+124TE cL           T{-1/2}=35 fs {I7} if J=1, T{-1/2}=32 fs {I6} if J=2 in      
+124TE2cL (|g,|g')                                                               
+124TE  G 3487.2    3  92     4                                                  
+124TE  G 4090.24   17 100    9                                                  
+124TE cG E,RI      from (n,|g) E=thermal                                        
+124TE  L 4099.2     4 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 2006.8    9  80     20                                                 
+124TE  G 3496.6    4  100    26                                                 
+124TE  L 4114.08    4(9,10)                                                     
+124TEX L XREF=D                                                                 
+124TE cL J         |g(|q) in (|a,2n|g)                                          
+124TE  G 1449.639  25100       (D)                                              
+124TEF G FL=2664.43                                                             
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 4114.37   13 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 3511.59   13100     30                                                 
+124TE  L 4118.1    10  1,2+                                                     
+124TEX L XREF=H                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4118.0      100                                                        
+124TE  L 4128.1     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2803.2    7  67     33                                                 
+124TE  G 3525.3    9  100    80                                                 
+124TE  G 4127.8    4  50     25                                                 
+124TE  L 4142.20   13 2+,3,4+                                                   
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 2+ and 4+                                            
+124TE  G 2049.7    8  6      4                                                  
+124TE  G 2816.7    3  38     6                                                  
+124TE  G 2893.60   14 100    3                                                  
+124TE  L 4144.48   14 0+ TO 3(-)                                                
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 2+ and 1(-)                                          
+124TE  G 1397.43   16 22.7   18                                                 
+124TE  G 2053.5    6  4.6    23                                                 
+124TE  G 2104.9    3  100    23                                                 
+124TEF G FL=2039.421                                                            
+124TE  L 4146.51   16 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2821.14   24 27     4                                                  
+124TE  G 3543.60   22 100    40                                                 
+124TE  G 4145.6    12 5      4                                                  
+124TE  L 4155.38   13 2+ TO 6+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 4+                                                     
+124TE  G 2906.76   13 100                                                       
+124TE  L 4170.7     3 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1074.3    9  15.4   19                                                 
+124TE  G 2845.7    4  54     30                                                 
+124TE  G 3566.8    10 100    10                                                 
+124TE  G 4170.5    5  69     50                                                 
+124TE  L 4173.68    4                                                           
+124TEX L XREF=D                                                                 
+124TE  G 822.72    3 100       (D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 4177.79   22 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1082.89   24 75     13                                                 
+124TEF G FL=3095.07                                                             
+124TE  G 3574.6    5  75     30                                                 
+124TE  G 4176.3    10 100    80                                                 
+124TE  L 4195.06   20 1,2                                                       
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 1+, 2+, 2- and 1(-)                                  
+124TE  G 1448.1    3  71     16                                                 
+124TE  G 1493.5    5  21     11                                                 
+124TE  G 1595.0    5  64     16                                                 
+124TE  G 2869.5    7  36     21                                                 
+124TE  G 3591.1    5  100    9                                                  
+124TE  L 4215.4     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1614.3    5  100    6                                                  
+124TE  G 3613.1    8  31     13                                                 
+124TE  G 4215.2    5  69     40                                                 
+124TE  L 4229.22   211,2+                                                       
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1134.1    3  10.5   12                                                 
+124TE  G 3626.4    6  68     16                                                 
+124TE  G 4229.2    3  100    60                                                 
+124TE  L 4238.39    5                                                           
+124TEX L XREF=D                                                                 
+124TE  G 387.855   13100       (D)                                              
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  L 4241.0    15 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 3638.2    15 100                                                       
+124TE  L 4244.8     5 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 1+ and 2+                                            
+124TE  G 2062.8    8  36     5                                                  
+124TE  G 2918.9    6  100    18                                                 
+124TE  G 3642.3    8  18     14                                                 
+124TE  L 4270.3     5 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3665.4    12 100    60                                                 
+124TE  G 4270.6    5  100    60                                                 
+124TE  L 4286.07    3                                                           
+124TEX L XREF=D                                                                 
+124TE  G 253.337   2338.0    21D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TE  G 297.465   13100.0   23D                                                
+124TE cG M         from |g(|q) in (|a,2n|g)                                     
+124TEF G FL=3988.593                                                            
+124TE  L 4289.40   11 2+                                                        
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 0+ and 4+                                            
+124TE  G 2963.59   13 67     5                                                  
+124TE  G 3042.0    9  50     15                                                 
+124TE  G 3687.00   18 100    10                                                 
+124TE  G 4290.8    10 50     25                                                 
+124TE  L 4302.61   21 0 TO 3+                                                   
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 1+                                                     
+124TE  G 2120.18   20 100                                                       
+124TE  L 4324.4     3 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3721.5    3  100    20                                                 
+124TE  G 4324.5    5  73     9                                                  
+124TE  L 4327.4     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3723.9    5  100    50                                                 
+124TE  G 4328.0    5  100    50                                                 
+124TE  L 4375.47   15 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 3772.68   15 100                                                       
+124TE  L 4379.47   10 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 1+ and 2+                                            
+124TE  G 1283.65   25 5.9    9                                                  
+124TE  G 2195.1    10 24     3                                                  
+124TE  G 3053.98   12 76.5   24                                                 
+124TE cG E$ poor fit. Level-energy difference=3053.60                           
+124TE  G 3776.96   17 100    9                                                  
+124TE cG E$ poor fit. Level-energy difference=3776.36                           
+124TE  L 4415.32   16 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3812.53   16 100                                                       
+124TE  L 4439.4     5 0+ to 3(-)                                                
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 1(-) and 2+                                            
+124TE  G 1693.0    10 50     25                                                 
+124TE  G 3836.4    5  100    7                                                  
+124TE  L 4444.8     5 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3842.0    5  100                                                       
+124TE  L 4453.7     3 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3850.9    3  100                                                       
+124TE  L 4487.3     5 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3160.8    10 100    20                                                 
+124TE  G 4487.4    5  86     40                                                 
+124TE  L 4501.24   16 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3175.71   16 100    11                                                 
+124TE  G 3898.0    6  58     30                                                 
+124TE  L 4504.3     7 0 TO 2                                                    
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 1(-) and |g from 0+,1+ capture state.                  
+124TE  G 1757.3    7  100                                                       
+124TE  L 4524.4     3 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3921.6    3  100                                                       
+124TE  L 4528.1     3 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3202.7    3  24     6                                                  
+124TE  G 3924.5    7  100    50                                                 
+124TE  L 4551.5     3 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4551.4    3  100                                                       
+124TE  L 4568.9     3 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1967.2    8  37.5   25                                                 
+124TE  G 3243.8    5  100    25                                                 
+124TE  G 3966.1    5  44     25                                                 
+124TE  G 4568.8    5  31     25                                                 
+124TE  L 4580.97   21 1,2+                                                      
+124TEX L XREF=EH                                                                
+124TE cL J         |g to 0+                                                     
+124TE  G 2489.6    5  26     17                                                 
+124TE  G 4580.83   22 100    5                                                  
+124TE  L 4598.5     3 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3995.8    3  100    60                                                 
+124TE  G 4598.2    5  100    60                                                 
+124TE  L 4630.1     6 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4027.8    7  100    50                                                 
+124TE  G 4629.1    10 67     50                                                 
+124TE  L 4643.46   25 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2319.2    9  18     15                                                 
+124TE  G 2551.5    4  45     10                                                 
+124TE  G 3318.2    5  45     8                                                  
+124TE  G 4042.7    8  100    50                                                 
+124TE  G 4643.2    5  36     30                                                 
+124TE  L 4698.0     6 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4094.4    8  100    60                                                 
+124TE  G 4698.5    7  100    50                                                 
+124TE cG RI$ uncertainty of 0% in table I of 2006Vo09 seems a misprint,         
+124TE2cG compilers assign 50% for a weak |g ray.                                
+124TE  L 4701.95   21 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 4099.15   21 100                                                       
+124TE  L 4712.90   17 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 4110.10   17 100                                                       
+124TE  L 4723.5     4 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3398.3    5  60     30                                                 
+124TE  G 4120.4    4  100    30                                                 
+124TE  L 4737.28   21 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 3411.72   21 100                                                       
+124TE  L 4739.63   13 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3413.6    8  16     12                                                 
+124TE  G 4136.87   15 100    5                                                  
+124TE  G 4739.48   22 72     30                                                 
+124TE  L 4754.71   18 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4152.6    3  100    17                                                 
+124TE  G 4754.28   21 67     6                                                  
+124TE  L 4764.4     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 1321.0    5  24     6                                                  
+124TEF G FL=3443.05                                                             
+124TE  G 2581.6    5  100    6                                                  
+124TE  G 4766.8    9  33     19                                                 
+124TE  L 4811.2    15 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3485.6    15 100                                                       
+124TE  L 4818.3     5 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 1+ and 2+                                            
+124TE  G 2636.2    5  100    50                                                 
+124TE  G 3489.8    14 80     80                                                 
+124TE  L 4883.27   21 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4281.4    5  31     6                                                  
+124TE  G 4882.99   22 100    4                                                  
+124TE  L 4889.30   16 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4286.33   16 100    6                                                  
+124TE  G 4890.8    5  79     6                                                  
+124TE cG E$ poor fit. Level-energy difference=4889.3                            
+124TE  L 4897.6     4 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 4294.8    4  100                                                       
+124TE  L 4911.41   22 2+,3+                                                     
+124TEX L XREF=E                                                                 
+124TE cL J         |g's to 2+ and 4+ and |g from 0+,1+ capture state.           
+124TE  G 1811.0    4  50     10                                                 
+124TE  G 3586.0    3  100    16                                                 
+124TE  G 3661.9    5  88     50                                                 
+124TE  L 4915.7     3 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3034.0    6  71     40                                                 
+124TE  G 4313.0    7  24     12                                                 
+124TE  G 4915.2    3  100    24                                                 
+124TE  L 4932.0     5 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 4329.2    5  100                                                       
+124TE  L 4941.8     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4941.7    4  100                                                       
+124TE  L 4962.51   16 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 4359.70   16 100                                                       
+124TE  L 4979.58   17 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 4376.77   17 100                                                       
+124TE  L 4984.7     8 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 1,2+ and |g from 0+,1+ capture state.                  
+124TE  G 1884.0    8  100                                                       
+124TE  L 4990.4     3 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 3664.8    3  100                                                       
+124TE  L 4993.51   21 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4993.40   21 100                                                       
+124TE  L 5036.9     5 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4434.4    5  100    40                                                 
+124TE  G 5035.6    10 11     4                                                  
+124TE  L 5050.72   25 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 5050.61   25 100                                                       
+124TE  L 5075.83   23 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 3750.1    5  64     40                                                 
+124TE  G 4472.1    5  100    40                                                 
+124TE  G 5076.1    3  45     9                                                  
+124TE  L 5127.29   19 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 3801.71   19 100                                                       
+124TE  L 5132.3     7 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4529.3    10 100    50                                                 
+124TE  G 5132.4    10 100    50                                                 
+124TE  L 5155.94   13 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 2409.1    5  53     9                                                  
+124TE  G 2701.78   14 67     4                                                  
+124TE  G 3831.3    5  100    50                                                 
+124TE  G 4553.0    5  47     30                                                 
+124TE  G 5154.3    11 27     16                                                 
+124TE  L 5169.7     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4567.3    5  100    8                                                  
+124TE  G 5169.1    5  47     30                                                 
+124TE  L 5285.5     6 0+ TO 4+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+                                                     
+124TE  G 3959.9    6  100                                                       
+124TE  L 5319.2     7 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 1,2+ and |g from 0+,1+ capture state.                  
+124TE  G 831.9     5  100                                                       
+124TE  L 5423.9     4 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 4821.1    4  100                                                       
+124TE  L 5445.4     4 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 4119.6    4  100    40                                                 
+124TE  G 5447.7    15 29     21                                                 
+124TE  L 5488.5     6 1,2+                                                      
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 0+                                                     
+124TE  G 5488.4    6  100                                                       
+124TE  L 5751.40   23 0+ TO 3+                                                  
+124TEX L XREF=E                                                                 
+124TE cL J         |g to 2+ and |g from 0+,1+ capture state.                    
+124TE  G 5148.56   23 100                                                       
+

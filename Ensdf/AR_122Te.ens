@@ -1,0 +1,1249 @@
+122TE    ADOPTED LEVELS, GAMMAS                                  07NDS    200704
+122TE  H TYP=FUL$AUT=T. TAMURA$CIT=NDS 108, 455 (2007)$CUT=30-Sep-2006$         
+122TE  Q -4234     5 9.84E3  3 8004.8  25-1086.5 16    2012WA38                 
+122TE cQ $Note: Current evaluation has used the following Q record              
+122TE  Q -4234     5 9834    268007.9  19-1082.9 29    2003AU03                 
+122TE cG E,RI      Weighted average of all available |g data from               
+122TE2cG {+122}Sb |b{+-} decay, {+122}I |e decay, {+122}Te(n,n'|g)              
+122TE3cG E=1.7,2.8,3.4 MeV, {+122}Te(n,n'|g) E=fast, {+116}Cd({+9}Be,3n|g),     
+122TE4cG and {+120}Sn(|a,2n|g)                                                  
+122TE cG M $Multipolarities are based on |g(|q) and |a(K)exp,                   
+122TE2cG |g(|q), RUL and excitation function in {+122}Te(n,n'|g) E=1.7,2.8,3.4  
+122TE3cG MeV, |g(|q) |g(lin pol) and RUL in {+122}Te(n,n'|g) E=fast, and        
+122TE4cG DCO ratios in {+116}Cd({+9}Be,3n|g) and, |a(K)exp and |g(|q) in        
+122TE5cG {+120}Sn(|a,2n|g),{+119}Sn(|a,n|g)                                     
+122TE cG MR$From |g(|q) in {+122}Te(n,n'|g) E=1.7,2.8,3.4 MeV (2005Hi04),       
+122TE2cG except noted otherwise                                                 
+122TE cG RI(N)     Probably stronger than undetermined side decaying gamma(s)   
+122TE cG E(D)$Doublet in {+122}Te(n,n'|g) E=1.7,2.8,3.4 MeV                     
+122TE cG E(T)$Triplet in {+122}Te(n,n'|g) E=1.7,2.8,3.4 MeV                     
+122TE cL E         From combined fit of levels, and gammas, except where noted  
+122TE2cL or where cross reference clearly indicates other source                
+122TE cL J$J|p are based on:                                                    
+122TE2cL 1) L values in the various reactions;                                  
+122TE3cL 2) log {Ift} from {+122}I |e decay:                                    
+122TE4cL 3) multipolarities and |d of the relevant transitions;                 
+122TE5cL 4) band structures from {+120}Sn(|a,2n|g) and {+116}Cd({+9}Be,3n|g);   
+122TE6cL 5) (|g,|g') and Coulomb excitation;                                    
+122TE7cL 6) J-dependence of |g(|q) and excitation functions in {+122}Te(n,n'|g) 
+122TE8cL as far as data are presented.                                          
+122TE cL T$From DSA in {+122}Te(n,n'|g) E=1.7,2.8,3.4 MeV (2005Hi04), except    
+122TE2cL noted otherwise.                                                       
+122TE cL $Assignments of cross references become difficult                      
+122TE2cL in the regions of high level density: doublets and triplets:           
+122TE3cL 1747-, 1751- and 1752-triplet; 2283.9-, 2287.4-doublet;                
+122TE4cL 2407.6-, 2407.9-doublet; 2592.4-, 2593.5-doublet;                      
+122TE5cL 2600.9-, 2603.8-doublet; 2756.1-, 2758.5- and 2758.8-triplet;          
+122TE6cL 2800.9-, 2801.5-doublet; 2911.24-, 2911.24- and 2913.5-triplet;        
+122TE7cL 2993.5-, 2994.7-, 2996.3 and 2998.0-multiplet; 3037.1-, 3042.0-        
+122TE8cL 3044.7-, 3047.8- and 3052.3-multiplet and many others.                 
+122TE CL BAND(A)   BAND 1,                                                      
+122TE2cL g.s. band                                                              
+122TE CL BAND(B)   BAND 2,                                                      
+122TE2cL positive parity band built on the two-proton hole 0+ state at 1357 keV 
+122TE CL BAND(C)   BAND 3,                                                      
+122TE2cL positive parity band built on the possible configuration of            
+122TE3cL (|pg{-9/2}{+-1})(|pg{-7/2}){-8+}~#(|pd{-5/2}{+2}){-0+}                 
+122TE CL BAND(D)   BAND 4,                                                      
+122TE2cL negative parity band based on possible non-collective state (7-)       
+122TE3cL at 2890 keV.                                                           
+122TE4cL Possible configuration=(|nh{-11/2}g{-7/2})                             
+122TE CL BAND(E)   BAND 5,                                                      
+122TE2cL negative parity band based on 5- at 2408 keV                           
+122TE CL BAND(F)   BAND 6,                                                      
+122TE2cL negative parity band based on 7- at 2801 keV                           
+122TE  XA122SB B- DECAY                                                         
+122TE  XB122I EC DECAY                                                          
+122TE  XC122TE(N,N'G) E=1.7,2.8,3.4 MEV                                         
+122TE  XD122TE(N,N'G) E=FAST                                                    
+122TE  XE116CD(9BE,3NG)                                                         
+122TE  XF120SN(A,2NG),119SN(A,NG)                                               
+122TE  XG121SB(3HE,D)                                                           
+122TE  XH124TE(P,T)                                                             
+122TE  XICOULOMB EXCITATION                                                     
+122TE  XJ122TE(P,P')                                                            
+122TE  XK122TE(G,G')                                                            
+122TE  XL122TE(D,D')                                                            
+122TE  XM123TE(D,T)                                                             
+122TE  XN123TE(3HE,4HE)                                                         
+122TE  XO120SN(3HE,N)                                                           
+122TE PN                                                                     6  
+122TE  L 0.0         0+                STABLE                               A   
+122TEX L XREF=ABCDEFGHIJKLMNO                                                   
+122TE cL           Nuclear rms charge radius=4.7084 fm {i21} (2004An14)         
+122TE  L 564.094   162+                7.46 PS   5                          A   
+122TEX L XREF=ABCDEFGHIJKLMN                                                    
+122TE2 L MOMM1=+0.66 4$MOME2=-0.50 5$BE2=0.664 4                                
+122TE cL $|m: transient field integral perturbed angular correlations           
+122TE2cL (1988Du10);                                                            
+122TE3cL others: +0.68 {i4} (1985ThZX), +0.66 {i6} (1981Sh15),                  
+122TE4cL +0.56 {i10} (1985Gr17).                                                
+122TE5cL +0.72 {i4} integral perturbed angular correlation (1988Du10) and       
+122TE6cL reevaluated by 2005St24                                                
+122TE cL $Q: Coulomb excitation reorientation (1978Be10) and reevaluated        
+122TE2cL in 2005St24. Other: -0.57 {i5} (1978Be10)                              
+122TE cL $B(E2) from Coulomb excitation                                         
+122TE cL J         L=2 in (p,t) and (p,p'); stretched E2 |g to 0+               
+122TE cL T         from B(E2); other: 8.4 ps {i8} from total width in (|g,|g')  
+122TE  G 564.130   21100       E2                                               
+122TEB G BE2W=36.92 25                                                          
+122TE  L 1181.248  254+                                                     A   
+122TEX L XREF=A(1179.3)BCDEFGH(1190)IJLMN                                       
+122TE cL J         stretched E2 |g to 2+, E1 |g from 5-                         
+122TE  G 617.20    3 100       E2                                               
+122TE  L 1256.953  162+                0.8 PS    +6-3                           
+122TEX L XREF=ABCDEFGHIJKLMN                                                    
+122TE cL J         M1+E2 |g to 2+, E2 |g to 0+                                  
+122TE cL T         other: 0.72 ps {i17} from B(E2) in Coulomb excitation        
+122TE  G 692.77    3 100     3 M1+E2     -3.7     4                             
+122TE cG M         D+Q in (|a,2n|g) and (n,n'|g) (1990BeYR); RUL                
+122TE cG MR$from (n,n'|g) (1990BeYR);                                           
+122TE2cG others: -1.5 {I+8-8} in (n,n'|g) (2005Hi04); -3.7 {I+11-7} (1977Kr17)  
+122TEB G BM1W=0.0052 17$BE2W=1.1E+2 3                                           
+122TE  G 1256.89   2 20.1    7 E2                                               
+122TE cG M         from {+122}Sb |b{+-} decay                                   
+122TEB G BE2W=1.2 3                                                             
+122TE  L 1357.401  24 0+               1.39 PS   GT                         B   
+122TEX L XREF=ABCDEFGHIJLM                                                      
+122TE cL J         E0 to 0+                                                     
+122TE  G 793.27    2 100     2                                                  
+122TE  G 1357.4    1           E0                               0.027     4     
+122TE cG $X(E0/E2)=0.0113 {i11} (2005Ki02)                                      
+122TE  L 1747.04    3 0+               1.32 PS   GT                             
+122TEX L XREF=CDG(1749.8)HJ(*1743)LM(*1749.03)N(*1750)O(1620)                   
+122TE cL E $unresolved doublet of near-lying levels in (d,d'), (p,p'),          
+122TE2cL ({+3}He,d), (d,t), and ({+3}He,{+4}He)                                 
+122TE cL J $490|g(|q) and 1183|g(|q) are isotropic in (n,n'|g);                 
+122TE2cL J-dependence of excitation function of 1183|g;                         
+122TE3cL L=(0) in (p,t);                                                        
+122TE  G 490.24    5  41     1                                                  
+122TE  G 1182.88   3  100    1                                                  
+122TE  L 1751.32    56+                                                     A   
+122TEX L XREF=CDEFG(*1749.8)J(*1743)L(*1751.5)M(*1749.03)N(*1750)               
+122TE cL J$stretched E2 |g to 4+ in (|a,2n|g)                                   
+122TE  G 570.03    5 100       E2                                               
+122TE  L 1752.62    32+                0.38 PS   +5-4                       B   
+122TEX L XREF=ABCDIL(*1751.5)M(*1749.03)N(*1750)                                
+122TE cL J         (M1+E2) |g to 2+, E2 |g to 0+                                
+122TE  G 395.16    8 7.3     5 E2                                               
+122TEB G BE2W=188 +24-18                                                        
+122TE  G 495.52    5 7.4     8 M1+E2     -0.55   +19-18                         
+122TE2 G FL=1256.953                                                            
+122TE cG MR$other: -0.6 {i3} or 1/|d=-0.24 {I+8-25} in (n,n'|g) (1990BeYR);     
+122TEB G BM1W=0.016 3$BE2W=14 8                                                 
+122TE  G 1188.52   8 51.9    5 (M1+E2)   +0.04   3                              
+122TE cG MR $from (n,n'|g) (1990BeYR);                                          
+122TE2cG other: +2.7 {I+24-12} or 0.03 {i19} in (n,n'|g) (2005Hi04)             
+122TEB G BM1W=0.011 3$BE2W=0.009 +13-9                                          
+122TE  G 1752.68   4 100     2 E2                                               
+122TEB G BE2W=1.50 +17-21                                                       
+122TE  L    1909.61 44+                0.85 PS   +35-20                     B   
+122TEX L XREF=CDEFGHJLMN                                                        
+122TE cL J         stretched E2 |g's to 2+, M1+E2 |g to 4+;                     
+122TE  G 652.62    5  26.6   11E2                                               
+122TEB G BE2W=21 +5-21                                                          
+122TE  G 728.35    4 100     5 M1+E2     -0.69   3                              
+122TE cG MR$others: -0.57 {i5} in (|a,2n|g), +4.5 {I+7-6} in (n,n'|g)           
+122TE2cG (1990BeYR)                                                             
+122TE cG $B(M1)(W.u.)=0.0225 {I7}; B(E2)(W.u.)=14.4 {I9} (if |d=-0.69);         
+122TE2cG B(M1)(W.u.)=0.0016 {I8}; B(E2)(W.u.)=43 {I18} (if |d=+4.5)             
+122TE  G 1345.64   1875.3    24E2                                               
+122TEB G BE2W=1.6 +4-7                                                          
+122TE  L    1940.44 9 0+               1.39 PS   GT                             
+122TEX L XREF=BCDGL                                                             
+122TE cL J$E0 to 0+; 683|g(|q), 1376|g(|q) are isotropic                        
+122TE2cL in (n,n'|g) (1990BeYR,2005Hi04)                                        
+122TE  G 583.1     2           E0                               0.16      5     
+122TE cG $X(E0/E2)=51 {i10} (2005Ki02)                                          
+122TE  G 683.48    17100     2                                                  
+122TE  G 1376.23   134.7     6                                                  
+122TE  G 1940.6    2           E0                               0.100     11    
+122TE cG $X(E0/E2)=8.3 {i11} (2005Ki02)                                         
+122TE  L 1951.92    43+                                                         
+122TEX L XREF=CDFGN                                                             
+122TE cL E $admixture of other isotope in ({+3}He,{+4}He)                       
+122TE cL J         M1(+E2) |g's to 2+ and 4+                                    
+122TE  G 694.93    5 100     3 M1(+E2)   0.00    +6-3                           
+122TE  G 770.34    2630      1 M1(+E2)   -0.22   +19-18                         
+122TE cG MR        other: -4.3 {I+8-5} in (n,n'|g) (1990BeYR)                   
+122TE  G 1387.79   1334      1  M1+E2                                           
+122TE cG MR$-32 {I+16-1223} in (n,n'|g) (2005Hi04); -0.3<|d<0.0 in              
+122TE2cG (|a,2n|g); -70 {I+28-180} in (n,n'|g) (1990BeYR)                       
+122TE  L 2041.18    44+                0.59 PS   +10-8                          
+122TEX L XREF=CDFGHJLM                                                          
+122TE cL E         admixture of {+124}Te component in ({+3}He,d)                
+122TE cL J         L=4 in (p,p')                                                
+122TE  G 783.7     3 15.5    4 (E2)                                         D   
+122TEB G BE2W=6.6 +10-12                                                        
+122TE  G 859.97    3 96.4    6  M1+E2    +0.78   +21-27                         
+122TE cG MR        other: +1.3 {I+3-4} in (|a,2n|g);                            
+122TE2cG +0.4 {I3} in (n,n'|g) (1990BeYR)                                       
+122TEB G BM1W=0.017 4$BE2W=10 4                                                 
+122TE  G 1477.07   6 100     11 E2                                              
+122TEB G BE2W=1.8 1                                                             
+122TE  L 2099.22    4 (2)+             0.261 PS  +21-19                         
+122TEX L XREF=BCDGLMN                                                           
+122TE cL J         (E2) |g to 0+, M1+E2 |g to 2+                                
+122TE  G 1535.10   3 100     4 M1+E2     +2.6    2                              
+122TE cG MR$from (n,n'|g) (1990BeYR);                                           
+122TE2cG other: +2.30 {I+20-18} or 0.00 {I+6-3} in (n,n'|g) (2005Hi04)          
+122TEB G BM1W=0.0029 4$BE2W=5.93 12                                             
+122TE  G 2099.16   243.9     4 (E2)                                             
+122TEB G BE2W=0.056 6                                                           
+122TE  L 2196.81    43-                0.1040 PS 35                             
+122TEX L XREF=CDG(*2202.8)HIJLMN                                                
+122TE cL E $unresolved doublet of the near-lying levels in ({+3}He,d)           
+122TE cL J         L=3 in (p,p'), (p,t)                                         
+122TE2 L BE3=0.12 4 (2002Ki06)                                                  
+122TE  G 939.91    6 2.1     3  E1                                              
+122TEB G BE1W=6.4E-5 12                                                         
+122TE  G 1014.87   10 3.1    2  E1                                          D   
+122TEF G FL=1181.248                                                            
+122TE cG E$poor fit. Level-energy difference=1015.51                            
+122TEB G BE1W=7.5E-5 9                                                          
+122TE  G 1632.88   5 100     10 E1                                              
+122TEF G FL=564.094                                                             
+122TE cG M,MR      E1(+M2), |d=+0.02 {i2} in (n,n'|g) (1990BeYR)                
+122TEB G BE1W=0.00058 9                                                         
+122TE  G 2196.8    1 0.036   10 E3                                              
+122TE cG $branching from BE3|^=0.12 {I4} and T{-1/2}                            
+122TEB G BE3W=18 6                                                              
+122TE  L 2203.79    41,2+              0.126 PS  7                              
+122TEX L XREF=CDG(*2202.8)L                                                     
+122TE cL J         D(+Q) |g to 2+, |g to 0+                                     
+122TE  G 946.77    1210      1 D(+Q)     +1      +125-1                         
+122TE  G 1639.70   3 100     9 D(+Q)     +0.2    +5-4                           
+122TE cG MR $other: -0.05 {i10} or -3 {i1} in (n,n'|g) (1990BeYR)               
+122TE  G 2203.58   10 29     1                                                  
+122TE  L 2283.87    8 6+               0.15 PS   +29-7                      B   
+122TEX L XREF=CDEFL(*2285.36)                                                   
+122TE cL E $unresolved doublet of the near-lying levels in (d,d')               
+122TE cL J         stretched E2 |g to 4+, (M1+E2) |g to 6+ in (|a,2n|g)         
+122TE  G 532.65    9 100     3  M1(+E2)  +0.2    +4-3                           
+122TE cG MR$from (n,n'|g) (2005Hi04);                                           
+122TE2cG others: +0.04<|d<+0.50 in (n,n'|g) (1990BeYR), -0.20 {I+11-7} in       
+122TE3cG (|a,2n|g)                                                              
+122TEB G BM1W=(0.55 9)$BE2W=(60 +22-6)                                          
+122TE  G 1102.49   1270      6 E2                                               
+122TEB G BE2W=27 +13-27                                                         
+122TE  L 2287.35    4 2+               0.148 PS  8                              
+122TEX L XREF=BCDGH(*2300)L(*2285.36)M                                          
+122TE cL E         doublet in (p,t)                                             
+122TE cL J $|g's to 0+ and 4+, M1+E2 |g to 2+                                   
+122TE  G 1030.18   15 6.0    1  M1+E2                                          ?
+122TE cG MR$+12<|d<-0.32 in (n,n'|g) (2005Hi04)                                 
+122TE  G 1105.5    5  2.4    1                                                  
+122TE  G 1723.24   4 100     5 M1+E2                                            
+122TE cG MR $+1.3 {i3} or +0.32 {i15-10} in (n,n'|g) (2005Hi04);                
+122TE2cG other: 0.11 {i6} or +1.7 {i2} in (n,n'|g) (1990BeYR)                   
+122TE  G 2287.40   1210.6    8                                                  
+122TE  L 2297.45    7 (0+)             0.9 PS    +6-3                           
+122TEX L XREF=BCDGH(*2300)MN(*2307)                                             
+122TE cL J         1733|g(|q) is isotropic in (n,n'|g) (1990BeYR, 2005Hi04);    
+122TE2cL log {Ift}=7.14 from 1+;                                                
+122TE  G 1733.34   6  100                                                   D   
+122TE  L 2310.79   10 (2)+             0.85 PS   +31-18                         
+122TEX L XREF=BCDGH(*2300)LMN(*2307)                                            
+122TE cL E $unresolved doublet of the near-lying levels in (p,t) and            
+122TE2cL ({+3}He,{+4}He)                                                        
+122TE cL J$log {Ift}=5.89 from 1+, M1+E2 |g to 2+, |g to 4+                     
+122TE2cL and 0+                                                                 
+122TE  G 557.8     5  4      3   M1+E2   -2                                     
+122TE cG MR $-2 {I+1-1254} in (n,n'|g) (2005Hi04)                               
+122TEB G BM1W=(0.0010 +4-10)$BE2W=(10 10)                                       
+122TE  G 953.22    164.4     1                                                  
+122TE  G 1129.69   143.7     1                                                  
+122TE  G 1746.8    5 100     2   M1+E2                                          
+122TE cG MR$-11 {I+4-5} or -0.55 {i8}                                           
+122TE  G 2310.8    5 1.5     4                                                  
+122TE  L 2407.59    85-                0.210 PS  +28-22                     E   
+122TEX L XREF=CDEFG(*2409.1)H(*2410)JL(*2407.89)N                               
+122TE cL J         L=5 in (p,p')                                                
+122TE  G 1226.2    1 100       E1(+M2)   +0.04   2                              
+122TE cG MR $from (n,n'|g) (1990BeYR)                                           
+122TEB G BE1W=0.00071 12$BM2W=3 3                                               
+122TE  L 2407.86    4(2)+              95 FS     6                              
+122TEX L XREF=BCDG(*2409.1)H(*2410)L(*2407.89)M                                 
+122TE cL E         doublet in (p,t)                                             
+122TE cL J         L=(2) in (p,t); log {Ift}=6.6 from 1+; M1+E2 |g to 2+,       
+122TE2cL |g(|q) excludes J|p=3+                                                 
+122TE  G 1843.82   3 100       M1+E2     +2      +4-1                           
+122TE cG $other: +5.5 {i6} from the assumption of J|p(2407.95)=3+               
+122TE2cG in (n,n'|g) (1990BeYR)                                                 
+122TEB G BM1W=(0.007 +24-7)$BE2W=(6 5)                                          
+122TE  L 2448.52    5 (4+)             0.24 PS   +4-3                           
+122TEX L XREF=CDGHLMN                                                           
+122TE cL E $unresolved doublet of the near-lying levels in (d,t)                
+122TE cL J         L=(4) in (p,t)                                               
+122TE  G 1267.28   4 100.0   10 M1(+E2)  +0.09   +12-19                         
+122TEB G BM1W=0.041 9$BE2W=0.15 +39-15                                          
+122TE  G 1884.27   12 9.2    9                                                  
+122TE  L 2477.6    4 (4+)                                                       
+122TEX L XREF=JMN                                                               
+122TE cL J         L=(4) in (p,p')                                              
+122TE  L 2499.45    7(0+)              0.7 PS    +8-3                           
+122TEX L XREF=CDGLMN(*2503.9)                                                   
+122TE cL E $unresolved doublet of the near-lying levels in ({+3}He,{+4}He)      
+122TE cL J         1936|g(|q) is isotropic in (n,n'|g); L=0+2+(4) in ({+3}He,d) 
+122TE  G 1242.46   7  28.6   11                                             D   
+122TE  G 1935.63   21 100.0  11                                                 
+122TE  L 2508.71    6 (2)+             63.1 FS   28                             
+122TEX L XREF=BCDGHLMN(*2503.9)                                                 
+122TE cL E         admixture of {+124}Te component in ({+3}He,d)                
+122TE cL J         L=(2) in (p,t), M1+E2 |g to 2+, |g to 4+                     
+122TE  G 468.34    1418.8    8                                                  
+122TEF G FL=2041.18                                                             
+122TE cG E$poor fit. Level-energy difference=467.53                             
+122TE  G 1251.56   1312      4  M1(+E2)  -0.2    4                              
+122TEB G BM1W=(0.016 6)$BE2W=(0.3 +11-3)                                        
+122TE  G 1944.49   6 100     5  M1+E2    +1.6    +6-3                           
+122TE cG $other: -0.05 {I2} in (n,n'|g) (1990BeYR)                              
+122TEB G BM1W=0.010 6$BE2W=4.9 12                                               
+122TE  L 2535.72    7 3,4,5            0.47 PS   GT                             
+122TEX L XREF=CD                                                                
+122TE cL J $D+Q |g to 4-                                                        
+122TE  G 1354.46   6  100      D+Q       -1.0    +3-4                           
+122TE cG $B(M1)(W.u.)<0.012; B(E2)(W.u.)<4.8 (if M1+E2)                         
+122TE  L 2538.84    5                  0.76 PS   GT                             
+122TEX L XREF=CDMN                                                              
+122TE  G 586.90    4 100.0   10 D+Q                                             
+122TE  G 628.93    20 19.8   12                                                 
+122TE  G 1357.70   8  35.8   9                                                  
+122TE  L 2557.88    6 1,2,3            0.292 PS  +28-24                         
+122TEX L XREF=CD                                                                
+122TE cL J $D+Q |g to 2+                                                        
+122TE  G 1300.89   5  100       D+Q      +1.1    +4-2                           
+122TE cG $B(M1)(W.u.)=(0.016 {I7}); B(E2)(W.u.)=(8 {I3}) (if M1(+E2))           
+122TE  L 2560.69    9 +                                                         
+122TEX L XREF=CDGL                                                              
+122TE cL J         L=2+(4) in ({+3}He,d)                                        
+122TE  G 1379.43   8  100       D+Q      -0.06   2                          D   
+122TE cG MR$from (n,n'|g) (1990BeYR)                                            
+122TE  L 2592.38    6 1                18.0 FS   14                             
+122TEX L XREF=CDH(*2600)J(*2590)KL(*2593.5)M(*2593.92)                          
+122TE cL E $unresolved doublet of the near-lying levels in (d,d') and (d,t)     
+122TE cL J         D |g to 0+ in (|g,|g'), |g to 2+                             
+122TE cL T$other: 17 fs {i4} from total width in (|g,|g')                       
+122TE  G 2028.7    6 19.6    22                                                 
+122TE cG E $only observed in (n,n'|g) (1990BeYR)                                
+122TE  G 2592.35   6 100     10 D                                               
+122TE cG $B(E1)(W.u.)=0.00072 {I12} (if E1)                                     
+122TE  L    2593.4717 2+                                                        
+122TEX L XREF=BCDH(*2600)J(*2590)L(*2593.5)M(*2593.92)                          
+122TE cL J         D+Q |g to 2+, |g's to 0+ and 4+                              
+122TE  G 1336.63   2048      5 D+Q                                              
+122TE cG MR$tan{+-1}|d=+0.94 {I+314-314}: all values possible                   
+122TE  G 1412.0    3 20      4                                                 ?
+122TE cG E $only observed in (n,n'|g) (1990BeYR)                                
+122TE  G 2029.72   7 100     10D+Q                                              
+122TE cG MR$tan{+-1}|d=0.13 {I+314-314}: all values possible                    
+122TE  G 2593.80   2011      3                                                  
+122TE cG E $not observed in (n,n'|g) (2005Hi04)                                 
+122TE  L    2600.88 6 3+               0.7 PS    +12-3                          
+122TEX L XREF=CDH(*2600)J(*2590)MN                                              
+122TE cL J         M1(+E2) |g's to 4+ and 2+                                    
+122TE  G 1419.62   5 100     9 M1(+E2)   +2.0    15                             
+122TE cG MR$from (n,n'|g) (2005Hi04); other: +0.50 {i14} or +2.7 {I+11-7}       
+122TE2cG (n,n'|g) (1990BeYR)                                                    
+122TEB G BM1W=(0.0015 +18-15)$BE2W=(2.1 7)                                      
+122TE  G 2036.76   1450      3 M1(+E2)   -0.83   +24-29                         
+122TEB G BM1W=(0.00073 18)$BE2W=(0.09 3)                                        
+122TE  L    2603.7715 3,4,5                                                     
+122TEX L XREF=CDGH(*2600)J(*2590)L                                              
+122TE cL J         D(+Q) |g to 4+                                               
+122TE  G 1422.51   14 100       D+Q      +0.8    +3-7                       D   
+122TE  L 2636.28    8 1,2,3                                                     
+122TE cL E $admixture of other isotopes in (d,t)                                
+122TEX L XREF=CDG(*2639.8)LM                                                    
+122TE cL J         D+Q |g to 2+                                                 
+122TE  G 1379.27   15100     10D+Q       +3.9    +13-11                     D   
+122TE cG MR        From (n,n'|g) (2005Hi04); other: -0.06 {i2} in (n,n'|g)      
+122TE2cG (1990BeYR)                                                             
+122TE  G 2072.18   8 18.7    8 D(+Q)     -2      +2-14                      D   
+122TE  L     2637.8 4                                                           
+122TEX L XREF=CG(*2639.8)                                                       
+122TE  G 2073.7    4  100                                                   D   
+122TE  L 2642.80   22                                                           
+122TEX L XREF=G(*2639.8)L                                                       
+122TE cL E         admixture of {+124}Te component in ({+3}He,d)                
+122TE  L 2654.84   20 1,2,3            0.5 PS    +5-2                           
+122TEX L XREF=CD                                                                
+122TE cL J         D(+Q) |g's to 2+                                             
+122TE  G 1397.79   23100     1 D(+Q)     -6      +3-4                           
+122TE cG $B(M1)(W.u.)=0.0004 {I+5-4}; B(E2)(W.u.)=5 {I5} (if M1+E2)             
+122TE  G 2091.0    4 21.0    9 D(+Q)                                            
+122TE cG MR$+1.3<|d<-14: tan{+-1}|d=+1.29 {I+35-38}                             
+122TE  L 2659.2    16 +                                                         
+122TEX L XREF=G                                                                 
+122TE cL E         admixture of {+124}Te component in ({+3}He,d)                
+122TE cL J         L=2+4 in ({+3}He,d)                                          
+122TE  L 2669.43    5 3+               0.34 PS   +23-10                         
+122TEX L XREF=CDG(*2671.8)M(*2668.6)                                            
+122TE cL J         M1+E2 |g to 2+, M1(+E2) |g to 4+                             
+122TE  G 1488.28   5 100.0   13 M1(+E2)  -0.09   +9-10                          
+122TEB G BM1W=(0.016 3)$BE2W=(0.04 +9-4)                                        
+122TE  G 2104.91   1019.5    13 M1+E2    -0.8    +4-8                           
+122TEF G FL=564.094                                                             
+122TE cG E$poor fit. Level-energy difference=2105.32                            
+122TEB G BM1W=0.0007 3$BE2W=0.07 5                                              
+122TE  L 2669.78   148+                0.34 PS   +23-10                     B   
+122TEX L XREF=DEFG(*2671.8)LM(*2668.6)N                                         
+122TE cL E         triplet in ({+3}He,d)                                        
+122TE cL J         stretched E2 |g to 6+ in (|a,2n|g)                           
+122TE  G 386.0     2 2.2     2                                                  
+122TE  G 918.5     3 100     2 E2                                               
+122TEB G BE2W=69 +21-47                                                         
+122TE  L 2679.67    44+                0.41 PS   +18-10                         
+122TEX L XREF=CDGH(*2690)J(*2690)ML                                             
+122TE cL E $triplet in ({+3}He,d)                                               
+122TE cL J         stretched E2 |g's to 2+                                      
+122TE  G 1422.46   5  42.0   21E2                                           D   
+122TEF G FL=1256.953                                                            
+122TE cG E$poor fit. Level-energy difference=1422.71                            
+122TEB G BE2W=2.0 +5-9                                                          
+122TE  G 2115.81   5 100.0   21E2                                               
+122TEF G FL=564.094                                                             
+122TE cG E$poor fit. Level-energy difference=2115,56                            
+122TEB G BE2W=0.64 +16-28                                                       
+122TE  L 2693.57    73+,4+             0.15 PS   +4-3                           
+122TEX L XREF=CDGH(*2690)J(*2690)LMN                                            
+122TE cL J $M1(+E2) |g to 4+, |g to 2+                                          
+122TE  G 1436.6    4  7.9    17                                                 
+122TE  G 1512.31   6 100.0   17 M1(+E2)  +0.1    +12-2                          
+122TEB G BM1W=0.039 10$BE2W=0 +3-0                                              
+122TE  L    2719.30 6 1,2+             68 PS     +13-10                         
+122TEX L XREF=BCDMN                                                             
+122TE cL J         D+Q |g to 2+, |g to 0+                                       
+122TE  G 1462.4    3 49      7                                                  
+122TE  G 2155.06   11100.0   5  D+Q                                         D   
+122TE  G 2719.30   6 92      4                                                  
+122TE  L 2742.54    7 1,2,3            80 PS     +13-10                         
+122TEX L XREF=CDGH(*2750)LMN                                                    
+122TE cL E $admixture of other isotopes in (d,d'), (d,t) and ({+3}He,{+4}He);   
+122TE2cL unresolved doublet of the near-lying levels in (d,d')                  
+122TE cL J $D(+Q) |g's to 2+                                                    
+122TE  G 1485.59   15 18.2   4 D+Q                                              
+122TE cG MR$tan{+-1}|d=-0.72 {I+314-314}: all values possible                   
+122TE  G 2178.42   7  100.0  4 D+Q                                              
+122TE cG MR$-0.32<|d<-1.40: tan{+-1}|d=+0.81 {I+138-112}                        
+122TE  L 2756.08   100+,1+,2+          0.143 PS  +34-24                         
+122TEX L XREF=BCDG(*2761)H(*2750)L(*2757.7)N(*2758.4)                           
+122TE cL E         doublet in (|a,|a')                                          
+122TE cL J $log {Ift}=5.56 from 1+; |g's to 2+. Weak feeding in                 
+122TE2cL (n,n'|g) suggests J|p=0+ (2005Hi04)                                    
+122TE  G 1498.77   1459.8    14                                                 
+122TE  G 2192.31   14100     3                                                  
+122TE  L 2758.52    9 (4,5,6)+         0.133 PS  +17-13                         
+122TEX L XREF=CDG(*2761)L(*2757.7)M(*2758.51)N(*2758.4)                         
+122TE cL E$Unresolved doublet of the near-lying levels in (d,d') and ({+3}He,d),
+122TE cL J $M1+E2 |g to 4+; excitation function and 717|g(|q)                   
+122TE2cL in (n,n'|g) (2005Hi04)                                                 
+122TE  G 717.20    14 22.0   6 M1+E2     +3      +3-1                           
+122TEB G BM1W=0.008 +15-8$BE2W=101 21                                           
+122TE  G 1577.38   11 100.0  6 (M1+E2)   +0.51   +12-9                          
+122TEB G BM1W=0.027 3$BE2W=2.1 8                                                
+122TE  L 2758.75    9(6-)                                                   E   
+122TEX L XREF=CDEFG(*2761)L(*2757.7)M(*2758.51)N(*2758.4)                       
+122TE cL E$doublet. see comments for 2758.52 level                              
+122TE cL J         D+Q |g to 5-, |g to 6+; (6-) member of band 5                
+122TE  G 351.21    10100     10D+Q       -0.32   +10-8                          
+122TEF G FL=2407.59                                                             
+122TE cG MR $other: -1.5 {I+11-8} in (|a,2n|g)                                  
+122TE  G 1007.36   1047      4                                                  
+122TE  L 2771.39    9                  0.18 PS   +6-4                           
+122TEX L XREF=CL(*2772.8)M(*2771.9)                                             
+122TE  G 1590.13   8  100                                                       
+122TE  L 2772.26   21                  0.20 PS   +9-5                           
+122TEX L XREF=CDL(*2772.8)M(*2771.9)N                                           
+122TE cL E $admixture of other isotopes in ({+3}He,{+4}He)                      
+122TE  G 1591.0    2  100                                                       
+122TE  L 2777.8     3 1,2,3            0.118 PS  +10-9                          
+122TEX L XREF=CDGLM                                                             
+122TE cL J$D(+Q) |g to 2+                                                       
+122TE  G 2213.7    3  100       D(+Q)    -0.03   +9-6                           
+122TE  L 2789.16    9                                                           
+122TEX L XREF=DH(*2800)J(*2790)                                                 
+122TE cL E         doublet in (p,t)                                             
+122TE  G 1037.84   10100                                                        
+122TE2 G FL=1751.32                                                             
+122TE  L 2789.70    9                                                           
+122TEX L XREF=CH(*2800)J(*2790)                                                 
+122TE  G 2225.60   13100                                                        
+122TE  L 2796.43   19 1,2,3            19.4 FS   14                             
+122TEX L XREF=CDGJ(*2790)ML                                                     
+122TE cL J $D(+Q) |g to 2+                                                      
+122TE  G 2232.31   19 100       D(+Q)    0.00    9                              
+122TE  L 2800.82   107-                                                     F   
+122TEX L XREF=DEFG(*2801.7)HL(*2800.6)M(*2799.8)N(*2800.5)                      
+122TE cL E $probable multiplet in (p,t)                                         
+122TE cL J         L=7 in (p,t)                                                 
+122TE  G 393.2     2 5.3     5                                                  
+122TE2 G FL=2407.59                                                             
+122TE  G 1049.32   10100     2 E1                                               
+122TE  L 2801.46    7 (2,3)            0.32 PS   +6-5                           
+122TEX L XREF=CDG(*2801.7)L(*2800.6)M(*2799.8)N(*2800.5)                        
+122TE cL J $D+Q |g's to 3- and 2+                                               
+122TE  G 604.10    17 19.7   14 D+Q      +0.5    +5-3                           
+122TE  G 1544.5    5  15.9   15 D+Q      -3.5    +13-17                         
+122TE  G 2237.44   7  100.0  18 D(+Q)    -0.03   6                              
+122TE  L 2808.0    5                                                            
+122TEX L XREF=CL                                                                
+122TE cL E $from (d,d')                                                         
+122TE  G 899.28    5 100                                                       ?
+122TEF G FL=1909.61                                                             
+122TE  L 2809.82   13 3,4+                                                      
+122TEX L XREF=CDG(*2814.4)                                                      
+122TE cL J $D+Q |g to 4+ and |g to 2+                                           
+122TE  G 1628.70   16100.0   8  D(+Q)    +0.03   +23-12                     D   
+122TE  G 2245.51   198.9     8                                                  
+122TE  L 2816.78    8 3,4,5            0.6 PS    +8-2                           
+122TEX L XREF=CG(*2814.4)                                                       
+122TE cL J $D+Q |g to 4+                                                        
+122TE  G 907.06    10 41     2  D(+Q)    +0.2    +4-3                           
+122TE  G 1635.61   9  100    2  D+Q      +0.47   +12-7                          
+122TE  L 2822.8     3                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1641.5    3 100                                                    D   
+122TE  L 2837.5     4                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1656.2    4 100                                                        
+122TE  L 2839.60    5 3+               96 FS     10                             
+122TEX L XREF=CDL(*2839.9)M(*2840.1)N(*2840.9)                                  
+122TE cL J $M1+E2 |g's to 2+ and 4+                                             
+122TE  G 1582.42   1241.6    12 M1+E2    -0.03   19                             
+122TEB G BM1W=0.0138 16$BE2W=0.00 5                                             
+122TE  G 1658.29   6 33      4  M1+E2    +1.7    +7-11                      D   
+122TEB G BM1W=0.0024 16$BE2W=1.8 5                                              
+122TE  G 2275.70   9 100     1  M1+E2    -0.8    3                              
+122TEB G BM1W=0.0068 22$BE2W=0.6 3                                              
+122TE  L 2840.2    2                                                            
+122TEX L XREF=CL(*2839.9)M(*2840.1)N(*2840.9)                                   
+122TE  G 899.1     5 100                                                    T  ?
+122TE  L 2860.53    6 4,5              0.148 PS  +19-23                         
+122TEX L XREF=CDLMN                                                             
+122TE cL J $D+Q |g to 5-, D(+Q) |g to 4+                                        
+122TE  G 452.10    22 58     1  D+Q      +0.4    3                              
+122TEF G FL=2407.59                                                             
+122TE  G 1679.31   5 100     1  D(+Q)    +0.03   +6-3                           
+122TE  L 2882.8    6                                                            
+122TEX L XREF=GL                                                                
+122TE cL E $weighted average of levels in (d,d') and ({+3}He,d)                 
+122TE  L 2885.63    6 1+,2+,3+         50.6 FS   28                             
+122TEX L XREF=CD                                                                
+122TE cL J $M1+E2 |g's to 2+                                                    
+122TE  G 1628.48   10 12.1   7  M1+E2    +3.1    +13-10                     D   
+122TEB G BM1W=0.0010 8$BE2W=2.7 3                                               
+122TE  G 2321.60   7 100.0   7  M1+E2    +0.51   +8-9                           
+122TEB G BM1W=0.0246 22$BE2W=0.85 22                                            
+122TE  L 2890.56   18 (7-)                                                  D   
+122TEX L XREF=CEFH(*2900)                                                       
+122TE cL J         D(+Q) |g to 6+                                               
+122TE  G 1139.70   25100        D(+Q)    -0.28   +1-4                           
+122TE cG MR$from (|a,2n|g)                                                      
+122TE  L 2897.6     3                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1640.6    3 100                                                    D   
+122TE  L 2898.93   15                  0.20 PS   +10-5                          
+122TEX L XREF=CH(*2900)L(*2899.1)M(*2900.36)N(*2901.8)                          
+122TE  G 1642.6    3                                                        D   
+122TE  G 2334.63   16100                                                        
+122TEF G FLAG=N                                                                 
+122TE  L 2901.08   12                  0.29 PS   +15-8                          
+122TEX L XREF=CH(*2900)L(*2899.1)M(*2900.36)N(*2901.8)                          
+122TE  G 1719.82   11100                                                        
+122TE  L 2911.24   101+,2+             0.102 PS  8                              
+122TEX L XREF=BCDG(*2914.0)H(*2900)L(*2914.7)M(*2911.4)                         
+122TE cL E $unresolved triplet of the near-lying levels in ({+3}He,d) and       
+122TE2cL (d,d'); admixture of other isotope in (d,t)                            
+122TE cL J         log {Ift}=6.86 from 1+, M1+E2 |g's to 2+, |g to 0+           
+122TE  G 1654.3    3  21.3   5  M1+E2    -0.4    +2-3                           
+122TEB G BM1W=0.0067 11$BE2W=0.28 25                                            
+122TE  G 2347.11   10 100    1  M1+E2    +0.5    +7-3                           
+122TEB G BM1W=0.010 6$BE2W=0.3 +8-3                                             
+122TE  G 2911.5    8  9.6    5                                                  
+122TE  L 2911.24   22                                                           
+122TEX L XREF=CM(*2911.4)                                                       
+122TE  G 1159.91   21                                                           
+122TE  L     2913.5 4 (8+)                                                  C   
+122TEX L XREF=DEFG(*2914.0)H(*2900)L(*2914.7)                                   
+122TE cL J         stretched Q |g to 6+ in (|a,2n|g)                            
+122TE  G 1162.2    4 100       Q                                                
+122TE  L 2913.82   14                                                           
+122TEX L XREF=CDG(*2914.0)                                                      
+122TE  G 1657.04   15 100    10                                             D   
+122TE  G 1731.8    3  47     7                                              D   
+122TE  L    2915.87131,2+              13.9 FS   14                             
+122TEX L XREF=CDG(*2914.0)KL(*2914.7)                                           
+122TE cL E $triplet in (d,d')                                                   
+122TE cL J         excited in (|g,|g'), (D,Q) |g to 0+                          
+122TE  G 2351.79   21100     1  D(+Q)    -0.3    +5-2                           
+122TE  G 2915.81   1696      1 (D,Q)                                            
+122TE  L 2919.35   13 1,2+             37 FS     4                              
+122TEX L XREF=CKMN                                                              
+122TE cL J         excited in (|g,|g'), |g to 0+                                
+122TE  G 2919.31   13 100                                                       
+122TE  L 2930.18    9 1,2,3            0.18 PS   +4-3                           
+122TEX L XREF=CDL                                                               
+122TE cL J         D+Q |g to 2+                                                 
+122TE  G 1673.19   11 67.5   12 D+Q      -4.5    +10-17                         
+122TE  G 2366.09   12 100.0  12 D(+Q)    -0.06   +6-10                          
+122TE  L 2930.55    8 3,4              42 FS     +6-5                           
+122TEX L XREF=C                                                                 
+122TE cL J         D+Q |g's to 3- and 4+                                        
+122TE  G 733.42    8  35     3  D+Q      +0.78   +10-5                          
+122TE  G 1750.01   12 100    3  D+Q      +0.93   +18-16                         
+122TEF G FL=1181.248                                                            
+122TE cG E$poor fit. Level-energy difference=1749.29                            
+122TE  L 2938.87   10                  36.7 FS   21                             
+122TEX L XREF=CGL                                                               
+122TE cL E $unresolved doublet of the near-lying levels in ({+3}He,d')          
+122TE  G 2374.75   9 100                                                        
+122TE  L     2944.2 8                                                           
+122TEX L XREF=CH(*2950)LN                                                       
+122TE  G 1762.9    8 100                                                    D   
+122TE  L 2951.4    6                                                            
+122TEX L XREF=H(*2950)L                                                         
+122TE cL E $from (d,d');                                                        
+122TE2cL probable multiplet in (p,t)                                            
+122TE  L 2958.04   10 3,4+             0.117 PS  +9-8                           
+122TEX L XREF=CDH(*2950)L                                                       
+122TE cL J         D(+Q) |g to 4+; |g to 2+                                     
+122TE  G 1701.5    5  29.1   6                                                  
+122TE  G 1776.78   11100.0   10 D(+Q)    +0.4    +5-4                           
+122TE  G 2393.84   23 61.0   10                                                 
+122TE  L 2959.12   15  1,2+                                                     
+122TEX L XREF=CH(*2950)                                                         
+122TE cL J         |g to 0+                                                     
+122TE  G 2959.08   15100                                                        
+122TE  L 2961.39   22                                                           
+122TEX L XREF=CGMN                                                              
+122TE  G 1780.13   21100                                                    D   
+122TE  L 2969.5    6                                                            
+122TEX L XREF=LM                                                                
+122TE  L 2971.88   12(7-)                                                   E   
+122TEX L XREF=DEF                                                               
+122TE cL J         D |g to 6+, |g to 5- in (|a,2n|g)                            
+122TE  G 213       1                                                            
+122TEF G FL=2758.75                                                             
+122TE  G 564.2     2 77      7                                                  
+122TE2 G FL=2407.59                                                             
+122TE  G 688.1     2 52      5                                                  
+122TE  G 1221.0    3 100     5  D                                               
+122TE  L 2975.43   14 2,3,4                                                     
+122TEX L XREF=C                                                                 
+122TE cL J         D+Q |g to 3-                                                 
+122TE  G 778.61    13100        D+Q      -1.7    +5-4                           
+122TE  L 2982.36    8 1,2+             46 FS     +13-10                         
+122TEX L XREF=CDG(*2982)                                                        
+122TE cL J         D+Q |g's to 2+, |g to 0+                                     
+122TE  G 1725.30   9 37.1    15 D+Q                                             
+122TE cG MR$tan{+-1}|d=0.28 {I+314-314}: all values possible                    
+122TE  G 2418.1    3 24.8    8  D+Q                                             
+122TE cG MR$tan{+-1}|d=+0.94 {I+314-314}: all values possible                   
+122TE  G 2982.54   13100.0   15                                                 
+122TE  L 2985.5    4 +                                                          
+122TEX L XREF=G(*2982)MN                                                        
+122TE cL E $weighted average of levels in (d,t) and ({+3}He,{+4}He)             
+122TE cL J         L=0+2 in ({+3}He,d)                                          
+122TE  L 2993.50   10 4+               0.51 PS   +28-14                         
+122TEX L XREF=CD                                                                
+122TE cL J         stretched E2 |g to 2+, M1+E2 |g to 4+                        
+122TE  G 1736.2    3  18.0   7                                                  
+122TE  G 1812.26   11 100.0  9  M1+E2                                           
+122TE cG MR$+6.6<|d<-10.0                                                       
+122TE cG           B(E2)(W.u.)=1.1 {I+3-6} (if E2)                              
+122TE  G 2429.49   22 24.9   6  E2                                              
+122TEB G BE2W=0.064 +18-35                                                      
+122TE  L 2994.7    2                                                            
+122TEX L XREF=G(*2997.3)L(*2995.5)MN                                            
+122TE cL E $weighted average of levels in (d,d'), (d,t) and ({+3}He,{+4}He)     
+122TE  L     2996.3 3 3,4,5            0.3 PS    +4-2                           
+122TEX L XREF=CG(*2997.3)L(*2995.5)                                             
+122TE cL J         D+Q |g to 4+                                                 
+122TE  G 1086.7    3 100        D+Q      -2.7    +12-24                         
+122TE  L    2997.99 8 2+,3,4+          51 FS     6                              
+122TEX L XREF=CDG(*2997.3)L(*2995.5)M                                           
+122TE cL E $admixture of other isotope in (d,t)                                 
+122TE cL J         |g's to 4+ and 2+                                            
+122TE  G 1816.74   8 100                                                        
+122TEF G FLAG=N                                                                 
+122TE  G 2433.83   14                                                           
+122TE  L 3009.52   14                                                           
+122TEX L XREF=CG(*3012)                                                         
+122TE  G 2445.40   14                                                           
+122TE  L 3012.72   18 3                25.0 FS   28                             
+122TEX L XREF=CDG(*3012)                                                        
+122TE cL J         D+Q |g to 4+, D(+Q) |g to 2+                                 
+122TE  G 1831.5    3  100    1  D+Q      +0.13   +14-9                          
+122TE  G 2448.58   21 59     1  D(+Q)    +0.03   +10-12                         
+122TE  L 3026.87    7 2+,3+            0.169 PS  +33-24                         
+122TEX L XREF=CD                                                                
+122TE cL J$M1+E2 |g to 2+ and M1(+E2) |g to 3+                                  
+122TE  G 468.48    21 54.2   12D(+Q)     +0.1    +4-3                           
+122TE cG $B(M1)(W.u.)=0.32 {I3}; B(E2)(W.u.)=10 {I+82-10} (if M1+E2)            
+122TE  G 1074.89   9  37.7   9 M1(+E2)   +0.03   +23-22                         
+122TEB G BM1W=(0.018 3)$BE2W=(0.010 +16-10)                                     
+122TE  G 1770.05   9  100    1  M1+E2    +0.6    +4-2                           
+122TEB G BM1W=0.008 3$BE2W=0.7 7                                                
+122TE  G 2462.5    21 22.2   17 M1+E2                                           
+122TE cG MR$+2.1<|d<0: tan{+-1}|d=-0.60 {I+60-141}                              
+122TE  G 3026.9    5  0.4    LT                                                 
+122TE  L 3030.62   20                  0.16 PS   +4-3                           
+122TEX L XREF=CD                                                                
+122TE  G 1849.36   19 100      (E2)                                             
+122TEB G BE2W=4.5 +9-12                                                         
+122TE  L 3037.12    8 2+,3+                                                     
+122TEX L XREF=CLMN(*3039.7)                                                     
+122TE cL E $unresolved doublet of the near-lying levels in ({+3}He,{+4}He)      
+122TE cL J$M1+E2 |g to 2+, |g to 4+                                             
+122TE  G 1780.08   9  64.5   26 M1+E2                                           
+122TE cG MR$+14<|d<-0.4: tan{+-1}|d=1.32 {I+94-32}                              
+122TE  G 1856.32   16 54.8   22                                                 
+122TE  G 2472.71   20 100.0  26 M1+E2    +2.3    +16-6                          
+122TE  G 3036.7    5  0.44   LT                                                 
+122TE  L 3042.03   13                  52 FS     +6-5                           
+122TEX L XREF=CN(*3039.7)                                                       
+122TE  G 1860.77   12100                                                        
+122TE  L 3044.71   121+,2+             0.21 PS   +12-6                          
+122TEX L XREF=BCGL(*3049)MN(*3039.7)                                            
+122TE cL E         Probable doublet in ({+3}He,d)                               
+122TE cL J$|g to 0+, M1(+E2) |g's to 2+;                                        
+122TE2cL log {Ift}=6.49 from 1+; L=(2) in ({+3}He,d)                            
+122TE  G 945.73    2146      8                                              D   
+122TE  G 1787.46   2432      LT M1(+E2)                                         
+122TE cG MR$+1.9<|d<-0.4: tan{+-1}|d=1.32 {I+94-32}                             
+122TE  G 2480.56   20100     13 M1(+E2)  -1      +1-13                          
+122TEB G BM1W=0.0018 18$BE2W=0.21 21                                            
+122TE  G 3044.7    3 32      4                                                  
+122TE  L 3047.82   14 (3)              73 FS     +12-10                         
+122TEX L XREF=CDH(*3060)L(*3049)                                                
+122TE cL J$D+Q |g's to 2+ and 4+                                                
+122TE  G 1790.39   24 27.4   14D(+Q)     -1      +1-13                          
+122TE  G 1865.5    4  77.1   16(D+Q)                                            
+122TE cG MR$+3.4<|d<-3.5                                                        
+122TE  G 2484.17   18 100.0  18 D+Q                                             
+122TE cG MR$+34<|d<-2.5                                                         
+122TE  L 3052.25   13 0+,1,2           60 FS     +21-15                         
+122TEX L XREF=BCDH(*3060)L(*3049)                                               
+122TE cL E         doublet in (p,t)                                             
+122TE cL J         log {Ift}=6.69 from 1+; |g's to 2+;                          
+122TE  G 1795.29   16100     18                                                 
+122TE  G 2488.11   1996      26                                                 
+122TE  L 3057.2    19                                                           
+122TEX L XREF=CH(*3060)                                                         
+122TE  G 1875.9    19100                                                        
+122TE  L 3061.38   22 1+,2+            0.194 PS  +24-22                         
+122TEX L XREF=CDG(*3066)H(*3060)LM                                              
+122TE cL E $unresolved doublet of the near-lying levels in ({+3}He,d);          
+122TE2cL probable multiplet in (p,t)                                            
+122TE cL J$M1(+E2) |g to 2+, |g to 0+                                           
+122TE  G 2496.7    4  19.6   7  M1(+E2)                                         
+122TE cG MR$all values possible                                                 
+122TE  G 3061.58   26 100.0  7                                                  
+122TEB G BE2W=0.25 +3-4                                                         
+122TE  L     3068.7 4                                                           
+122TEX L XREF=CG(*3066)H(*3060)L                                                
+122TE  G 2504.6    4                                                            
+122TE  L 3069.05   12 3,4,5-           0.141 PS  +33-24                         
+122TEX L XREF=CD                                                                
+122TE cL J$D+Q |g to 4+, |g to 3-                                               
+122TE  G 873.5     3  12.9   8                                                  
+122TEF G FL=2196.81                                                             
+122TE cG E$poor fit. Level-energy difference=872.23                             
+122TE  G 1887.58   12 100.0  8  D+Q      +8      +6-2                           
+122TE  L 3071.18   17                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1890.03   18 100.0  15                                             D   
+122TE  G 2506.5    4  35.0   15                                                 
+122TE  L 3074.07   12(8-)                                                   D   
+122TEX L XREF=EF                                                                
+122TE cL J         D+Q |g to (7-) in ({+9}Be,3n|g)                              
+122TE  G 102.5     2 38      4 D+Q                                              
+122TE  G 183.8     2 9.7     9                                                  
+122TE  G 273.10    11100     9                                                  
+122TEF G FL=2800.82                                                             
+122TE  L 3074.91   11 1,2+                                                      
+122TEX L XREF=CDN                                                               
+122TE cL J$|g to 0+                                                             
+122TE  G 1134.47   7 100                                                    @   
+122TE  L 3080.7    14                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1899.4    14100                                                        
+122TE  L 3083.8     3                                                           
+122TEX L XREF=CD                                                                
+122TE  G 1902.5    3 100                                                    T   
+122TE  L 3086.39    8                                                           
+122TEX L XREF=CD                                                                
+122TE  G 1134.47   7  98     4                                              @   
+122TE  G 1905.5    7 100     4                                                  
+122TE  L 3094.85    8 2+                                                        
+122TEX L XREF=CDGL                                                              
+122TE cL E $multiplet in ({+3}He,d)                                             
+122TE cL J$|g's to 0+, 2+, 3+ and 3-                                            
+122TE  G 898.78    11 56.0   19                                             T   
+122TEF G FL=2196.81                                                             
+122TE cG E$poor fit. Level-energy difference=898.03                             
+122TE  G 994.5     3  100.0  19                                                 
+122TEF G FL=2099.22                                                             
+122TE  G 1142.7    7  29.9   26                                                 
+122TE  G 1837.14   13 89.8   19                                                 
+122TEF G FL=1256.953                                                            
+122TE cG E$poor fit. Level-energy difference=1837.88                            
+122TE  G 2530.3    12 17.8   16                                                 
+122TE  G 3094.4    3  21.3   13                                                 
+122TE  L 3104.1    5  1,2+             0.13 PS   +14-5                          
+122TEX L XREF=CMN                                                               
+122TE cL E $from ({+3}He,{+4}He)                                                
+122TE cL J$|g to 0+                                                             
+122TE  G 3104.1    5 100                                                        
+122TE  L 3113.49   18 2,3              0.76 PS   LT                             
+122TEX L XREF=CD                                                                
+122TE cL J$D(+Q) |g to 3+, D+Q |g to 2+                                         
+122TE  G 1161.63   18 82     1  D(+Q)    0       +4-1                           
+122TE  G 2548.9    5  100    1  D+Q      -0.7    +3-6                           
+122TE  L 3119.4    12                                                           
+122TEX L XREF=GL                                                                
+122TE  L 3132.20    9 (2+,3+,4+)       0.5 PS    +8-2                           
+122TEX L XREF=CD                                                                
+122TE cL J$(E1) |g to 3-, (E2) |g to 2+, |g to 4+                               
+122TE  G 935.57    16 62.1   17(E1)                                             
+122TEB G BE1W=0.00022 +9-4                                                      
+122TE  G 1950.83   11 27.3   25                                             T   
+122TE  G 2568.12   19 100    2 (E2)                                             
+122TEB G BE2W=0.15 +6-15                                                        
+122TE  L     3134.5 5                                                           
+122TEX L XREF=CGL                                                               
+122TE  G 1953.2    5  100                                                   T   
+122TE  L 3139.57   14                                                           
+122TEX L XREF=CD                                                                
+122TE  G 1958.31   13 100                                                   D   
+122TE  L 3141.4    4                                                            
+122TEX L XREF=M                                                                 
+122TE  L 3142.9     5                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1961.6    5  100                                                   D   
+122TE  L 3147.60   12                                                           
+122TEX L XREF=CG(*3148)                                                         
+122TE  G 1048.7    4  44.2   29                                                 
+122TE  G 1890.27   15 76.6   29                                             D   
+122TE  G 2584.17   22 100.0  27                                             D   
+122TE  L 3150.44   24 0+,1,2           25.6 FS   21                             
+122TEX L XREF=BCDG(*3148)H(*3160)LMN                                            
+122TE cL J         |g to 2+, log {Ift}=6.27 from 1+                             
+122TE  G 2586.32   24100                                                    D   
+122TE  L 3153.15   22                                                           
+122TEX L XREF=C                                                                 
+122TE  G 2589.03   22100                                                    T   
+122TE  L 3156.37   17                                                           
+122TEX L XREF=C                                                                 
+122TE  G 2592.25   17100                                                    T   
+122TE  L 3157.95   12                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1900.98   11100                                                    T   
+122TE  L 3159.64   12 2+,3,4+                                                   
+122TEX L XREF=CDH(*3160)                                                        
+122TE cL J$|g's to 2+ and 4+                                                    
+122TE  G 1902.5    3 63      5                                              T   
+122TEF G FLAG=N                                                                 
+122TE  G 1977.87   24100     3                                                  
+122TEF G FLAG=N                                                                 
+122TE  G 2595.73   14                                                           
+122TE  L 3160.13   24                                                           
+122TEX L XREF=CGH(*3160)LMN                                                     
+122TE  G 1903.16   24100                                                    T   
+122TE  L 3172.0     4                                                           
+122TEX L XREF=CDH(*3160)                                                        
+122TE  G 1990.7    4  100.0  23                                             D   
+122TE  G 2607.8    12 18.8   23                                                 
+122TE  L 3177.15    8                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1077.88   8 100                                                        
+122TEF G FLAG=N                                                                 
+122TE  G 1920.50   21                                                           
+122TE  L 3183.2     4                  83 FS     +17-13                         
+122TEX L XREF=CGLMN                                                             
+122TE  G 2001.9    4 100                                                        
+122TE  L    3192.67114,5,6             0.10 PS   +11-4                          
+122TEX L XREF=C                                                                 
+122TE cL J$D+Q |g to 4+                                                         
+122TE  G 2011.40   10100        D+Q      -0.8    +6-17                          
+122TE  L 3196.7    6 4,5,6                                                      
+122TEX L XREF=C                                                                 
+122TE cL J$D+Q |g to 4+                                                         
+122TE  G 2015.4    6 100        D+Q      -0.8    +5-7                           
+122TE  L 3198.18   12 1,2,3            56 FS     +7-6                           
+122TEX L XREF=CDL(*3198.5)M                                                     
+122TE cL J$D(+Q) |g to 2+                                                       
+122TE  G 2634.06   12100        D(+Q)    0.00    3                              
+122TE  L 3199.3    6  1,2+             26 FS     +6-5                           
+122TEX L XREF=CL(*3198.5)                                                       
+122TE cL J$|g to 0+                                                             
+122TE  G 3199.3    6                                                            
+122TE  L 3207.86   211,2+              15.9 FS   28                             
+122TEX L XREF=CG(*3209.8)KM                                                     
+122TE cL J         excited in (|g,|g'), (D,Q) |g's to 0+                        
+122TE  G 1950.91   2158.7    18                                             D   
+122TE  G 3207.5    9 100     10(D,Q)                                            
+122TE  L 3209.89   16 0+,1,2,3         5.5 FS    21                             
+122TEX L XREF=CG(*3209.8)                                                       
+122TE cL J$|g to 2+; J|p=0+ is probable from 2646|g(|q) is isotropic            
+122TE  G 2645.76   16100                                                        
+122TE  L    3210.3313                                                           
+122TEX L XREF=CL(*3211.0)N(*3211.7)                                             
+122TE  G 1300.65   17                                                       D   
+122TE  G 2029.12   17                                                       D   
+122TE  L     3210.8 5(9+)                                                   C   
+122TEX L XREF=EF                                                                
+122TE cL J         (D+Q) |g to (8+) in ({+9}Be,3n|g)                            
+122TE  G 297.30    11100       (D+Q)                                            
+122TEF G FL=2913.5                                                              
+122TE  L     3211.3 4                  40 FS     +14-11                         
+122TEX L XREF=CL(*3211.0)N(*3211.7)                                             
+122TE  G 1954.2    5  75.7   26                                             D   
+122TE  G 2647.4    5  100.0  26                                                 
+122TE  L 3212.8    7                                                            
+122TEX L XREF=H(*3220)M(*3213.3)N(*3211.7)                                      
+122TE cL E $admixture of other isotope in ({+3}He,{+4}He)                       
+122TE  L 3216.0    7                                                            
+122TEX L XREF=H(*3220)LM(*3213.3)N(*3211.7)                                     
+122TE cL E $from (d,d')                                                         
+122TE  L 3223.37    9 4+               68 FS     +10-8                          
+122TEX L XREF=CD                                                                
+122TE cL J $stretched E2 |g to 2+                                               
+122TE  G 1966.39   9  35.9   12E2                                               
+122TEB G BE2W=2.1 +3-4                                                          
+122TE  G 2659.5    4  100.0  12                                                 
+122TE  L 3247.0     3                  0.11 PS   +9-4                           
+122TEX L XREF=CDG(*3250)N                                                       
+122TE  G 1990.1    3  100.0  20                                             D   
+122TE  G 2681.4    15 34.4   16                                                 
+122TE  L 3252.52   16 1,2+             58 FS     +27-17                         
+122TEX L XREF=CG(*3250)                                                         
+122TE cL J $|g's to 2+ and 0+                                                   
+122TE  G 2688.40   16100.0   25                                                 
+122TE  G 3252.2    9 79.2    25                                                 
+122TE  L 3256.1     4                                                           
+122TEX L XREF=CGH                                                               
+122TE cL E $from ({+3}He,d)                                                     
+122TE  G 2074.8    4 100                                                    D   
+122TE  L    3262.4423                                                           
+122TEX L XREF=C                                                                 
+122TE  G 2081.17   22100                                                        
+122TE  L 3283.79   15                                                           
+122TEX L XREF=CDG                                                               
+122TE  G 2027.9    3                                                            
+122TEF G FL=1256.953                                                            
+122TE  G 2719.36   16                                                       D   
+122TE  L     3289.0 31,2+                                                       
+122TEX L XREF=CK                                                                
+122TE cL J         excited in (|g,|g'), (D,Q) |g to 0+                          
+122TE  G 3289.0    3 100       (D,Q)                                            
+122TE  L 3290.93   14(10+)                                                  B   
+122TEX L XREF=EF                                                                
+122TE cL J $stretched Q |g to 8+ in (|a,2n|g),                                  
+122TE2cL 1996Pa11 suggested mixture of a possible configuration=                
+122TE3cL (|nh{-11/2}{+2}){-10+}                                                 
+122TE  G 621.14    3 100       Q                                                
+122TE  L 3293.4     5                  16 FS     6                              
+122TEX L XREF=CGN                                                               
+122TE cL $triplet in ({+3}He,d)                                                 
+122TE  G 2112.1    5 100                                                        
+122TE  L 3297.1    9                                                            
+122TEX L XREF=C                                                                 
+122TE  G 2733.0    9 100                                                        
+122TE  L 3300.9     5                                                           
+122TEX L XREF=C                                                                 
+122TE  G 1013.5    5 100                                                        
+122TE  L 3302.58   130+,1,2                                                     
+122TEX L XREF=BC                                                                
+122TE cL J         log {Ift}=6.70 from 1+; |g to 2+                             
+122TE  G 2045.5    5                                                            
+122TE  G 2738.46   13100                                                        
+122TE  L 3308.6    11                                                           
+122TEX L XREF=GN                                                                
+122TE cL E$from ({+3}He,{+4}He); admixture of other isotopes in ({+3}He,{+4}He);
+122TE2cL triplet in ({+3}He,d)                                                  
+122TE  L 3316.0     7                                                           
+122TEX L XREF=CD                                                                
+122TE  G 2751.9    7 100                                                        
+122TE  L 3333.6     5                                                           
+122TEX L XREF=CG(*3331.2)                                                       
+122TE  G 2152.3    5 100                                                        
+122TE  L 3333.98   14(9-)                                                   D   
+122TEX L XREF=EG(*3331.2)                                                       
+122TE cL $Triplet in ({+3}He,d)                                                 
+122TE cL J         D |g to 8+, (Q) |g to 7-                                     
+122TE  G 260.1     2 10      1 (D+Q)                                            
+122TE  G 532.9     2 100     10(Q)                                              
+122TEF G FL=2800.82                                                             
+122TE  G 664.1     2 85      8 D                                                
+122TE  L 3335.8     4                                                           
+122TEX L XREF=CD                                                                
+122TE  G 2771.7    4 100                                                        
+122TE  L     3339.1 5                                                           
+122TEX L XREF=C                                                                 
+122TE  G 2775.0    5 100                                                        
+122TE  L 3350      17                                                           
+122TEX L XREF=H                                                                 
+122TE cL E $probable multiplet in (p,t)                                         
+122TE  L 3355.40   17(8-)                                                   E   
+122TEX L XREF=EG(*3360.0)                                                       
+122TE cL J         |g's to (7-) and (6)-                                        
+122TE  G 383.4     2 29      3                                                  
+122TE  G 597.0     2 100     10                                                 
+122TEF G FL=2758.75                                                             
+122TE  L 3357.2     5                                                           
+122TEX L XREF=CG(*3360.0)                                                       
+122TE  G 2175.9    5 100                                                        
+122TE  L 3389.7    20                                                           
+122TEX L XREF=G                                                                 
+122TE  L 3443.8    10                                                           
+122TEX L XREF=G                                                                 
+122TE  L 3460      5                                                            
+122TEX L XREF=GH                                                                
+122TE cL E         from ({+3}He,d); doublet in (p,t);                           
+122TE2cL probable multiplet in (p,t)                                            
+122TE  L 3461.29   16(9-)                                                   F   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to 7-, D |g to 8+                             
+122TE  G 660.5     2 100     9 Q                                                
+122TE  G 791.7     2 46      5 D                                                
+122TEF G FL=2669.78                                                             
+122TE  L    3483.5310 1,2+                                                      
+122TEX L XREF=BDK                                                               
+122TE cL J         excited in (|g,|g'), log {Ift}=6.09 from                     
+122TE2cL 1+, (D,Q) |g to 0+                                                     
+122TE cL $although deexcitation |g rays observed in {+122}I |e decay and in     
+122TE2cL (|g,|g') are different, the evaluator assumes the same level is        
+122TE3cL excited by both reactions, because the detector sensitivity in both    
+122TE4cL experimental conditions are different                                  
+122TE  G 2226.59   1293      7                                                  
+122TE cG           not observed in (|g,|g')                                     
+122TE  G 2919.36   17100     6                                                  
+122TE  G 3483.2    6 78      7 (D,Q)                                            
+122TE cG           not observed in {+122}I |e decay                             
+122TE  L 3514      5                                                            
+122TEX L XREF=G                                                                 
+122TE  L 3529.9    5                                                            
+122TEX L XREF=GH(*3540)                                                         
+122TE cL E         from ({+3}He,d); doublet in (p,t)                            
+122TE  L 3552.1    3                                                            
+122TEX L XREF=GH(*3540)                                                         
+122TE cL E $probable multiplet in (p,t)                                         
+122TE  L     3573.9 5(10+)                                                  C   
+122TEX L XREF=E                                                                 
+122TE cL J         |g to (9+)                                                   
+122TE  G 363.1     2 100                                                        
+122TEF G FL=3210.8                                                              
+122TE  L 3590.67    6 1+,2+                                                     
+122TEX L XREF=BDG                                                               
+122TE cL J         |g's to 0+ and 2+; log {Ift}=5.73 from 1+                    
+122TE  G 1183.00   5 100     5                                                  
+122TEF G FL=2407.86                                                             
+122TE  G 1837.02   2710      1                                                  
+122TEF G FL=1752.62                                                             
+122TE  G 2232.55   1030.8    25                                                 
+122TEF G FL=1357.401                                                            
+122TE cG E$poor fit. Level-energy difference=2233.24                            
+122TE  G 2334.4    4 15.7    30                                                 
+122TE cG $not observed in (n,n'|g) (1990BeYR)                                   
+122TE  L 3635      18                                                           
+122TEX L XREF=GH                                                                
+122TE cL E         weighted average of levels in ({+3}He,d) and (p,t);          
+122TE2cL doublet in (p,t) and multiplet in ({+3}He,d)                           
+122TE  L 3698.5    15                                                           
+122TEX L XREF=G                                                                 
+122TE  L 3727.1    15                                                           
+122TEX L XREF=G                                                                 
+122TE  L 3744.1    15                                                           
+122TEX L XREF=G                                                                 
+122TE  L 3745.73   17(10-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (8-), |g to (9-)                           
+122TE  G 411.7     2 38      4                                                  
+122TEF G FL=3333.98                                                             
+122TE  G 671.6     2 100     10Q                                                
+122TE2 G FL=3074.07                                                             
+122TE  L 3788.5    30                                                           
+122TEX L XREF=G                                                                 
+122TE  L 3806.19   25                                                           
+122TEX L XREF=E                                                                 
+122TE  G 1136.4    2 100                                                        
+122TEF G FL=2669.78                                                             
+122TE  L 3814      5                                                            
+122TEX L XREF=G                                                                 
+122TE  L 3878      5                                                            
+122TEX L XREF=G                                                                 
+122TE  L 3936      5                                                            
+122TEX L XREF=G                                                                 
+122TE  L 3953      6                                                            
+122TEX L XREF=G                                                                 
+122TE  L     3974.8 5(11+)                                                  C   
+122TEX L XREF=E                                                                 
+122TE cL J         |g to (10+)                                                  
+122TE  G 400.9     2 100                                                        
+122TE  L 3983      6                                                            
+122TEX L XREF=G                                                                 
+122TE  L     3995.0 3(10-)                                                  E   
+122TEX L XREF=E                                                                 
+122TE cL J         |g to (8-)                                                   
+122TE  G 639.6     2 100                                                        
+122TE  L 3996.23   25(12+)                                                  B   
+122TEX L XREF=EF                                                                
+122TE cL J         stretched Q |g to (10+)                                      
+122TE  G 705.3     2 100       Q                                                
+122TE  L 3998      5                                                            
+122TEX L XREF=G                                                                 
+122TE  L 3998.89   25                                                           
+122TEX L XREF=E                                                                 
+122TE  G 1329.1    2 100                                                        
+122TEF G FL=2669.78                                                             
+122TE  L 4020      6                                                            
+122TEX L XREF=G                                                                 
+122TE  L 4038.49   18(11-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched (Q) |g to (9-)                                     
+122TE  G 292.8     2 7.0     8                                                  
+122TE2 G FL=3745.73                                                             
+122TE  G 704.4     2 100     10(Q)                                              
+122TEF G FL=3333.98                                                             
+122TE  L 4111      6                                                            
+122TEX L XREF=G                                                                 
+122TE  L 4130      6                                                            
+122TEX L XREF=G                                                                 
+122TE  L 4168      6 +                                                          
+122TEX L XREF=G                                                                 
+122TE cL J         L=0+2 in ({+3}He,d)                                          
+122TE  L 4173.27   20(11-)                                                  F   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (9-)                                       
+122TE  G 712.2     2 100       Q                                                
+122TE  L 4240      21                                                           
+122TEX L XREF=G                                                                 
+122TE  L     4387.9 6(12+)                                                  C   
+122TEX L XREF=E                                                                 
+122TE cL J         |g to (11+)                                                  
+122TE  G 413.1     2 100                                                        
+122TE  L 4441.69   19(12-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (10-), |g to (11-)                         
+122TE  G 268.3     2 9.7     9                                                  
+122TE  G 403.1     2 54      6                                                  
+122TE  G 695.8     2 100     10Q                                                
+122TEF G FL=3745.73                                                             
+122TE  L 4476.6     3(12)                                                       
+122TEX L XREF=E                                                                 
+122TE cL J         D |g to 11-                                                  
+122TE  G 303.3     2 100       D                                                
+122TE2 G FL=4173.27                                                             
+122TE  L 4518.6     4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 712.4     2 100                                                        
+122TE  L     4544.9 4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 548.7     2 100                                                        
+122TE2 G FL=3996.23                                                             
+122TE  L     4681.2 3 (14+)                                                     
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (12+)                                      
+122TE  G 685.0     2 100       Q                                                
+122TE2 G FL=3996.23                                                             
+122TE  L 4782.26   21(13-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (11-)                                      
+122TE  G 340.6     2 66      7                                                  
+122TE  G 743.8     2 100     10Q                                                
+122TE  L 4804.53   23(13-)                                                  F   
+122TEX L XREF=E                                                                 
+122TE cL J         |g's to (11-) and (12-)                                      
+122TE  G 362.5     2 77      8                                                  
+122TE  G 631.6     2 100     10                                                 
+122TE  L 4906.9     3(14+)                                                  B   
+122TEX L XREF=EF                                                                
+122TE cL J         stretched Q |g to (12+), D+Q |g to (14+)                     
+122TE  G 225.8     2 11      1 D+Q                                              
+122TE2 G FL=4681.2                                                              
+122TE  G 910.6     2 100     10Q                                                
+122TE2 G FL=3996.23                                                             
+122TE  L     4942.0 4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 397.1     2 100                                                        
+122TE  L 5239.85   23(14-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (12-), D+Q |g to (13-)                     
+122TE  G 457.2     2 100     10D+Q                                              
+122TE  G 798.1     2 68      7 Q                                                
+122TE  L     5247.2 3(15+)                                                      
+122TEX L XREF=E                                                                 
+122TE cL J         D+Q |g to (14+)                                              
+122TE  G 340.5     2 21      2 D+Q                                              
+122TE  G 566.1     2 100     10                                                 
+122TE  L 5267.7     3                                                           
+122TEX L XREF=E                                                                 
+122TE  G 1229.2    2 100                                                        
+122TE  L 5407.5     4(16+)                                                      
+122TEX L XREF=E                                                                 
+122TE cL J         D+Q |g to (15+)                                              
+122TE  G 160.5     2 73      7 D+Q                                              
+122TE  G 726.0     2 100     10                                                 
+122TE  L     5642.9 4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 961.7     2 100                                                        
+122TE  L 5705.5     4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 437.8     2 100                                                        
+122TE  L 5716.9     3(15-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (13-)                                      
+122TE  G 476.6     2 45      5                                                  
+122TE  G 935.1     2 100     10Q                                                
+122TE  L 5751.0     4(16+)                                                  B   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (14+)                                      
+122TE  G 844.1     2 100       Q                                                
+122TE  L     5867.9 4(15)                                                       
+122TEX L XREF=E                                                                 
+122TE cL J         D |g to (14+)                                                
+122TE  G 1186.7    2 100       D                                                
+122TE  L 5969.1     3(16-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         stretched Q |g to (14-)                                      
+122TE  G 729.2     2 100       Q                                                
+122TE  L     5971.5 4(15)                                                       
+122TEX L XREF=E                                                                 
+122TE cL J         D |g to (14+)                                                
+122TE  G 1290.3    2 100       D                                                
+122TE  L 6023.9     4(15)                                                       
+122TEX L XREF=E                                                                 
+122TE cL J         D |g to (14+)                                                
+122TE  G 1117.0    2 100       D                                                
+122TE  L 6039.2     4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 631.7     2 100                                                        
+122TE  L     6284.9 4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 417.0     2 100                                                        
+122TE  L 6377.6     4                                                       B   
+122TEX L XREF=E                                                                 
+122TE  G 626.6     2 100                                                        
+122TE  L 6391.1     4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 983.6     2 100                                                        
+122TE  L 6613.1     4(17-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         |g to (15-)                                                  
+122TE  G 896.2     2 100                                                        
+122TE  L 6633.3     4                                                           
+122TEX L XREF=E                                                                 
+122TE  G 1225.8    2 100                                                        
+122TE  L     6646.6 5                                                           
+122TEX L XREF=E                                                                 
+122TE  G 361.7     2 100                                                        
+122TE  L 6708.5     5                                                           
+122TEX L XREF=E                                                                 
+122TE  G 669.3     2 100                                                        
+122TE  L 6914.1     4(18-)                                                  D   
+122TEX L XREF=E                                                                 
+122TE cL J         |g to (16-)                                                  
+122TE  G 945.0     2 100                                                        
+

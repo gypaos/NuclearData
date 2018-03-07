@@ -1,0 +1,533 @@
+122SB    ADOPTED LEVELS, GAMMAS                                  07NDS    200704
+122SB  H TYP=FUL$AUT=T. TAMURA$CIT=NDS 108, 455 (2007)$CUT=30-Sep-2006$         
+122SB  Q 1980.8    256806.37 136425    3 -3530   9     2012WA38                 
+122SB cQ $Note: Current evaluation has used the following Q record              
+122SB  Q 1983.9    196806.38 156415.1  21-3525   8     2003AU03                 
+122SB cL E         Least-squares fit to E|g's from {+121}Sb(n,|g) E=th          
+122SB2cL secondary, primary; E(levels) with |DE(levels)=2 keV are from          
+122SB3cL {+121}Sb(n,|g) E=res.; E(levels) with |DE(level)>2 keV are mainly      
+122SB4cL from (p,d) and supplementary from (d,p) reaction                       
+122SB cL J(P)$From spin-dependence of observed population ratio of 121.5-keV    
+122SB2cL level (J=(1)+) and 193-keV level (J=(4)-) from each resonance:         
+122SB3cL I|g(121.5)/I|g(114.9)|?2.5 (spin-2 res.), |?1.0 (spin-3 res.); |p=+    
+122SB4cL for s-neutron capture (1970Bh01,1971Lo26)                              
+122SB cL T         From {+121}Sb(n,|g) secondary, unless noted otherwise        
+122SB cG E,RI      From {+121}Sb(n,|g) E=th: secondary, unless otherwise noted  
+122SB cG M,MR      From {+121}Sb(n,|g) E=th: secondary                          
+122SB  XA121SB(N,G) E=TH: SECONDARY                                             
+122SB  XB121SB(N,G) E=TH: PRIMARY                                               
+122SB  XC121SB(N,G) E=RES                                                       
+122SB  XD122SN(P,NG)                                                            
+122SB  XE121SB(D,P)                                                             
+122SB  XF123SB(P,D)                                                             
+122SB  XG123SB(D,T)                                                             
+122SB  XH122SB IT DECAY (4.191 M)                                               
+122SB  XI120SN(A,D)                                                             
+122SB PN                                                                     6  
+122SB  L 0.0         2-                2.7238 D  2                              
+122SBX L XREF=ABCDFGHI                                                          
+122SB2 L %B-=97.59 12$ %EC+%B+=2.41 12$MOMM1=-1.90 2$MOME2=+0.85 11             
+122SB cL $|m: dynamic nuclear orientation, value references to {+121,123}Sb     
+122SB2cL (1958Pi45,2005St24)                                                    
+122SB cL $Q: atomic resonance with magnetic state selection,                    
+122SB2cL value is relative to                                                   
+122SB3cL {+121}Sb and includes the Sternheimer correction (1960Fe08,2005St24);  
+122SB4cL other: +0.9 {i2} static nuclear orientation (1985He16,2005St24)        
+122SB cL J         atomic beam J=2;                                             
+122SB2cL |p=- is consistent with the log {If{+1u}t}=9.7 to 0+; this rules out   
+122SB3cL J|p=2+                                                                 
+122SB cL T         from 1990Ab06. Others: 2.681 d {i3} (1967Ha27)               
+122SB2cL and 2.714 d {i6} (1972Em01),                                           
+122SB3cL 2.84 d {i12} (1973Ka45), 2.68 d {i4} (1972Pa13), 2.82 d {i5}           
+122SB4cL (1968Bo25), 2.74 d {i1} (1958Gu09), 2.73 d {i3} (1958Pe17), 2.75 d {i2}
+122SB5cL (1954Co08), 2.80 d {i2} (1951Bl31)                                     
+122SB  L  0+X         3+,4+                                                     
+122SB DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+122SBX L XREF=EFG                                                               
+122SB cL E         this level is suggested in (d,p) and (p,d) as a composite    
+122SB2cL peak unresolved from g.s.                                              
+122SB cL J         L=0+5 in (p,d), L=(2) in (d,p)                               
+122SB  L    61.4131 53+                1.86 US   8                              
+122SBX L XREF=ABCDEFGH                                                          
+122SB2 L MOMM1=+2.983 12$MOME2=+0.41 4                                          
+122SB cL $|m: stroboscopic observation of perturbed angular distributions,      
+122SB2cL value is relative to {+121,123}Sb (1973He10,2005St24)                  
+122SB cL $Q: differential perturbed angular distribution of |g rays             
+122SB2cL following nuclear reactions, value is relative to {+121}Sb and includes
+122SB3cL the Sternheimer correction (1982Ma29,2005St24)                         
+122SB cL J         L=0 in (p,d); E1 |g to 2-                                    
+122SB cL T         from {+122}Sn(p,n|g)                                         
+122SB2cL (1973He10). Others: 1.8 |ms {I2} in {+122}Sb IT decay (1962De20),      
+122SB3cL 1.66 |ms {I25} in {+121}Sb(n,|g) (1974Iv02)                            
+122SB  G 61.4127   5 100       E1                        0.743                  
+122SBF G FL=0.0                                                                 
+122SBB G BE1W=3.66E-7 17                                                        
+122SB  L    78.0914 6(3)-              0.14 NS   LT                             
+122SBX L XREF=ABCD                                                              
+122SB cL J         see comment on 413.77 level.                                 
+122SB2cL M1 |g to 2-, M1 |g's from (4)- and (3)-                                
+122SB  G 78.0918   7 100       M1                        1.27                   
+122SBF G FL=0.0                                                                 
+122SBB G BM1W>0.14                                                              
+122SB  L   121.4967 9(1)+              6.3 NS    3                              
+122SBX L XREF=ABDEG(*126)                                                       
+122SB cL J         E1 |g to 2-, no |g to 3+                                     
+122SB  G 121.4958  14100       E1                       0.109                   
+122SBF G FL=0.0                                                                 
+122SBB G BE1W=2.19E-5 11                                                        
+122SB  L   137.4726 8(5)+              0.53 MS   3                           M1 
+122SBX L XREF=ADFG(*126)H                                                       
+122SB cL J         see comment on 163.55 level                                  
+122SB cL T         from (ce 26|g)(ce 77|g)(t) in {+122}Sb IT decay (1963De05)   
+122SB2 L MOMM1=+3.05 10                                                         
+122SB cL $|m: differential perturbed angular distribution of |g rays            
+122SB2cL following nuclear reactions                                            
+122SB3cL (1977Co18,1989Ra17)                                                    
+122SB2 L %IT=100                                                                
+122SB  G 76.0595   7 100        E2                       4.41                   
+122SBB G BE2W=0.00216 14                                                        
+122SB  L   163.559117(8)-              4.191 M   3                           M2 
+122SBX L XREF=AEF(*165)HI                                                       
+122SB cL J$(E3)-E2 cascade to 3+ level via the 137.47 level along with          
+122SB2cL T{-1/2} for the 163.55 and 137.47 levels and systematics of 8- state   
+122SB3cL suggests J|p(163.55)=(8)- and J|p(137.47)=(5)+                         
+122SB cL T$from 1990Ab06. Others: 4.21 min {i3} (1963Ke04), 4.15 min {i15}      
+122SB2cL (1963De05), 4.15 min {i20} (1962En04), 4.2 min {i3} (1968Bo25), 3.5 min
+122SB3cL (1947De06)                                                             
+122SB2 L %IT=100                                                                
+122SB  G 26.0867   24100       (E3)                    3.07E+4                  
+122SB cG E         E|g deduced from level scheme of {+121}Sb(n,|g)              
+122SBB G BE3W=0.0211 7                                                          
+122SB  L   167.2293 6(2)+              0.28 NS   LT                             
+122SBX L XREF=ABDF(*165)                                                        
+122SB cL J         M1 |g's to 3+ and (1)+                                       
+122SB  G 45.7325   9 13.2    16M1                         6.02                  
+122SBB G BM1W>0.043                                                             
+122SB  G 89.1388   182.13    13E1                        0.262                  
+122SBB G BE1W>1.2E-5                                                            
+122SB  G 105.8160  7 100     2 M1                        0.533                  
+122SBB G BM1W>0.026                                                             
+122SB  L 178.6     4                                                           ?
+122SBX L XREF=B                                                                 
+122SB  L   192.959410(4)-              0.11 NS   LT                             
+122SBX L XREF=ABCDF(*205)G(*195)                                                
+122SB cL J         see comment on 413.77 level;                                 
+122SB  G 114.8674  9 100       M1+E2     0.30    4      0.472 13                
+122SBB G BM1W>0.079$BE2W>3.0E+2                                                 
+122SB  L   209.6508 6(4)+              0.14 NS   LT                             
+122SBX L XREF=ABCDF(*205)G(*195)                                                
+122SB cL J         M1 |g's to 3+ and (5)+                                       
+122SB  G 72.178    8 0.89    23M1                        1.59                   
+122SBB G BM1W>0.0030                                                            
+122SB  G 148.2376  4 100     2 M1                       0.207                   
+122SBB G BM1W>0.039                                                             
+122SB  L   255.4986 8(3)+              0.9 NS    2                              
+122SBX L XREF=ABDE                                                              
+122SB cL J         M1 |g to (4)+, |g to the 2- g.s. rules out J|p=4+, 5+; L=0 in
+122SB2cL (d,p)                                                                  
+122SB  G 45.847    4 9.2     13(M1)                       5.97                  
+122SBB G BM1W=0.0063 17                                                         
+122SB  G 88.2689   10100     2 M1                        0.892                  
+122SBB G BM1W=0.0096 22                                                         
+122SB  G 177.4073  2010.2    2 E1                       0.0377                  
+122SBB G BE1W=1.5E-6 4                                                          
+122SB  G 194.0820  1664.1    13M1                       0.0992                  
+122SBB G BM1W=0.00058 13                                                        
+122SB  G 255.5039  2236.6    7 [E1]                     0.0138                  
+122SBB G BE1W=1.8E-6 4                                                          
+122SB  L   264.426013(5)-                                                       
+122SBX L XREF=ADF(*264)                                                         
+122SB cL J         see comment on 413.77 level                                  
+122SB  G 71.4664   10100     4 M1                        1.64                   
+122SB  G 186.336   8 1.6     2                                                  
+122SB  L   265.111116(7)-                                                       
+122SBX L XREF=AF(*264)                                                          
+122SB cL J         see comment on 413.77 level                                  
+122SB  G 101.5516  8 100       M1+E2     0.57    8       0.84  5             C  
+122SB  L   271.763015                                                           
+122SBX L XREF=AG(274)                                                           
+122SB  G 7.3366    22                                                          S
+122SB cG           E|g deduced from level scheme of {+121}Sb(n,|g)              
+122SB  L   282.6499 8(3)-              0.14 NS   LT                             
+122SBX L XREF=ABCDE                                                             
+122SB cL J         M1 |g's to 2- and (4)-                                       
+122SB  G 89.691    4 1.00    8 M1                        0.852                  
+122SBB G BM1W>0.0017                                                            
+122SB  G 115.4203  7 4.2     1 E1                       0.126                   
+122SBB G BE1W>4.2E-5                                                            
+122SB  G 204.5591  1113.5    2 M1                       0.0862                  
+122SBB G BM1W>0.0020                                                            
+122SB  G 221.244   5 1.17    6                                                  
+122SB  G 282.642   3 100     2 M1                       0.0368                  
+122SBB G BM1W>0.0055                                                            
+122SB  L   311.261214(4)-              0.14 NS   LT                             
+122SBX L XREF=ABCD                                                              
+122SB cL J         M1 |g's to (3)- and (5)-                                     
+122SB  G 28.607    4                                                            
+122SB  G 46.836    6 8.8     18M1                         5.61                  
+122SBB G BM1W>0.071                                                             
+122SB  G 118.3014  166.05    18                                                 
+122SB  G 173.83    4 2.5     4                                                  
+122SB  G 233.174   4 100     2 M1                       0.0610                  
+122SBB G BM1W>0.0067                                                            
+122SB  G 249.857   6 4.47    18                                                 
+122SB  G 311.291   146.47    24                                                 
+122SB  L   323.092212(2)+              0.14 NS   LT                             
+122SBX L XREF=ABDE(*318)G(324)                                                  
+122SB cL J         M1 |g's to (3)+ and (1)+                                     
+122SB  G 67.5952   169.0     12M1                        1.93                   
+122SBB G BM1W>0.031                                                             
+122SB  G 155.867   5 1.79    18                                                 
+122SB  G 201.5943  15100     2 M1                       0.0897                  
+122SBB G BM1W>0.013                                                             
+122SB  G 261.674   4 9.6     4                                                  
+122SB  L   333.6801 8(3)+                                                       
+122SBX L XREF=ABDE(*318)F                                                       
+122SB cL J         M1 |g's to (4)+ and (2)+                                     
+122SB  G 124.0293  1049.3    15M1                        0.341                  
+122SB  G 140.727   151.62    22                                                 
+122SB  G 166.4511  11100     2 M1                       0.151                   
+122SB  G 272.265   3 25.7    7  M1,E2                   0.046  5                
+122SB  L   393.699311(3,4,5)+          0.14 NS   LT                             
+122SBX L XREF=ADE(*391)FG(383)                                                  
+122SB cL J         M1 |g to (4)+                                                
+122SB  G 138.201   3 11.7    3 M1+E2     1.1     +20-4   0.40 10             C  
+122SB  G 184.0474  1447.8    7 M1                       0.115                   
+122SBB G BM1W>0.0063                                                            
+122SB  G 256.230   4 17.8    17                                                 
+122SB  G 332.284   4 100     2 M1,E2                    0.0254                  
+122SB  L   396.937310(2,3)+            0.11 NS   LT                             
+122SBX L XREF=ABCDE(*391)                                                       
+122SB cL J         M1 |g to (3)+, |g to (1)+ rules out J|p=4+                   
+122SB  G 73.840    126.4     18                                                 
+122SB  G 141.4368  13100     2 M1                       0.236                   
+122SBB G BM1W>0.037                                                             
+122SB  G 229.707   3 35.4    9                                                  
+122SB  G 275.444   4 15.0    5                                                  
+122SB  G 335.497   1910.9                                                       
+122SB  L 410.1     20                                                           
+122SBX L XREF=C                                                                 
+122SB  L   413.765716(6)-                                                       
+122SBX L XREF=AE(*416)F(*416)                                                   
+122SB cL J         M1-M1 cascade to (8)- level via the 265.11 level, and        
+122SB2cL M1-M1-M1-M1 cascade via 264.43, 192.96 and 78.09 levels to 2- (gs) are 
+122SB3cL consistent with only J|p=(6)-;                                         
+122SB4cL thus J|p(265.11)=(7)-, J|p(264.43)=(5)-, J|p(192.96)=(4)- and          
+122SB5cL J|p(78.09)=(3)-                                                        
+122SB  G 148.6543  6 100     3 M1                       0.206                   
+122SB  G 149.3392  1345.7    13M1                       0.203                   
+122SB  L 416       2 3+,4+                                                      
+122SBX L XREF=F                                                                 
+122SB cL E         L=0+2 component                                              
+122SB cL J         L=0+2+(4,5) in (p,d); the L=(5) component corresponds to 413 
+122SB2cL level                                                                  
+122SB  L   425.148414(3,4,5)-          0.14 NS   LT                             
+122SBX L XREF=ADE(*416)F(*416)                                                  
+122SB cL J         M1 |g to (4)-                                                
+122SB  G 113.8867  5 35.5    7 M1(+E2)    0.5    2       0.56 8                 
+122SBB G BM1W>0.013$BE2W>77                                                     
+122SB  G 153.3853  8 22.1    6                                                  
+122SB  G 232.189   3 100     2 M1                       0.0617                  
+122SBB G BM1W>0.0068                                                            
+122SB  L   453.747820 (1,2,3)+         0.21 NS   LT                             
+122SBX L XREF=AF                                                                
+122SB cL J         |g to 2- and 3+, M1,E2 |g to (2)+                            
+122SB  G 286.5177  21100     2 M1,E2                    0.039  4                
+122SB  G 392.340   1131.7    16                                                 
+122SB  G 453.77    4 33      3                                                  
+122SBF G FL=0.0                                                                 
+122SB  L 474       2 3+,4+                                                      
+122SBX L XREF=CFG                                                               
+122SB cL J         L=0+2 in (p,d)                                               
+122SB  L    480.43611                                                           
+122SBX L XREF=AE(*482)                                                          
+122SB  G 208.673   12100     8                                                  
+122SB  G 215.28    5 44      12                                                 
+122SB  L    481.339 5 +                                                         
+122SBX L XREF=AE(*482)                                                          
+122SB cL J         M1,E2 |g to 3+                                               
+122SB  G 419.925   5 100       M1,E2                    0.0132 2                
+122SB  L   483.6519 8(2,3,4)+          0.14 NS   LT                             
+122SBX L XREF=ABDE(*482)                                                        
+122SB cL J         M1 |g to (3)+                                                
+122SB  G 86.7138   8 26.2    11M1                        0.938                  
+122SBB G BM1W>0.023                                                             
+122SB  G 89.9514   169.3     9 M1+E2      0.73   23     1.39  24                
+122SBB G BM1W>0.0035$BE2W>1.2E+2                                                
+122SB  G 149.9717  6 42.9    9 M1                       0.203                   
+122SBB G BM1W>0.0075                                                            
+122SB  G 160.560   3 9.6     4                                                  
+122SB  G 228.153   4 11.9    7                                                  
+122SB  G 274.0030  18100     2 M1+E2      0.65   GT     0.040719                
+122SBB G BE2W>8.1                                                               
+122SB  G 316.395   2116      4                                                  
+122SB  L    586.054 3 +                                                         
+122SBX L XREF=ADFG(*593)                                                        
+122SB cL J         M1,E2 |g's to |p=+                                           
+122SB  G 132.3058  2211.9    5 M1+E2      1.25   GT      0.37 11                
+122SB  G 252.381   1113.0    9                                                  
+122SB  G 262.93    3 8.0     9                                                  
+122SB  G 330.555   5 100     4 M1,E2                    0.025813                
+122SB  G 418.76    4 37      5                                                  
+122SB  L 605       2  -                                                         
+122SBX L XREF=FG(*593)                                                          
+122SB cL J         L=5 in (p,d)                                                 
+122SB  L 620                                                                    
+122SBX L XREF=I                                                                 
+122SB cL           Configuration=(|p1h{-11/2})(|n1g{-7/2}){-(9-)}               
+122SB  L     631.82 4(1-,2-,3-)                                                 
+122SBX L XREF=ABC                                                               
+122SB cL J         |g to 2-; (E1) |g from 2+ resonances                         
+122SB  G 631.83    4 100                                                        
+122SBF G FL=0.0                                                                 
+122SB  L   642.564922(3,4)                                                      
+122SBX L XREF=ABCFG                                                             
+122SB cL J         L=2+4 in (p,d) and (M1) |g from 3+ resonance in (n,|g)       
+122SB2cL suggest a possibility of exciting |p=+ level, but contradicts with     
+122SB3cL M1,E2 |g to (5)-.                                                      
+122SB  G 217.4171  2126.0    5                                                  
+122SB  G 331.308   7 25.3    24                                                 
+122SB  G 378.134   4 100     4 M1,E2                    0.0176 2                
+122SB  G 449.64    6 16      4                                                  
+122SB  G 564.2     20                                                          ?
+122SB  L    658.443 5                                                           
+122SBX L XREF=AB                                                                
+122SB  G 264.746   5 13.9    7                                                  
+122SB  G 324.718   1712.5    7                                                  
+122SB  G 491.224   22100     7                                                  
+122SB  L    667.55410                                                           
+122SBX L XREF=A                                                                 
+122SB  G 344.462   1029.2    13                                                 
+122SB  G 546.01    6 100     13                                                 
+122SB  L    693.995 4(4-,5,6-)                                                  
+122SBX L XREF=AE(*695)G(*700)                                                   
+122SB cL J         |g's to (4)- and (6)-                                        
+122SB  G 268.847   3 9.0     10                                                 
+122SB  G 280.22    5 4.8     10                                                 
+122SB  G 382.68    6 13.0    18                                                 
+122SB  G 422.222   10100     5                                                  
+122SB  G 501.16    7 35      5                                                  
+122SB  L    702.72716 +                                                         
+122SBX L XREF=AE(*695)FG(*700)                                                  
+122SB cL J         L=4 in (p,d)                                                 
+122SB  G 222.284   217.8     13                                                 
+122SB  G 288.93    3 14.3    22                                                 
+122SB  G 437.66    3 100     9                                                  
+122SB  L 748       2  +                                                         
+122SBX L XREF=FG                                                                
+122SB cL J         L=4 in (p,d)                                                 
+122SB  L 790.7     20                                                           
+122SBX L XREF=CE(771)                                                           
+122SB  L     796.67 5(2-,3-)                                                    
+122SBX L XREF=ABC                                                               
+122SB cL J         |g to (4)-; (E1) |g's from 2+ and 3+ resonances in           
+122SB2cL (n,|g)                                                                 
+122SB  G 485.43    9 63      4                                                  
+122SB  G 514.12    8 100     12                                                 
+122SB  G 603.60    6 67      12                                                 
+122SB  G 719.04    2058      17                                                 
+122SB  G 796.5     2 50      10                                                ?
+122SBF G FL=0.0                                                                 
+122SB  L 810.9     20                                                           
+122SBX L XREF=C                                                                 
+122SB  L    824.95417(2-,3-)                                                    
+122SBX L XREF=ABC                                                               
+122SB cL J         (E1) |g's from 2+ and 3+                                     
+122SB2cL resonances in (n,|g)                                                   
+122SB  G 182.388   183.5     5                                                  
+122SB  G 193.15    6 9.2     18                                                 
+122SB  G 542.29    8 86      13                                                 
+122SB  G 747.00    12100     4                                                  
+122SB  G 824.54    1975      15                                                 
+122SB  L 855.3     8                                                            
+122SBX L XREF=BE(*867)G(*870)                                                   
+122SB  L     868.58 6 +                                                         
+122SBX L XREF=ABE(*867)FG(*870)                                                 
+122SB cL J         L=2+4 in (p,d)                                               
+122SB  G 471.67    10100     11                                                 
+122SB  G 474.86    7 86      21                                                 
+122SB  L 883       3                                                            
+122SBX L XREF=F                                                                 
+122SB cL J         L=2+5 in (p,d) requires levels with |p=+ and |p=-            
+122SB  L     920.5711(2-,3-)                                                    
+122SBX L XREF=ABC                                                               
+122SB cL J         (E1) |g's from 2+ and 3+                                     
+122SB2cL resonances in (n,|g)                                                   
+122SB  G 841.9     2 33      7                                                  
+122SB2 G FL=78.0914                                                             
+122SB  G 920.77    12100     20                                                 
+122SBF G FL=0.0                                                                 
+122SB  L 935.5     7                                                            
+122SBX L XREF=BCE(*941)                                                         
+122SB  L 948.2     12 3+,4+                                                     
+122SBX L XREF=BE(*941)F                                                         
+122SB cL J         L=0+2 in (p,d)                                               
+122SB  L 968.7     16 +                                                         
+122SBX L XREF=BCFG                                                              
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 997.9     10 +                                                         
+122SBX L XREF=BE(*994)F                                                         
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1003.7    20                                                           
+122SBX L XREF=CE(*994)                                                          
+122SB  L 1005.5    5                                                            
+122SBX L XREF=BC                                                                
+122SB  L 1018.5    5                                                            
+122SBX L XREF=BC                                                                
+122SB  L 1030.5    5  +                                                         
+122SBX L XREF=BCFG                                                              
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1043.4    8  +                                                         
+122SBX L XREF=BCE(*1053)F                                                       
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1068.5    10                                                           
+122SBX L XREF=BE(*1053)                                                         
+122SB  L 1115.4    8                                                            
+122SBX L XREF=BEF(*1113)G                                                       
+122SB cL E         unresolved multiplet in (p,d). But L=0 requires a level with 
+122SB2cL J|p=3+,4+                                                              
+122SB  L 1118.3    20(2-,3-)                                                    
+122SBX L XREF=CF(*1113)                                                         
+122SB cL J         (E1) |g's from 2+ and 3+ resonances in (n,|g).               
+122SB  L 1121.0    5                                                            
+122SBX L XREF=BC                                                                
+122SB  L 1128.9    5                                                            
+122SBX L XREF=BCG(*1150)                                                        
+122SB cL E         unresolved multiplet in (p,d)                                
+122SB  L 1159.3    4 3+,4+                                                      
+122SBX L XREF=BCE(*1173)F                                                       
+122SB cL J         L=0 in (p,d)                                                 
+122SB  L 1177.7    6  +                                                         
+122SBX L XREF=BCE(*1173)FG(*1187)                                               
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1186.8    5                                                            
+122SBX L XREF=BCG(*1187)                                                        
+122SB  L 1189.7    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1199      5                                                            
+122SBX L XREF=F                                                                 
+122SB cL E         unresolved multiplet in (p,d)                                
+122SB  L 1205.6    5                                                            
+122SBX L XREF=BCG                                                               
+122SB  L 1229.6    5                                                            
+122SBX L XREF=BCE(*1236)G(*1240)                                                
+122SB  L 1242.6    5  +                                                         
+122SBX L XREF=BCE(*1236)FG(*1240)                                               
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1247.8    6 (1-,2-,3-)                                                 
+122SBX L XREF=BC                                                                
+122SB cL J         (E1) |g from 2+ resonance in (n,|g).                         
+122SB  L 1258.5    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1273.9    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1301.0    20(2-,3-,4-)                                                 
+122SBX L XREF=CFG                                                               
+122SB cL J         (E1) |g from 3+ resonance in (n,|g).                         
+122SB  L 1335      5  +                                                         
+122SBX L XREF=E(1356)F                                                          
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1382      2  +                                                         
+122SBX L XREF=CFG                                                               
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1416      7  +                                                         
+122SBX L XREF=F                                                                 
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1432      4  +                                                         
+122SBX L XREF=FG                                                                
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1467      30                                                          ?
+122SBX L XREF=E                                                                 
+122SB  L 1497.2    20                                                           
+122SBX L XREF=CE                                                                
+122SB  L 1500.4    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1527.1    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1536      5  +                                                         
+122SBX L XREF=FG                                                                
+122SB cL J         L=2 in (p,d)                                                 
+122SB  L 1547.5    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1561.3    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1571.0    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1588.8    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1603.5    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1651.6    20                                                           
+122SBX L XREF=CE(*1660)                                                         
+122SB  L 1677      7                                                            
+122SBX L XREF=CE(*1660)                                                         
+122SB  L 1760      7                                                            
+122SBX L XREF=CE(*1764)I(*1750)                                                 
+122SB  L 1779.6    20                                                           
+122SBX L XREF=CE(*1764)I(*1750)                                                 
+122SB  L 1786.8    20                                                           
+122SBX L XREF=CE(*1764)I(*1750)                                                 
+122SB  L 1808.3    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1816.3    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 1835.4    20 -                                                         
+122SBX L XREF=CE(*1850)                                                         
+122SB cL J         L=3 in (d,p)                                                 
+122SB  L 1879.0    20                                                           
+122SBX L XREF=CE(*1850)                                                         
+122SB  L 1890      5011+                                                        
+122SBX L XREF=I                                                                 
+122SB cL J         DWBA analysis in (|a,d);                                     
+122SB2cL configuration=(|p1h{-11/2})(|n1h{-11/2}){-(11+)}                       
+122SB  L 1945.0    20 -                                                         
+122SBX L XREF=CE(*1947)                                                         
+122SB cL J         L=3 in (d,p)                                                 
+122SB  L 1961.1    20                                                           
+122SBX L XREF=CE(*1947)                                                         
+122SB  L 2018.0    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2029.5    20                                                           
+122SBX L XREF=CE(*2027)                                                         
+122SB  L 2078.9    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2121.3    20 -                                                         
+122SBX L XREF=CE(*2137)                                                         
+122SB cL J         L=3 in (d,p)                                                 
+122SB  L 2150.7    20                                                           
+122SBX L XREF=CE(*2137)                                                         
+122SB  L 2157.1    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2185.4    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2205.0    20                                                           
+122SBX L XREF=CE                                                                
+122SB  L 2246.0    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2307      30                                                          ?
+122SBX L XREF=E                                                                 
+122SB  L 2347.3    20                                                           
+122SBX L XREF=CE                                                                
+122SB  L 2436.6    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2464.1    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2475.3    20                                                           
+122SBX L XREF=C                                                                 
+122SB  L 2647      30                                                           
+122SBX L XREF=E                                                                 
+122SB  L 2807      30                                                           
+122SBX L XREF=E                                                                 
+122SB  L 3137      30                                                           
+122SBX L XREF=E                                                                 
+122SB  L 3800                                                                   
+122SBX L XREF=I                                                                 
+122SB cL           Composite states: E=3.25-4.6 MeV;                            
+122SB2cL configuration=(|p1h{-11/2})(|n1h{-11/2}){-(10+)}                       
+122SB  L 6100                                                                   
+122SBX L XREF=I                                                                 
+122SB cL           Composite states: E=4.6-10.5 MeV;                            
+122SB2cL configuration=(|p1h{-11/2})(|n1h{-9/2}){-(10+)}                        
+122SB3cL (|p1h{-11/2})(|n1i{-13/2}){-(12-)}                                     
+122SB  L 6806.38   152+,3+                                                     S
+

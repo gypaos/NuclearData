@@ -1,0 +1,836 @@
+115SN    ADOPTED LEVELS, GAMMAS                                  12NDS    201210
+115SN  H TYP=FUL$AUT=JEAN BLACHOT$CIT=NDS 113, 2391 (2012)$CUT=1-Sep-2012$      
+115SN  Q -3030     167547.8  108754.4  9 -3205.7 6     2012WA38                 
+115SN cQ $Note: Current evaluation has used the following Q record              
+115SN  Q -3030     167545.7  158751.9  15-3204.0 17    2011AUZZ                 
+115SN c  For empirical systematics of high-spin states in odd-tin isotopes, see 
+115SN2c  1978HaZP, 1979Ha12; for low-spin states in odd-tin isotopes, see       
+115SNxc  1976Ma09                                                               
+115SN cG E$Average from all decay, (|a,n|g), (p,n|g)                            
+115SN cG RI$Average from all decay, (|a,n|g), (p,n|g), but when the data include
+115SN2cG large inconsistencies, evaluator has taken data from (p,n|g) (Most     
+115SN3cG recent)                                                                
+115SN cG RI(D)$From (p,n|g)                                                     
+115SN cG M$From DCO ratios in (HI,xn|g), otherwise noted                        
+115SN cG MR$From |g(|q) in Coul. ex., except as noted                           
+115SN cL E$From least-squares fit to |g energies.                               
+115SN cL J$Without comments are from |g decay patterns and band structure       
+115SN CL BAND(A)$ BAND 1  with DJ=2                                             
+115SN CL BAND(B)$ BAND 2  with DJ=2                                             
+115SN CL BAND(C)$ BAND 3                                                        
+115SN CL BAND(D)$ BAND 4, DECOUPLED ROTATIONAL BAND WITH DJ=2                   
+115SN CL BAND(E)$ BAND 5, YRAST BAND                                            
+115SN CL BAND(F)$ BAND 6                                                        
+115SN CL BAND(G)$ BAND 7                                                        
+115SN CL BAND(H)$ BAND 8                                                        
+115SN CL BAND(I)$ BAND 9, possible rotational character with DJ=2               
+115SN  XACOULOMB EXCITATION                                                     
+115SN  XB112CD(A,NG)                                                            
+115SN  XC114SN(D,P)                                                             
+115SN  XD115IN(P,NG)                                                            
+115SN  XE115IN B- DECAY (4.41E+14 Y)                                            
+115SN  XF115IN B- DECAY (4.486 H)                                               
+115SN  XG115SB EC DECAY (32.1 M)                                                
+115SN  XH115SN IT DECAY (159 US)                                                
+115SN  XI116CD(A,5NG)                                                           
+115SN  XJ116SN(D,T), (POL D,T)                                                  
+115SN  XK116SN(P,D)                                                             
+115SN  XL113CD(A,2NG)                                                           
+115SN  XM116SN(3HE,A)                                                           
+115SN  XN(HI,XNG)                                                               
+115SN  XO114SN(N,G) E=RES                                                       
+115SN  XP117SN(P,T)                                                             
+115SN  XQ116SN(D,T) IAR                                                         
+115SN  XR116SN(P,D) IAR                                                         
+115SN PN                                                                     6  
+115SN  L 0.0         1/2+              STABLE                                   
+115SN2 L XREF=ABCDEFGHIJKLMNOP                                                  
+115SN2 L  MOMM1=-0.91883 7 (1989Ra17)                                           
+115SN cL J$L=0 (d,p),(d,t),(p,d),(p,t)                                          
+115SN  L    497.334223/2+              11 PS     2                              
+115SN2 L XREF=ABCDFGHIJKLMNOP                                                   
+115SN cL T$if B(E2)=0.0140 {I8}, |d(497|g)=+0.21 {I2}                           
+115SN cL J$M1+E2 decay to g.s.                                                  
+115SN  G 497.358   24100       M1+E2     +0.21   2                              
+115SN cG MR$Others: +0.20 {I4} in (|a,2n|g), +0.16 {I1} from |e decay           
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SNB G BM1W=0.016 3$BE2W=2.1 6                                                
+115SN  L     612.81 47/2+              3.26 US   8                          H   
+115SN2 L XREF=ABCDGHIJKLMNP$ %IT=100                                            
+115SN3 L     MOMM1=+0.683 10$MOME2=0.26 (1989Ra17,1975Iv02,1976Be59)            
+115SN cL T$from |g|g(t) (1967Iv05)                                              
+115SN cL J$E2 decay to 3/2+ state; L=4 (d,p),(d,t),(p,d),(p,t),                 
+115SN2cL ({+3}He,|a)                                                            
+115SN  G 115.46    4 100       E2                      0.958                    
+115SNS G KC=0.721 11$LC=0.191 3$MC=0.0387 6$NC+=0.00722 11                      
+115SNS G NC=0.00689 10$OC=0.000326 5                                            
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SN3 G BE2W=0.130 4                                                           
+115SN  L     713.641211/2-             159 US    1                          E   
+115SN2 L XREF=BCDHIJKLMNP$%IT=100                                               
+115SN3 L   MOMM1=-1.378 11$MOME2=0.38 6 (1989Ra17,1975Iv02,1975Ri03)            
+115SN cL           See 1973Ri14 for near-constant |m measurements of 11/2-      
+115SN2cL isomers in odd-mass tin, cadmium, tellurium isotopes                   
+115SN cL T$from |g(t) pulsed beam (1964Iv01). Others: 165 |ms {I15}             
+115SN2cL (1958Du80), 155 |ms {I10} (1964Br27), 166 |ms {I10} (1966Mc06)         
+115SN cL J$L=5 (d,p),(d,t),(p,d),(p,t); M2 decay to 7/2+ state                  
+115SN  G 100.70    21 100      M2                      5.61   9                 
+115SNS G KC=4.55 8$LC=0.849 14$MC=0.173 3$NC+=0.0348 6                          
+115SNS G NC=0.0323 6$OC=0.00249 4                                               
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SN3 G BM2W=0.119 4                                                           
+115SN  L     986.56 45/2+              1.97 PS   10                             
+115SN2 L XREF=ABCDGJKLMNOP                                                      
+115SN cL T$from B(E2)=0.0227 {I10} and I|g(986|g)-branching=24.7%;              
+115SN2cL other: 1.25 ps {I28} Doppler-broadened 986|g peak                      
+115SN cL J$L=2 (d,p),(d,t),(p,d),(p,t); J=5/2 from (pol d,t)                    
+115SN  G 373.75    17   7.1  10M1+E2     -0.27   6     0.0164024            D   
+115SNS G KC=0.01421 20$LC=0.00177 3$MC=0.000346 6$NC+=7.08E-5 11                
+115SNS G NC=6.51E-5 11$OC=5.63E-6 8                                             
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SNB G BM1W=0.0100 16$BE2W=4.0 18                                             
+115SN  G   489.27   5 100     6 M1+E2     +0.040  23                        D   
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SN cG MR$Others: +0.1 in (|a,2n|g)                                           
+115SNB G BM1W=0.067 7$BE2W=0.3 3                                                
+115SN  G   986.52   7  35     3 E2                                          D   
+115SN cG M$from |g(|q) in (Coul. Ex.)                                           
+115SNB G BE2W=2.3 3                                                             
+115SN  L    1280.28 53/2+              0.44 PS   9                              
+115SN2 L XREF=ABCDGJKLMOP                                                       
+115SN cL T         Doppler-broadened 1280|g peak (1977Da12);                    
+115SN2cL others: 0.53 ps {I5} if B(E2)=0.0444, I|g(1280|g)-branching=86%,       
+115SN3cL |d(1280|g)=-2.2; 0.6 ps {I+4-3} (1999Lo04)                             
+115SN cL J$M1+E2 decay to 1/2+ state                                            
+115SN  G 293.60    21   3.5   5M1+E2     +0.23   +25-160.0306 12                
+115SNS G KC=0.0265 9$LC=0.00333 24$MC=0.00065 5$NC+=0.000133 9                  
+115SNS G NC=0.000123 9$OC=1.06E-5 4                                             
+115SN cG M$from |g(|q) in (Coul. Ex.)                                           
+115SNB G BM1W=0.057 16$BE2W=3.E+1 +6-3                                          
+115SN  G   668.11  22   3.5   8                                                 
+115SN  G   782.99   6   9.0   8M1+E2     +0.8    +8-5                           
+115SN cG M$from |g(|q) in (Coul. Ex.)                                           
+115SNB G BM1W=0.005 4$BE2W=4 +5-4                                               
+115SN  G  1279.99  12 100    2 M1+E2     -2.2    2                              
+115SN cG M$from |g(|q) in (Coul. Ex.)                                           
+115SN cG MR$others: -2.2 {I+5-8} in (|a,2n|g)                                   
+115SN cG           B(E2)(W.u.)=6.7 {I7}. From B(E2) and E2(s.p.) estimate       
+115SNB G BM1W=0.0035 9$BE2W=8.0 17                                              
+115SN  L    1416.90 65/2+              0.35 PS   4                              
+115SN2 L XREF=ABDGJKLMOP                                                        
+115SN cL T$from B(E2)=0.0607 and I|g(1417|g)-branching=72%:0.97 ps<(1999Lo04)   
+115SN cL J$L=2 (d,t),(p,d),(p,t); J=5/2 from (pol d,t);                         
+115SN  G 136.70    11   1.7   7M1+E2     +0.17   15    0.243  20                
+115SNS G KC=0.208 14$LC=0.028 5$MC=0.0054 9$NC+=0.00110 17                      
+115SNS G NC=0.00102 16$OC=8.5E-5 7                                              
+115SN cG M$from |g(|q) in (Coul. Ex.)                                           
+115SNB G BM1W=0.30 13$BE2W=4.E+2 7                                              
+115SN  G 430.28    21  0.8   6 M1+E2                   0.0114617                
+115SNS G KC=0.00986 18$LC=0.00129 8$MC=0.000254 16$NC+=5.12E-5 25               
+115SNS G NC=4.7E-5 3$OC=3.88E-6 8                                               
+115SN cG M$from |g(|q) in (Coul. Ex.)                                           
+115SN cG MR        0<|d<+2.2 from A{-2}=0.40 {I23}                              
+115SNB G BM1W AP 0.003574$BE2W AP 4.518                                         
+115SN  G   804.04  18   7.1  10                                                 
+115SN  G   919.71  10  25.8  10 M1+E2      +0.17   3                            
+115SNB G BM1W=0.0149 19$BE2W=0.39 15                                            
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SN  G  1416.78   9 100    3  E2                                              
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SNB G BE2W=6.3 8                                                             
+115SN  L    1633.7610 3/2(+)           0.97 PS   +35-14                         
+115SN2 L XREF=BC(*)DGJ(*)LMO                                                    
+115SN cL J$(M1) decay to 1/2+ state, |g to 7/2+                                 
+115SN cL           Doublet L=2 (d,p),(d,t),(p,t)                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G  353.2    6    3.0  19                                             D   
+115SN  G  1021.08  20   8.5  15                                             D   
+115SN  G  1136.45  15   8.5  15                                             D   
+115SN  G  1633.72  18  100   7   M1+E2   -0.75                              D   
+115SN cG MR,M$from (|a,2n|g)                                                    
+115SNB G BM1W=0.0028 11$BE2W=0.45 17                                            
+115SN  L    1643.5223(7/2-,9/2+)                                                
+115SN2 L XREF=BC(*)DK(1652)LJ(*1639)P                                           
+115SN cL J$L=2 in (d,t). J=3/2 from (pol d,t)                                   
+115SN  G   657.10  30 100                                                       
+115SN  L    1643.7316  (7/2-)                                                   
+115SN2 L XREF=N                                                                 
+115SN  G   930.1   2   100                                                      
+115SN  L    1734.06115/2+                                                       
+115SN2 L XREF=BDGJK(1753)LMO                                                    
+115SN cL J$L=2 (d,t),(p,d); J dependence of (p,d) angular distribution          
+115SN  G   453.9   4   20    8                                              D   
+115SN  G   747.66  18  25    10 E2,M1                                       D   
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SN  G  1121.29  19  100   17                                             D   
+115SN  G  1236.52  18  100   33                                             D   
+115SN  G   1734.0   7   10   5 (E2)                                         D   
+115SN  L    1785.9215(9/2 TO 13/2)-    0.69 PS   +21-14                         
+115SN2 L XREF=BDLN                                                              
+115SN cL J$M1+E2 |g to 11/2-                                                    
+115SN cL T$from 1999Lo04                                                        
+115SN  G  369.5    7  2.2    6                                                  
+115SN  G  1072.20  20 100       M1+E2    -1.6    2                              
+115SN cG MR,M$from (|a,2n|g)                                                    
+115SNB G BM1W=0.007 3$BE2W=12 4                                                 
+115SN  L  1805     10 (11/2+,13/2+)                                             
+115SN2 L  XREF=JM                                                               
+115SN cL J$L=6 ({+3}He,|a)                                                      
+115SN  L    1824.9321(3/2+,5/2+)                                                
+115SN2 L XREF=BDGL                                                              
+115SN cL J$from |g decays to 1/2+ and 7/2+ states                               
+115SN  G   1211.6   7   17    5                                                 
+115SN  G  1327.5   3    49    4                                                 
+115SN  G   1825.1   3  100    7                                                 
+115SN  L    1857.40107/2+              0.35 PS   7                              
+115SN2 L XREF=BDGJK(1840)LMN                                                    
+115SN cL J         from L=4 (d,t),(p,d) and E2 transition to 3/2+ state;        
+115SN2cL J=7/2 from (pol d,t).                                                  
+115SN3cL 1857 |g to 1/2+ g.s. in (|a,n|g) is not compatible, suggesting |g is   
+115SN4cL misplaced in (|a,n|g)                                                  
+115SN cL T$from 1999Lo04                                                        
+115SN  G  1244.5   1   21.4  21                                                 
+115SN  G  1360.31  17  100    4 E2                                              
+115SN cG M$from |g(|q) in (|a,2n|g)                                             
+115SNB G BE2W=7.7 16                                                            
+115SN  G   1857.0   7  15    3                                                  
+115SN  L    1945.761311/2-,13/2-       1.3 PS    +4-3                           
+115SN2 L XREF=DJLMN                                                             
+115SN cL J         L=5 (d,t),({+3}He,|a)                                        
+115SN cL T$from 1999Lo04                                                        
+115SN  G   1231.9   1  100       M1                                             
+115SN cG M$from |g(|q) in (|a,2n|g)                                             
+115SNB G BM1W=0.009 3                                                           
+115SN  L     1974.0 51/2+                                                       
+115SN2 L XREF=BCDJ(1964)K(1980)LP                                               
+115SN cL J         if L=0 (p,d),(p,t) at 1980 keV and L=(0) (d,p) at 1970 keV   
+115SN2cL correspond                                                             
+115SN  G   1476.7   5  100   10                                             D   
+115SN  G   1973.8  10  21    8                                              D   
+115SN  L     1993.9 53/2+,5/2+                                                  
+115SN cL J$L=2 (d,t),({+3}He,|a)                                                
+115SN2 L XREF=JLM                                                               
+115SN  G    360.1  5   100                                                      
+115SN  L    1996.5317(11/2+)            1.04 PS  +21-14                     H   
+115SN cL J$E2 |g to 7/2+                                                        
+115SN cL T$from 1999Lo04                                                        
+115SN2 L XREF=LN                                                                
+115SN  G   1383.6  2   100     E2                                               
+115SN cG M$from |g(|q) in (|a,2n|g)                                             
+115SNB G BE2W=3.2 7                                                             
+115SN  L    2025.4813(15/2-)           1.0 PS    +4-3                       E   
+115SN2 L XREF=DILN                                                              
+115SN cL J         E2 |g decay to 11/2- state, |g(|q), |g-ray excit             
+115SN cL T$from 1999Lo04                                                        
+115SN  G  1311.5   1  100       E2                                              
+115SN cG M$from |g(|q) in (|a,2n|g)                                             
+115SNB G BE2W=4.4 18                                                            
+115SN  L    2060.15215/2+                                                       
+115SN2 L XREF=BCDGJKLM                                                          
+115SN cL J$L=2 (p,d),(d,t); J=5/2 from (pol d,t)                                
+115SN  G  1562.64  24  100    7 (E2)                                            
+115SN  G   2060.6   4   32   11                                                 
+115SN  L    2076.9411(1/2+)                                                     
+115SN2 L XREF=C(2070)DJ(*)                                                      
+115SN cL J$L=(0) (d,p)                                                          
+115SN  G   1579.6   1   100                                                     
+115SN  L    2084.2714 (9/2+)           0.90 PS   +28-14                         
+115SN cL J$(E2) |g to 5/2+ and |g to 7/2+                                       
+115SN cL T$from 1999Lo04                                                        
+115SN2 L XREF=BDJ(*)LN                                                          
+115SN  G   803.7   5    11   3                                              D   
+115SN  G  1097.70  20  100    9(E2)                                         D   
+115SN cG M$from |g(|q) in (|a,2n|g)                                             
+115SNB G BE2W=5.3 18                                                            
+115SN  G   1471.7   6   65    6                                             D   
+115SN  G   1587.3   3   50   4                                              D   
+115SN  L    2155.7713(7/2+)                                                     
+115SN2 L XREF=BDJLMN                                                            
+115SN cL J         L=(4) (d,t);                                                 
+115SN2cL 1658|g decay to 3/2+ state                                             
+115SN  G  1169.2   2    55   6                                                  
+115SN  G  1543.00  20   85    9                                                 
+115SN  G   1658.5   4  100   10                                                 
+115SN  L    2164.7622(3/2+,5/2+)                                                
+115SN2 L XREF=BC(2170)DL                                                        
+115SN cL J$L=(2) (d,p)                                                          
+115SN  G  306.6    9 15      4                                                  
+115SN  G  521.3    2 30      4                                                  
+115SNX G FL=1643.52                                                             
+115SN  G  1178.4   4 22      7                                                  
+115SN  G   1667.1   4 100    7                                                  
+115SN  L    2193.1620(3/2+,5/2+)                                                
+115SN2 L XREF=BDGL                                                              
+115SN cL J         deexcites to 1/2+,7/2+ states                                
+115SN cL           Doublet L=2 (d,p),(d,t),(p,d)                                
+115SN  G   1206.8   7   43   13                                                 
+115SN  G  1579.8   3    10   3                                                  
+115SN  G  1696.1   3   100   13                                                 
+115SN  G   2194.0   6   21    3                                                 
+115SN  L     2196.6 4                                                           
+115SN2 L XREF=DL                                                                
+115SN  G   780.0   4  67     11                                                 
+115SN  G   1209.5   6 100    17                                                 
+115SN  L    2207.48145/2+              1.0 PS    4                              
+115SN2 L XREF=BDJLMN                                                            
+115SN cL J$L=2 (d,t), M1 |g to 7/2+.                                            
+115SN cL T$from 1999Lo04                                                        
+115SN  G  574.5    7 13      3                                              D   
+115SN  G  790.9    4 12      4                                              D   
+115SN  G  1221.10  20  84    8                                              D   
+115SN  G   1594.5   5  100   9  M1                                          D   
+115SN cG M$from |a(K)exp in (|a,n|g)                                            
+115SNB G BM1W=0.0026 11                                                         
+115SN  L    2230.2723(3/2,5/2+)                                                 
+115SN2 L XREF=BDG                                                               
+115SN cL J$deexcites to 1/2+ and 5/2+ states; log| {Ift}=6.2 via                
+115SN2cL J(initial)=5/2+                                                        
+115SN  G   1244.0   3   38    9                                                 
+115SN  G   1732.6   4 38     12                                                 
+115SN  G   2229.8   6  100    8                                                 
+115SN  L 2265       5 1/2-,3/2-                                                 
+115SN cL J$L=1 (d,t)                                                            
+115SN2 L XREF=JK                                                                
+115SN  L 2302      5 (5/2-,7/2-)                                                
+115SN2 L XREF=JM                                                                
+115SN cL J         L=(3) (d,t)                                                  
+115SN  L    2313.8219 3/2+,5/2+                                                 
+115SN cL J$L=2 (d,t)                                                            
+115SN2 L XREF=DJ(2322)                                                          
+115SN  G   896.7   6  17     7                                                  
+115SN  G   1816.5   2 100    17                                                 
+115SN  L    2347.4314 (11/2-)                                               D   
+115SN2 L XREF=DLN                                                               
+115SN  G   401.5   3 12      2                                                  
+115SN  G   561.5   1 44      11                                                 
+115SN  G   703.7   1  36     8                                                  
+115SNX G FL=1643.73                                                             
+115SN cG E$Not seen in (|a,2n|g)                                                
+115SN  G  1634.0   2  100    11                                                 
+115SN  L    2352.1618 (1/2+,3/2,5/2+)                                           
+115SN2 L XREF=DJ(*2355)K(*)L                                                    
+115SN cL J$L=2 (d,t)                                                            
+115SN  G  618.4    5 49      9                                                  
+115SN  G  1854.8   2 100     18                                                 
+115SN  G  2352.0   6 13      9                                                  
+115SN  L    2365.2012 (3/2+,5/2+)                                               
+115SN2 L XREF=BDGJ(*)K(*)LN                                                     
+115SN cL J$L=2 (d,t)                                                            
+115SN  G   948.6    4   38   5                                              D   
+115SN  G   1378.2   5  100   8                                              D   
+115SN  G   1752.1  11   57   7                                              D   
+115SN  G   1867.8   3                                                           
+115SN cG E$seen only in |e decay and (|a,n|g)                                   
+115SN  G   2364.8   5                                                           
+115SN cG E$seen only in |e decay                                                
+115SN  L 2371       5 7/2+,9/2+                                                 
+115SN cL J$L=4 (d,t)                                                            
+115SN2 L XREF=JM                                                                
+115SN  L    2440.22 9  (7/2+)                                                   
+115SN2 L XREF=DLN                                                               
+115SN  G  232.5    7 14      7                                                  
+115SN  G  1453.7   1 100     10                                                 
+115SN  G  2439.2   4 14      4                                                  
+115SN  L     2447.7 3(1/2-,3/2-)                                                
+115SN2 L XREF=DM(2450)                                                          
+115SN cL J$L=(1) ({+3}He,|a)                                                    
+115SN  G  814.1    4 100     17                                                 
+115SN  G  1030.7   4 100     6                                                  
+115SN  L     2486.7 97/2+,9/2+                                                  
+115SN2 L XREF=DM                                                                
+115SN cL J$L=4 ({+3}He,|a)                                                      
+115SN  G  1989.3   2  100                                                       
+115SN  L 2510      105/2+                                                       
+115SN2 L XREF=CJK                                                               
+115SN cL J$L=2 (p,d),(d,p),(d,t)                                                
+115SN  L     2553.8 3(3/2+,5/2+)                                                
+115SN2 L XREF=BDJLM(2560)P                                                      
+115SN cL J$L=(2) (d,t), (pol d,t)                                               
+115SN  G  189.1    4 24      6                                                  
+115SN  G   1940.5  4  100    12                                                 
+115SN  L 2560        (1/2-,3/2-)                                                
+115SN2 L XREF=M                                                                 
+115SN cL J$L=(1) ({+3}He,|a)                                                    
+115SN  L    2592.3519  (15/2-)         2.4 PS    GT                             
+115SN cL J$|D' J=2 from A{-2} and A{-4}                                         
+115SN cL T$from 1999Lo04                                                        
+115SN2 L XREF=LN                                                                
+115SN  G   1878.9  2   100                                                      
+115SN  L     2592.7 61/2-                                                       
+115SN2 L XREF=JKM                                                               
+115SN cL J         L=1 (d,t),(p,d). J=1/2 from (pol d,t)                        
+115SN  L    2644.3021 15/2-                                                     
+115SN2 L XREF=N                                                                 
+115SN  L    2653.6521 13/2-                                                 C   
+115SN2 L XREF=DLMN                                                              
+115SN  G   306.0   6 7.4     18                                                 
+115SN  G   628.2   2  54     5                                                  
+115SN  G   867.7   6 100     10                                                 
+115SN  G  1940.0   6 47.2    18                                                 
+115SN  L    2654.0 1    (11/2+)        1.2 PS    +14-5                      A   
+115SN cL T$from 1999Lo04                                                        
+115SN2 L XREF=N                                                                 
+115SN  G   213.7   1  11     3                                                  
+115SN  G   288.7   1  13     3                                                  
+115SN  G   306.5   2  26     3                                                  
+115SN  G   446.8   2  30     3                                                  
+115SN  G   498.3   3  33     3                                                  
+115SN  G   570.0   3  21     3                                                  
+115SN  G  1940.9   2  100    14                                                 
+115SN  L    2685.5114(17/2-)           1.2 PS    +5-3                           
+115SN2 L XREF=DLN                                                               
+115SN cL T$from 1999Lo04                                                        
+115SN  G   660.3   5 62      3                                                  
+115SN  G   739.5   2 100     4                                                  
+115SN  L 2745        (11/2+,13/2+)                                              
+115SN2 L XREF=M                                                                 
+115SN cL J$L=(6) ({+3}He,|a)                                                    
+115SN  L     2759.7 3                                                           
+115SN2 L XREF=DL                                                                
+115SN  G   734.6   5 44      8                                                  
+115SN  G  2045.9   3 100     24                                                 
+115SN  L 2770      15(1/2-,3/2-)                                                
+115SN2 L XREF=C                                                                 
+115SN cL J$L=(1) (d,p)                                                          
+115SN  L    2807.3725      5/2+        0.6 PS    +4-3                           
+115SN2 L XREF=DJKL                                                              
+115SN cL J$L=2(d,t); J=5/2 from (pol d,t)                                       
+115SN cL T$from 1999Lo04                                                        
+115SN  G   861.8   3 100                                                        
+115SN  L    2808.2823 (15/2,17/2)                                               
+115SN2 L XREF=N                                                                 
+115SN  G   862.4   2   100                                                      
+115SN  L    2843.3513  15/2-           0.62 PS   +21-14                     D   
+115SN2 L XREF=DLN                                                               
+115SN cL T$from 1999Lo04                                                        
+115SN  G   189.3   2  24     7                                                  
+115SNX G FL=2653.65                                                             
+115SN  G   496.1   2  100    11                                                 
+115SN  G   817.8   1   33    7   M1                                             
+115SNB G BM1W=0.010 4                                                           
+115SN  G   897.7   3   67    11                                                 
+115SN  L 2855      103/2+,5/2+                                                  
+115SN cL J$L=2 (d,t)                                                            
+115SN cL E$not the same as tentative (2860) with L=(6) seen in ({+3}He,|a)      
+115SN2 L XREF=JM                                                                
+115SN  L 2860        (11/2+,13/2+)                                              
+115SN2 L XREF=M                                                                 
+115SN cL J$L=(6) in ({+3}He,|a)                                                 
+115SN  L 2890         9/2-,11/2-                                                
+115SN2 L XREF=M                                                                 
+115SN cL J$L=5 in ({+3}He,|a)                                                   
+115SN  L    2912.8518   (13/2+)                                             B   
+115SN2 L XREF=N                                                                 
+115SN  G  2200     1   100                                                      
+115SN  L 2930      10 (9/2-,11/2-)                                              
+115SN2 L XREF=J                                                                 
+115SN cL J         L=(5) (d,t)                                                  
+115SN  L    2938.2417 (17/2-)          1.7 PS    GT                             
+115SN2 L XREF=LN                                                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G   253.1   3  43     12                                                 
+115SN  G   346.1   2  20     10                                                 
+115SNX G FL=2592.35                                                             
+115SN  G   912.8   5   65    22                                                 
+115SN  G   992.2   2  100    18                                                 
+115SN  L 2950      5  5/2+                                                      
+115SN2 L XREF=JKM                                                               
+115SN cL J$L=2 in (d,t),({+3}He,|a)                                             
+115SN  L     2975.4 63/2+,5/2+                                                  
+115SN cL J$L=2 (d,t)                                                            
+115SN2 L XREF=DJ                                                                
+115SN  G 810.6     5 100                                                        
+115SN  L 3000      10(3/2+,5/2+)                                                
+115SN cL J$L=(2) (d,t)                                                          
+115SN2 L XREF=J                                                                 
+115SN  L    3004.091319/2-             0.62 PS   +35-21                     E   
+115SN2 L XREF=ILN                                                               
+115SN cL J$E2 |g decay to 15/2- state, M1 |g to 17/2-                           
+115SN cL T$from 1999Lo04                                                        
+115SN  G   318.5   1  4.7    1   M1                                             
+115SNB G BM1W=0.05 3                                                            
+115SN  G   978.5   1   100   1   E2                                             
+115SNB G BE2W=29 17                                                             
+115SN  L 3025      10(3/2+,5/2+)                                                
+115SN cL J$L=(2) (d,t)                                                          
+115SN2 L XREF=J                                                                 
+115SN  L    3043.2517  (15/2+)                                              H   
+115SN2 L XREF=LN                                                                
+115SN  G   1046.6  2   100                                                      
+115SN  L 3060      20 7/2+,9/2+                                                 
+115SN cL J$L=4 in (d,t),({+3}He,|a)                                             
+115SN2 L XREF=JM                                                                
+115SN  L 3085      20                                                           
+115SN2 L XREF=J                                                                 
+115SN  L 3130      20 3/2+,5/2+                                                 
+115SN cL J$L=2 (d,t)                                                            
+115SN2 L XREF=J                                                                 
+115SN  L 3190      20 3/2+,5/2+                                                 
+115SN cL J$L=2 in (d,t)                                                         
+115SN2 L XREF=J                                                                 
+115SN  L 3191         9/2-,11/2-                                                
+115SN cL J$({+3}He,|a) with L=5                                                 
+115SN2 L XREF=M                                                                 
+115SN  L    3203.8112   17/2-          1.0 PS    GT                         C   
+115SN2 L XREF=LN                                                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G    360.1  5   39    3                                                  
+115SN  G    550.1  1   100   3                                                  
+115SNX G FL=2653.65                                                             
+115SN  G   559.4   3  11.2   19                                                 
+115SN  G   1178.4  3   55    6                                                  
+115SN  G  1257.8   2   21    3                                                  
+115SN  L    3204.8613   (15/2+)                                             A   
+115SN2 L XREF=N                                                                 
+115SN  G   292.0   2  2.7    11                                                 
+115SN  G   550.9   1  100    2                                                  
+115SNX G FL=2654.0                                                              
+115SN  L     3206.0 4(3/2+,5/2+)                                                
+115SN2 L XREF=DJ(3215)                                                          
+115SN cL J$L=(2) (d,t)                                                          
+115SN  G 2219.5    5 100     60                                                 
+115SN  G 2593.1    6 100     60                                                 
+115SN  L    3220.1715   17/2+          1.2 PS    +4-3                           
+115SN2 L XREF=LN                                                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G   1194.9  2   100       E1                                             
+115SNB G BE1W=0.00014 5                                                         
+115SN  L    3258.801419/2-                                                      
+115SN2 L XREF=N                                                                 
+115SN  G   254.5   5  9.5    15  M1                                             
+115SN  G   573.3   1  68     5   M1                                             
+115SN  G  1233.2   1   100.0 10 E2                                              
+115SN  L 3265      20(3/2+,5/2+)                                                
+115SN2 L XREF=J                                                                 
+115SN cL J$L=(2) (d,t)                                                          
+115SN  L 3300      20   (5/2-,7/2-)                                             
+115SN2 L XREF=JM                                                                
+115SN cL J$L=(3) in (d,t), ({+3}He,|a)                                          
+115SN  L    3318.661319/2-             1.3 PS    +5-4                       D   
+115SN2 L XREF=LN                                                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G   115.5   2  0.2    LT                                                 
+115SN  G   475.4   1  5.0    3  (E2)                                            
+115SNB G BE2W=25 10                                                             
+115SN  G   674.4   2  3.0    5                                                  
+115SN  G   726.0   5   2.0   5                                                  
+115SNX G FL=2592.35                                                             
+115SN  G  1293.2   1  100    5   E2                                             
+115SNB G BE2W=3.3 13                                                            
+115SN  L 3345      20 3/2+,5/2+                                                 
+115SN cL J$L=2 (d,t)                                                            
+115SN2 L XREF=J                                                                 
+115SN  L 3380      20                                                           
+115SN2 L XREF=J                                                                 
+115SN  L    3385.6414  (19/2+)         0.42 PS   +21-14                         
+115SN2 L XREF=LN                                                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G   165.4   1  20.3   8   M1                                             
+115SNB G BM1W=1.8 10                                                            
+115SN  G   576.6   5  7.3    20                                                 
+115SN  G   700.1   1  100    5                                                  
+115SN  L 3405      20 9/2-,11/2-                                                
+115SN2 L XREF=JM                                                                
+115SN cL J$L=5 in ({+3}He,|a),(d,t)                                             
+115SN  L 3420      20 3/2+,5/2+                                                 
+115SN cL J$L=2 (d,t)                                                            
+115SN2 L XREF=J                                                                 
+115SN  L 3470      20 3/2+,5/2+                                                 
+115SN2 L XREF=J                                                                 
+115SN cL J$L=2 (d,t)                                                            
+115SN  L    3471.9814      19/2-                                            I   
+115SN2 L XREF=N                                                                 
+115SN  G   628.5   1  47     5  (E2)                                            
+115SN  G  1446.8   2  100    3   E2                                             
+115SN  L 3500      20  7/2+,9/2+                                                
+115SN2 L XREF=JM(3490)                                                          
+115SN cL J$L=4 in (d,t),({+3}He,|a)                                             
+115SN  L    3509.751421/2+                                                  E   
+115SN2 L XREF=ILN                                                               
+115SN cL J$E1 |g decay to 19/2- E2 |g to 17/2+                                  
+115SN  G   124.1   1  0.7    1   M1                                             
+115SN  G   251.4   3  0.4    1                                                  
+115SN  G   289.7   1 2.5     1  E2                                              
+115SN  G   505.6   1 100        E1                                              
+115SN  L    3526.2518    (17/2+)                                            B   
+115SN2 L XREF=N                                                                 
+115SN  G   321.3   3  6      3                                                  
+115SN  G   613.4   1  100    14                                                 
+115SN  G   682.9   2  20     5                                                  
+115SN  L    3533.2915  (19/2+)                                              H   
+115SN2 L XREF=N                                                                 
+115SN  G   490.0   1  100    10                                                 
+115SN  G   529.1   2  43     6                                                  
+115SN  G   595.5   3  28     5                                                  
+115SN  G   726.1   3   35    4                                                  
+115SN  L 3550      203/2+,5/2+                                                  
+115SN2 L XREF=J                                                                 
+115SN cL J$L=2 (d,t)                                                            
+115SN  L 3590      20                                                           
+115SN2 L XREF=J                                                                 
+115SN  L 3645      203/2+,5/2+                                                  
+115SN2 L XREF=J                                                                 
+115SN cL J$L=2 (d,t)                                                            
+115SN  L    3666.5 2 9/2+                                                       
+115SN cL           J|p=9/2+ from (pol d,t)                                      
+115SN2 L XREF=JM                                                                
+115SN  L    3666.6 2  23/2+                                                 E   
+115SN2 L XREF=ILN                                                               
+115SN cL J$M1 transition to 21/2+ state. No |g to J|p<21/2+                     
+115SN  G   156.8   1  100       M1                                              
+115SN  L 3690      20                                                           
+115SN2 L XREF=J                                                                 
+115SN  L 3710      20(7/2+,9/2+)                                                
+115SN cL J$L=(4) (d,t)({+3}He,|a)                                               
+115SN2 L XREF=JM                                                                
+115SN  L    3745.0715 (21/2-)                                                   
+115SN2 L XREF=N                                                                 
+115SN  G   486.1   1  100    6   M1                                             
+115SN  G   806.4   4   14    3                                                  
+115SN  L    3839.4914(25/2+)                                                E   
+115SN2 L XREF=ILN                                                               
+115SN cL J         deexcites to 21/2+,(23/2+) states. No |g to J|p<23/2+        
+115SN  G   173.0   1  100    3  M1                                              
+115SNX G FL=3666.6                                                              
+115SN  G   329.7   1  2.3    2   E2                                             
+115SN  L     3842.1 4                                                           
+115SN2 L XREF=D                                                                 
+115SN  G  2425.2   4 100                                                        
+115SN  L    3859.3617   (19/2+)                                             A   
+115SN2 L XREF=N                                                                 
+115SN  G   654.5   1  100                                                       
+115SN  L    3879.2213   21/2-          0.8 PS    +4-2                       C   
+115SN2 L XREF=LN                                                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G   407.3   5  4.0    12                                                 
+115SN  G   560.6   1  32     3  M1                                              
+115SNB G BM1W=0.037 19                                                          
+115SN  G   675.4   1  100    4  E2                                              
+115SNB G BE2W=1.1E+2 6                                                          
+115SN  L    3890.2520                                                       H   
+115SN2 L XREF=N                                                                 
+115SN  G   357.2   2  100                                                       
+115SN  L    3959.9515  (23/2+)                                                  
+115SN2 L XREF=LN                                                                
+115SN  G   426.5   2  28.7   18                                                 
+115SN  G   450.3   1  45     4   M1                                             
+115SN  G   574.3   1  100    6   E2                                             
+115SN  L     4029.8 4                                                           
+115SN2 L XREF=LN                                                                
+115SN  G    644.2  3   100                                                      
+115SNX G FL=3385.64                                                             
+115SN  L    4047.1614   23/2-                                               I   
+115SN2 L XREF=N                                                                 
+115SN  G   167.9   4  3.6    12                                                 
+115SN  G   301.9   1  46     3                                                  
+115SN  G   574.4   4  14     4  (E2)                                            
+115SN  G   728.7   1   100   8  E2                                              
+115SN  G  1043.4   2   84    9  E2                                              
+115SN  L    4060.1813 (23/2-)          1.0 PS    GT                         D   
+115SN2 L XREF=LN                                                                
+115SN cL T$from 1999Lo04                                                        
+115SN  G   181.0   1  3.4    3                                                  
+115SN  G   588.2   1  6.5    5 (E2)                                             
+115SNB G BE2W<12                                                                
+115SN  G   741.6   1  100    4  E2                                              
+115SNB G BE2W<56                                                                
+115SN  G   801.4   2  4.6    5                                                  
+115SN  G  1055.9   1  21.8   11 E2                                              
+115SNB G BE2W<2.1                                                               
+115SN  L    4132.0215                                                           
+115SN2 L XREF=N                                                                 
+115SN  G   242.0   2  18     5                                                  
+115SN  G   292.5   1  39     5                                                  
+115SNX G FL=3839.49                                                             
+115SN  G   465.8   3  26     5                                                  
+115SNX G FL=3666.6                                                              
+115SN  G   622.2   3  89     11                                                 
+115SN  G   746.0   2  100    11                                                 
+115SN  L     4163.0 4                                                           
+115SN2 L XREF=I                                                                 
+115SN  G   323.5   3  100                                                       
+115SNX G FL=3839.49                                                             
+115SN  L    4242.9520    (21/2+)                                            B   
+115SN2 L XREF=N                                                                 
+115SN  G   716.7   1   100                                                      
+115SN  L    4272.2516(27/2+)                                                E   
+115SN2 L XREF=ILN                                                               
+115SN cL J         M1 transition to (25/2+) state. No |g to J|p<25/2+           
+115SN  G   432.6   1  100       M1                                              
+115SNX G FL=3839.49                                                             
+115SN  L    4611.2620  (23/2+)                                              A   
+115SN2 L XREF=N                                                                 
+115SN  G   751.9   1  100                                                       
+115SN  L     4635.8 5                                                           
+115SN2 L XREF=N                                                                 
+115SN  G   969.3   4   100                                                      
+115SNX G FL=3666.6                                                              
+115SN  L    4687.9515  25/2-                                                C   
+115SN2 L XREF=N                                                                 
+115SN  G   627.7   2  21.4   19                                                 
+115SN  G   808.7   4  100    5   E2                                             
+115SN  L    4865.8914   27/2-                                               I   
+115SN2 L XREF=N                                                                 
+115SN  G   177.6   2  1.8    2                                                  
+115SN  G   805.8   1  100    5  E2                                              
+115SN  G   818.6   3   5.5   12 (E2)                                            
+115SN  G  1026.4   1  15.7   12  (E1)                                           
+115SNX G FL=3839.49                                                             
+115SN  L    4889.2014(27/2-)                                                D   
+115SN2 L XREF=N                                                                 
+115SN  G   201.3   1  3.8    4                                                  
+115SN  G   828.9   1  100    5  E2                                              
+115SN  G   842.2   2   10.4  11 (E2)                                            
+115SN  L    5031.1920                                                           
+115SN2 L XREF=N                                                                 
+115SN  G   899.0   2   64    11                                                 
+115SN  G  1071.4   2   100   11                                                 
+115SN  L    5060.9523    (25/2+)                                            B   
+115SN2 L XREF=N                                                                 
+115SN  G   818.0   1   100                                                      
+115SN  L    5092.9025                                                           
+115SN2 L XREF=N                                                                 
+115SN  G  1253.4   2   100                                                      
+115SNX G FL=3839.49                                                             
+115SN  L    5225.6125                                                           
+115SN2 L XREF=N                                                                 
+115SN  G  1559.1   2   100       E2                                             
+115SNX G FL=3666.6                                                              
+115SN  L    5330.8616   29/2+                                                   
+115SN2 L XREF=N                                                                 
+115SN  G  1058.3   1   44    3  M1                                              
+115SN  G  1491.5   1  100    5   E2                                             
+115SN  L    5417.8722   (27/2+)                                             A   
+115SN2 L XREF=N                                                                 
+115SN  G   806.6   1   100                                                      
+115SN  L    5434.4817  29/2+                                                    
+115SN2 L XREF=N                                                                 
+115SN  G  1161.8   3   11.2  18 (M1)                                            
+115SN  G  1595.0   1  100    5   E2                                             
+115SNX G FL=3839.49                                                             
+115SN  L     5458.4 3   (27/2+)                                                 
+115SN2 L XREF=N                                                                 
+115SN  G   847.1   2   100                                                      
+115SN  L    5599.7619   (29/2)                                                  
+115SN2 L XREF=N                                                                 
+115SN  G  1327.5   1   100       M1                                             
+115SN  L    5629.5416  29/2-                                                C   
+115SN2 L XREF=N                                                                 
+115SN  G   941.6   1  100                                                       
+115SN  L    5659.8619                                                           
+115SN2 L XREF=N                                                                 
+115SN  G  1387.6   1   100       M1                                             
+115SN  L    5749.0 2  (31/2+)                                               E   
+115SN2 L XREF=N                                                                 
+115SN  G   417.4   4  5.2    17                                                 
+115SN  G  1476.7   1  100    4   E2                                             
+115SN  L    5810.191531/2-                                                  I   
+115SN2 L XREF=N                                                                 
+115SN  G   180.7   3  1.0    3                                                  
+115SN  G   921.0   1  51     3  E2                                              
+115SN  G   944.3   1  100    4  E2                                              
+115SN  L    5812.8316  (31/2-)                                              D   
+115SN2 L XREF=N                                                                 
+115SN  G   183.3   1  1.5    3                                                  
+115SN  G   923.6   1  100    5   E2                                             
+115SN  G   946.9   4  1.9    5                                                  
+115SN  L    5911.4917 (31/2+)                                                   
+115SN2 L XREF=N                                                                 
+115SN  G   476.9   2  78     7                                                  
+115SN  G   580.1   2  81     19                                                 
+115SN  G  1639.4   1  100    7  E2                                              
+115SN  L     5966.2 4    (29/2+)                                            B   
+115SN2 L XREF=N                                                                 
+115SN  G   905.2   3   100                                                      
+115SN  L     6073.6 5                                                           
+115SN2 L XREF=N                                                                 
+115SN  G  1801.3   4   100                                                      
+115SN  L     6268.6 3    (31/2+)                                            A   
+115SN2 L XREF=N                                                                 
+115SN  G   850.7   2   100                                                      
+115SN  L    6286.6418  (33/2)                                                   
+115SN2 L XREF=N                                                                 
+115SN  G   375.2   2  33     5                                                  
+115SN  G   537.7   1  76     24                                                 
+115SNX G FL=5749.0                                                              
+115SN  G   852.2   2   100   14                                                 
+115SN  L    6357.2517 (31/2-)                                               F   
+115SN2 L XREF=N                                                                 
+115SN  G  1026.4   1   100       (E1)                                           
+115SN  L     6461.3 3                                                           
+115SN2 L XREF=N                                                                 
+115SN  G   549.8   2  100                                                       
+115SN  L    6575.6516 (33/2-)                                               F   
+115SN2 L XREF=N                                                                 
+115SN  G   218.4   1  50     3   M1                                             
+115SN  G   762.8   3  18     5                                                  
+115SN  G   765.5   1  100    8                                                  
+115SN  L     6685.2 3  33/2-                                                C   
+115SN2 L XREF=N                                                                 
+115SN  G  1055.7   2   100                                                      
+115SN  L    6719.331735/2-                                                  I   
+115SN2 L XREF=N                                                                 
+115SN  G   906.4   2  17.0   22 (E2)                                            
+115SN  G   909.1   1  100    5  E2                                              
+115SN  L    6830.6318 (35/2-)                                               D   
+115SN2 L XREF=N                                                                 
+115SN  G  1017.8   1   100   8  E2                                              
+115SN  G  1020.3   4   21    8                                                  
+115SN  L    6949.6017   (35/2-)                                             F   
+115SN2 L XREF=N                                                                 
+115SN  G   374.0   1  100    6   M1                                             
+115SN  G  1136.5   6  14.8   4  (E2)                                            
+115SN  G  1140     1   4     4  (E2)                                            
+115SN  L     7157.2 5   (35/2+)                                             A   
+115SN2 L XREF=N                                                                 
+115SN  G   888.6   3   100                                                      
+115SN  L    7248.6518(37/2-)                                                F   
+115SN2 L XREF=N                                                                 
+115SN  G   299.1   1  44     3   M1                                             
+115SN  G   529.3   1  100    6                                                  
+115SN  L    7683.6220 (39/2-)                                               F   
+115SN2 L XREF=N                                                                 
+115SN  G   435.0   1  100    11  M1                                             
+115SN  G   963.9   4   67    17(E2)                                             
+115SN  L     7826.311    (37/2-)                                            C   
+115SN2 L XREF=N                                                                 
+115SN  G  1141     1   100   2                                                  
+115SN  L     7922.6 3(39/2-)                                                D   
+115SN2 L XREF=N                                                                 
+115SN  G  1092.0   2   100       E2                                             
+115SN  L     8163.211  (39/2+)                                              A   
+115SN2 L XREF=N                                                                 
+115SN  G  1006     1   100                                                      
+115SN  L     9069.611(43/2-)                                                D   
+115SN2 L XREF=N                                                                 
+115SN  G  1147     1  100       (E2)                                            
+115SN  L 13250        9/2+                                                      
+115SN2 L XREF=QR                                                                
+115SN cL J         IAR, analog of {+115}In 9/2+, g.s.                           
+115SN  L 13600        1/2-                                                      
+115SN2 L XREF=QR                                                                
+115SN cL J         IAR, analog of {+115}In 1/2-, 336 level                      
+115SN  L 13850        3/2-                                                      
+115SN2 L XREF=QR                                                                
+115SN cL J         IAR, analog of {+115}In 3/2-, 597 level                      
+115SN  L X                                                                      
+115SN2 L XREF=N                                                                 
+115SN  L    5748+X     (33/2)                                               G   
+115SN DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+115SN2 L XREF=N                                                                 
+115SN  L   6002.0+X 5  (35/2)                                               G   
+115SN2 L XREF=N                                                                 
+115SN  G   254.0   5  100                                                       
+115SN  L   6328.8+X 6  (37/2)                                               G   
+115SN2 L XREF=N                                                                 
+115SN  G   326.8   2  100                                                       
+115SN  L   6711.1+X 6 (39/2)                                                G   
+115SN2 L XREF=N                                                                 
+115SN  G   382.3   2  100                                                       
+115SN  L   7204.2+X 7 (41/2)                                                G   
+115SN2 L XREF=N                                                                 
+115SN  G   493.1   3  100                                                       
+115SN  L   7830.2+X 9  (43/2)                                               G   
+115SN2 L XREF=N                                                                 
+115SN  G   626.0   5  100                                                       
+

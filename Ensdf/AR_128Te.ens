@@ -1,0 +1,906 @@
+128TE    ADOPTED LEVELS, GAMMAS                                  15NDS    201510
+128TE  H TYP=FUL$AUT=ZOLTAN ELEKES AND JANOS TIMAR$CIT=NDS 129, 191 (2015)$     
+128TE2 H CUT=28-Feb-2015$                                                       
+128TE  Q -1255     4  8783.4 17 9583   5  -3184.4 13   2012WA38                 
+128TE cG E,RI$From (n,n'|g) unless otherwise noted.                             
+128TE CL BAND(C)$yrast band.                                                    
+128TE cL J(C)$From systematics of the yrast band structure in {+126}Te,         
+128TE2cL {+128}Te and {+130}Te, unless otherwise noted.                         
+128TE cG E(A)$Primary |g of resonance fluorescence in {+128}Te(|g,|g').         
+128TE cG E(B)$From ({+64}Ni,X).                                                 
+128TE cG M,MR$Multipolarities and mixing ratios are based on linear             
+128TE2cG polarization measurements and on A{-2} and A{-4} values in |g(|q) in   
+128TE3cG (n,n'|g), unless otherwise noted.                                      
+128TE cG E(C)$From {+128}Sb |b{+-} decay (9.05 h).                              
+128TE cG RI(D)$From {+128}Sb |b{+-} decay (9.05 h).                             
+128TE cL T$From DSAM in (n,n'|g) unless otherwise noted.                        
+128TE cG E(E)$From {+128}Sb |b{+-} decay (10.41 min).                           
+128TE cG RI(F)$From {+128}Sb |b{+-} decay (10.41 min).                          
+128TE cG E(G)$From {+238}U({+12}C,F|g).                                         
+128TE cG MR$If no value given it was assumed |d=1.00 for E2/M1, |d=1.00 for     
+128TE2cG E3/M2 and |d=0.10 for the other multipolarities                        
+128TE  XA128SB B- DECAY (9.05 H)                                                
+128TE  XB128SB B- DECAY (10.41 M)                                               
+128TE  XC128I EC DECAY                                                          
+128TE  XD126TE(T,P)                                                             
+128TE  XE128TE(N,N'G)                                                           
+128TE  XFCOULOMB EXCITATION                                                     
+128TE  XG128TE(A,A')                                                            
+128TE  XH128TE(D,D')                                                            
+128TE  XI128TE(G,G')                                                            
+128TE  XJ128TE(P,P')                                                            
+128TE  XK130TE(P,T)                                                             
+128TE  XL130TE(64NI,X)                                                          
+128TE  XM235U(N,FG)                                                             
+128TE  XN238U(18O,FG)                                                           
+128TE  XO238U(12C,FG)                                                           
+128TE  L 0.0          0+                7.7E+24 Y 4                         C   
+128TEX L XREF=ABCDEFGHIJKLMNO                                                   
+128TE2 L %2B-=100                                                               
+128TE cL T$T{-1/2}(2|b{+-}) if T{-1/2}({+130}Te)/T{-1/2}({+128}Te)=3.52|*10{+-4}
+128TE2cL \ {I11} and T{-1/2}({+130}Te)=2.7|*10{+21} {I1} (1992Be30,1993Be04).   
+128TE3cL Others: 2.2|*10{+-24} {I3} for                                         
+128TE4cL T{-1/2}({+130}Te)/T{-1/2}({+128}Te)=3.52|*10{+-4} {I11} and            
+128TE5cL T{-1/2}({+130}Te)=7.9|*10{+20} {I10} (1996Ta04). <8.6|*10{+22} y       
+128TExcL (2000Al26), >1.1|*10{+23} y to g.s. (2003Ar02), >8.8|*10{+18} y to     
+128TE6cL g.s., >1.3|*10{+18} y to 443 (2003Ki08), <3.11|*10{+19} y (2006Zu02),  
+128TE7cL 5.4|*10{+19} y to g.s. (2007Bl15), 1.7|*10{+20} y to g.s. (2009Da16),  
+128TExcL 1.7|*10{+20} y to g.s. (2010Zu02)                                      
+128TE  L 743.216   17 2+                3.30 PS   3                         C   
+128TEX L XREF=ABCDEFGHJKLMNO                                                    
+128TE2 L MOME2=-0.06 5$MOMM1=+0.58 6                                            
+128TE cL MOMM1$weighted average of +0.50 {I6} (1988Du10), +0.62 {I8} (1981Sh15) 
+128TE2cL and +0.70 {I8} (1985ThZX).                                             
+128TE cL MOME2$from Coulomb excitation reorientation (1978Be10). 1978Be10 also  
+128TE2cL reported -0.14 {I12} as recalculated value.                            
+128TE cL J$L(p,p')=2, L(|a,|a')=2, E2 |g to 0+                                  
+128TE cL T$from B(E2)=0.377 {I3} in Coulomb excitation                          
+128TE  G 743.22    2  100       E2                     0.00288               C  
+128TEX G EKC=0.00245                                                            
+128TES G KC=0.00248 4$LC=0.000322 5$MC=6.44E-5 9$NC=1.266E-5 18$OC=1.347E-6 19  
+128TEB G BE2W=19.68 18                                                          
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE  L 1497.020  22 4+                                                    C   
+128TEX L XREF=ABEFG(1480)H(*1490)JKLMNO                                         
+128TE cL J$see 1811 level.                                                      
+128TE  G 753.82    2  100       E2                     0.00278               C  
+128TEX G EKC=0.0025 3                                                           
+128TES G KC=0.00239 4$LC=0.000311 5$MC=6.21E-5 9$NC=1.221E-5 17$OC=1.299E-6 19  
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE  L 1519.995  21 2+                1.7 PS    +8-4                          
+128TEX L XREF=EFH(*1490)IJKL                                                    
+128TE cL J$E2 |g to 0+                                                          
+128TE  G 776.75    2  100    2  M1+E2     +4.7   2     0.00262                  
+128TES G KC=0.00225 4$LC=0.000291 4$MC=5.80E-5 9$NC=1.142E-5 16$OC=1.219E-6 17  
+128TEB G BE2W=28 +7-14$BM1W=0.0012 +3-6                                         
+128TE  G 1520.02   5  3.13   23 E2                     6.96E-4                  
+128TES G KC=0.000529 8$LC=6.42E-5 9$MC=1.273E-5 18$NC=2.52E-6 4$OC=2.74E-7 4    
+128TEB G BE2W=0.032 +8-16                                                       
+128TE  L 1811.13   3  6+                0.45 NS   3                         C   
+128TEX L XREF=ABEJLMNO                                                          
+128TE cL J$E1 |g from 7- 2337 to 1811 and E2 |g's from 1811 to 1497 and from    
+128TE2cL 1497 to 2+ 743 uniquely establish J|p(1811)=6+ and J|p(1497)=4+.       
+128TE cL T$weighted average of 0.48 ns {I3} in {+128}Sb |b{+-} decay (9.01 h)   
+128TE2cL and 0.42 ns {I3} in {+128}Sb |b{+-} decay (10.4 min).                  
+128TE  G 314.12    2  100       E2                      0.0333                  
+128TEX G EKC=0.032 5                                                            
+128TES G KC=0.0278 4$LC=0.00442 7$MC=0.000895 13$NC=0.0001733 25$OC=1.721E-5 24 
+128TEB G BE2W=9.7 6                                                             
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE  L 1968.485  25 1+,2+,3+          209 FS   +17-15                         
+128TEX L XREF=EG(*2010)J(*1972)                                                 
+128TE cL J$M1+E2 |g to 2+.                                                      
+128TE  G 448.8     3  0.38   17                                                 
+128TE  G 1225.27   2  100    2  M1+E2     -0.210 11    1.16E-3                  
+128TES G KC=0.001001 14$LC=0.0001210 17$MC=2.40E-5 4$NC=4.76E-6 7$OC=5.22E-7 8  
+128TEB G BE2W=1.08 +14-15$BM1W=0.055 5                                          
+128TE  L 1972      2                                                            
+128TEX L XREF=G(*2010)H(*2020)IJ(*1972)K                                        
+128TE cL E$from (p,t)                                                           
+128TE  L 1978.80   3  0+                1.4 PS    +12-8                         
+128TEX L XREF=EK(1982)                                                          
+128TE cL J$L(p,t)=0.                                                            
+128TE  G 1235.58   3  100                                                       
+128TE  L 2027.77   3  4+                0.37 PS  +19-10                         
+128TEX L XREF=EG(2010)H(*2020)JKL                                               
+128TE cL J$M1+E2 |g to 4+, L(p,p')=4.                                           
+128TE  G 530.75    2  100    3  M1+E2     -0.24  2     0.00806                  
+128TES G KC=0.00698 10$LC=0.000869 13$MC=0.0001729 25$NC=3.42E-5 5$OC=3.73E-6 6 
+128TEB G BE2W=33 +11-18$BM1W=0.24 +7-13                                         
+128TE  G 1284.54   3  55.2   16 E2                     8.71E-4                  
+128TES G KC=0.000739 11$LC=9.06E-5 13$MC=1.80E-5 3$NC=3.56E-6 5$OC=3.86E-7 6    
+128TEB G BE2W=4.0 +11-21                                                        
+128TE  L 2133.29   3  5-                                                        
+128TEX L XREF=AEH(*2120)JKLNO                                                   
+128TE cL J$L(p,t)=5, L(p,p')=5, E1+M2 |g to 4+                                  
+128TE  G 322.3     2  8.3    28                                              C  
+128TEF G FLAG=CD                                                                
+128TE cG RI$other: 25 {I3} in {+130}Te({+64}Ni,X)                               
+128TE  G 636.26    2  100    6  E1+M2     +0.020 6     1.54E-3               C  
+128TEF G FLAG=D                                                                 
+128TEX G EKC=0.0013 3                                                           
+128TES G KC=0.001343 19$LC=0.0001622 24$MC=3.21E-5 5$NC=6.34E-6 9$OC=6.87E-7 10 
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE  L 2163.542  24 3+                0.57 PS  +16-10                         
+128TEX L XREF=EH(*2120)K                                                        
+128TE cL J$M1+E2 |g's to 3+ and 4+                                              
+128TE  G 643.56    2  100    3  M1+E2     +3.8   4     0.00419                  
+128TES G KC=0.00360 6$LC=0.000477 7$MC=9.53E-5 14$NC=1.87E-5 3$OC=1.98E-6 3     
+128TEB G BE2W=92 +17-26$BM1W=0.0039 +11-14                                      
+128TE  G 666.48    6  59     3  M1+E2     +0.59  +14-120.0044611                
+128TES G KC=0.00386 10$LC=0.000482 10$MC=9.60E-5 19$NC=1.90E-5 4$OC=2.06E-6 5   
+128TEB G BE2W=13 +5-6$BM1W=0.024 +6-8                                           
+128TE  G 1420.30   3  79     4  M1+E2     +0.419 11    8.69E-4                  
+128TES G KC=0.000712 10$LC=8.58E-5 12$MC=1.702E-5 24$NC=3.37E-6 5$OC=3.70E-7 6  
+128TEB G BE2W=0.22 +5-7$BM1W=0.0038 +7-11                                       
+128TE  L 2193.48   3  2+                49.9 FS   14                            
+128TEX L XREF=EK(2196.0)                                                        
+128TE cL J$E2 |g to 0+, M1+E2 |g to 2+                                          
+128TE  G 1450.28   3  100    3  M1+E2     -0.116 13    8.61E-4                  
+128TES G KC=0.000697 10$LC=8.38E-5 12$MC=1.663E-5 24$NC=3.30E-6 5$OC=3.62E-7 5  
+128TEB G BE2W=0.55 13$BM1W=0.128 7                                              
+128TE  G 2193.42   6  11.1   8  E2                     6.98E-4                  
+128TES G KC=0.000267 4$LC=3.18E-5 5$MC=6.30E-6 9$NC=1.247E-6 18$OC=1.366E-7 20  
+128TEB G BE2W=0.58 5                                                            
+128TE  L 2217.95   3  1+,2+,3+          0.4 PS    +6-5                          
+128TEX L XREF=E                                                                 
+128TE cL J$M1+E2 |g to 2+                                                       
+128TE  G 249.24    9  7.5    15                                                 
+128TE  G 697.97    6  9.7    15                                                 
+128TE  G 1474.76   3  100    3  M1+E2     +0.16  16    8.39E-415                
+128TES G KC=0.000671 13$LC=8.07E-5 15$MC=1.60E-5 3$NC=3.17E-6 6$OC=3.48E-7 7    
+128TEB G BE2W=0.1 +3-1$BM1W=0.014 +18-14                                        
+128TE  G 2217.68   13 4.7    10                                                 
+128TE  L 2270.33   3  3+,4+,5+          177 FS   +28-20                         
+128TEX L XREF=EK(2274)                                                          
+128TE cL J$M1+E2 |g to 4+.                                                      
+128TE  G 773.31    2  100       M1+E2     +0.25  +15-8 0.003278                 
+128TES G KC=0.00283 7$LC=0.000348 7$MC=6.91E-5 14$NC=1.37E-5 3$OC=1.50E-6 4     
+128TEB G BE2W=18 +20-18$BM1W=0.25 +4-5                                          
+128TE  L 2308.30   4  0+                1.7 PS    GT                            
+128TEX L XREF=EH(*2340)K(2312.2)                                                
+128TE cL J$L(p,t)=0.                                                            
+128TE  G 788.29    8  39     4                                                  
+128TE  G 1565.08   4  100    6                                                  
+128TE  L 2337.68   5  (7)-              2.404 NS  24                            
+128TEX L XREF=AEH(*2340)J(2360)K(2341)LNO                                       
+128TE cL J$E1+M2 |g to 6+, L(p,t)=7.                                            
+128TE cL T$from (814|g)(527|g)(t) in {+128}Sb |b{+-} decay (9.05 h).            
+128TE  G 204.4     10 2.2    5                                                  
+128TEF G FLAG=CD                                                                
+128TE  G 526.57    4  100    5  E1+M2     +0.025 28    0.002377              C  
+128TEF G FLAG=D                                                                 
+128TEX G EKC=0.0019 4                                                           
+128TES G KC=0.00206 6$LC=0.000250 7$MC=4.96E-5 15$NC=9.8E-6 3$OC=1.06E-6 3      
+128TEB G BE1W=7.4E-7 6$BM2W=0.008 +17-8                                         
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE  L 2352.11   3  2+                137 FS    +10-7                         
+128TEX L XREF=EH(*2340)K(2353.8)                                                
+128TE cL J$E2 |g to 0+, M1+E2 |g to 2+                                          
+128TE  G 1608.88   3  100    3  M1+E2     -0.230 14    7.55E-4                  
+128TES G KC=0.000555 8$LC=6.66E-5 10$MC=1.321E-5 19$NC=2.62E-6 4$OC=2.88E-7 4   
+128TEB G BE2W=0.43 +6-7$BM1W=0.0313 +21-27                                      
+128TE  G 2352.08   8  17.1   17 E2                     7.38E-4                  
+128TES G KC=0.000236 4$LC=2.80E-5 4$MC=5.54E-6 8$NC=1.098E-6 16$OC=1.203E-7 17  
+128TEB G BE2W=0.22 3                                                            
+128TE  L 2395.92   3  4-                                                        
+128TEX L XREF=EK(2390)L                                                         
+128TE cL J$M1+E2 |g from 2395 to 5-, and the E1+M2, M1+E2 cascade from 2395 to  
+128TE2cL 2163 to 2+ uniquely establishes J|p(2395)=4-, J|p(2163)=3+.            
+128TE  G 232.43    9  2.2    4  E1+M2     -0.15  +10-12 0.026 15                
+128TES G KC=0.022 13$LC=0.0030 20$MC=0.0006 4$NC=0.00012 8$OC=1.2E-5 9          
+128TE  G 262.63    2  100    3  M1+E2     +0.263 19     0.0491                  
+128TES G KC=0.0422 6$LC=0.00549 9$MC=0.001097 17$NC=0.000217 4$OC=2.33E-5 4     
+128TE  G 368.16    8  7.3    12 E1+M2     -0.12  11     0.007 3                 
+128TES G KC=0.0057 23$LC=0.0007 4$MC=0.00014 7                                  
+128TE  L 2405.30   8  (4+,5,6+)                                                 
+128TEX L XREF=ABEK(2409)L                                                       
+128TE cL J$|g's to 4+ and 6+.                                                   
+128TE  G 593.5     3  100    15                                              C  
+128TEF G FLAG=D                                                                 
+128TE  G 908.32    8  71     9                                               C  
+128TEF G FLAG=D                                                                 
+128TE  L 2426.00   4  3+,4+,5+          86 FS     +10-8                         
+128TEX L XREF=EH(2480)K(2429)                                                   
+128TE cL J$M1+E2 |g to 4+.                                                      
+128TE  G 398.31    8  22     3  M1+E2     +1.18  20    0.0161524                
+128TES G KC=0.01378 22$LC=0.00190 4$MC=0.000381 7$NC=7.48E-5 13$OC=7.82E-6 12   
+128TEB G BE2W=1.8E+3 +4-5$BM1W=0.30 +8-9                                        
+128TE  G 928.97    3  100    4  M1+E2     -0.147 17    0.00215                  
+128TES G KC=0.00187 3$LC=0.000228 4$MC=4.52E-5 7$NC=8.96E-6 13$OC=9.82E-7 14    
+128TEB G BE2W=4.3 +11-12$BM1W=0.26 +3-4                                         
+128TE  L 2.44E+3   2  3-                                                        
+128TEX L XREF=FG(2440)H(*2480)                                                  
+128TE cL J$L(|a,|a')=3                                                          
+128TE  G 1700      30 100                                                       
+128TEL G FL=743.216                                                             
+128TE cG E$from Coulomb excitation                                              
+128TE  L 2456.75   21                                                           
+128TEX L XREF=EO                                                                
+128TE  G 323.46    21 100                                                       
+128TE  L 2482.22   7                    0.20 PS   +5-3                          
+128TEX L XREF=E                                                                 
+128TE  G 1738.99   7  100                                                       
+128TE  L 2485      2  3-                                                        
+128TEX L XREF=H(*2480)JK                                                        
+128TE cL J$L(p,t)=3.                                                            
+128TE cL $B(E3)|?0.45 in Coulomb excitation                                     
+128TE cL E$from (p,t)                                                           
+128TE  L 2487.44   3  3+                0.32 PS   +11-7                         
+128TEX L XREF=EH(*2480)                                                         
+128TE cL J$M1+E2 |g's to 2+ and 4+                                              
+128TE  G 967.40    14 44     4                                                  
+128TE  G 990.45    4  100    8  M1+E2     +0.43  +25-240.001817                ?
+128TES G KC=0.00157 6$LC=0.000192 7$MC=3.80E-5 13$NC=7.5E-6 3$OC=8.2E-7 3       
+128TEB G BE2W=3 +4-3$BM1W=0.025 +8-10                                           
+128TE  G 1744.18   4  97     5  M1+E2     +0.268 21    7.10E-4                  
+128TES G KC=0.000468 7$LC=5.60E-5 8$MC=1.110E-5 16$NC=2.20E-6 3$OC=2.42E-7 4    
+128TEB G BE2W=0.077 +21-30$BM1W=0.0049 +12-17                                   
+128TE  L 2494.20   3  (3)-              236 FS   +28-21                         
+128TEX L XREF=EH(*2480)J(*2490)K                                                
+128TE cL J$E1+M2 |g to 2+, L(p,t)=(3).                                          
+128TE  G 526.25    13 3.5    4                                                  
+128TE  G 974.21    28 5.06   25                                                 
+128TE  G 1750.94   3  100    3  E1+M2     +0.029 10    6.47E-4                  
+128TES G KC=0.000201 3$LC=2.37E-5 4$MC=4.68E-6 7$NC=9.26E-7 14$OC=1.015E-7 15   
+128TEB G BE1W=0.000193 +19-25$BM2W=0.24 17                                      
+128TE  L 2508.06   4  2+                0.37 PS   +6-5                          
+128TEX L XREF=EH(*2480)                                                         
+128TE cL J$E2 |g to 0+, M1+E2 |g to 2+                                          
+128TE  G 1764.83   4  100    4  M1+E2     +1.8   3     6.61E-411                
+128TES G KC=0.000413 8$LC=4.96E-5 9$MC=9.82E-6 18$NC=1.95E-6 4$OC=2.13E-7 4     
+128TEB G BE2W=1.32 +22-25$BM1W=0.0019 6                                         
+128TE  G 2508.04   6  35     3  E2                     7.84E-4                  
+128TES G KC=0.000210 3$LC=2.49E-5 4$MC=4.94E-6 7$NC=9.78E-7 14$OC=1.073E-7 15   
+128TEB G BE2W=0.104 +18-20                                                      
+128TE  L 2516.64   6                                                            
+128TEX L XREF=EK                                                                
+128TE  G 996.64    6  100                                                       
+128TE  L 2550.52   3  3+                0.18 PS   +4-3                         ?
+128TEX L XREF=E                                                                 
+128TE cL J$M1+E2 |g's to 2+ and 4+.                                             
+128TE  G 1030.40   15 26     3  M1+E2     5      GT    1.36E-32                 
+128TES G KC=0.001178 18$LC=0.0001473 22$MC=2.93E-5 5$NC=5.78E-6 9$OC=6.24E-7 10 
+128TEB G BE2W>11$BM1W<0.00070                                                   
+128TE  G 1053.50   3  100    4  M1+E2     +0.03  6     1.63E-3                  
+128TES G KC=0.001413 20$LC=0.0001713 24$MC=3.40E-5 5$NC=6.74E-6 10$             
+128TES G OC=7.39E-7 11                                                          
+128TEB G BE2W=0.04 +15-4$BM1W=0.065 +12-15                                      
+128TE  G 1807.30   6  34     3  M1+E2     -0.03  +12-137.04E-4                  
+128TES G KC=0.000438 7$LC=5.24E-5 8$MC=1.038E-5 15$NC=2.06E-6 3$OC=2.26E-7 4    
+128TEB G BE2W=0.001 +7-1$BM1W=0.0044 +9-11                                      
+128TE cG $|d=-0.06 {I5} or -3.2 {I+5-7}.                                        
+128TE  L 2571.17   4  4,5                                                       
+128TEX L XREF=EK(2573)                                                          
+128TE cL J$D+Q |g's to 5- and 4-.                                               
+128TE  G 175.27    4  42     6  D+Q       +0.06  +7-15                          
+128TE  G 437.86    4  100    8  D+Q       -0.40  +11-7  0.01266                 
+128TES G KC=0.0108 6$LC=0.00144 2$MC=0.00029 1                                  
+128TE  G 760.16    12 7.9    23                                                 
+128TE  G 1074.14   10 15     3                                                  
+128TE  L 2587.14   22                                                           
+128TEX L XREF=AEL                                                               
+128TE  G 249.9     6                                                            
+128TE  G 453.78    23                                                        C  
+128TE  L 2598.99   5                                                            
+128TEX L XREF=BEK(2602)L                                                        
+128TE  G 193.5     7  14     7  (D,E2)                                          
+128TEL G FL=2405.30                                                             
+128TEF G FLAG=EF                                                                
+128TE  G 787.86    4  100    14 M1+E2                                           
+128TEF G FLAG=F                                                                 
+128TE  G 1101.8    8  5.4    27                                                 
+128TEF G FLAG=EF                                                                
+128TE  L 2630.14   4  1+,2+,3+          95 FS     10                            
+128TEX L XREF=EK(2633)                                                          
+128TE cL J$M1+E2 |g to 2+                                                       
+128TE  G 1132.90   18 8.1    20                                                 
+128TE  G 1886.92   4  100    5  M1+E2     +1.91  11    6.59E-4                  
+128TES G KC=0.000362 6$LC=4.33E-5 7$MC=8.59E-6 13$NC=1.701E-6 25$OC=1.86E-7 3   
+128TEB G BE2W=4.7 6$BM1W=0.0069 11                                              
+128TE  L 2643.28   6                    0.16 PS   +5-8                          
+128TEX L XREF=E                                                                 
+128TE  G 1900.05   6  100                                                       
+128TE  L 2655.10   17                                                           
+128TEX L XREF=ABEK(2650)                                                        
+128TE  G 249.7     2  40     7                                                 ?
+128TEL G FL=2405.30                                                             
+128TEF G FLAG=CD                                                                
+128TE cG E$not reported in {+128}Sb |b{+-} decay (10 min).                      
+128TE  G 843.9     5  100    16                                                 
+128TEF G FLAG=F                                                                 
+128TE cG E$not reported in {+128}Sb |b{+-} decay (9.01 h).                      
+128TE  G 1158.3    5  79     16                                              C  
+128TEF G FLAG=D                                                                 
+128TE  L 2665.31   10                   0.15 PS   +46-8                         
+128TEX L XREF=EK                                                                
+128TE  G 532.02    10 100                                                       
+128TE  L 2688.99   24 (8+)                                                  C   
+128TEX L XREF=ALNO                                                              
+128TE cL J$Q (|DJ=2) |g to 6+, high spin ordering in {+238}U({+12}C,F|g)        
+128TE  G 283.7     3  2.5    3                                                  
+128TEF G FLAG=CD                                                                
+128TE  G 878.0     4  100    8  Q                                            C  
+128TEF G FLAG=CD                                                                
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+128TE  L 2701.0    3                                                            
+128TEX L XREF=E                                                                 
+128TE  G 567.67    32 100       D+Q       +0.19  -57+35                         
+128TE  L 2706.65   4  1+,2+,3+          80 FS     6                             
+128TEX L XREF=EG(*2720)H(*2730)JK                                               
+128TE cL J$M1+E2 |g to 2+                                                       
+128TE  G 1186.7    2  9      3                                                  
+128TE  G 1963.42   4  100    5  M1+E2     +1.4   +127-96.70E-422                
+128TES G KC=0.000341 20$LC=4.07E-5 24$MC=8.1E-6 5$NC=1.60E-6 10$OC=1.75E-7 11   
+128TEB G BE2W=3 +20-3$BM1W=0.009 +111-9                                         
+128TE  G 2706.5    3  24     4                                                  
+128TE  L 2712.23   4  1+,2+,3+          162 FS    11                           ?
+128TEX L XREF=EG(*2720)H(*2730)                                                 
+128TE cL J$M1+E2 |g to 2+                                                       
+128TE  G 1192.2    2  11.1   24                                                 
+128TE  G 1969.00   4  100    LT M1+E2     -0.9   +11-676.80E-425                
+128TES G KC=0.000348 23$LC=4.2E-5 3$MC=8.2E-6 6$NC=1.63E-6 11$OC=1.79E-7 13     
+128TEB G BE2W=1.0 +19-10$BM1W=0.007 +12-7                                       
+128TE  G 2712.2    6  8.2    22                                                 
+128TE  L 2718.80   12                                                           
+128TEX L XREF=EG(*2720)H(*2730)                                                 
+128TE  G 691.70    71                                                           
+128TE  G 1221.75   12                                                           
+128TE  L 2736.25   13                                                           
+128TEX L XREF=AEG(2720)H(*2730)                                                 
+128TE  G 602.95    13 100                                                    C  
+128TE  L 2748.66   4  3+                0.71 PS  +53-21                         
+128TEX L XREF=EG(*2720)H(*2730)                                                 
+128TE cL J$M1+E2 |g's to 2+ and 4+                                              
+128TE  G 555.24    8  9      3  D+Q       +0.06  +7-6                           
+128TE  G 780.24    7  63     7  M1+E2     -0.29  +13-180.003199                 
+128TES G KC=0.00276 8$LC=0.000339 8$MC=6.74E-5 16$NC=1.34E-5 3$OC=1.46E-6 4     
+128TEB G BE2W=1.1 +10-11$BM1W=0.012 +4-9                                        
+128TE  G 1228.02   10 100    10 M1+E2     -0.03  +9-10 1.16E-3                  
+128TEL G FL=1519.995                                                            
+128TES G KC=0.001004 15$LC=0.0001212 18$MC=2.41E-5 4$NC=4.77E-6 7$OC=5.23E-7 8  
+128TEB G BE2W=0.002 +13-2$BM1W=0.0053 +17-40                                    
+128TE  G 1251.81   8  59     7  M1+E2     -0.03  19    1.12E-32                 
+128TES G KC=0.000963 16$LC=0.0001162 19$MC=2.31E-5 4$NC=4.57E-6 8$OC=5.01E-7 9  
+128TEB G BE2W=0.001 +15-1$BM1W=0.0029 +10-23                                    
+128TE  G 2005.45   5  86     7  M1+E2     -0.03  16    7.00E-4                  
+128TES G KC=0.000353 6$LC=4.21E-5 6$MC=8.35E-6 12$NC=1.655E-6 24$OC=1.82E-7 3   
+128TEB G BE2W=0.0002 +17-2$BM1W=0.0010 +4-8                                     
+128TE  L 2749.57   21                                                           
+128TEX L XREF=E                                                                 
+128TE  G 353.65    21 100       D+Q       +0.06  +7-6                           
+128TE  L 2762.03   8  3-,4-,5-,6-,7-                                            
+128TEX L XREF=AEK(2759)                                                         
+128TE cL J$M1,E2 |g to 5-.                                                      
+128TE  G 357.2     4  4.8    10                                                 
+128TEL G FL=2405.30                                                             
+128TEF G FLAG=D                                                                 
+128TE  G 628.75    9  100    6  M1,E2                   0.00495              C  
+128TEF G FLAG=D                                                                 
+128TEX G EKC=0.0045 1                                                           
+128TES G KC=0.0042 5$LC=0.00054 4$MC=0.000108 8$NC=2.12E-5 15$OC=2.28E-6 21     
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE cG M$from |a(K)exp                                                        
+128TE  L 2763.96   10                   16.6 FS   21                            
+128TEX L XREF=E                                                                 
+128TE  G 1243.96   13 19.6   16                                                 
+128TE  G 2020.73   17 3.6    14                                                 
+128TE  G 2763.96   35 100.0  20                                                 
+128TE  L 2776.86   6                                                            
+128TEX L XREF=E                                                                 
+128TE  G 380.66    23                                                           
+128TE  G 643.58    5                                                            
+128TE  L 2790      10                                                           
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 2790.8    3  (10+)             236 NS    20                        C   
+128TEX L XREF=LNO                                                               
+128TE cL T$from |g(t) in {+238}U({+12}C,F|g), 0.37 |ms {I3} from |g(t) in       
+128TE2cL {+130}Te({+64}Ni,X) and 337ns 59 in 2004Va03.                          
+128TE cL J$E2 |g to (8+), high spin ordering in {+238}U({+12}C,F|g)             
+128TE  G 101.9     3  100       E2                      1.59  3                 
+128TEF G FLAG=B                                                                 
+128TEX G ECC=1.7 2                                                              
+128TES G KC=1.116 19$LC=0.380 8$MC=0.0793 16$NC=0.0149 3$OC=0.001262 24         
+128TEB G BE2W=1.40 12                                                           
+128TE cG ECC$from {+130}Te({+64}Ni,X).                                          
+128TE cG M$from |a(exp)                                                         
+128TE  L 2817.18   23                                                           
+128TEX L XREF=A                                                                 
+128TE  G 683.9     3  100                                                    C  
+128TEF G FLAG=CD                                                                
+128TE  L 2820.71   5  (1,2+)            150 FS   +19-17                         
+128TEX L XREF=EK(2820)                                                          
+128TE cL J$|g's to 0+ and 2+.                                                   
+128TE  G 852.26    11 45     10                                                 
+128TE  G 1300.45   11 42     5                                                  
+128TE  G 2077.53   6  100    10                                                 
+128TE  G 2821.0    4  41     8                                                  
+128TE  L 2830.66   9                    0.29 PS   +13-8                         
+128TEX L XREF=E                                                                 
+128TE  G 802.82    10 95.3   19 D+Q       0.0    +18-3                          
+128TE  G 2087.62   17 100.0  19                                                 
+128TE  L 2851.90   6  (4+,5,6+)                                                 
+128TEX L XREF=BE                                                                
+128TE cL J$|g's to 4+ and 6+.                                                   
+128TE  G 1040.73   6  100    13                                                 
+128TE  G 1354.95   9  43     9                                                  
+128TE  L 2858.6    4                                                            
+128TEX L XREF=AL                                                                
+128TE  G 1047.5    4  100                                                    C  
+128TEF G FLAG=CD                                                                
+128TE cG E$other: 563.3 {I3} in {+130}Te({+64}Ni,X).                            
+128TE  L 2861.92   17                                                           
+128TEX L XREF=E                                                                 
+128TE  G 728.63    17           D+Q       -1.7   +7-9                           
+128TE  L 2869.00   8  (1,2+)            0.28 PS   +13-7                        ?
+128TEX L XREF=EJ(*2900)                                                         
+128TE cL J$|g's to 0+ and 2+.                                                   
+128TE  G 675.8     5                                                            
+128TE  G 890.24    26 23     5                                                  
+128TE  G 900.48    13 23     5  D+Q       -0.5   +4-29                          
+128TE  G 1349.10   13 52     14                                                 
+128TE  G 2125.59   17 49     13                                                 
+128TE  G 2869.0    3  100    19                                                 
+128TE  L 2884.51   6  1+,2+,3+          0.39 PS   3                             
+128TEX L XREF=EH(*2910)J(*2900)K(*2886)                                         
+128TE cL J$M1+E2 |g to 2+                                                       
+128TE  G 1364.68   15 20     6  M1+E2     -0.8   +5-12 0.000897                 
+128TES G KC=0.00074 6$LC=9.0E-5 7$MC=1.78E-5 14$NC=3.5E-6 3$OC=3.9E-7 3         
+128TEB G BE2W=0.5 5$BM1W=0.0023 14                                              
+128TE  G 2141.25   6  100    11 M1+E2     -2.5   +27-200.000693                 
+128TES G KC=0.000283 25$LC=3.4E-5 3$MC=6.7E-6 6$NC=1.32E-6 12$OC=1.45E-7 14     
+128TEB G BE2W=0.60 21$BM1W=0.0007 +13-7                                         
+128TE  L 2885.01   13 5                 98 FS    +40-26                         
+128TEX L XREF=EH(*2910)J(*2900)K(*2886)                                         
+128TE cL J$D+Q |g's to 4+ and 6+                                                
+128TE  G 1074.30   22 48.1   20 D+Q       -8     +5-19                          
+128TE  G 1387.76   16 100.0  20 D+Q       -0.13  +10-9                          
+128TE  L 2891.46   7  2+                187 FS   +29-24                         
+128TEX L XREF=EH(*2886)J(*2900)K(*2886)                                         
+128TE cL J$E2 |g to 0+, M1+E2 |g to 2+                                          
+128TE  G 1371.55   13 10     3                                                  
+128TE  G 1394.45   34 8      5                                                  
+128TE  G 2148.22   15 21     5  M1+E2     -0.94  +60-697.04E-415                
+128TES G KC=0.000293 12$LC=3.49E-5 14$MC=6.9E-6 3$NC=1.37E-6 6$OC=1.50E-7 7     
+128TEB G BE2W=0.12 9$BM1W=0.0010 7                                              
+128TE  G 2891.34   12 100    8  E2                     9.05E-4                  
+128TES G KC=0.0001645 23$LC=1.94E-5 3$MC=3.84E-6 6$NC=7.61E-7 11$OC=8.36E-8 12  
+128TEB G BE2W=0.28 +5-6                                                         
+128TE  L 2901.0    3                                                            
+128TEX L XREF=H(*2910)J(*2900)K(*2910)L                                         
+128TE  G 563.3     3  100                                                       
+128TEF G FLAG=B                                                                 
+128TE  L 2904.42   11                   0.67 PS  +48-35                         
+128TEX L XREF=E                                                                 
+128TE  G 876.62    12 100    3  D+Q       +1.44  25                             
+128TE  G 1384.46   25 89     3                                                  
+128TE  G 2161.36   44 27     3                                                  
+128TE  L 2912.78   6                    1.1 PS    +23-5                         
+128TEX L XREF=EH(*2910)J(*2900)K(*2910)                                         
+128TE  G 719.5     3  43     10                                                 
+128TE  G 1393.0    5  2.6    7                                                  
+128TE  G 2169.53   6  100    10                                                 
+128TE  L 2921.55   14                   1.2 PS    +23-8                         
+128TEX L XREF=E                                                                 
+128TE  G 1401.55   14 100    6                                                  
+128TE  G 2178.5    24 18     6                                                  
+128TE  L 2923.82   20                                                           
+128TEX L XREF=AH(*2910)L                                                        
+128TE  G 1112.7    4  100                                                    C  
+128TEF G FLAG=CD                                                                
+128TE  L 2931.86   5  3+,4+,5+                                                 ?
+128TEX L XREF=EH(*2910)J(*2900)K(2932)                                          
+128TE cL J$M1+E2 |g to 4+.                                                      
+128TE  G 1434.83   4  100       M1+E2     +4.0   3     7.48E-4                  
+128TES G KC=0.000599 9$LC=7.29E-5 11$MC=1.446E-5 21$NC=2.86E-6 4$OC=3.11E-7 5   
+128TE  L 2952.6    17                                                           
+128TEX L XREF=EL                                                                
+128TE  G 1141.5    17 100                                                       
+128TEF G FLAG=B                                                                 
+128TE  L 2954.87   6                    0.7 PS    +12-3                         
+128TEX L XREF=E                                                                 
+128TE  G 1434.85   6  100.0  15                                                 
+128TE  G 2211.71   15 48.1   15 D+Q       +0.8   +22-3                          
+128TE  L 2966.9    4  (8-)                                                      
+128TEX L XREF=O                                                                 
+128TE cL J$D |g to (7)-, high spin ordering in {+238}U({+12}C,F|g)              
+128TE  G 629.2     4            D                                               
+128TE cG M$from |g|g(|q) |DJ=1 in {+238}U({+12}C,F|g)                           
+128TE  L 2969.0    3                                                            
+128TEX L XREF=E                                                                 
+128TE  G 1157.82   25                                                           
+128TE  L 2983.31   5  3+                111 FS   +31-22                        ?
+128TEX L XREF=E                                                                 
+128TE cL J$M1+E2 |g's to 2+ and 4+                                              
+128TE  G 1463.32   7  82     LT M1+E2     -0.8   +4-7  0.000804                 
+128TES G KC=0.00064 4$LC=7.7E-5 5$MC=1.53E-5 9$NC=3.04E-6 17$OC=3.32E-7 19      
+128TEB G BE2W=3 +4-3$BM1W=0.014 +17-14                                          
+128TE  G 1486.28   7  100    LT M1+E2     -0.9   +8-7  0.000786                 
+128TES G KC=0.00061 5$LC=7.4E-5 6$MC=1.47E-5 11$NC=2.91E-6 23$OC=3.2E-7 3       
+128TEB G BE2W=4 +6-4$BM1W=0.015 +21-15                                          
+128TE  G 2240.0    3  23     6                                                  
+128TE  L 2985.53   10                   0.3 PS    +9-2                          
+128TEX L XREF=E                                                                 
+128TE  G 589.61    9  100                                                       
+128TE  L 2997.49   15                   102 FS   +20-21                         
+128TEX L XREF=EK                                                                
+128TE  G 1477.15   25 90     3                                                  
+128TE  G 2997.65   19 100    3                                                  
+128TE  L 2997.8    3                                                            
+128TEX L XREF=E                                                                 
+128TE  G 1186.7    3  100                                                       
+128TE  L 3030.11   8  1,2+              0.90 PS  +60-42                         
+128TEX L XREF=EH(*3060)K(*3031)                                                 
+128TE cL J$|g's to 0+ and 2+.                                                   
+128TE  G 836.2     5  12     4                                                  
+128TE  G 2286.88   8  100    14 D+Q       -1.6   +9-46                          
+128TE  G 3030.1    4  45     10                                                 
+128TE  L 3030.53   21                                                           
+128TEX L XREF=AH(*3060)K(*3031)                                                 
+128TE  G 692.9     3  100                                                    C  
+128TEF G FLAG=CD                                                                
+128TE  L 3038.73   13                                                           
+128TEX L XREF=E                                                                 
+128TE  G 467.71    23 100.0  25 D+Q       -0.9   +4-8                           
+128TE  G 905.37    15 89.8   25 D+Q       -0.7   +3-4                           
+128TE  L 3048.45   17                                                           
+128TEX L XREF=E                                                                 
+128TE  G 1551.42   17 100                                                       
+128TE  L 3054.50   10                   274 FS   +17-12                         
+128TEX L XREF=EG(*3090)H(*3060)J(*3070)K                                        
+128TE  G 1534.48   12 100.0  17                                                 
+128TE  G 2311.3    2  55.8   17                                                 
+128TE  L 3067.15   6  3                 274 FS   +17-12                         
+128TEX L XREF=EG(*3090)H(*3060)J(*3070)K                                        
+128TE cL J$D+Q |g's to 2+ and 4+                                                
+128TE  G 873.24    20           D+Q       -0.09  +18-23                         
+128TE  G 1099.3    2                                                            
+128TE  G 1547.04   12 54     10 D+Q       +0.09  +17-15                         
+128TE  G 1570.61   18 85     11 D+Q       -0.4   +3-48                          
+128TE  G 2323.80   9  100    19 D+Q       +0.32  +26-22                         
+128TE  L 3071.60   11                   130 FS   +40-28                         
+128TEX L XREF=EG(*3090)                                                         
+128TE  G 1551.42   20 4.0    16                                                 
+128TE  G 1574.63   15 100    3  D+Q       -3     +2-90                          
+128TE  G 2328.5    3  57.5   24                                                 
+128TE  L 3091.1    3                                                            
+128TEX L XREF=EG(*3090)                                                         
+128TE  G 957.8     3  100                                                       
+128TE  L 3097.6    3                                                            
+128TEX L XREF=EG(*3090)                                                         
+128TE  G 1600.6    3  100                                                       
+128TE  L 3100.41   9  1,2,3             117 FS   +33-24                         
+128TEX L XREF=EG(*3090)H(*3060)K                                                
+128TE cL J$D+Q |g to 2+                                                         
+128TE  G 1580.37   12 88     18 D+Q       -4     +2-12                          
+128TE  G 2357.22   13 100    18 D+Q       +1.3   +14-7                          
+128TE  L 3101.29   9                    0.21 PS   +20-8                         
+128TEX L XREF=EG(*3090)                                                         
+128TE  G 908.03    13 100    4                                                  
+128TE  G 1132.63   11 19     4                                                  
+128TE  L 3104.40   17                   113 FS   +22-17                        ?
+128TEX L XREF=EG(*3090)H(*3060)                                                 
+128TE  G 3104.36   17 100                                                       
+128TE  L 3125.40   5                                                           ?
+128TEX L XREF=EG(*3090)                                                         
+128TE  G 1097.62   6  88     19                                                 
+128TE  G 1628.39   8  100    13                                                 
+128TE  L 3135.80   23                   0.24 PS  +35-10                         
+128TEX L XREF=E                                                                 
+128TE  G 1638.77   23 100    3  D+Q       +0.43  +58-40                         
+128TE  G 2391.3    41 43     3                                                  
+128TE  L 3137.43   19 2+                121 FS   +29-21                         
+128TEX L XREF=EG(*3090)K(3137)                                                  
+128TE cL J$E2 |g to 0+.                                                         
+128TE  G 1617.9    4                                                            
+128TE  G 2393.8    3  70     13                                                 
+128TE  G 3137.5    3  100    18 E2                     9.87E-4                  
+128TES G KC=0.0001432 20$LC=1.686E-5 24$MC=3.34E-6 5$NC=6.61E-7 10$             
+128TES G OC=7.26E-8 11                                                          
+128TEB G BE2W=0.24 +7-8                                                         
+128TE  L 3140.10   20 2,3                                                       
+128TEX L XREF=AEG(*3090)                                                        
+128TE cL J$D+Q |g's to (3)- and 2+                                              
+128TE  G 645.8     3            D+Q       +0.6   +24-9                          
+128TEF G FLAG=C                                                                 
+128TE  G 802.7     3  92     5                                               C  
+128TE  G 946.1     5  62.4   5  D+Q       +0.03  +48-54                         
+128TE  G 1171.2    26 100    5  D+Q       -1.5   +15-24                         
+128TEL G FL=1968.485                                                            
+128TE  G 2397.3    55 20.9   19                                                 
+128TE  L 3146.4    9                                                            
+128TEX L XREF=E                                                                 
+128TE  G 1118.6    9  100                                                       
+128TE  L 3148.35   10                   0.26 PS   +12-6                         
+128TEX L XREF=E                                                                 
+128TE  G 1628.25   11 100.0  11                                                 
+128TE  G 2405.37   19 31.6   11                                                 
+128TE  L 3151.11   11 (9-)                                                      
+128TEX L XREF=AEH(3150)LO                                                       
+128TE cL J$Q |g to (7)-, high spin ordering in {+238}U({+12}C,F|g)              
+128TE  G 227.3     2  11.5   23                                                ?
+128TEF G FLAG=CD                                                                
+128TE cG E$observed only in {+128}Sb |b{+-} decay (9.05 h), non-observation in  
+128TE2cG {+238}U({+12}C,F|g)                                                    
+128TE  G 813.6     2  100    15 Q                      9.18E-4               C  
+128TEF G FLAG=CD                                                                
+128TEX G EKC=0.0009 3                                                           
+128TES G KC=0.000799 12$LC=9.57E-5 14$MC=1.90E-5 3$NC=3.75E-6 6$OC=4.07E-7 6    
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g), |a(K)exp suggest E1            
+128TE  G 1339.8    4  8      8                                                 ?
+128TEF G FLAG=CD                                                                
+128TE cG E$observed only in {+128}Sb |b{+-} decay (9.05 h), non-observation in  
+128TE2cG {+238}U({+12}C,F|g)                                                    
+128TE  G 2407.60   19                                                          ?
+128TE cG E$observed only in (n,n'|g) in 2012Hi10.                               
+128TE  L 3166.51   18 3-                                                        
+128TEX L XREF=EH(*3150)J(3160)                                                  
+128TE cL J$L(p,p')=3.                                                           
+128TE  G 1033.4    3                                                            
+128TE  G 1138.63   22                                                           
+128TE  L 3183.28   20 (5)-,(6)+                                                 
+128TEX L XREF=AL                                                                
+128TE cL J$|g's to 4+ and (7)-.                                                 
+128TE  G 152.6     3  20     4                                                  
+128TEL G FL=3030.53                                                             
+128TEF G FLAG=CD                                                                
+128TE  G 366.1     3  60     12                                                 
+128TEF G FLAG=CD                                                                
+128TE  G 845.8     4  100    12                                              C  
+128TEF G FLAG=CD                                                                
+128TE  G 1685.7    5  20     4                                                  
+128TEF G FLAG=CD                                                                
+128TE  L 3184.84   13                   51 FS     8                             
+128TEX L XREF=EH(*3150)K                                                        
+128TE  G 2441.5    8                                                            
+128TE  G 3184.80   13 100                                                       
+128TE  L 3188.2    4                    0.10 PS   +12-5                         
+128TEX L XREF=E                                                                 
+128TE  G 2445.0    4  100       D+Q       -1.7   +17-28                         
+128TE  L 3195.6    11                                                           
+128TEX L XREF=E                                                                 
+128TE  G 1698.6    11 100                                                       
+128TE  L 3199.1    17                                                           
+128TEX L XREF=EK(3210)                                                          
+128TE  G 1702.1    17 100                                                       
+128TE  L 3216.59   19                   76 FS    +83-35                         
+128TEX L XREF=E                                                                 
+128TE  G 820.57    20 100    3  D+Q       +1.1   +34-7                          
+128TE  G 1697.2    5  64     5                                                  
+128TE  L 3219.3    4                                                            
+128TEX L XREF=E                                                                 
+128TE  G 2476.1    4  100                                                       
+128TE  L 3221.4    3                                                            
+128TEX L XREF=E                                                                 
+128TE  G 1701.2    13                                                           
+128TE  G 1724.4    3                                                            
+128TE  L 3249.4    4                                                            
+128TEX L XREF=EK(*3250)                                                         
+128TE  G 1729.4    4  100                                                       
+128TE  L 3251.0    4                                                            
+128TEX L XREF=EK(*3250)                                                         
+128TE  G 1731.0    4  100                                                       
+128TE  L 3255.0    4                                                            
+128TEX L XREF=EK(*3250)                                                         
+128TE  G 1735.0    4  100                                                       
+128TE  L 3286.3    4                                                            
+128TEX L XREF=EK(3282)                                                          
+128TE  G 1766.3    4  100                                                       
+128TE  L 3296.46   8  (2+,3,4+)                                                ?
+128TEX L XREF=EJ(*3330)K(*3296)                                                 
+128TE cL J$|g's to 2+ and 4+.                                                   
+128TE  G 1799.41   9  100    18                                                 
+128TE  G 2553.3    2  47     12                                                 
+128TE  L 3296.9    4                                                            
+128TEX L XREF=EJ(*3330)K(*3296)                                                 
+128TE  G 1776.9    4  100                                                       
+128TE  L 3303.8    4                                                            
+128TEX L XREF=EJ(*3330)K(*3296)                                                 
+128TE  G 1783.8    4  100                                                       
+128TE  L 3327      4                                                            
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 3345      5                                                            
+128TEX L XREF=J(*3330)K                                                         
+128TE cL E$from (p,t)                                                           
+128TE  L 3384      5                                                            
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 3407      5                                                            
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 3416.30   16 -                                                         
+128TEX L XREF=A                                                                 
+128TE cL J$M1,E2 |g to 3-,4-,5-,6-,7-.                                          
+128TE  G 654.2     2  100    6  M1,E2                   0.00445              C  
+128TEF G FLAG=CD                                                                
+128TEX G EKC=0.0054 15                                                          
+128TES G KC=0.0038 5$LC=0.00049 4$MC=9.7E-5 7$NC=1.92E-5 15$OC=2.06E-6 20       
+128TE cG EKC$from {+128}Sb |b{+-} decay (9.05 h)                                
+128TE cG M$from |a(K)exp                                                        
+128TE  G 1078.6    4  12     6                                               C  
+128TEF G FLAG=CD                                                                
+128TE  L 3428.96   23                                                           
+128TEX L XREF=A                                                                 
+128TE  G 667.1     3  100    12                                                 
+128TEF G FLAG=CD                                                                
+128TE  G 773.7     3  60     12                                                 
+128TEF G FLAG=CD                                                                
+128TE  L 3440      10                                                           
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 3460      10                                                           
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 3489.83   24                                                           
+128TEX L XREF=AJ(3530)K(3480)                                                   
+128TE  G 459.5     3  38     8                                                  
+128TEL G FL=3030.53                                                             
+128TEF G FLAG=CD                                                                
+128TE  G 727.6     3  100    25                                              C  
+128TEF G FLAG=CD                                                                
+128TE  L 3508.1    4  (12+)                                                 C   
+128TEX L XREF=J(3530)K(3512)LNO                                                 
+128TE cL J$Q (|DJ=2) |g to 10+, high spin ordering in {+238}U({+12}C,F|g)       
+128TE  G 717.4     3  100       Q                                               
+128TEL G FL=2790.8                                                              
+128TEF G FLAG=B                                                                 
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+128TE  L 3519.19   19                                                           
+128TEX L XREF=AJ(*3530)                                                         
+128TE  G 102.8     3  8.9    22                                                 
+128TEF G FLAG=CD                                                                
+128TE  G 1181.6    4  100    11                                              C  
+128TEF G FLAG=CD                                                                
+128TE  G 1707.9    5  6.7    22                                                 
+128TEF G FLAG=CD                                                                
+128TE  L 3570      10                                                           
+128TEX L XREF=J(*3530)K                                                         
+128TE cL E$from (p,t)                                                           
+128TE  L 3587.8    3                                                            
+128TEX L XREF=AK(*3596)                                                         
+128TE  G 404.3     3  100    20                                                 
+128TEF G FLAG=CD                                                                
+128TE  G 1250.5    4  1.0E+2 10                                              C  
+128TEF G FLAG=CD                                                                
+128TE  L 3597.09   18                                                           
+128TEX L XREF=AK(*3596)                                                         
+128TE  G 445.7     3  100    20                                              C  
+128TEF G FLAG=CD                                                                
+128TE  G 835.8     4  67     67                                                 
+128TEF G FLAG=CD                                                                
+128TE  G 860.8     4  27     7                                                  
+128TEF G FLAG=CD                                                                
+128TE  G 1259.5    4  67     67                                              C  
+128TEF G FLAG=CD                                                                
+128TE  G 1785.5    5  27     7                                                  
+128TEF G FLAG=CD                                                                
+128TE  L 3607.42   11                                                          ?
+128TEX L XREF=E                                                                 
+128TE  G 1638.93   11 100    17                                                 
+128TE  G 2864.0    6  28     10                                                 
+128TE  L 3637.0    6                                                            
+128TEX L XREF=O                                                                 
+128TE  G 670.1     4                                                            
+128TEF G FLAG=G                                                                 
+128TE  L 3690      10                                                           
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 3714.4    4  (11-)                                                     
+128TEX L XREF=O                                                                 
+128TE cL J$Q (|DJ=2) |g to (9-), high spin ordering                             
+128TE  G 563.1     4            Q                                               
+128TEL G FL=3151.11                                                             
+128TEF G FLAG=G                                                                 
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+128TE  L 3731.72   7                                                           ?
+128TEX L XREF=E                                                                 
+128TE  G 2211.71   7  100    LT                                                 
+128TE  G 2988.2    5  16     6                                                  
+128TE  L 3734.03   17                                                           
+128TEX L XREF=A                                                                 
+128TE  G 214.8     2  33     7                                                  
+128TEF G FLAG=CD                                                                
+128TE  G 317.7     2  100    33                                              C  
+128TEF G FLAG=CD                                                                
+128TE  G 582.9     3  33     7                                                  
+128TEF G FLAG=CD                                                                
+128TE  G 972.3     4  33     33                                              C  
+128TEF G FLAG=CD                                                                
+128TE  L 3764      5                                                            
+128TEX L XREF=K                                                                 
+128TE cL E$from (p,t)                                                           
+128TE  L 3838.4    5  (1,2+)                                                   ?
+128TEX L XREF=E                                                                 
+128TE cL J$|g's to 0+ and 2+.                                                   
+128TE  G 3095.1    6  97     31                                                 
+128TE  G 3838.3    9  100    31                                                 
+128TE  L 4035.7    6                                                            
+128TEX L XREF=O                                                                 
+128TE  G 527.6     4                                                            
+128TEF G FLAG=G                                                                 
+128TE  L 4063.10   17                                                          ?
+128TEX L XREF=E                                                                 
+128TE  G 2543.1    2  48     18                                                 
+128TE  G 3319.8    3  100    21                                                 
+128TE  L 4171.5    6                                                            
+128TEX L XREF=O                                                                 
+128TE  G 457.1     5                                                            
+128TEF G FLAG=G                                                                 
+128TE  L 4265.2    6                                                            
+128TEX L XREF=O                                                                 
+128TE  G 757.1     4                                                            
+128TEF G FLAG=G                                                                 
+128TE  L 4341.7    4  (13-)                                                 C   
+128TEX L XREF=LO                                                                
+128TE cL J$d (|DJ=1) |g to (12+), high spin ordering in {+238}U({+12}C,F|g)     
+128TE  G 627.1     5  22     9                                                  
+128TEF G FLAG=G                                                                 
+128TE cG RI$from {+238}U({+12}C,F|g)                                            
+128TE  G 833.7     3  100    22 D                                               
+128TEF G FLAG=B                                                                 
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+128TE cG RI$from {+238}U({+12}C,F|g)                                            
+128TE  L 4431.2    5  (14+)                                                     
+128TEX L XREF=LO                                                                
+128TE cL J$Q (|DJ=2) |g to (12+), high spin ordering in {+238}U({+12}C,F|g)     
+128TE  G 923.1     3  100       Q                                               
+128TEF G FLAG=B                                                                 
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+128TE  L 4527.3    7                                                            
+128TEX L XREF=O                                                                 
+128TE  G 262.1     4                                                            
+128TEF G FLAG=G                                                                 
+128TE  L 4668.4    5  (14-)                                                     
+128TEX L XREF=LO                                                                
+128TE cL J$d (|DJ=1) |g to (12+), high spin ordering in {+238}U({+12}C,F|g)     
+128TE  G 326.7     3  100       D                                               
+128TEF G FLAG=B                                                                 
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+128TE  L 4728.8    6  (15-)                                                     
+128TEX L XREF=O                                                                 
+128TE cL J$Q (|DJ=2) |g to (13-), high spin ordering in {+238}U({+12}C,F|g)     
+128TE  G 387.0     4  5.4    22 Q                                               
+128TEF G FLAG=G                                                                 
+128TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+128TE  L 5077.5    9                                                            
+128TEX L XREF=O                                                                 
+128TE  G 550.2     5  1.6    8                                                  
+128TEF G FLAG=G                                                                 
+128TE  L 5435.8    6                                                            
+128TEX L XREF=O                                                                 
+128TE  G 706.9     5  60     29                                                 
+128TEF G FLAG=G                                                                 
+128TE cG RI$from {+238}U({+12}C,F|g)                                            
+128TE  G 767.6     5  10E1   4                                                  
+128TEF G FLAG=G                                                                 
+128TE cG RI$from {+238}U({+12}C,F|g)                                            
+128TE  L 5447.7    7                                                            
+128TEX L XREF=O                                                                 
+128TE  G 1016.5    5  3.2    15                                                 
+128TEF G FLAG=G                                                                 
+128TE  L 5544.8    10                                                           
+128TEX L XREF=O                                                                 
+128TE  G 467.3     5  1.0    5                                                  
+128TEF G FLAG=G                                                                 
+128TE  L 5946.5    8                                                            
+128TEX L XREF=O                                                                 
+128TE  G 1217.7    6  1.8    9                                                  
+128TEF G FLAG=G                                                                 
+128TE  L 6211.8    10                                                           
+128TEX L XREF=O                                                                 
+128TE  G 764.1     7  1.9    9                                                  
+128TEF G FLAG=G                                                                 
+128TE  L 7726.8    6  1                                                         
+128TEX L XREF=I                                                                 
+128TE cL $Level excited by resonance fluorescence in {+128}Te(|g,|g').          
+128TE cL J$from dipole excitation from 0+.                                      
+128TE  G 5750                                                                   
+128TEF G FLAG=A                                                                 
+128TE  G 6207                                                                   
+128TEF G FLAG=A                                                                 
+128TE  G 7724                                                                   
+128TEF G FLAG=A                                                                 
+

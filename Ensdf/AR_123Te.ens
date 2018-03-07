@@ -1,0 +1,949 @@
+123TE    ADOPTED LEVELS, GAMMAS                                  04NDS    200410
+123TE  H TYP=FUL$AUT=S. Ohya$CIT=NDS 102, 547 (2004)$CUT=1-Nov-2003$            
+123TE  Q -1228     4 6929.01 8 8127.5  25-1532.0 17    2012WA38                 
+123TE cQ $Note: Current evaluation has used the following Q record              
+123TE  Q -1228.6   346929.18 16 8130.7 19 -1528.529    2003AU03                 
+123TE  XA123TE IT DECAY (119.2 D)                                               
+123TE  XB123I EC DECAY                                                          
+123TE  XC122TE(D,P)                                                             
+123TE  XDCOULOMB EXCITATION                                                     
+123TE  XE(HI,XNG)                                                               
+123TE  XF124TE(P,D)                                                             
+123TE  XG124TE(D,T)                                                             
+123TE  XH124TE(3HE,A)                                                           
+123TE  XI125TE(P,T)                                                             
+123TE  XJ123SB(P,NG)                                                            
+123TE  XK122TE(N,G) E=TH                                                        
+123TE cL J$Spin and parity assignment are based on DCO ratios                   
+123TE2cL from in-beam spectroscopy and systematics with odd Te isotopes,        
+123TE3cL unless otherwise noted.                                                
+123TE cL J$J|p of (7/2-) at 533 and 880 keV levels were assigned using |g to    
+123TE2cL 11/2- and |g from 1/2-,3/2- level at 1345 keV which J|p was determined 
+123TE3cL by L=1 in (d,p) at first. Then, J|p of 1345 keV level was assigned as  
+123TE4cL (3/2)- using |g to (7/2-).                                             
+123TE cL E$From combined fit of levels and gammas in all data sets, except      
+123TE2cL where cross reference clearly indicates other sources. The evaluator   
+123TE3cL added systematic error of 0.5 keV to the level energy from 2000Bo24    
+123TE4cL in (d,p)                                                               
+123TE cG E,RI$From {+122}Te(n,|g), unless otherwise noted.                      
+123TE cG E(B),RI(B)$From {+123}I |e decay and {+123}Te IT decay                 
+123TE cG E(D)$From (HI,xn|g)                                                    
+123TE cG E(W,Z)$From level-energy difference.                                   
+123TE cG M,MR$From |a(exp) and |g|g(|q) in {+123}I |e decay or {+123}Te IT      
+123TE2cG decay, unless otherwise noted.                                         
+123TE cG CC(L,Z)$For |d=1; uncertainties are chosen to cover M1, E2 theory      
+123TE2cG values                                                                 
+123TE CL BAND(A)$ NEGATIVE-PARITY BAND BASED ON 1h{-11/2}.                      
+123TE CL BAND(B)$ NEGATIVE-PARITY BAND BASED ON (17/2-).                        
+123TE CL BAND(C)$ BAND BASED ON (23/2).                                         
+123TE PN                                                                     6  
+123TE  L 0.0         1/2+              9.2E+16 Y GT                             
+123TEX L XREF=ABCDEFGHIJK                                                       
+123TE cL J$optical spectroscopy (1976Fu06). L=0 in (d,p).                       
+123TE cL T$from 2003Al02, measured half-life T{-1/2}(|e K)>5|*10{+19} y. Others:
+123TE2cL T{-1/2}>3.2|*10{+16} y (2003Mu02), T{-1/2}(|e K)>2.4|*10{+19} y        
+123TE2cL (1996Al30), T{-1/2}(|e K)>2|*10{+14} y (1945Ru03), T{-1/2}(|e          
+123TE3cL K)>1|*10{+15} y (1955He13), 1/2(|e L)>5|*10{+13} y (1954Se93),         
+123TE4cL T{-1/2}(|e L)>1|*10{+13} y (1955He13), T{-1/2}(|e K?)=1.24|*10{+13} y  
+123TExcL {I10} (1962Wa15).                                                      
+123TE2 L %EC=100$MOMM1=-0.7369478 8$ CONF=(N,3s1/2).                            
+123TE cL MOMM1$NMR, reference to {+125}Te (1989Ra17).                           
+123TE  L    159.024213/2+              196 PS    9                              
+123TEX L XREF=ABCDEFGHIJK                                                       
+123TE cL J$L=2 in (d,p),M1+E2 |g to 1/2+.                                       
+123TE cL T$weighted average of 199 ps {I9} (1968Ra02), 186 ps {I20} (1963Sc12), 
+123TE2cL 190 ps {I30} (1953Gr07).                                               
+123TE2 L MOMM1=0.72 12$  CONF=(N,2d3/2).                                        
+123TE cL MOMM1$IPAC (1989Ra17).                                                 
+123TE  G 159.00    3 100       M1+E2     +0.062  6     0.1891               DC  
+123TE cG MR$from B(E2)=0.018 {I4} (Coul ex.) and T{-1/2}=196 ps {I9}. Sign from 
+123TExcG ce|g(|q).                                                              
+123TE cG CC$from {+123}Te IT decay.                                             
+123TEB G BM1W=0.0234 11$BE2W=2.5 5                                              
+123TE  L     247.47 411/2-             119.2 D   1                          AM  
+123TEX L XREF=ABCEFGHIJ                                                         
+123TE cL J$L=5 in (d,p); M4 |g to 3/2+.                                         
+123TE cL T$from 1992Co11.This value is different with 119.7 d {I1} (1970EmZY).  
+123TE2cL The detailed report was not in 1970EmZY. Others: 104 d (1951Hi80),     
+123TE3cL 121 d (1951Co34), 117 d {I6} (1965An05).                               
+123TE2 L %IT=100$ MOMM1=-0.927 8$ CONF=(N,1h11/2).                              
+123TE cL MOMM1$radiative detection of NMR, reference to {+125}Te (1989Ra17).    
+123TE  G 88.46     3 100       M4                      1081   16            DC  
+123TE cG CC$from {+123}Te IT decay.                                             
+123TEB G BM4W=3.79 22                                                           
+123TE  G 247.5     2 0.36    4 [E5]                    8.3                  D   
+123TEB G BE5W=0.047 6                                                           
+123TE  L     384.35 5 (9/2,7/2)-                                                
+123TEX L XREF=CK                                                                
+123TE cL J$|g to 11/2-, |g from 7/2-, no |g to 3/2+.                            
+123TE  G 136.76    7 100                                                        
+123TE  L     439.99 33/2+              22 PS     3                              
+123TEX L XREF=BCDEIJK                                                           
+123TE cL J$M1+E2 |g's to 1/2+.                                                  
+123TE cL T$from B(E2)=0.21 {I3}, |d(440|g)=-2.1 {I1}.                           
+123TE2 L MOMM1=+0.60 11                                                         
+123TE cL MOMM1$IPAC(1989Ra17); recalculated for consistency with adopted        
+123TE2cL T{-1/2}=22 ps {I3}. Other: 0.66 {I28} (1988Be45); recalculated for     
+123TE3cL consistency with adopted T{-1/2}=22 ps {I3}.                           
+123TE  G 281.01    3 18.5    2 M1+E2      -0.19  7      0.0411               C  
+123TEB G BM1W=0.0067 10$BE2W=2.2 16                                             
+123TE  G 440.02    5 100       M1+E2     -2.1    1      0.012                C  
+123TE cG M,MR$from |g|g(|q) in Coulomb excitation (1974Ro40)                    
+123TEB G BM1W=0.0018 3$BE2W=29 4                                                
+123TE  L     489.81 5(7/2+)            30.7 NS   4                              
+123TEX L XREF=BCEF(504)HIJK                                                     
+123TE cL J$|g to 3/2+, no |g to 1/2+; L=(2+4) in (p,d); L>3 in (p,t);           
+123TE2cL systematics from {+121}Te.                                             
+123TE cL T$Beam-|g(t) coin from 1981Io05.                                       
+123TE2 L MOMM1=+0.787 14                                                        
+123TE cL MOMM1$from DPAD (1989Ra17).                                            
+123TE  G 330.78    6 100       [E2]                    0.0283                   
+123TEB G BE2W=0.1246 17                                                         
+123TE  L     505.37 3(5/2)+            13.5 PS    25                            
+123TEX L XREF=BCDEFG(490)IJK                                                    
+123TE cL J$L=2 in (p,t); level systematics from {+121}Te.                       
+123TE cL T$from B(E2)=0.27 {I5}, assumed J|p=5/2+.                              
+123TE2 L MOMM1=+0.13 8                                                          
+123TE cL MOMM1$IMPAC(1989Ra17), assumed J|p=5/2+; recalculated for consistency  
+123TE2cL with adopted T{-1/2}=13.5 ps {I25};                                    
+123TE3cL other: 0.17 {I30} (1988Be45); recalculated for consistency with adopted
+123TE4cL T{-1/2}=13.5 ps {I25}.                                                 
+123TE  G 346.37    4 40      2 M1+E2     +0.07   +5-6  0.0237 8              C  
+123TEB G BM1W=0.0111 22$BE2W=0.3 +8-3                                           
+123TE  G 505.33    5 100                                                     C  
+123TE  L     532.69 4(7/2-)                                                     
+123TEX L XREF=CBIJK                                                             
+123TE cL J$|g from 1/2-,3/2-, |g to 11/2-.                                      
+123TE  G 148.35    5 6.4     4                                                  
+123TE  G 285.28    4 100       [E2]                     0.0455              L   
+123TES G KC=0.0377 12$LC=0.00624 19$MC=0.00126 4$NC+=0.00029 1                  
+123TE  L     599.12 71/2+                                                       
+123TEX L XREF=BCFIJK                                                            
+123TE cL J$L=0 in (p,t), (d,p).                                                 
+123TE  G 599.69    16100                                                        
+123TE  L     687.97 43/2+                                                       
+123TEX L XREF=BCDEF(702)GH(712)IJK                                              
+123TE cL J$L=2 in (d,p). |g|g(|q) rules out J=5/2                               
+123TE  G 182.61    6 0.93    5 [M1,E2]                  0.17  4             LC  
+123TE  G 198.23      0.24    6 [E2]                     0.155               Z   
+123TES G KC=0.125 4$LC=0.0244 8$MC=0.00497 15$NC+=0.00114 4                     
+123TE  G 247.96    5 5.1     2 [M1,E2]                  0.064 8             LC  
+123TE  G 528.96    5 100       D+Q                                           C  
+123TE cG MR$|d=-3.1 {I4} or -0.06 {I3} ({+123}I |e decay)                       
+123TE  G 687.95    8 1.9     1                                                  
+123TE  L     697.55 5(7/2)+                                                     
+123TEX L XREF=BEH(690)JK                                                        
+123TE cL J$L=4 in ({+3}He,|a); |g's to 3/2+.                                    
+123TE  G 192.17    7 5.19    24[M1,E2]                  0.14  3             LC  
+123TE  G 207.80      0.28    9 [M1,E2]                  0.11  2             Z   
+123TE  G 257.51    150.39    10[E2]                     0.0639                  
+123TE  G 538.54    5 100                                                     C  
+123TE  L     769.2714                                                           
+123TEX L XREF=BJ                                                                
+123TE  G 329.38    17100                                                    B   
+123TE  G 610.05    2342      13                                             B   
+123TE  L     783.61 43/2+,5/2+         52 FS     +33-21                         
+123TEX L XREF=BCF(801)GHIJK                                                     
+123TE cL T$from Doppler-shift attenuation (1990Ja01).                           
+123TE cL J$L=2 in (d,p).                                                        
+123TE  G 278.36    122.7     5 [M1,E2]                 0.046  4             L   
+123TE  G 343.73    145.1     5 [M1,E2]                 0.0246 4             L   
+123TE  G 624.57    5 100       M1+E2                   0.0049 3              C  
+123TE cG MR$|d=+1.8 {I11} for J=3/2, -0.45 {I+16-25} for J=5/2; other possible  
+123TE2cG |d=-5 {I+3-9} can Be ruled out from RUL ({+123}I |e decay).            
+123TEB G BM1W=0.5 3                                                             
+123TE  G 783.59    6 71      3                                                  
+123TE  L     862.13 4(5/2)                                                      
+123TEX L XREF=K                                                                 
+123TE cL J$|g from 3/2-, |g to 7/2-,(7/2+) and 3/2+.                            
+123TE  G 329.37    4 100                                                        
+123TE  G 372.21    150.6     AP                                                 
+123TE  G 421.9     2 4.2     11                                                 
+123TE  G 477.80    3 31      1                                                  
+123TE  G 703.0       0.4                                                       ?
+123TE  L     871.2110                                                           
+123TEX L XREF=CEIK                                                              
+123TE  G 381.4     1 100                                                        
+123TE  G 712.2     2  75     31                                                 
+123TE  L     879.67 7(7/2-)                                                     
+123TEX L XREF=CK                                                                
+123TE cL J$|g from 1/2-,3/2-; |g to 11/2-.                                      
+123TE  G 495.32    8 100                                                        
+123TE  G 632.27    15 33     10                                                 
+123TE  L     886.8618(15/2-)                                                A   
+123TEX L XREF=E                                                                 
+123TE  G 639.4     2 100                                                    D   
+123TE  L     894.78 63/2+,5/2+         45 FS     +24-14                         
+123TEX L XREF=BCF(914)GH(906)IJK                                                
+123TE cL T $from Doppler-shift attenuation (1990Ja01).                          
+123TE cL J$L=2 in (p,t)                                                         
+123TE  G 197.22      0.5     3 [M1,E2]                  0.13  3             Z   
+123TE  G 206.79      5.4     2 [M1,E2]                  0.113 22            Z   
+123TE  G 295.17      2.5     6                                              W   
+123TE  G 405.02    134.7     10                                                 
+123TE  G 454.76    156.4     8                                                  
+123TE  G 735.78    7 100                                                     C  
+123TE  G 894.8     2 1.5     4                                                  
+123TE  L     919.7918(13/2-)                                                    
+123TEX L XREF=CE                                                                
+123TE  G 672.3     2 100                                                    D   
+123TE  L     996.0611(5/2)-                                                     
+123TEX L XREF=BI                                                                
+123TE cL J$L=3 in (p,t); |g's to 3/2+                                           
+123TE  G 556.05    13100                                                    B   
+123TE  G 837.10    2016      3                                              B   
+123TE  L    1036.67 53/2+              43 FS     +16-12                         
+123TEX L XREF=CBF(*1053)IJK                                                     
+123TE cL T$from Doppler-shift attenuation (1990Ja01).                           
+123TE cL J$L=2 in (p,t). The radiative strength of primary transition in (n,|g) 
+123TE2cL rules out 5/2+.                                                        
+123TE  G 437.6     1 48      7                                                  
+123TE  G 546.79    1023      7                                                  
+123TE  G 596.43    1847      10                                                 
+123TE  G 877.67    7 72      8                                                  
+123TE  G 1036.69   8 100                                                        
+123TE  L    1068.19 73/2+,5/2+                                                  
+123TEX L XREF=CBF(*1053)HIK                                                     
+123TE cL J$L=2 in ({+3}He,|a)                                                   
+123TE  G 174.2     3 53      16[M1,E2]                  0.19  5             L   
+123TE  G 562.79    1268      25                                                 
+123TE  G 578.26    2095      25                                                 
+123TE  G 628.26    22100                                                        
+123TE  G 909.12    1284      15                                                 
+123TE  G 1068.12   1589      5                                                  
+123TE  L 1081.7    107/2+,9/2+                                                  
+123TEX L XREF=CI                                                                
+123TE cL J$L=4 in (p,t)                                                         
+123TE  L    1097.79 8(5/2-,7/2+)                                                
+123TEX L XREF=CK                                                                
+123TE cL J$|g to 9/2-,5/2- and 3/2+.                                            
+123TE  G 235.72    11 57     9                                                  
+123TE  G 409.6     10 21     AP                                                 
+123TE  G 565.15    15 68     10                                                 
+123TE  G 713.38    9 100                                                        
+123TE  L     1138.613                                                           
+123TEX L XREF=E                                                                 
+123TE  G 267.4     1                                                        D  ?
+123TE  G 648.8     2                                                        D  ?
+123TE  L 1153      10                                                           
+123TEX L XREF=F                                                                 
+123TE  L 1210      5 (5/2-,7/2-)                                                
+123TEX L XREF=I                                                                 
+123TE cL J$L=(3) in (p,t)                                                       
+123TE  L    1212.51 9                                                           
+123TEX L XREF=CIK                                                               
+123TE cL J$L=(3) in (p,t), |g to 9/2-, 1/2+ indicate this level is doublet.     
+123TE  G 351.4     10                                                           
+123TE  G 525.0     3 16      AP                                                 
+123TE  G 613.0     1014      AP                                                 
+123TE  G 707.0     2 35      AP                                                 
+123TE  G 772.49    9 100                                                        
+123TE  G 828.4     1012      AP                                                 
+123TE  G 1053.8    10                                                           
+123TE  L    1244.36217/2+,9/2+                                                  
+123TEX L XREF=EFGH(1232)                                                        
+123TE cL J$L=4 in (p,d)                                                         
+123TE  G 546.8     2                                                        D   
+123TE  L     1254.0 4(5/2-,7/2,9/2-)                                            
+123TEX L XREF=CK                                                                
+123TE cL J$|g to 5/2- and 9/2-.                                                 
+123TE  G 259.1     1063      AP                                                 
+123TE  G 374.4     5 100     AP                                                 
+123TE  G 391.8     1038      AP                                                 
+123TE  G 721.6     1075      AP                                                 
+123TE  G 867.8     1088      AP                                                 
+123TE  L 1268      10 (+)                                                       
+123TEX L XREF=F                                                                 
+123TE cL J$L=(4)+(2) in (p,d)                                                   
+123TE  L    1318.1213 (1/2+,3/2+)                                               
+123TEX L XREF=CK                                                                
+123TE cL J$fed by primary |g from capture state. |g to 1/2+ and 5/2+.           
+123TE  G 534.7     3 23      69                                                 
+123TE  G 812.8     3 30      10                                                 
+123TE  G 878.5     109.3     AP                                                 
+123TE  G 1158.93   1893      19                                                 
+123TE  G 1318.3    3 100                                                        
+123TE  L    1327.63 9                                                           
+123TEX L XREF=CK                                                                
+123TE  G 822.28    11100                                                        
+123TE  G 888.29    1756      13                                                 
+123TE  G 1167.79   1864      14                                                 
+123TE  L 1330      5 7/2+,9/2+                                                  
+123TEX L XREF=I                                                                 
+123TE cL J$L=4 in (p,t)                                                         
+123TE  L    1344.78 5 (3/2)-                                                    
+123TEX L XREF=CIK                                                               
+123TE cL J$L=1 in (d,p), |g to 7/2-.                                            
+123TE  G 464.7     2  12     3                                                  
+123TE  G 482.55    5  70     4                                                  
+123TE  G 561       1   9     AP                                                 
+123TE  G 745.80    12 41     AP                                                 
+123TE  G 812.12    3 100                                                        
+123TE  G 839.16    20 15     3                                                  
+123TE  G 905.1     3  13     2                                                  
+123TE  G 1345      1   7     LT                                                 
+123TE  L    1353.70 7 (5/2)+                                                    
+123TEX L XREF=CFK                                                               
+123TE cL J$L=2 in (p,d), |g to 7/2-.                                            
+123TE  G 474.12    10 73     9                                                  
+123TE  G 821.22    8 100                                                        
+123TE  G 968.91    10 55     10                                                 
+123TE  G 1193.9    10 24     AP                                                 
+123TE  L    1414.18 9 (5/2+)                                                    
+123TEX L XREF=CI(*1410)G(*1420)K                                                
+123TE cL J$L=2 in (p,t), |g to (7/2-).                                          
+123TE  G 880.7     10 10     AP                                                 
+123TE  G 925.4     10 12     AP                                                 
+123TE  G 1255.15   8 100                                                        
+123TE  L 1418      5  (5/2-,7/2-)                                               
+123TEX L XREF=CI(*1410)G(*1420)                                                 
+123TE cL J$L=(3) in (d,p).                                                      
+123TE  L    1422.8311(3/2+,5/2+)                                                
+123TEX L XREF=CI(*1410)G(*1420)K                                                
+123TE cL J$L=2 in (p,t).                                                        
+123TE  G 427.0     10 17     AP                                                 
+123TE  G 917.6     5  20     AP                                                 
+123TE  G 933.26    20 47     10                                                 
+123TE  G 982.75    12100                                                        
+123TE  G 1262.6    10  7     AP                                                 
+123TE  L 1427      107/2+,9/2+                                                  
+123TEX L XREF=HG(*1420)                                                         
+123TE cL J$L=4 in ({+3}He,|a)                                                   
+123TE  L    1446.38203/2+,5/2+                                                  
+123TEX L XREF=CFK                                                               
+123TE cL J$L=2 in (p,d)                                                         
+123TE  G 1005.0    10 48     AP                                                 
+123TE  G 1287.4    2 100                                                        
+123TE  L 1474.50   23                                                           
+123TEX L XREF=C                                                                 
+123TE  L 1483.27   871/2-,3/2-                                                  
+123TEX L XREF=CG(*1500)I                                                        
+123TE cL J$L=1 in (d,p)                                                         
+123TE  L     1484.0 5 (5/2-)                                                    
+123TEX L XREF=G(*1500)IK                                                        
+123TE cL J$L=3 {I1480} 5 peak in (p,t) (possible doublet), |g to 3/2+.          
+123TE  G 994.4     5 100                                                        
+123TE  G 1323.9    10 73     AP                                                 
+123TE  L    1496.6123                                                           
+123TEX L XREF=EG(*1500)                                                         
+123TE  G 625.4     2                                                        D   
+123TE  L 1515      103/2+,5/2+                                                  
+123TEX L XREF=FG(*1500)                                                         
+123TE cL J$L=2 in (p,d)                                                         
+123TE  L    1552.5121(17/2-)                                                B   
+123TEX L XREF=E                                                                 
+123TE  G 632.7     2                                                        D   
+123TE  G 665.7     2                                                        D   
+123TE  L    1557.8212 (3/2)+                                                    
+123TEX L XREF=CIK                                                               
+123TE cL J$L=2 in (p,t), fed by primary |g from capture state.                  
+123TE  G 870.1     10 44     AP                                                 
+123TE  G 958.7     10                                                           
+123TE  G 1118.7    3  56     AP                                                 
+123TE  G 1397.99   17100                                                        
+123TE  L     1584.8 4                                                           
+123TEX L XREF=CK                                                                
+123TE  G 706.0     10 40     AP                                                 
+123TE  G 721.5     10 60     AP                                                 
+123TE  G 1079.5    4 100     AP                                                 
+123TE  G 1144.9    10100     AP                                                 
+123TE  G 1425      1                                                            
+123TE  L 1606      10 (+)                                                       
+123TEX L XREF=F                                                                 
+123TE cL J$L=(0)+(2) in (p,d)                                                   
+123TE  L     1609.8 3(19/2-)                                                A   
+123TEX L XREF=E                                                                 
+123TE  G 722.9     2                                                        D   
+123TE  L 1622.65   82                                                           
+123TEX L XREF=C                                                                 
+123TE  L 1654.6    6  7/2+,9/2+                                                 
+123TEX L XREF=CGHI                                                              
+123TE cL J$L=4 in ({+3}He,|a)                                                   
+123TE  L     1672.0 3                                                           
+123TEX L XREF=CK                                                                
+123TE  G 1166.6    3 100                                                        
+123TE  L     1683.7 4 5/2-,7/2-                                                 
+123TEX L XREF=CIK                                                               
+123TE cL J$L=3 in (d,p)                                                         
+123TE  G 1149.2    10100                                                        
+123TE  G 1178.8    10 43     AP                                                 
+123TE  G 1194.1    4 100     AP                                                 
+123TE  L    1693.6520                                                           
+123TEX L XREF=CK                                                                
+123TE  G 625.5     10                                                           
+123TE  G 832.2     10 85     AP                                                 
+123TE  G 1160.9    2 100                                                        
+123TE  G 1204.4    10 77     AP                                                 
+123TE  L 1708.1    3 3/2+,5/2+                                                  
+123TEX L XREF=CEFI                                                              
+123TE cL J$L=2 in (p,d)                                                         
+123TE  G 463.7     2                                                        D   
+123TE  L     1732.5 3(5/2+)                                                     
+123TEX L XREF=CK                                                                
+123TE cL J$|g to 1/2+,7/2+ and (7/2-).                                          
+123TE  G 736       1                                                            
+123TE  G 1034.3    10 36     AP                                                 
+123TE  G 1044.8    10 82     AP                                                 
+123TE  G 1133.2    10100                                                        
+123TE  G 1200.7    10 55     AP                                                 
+123TE  G 1292.5    4 100     AP                                                 
+123TE  L    1759.63 6 (3/2)-                                                    
+123TEX L XREF=CK                                                                
+123TE cL J$L=1 in (d,p), |g to 7/2-.                                            
+123TE  G 405.4     10                                                           
+123TE  G 415.9     8   2     AP                                                 
+123TE  G 881.7     10  5     AP                                                 
+123TE  G 897.49    4  99     10                                                 
+123TE  G 1070.8    10  6     AP                                                 
+123TE  G 1160.7    2   4     AP                                                 
+123TE  G 1225.6    10  4     AP                                                 
+123TE  G 1254.8    10  9     AP                                                 
+123TE  G 1759.58   14100                                                        
+123TE  L 1788.35   82                                                           
+123TEX L XREF=C                                                                 
+123TE  L     1795.9 7 3/2-,5/2+                                                 
+123TEX L XREF=CK                                                                
+123TE cL J$|g to 7/2- and 1/2+.                                                 
+123TE  G 933.1     10                                                           
+123TE  G 1197.4    10                                                           
+123TE  L    1807.74 5  3/2-                                                     
+123TEX L XREF=FK                                                                
+123TE cL J$|g to 7/2-; fed by primary |g from capture state.                    
+123TE  G 454.2     10  5     AP                                                 
+123TE  G 927.3     10  9     AP                                                 
+123TE  G 945.61    3 100                                                        
+123TE  G 1207.5    10  7     AP                                                 
+123TE  G 1274.9    10 13     AP                                                 
+123TE  G 1807.77   10 33     4                                                  
+123TE  L    1839.26231/2,3/2                                                    
+123TEX L XREF=CF(1829)K                                                         
+123TE cL J$fed by primary |g from capture state.                                
+123TE  G 1399.33   2478      22                                                 
+123TE  G 1838.8    6 100     19                                                 
+123TE  L     1854.2 3  (5/2+)                                                   
+123TEX L XREF=CHK                                                               
+123TE cL J$L=(2) in ({+3}He,|a), |g to 7/2-.                                    
+123TE  G 976.3     10 95     AP                                                 
+123TE  G 992.0     10 37     AP                                                 
+123TE  G 1321.4    3 100                                                        
+123TE  G 1349.3    10 21     AP                                                 
+123TE  G 1412.6    10 26     AP                                                 
+123TE  G 1694.9    10 63     AP                                                 
+123TE  L     1864.410  (3/2+,5/2+)                                              
+123TEX L XREF=CGIHK                                                             
+123TE cL J$L=(2) in ({+3}He,|a)                                                 
+123TE  G 1002.3    10                                                           
+123TE  L    1887.3816 (3/2)-                                                    
+123TEX L XREF=CK                                                                
+123TE cL J$L=1 in (d,p), |g to 7/2-.                                            
+123TE  G 1026      1   5     AP                                                 
+123TE  G 1288.9    10 76     AP                                                 
+123TE  G 1354.5    10 17     AP                                                 
+123TE  G 1384.6    10 19     AP                                                 
+123TE  G 1447.14   17100                                                        
+123TE  G 1730.4    10 17     AP                                                 
+123TE  G 1888.2    6  71     20                                                 
+123TE  L    1903.3815 (+)                                                       
+123TEX L XREF=CFK                                                               
+123TE cL J$L=(4)+(2) in (p,d)                                                   
+123TE  G 1119.8    3  64     AP                                                 
+123TE  G 1397.99   17100                                                        
+123TE  L     1929.5 3(21/2-)                                                B   
+123TEX L XREF=E                                                                 
+123TE  G 319.7     1                                                        D   
+123TE  G 378       1                                                        D   
+123TE  L 1946.1    10  1/2+                                                     
+123TEX L XREF=CI                                                                
+123TE cL J$L=0 in (p,t)                                                         
+123TE  L     1958.5 3 (3/2+,5/2+)                                               
+123TEX L XREF=CK                                                                
+123TE cL J$|g to 1/2+ and 7/2+.                                                 
+123TE  G 1270.5    10 45     AP                                                 
+123TE  G 1359.6    3 100     AP                                                 
+123TE  G 1468.5    10 35     AP                                                 
+123TE  G 1796.5    10 25     AP                                                 
+123TE  L    1978.06 9 (3/2)-                                                    
+123TEX L XREF=CIK                                                               
+123TE cL J$L=1 in (d,p),|g to (5/2)+                                            
+123TE  G 1116.04   12 78     11                                                 
+123TE  G 1290.2    10 17     AP                                                 
+123TE  G 1378.2    10 20     AP                                                 
+123TE  G 1472.0    10 24     AP                                                 
+123TE  G 1538.6    10 44     AP                                                 
+123TE  G 1818.99   21 78     9                                                  
+123TE  G 1977.92   14100                                                        
+123TE  L 2011.08   72                                                           
+123TEX L XREF=C                                                                 
+123TE  L    2020.76141/2-,3/2-                                                  
+123TEX L XREF=K                                                                 
+123TEX L XREF=CG(*2040)K                                                        
+123TE cL J$L=1 in (d,p)                                                         
+123TE  G 1158.4    2  49     6                                                  
+123TE  G 1861.1    5  22     5                                                  
+123TE  G 2021.06   20100                                                        
+123TE  L 2051.14   695/2-,7/2-                                                  
+123TEX L XREF=CG(*2040)                                                         
+123TE cL J$L=3 in (d,p)                                                         
+123TE  L 2054.     137/2+,9/2+                                                  
+123TEX L XREF=G(*2040)HI                                                        
+123TE cL E$weighted av of 2066 keV {I25} ({+3}He,|a) and 2050 keV {I15} (p,t).  
+123TE cL J$L=4 in ({+3}He,|a), (p,t).                                           
+123TE  L 2065.6    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2076      5 3/2+,5/2+                                                  
+123TEX L XREF=F                                                                 
+123TE cL J$L=2 in (p,d)                                                         
+123TE  L 2083.1    12                                                           
+123TEX L XREF=C                                                                 
+123TE  L    2092.6011 (1/2,3/2)                                                 
+123TEX L XREF=CK                                                                
+123TE cL J$fed by primary |g from capture state                                 
+123TE  G 333       1  20     AP                                                 
+123TE  G 1651.9    10 10     AP                                                 
+123TE  G 1933.57   11100                                                        
+123TE  L 2118.39   63(+)                                                        
+123TEX L XREF=CI(2115)                                                          
+123TE cL J$L=(0)+(4) in (p,t)                                                   
+123TE  L    2129.8212 3/2-                                                      
+123TEX L XREF=CIK                                                               
+123TE cL J$L=1 in (d,p), |g to 7/2-                                             
+123TE  G 1267.72   15 73     11                                                 
+123TE  G 1597.3    4  27     AP                                                 
+123TE  G 1624.24   20100                                                        
+123TE  G 1973.6    10 22     AP                                                 
+123TE  G 2129.7    10 78     AP                                                 
+123TE  L 2143.66   68                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2151.26   76                                                           
+123TEX L XREF=CI(2160)                                                          
+123TE  L    2158.17 5 1/2-,3/2-                                                 
+123TEX L XREF=CK                                                                
+123TE cL J$L=1 in (d,p)                                                         
+123TE  G 350.2     10  4     AP                                                 
+123TE  G 397.6     10  3     AP                                                 
+123TE  G 1373.6    10  7     AP                                                 
+123TE  G 1718.73   10 34     3                                                  
+123TE  G 1999.04   4 100                                                        
+123TE  G 2158.5    10 12     AP                                                 
+123TE  L 2163      10 3/2+,5/2+                                                 
+123TEX L XREF=FI                                                                
+123TE cL J$L=2 in (p,d)                                                         
+123TE  L    2197.3120 1/2+,3/2                                                  
+123TEX L XREF=CK                                                                
+123TE cL J$fed by primary |g from capture state. |g to 5/2+.                    
+123TE  G 437.5     3  41     AP                                                 
+123TE  G 842.8     10 18     AP                                                 
+123TE  G 1335.9    10 59     AP                                                 
+123TE  G 1690.8    10 21     AP                                                 
+123TE  G 2038.0    10 12     AP                                                 
+123TE  G 2197.6    3 100                                                        
+123TE  L 2201.07   78(3/2+,5/2+)                                                
+123TEX L XREF=C                                                                 
+123TE cL J$L=(2) in (d,p).                                                      
+123TE  L 2265      155/2-,7/2-                                                  
+123TEX L XREF=I                                                                 
+123TE cL J$L=3 in (p,t)                                                         
+123TE  L 2285.0    8  (+)                                                       
+123TEX L XREF=CK                                                                
+123TE cL J$L=(4)+(2) in (p,d)                                                   
+123TE  L 2296.7    177/2+,9/2+                                                  
+123TEX L XREF=CFI                                                               
+123TE cL J$L=4 in (p,t)                                                         
+123TE  L 2332      107/2+,9/2+                                                  
+123TEX L XREF=HF                                                                
+123TE cL J$L=4 in (p,d)                                                         
+123TE  L 2348.2    11                                                           
+123TEX L XREF=C                                                                 
+123TE  L     2357.2 4(23/2-)                                                A   
+123TEX L XREF=E                                                                 
+123TE  G 427.7     2                                                        D   
+123TE  G 748                                                                D   
+123TE  L     2358.511                                                           
+123TEX L XREF=E                                                                 
+123TE  G 806                                                                D   
+123TE  L 2369.1    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2376.6    105/2-,7/2-                                                  
+123TEX L XREF=CI                                                                
+123TE cL J$L=3 in (p,t)                                                         
+123TE  L 2398.7    11                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2413.6    145/2-,7/2-                                                  
+123TEX L XREF=CF                                                                
+123TE cL J$L=3 in (d,p); the J|p assignment contradicts L=(4)+(2),              
+123TE2cL 2415 keV {I10} observed in (p,d)                                       
+123TE  L 2442.6    13                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2457.4    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2464.9    10 (+)                                                       
+123TEX L XREF=CF                                                                
+123TE cL J$L=(4)+(2) in (p,d)                                                   
+123TE  L 2478.7    11                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2497.67   86                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2514.90   82                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2525.52   81                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2533.27   80                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2540.70   81                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2551.6    11 1/2-,3/2-                                                 
+123TEX L XREF=C                                                                 
+123TE cL J$L=1 in (d,p)                                                         
+123TE  L 2555.83   83                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2565.24   80                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2572.09   81 (+)                                                       
+123TEX L XREF=CF                                                                
+123TE cL J$L=(2)+(4) in (p,d)                                                   
+123TE  L 2604.30   78                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2614.0    65                                                           
+123TEX L XREF=C                                                                 
+123TE  L    2621.9120 (1/2,3/2)                                                 
+123TEX L XREF=CFK                                                               
+123TE cL J$fed by primary |g from capture state.                                
+123TE  G 1759.8    2  54     AP                                                 
+123TE  G 2023.2    10100                                                        
+123TE  G 2115.2    10 69     AP                                                 
+123TE  G 2622      1  75     AP                                                 
+123TE  L 2630.25   75                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2638.06   73                                                           
+123TEX L XREF=C                                                                 
+123TE  L     2644.7 7 (1/2,3/2)                                                 
+123TEX L XREF=CK                                                                
+123TE cL J$fed by primary |g from capture state.                                
+123TE  G 666.6     10100     AP                                                 
+123TE  G 1085.86   15 37     AP                                                ?
+123TE  G 1782.6    10                                                           
+123TE  L 2657.01   80                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2670.46   977/2+,9/2+                                                  
+123TEX L XREF=CH(*2670)                                                         
+123TE cL J$L=4 in ({+3}He,|a)                                                   
+123TE  L 2676.19   86                                                           
+123TEX L XREF=C                                                                 
+123TE  L     2683.4 6                                                           
+123TEX L XREF=E                                                                 
+123TE  G 326                                                                D   
+123TEF G FL=2357.2                                                              
+123TE  G 754                                                                D   
+123TE  G 1074                                                               D   
+123TE  L     2686.8 51/2-,3/2-                                                  
+123TEX L XREF=CFK                                                               
+123TE cL J$L=1 in (d,p) the J|p assignment contradicts L=(4)+(2),               
+123TE2cL 2691 keV {I15} observed in (p,d)                                       
+123TE  L 2695.0    15                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2712.96   75                                                           
+123TEX L XREF=C                                                                 
+123TE  L    2725.8013 (1/2,3/2)                                                 
+123TEX L XREF=CK                                                                
+123TE cL J$fed by primary |g from capture state.                                
+123TE  G 919.6     10 14     AP                                                 
+123TE  G 1167.8    1                                                            
+123TE  G 1864.19   18100                                                        
+123TE  G 2567.1    10 30     AP                                                 
+123TE  G 2725      1  59     AP                                                 
+123TE  L 2735.3    9                                                            
+123TEX L XREF=C                                                                 
+123TE  L 2741.7    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2751.0    25(5/2-,7/2-)                                                
+123TEX L XREF=C                                                                 
+123TE cL J         L=(3) in (d,p)                                               
+123TE  L 2773.4    8  1/2-,3/2-                                                 
+123TEX L XREF=C                                                                 
+123TE cL J         L=1 in (d,p)                                                 
+123TE  L 2782.0    9                                                            
+123TEX L XREF=C                                                                 
+123TE  L 2794.0    9                                                            
+123TEX L XREF=C                                                                 
+123TE  L 2807.0    8                                                            
+123TEX L XREF=C                                                                 
+123TE  L     2811.4 4(23/2)                                                 C   
+123TEX L XREF=E                                                                 
+123TE  G 455                                                                D   
+123TEF G FL=2357.2                                                              
+123TE  G 881.8     2                                                        D   
+123TE  L     2811.9 31/2-,3/2-                                                  
+123TEX L XREF=CK                                                                
+123TE cL J$L=1 in (d,p)                                                         
+123TE  G 614.51    10100                                                       ?
+123TE  L 2834.0    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2848.6    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2857.36   83                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2864.0    9                                                            
+123TEX L XREF=C                                                                 
+123TE  L 2869.5    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2875.2    9                                                            
+123TEX L XREF=C                                                                 
+123TE  L 2880.8    12                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2887.3    12                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2894.6    9                                                            
+123TEX L XREF=C                                                                 
+123TE  L 2906.1    11                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2915.8    10                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2922.5    12                                                           
+123TEX L XREF=C                                                                 
+123TE  L     2937.2 51/2-,3/2-                                                  
+123TEX L XREF=CK                                                                
+123TE cL J$L=1 in (d,p).                                                        
+123TE  G 1129.5    5 100                                                        
+123TE  L     2946.8 3(1/2,3/2)                                                  
+123TEX L XREF=CK                                                                
+123TE cL J$fed by primary |g from capture state.                                
+123TE  L 2950      155/2-,7/2-                                                  
+123TEX L XREF=I                                                                 
+123TE cL J$L=3 in (p,t)                                                         
+123TE  L    2957.3 8 (1/2,3/2)                                                  
+123TEX L XREF=K                                                                 
+123TE cL J$fed by primary |g from capture state.                                
+123TE  L 2967.9    14                                                           
+123TEX L XREF=C                                                                 
+123TE  L 2983.8    13                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3002.5    16                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3007.7    161/2-,3/2-                                                  
+123TEX L XREF=C                                                                 
+123TE cL J$L=1 in (d,p)                                                         
+123TE  L 3033      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     3038.2 7(25/2-)                                                B   
+123TEX L XREF=E                                                                 
+123TE  G 355                                                                D   
+123TE  G 1109                                                               D   
+123TE  L 3055      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3079      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3106      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3151      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3181      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3197      201/2-,3/2-                                                  
+123TEX L XREF=C                                                                 
+123TE cL J$L=1 in (d,p)                                                         
+123TE  L 3321      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3337      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3375      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     3375.8 8(27/2-)                                                A   
+123TEX L XREF=E                                                                 
+123TE  G 338                                                                D   
+123TE  G 1018                                                               D   
+123TEF G FL=2357.2                                                              
+123TE  L 3401      201/2-,3/2-                                                  
+123TEX L XREF=C                                                                 
+123TE cL J$L=1 in (d,p)                                                         
+123TE  L 3439      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3469      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3492      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3513      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     3550.510(27/2)                                                 C   
+123TEX L XREF=E                                                                 
+123TE  G 739                                                                D   
+123TEF G FL=2811.4                                                              
+123TE  L 3551      201/2-,3/2-                                                  
+123TEX L XREF=C                                                                 
+123TE cL J$L=1 in (d,p)                                                         
+123TE  L 3625      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3744      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3766      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3787      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     3812.2 9                                                           
+123TEX L XREF=E                                                                 
+123TE  G 774                                                                D   
+123TE  G 1129                                                               D   
+123TE  L 3822      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3849      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3866      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3912      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3935      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 3975      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4014      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4040      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4055      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4075      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     4112.1 9(29/2-)                                                B   
+123TEX L XREF=E                                                                 
+123TE  G 300                                                                D   
+123TE  G 1074                                                               D   
+123TE  L 4134      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4173      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     4200.711(31/2)                                                 C   
+123TEX L XREF=E                                                                 
+123TE  G 650                                                                D   
+123TEF G FL=3550.5                                                              
+123TE  L     4201.015                                                           
+123TEX L XREF=C                                                                 
+123TE  L     4252.810(31/2-)                                                A   
+123TEX L XREF=E                                                                 
+123TE  G 877                                                                D   
+123TEF G FL=3375.8                                                              
+123TE  L 4271      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4302      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4317      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4347      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     4357.212                                                          ?
+123TEX L XREF=E                                                                 
+123TE  G 1319                                                               D   
+123TE  L 4380      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4411      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4441      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4476      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4500      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4538      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4570      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4606      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     4626.910(33/2-)                                                B   
+123TEX L XREF=E                                                                 
+123TE  G 269                                                                D  ?
+123TEF G FL=4357.2                                                              
+123TE  G 374                                                                D   
+123TEF G FL=4252.8                                                              
+123TE  G 426                                                                D   
+123TEF G FL=4200.7                                                              
+123TE  G 515                                                                D   
+123TEF G FL=4112.1                                                              
+123TE  L 4655      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4669      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4685      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4715      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     4747.715                                                       C   
+123TEX L XREF=E                                                                 
+123TE  G 547                                                                D   
+123TEF G FL=4200.7                                                              
+123TE  L 4748      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4776      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4789      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4854      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4876      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 4966      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     5008.812(35/2-)                                                A   
+123TEX L XREF=E                                                                 
+123TE  G 382                                                                D   
+123TEF G FL=4626.9                                                              
+123TE  G 756                                                                D   
+123TEF G FL=4252.8                                                              
+123TE  L 5015      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     5033.718                                                       C   
+123TEX L XREF=E                                                                 
+123TE  G 286                                                                D   
+123TEF G FL=4747.7                                                              
+123TE  L 5088      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 5140      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 5169      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 5190      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 5232      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 5329      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L 5450      20                                                           
+123TEX L XREF=C                                                                 
+123TE  L     5564.915(37/2)                                                     
+123TEX L XREF=E                                                                 
+123TE  G 556                                                                D   
+123TE  L     5587.915                                                           
+123TEX L XREF=E                                                                 
+123TE  G 579                                                                D   
+123TE  L     5643.916                                                       A   
+123TEX L XREF=E                                                                 
+123TE  G 635                                                                D   
+123TE  L     5951.916                                                           
+123TEX L XREF=E                                                                 
+123TE  G 307                                                                D  ?
+123TE  G 364                                                                D   
+123TE  G 387                                                                D   
+123TE  L     6273.721                                                       C   
+123TEX L XREF=E                                                                 
+123TE  G 1240                                                               D   
+123TEF G FL=5033.7                                                              
+123TE  L     6557.919                                                           
+123TEX L XREF=E                                                                 
+123TE  G 606                                                                D   
+123TE  L     6911.919                                                       A   
+123TEX L XREF=E                                                                 
+123TE  G 1268                                                               D   
+123TE  L     7061.921                                                           
+123TEX L XREF=E                                                                 
+123TE  G 504                                                                D   
+123TE  L     7088.723                                                       C   
+123TEX L XREF=E                                                                 
+123TE  G 815                                                                D   
+123TE  L     7294.923                                                           
+123TEX L XREF=E                                                                 
+123TE  G 233                                                                D   
+123TE  L     7481.4 4                                                       C  ?
+123TEX L XREF=E                                                                 
+123TE  G 394                                                                D  ?
+123TE  L     8030.4 4                                                       A  ?
+123TEX L XREF=E                                                                 
+123TE  G 1119                                                               D  ?
+

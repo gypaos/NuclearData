@@ -1,0 +1,592 @@
+117SN    ADOPTED LEVELS, GAMMAS                                  ENSDF    201101
+117SN  H TYP=FMT$AUT=J. Tuli$DAT=28-Oct-2014$COM=Added MS flag for isomers$     
+117SN  H TYP=MOD$AUT=J. TULI$DAT=9-Mar-2012$COM=updated T1/2(314)$              
+117SN  H TYP=FUL$AUT=JEAN BLACHOT$CIT=ENSDF$CUT=1-Mar-2009$                     
+117SN  Q -1758     9 6943.1  5 9437.0  6 -3779.4 7     2012WA38                 
+117SN cQ $Note: Current evaluation has used the following Q record              
+117SN  Q -1755     9 6943.2  5 9440    4 -3778.0 19    2009AUZZ                 
+117SN c  Theory references: 1970Ot03, 1970Pe24, 1971Dr03, 1971Le03, 1972Ku25,   
+117SNac  1973Do08, 1974Be34, 1974Be56, 1974De10, 1974So04, 1974Va04, 1975Ra15,  
+117SNac  1976Ca16, 1976Da05, 1978Sm01, 1978Vo16, 1979Ta27, 1984Do03, 1985Ha17,  
+117SNac  1985Vd01, 1985Sa24, 1988He13, 1989He02, 1989Ba77                       
+117SN cG E$From weighted average of all available data                          
+117SN cG RI$Photon branching ratios from each level                             
+117SN cL E(A)$Proposed IAS                                                      
+117SN cL E$From adopted E|g (when possible) using least-squares fit             
+117SN CL BAND(X)$11/2- BAND                                                     
+117SN  XA117IN B- DECAY (43.2 M)                                                
+117SN  XB117IN B- DECAY (116.2 M)                                               
+117SN  XC117SN IT DECAY                                                         
+117SN  XD117SB EC DECAY                                                         
+117SN  XE114CD(A,NG)                                                            
+117SN  XF116CD(A,3NG)                                                           
+117SN  XG116SN(N,G) E=RESONANCE                                                 
+117SN  XH116SN(D,P)                                                             
+117SN  XI116SN(D,PG)                                                            
+117SN  XJ116SN(A,3HE)                                                           
+117SN  XK117SN(G,G')                                                            
+117SN  XL117SN(G,XN)                                                            
+117SN  XM117SN(E,E'P)                                                           
+117SN  XN117SN(P,P') E=18 MEV                                                   
+117SN  XO117SN(P,P'G)                                                           
+117SN  XP117SN(D,D')                                                            
+117SN  XQ117SN(A,A')                                                            
+117SN  XRCOULOMB EXCITATION                                                     
+117SN  XS118SN(P,D)                                                             
+117SN  XT118SN(D,T)                                                             
+117SN  XU118SN(3HE,A)                                                           
+117SN  XV119SN(P,T)                                                             
+117SN  XW116SN(N,G) E=RES: PRIMARY G'S                                          
+117SN PN                                                                     6  
+117SN  L 0.0         1/2+              STABLE                                   
+117SNX L XREF=ABCDEFGHIJKMNPQRSTUVW$MOMM1=-1.00104 7 (2001StZZ)                 
+117SN cL MOMM1$NMR                                                              
+117SN cL J$NMR (1976Fu06), L(n)=0                                               
+117SN  L 158.562   123/2+              0.279 NS  9                              
+117SNX L XREF=ABCDEFGHIJKNRSTUVW$MOMM1=+0.66 5 (2001StZZ)                       
+117SN cL T$from 1972Jo13. Other: 0.31 ns {i3} (1963Sc12)                        
+117SN cL MOMM1$integral perturbed angular correlations.                         
+117SN cL J$L(d,p)=2, 158|g is M1+E2                                             
+117SN  G 158.562   12100       M1+E2     0.0133  8     0.1558                   
+117SNS G KC=0.1347 19$LC=0.01702 24$MC=0.00334 5$NC=0.000628 9$OC=5.45E-5 8$    
+117SNS G NC+=0.000682 10                                                        
+117SNB G BE2W=0.091 12$BM1W=0.0171 6                                            
+117SN cG MR$from B(E2) and T{-1/2}. |d=+0.11 {i3} from |g|g(|q) in {+117}In     
+117SNacG decay not used.                                                        
+117SN  L 314.58    4 11/2-             14.00 D   5                           M  
+117SNX L XREF=ACEFGHIJNSTUV$FLAG=X$%IT=100$MOME2=-0.42 5 (2005St24) $MOMM1=-1.39
+117SN cL MOMM1,MOME2$LASER induced resonance fluorescence from an atomic beam   
+117SNacL (1986An24)                                                             
+117SN cL T$From 2002Un02. Others: 13.98 d {I7} (2003Po21), 13.60 d {I4}         
+117SNacL (1977Ka16), 14.0 d {i5} (1951Co34), 14.0 d {i3} (1950Mi52)             
+117SN cL J$L(d,p)=5 156|g to 3/2+ is M4                                         
+117SN  G 156.02    3 100       M4                      46.9                     
+117SNS G KC=31.1 5$LC=12.55 18$MC=2.74 4$NC=0.500 7$OC=0.0258 4$NC+=0.525 8     
+117SNB G BM4W=5.1 3                                                             
+117SN cG CC$|a(exp) from {+117}Sn it decay. Theoretical values were reduced by  
+117SNacG 3% to be consistent with |a(exp).                                      
+117SN  G 314.3     3 0.020   5 [E5]                    1.75                     
+117SNS G KC=0.956 14$LC=0.633 10$MC=0.1357 21$NC=0.0239 4$OC=0.001031 16$       
+117SNS G NC+=0.0249 4                                                           
+117SNB G BE5W=0.045 12                                                          
+117SN  L 360       10                                                           
+117SNX L XREF=N                                                                 
+117SN  L 678.5                                                                  
+117SNX L XREF=W                                                                 
+117SN  L 711.54    107/2+              980 PS    30                             
+117SNX L XREF=ADEFGHIJNSTUV                                                     
+117SN cL T$from 1987Fu07. Other: 1.0 ns {i1} (1970Ba62) {+117}In |b{+-}         
+117SNacL decay                                                                  
+117SN cL J$L(d,p)=4, 553|g not M3                                               
+117SN  G 396.6     4 0.174   8 M2                      0.0521                   
+117SNS G KC=0.0445 7$LC=0.00611 9$MC=0.001210 18$NC=0.000227 4$OC=1.94E-5 3$    
+117SNS G NC+=0.000247 4                                                         
+117SNB G BM2W=0.233 13                                                          
+117SN cG RI$I|g from 1987Fu07                                                   
+117SN  G 553.00    10100       (E2)                    0.005578                 
+117SNS G KC=0.00478 7$LC=0.000635 9$MC=0.0001248 18$NC=2.32E-5 4$OC=1.86E-6 3$  
+117SNS G NC+=2.51E-5 4                                                          
+117SNB G BE2W=0.326 10                                                          
+117SN  L 1004.53   143/2+              1.32 PS   6                              
+117SNX L XREF=BDEGIN(*)RVW                                                      
+117SN cL T$from B(E2)=0.073 {i3} and branching. Other: 1.1 ps {i3} from         
+117SNacL DSA                                                                    
+117SN cL J$|g(|q) in Coulomb excitation                                         
+117SN  G 846.0     3 20.2    4 M1+E2     +0.13   2     0.002284                 
+117SNS G KC=0.00198 3$LC=0.000238 4$MC=4.64E-5 7$NC=8.75E-6 13$OC=7.71E-7 11$   
+117SNS G NC+=9.52E-6 14                                                         
+117SNB G BE2W=0.081 25$BM1W=0.00455 23                                          
+117SN  G 1004.51   15100.0   4 E2+M1     -24     +6-10                          
+117SNS G CC=0.001274 18$KC=0.001106 16$LC=0.0001359 19$MC=2.65E-5 4$            
+117SNS G NC=4.98E-6 7$OC=4.25E-7 6$NC+=5.41E-6                                  
+117SNB G BE2W=10.2 5$BM1W=2.4E-5 12                                             
+117SN  L 1019.92   6 5/2+              0.46 PS   4                              
+117SNX L XREF=BEGHIJ(1030)N(*)RS(1040)TU                                        
+117SN cL T$from B(E2)=0.062 {i3} and branching. Other: 0.49 ps {i10}            
+117SNacL from DSA                                                               
+117SN cL J$L=2 in (|a,{+3}He), |g(|q) in Coulomb excitation                     
+117SN  G 861.35    5 100     2 M1+E2     -0.154  12    0.002183                 
+117SNS G KC=0.00190 3$LC=0.000228 4$MC=4.45E-5 7$NC=8.38E-6 12$OC=7.39E-7 11$   
+117SNS G NC+=9.12E-6 13                                                         
+117SNB G BE2W=1.4 3$BM1W=0.059 6                                                
+117SN  G 1020.6    5 24.6    12[E2]                                             
+117SNS G CC=0.001230 18$KC=0.001068 15$LC=0.0001310 19$MC=2.56E-5 4$            
+117SNS G NC=4.80E-6 7$OC=4.10E-7 6$NC+=5.21E-6                                  
+117SNB G BE2W=6.5 7                                                             
+117SN  L 1179.7    5 5/2+              0.4 PS    LT                             
+117SNX L XREF=DEGHINRTUVW                                                       
+117SN cL J$L(d,p)=2, vector analyzing power in {+118}Sn(d,t)                    
+117SN cL T$from B(E2)=0.0068 {i6} and branching.                                
+117SN  G 1021.0    5 100       M1+E2     +0.58   14    0.001423                 
+117SNS G KC=0.00124 3$LC=0.000149 3$MC=2.90E-5 6$NC=5.47E-6 12$OC=4.80E-7 11$   
+117SNS G NC+=5.95E-6 13                                                         
+117SNB G BE2W GT 5.9$BM1W GT 0.033                                              
+117SN  G 1180        2       2                                                  
+117SN  L 1304.3    5 (7/2-)                                                     
+117SNX L XREF=EGHIN                                                             
+117SN cL J$L(d,p)=(3), 989|g to 11/2- is (E2)                                   
+117SN  G 989.7     5 100       (E2)                                             
+117SNS G CC=0.001317 19$KC=0.001143 16$LC=0.0001405 20$MC=2.75E-5 4$            
+117SNS G NC=5.15E-6 8$OC=4.39E-7 7$NC+=5.59E-6                                  
+117SN  L 1340         +                                                         
+117SNX L XREF=P                                                                 
+117SN  L 1446.2    3 5/2+              0.42 PS   3                              
+117SNX L XREF=DEGIKNRVW                                                         
+117SN cL T$0.35 ps {i10} from DSA, 0.43 ps {i3} from B(E2)=0.0360 {i20} and     
+117SNacL branching                                                              
+117SN cL J$|g|g(|q) in Coulomb excitation                                       
+117SN  G 1287.6    3 72      3 M1+E2     -0.19   3                              
+117SNS G CC=0.000907 13$KC=0.000775 11$LC=9.19E-5 13$MC=1.79E-5 3$NC=3.38E-6 5$ 
+117SNS G OC=2.99E-7 5$NC+=2.22E-5 4                                             
+117SNB G BE2W=0.16 6$BM1W=0.0099 9                                              
+117SN  G 1446.4    5 100     3                                                  
+117SNB G BE2W=3.53 20                                                           
+117SN  L 1468.6    3 3/2+,5/2+                                                  
+117SNX L XREF=EIS                                                               
+117SN cL J$L(d,p)=2                                                             
+117SN  G 1309.8    6 100     20(M1)                                             
+117SNS G CC=0.000883 13$KC=0.000751 11$LC=8.90E-5 13$MC=1.735E-5 25$            
+117SNS G NC=3.27E-6 5$OC=2.89E-7 4$NC+=2.60E-5                                  
+117SN  G 1468.6    3 70      18                                                 
+117SN  L 1496.8    10(5/2+,3/2+)                                                
+117SNX L XREF=DEGHINRT$BE2 LT 0.0004                                            
+117SN cL J$L(d,p)=(2) in {+116}Sn(d,p)                                          
+117SN  G 1338.6    10100                                                        
+117SN  L 1510.1    3                   0.0025 EV 3                              
+117SNX L XREF=K                                                                 
+117SN  G 1510.1    3                                                            
+117SN  L 1530        3/2+,5/2+                                                  
+117SNX L XREF=S                                                                 
+117SN cL J$L(p,d)=2                                                             
+117SN  L 1578.25   24(3/2+)                                                     
+117SNX L XREF=DEGIRW$BE2 LT 0.0010                                              
+117SN cL J$L(d,p)=(2), primary feeding in {+116}Sn(n,|g)                        
+117SN  G 1420.1    4 59      14                                                 
+117SN  G 1578.0    3 100                                                        
+117SN  L 1588      AP(11/2-)                                                    
+117SNX L XREF=JSTU                                                              
+117SN cL J$L=(5) in (|a,{+3}He), 11/2- selected from syst.                      
+117SN  L 1589      10(3/2+,5/2+)                                                
+117SNX L XREF=HN                                                                
+117SN cL J$L=(2) in (d,p)                                                       
+117SN  L 1593.1    3 (15/2-)                                                    
+117SNX L XREF=FHSTU$FLAG=X                                                      
+117SN cL J$stretched E2 to 11/2-                                                
+117SN  G 1279.0    5 100       E2                                               
+117SNS G CC=0.000780 11$KC=0.000663 10$LC=7.98E-5 12$MC=1.557E-5 22$            
+117SNS G NC=2.93E-6 5$OC=2.53E-7 4$NC+=2.23E-5                                  
+117SN  L 1625.4    3 (13/2-)                                                    
+117SNX L XREF=F                                                                 
+117SN cL J$M1,E2 |g to 11/2-, E2 |g from 17/2-                                  
+117SN  G 1310.6    3 100       M1,E2                   0.000827                 
+117SNS G KC=0.00069 6$LC=8.2E-5 7$MC=1.61E-5 13$NC=3.02E-6 25$OC=2.65E-7 25$    
+117SNS G NC+=2.72E-5 12                                                         
+117SN  L 1628      5 (7/2+,9/2+)                                                
+117SNX L XREF=ST                                                                
+117SN cL J$L(d,p)=(4) reported in {+118}Sn(p,d)                                 
+117SN  L 1668.2    15(5/2+,3/2+)                                                
+117SNX L XREF=GHSTW                                                             
+117SN cL J$L=(2) in {+116}Sn(d,p).                                              
+117SN  G 1509.6    15100                                                        
+117SN  L 1710        3/2+,5/2+                                                  
+117SNX L XREF=S                                                                 
+117SN cL J$L(p,d)=2                                                             
+117SN  L 1770        3/2+,5/2+                                                  
+117SNX L XREF=S                                                                 
+117SN cL J$L(p,d)=2                                                             
+117SN  L 1810      10                                                           
+117SNX L XREF=N                                                                 
+117SN  L 1874.5    4 (11/2+)                                                    
+117SNX L XREF=F                                                                 
+117SN cL J$E2 |g to 7/2+                                                        
+117SN  G 1163.0    3 100       E2                                               
+117SNS G CC=0.000931 13$KC=0.000807 12$LC=9.79E-5 14$MC=1.91E-5 3$NC=3.59E-6 5$ 
+117SNS G OC=3.09E-7 5$NC+=7.09E-6 11                                            
+117SN  L 1910      10                                                           
+117SNX L XREF=N                                                                 
+117SN  L 1948      10                                                           
+117SNX L XREF=H                                                                 
+117SN cL J$L=(1+3) in {+116}Sn(d,p)                                             
+117SN  L 2007      10(1/2-,3/2-)                                                
+117SNX L XREF=HN(*2030)PSU                                                      
+117SN cL J$L=1 in (d,p)                                                         
+117SN  L 2046      10(5/2-,7/2-)                                                
+117SNX L XREF=HN(*2060)                                                         
+117SN cL J$L=(3) in {+116}Sn(d,p)                                               
+117SN  L 2048.2    3 1/2,(3/2)         0.0068 EV 5                              
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 2048.2    3                                                            
+117SN  L 2050      107/2+,9/2+                                                  
+117SNX L XREF=PS                                                                
+117SN cL J$L=4 in {+118}Sn(p,d)                                                 
+117SN  L 2076      10(1/2-,3/2-)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L=(1) in {+116}Sn(d,p)                                               
+117SN  L 2079      101/2+                                                       
+117SNX L XREF=S                                                                 
+117SN cL J$L=0 in {+118}Sn(p,d)                                                 
+117SN  L 2128.6    4                   0.00124 EV25                             
+117SNX L XREF=K                                                                 
+117SN  G 2128.6    4                                                            
+117SN  L 2146      103/2+,5/2+                                                  
+117SNX L XREF=HS                                                                
+117SN cL J$L(d,p)=2                                                             
+117SN  L 2160      205/2-,7/2-                                                  
+117SNX L XREF=N                                                                 
+117SN cL J$L=3 in {+117}Sn(p,p')                                                
+117SN  L 2203      10                                                           
+117SNX L XREF=H                                                                 
+117SN  L 2220         +                                                         
+117SNX L XREF=P                                                                 
+117SN  L 2256      10                                                           
+117SNX L XREF=H                                                                 
+117SN  L 2280      205/2-,7/2-                                                  
+117SNX L XREF=N(2270)P                                                          
+117SN cL J$L=3 in {+117}Sn(p,p')                                                
+117SN  L 2280.4    6                   0.00061 EV22                             
+117SNX L XREF=K                                                                 
+117SN  G 2280.4    6                                                            
+117SN  L 2300      153/2+,5/2+                                                  
+117SNX L XREF=HPQS(2290)U                                                       
+117SN cL J$L(d,p)=2; may be same as 2331.2 level from {+116}Sn(n,|g)            
+117SN  L 2304.6    5                   0.00101 EV25                             
+117SNX L XREF=K                                                                 
+117SN  G 2304.6    5                                                            
+117SN  L 2331.2    15                                                           
+117SNX L XREF=GN(2320)W                                                         
+117SN  G 2172.6    15100                                                        
+117SN  L 2350      109/2-,11/2-                                                 
+117SNX L XREF=HS                                                                
+117SN cL J$L(d,p)=5                                                             
+117SN  L 2367.3    2 3/2               0.0115 EV 8                              
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 2367.3    2                                                            
+117SN  L 2381.0    4 (17/2-)                                                    
+117SNX L XREF=F                                                                 
+117SN cL J$(E2) |g to (13/2-), |g to (15/2-)                                    
+117SN  G 755.6     3 100     20(E2)                    0.002474                 
+117SNS G KC=0.00214 3$LC=0.000271 4$MC=5.31E-5 8$NC=9.93E-6 14$OC=8.26E-7 12$   
+117SNS G NC+=1.075E-5 15                                                        
+117SN  G 788.0     3 50      20                                                 
+117SN  L 2390      15(1/2-,3/2-)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L(d,p)=(1)                                                           
+117SN  L 2400      101/2+                                                       
+117SNX L XREF=NS                                                                
+117SN cL J$L(p,d)=0                                                             
+117SN  L 2400.7    4 (17/2-)                                                    
+117SNX L XREF=F                                                                 
+117SN cL J$(E2) |g to (13/2-), M1 |g to (15/2-)                                 
+117SN  G 775.3     3 100     13(E2)                    0.002324                 
+117SNS G KC=0.00201 3$LC=0.000254 4$MC=4.97E-5 7$NC=9.30E-6 13$OC=7.76E-7 11$   
+117SNS G NC+=1.007E-5 15                                                        
+117SN  G 807.7     3 49      8 (M1)                    0.002544                 
+117SNX G EKC=2.8E-3 8                                                           
+117SNS G KC=0.00221 4$LC=0.000265 4$MC=5.18E-5 8$NC=9.77E-6 14$OC=8.61E-7 12$   
+117SNS G NC+=1.063E-5 15                                                        
+117SN  L 2406.4    4 (19/2+)           1.75 US   7                              
+117SNX L XREF=F                                                                 
+117SN cL J$(E3) |g to (13/2-), M2 |g to (15/2-)                                 
+117SN cL T$from 1979Ha12                                                        
+117SN  G 781.0     3 11      6 (E3)                    0.005258                 
+117SNS G KC=0.00446 7$LC=0.000636 9$MC=0.0001259 18$NC=2.34E-5 4$OC=1.86E-6 3$  
+117SNS G NC+=2.52E-5 4                                                          
+117SNB G BE3W=0.5 3                                                             
+117SN  G 813.4     3 100     17(M2)                    0.0065810                
+117SNX G EKC=4.3E-3 12                                                          
+117SNS G KC=0.00569 8$LC=0.000719 10$MC=0.0001413 20$NC=2.66E-5 4$OC=2.32E-6 4$ 
+117SNS G NC+=2.89E-5 4                                                          
+117SNB G BM2W=0.0019 5                                                          
+117SN  L 2415.9    3                   0.0028 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 2415.9    3                                                            
+117SN  L 2461      10(5/2-,7/2-)                                                
+117SNX L XREF=HN                                                                
+117SN cL J$L=(3) in {+116}Sn(d,p), L=3 in {+117}Sn(p,p')                        
+117SN  L 2500      AP7/2+,9/2+                                                  
+117SNX L XREF=S                                                                 
+117SN cL J$L=4 reported in {+118}Sn(p,d)                                        
+117SN  L 2515.8    5                   0.0012 EV 3                              
+117SNX L XREF=K                                                                 
+117SN  G 2356.7    8 128     44                                                 
+117SN  G 2515.8    5 100.0                                                      
+117SN  L 2545      10(5/2-,7/2-)                                                
+117SNX L XREF=HN(2530)                                                          
+117SN cL J$L=(3) reported in {+116}Sn(d,p)                                      
+117SN  L 2590.2    5                   0.0018 EV 4                              
+117SNX L XREF=KN                                                                
+117SN  G 2590.2    5                                                            
+117SN  L 2655.5    11(1/2,3/2)                                                  
+117SNX L XREF=GW                                                                
+117SN cL J$primary feeding in {+116}Sn(n,|g)                                    
+117SN  G 1160.1    2031                                                         
+117SN  G 1650.2    1541                                                         
+117SN  G 2497      2 100                                                        
+117SN  L 2656      10(5/2-,7/2-)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L=(3) in (d,p)                                                       
+117SN  L 2660      103/2+,5/2+                                                  
+117SNX L XREF=S                                                                 
+117SN cL J$L=2 in {+118}Sn(p,d)                                                 
+117SN  L 2690      101/2-,3/2-                                                  
+117SNX L XREF=H(2707)N(2680)P(2670)S                                            
+117SN cL J$L=1 in {+118}Sn(p,d)                                                 
+117SN  L 2709.1    5                   0.0028 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 2709.1    5                                                            
+117SN  L 2718.2    4                   0.0033 EV 8                              
+117SNX L XREF=K                                                                 
+117SN  G 2718.2    4                                                            
+117SN  L 2750      15                                                           
+117SNX L XREF=NO                                                                
+117SN cL E$L=4 reported in {+117}Sn(|a,|a')                                     
+117SN  L 2770      10(3/2+,5/2+)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L=(2) in {+116}Sn(d,p); L=2 in {+118}Sn(p,d).                        
+117SN  L 2775.2    4                   0.0020 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 2775.2    4                                                            
+117SN  L 2807.6    5 (19/2-)                                                    
+117SNX L XREF=F$FLAG=X                                                          
+117SN cL J$stretched E2 to (15/2-)                                              
+117SN  G 1214.5    3 100       E2                                               
+117SNS G CC=0.000856 12$KC=0.000737 11$LC=8.91E-5 13$MC=1.739E-5 25$            
+117SNS G NC=3.27E-6 5$OC=2.82E-7 4$NC+=1.235E-5                                 
+117SN  L 2827      103/2+,5/2+                                                  
+117SNX L XREF=HN(2810)S(2830)                                                   
+117SN cL J$L=2 in {+118}Sn(p,d)                                                 
+117SN  L 2864.1    11                  0.0012 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 2864.1    11                                                           
+117SN  L 2879.8    9                   0.0013 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 2879.8    9                                                            
+117SN  L 2908.5    4 (1/2-,3/2-)       0.0047 EV 6                              
+117SNX L XREF=HK                                                                
+117SN cL J$L=(1) reported in {+116}Sn(d,p)                                      
+117SN  G 2908.5    4                                                            
+117SN  L 2940      10                                                           
+117SNX L XREF=S                                                                 
+117SN  L 2961.9    4                   0.0061 EV 6                              
+117SNX L XREF=K                                                                 
+117SN  G 2803.4    5 51      8                                                  
+117SN  G 2961.9    4 100                                                        
+117SN  L 2976.1    5                                                            
+117SNX L XREF=FN                                                                
+117SN  G 1383.0    3 100                                                        
+117SN  L 2986.7    3 1/2,(3/2)         0.0169 EV 20                             
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 2986.7    3                                                            
+117SN  L 2990.6    5                                                            
+117SNX L XREF=F                                                                 
+117SN  G 584.2     3 100                                                        
+117SN  L 2995.7    3 3/2               0.0128 EV 10                             
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 2995.7    3                                                            
+117SN  L 2998.1    5                                                            
+117SNX L XREF=F                                                                 
+117SN  G 591.7     3 100                                                        
+117SN  L 3024      10                                                           
+117SNX L XREF=H                                                                 
+117SN  L 3040      10                                                           
+117SNX L XREF=S                                                                 
+117SN  L 3100.8    7                   0.0019 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 3100.8    7                                                            
+117SN  L 3108.2    7                   0.0021 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 3108.2    7                                                            
+117SN  L 3113      10(3/2+,5/2+)                                                
+117SNX L XREF=HN(3090)S                                                         
+117SN cL J$L(d,p)=(2)                                                           
+117SN  L 3134.3    6                   0.0025 EV 4                              
+117SNX L XREF=K                                                                 
+117SN  G 3134.3    6                                                            
+117SN  L 3140      15                                                           
+117SNX L XREF=HN                                                                
+117SN  L 3144.9    5                   0.0029 EV 5                              
+117SNX L XREF=K                                                                 
+117SN  G 3144.9    5                                                            
+117SN  L 3152.8    5                                                            
+117SNX L XREF=F                                                                 
+117SN  G 746.3     3 100                                                        
+117SN  L 3169.1    4 3/2               0.0088 EV 8                              
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 3169.1    4                                                            
+117SN  L 3172      10                                                           
+117SNX L XREF=H                                                                 
+117SN  L 3224.6    111/2,(3/2)         0.0155 EV 15                             
+117SNX L XREF=GKW                                                               
+117SN cL J$from |g(|q)                                                          
+117SN  G 2046.4    20100                                                        
+117SN  G 3065.7    5 31      4                                                  
+117SN  G 3224.6    11100                                                        
+117SN  L 3228.2    7 3/2               0.0347 EV 25                             
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 3228.2    7                                                            
+117SN  L 3235      10(5/2-,7/2-)                                                
+117SNX L XREF=HJ(3200)NP                                                        
+117SN cL J$L=(3) in {+116}Sn(d,p), L=3 in {+116}Sn(|a,{+3}He)                   
+117SN  L 3286.0    4 1/2,(3/2)         0.0101 EV 10                             
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 3127.8    4 55      5                                                  
+117SN  G 3286.0    4 100                                                        
+117SN  L 3325      10(1/2-,3/2-)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L(n)=(1) reported in {+116}Sn(d,p)                                   
+117SN  L 3349.9    3 1/2,(3/2)         0.0095 EV 9                              
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 3349.9    3                                                            
+117SN  L 3360.1    8                   0.0016 EV 6                              
+117SNX L XREF=FK                                                                
+117SN  G 3360.1    8                                                            
+117SN  L 3385.4    4                   0.0042 EV 6                              
+117SNX L XREF=K                                                                 
+117SN  G 3385.4    4                                                            
+117SN  L 3408.5    9                   0.0016 EV 6                              
+117SNX L XREF=K                                                                 
+117SN  G 3408.5    9                                                            
+117SN  L 3414      10                                                           
+117SNX L XREF=H                                                                 
+117SN  L 3425.8    9                   0.0018 EV 8                              
+117SNX L XREF=K                                                                 
+117SN  G 3425.8    9                                                            
+117SN  L 3468.8    6 (1/2-,3/2-)       0.0015 EV 5                              
+117SNX L XREF=HK                                                                
+117SN cL J$L=(1) reported in {+116}Sn(d,p)                                      
+117SN  G 3468.8    6                                                            
+117SN  L 3489.6    3 3/2               0.0173 EV 15                             
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 3489.6    3                                                            
+117SN  L 3506.0    5                                                            
+117SNX L XREF=F                                                                 
+117SN  G 353.1     3                                                            
+117SN  L 3520.4    7                   0.0017 EV 6                              
+117SNX L XREF=K                                                                 
+117SN  G 3520.4    7                                                            
+117SN  L 3560.5    6                   0.0018 EV 5                              
+117SNX L XREF=K                                                                 
+117SN  G 3560.5    6                                                            
+117SN  L 3580      10                                                           
+117SNX L XREF=H                                                                 
+117SN  L 3602.4    6 (23/2-)                                                    
+117SNX L XREF=F$FLAG=X                                                          
+117SN cL J$stretched E2 to (19/2-)                                              
+117SN  G 794.8     3 100       (E2)                    0.002193                 
+117SNS G KC=0.00189 3$LC=0.000238 4$MC=4.66E-5 7$NC=8.73E-6 13$OC=7.31E-7 11$   
+117SNS G NC+=9.46E-6 14                                                         
+117SN  L 3637      10(1/2-,3/2-)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L=(1) reported in {+116}Sn(d,p)                                      
+117SN  L 3716      107/2+,9/2+                                                  
+117SNX L XREF=HU(3700)                                                          
+117SN cL J$L=4 in ({+3}He,|a)                                                   
+117SN  L 3719.8    7                   0.0114 EV 16                             
+117SNX L XREF=K                                                                 
+117SN  G 3719.8    7                                                            
+117SN  L 3749.4    4                   0.0076 EV 12                             
+117SNX L XREF=K                                                                 
+117SN  G 3749.4    4                                                            
+117SN  L 3773.3    13                  0.0034 EV 14                             
+117SNX L XREF=K                                                                 
+117SN  G 3773.3    13                                                           
+117SN  L 3785      10(5/2-,7/2-)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L=(3) reported in {+116}Sn(d,p)                                      
+117SN  L 3788.3    7                   0.0059 EV 13                             
+117SNX L XREF=K                                                                 
+117SN  G 3788.3    7                                                            
+117SN  L 3824.0    6 (27/2-)                                                    
+117SNX L XREF=F$FLAG=X                                                          
+117SN cL J$stretched E2 to (23/2-)                                              
+117SN  G 221.6     3 100       (E2)                    0.0978                   
+117SNS G KC=0.0806 12$LC=0.01390 21$MC=0.00277 5$NC=0.000505 8$OC=3.24E-5 5$    
+117SNS G NC+=0.000537 8                                                         
+117SN  L 3871.3    4 1/2,(3/2)         0.0197 EV 26                             
+117SNX L XREF=K                                                                 
+117SN cL J$from |g(|q)                                                          
+117SN  G 3871.3    4                                                            
+117SN  L 3883.2    4                   0.0141 EV 21                             
+117SNX L XREF=HK                                                                
+117SN  G 3883.2    4                                                            
+117SN  L 3893.0    6                                                            
+117SNX L XREF=F                                                                 
+117SN  G 387.0     3 100                                                        
+117SN  L 3900.2    6                   0.0043 EV 12                             
+117SNX L XREF=K                                                                 
+117SN  G 3900.2    6                                                            
+117SN  L 3920.1    7                   0.0058 EV 16                             
+117SNX L XREF=K                                                                 
+117SN  G 3761.4    8 96      38                                                 
+117SN  G 3920.1    7 100                                                        
+117SN  L 3930.4    5                   0.0045 EV 12                             
+117SNX L XREF=K                                                                 
+117SN  G 3930.4    5                                                            
+117SN  L 3949.8    16                  0.013 EV  6                              
+117SNX L XREF=HK                                                                
+117SN  G 3949.8    16                                                           
+117SN  L 3980.9    5                   0.014 EV  3                              
+117SNX L XREF=HK                                                                
+117SN  G 3980.9    5                                                            
+117SN  L 3994.0    6                   0.0072 EV 19                             
+117SNX L XREF=K                                                                 
+117SN  G 3994.0    6                                                            
+117SN  L 4013.6    6                   0.011 EV  3                              
+117SNX L XREF=HK                                                                
+117SN  G 4013.6    6                                                            
+117SN  L 4027.8    4                   0.028 EV  5                              
+117SNX L XREF=K                                                                 
+117SN  G 4027.8    4                                                            
+117SN  L 4043.6    7                   0.017 EV  5                              
+117SNX L XREF=K                                                                 
+117SN  G 4043.6    7                                                            
+117SN  L 4110      15                                                           
+117SNX L XREF=H                                                                 
+117SN  L 4160      15                                                           
+117SNX L XREF=H                                                                 
+117SN  L 4210      15                                                           
+117SNX L XREF=H                                                                 
+117SN  L 4290      15                                                           
+117SNX L XREF=H                                                                 
+117SN  L 4360      15                                                           
+117SNX L XREF=H                                                                 
+117SN  L 4970      AP(1/2-,3/2-)                                                
+117SNX L XREF=H                                                                 
+117SN cL J$L=(1) reported in {+116}Sn(d,p)                                      
+117SN  L 5050      AP                                                           
+117SNX L XREF=H                                                                 
+117SN  L 5300      607/2+,9/2+                                                  
+117SNX L XREF=STU                                                               
+117SN cL J$L(n)=4                                                               
+117SN  L 6400      607/2+,9/2+                                                  
+117SNX L XREF=U                                                                 
+117SN cL J$L(n)=4                                                               
+117SN  L 6942.9      1/2+                                                      S
+117SNX L XREF=W                                                                 
+117SN  L 7010                                                                   
+117SNX L XREF=K$WIDTHG=0.7 KEV 4                                                
+117SN  L 14.18E3     (9/2+)                                                     
+117SNX L XREF=S$FLAG=A                                                          
+117SN cL J$L(n)=4, probable IAS corresponding to {+117}In g.s.                  
+117SN  L 14.55E3     (1/2-)                                                     
+117SNX L XREF=S$FLAG=A                                                          
+117SN cL J$L(n)=1, probable IAS corresponding to {+117}In 315 level             
+117SN  L 14.81E3     (3/2-)                                                     
+117SNX L XREF=S$FLAG=A                                                          
+117SN cL J$L(n)=1, probable IAS corresponding to {+117}In 589 level             
+117SN  L 15.66E3   4                                                            
+117SNX L XREF=L$WIDTH=5.3 KEV 1                                                 
+117SN  L 18.0E3                                                                 
+117SNX L XREF=M                                                                 
+117SN  L 19.0E3                                                                 
+117SNX L XREF=M                                                                 
+

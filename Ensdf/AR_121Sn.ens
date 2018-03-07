@@ -1,0 +1,530 @@
+121SN    ADOPTED LEVELS, GAMMAS                                  10NDS    201006
+121SN  H TYP=FUL$AUT=S. OHYA$CIT=NDS 111, 1619 (2010)$CUT=20-Jan-2009$          
+121SN  Q 401       3 6170.2  4 1.076E4 4 -5203.9 14    2012WA38                 
+121SN cQ $Note: Current evaluation has used the following Q record              
+121SN  Q 390.6     216170.3  3 10758   40-5205   3     2009AuZZ                 
+121SN  XK121IN B- DECAY (23.1 S)                                                
+121SN  XL121IN B- DECAY (3.88 M)                                                
+121SN  XM121SN IT DECAY                                                         
+121SN  XN119SN(T,P)                                                             
+121SN  XO120SN(N,G)                                                             
+121SN  XP120SN(D,P)                                                             
+121SN  XQ120SN(D,PG)                                                            
+121SN  XR120SN(T,D)                                                             
+121SN  XS122SN(P,D) IAS                                                         
+121SN  XT122SN(P,D)                                                             
+121SN  XU124SN(80SE,80SE3NG)                                                    
+121SN cL E$E(levels)( |DE|<1.0 keV) with |g decay are from least-squares fit to 
+121SN2cL E|g's; Other E(levels) with |DE|<1.0 keV are from (n,|g); E(levels)    
+121SN3cL with |DE=3-11 keV are from (d,p). A comparison of the energies with    
+121SN4cL adopted values indicates that the (d,p) values are about 9 keV low.    
+121SN5cL When the (d,p) energies are used in adopted levels, evaluators increase
+121SN6cL by 9 keV; other E(levels) are either noted or clearly indicated in     
+121SN7cL cross reference; For level above about 3000 keV, it is difficult to    
+121SN8cL make a unique one-to-one correspondence among the levels reported in   
+121SN9cL different reactions                                                    
+121SN cL J(A)      Possible (|n h11/2){+n} seniority 3 scheme was predicted     
+121SN2cL from fractional parentage calculation (1995Da26)                       
+121SN cG E,RI      From {+121}In |b{+-} decay (23.1 s, 3.88 min);               
+121SN2cG others from {+120}Sn(n,|g)                                             
+121SN cG M         From conversion electron data in {+121}In |b{+-} decay       
+121SN2cG (23.1 s, 8.3 s), unless noted otherwise                                
+121SN PN                                                                     6  
+121SN  L 0.0         3/2+              27.03 H   4                              
+121SN2 L MOMM1=+0.6978 10 $ MOME2=-0.02 2 $ XREF=KLMNOPQRTU                     
+121SN3 L %B-=100                                                                
+121SN cL MOMM1$ABLFS (2005St24); value relative to |m for {+115}Sn,             
+121SN2cL {+117}Sn, {+119}Sn                                                     
+121SN cL MOME2$ABLFS (2005St24)                                                 
+121SN cL J         atomic beam J=3/2 (1978LeZA). L=2 in (t,p), (t,d), (p,d).    
+121SN cL T         from weighted average of 27.06 h {I4} (1968Er03),            
+121SN2cL 27.5 h {I5} (1950Ne52), 27.0 h {I6} (1963Ma20), 26.85 h {I20}          
+121SN3cL (1966La13); others: 28 h (1948Li02), 25.5 h {I1} (1968Sn01)            
+121SN  L 6.31       611/2-             43.9 Y    5                           M1 
+121SN2 L %B-=22.4 20 $ %IT=77.6 20 $ MOMM1=-1.3877 9 $ MOME2=-0.14 3 $          
+121SN3 L CONF=(N,1H11/2) $ XREF=KMOPQTU                                         
+121SN cL MOMM1$ABLFS (2005St24); value relative to |m=-1.04728 {I7} for         
+121SN2cL {+119}Sn                                                               
+121SN cL MOME2$ABLFS (2005St24)                                                 
+121SN cL T         from 2002Re18. Others: 55 y {I5} (1971Fl03), 40 y {I10}      
+121SN2cL (1971Or01), 25 y (1962Dr01)                                            
+121SN cL J         from LASER spectroscopy (1986An24). F-K-plot                 
+121SN2cL for the |b{+-} decay to 7/2+ level has |DJ=2 yes shape (1968Sn01).     
+121SN  G 6.29      8 100       [M4]                    8.7E10 10                
+121SNS G LC=5.6E10 6$MC=2.6E10 3$NC+=4.7E9 6                                    
+121SNS G NC=4.7E9 6$OC=1.38E7 14                                                
+121SN cG E         from energy difference between 919.28|g and 925.57|g         
+121SNB G BM4W=6.02 19                                                           
+121SN cG           B(M4)(W.u.) using E|g{+9}|*' (1+|a)=1.345|*10{+18} {i20}     
+121SN  L 60.34     2 1/2+                                                       
+121SN2 L XREF=KLNOPQRT                                                          
+121SN cL J         L=0 in (d,p), (p,d), (t,d), (t,p).                           
+121SN  G 60.34     2 100       M1                      2.40                     
+121SNS G KC=2.07 3$LC=0.266 4$MC=0.0522 8$NC+=0.01064 15                        
+121SNS G NC=0.00980 14$OC=0.000844 12                                           
+121SN  L 663.63     67/2-,9/2-                                                  
+121SN2 L XREF=KO                                                                
+121SN cL J$E1 |g from 7/2+. |a(k)exp for |g to 11/2- rules out mult=M3.         
+121SN  G 657.32    7 100       M1,E2                                            
+121SNS G CC=0.0038 3$KC=0.0033 3$LC=0.000411 21$MC=8.1E-5 4$NC+=1.64E-5 10      
+121SNS G NC=1.51E-5 8$OC=1.29E-6 12                                             
+121SN  L 869.25     5 5/2+                                                      
+121SN2 L XREF=KNOQ                                                              
+121SN cL J$L=2 in (t,p), M1+E2 |g from 7/2+                                     
+121SN  G 808.9     1 20      4                                                  
+121SN  G 869.31    10100     9 (E2,M1)                                          
+121SNS G CC=0.00196 19$KC=0.00170 17$LC=0.000207 17$MC=4.1E-5 4$NC+=8.3E-6 7    
+121SNS G NC=7.6E-6 7$OC=6.6E-7 7                                                
+121SN  L 908.8      3 5/2+                                                      
+121SN2 L XREF=LNOPQRT                                                           
+121SN cL J$L=2 in (t,d), (t,p), (p,d). Fed from only one of sixteen J|p=1/2+,   
+121SN2cL 1/2-, or 3/2- (n,|g) resonances rules out J|p=3/2+                     
+121SN  G 848.2     5 67                                                         
+121SN  G 908.8     4 100                                                        
+121SN  L     925.59 57/2+              0.25 NS   6                              
+121SN2 L XREF=KOPQRT                                                            
+121SN cL J         L=4 in (t,d), (p,d). log| {Ift}=4.3 from 9/2+. |g to 3/2+    
+121SN cL T         from (|b)(925|g)(t) (1976Fo02)                               
+121SN  G 56.35     2 0.22    2 M1+E2     1.0     3     7.7    17                
+121SNS G KC=4.5 7$LC=2.5 8$MC=0.51 16$NC+=0.09 3                                
+121SNS G NC=0.09 3$OC=0.0031 7                                                  
+121SN cG M$from |a deduced intensity balance at 869 level in {+121}In |b{+-}    
+121SN2cG decay (23.1 s)                                                         
+121SNB G BM1W=0.00047 23$BE2W=1.1E+2 6                                          
+121SN  G 261.96    3 9.1     6 E1                      0.0123                   
+121SNS G KC=0.01069 15$LC=0.001301 19$MC=0.000253 4$NC+=5.12E-5 8               
+121SNS G NC=4.73E-5 7$OC=3.88E-6 6                                              
+121SNB G BE1W=4.8E-6 13                                                         
+121SN  G 919.28    7 4.8     3                                                  
+121SNB G BM2W=0.32 9                                                            
+121SN  G 925.57    7 100     7 (E2)                                             
+121SNB G BE2W=0.081 21                                                          
+121SNS G CC=0.001531 22$KC=0.001328 19$LC=0.0001644 23$MC=3.21E-5 5$NC+=6.54E-6 
+121SNS G NC=6.03E-6 9$OC=5.11E-7 8                                              
+121SN  L 949.2     5 7/2-                                                       
+121SN2 L CONF=(N,1H11/2,+3,7/2-) OR (120SN 2+)(|N 1H{-11/2})$XREF=NOPQR         
+121SN cL J$L=3 in (d,p). |g to 11/2-. For J|p=5/2-, the 943|g would be M3, and  
+121SN2cL the T{-1/2}>17 |ms from B(M3)(W.u.)<10.  But J|p contradicts L=0 in    
+121SNxcL (t,d).                                                                 
+121SN  G 942.9     5 100       (E2,M1)                                          
+121SNS G CC=0.00163 16$KC=0.00141 15$LC=0.000172 15$MC=3.3E-5 3$NC+=6.8E-6 6    
+121SNS G NC=6.3E-6 6$OC=5.5E-7 6                                                
+121SN  L 1031      3                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1067      3                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1101.52   243/2+                                                       
+121SN2 L XREF=LNOP(1098)QR                                                      
+121SN cL J$L=2 in (t,p), (t,d), fed from 1/2+ resonance in (n,|g)               
+121SN  G 1041.1    5 59                                                         
+121SN  G 1101.6    3 100       (E2,M1)                                          
+121SNS G CC=0.00115 11$KC=0.00100 10$LC=0.000120 11$MC=2.35E-5 20$NC+=5.3E-6 4  
+121SNS G NC=4.4E-6 4$OC=3.9E-7 4$IPC=4.7E-7 4                                   
+121SN  L     1121.2 55/2+                                                       
+121SN2 L XREF=LNOPQRT(1140)                                                     
+121SN cL J         L=2 in (d,p), (t,d), (t,p), (p,d);                           
+121SN2cL J=5/2 is consistent with analyzing power in (pol p,p) IAR              
+121SN  G 1060.7    1011                                                         
+121SN  G 1121.2    5 100                                                        
+121SN  L 1156      3                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1157        (15/2-)                                                    
+121SN2 L XREF=U                                                                 
+121SN cL J$from |g to 11/2- and analogy of the 19/2+ and 15/2- states in        
+121SN2cL odd-mass Sn excitation in in-beam spectroscopy                         
+121SN  G 1151                                                                   
+121SN  L     1247    (13/2-)                                                    
+121SN2 L XREF=U                                                                 
+121SN cL J$from from |g to 11/2- and analogy of the 13/2- states in odd-mass Sn 
+121SN2cL excitation in in-beam spectroscopy                                     
+121SN  G 1241                                                                   
+121SN  L 1337      4                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1350.0    38(7/2+,9/2+)                                                
+121SN2 L XREF=OP                                                                
+121SN cL J         L=(4) in (d,p)                                               
+121SN  L 1403.5    5 5/2+                                                       
+121SN2 L XREF=LNOPQ(1404.9)RT                                                   
+121SN cL J         L=2 in (pol p,p) IAR;                                        
+121SN2cL J=5/2 is consistent with analyzing power in (pol p,p) IAR              
+121SN  G 1403.5    5 100                                                        
+121SN  L 1432      8                                                            
+121SN2 L XREF=N                                                                 
+121SN  L 1450      4                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1498      4                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1537      4                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1571      4                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 1653.2     51/2+,3/2                                                   
+121SN2 L XREF=O                                                                 
+121SN cL J$|g to 5/2+. Fed by primary |g from 1/2- resonance                    
+121SN  G 553.2     1051                                                         
+121SN  G 782.9     10100                                                        
+121SN  G 1653.0    5 93                                                         
+121SN  L 1710.0    16(3/2)+                                                     
+121SN2 L XREF=OPRT                                                              
+121SN cL J         L=2 in (p,d); J=(3/2) from J-dependence of L=2 in (p,d)      
+121SN  L 1758.3     9 (+)                                                       
+121SN2 L XREF=PQ                                                                
+121SN cL J         (E2,M1) |g to 3/2+,5/2+                                      
+121SN  G 656.8     8 100       (E2,M1)                                          
+121SNS G CC=0.0038 3$KC=0.0033 3$LC=0.000412 21$MC=8.1E-5 4$NC+=1.64E-5 10      
+121SNS G NC=1.51E-5 9$OC=1.29E-6 12                                             
+121SN  L 1864      4                                                            
+121SN2 L XREF=OR                                                                
+121SN  L 1876      10   9/2-,11/2-                                              
+121SN2 L XREF=N                                                                 
+121SN cL J         L=5 in (t,p)                                                 
+121SN  L     1877.010 1/2-,3/2-                                                 
+121SN2 L XREF=OP(1866)                                                          
+121SN cL J         L=1 in (d,p)                                                 
+121SN  G 1816.6    10100                                                        
+121SN  L 1910      5  1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 1912.3     41/2+                                                       
+121SN2 L XREF=NORT                                                              
+121SN cL J         L=0 in (p,d)                                                 
+121SN  G 810.5     5 100                                                        
+121SN  G 1852.3    5 100                                                        
+121SN  L 1940.0    26(3/2)+                                                     
+121SN2 L XREF=ORT                                                               
+121SN cL J         L=2 in (p,d); J=(3/2) from J-dependence of L=2 in (p,d)      
+121SN  L 1959      5  (1/2-,3/2-)                                               
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(1) in (d,p)                                               
+121SN  L     1960.4 51/2+                                                       
+121SN2 L XREF=NORT                                                              
+121SN cL J         L=0 in (t,p)                                                 
+121SN  G 1051.4    1037                                                         
+121SN  G 1091.7    10100                                                        
+121SN  G 1899.9    5 56                                                         
+121SN  L 1974.5    10                                                           
+121SN2 L XREF=O                                                                 
+121SN  L 1986      10(1/2+)                                                     
+121SN cL J         L=(0) in (p,d)                                               
+121SN2 L XREF=NT                                                                
+121SN  L 1998        (19/2+)           5.3 US    5                              
+121SN2 L XREF=U                                                                 
+121SN cL J$from |g's to (13/2-) and (15/2-), T{-1/2}, and analogy of the 19/2+  
+121SN2cL and 15/2- states in {+117}Sn in in-beam spectroscopy                   
+121SN cL T$from |g decay in {+124}Sn({+80}Se,{+80}Se{+3}n|g)                    
+121SN  G 752                   [E3]                                             
+121SN cG           B(E3)(W.u.)=1.9|*' |g branching                              
+121SNS G CC=0.00584 9$KC=0.00496 7$LC=0.000716 10$MC=0.0001418 20$NC+=2.84E-5 4 
+121SNS G NC=2.63E-5 4$OC=2.07E-6 3                                              
+121SN  G 841                   [M2]                                             
+121SN cG           B(M2)(W.u.)=5.7|*10{+-4}|*' |g branching                     
+121SN3 G FL=1157.6                                                              
+121SNS G CC=0.00602 9$KC=0.00520 8$LC=0.000656 10$MC=0.0001288 18$NC+=2.64E-5 4 
+121SNS G NC=2.43E-5 4$OC=2.12E-6 3                                              
+121SN  L 2067.5    11 (3/2+)                                                    
+121SN2 L XREF=NO                                                                
+121SN cL J$L=(2) in (t,p), fed from 1/2+ resonance in (n,|g)                    
+121SN  G 966.0     10100                                                        
+121SN  L 2075      5  (5/2-,7/2-)                                               
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(3) in (d,p)                                               
+121SN  L 2113.6    10(3/2+,5/2+)                                                
+121SN2 L XREF=NOR                                                               
+121SN cL J         L=(2) in (t,p), (t,d)                                        
+121SN cL E         doublet in (t,p) and (t,d)                                   
+121SN  G 2113.6    10100                                                        
+121SN  L 2163.7     7(1/2,3/2)                                                  
+121SN2 L XREF=OP(*)                                                             
+121SN cL J         |g's to 1/2+, 3/2+, (5/2)+                                   
+121SN  G 1254.5    1048                                                         
+121SN  G 2103.7    10100                                                        
+121SN  G 2163.7    2030                                                         
+121SN  L 2168      2 7/2+,9/2+                                                  
+121SN2 L XREF=NOP(*)                                                            
+121SN cL J         L=4 in (t,p)                                                 
+121SN  L 2187        (19/2-)                                                A   
+121SN2 L XREF=U                                                                 
+121SN cL J         |g to (15/2-)                                                
+121SN  G 1030                                                                   
+121SN3 G FL=1157.6                                                              
+121SN  L 2190      6                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 2220      25 (3/2+,5/2+)                                               
+121SN2 L XREF=T                                                                 
+121SN cL J         L=(2) in (p,d)                                               
+121SN  L 2225      10(5/2-,7/2-)                                                
+121SN2 L XREF=NPR                                                               
+121SN cL J         L=(3) in (t,d)                                               
+121SN  L 2238      2                                                            
+121SN2 L XREF=O                                                                 
+121SN  L 2242.9                                                                 
+121SN2 L XREF=OPR                                                               
+121SN  G 1141.7    1020                                                         
+121SN  G 2242.8    5 100                                                        
+121SN  L 2256      6 (3/2+,5/2+)                                                
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(2) in (d,p)                                               
+121SN  L 2280      251/2+                                                       
+121SN2 L XREF=T                                                                 
+121SN cL J         L=0 in (p,d)                                                 
+121SN  L 2285.2    5 3/2+,5/2+                                                  
+121SN2 L XREF=NOP                                                               
+121SN cL J         L=2 in (t,p), fed from 1/2+ resonance in (n,|g)              
+121SN  G 2285.2    5 100                                                        
+121SN  L 2330      2 9/2-,11/2-                                                 
+121SN2 L XREF=NOT                                                               
+121SN cL J         L=5 in (t,p)                                                 
+121SN  L 2361.0    12                                                           
+121SN2 L XREF=OP                                                                
+121SN  L 2376      3 (5/2-,7/2-)                                                
+121SNC L XREF=NO                                                                
+121SN cL J         L=(3) in (t,p)                                               
+121SN  L 2415      10                                                           
+121SN2 L XREF=N                                                                 
+121SN  L 2440      3 (7/2+,9/2+)                                                
+121SN2 L XREF=NOP                                                               
+121SN cL J         L=(4) in (t,p)                                               
+121SN  L 2457      10(1/2+)                                                     
+121SN2 L XREF=R                                                                 
+121SN cL J         L=(0) in (t,d)                                               
+121SN  L 2460      5 (5/2-,7/2-)                                                
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(3) in (d,p)                                               
+121SN  L 2498.7    8                                                            
+121SN2 L XREF=O                                                                 
+121SN  L 2514.0    14 9/2-,11/2-                                                
+121SN2 L XREF=NOT                                                               
+121SN cL J         L=5 in (p,d)                                                 
+121SN  L     2524.020                                                           
+121SN2 L XREF=O                                                                 
+121SN  G 2524.0    20100                                                        
+121SN  L 2558.0    12                                                           
+121SN2 L XREF=O                                                                 
+121SN  L 2589.0    237/2-                                                       
+121SN2 L XREF=NOPR                                                              
+121SN cL J         L=3 in (pol p,p) IAR, J=7/2 is consistent with analyzing     
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 2652.0    12                                                           
+121SN2 L XREF=O                                                                 
+121SN  L 2658        (23/2-)                                                A   
+121SN2 L XREF=U                                                                 
+121SN cL J         |g to (19/2-)                                                
+121SN  G 471                                                                    
+121SN  L 2666      2 7/2-                                                       
+121SN2 L XREF=NOPR                                                              
+121SN cL J         L=3 in (pol p,p) IAR, J=7/2 is consistent with analyzing     
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 2700      105/2-,7/2-                                                  
+121SN2 L XREF=NPRT                                                              
+121SN cL J         L=3 in (d,p), (t,d), (t,p)                                   
+121SN  L 2713.0    16 7/2+,9/2+                                                 
+121SN2 L XREF=OT                                                                
+121SN cL J         L=4 in (p,d)                                                 
+121SN  L 2748      7                                                            
+121SN2 L XREF=PR                                                                
+121SN  L 2777      7                                                            
+121SN2 L XREF=NP                                                                
+121SN  L 2804.0    25(3/2)+                                                     
+121SN2 L XREF=OPT                                                               
+121SN cL J         L=2 in (p,d); J=(3/2) from J-dependence of L=2 in (p,d)      
+121SN  L 2811      15                                                           
+121SN2 L XREF=N                                                                 
+121SN  L 2834        (27/2-)           0.167 US  25                         A   
+121SN2 L XREF=U                                                                 
+121SN cL J         |g to (23/2-)                                                
+121SN cL T$from |g decay in {+124}Sn({+80}Se,{+80}Se{+3}n|g)                    
+121SN  G 176                   [E2]                    0.217                    
+121SNB G BE2W=0.46 7                                                            
+121SNS G KC=0.1750 25$LC=0.0339 5$MC=0.00680 10$NC+=0.001301 19                 
+121SNS G NC=0.001229 18$OC=7.20E-5 10                                           
+121SN  L 2849.0    14(5/2-,7/2-)                                                
+121SN2 L XREF=OT                                                                
+121SN cL J         L=(3) in (p,d)                                               
+121SN  L     2864.3 5(1/2,3/2)                                                  
+121SN2 L XREF=LN                                                                
+121SN cL J         log| {Ift}=6.2 from 1/2- {+121}In. |g to 1/2+                
+121SN  G 2803.8    7 100                                                        
+121SN  G 2864.3    7 91      37                                                 
+121SN  L 2915      7 (5/2-,7/2-)                                                
+121SN2 L XREF=NPR                                                               
+121SN cL J         L=(3) in (d,p)                                               
+121SN  L 2930      7 (7/2-)                                                     
+121SN2 L XREF=PR                                                                
+121SN cL J         L=(3) in (pol p,p) IAR, J=7/2 is consistent with analyzing   
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 2951      4 1/2-,3/2-                                                  
+121SN2 L XREF=N(*2970)OP(*2955)RT                                               
+121SN cL J         L=1 in (p,d)                                                 
+121SN  L 2961.0    13                                                           
+121SN2 L XREF=N(*2970)OP(*2955)                                                 
+121SN  L 2999.0    13 3/2+                                                      
+121SN2 L XREF=OPR(3009)T                                                        
+121SN cL J         L=2 in (p,d); J= 3/2 from J-dependence of L=2 in (p,d)       
+121SN  L 3028      8 (7/2-)                                                     
+121SN2 L XREF=PN(3036)R(3020)                                                   
+121SN cL J         L=(3) in (pol p,p) IAR, J=7/2 is consistent with analyzing   
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 3076.5    10                                                           
+121SN2 L XREF=OP(3069)                                                          
+121SN  L 3096      8                                                            
+121SN2 L XREF=PR                                                                
+121SN  L 3107      8 (1/2-,3/2-)                                                
+121SN2 L XREF=NPR                                                               
+121SN cL J         L=(1) in (d,p)                                               
+121SN  L     3120.114                                                           
+121SN2 L XREF=L                                                                 
+121SN  G 3059.7    14100                                                        
+121SN  L 3138.0    15(7/2-)                                                     
+121SN2 L XREF=O                                                                 
+121SN cL J         L=(3) in (pol p,p) IAR, J=7/2 is consistent with analyzing   
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 3140      25(3/2+,5/2+)                                                
+121SN2 L XREF=P(* 3136)T                                                        
+121SN cL J$L=2 in (p,d)                                                         
+121SN  L 3154.0    14(5/2-,7/2,9/2+)                                            
+121SN2 L XREF=NOP(* 3136)                                                       
+121SN cL J$L=(3,4) in (t,p)                                                     
+121SN  L 3172      4                                                            
+121SN2 L XREF=OP                                                                
+121SN  L 3223      8                                                            
+121SN2 L XREF=PT                                                                
+121SN  L 3228      2                                                           ?
+121SN2 L XREF=L                                                                 
+121SN  L 3320      157/2-                                                       
+121SN2 L XREF=NR                                                                
+121SN cL J         L=3 in (t,p);                                                
+121SN2cL J=7/2 is consistent with analyzing power in (pol p,p) IAR              
+121SN cL E$average of 3326 {I15} from (t,p) and 3314 {I15} from (t,d)           
+121SN  L 3321      9 (1/2-,3/2-)                                                
+121SN2 L XREF=PR(3303)                                                          
+121SN cL J         L=(1) in (d,p)                                               
+121SN  L 3350      9                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 3382.0    13(7/2+,9/2+)                                                
+121SN2 L XREF=NOPR                                                              
+121SN cL J         L=(4) in (t,p)                                               
+121SN  L 3396.0    143/2-                                                       
+121SN2 L XREF=OPR                                                               
+121SN cL J         L=1 in (pol p,p) IAR, 3/2 is consistent with analyzing       
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 3434      9 (1/2+)                                                     
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(0) in (d,p)                                               
+121SN  L 3459      9                                                            
+121SN2 L XREF=P                                                                 
+121SN  L 3499      9 (5/2-,7/2,9/2+)                                            
+121SN2 L XREF=NRP                                                               
+121SN cL J         L=(3,4) in (t,d), (d,p)                                      
+121SN  L 3510.0    7 3/2-                                                       
+121SN2 L XREF=OP(3515)                                                          
+121SN cL J         L=1 in (pol p,p) IAR, 3/2 is consistent with analyzing       
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 3518.0    10                                                           
+121SN2 L XREF=O                                                                 
+121SN  L 3520      15(5/2-,7/2,9/2+)                                            
+121SN2 L XREF=NR                                                                
+121SN cL J         L=(3,4) in (t,p), (t,d)                                      
+121SN cL E$average of 3532 {I15} from (t,p) and 3507 {I15} from (t,d)           
+121SN  L 3532      15                                                           
+121SN2 L XREF=N                                                                 
+121SN  L 3579      9                                                            
+121SN2 L XREF=PR                                                                
+121SN  L 3613      15                                                           
+121SN2 L XREF=R                                                                 
+121SN  L 3620      9 (5/2-,7/2-)                                                
+121SN2 L XREF=NP                                                                
+121SN cL J         L=(3) in (d,p)                                               
+121SN  L 3658      15                                                           
+121SN2 L XREF=R                                                                 
+121SN  L 3680.0    13 3/2-                                                      
+121SN2 L XREF=OPR                                                               
+121SN cL J         L=1 in (d,p), 3/2 is consistent with analyzing               
+121SN2cL power in (pol p,p) IAR                                                 
+121SN  L 3730      10 1/2-,3/2-                                                 
+121SN2 L XREF=PR                                                                
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3762.5    17 1/2-,3/2-                                                 
+121SN2 L XREF=OP                                                                
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3798      10 1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3814      10 1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3857      10 1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3875      10 1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3932.5    15 1/2-,3/2-                                                 
+121SN2 L XREF=OP                                                                
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3960      10 1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 3984      10 1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 4020      10                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4059.0    15                                                           
+121SN2 L XREF=OP(4046)                                                          
+121SN  L 4073      11                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4094      11                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4111      11                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4144      11                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4171      11 1/2-,3/2-                                                 
+121SN2 L XREF=P                                                                 
+121SN cL J         L=1 in (d,p)                                                 
+121SN  L 4199      11                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4264      11(1/2-,3/2-)                                                
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(2) in (d,p)                                               
+121SN  L 4274      3                                                            
+121SN2 L XREF=OP(4277)                                                          
+121SN  L 4330      11                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4401      11                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4453      12                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4468      12                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4519.0    11                                                           
+121SN2 L XREF=OP(4498)                                                          
+121SN  L 4540.0    10                                                           
+121SN2 L XREF=OP(4539)                                                          
+121SN  L 4646      25                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4680      25(1/2-,3/2-)                                                
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(1) in (d,p)                                               
+121SN  L 4736      25(5/2-,7/2,9/2+)                                            
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(3,4) in (d,p)                                             
+121SN  L 4773      25                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 4826      25(5/2-,7/2,9/2+)                                            
+121SN2 L XREF=P                                                                 
+121SN cL J         L=(3,4) in (d,p)                                             
+121SN  L 4905      25                                                           
+121SN2 L XREF=P                                                                 
+121SN  L 5051.0    16                                                           
+121SN2 L XREF=O                                                                 
+121SN  L 15953     509/2+              40 KEV    8                              
+121SN2 L XREF=S                                                                 
+121SN cL J         IAS {+121}In g.s.                                            
+121SN  L 16304     501/2-              36 KEV    7                              
+121SN2 L XREF=S                                                                 
+121SN cL J         IAS {+121}In 313.6-keV state                                 
+121SN  L 16610     503/2-              37 KEV    4                              
+121SN2 L XREF=S                                                                 
+121SN cL J         IAS {+121}In 637.86-keV state                                
+

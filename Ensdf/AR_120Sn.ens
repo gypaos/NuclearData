@@ -1,0 +1,654 @@
+120SN    ADOPTED LEVELS, GAMMAS                                  02NDS    200209
+120SN  H TYP=ERR$AUT=Balraj Singh$DAT=12-Nov-2013$COM=Corrected some JPI$       
+120SN  H TYP=FUL$AUT=K. KITAO, Y. TENDOW AND A. HASHIZUME$                      
+120SN2 H CIT=NDS 96, 241 (2002)$CUT=1-Dec-2001$                                 
+120SN  XA120IN B- DECAY (3.08 S)                                                
+120SN  XB120IN B- DECAY (46.2 S)                                                
+120SN  XC120IN B- DECAY (47.3 S)                                                
+120SN  XD120SB B+ DECAY (15.89 M)                                               
+120SN  XE120SB EC DECAY (5.76 D)                                                
+120SN  XFCOULOMB EXCITATION                                                     
+120SN  XG118SN(T,P)                                                             
+120SN  XH119SN(D,P),(T,D),(POL D,P)                                             
+120SN  XI120SN(P,P'),(3HE,3HE'),(A,A'),                                         
+120SN  XJ120SN(N,N'G)                                                           
+120SN  XK121SB(D,3HE),(T,A)                                                     
+120SN  XL122SN(P,T)                                                             
+120SN  XM124TE(D,6LI)                                                           
+120SN  XN(HI,XNG)                                                               
+120SN  XO120SN(G,G')                                                            
+120SN  XP120SN(P,P'G)                                                           
+120SN  XQ120SN(E,E')                                                            
+120SN  XR120SN(E,E'P) IAR                                                       
+120SN  XS120SN(PI+,PI0),(PI-,PI0)                                               
+120SN  XT121SB(MU-,NG)                                                          
+120SN  XU122SN(16O,18O)                                                         
+120SN  XV123SB(P,A)                                                             
+120SN  XW120SN(D,D')                                                            
+120SN cL E         From a least-squares fit to the adopted E(|g's) by the       
+120SN2cL evaluators for levels connected with |g-transitions, except for        
+120SN3cL levels populating in (|g,|g') and for resonant levels.                 
+120SN4cL Others from (p,p'),({+3}He,{+3}He'), unless otherwise noted. Also      
+120SN5cL E(levels) were given in (d,d'), but those are not adopted due to       
+120SN6cL poor resolution and questionable scale for energy                      
+120SN7cL of scattered particles. For the GDR's with >34 MeV,                    
+120SN8cL see 1998Ba37                                                           
+120SN cL T         From DSA of |g's in (n,n'|g), unless otherwise noted         
+120SN cL E(A)      From (|g,|g')                                                
+120SN cL E(B)      From (d,{+6}Li)                                              
+120SN cL E(C)      From (p,p'),(d,d'),({+3}He,{+3}He')                          
+120SN cL E(D)      From (d,{+3}He),(t,|a)                                       
+120SN cL E(E)      This level is not confirmed in (n,n'|g), where the           
+120SN2cL authors claim that all levels with J=1 to 5 below E=3100 and           
+120SN3cL with J=0 below 2900 are expected to be populated                       
+120SN cG E,RI      From (n,n'|g), unless otherwise noted                        
+120SN cG E(V),RI(V)$From (|g,|g').                                              
+120SN cG E(W),RI(W)$From |b{+-} decay (46.2 s). Not observed in (n,n'|g)        
+120SN cG E(X),RI(X)$From |b{+-} decay (47.3 s). Not observed in (n,n'|g)        
+120SN cG E(Y)      From weighted av from (n,n'|g) and |b{+-} decay (46.2 s)     
+120SN cG E(Z)      From weighted av from (n,n'|g) and |b{+-} decay (47.3 s)     
+120SN cG M,MR      From (n,n'|g) and placement in level scheme,                 
+120SN2cG unless otherwise noted                                                 
+120SN cG M(F)      Mult=D+Q from |g(|q) in (n,n'|g). |D|p is from               
+120SN2cG placement in level scheme                                              
+120SN  Q -2681     8 9104.8  1110688   8 -4811.0 9     2012WA38                 
+120SN cQ $Note: Current evaluation has used the following Q record              
+120SN  Q -2681      79107.4  2210689   7 -4808   4     1995AU04                 
+120SN PN                                                                     6  
+120SN  L 0.0         0+                STABLE                                   
+120SNX L XREF=ABCDEFGHIJKLMNOPQRTUV                                             
+120SN  L   1171.26515 2+               0.640 PS  12                             
+120SNX L XREF=ABCDEFGHIJK(1150)LMNOPQTU                                         
+120SN cL J         L(p,p')=2                                                    
+120SN3 L MOMM1=-0.28 14$MOME2=-0.05 10                                          
+120SN cL MOMM1$transient field integral PAC (1989Ra17)                          
+120SN cL MOME2$Coulomb excitation orientation (1989Ra17)                        
+120SN cL T         weighted av of 0.652 ps {I10} (from B(E2) in Coul. ex.),     
+120SN2cL 0.617 ps {I14} (from DSA in Coul. ex.), and 0.63 ps {I8} in (|g,|g')   
+120SN  G 1171.25   2 100       E2                                           Y   
+120SNB G BE2W=11.41 22                                                          
+120SN  L   1875.108250+                7.4 PS    10                             
+120SNX L XREF=ABDFGHIJLMP                                                       
+120SN cL J         L(t,p)=0                                                     
+120SN cL T         from B(E2) (Coul. ex.) in 1981Ba05.                          
+120SN  G 703.84    2 100       [E2]                                             
+120SNB G BE2W=12.6 17                                                           
+120SN  L   2097.205202+                1.3 PS    4                              
+120SNX L XREF=ABFHIJKLMOP                                                       
+120SN cL J         L(d,{+3}He)(t,|a)=2; |g to 0+; Coul. ex.                     
+120SN cL T$from B(E2) (Coul. ex.) in 1981Ba05. Other: 0.7 ps {I+4-2} (n,n'|g)   
+120SN  G 222.2     3 0.38    6                                                  
+120SN cG E         observed only in (n,n'|g)                                    
+120SN  G 925.924   19100     4 M1+E2     -12     2                          Y   
+120SN cG M         |g(|q), RUL                                                  
+120SN cG MR        other: -1.43 {I25} (1974Ki04)                                
+120SNB G BM1W=9.E-5 5$BE2W=12 4                                                 
+120SN  G 2097.14   6 56      3 E2                                           Y   
+120SN2 G FLAG=F                                                                 
+120SN cG E         other: 2098.3 {I12} in |b{+-} decay (3.08 s)                 
+120SNB G BE2W=0.11 4                                                            
+120SN  L   2159.931250+                4 PS      GT                             
+120SNX L XREF=ABDFGHJLMOP                                                       
+120SN cL J         L(t,p)=0                                                     
+120SN cL T         from B(E2) in Coul. ex.                                      
+120SN  G 988.66    2 100                                                        
+120SN cG E         other: 990 {I2} in |b{+-} decay (3.08 s)                     
+120SN  L 2173                                                                   
+120SNX L XREF=O                                                                 
+120SN cL J         this level is not confirmed in (n,n'|g), where the authors   
+120SN2cL claim that all levels with J=1 to 5 below E=3100 and with J=0 below    
+120SN3cL 2900 are expected to be populated                                      
+120SN  L   2194.299214+                1.4 PS    2                              
+120SNX L XREF=BCEFGIJKLMNP                                                      
+120SN cL J         L(p,t)=4                                                     
+120SN cL T         from B(E2) in Coul. ex.; other: >0.76 ps from (n,n'|g)       
+120SN  G 1023.048  18100       E2                                           Y   
+120SN cG M         from |e decay (5.76 d)                                       
+120SNB G BE2W=10.3 15                                                           
+120SN  L    2284.27 65-                5.55 NS   3                              
+120SNX L XREF=BCEGIJLMN                                                         
+120SN2 L MOMM1=-0.280 25$MOME2=0.033 2                                          
+120SN cL MOMM1$differential PAC (1989Ra17). Other: -0.37 {I5} from integral PAC 
+120SN2cL (1989Ra17)                                                             
+120SN cL MOME2$differential PAC; value recalculated and relative to             
+120SN2cL |m=0.094 {I4} for {+119}Sn (24 level, 3/2+) (1989Ra17)                 
+120SN cL J         L(p,t)=5; |g|g(|q) and |g|g(pol) in |e decay (5.76 d).       
+120SN cL T         from |g|g(t) in |e decay; weighted average of 6.05 ns {I20}  
+120SN2cL (1960Ik01), 5.2 ns {I4} (1961Bo13), 5.53 ns {I6} (1962Bo16), 5.55 ns   
+120SN3cL {I25} (1967Ra26), and 5.55 ns {I3} (1980Mi13). Other: 8.24 ns {I23}    
+120SNxcL (1963Cu04).                                                            
+120SN  G 89.87     16100     5 E1                      0.246                    
+120SN cG M         from |e decay (5.76 d)                                       
+120SNB G BE1W=5.5E-5 4                                                          
+120SN  G 1112.98   181.15    7                                              Y   
+120SN cG RI        other: <3.7 in |b{+-} decay (46.2 s)                         
+120SN3 G BE3W=0.99 3                                                            
+120SN  L 2297      15 0+,1+                                                 B   
+120SNX L XREF=HO(2310)                                                          
+120SN cL J         L(d,p)(t,d)(pol d,p)=0                                       
+120SN  L   2355.383242+                0.33 PS   +10-7                          
+120SNX L XREF=ABGHIJLMO(2361)P                                                  
+120SN cL J         L(p,t)=2                                                     
+120SN  G 1184.11   3 100     4 M1+E2     +1.0    2                          Y   
+120SN cG E         other: 1185.8 {I8} in |b{+-} decay (3.08 s)                  
+120SNB G BM1W=0.014 6$BE2W=7 3                                                  
+120SN  G 2355.39   4  41.6   21E2                                           Y   
+120SN cG RI        weighted av from |b{+-} decay (46.2 s) and (n,n'|g)          
+120SNB G BE2W=0.20 7                                                            
+120SN  L    2400.30 53-                0.116 PS  8                              
+120SNX L XREF=BFGIJLMPQ                                                         
+120SN cL J         L(p,t)=3                                                     
+120SN  G 1229.08   6 100       E1+M2     +0.02   2                          Y   
+120SN cG E         other: 1228.2 in Coul. ex.                                   
+120SNB G BE1W=0.00129 9$BM2W=2 +4-2                                             
+120SN  L    2420.90 32+                0.46 PS   +21-10                         
+120SNX L XREF=ABHJKLMOP                                                         
+120SN cL J         E2 |g to 0+                                                  
+120SN  G 261.0     4 1.10    22                                                 
+120SN cG E         not observed in |b{+-} decay (3.08 s, 46.2 s)                
+120SN  G 323.82    106.4     4                                              Y   
+120SN cG E         not observed in |b{+-} decay (3.08 s)                        
+120SN  G 1249.60   4 100     4 M1+E2     -16     4                          Y   
+120SN cG E         not observed in |b{+-} decay (3.08 s)                        
+120SN cG M         from large mixing ratio                                      
+120SNB G BM1W=5.E-5 4$BE2W=6 3                                                  
+120SN  G 2420.89   4 76      7 E2                                           Y   
+120SN cG E         other: 2422.0 {I8} in |b{+-} decay (3.08 s)                  
+120SN cG RI        weighted av from (n,n'|g) and |b{+-} decay (46.2 s)          
+120SNB G BE2W=0.17 9                                                            
+120SN  L   2465.632234+                0.32 PS   +7-4                           
+120SNX L XREF=BG(*2478)IJLMP                                                    
+120SN cL J         L(p,t)=4                                                     
+120SN  G 368.0     3 0.49    11                                                 
+120SN cG E         not observed in |b{+-} decay (46.2 s)                        
+120SN cG RI        if I(1294|g)=100                                             
+120SN  G 1294.33   2 100     LT                                             Y   
+120SN  L    2481.63 67-                11.8 US   5                              
+120SNX L XREF=BCEG(*2478)IJLMN                                                  
+120SN cL J         L(p,t)=7                                                     
+120SN cL T         from X|g(t) (1960Ik01); others: 11 |ms {I1} (1960Ik01),      
+120SN2cL 11.2 |ms {I10} (1961Bo13)                                              
+120SN  G 197.37    2 100       E2                      0.147                Z   
+120SN cG M         from |e decay (5.76 d)                                       
+120SNB G BE2W=0.00397 17                                                        
+120SN  L 2540      10(5-)                                                   E   
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=(5)                                                  
+120SN  L    2587.25150+                0.34 PS   GT                             
+120SNX L XREF=GHJLMO                                                            
+120SN cL J         L(p,t)=0                                                     
+120SN  G 1415.88   15100                                                    Y   
+120SN  L   2643.353204+                1.0 PS    GT                             
+120SNX L XREF=BIJLM                                                             
+120SN cL J         L(p,t)=4                                                     
+120SN  G 177.70    8  7.7    20                                             Y   
+120SN cG RI        unweighted av from |b{+-} decay (46.2 s) and (n,n'|g)        
+120SN  G 449.06    4  15.4   7 M1+E2     -0.38   12                         Y   
+120SN cG RI        weighted av from |b{+-} decay (46.2 s) and (n,n'|g)          
+120SNB G BM1W<0.022$BE2W<17                                                     
+120SN  G 546.13    2  37.5   13E2                                           Y   
+120SN cG RI        weighted av from |b{+-} decay (46.2 s) and (n,n'|g)          
+120SNB G BE2W<77                                                                
+120SN  G 1472.07   2  100    4 E2                                           Y   
+120SNB G BE2W<1.4                                                               
+120SN  L    2685.16 66+                                                         
+120SNX L XREF=BG(*2693)JI(*2687)                                                
+120SN cL J         E1+M2 |g to 5-; |g(|q) and |g(lin. Pol) in (n,n'|g)          
+120SN  G 203.5     2 12.2    10(E1+M2)   +0.1    2                          F   
+120SN  G 400.88    3 100     5 E1+M2     +0.01   2                              
+120SN  G 490.95    1119.3    12                                                 
+120SN  L 2691      3 (2+&6+)                                                    
+120SNX L XREF=G(*2693)I(*2687)L                                                 
+120SN cL J         l(p,t)=2+6                                                   
+120SN cL E         doublet in (p,t)                                             
+120SN  L    2695.94 64-                                                         
+120SNX L XREF=BI(*2687)JM                                                       
+120SN cL J         M1+E2 |g to 5-, D+Q |g to 3-                                 
+120SN  G 295.66    3 16.2    8 (M1+E2)   +0.01   4                          F   
+120SN  G 411.66    2 100     4 M1+E2     +0.08   2                              
+120SN  L    2728.12 32+                0.24 PS   +5-8                           
+120SNX L XREF=BHIJLMO                                                           
+120SN cL J         E2 |g to 0+                                                  
+120SN cL T         other: 0.15 ps {I7} in (|g,|g')                              
+120SN  G 1556.83   3 100     5 M1+E2     -4.4    8                              
+120SNB G BM1W=0.0007 3$BE2W=3.9 9                                               
+120SN  G 2728.09   4 79      4 E2                                               
+120SNB G BE2W=0.20 5                                                            
+120SN  L    2749.71 66-                                                         
+120SNX L XREF=CI(*2753)J                                                        
+120SN cL J         M1+E2 |g's to 5- and 7-                                      
+120SN  G 268.099   24100     4 M1+E2     +0.05   3                          Y   
+120SN  G 465.41    3 60      3 M1+E2     +0.03   2                          Y   
+120SN  L 2751      3 4+                                                         
+120SNX L XREF=I(*2753)L                                                         
+120SN cL J         L(p,t)=4                                                     
+120SN  L    2800.05 75-                                                         
+120SNX L XREF=HJL                                                               
+120SN cL J         L(p,t)=5                                                     
+120SN  G 515.78    4 100       M1+E2     -0.02   6                              
+120SN  L    2802   10(7-,8+)                                                    
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=(7,8)                                                
+120SN  L    2835.39 31+                0.13 PS   +6-3                           
+120SNX L XREF=HI(*2843)JL(*2840)                                                
+120SN cL J         L(d,p)(t,d)(pol d,p)=2; D |g to 0+                           
+120SN  G 1664.11   3 100     5                                                  
+120SN  G 2835.36   4 32.6    17M1                                               
+120SNB G BM1W=0.0018 9                                                          
+120SN  L    2836.52 7(8+)              0.09 PS   +4-2                           
+120SNX L XREF=CI(*2843)JL(*2840)N                                               
+120SN cL J         D+Q |g to (7)-, (E2) |g from (10+)                           
+120SN  G 354.90    5 100       D(+Q)     -0.2    2                          Z   
+120SN  L    2844.34 7(6)-                                                       
+120SNX L XREF=I(*2843)J                                                         
+120SN cL J         M1+E2 |g to 5-, D+Q |g to (7)-                               
+120SN  G 362.8     2 10.8    10(M1+E2)   -0.3    2                          F   
+120SN  G 560.07    3 100     4 M1+E2     -0.03   2                              
+120SN  L 2857.61   8 (0+)                                                       
+120SNX L XREF=GJ                                                                
+120SN cL J         from |g(|q) and population of this level in (n,n'|g)         
+120SN  G 1686.33   7 100                                                        
+120SN  L    2902.2222(10+)             6.26 US   11                             
+120SNX L XREF=N                                                                 
+120SN cL J         from syst on J|p=10+ isomers in {+116}Sn-{+120}Sn isotopes   
+120SN cL T         from (HI,xn|g)                                               
+120SN  G 65.7      2 100       (E2)                                             
+120SN cG M         from (HI,xn|g)                                               
+120SNB G BE2W=2.10 5                                                            
+120SN  L 2930.53   5 2+                0.11 PS   2                              
+120SNX L XREF=HIJLO                                                             
+120SN cL J         E2 |g to 0+                                                  
+120SN cL T         from (|g,|g')                                                
+120SN  G 1759.25   7 54      3 M1+E2     +0.09   6                              
+120SNB G BM1W=0.0128 25$BE2W=0.02 +4-25                                         
+120SN  G 2930.49   7 100     6 E2                                               
+120SNB G BE2W=0.44 9                                                            
+120SN  L    2975.69 74-                                                         
+120SNX L XREF=JL                                                                
+120SN cL J         M1+E2 |g's to 3- and 5-                                      
+120SN  G 279.71    6 39.7    20D+Q       -0.09   7                              
+120SN  G 575.34    7 35.0    19M1+E2     -0.01   10                             
+120SN  G 691.56    8 100     9 M1+E2     -0.4    AP                             
+120SN  L 2997                                                                   
+120SNX L XREF=H                                                                 
+120SN  L 3009      9 2+                                                         
+120SNX L XREF=L                                                                 
+120SN cL J         L(p,t)=2                                                     
+120SN  L    3034.75 9(0+)                                                       
+120SNX L XREF=JO                                                                
+120SN cL J         from |g(|q) and population of this level in (n,n'|g)         
+120SN  G 1863.50   8 100                                                        
+120SN  L   3057.946244+                                                         
+120SNX L XREF=BI(3062)JLO                                                       
+120SN cL J         L(p,p')=4, L(p,t)=4                                          
+120SN  G 414.56    3 7.3     4 (M1+E2)   -0.2    2                          Y   
+120SN2 G FLAG=F                                                                 
+120SN cG RI        from |b{+-} decay (46.2 s). Other: 21.6 {I12} in (n,n'|g)    
+120SN  G 592.35    7 4.3     3                                              Y   
+120SN cG RI        from |b{+-} decay (46.2 s). Other: 10.7 {I16} in (n,n'|g)    
+120SN  G 637.03    8 5.4     4                                              Y   
+120SN cG RI        from |b{+-} decay (46.2 s). Other: <23 in (n,n'|g)           
+120SN  G 702.62    4 7.4     3                                              W   
+120SN  G 863.64    3 100     3 M1(+E2)   -0.04   4                          Y   
+120SN cG RI        from |b{+-} decay (46.2 s)                                   
+120SN  G 1886.65   6 13.6    5                                              Y   
+120SN cG RI        from |b{+-} decay (46.2 s)                                   
+120SN  L    3069.73 8(6+)                                                       
+120SNX L XREF=J                                                                 
+120SN cL J         stretched Q |g to 4+                                         
+120SN  G 426.4     4 11.4    15                                                 
+120SN  G 604.0     2 33.3    22                                                 
+120SN  G 875.45    8 100     5 Q                                                
+120SN cG M         stretched Q from |g(|q) in (n,n'|g)                          
+120SN  L    3077.38 83+                                                         
+120SNX L XREF=J                                                                 
+120SN cL J         M1+E2 |g to 2+, D+Q |g to 4+                                 
+120SN  G 721.93    1542      3 M1+E2     +5      +5-3                           
+120SN  G 883.22    1461      4 (M1+E2)                                      F   
+120SN cG MR        +3 {I3} or -0.2 {I2}                                         
+120SN  G 980.1     2 47      3 M1+E2     +1.4    +10-4                          
+120SN cG M         from large mixing ratio                                      
+120SN  G 1906.06   13100     6 M1+E2     +4.2    16                             
+120SN cG M         from large mixing ratio                                      
+120SN  L 3100      3 (1-)                                                       
+120SN cL J         L(p,t)=(1)                                                   
+120SNX L XREF=K(3090)L                                                          
+120SN  L    3157.97 92+                0.050 PS  +13-10                         
+120SNX L XREF=HI(3161)JLO                                                       
+120SN cL J         E2 |g to 0+                                                  
+120SN cL T         other: 0.071 fs {I8} in (|g,|g')                             
+120SN  G 1986.7    3 18.8    12                                                 
+120SN  G 3157.92   9 100     6 E2                                               
+120SNB G BE2W=0.86 24                                                           
+120SN  L    3179.06 34+                                                         
+120SNX L XREF=BGIJL                                                             
+120SN cL J         L(p,p')=4, L(p,t)=4                                          
+120SN  G 713.36    3 100     4 D+Q                                          Y   
+120SN cG RI        from |b{+-} decay (46.2 s)                                   
+120SN cG MR        -0.22 {I10} or +1.6 {I5}                                     
+120SN  G 823.60    175.9     13                                             W   
+120SN  G 984.92    6 36.5    19M1+E2     -2.5    AP                         Y   
+120SN cG RI        from |b{+-} decay (46.2 s). Other: 46 {I5} in (n,n'|g)       
+120SN cG M         from large mixing ratio                                      
+120SN  G 1081.2    6  1.1     6                                             W   
+120SN  G 2007.82   4  76     4                                              Y   
+120SN cG RI        from |b{+-} decay (46.2 s)                                   
+120SN cG RI        other: 90 {I4} in (n,n'|g)                                   
+120SN  L    3208.54150+                                                         
+120SNX L XREF=JL                                                                
+120SN cL J         L(p,t)=0                                                     
+120SN  G 2037.26   15100                                                        
+120SN  L 3210      101+,2+,3+                                                   
+120SNX L XREF=H                                                                 
+120SN cL J         L(d,p)(t,d)(pol d,p)=2                                       
+120SN  L    3231.95 71+,2+,3+                                                   
+120SNX L XREF=J                                                                 
+120SN cL J         M1+E2 |g to 2+                                               
+120SN  G 1134.74   6 100     5 M1+E2     +8      4                              
+120SN  G 2060.7    3 14.0    13(M1+E2)                                      F   
+120SN cG MR        +2 {I2} or +0.8 {I8}                                         
+120SN  L    3237.33 8(1,2)                                                      
+120SNX L XREF=J                                                                 
+120SN cL J         |g to 0+                                                     
+120SN  G 2066.03   7 100     5                                                  
+120SN  G 3238.3    7 9.7     11                                                 
+120SN  L 3252      3 5-                                                         
+120SNX L XREF=L                                                                 
+120SN cL J         L(p,t)=5                                                     
+120SN  L    3262.8911                                                           
+120SNX L XREF=J                                                                 
+120SN  G 842.0     2 87      6                                                  
+120SN  G 907.2     3 58      6                                                  
+120SN  G 1068.5    2 24      4                                                  
+120SN  G 2091.8    2 100     5                                                  
+120SN  L    3279.29 9(1-)              0.012 PS  +4-3                           
+120SNX L XREF=I(*3281)JLO                                                       
+120SN cL J         L(p,t)=(1)                                                   
+120SN cL T         other: 0.0049 ps {I3} in (|g,|g')                            
+120SN  G 3279.24   9 100       D                                                
+120SN  L    3284.62 92+                0.9 PS    3                              
+120SNX L XREF=HI(*3281)JO                                                       
+120SN cL J         E2 |g to 0+, RUL rules out M2                                
+120SN cL T         from (|g,|g'). Other: 0.17 ps {I+44-8} in (n,n'|g)           
+120SN  G 2113.26   1259      3 (M1+E2)   -0.4    4                          F   
+120SNB G BM1W=0.0008 4$BE2W=0.02 +4-22                                          
+120SN  G 3284.64   12100     5 E2                                               
+120SNB G BE2W=0.029 10                                                          
+120SN  L 3330      10(6+,7-)                                                    
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=(6,7)                                                
+120SN  L 3341      3                                                            
+120SNX L XREF=L                                                                 
+120SN cL E         unresolved peak. J|p=3-&4+ is suggested                      
+120SN  L    3349.92 5(4)+                                                       
+120SNX L XREF=BJ                                                                
+120SN cL J         log| {Ift}=5.62 from (5)+, |g's to 2+ and 4+                 
+120SN  G 706.43    8  35     3                                              W   
+120SN  G 929.08    11 35     6                                              W   
+120SN  G 1156.1    3  20     4                                              W   
+120SN  G 1253.03   25 9.1    20                                             W   
+120SN  G 2178.65   5  100    6                                              Y   
+120SN cG RI        from |b{+-} decay (46.2 s)                                   
+120SN  L    3386.32152+                                                         
+120SNX L XREF=HIJL                                                              
+120SN cL J         L(p,t)=2,3; Q |g to 0+ excludes 3-                           
+120SN  G 2215.13   15100     8 D+Q                                              
+120SN cG MR        -0.31 {I10} or +10 {I+10-6}                                  
+120SN  G 3385.6    4 56      3 Q                                                
+120SN  L    3438.23 84+                                                         
+120SNX L XREF=BI(*3438)JL(3442)                                                 
+120SN cL J         L(p,t)=4,5; |g to 2+ excludes 5-                             
+120SN  G 1341.1    7  5.1    19                                             W   
+120SN  G 2266.94   7  100    6                                              Y   
+120SN  L    3446.48 7(7-,8-)                                                    
+120SNX L XREF=CI(*3438)                                                         
+120SN cL J         log| {Ift}=4.25 from (8-), |g to (6)-                        
+120SN  G 609.96    5 21.5    13                                             X   
+120SN  G 696.75    4 32.1    16                                             X   
+120SN  G 964.86    4 100     4                                              X   
+120SN  L 3455      3                                                            
+120SNX L XREF=I(*3460)L                                                         
+120SN  L    3471.54103-                                                         
+120SNX L XREF=GHI(*3460)JL                                                      
+120SN cL J         L(t,p)=3                                                     
+120SN  G 1071.46   13100     8                                                  
+120SN  G 1115.9    2 48      4                                                  
+120SN  G 1374.1    2 43      5                                                  
+120SN  G 2300.1    4 28      3                                                  
+120SN  L    3547.58191,2                                                        
+120SNX L XREF=HJO                                                               
+120SN cL J         D,Q |g to 0+                                                 
+120SN  G 2376.2    2 100     5                                                  
+120SN  G 3547.5    6 73      5 D,Q                                              
+120SN cG M         |d=-0.4 {I2} or +4 {I2} given in (1992De32) but the          
+120SN2cG transition must be pure D or pure Q                                    
+120SN  L 3559      10                                                           
+120SNX L XREF=I                                                                 
+120SN  L    3581.9022(1,2)             0.06 PS   +6-3                           
+120SNX L XREF=G(*3593)HI(*3585)JO                                               
+120SN cL J         |g to 0+                                                     
+120SN cL T         other: 0.35 ps {I10} in (|g,|g')                             
+120SN  G 853.5     4 40      5                                                  
+120SN  G 2410.6    5 24      4                                                  
+120SN  G 3582.0    3 100     7                                                  
+120SN  L 3600                                                                   
+120SNX L XREF=G(*3593)HI(*3585)                                                 
+120SN  L    3631.14182+                                                         
+120SNX L XREF=JKO                                                               
+120SN cL J         |g's to 2+ and 4+; |g from 1-                                
+120SN  G 1276.6    6 28      4                                                  
+120SN  G 1436.8    6 37      6                                                  
+120SN  G 2459.9    2 100     6                                                  
+120SN  L    3644.4816(6+,7-)                                                    
+120SNX L XREF=CH(3660)I(3657)                                                   
+120SN cL J         L(p,p')=(6,7)                                                
+120SN  G 808.4     4 18      8                                              X   
+120SN cG RI        from I|g/I|g(1163|g) in 1978Ch25. 1988Ra09 report <14        
+120SN2 G FL=2836.52                                                             
+120SN  G 1162.78   16100     22                                             X   
+120SN cG RI        uncertainty from 1978Ch25                                    
+120SN  L    3711.0117(1,2)             0.09 PS   +17-4                          
+120SNX L XREF=HIJV                                                              
+120SN cL J         |g to 0+                                                     
+120SN  G 2539.7    2 88      5                                                  
+120SN  G 3711.0    3 100     7                                                  
+120SN  L    3765.31241+,2+             0.089 PS  17                             
+120SNX L XREF=HIJO                                                              
+120SN cL J         |g to 0+, L(d,p)(t,d)(pol d,p)=2                             
+120SN cL T         from (|g,|g')                                                
+120SN  G 1410.0    3 89      8                                                  
+120SN  G 3765.1    4 100     8                                                  
+120SN  L    3772.0920+                                                          
+120SNX L XREF=G(*3780)JK(3750)                                                  
+120SN cL J         L(d,{+3}He)(t,|a)=4                                          
+120SN  G 2600.8    2 100                                                        
+120SN  L    3777.21 64+                                                         
+120SNX L XREF=BG(*3780)H(3800)I(3789)                                           
+120SN cL J         L(p,p')=4                                                    
+120SN  G 1133.88   10 38      5                                             W   
+120SN  G 1311.57   14 21      3                                             W   
+120SN  G 1421.6    4  8       3                                             W   
+120SN  G 1494.2    7  7       4                                             W   
+120SN  G 1582.76   17 43      6                                             W   
+120SN  G 1679.89   20 18      4                                             W   
+120SN  G 2605.94   8  100    6                                              W   
+120SN  L    3835.36242+                0.13 PS   6                              
+120SNX L XREF=G(3818)IJO                                                        
+120SN cL J         L(p,p')=2                                                    
+120SN cL T         from (|g,|g'). Other: 0.12 ps {I+72-7} in (n,n'|g)           
+120SN  G 2664.0    3 100     8                                                  
+120SN  G 3835.4    4 96      8                                                  
+120SN  L    3857.5613(4)                                                        
+120SNX L XREF=BJ                                                                
+120SN cL J         |g's to 2+ and 4+, log| {Ift}=6.06 from (5)+                 
+120SN  G 1663.3    6  36     18                                             W   
+120SN  G 1760.54   20 100    29                                             W   
+120SN  G 2686.11   17 79     11                                             W   
+120SN  L    3874.96242+                                                         
+120SNX L XREF=HIJ                                                               
+120SN cL J         L(p,p')=2                                                    
+120SN  G 1680.9    3 75      5                                                  
+120SN  G 2703.2    4 100     7                                                  
+120SN  L     3906.6 3-                                                          
+120SNX L XREF=JK                                                                
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  G 2735.3    3 100                                                        
+120SN  L 3928      10                                                       C   
+120SNX L XREF=H(3940)I                                                          
+120SN  L 3955      10                                                           
+120SNX L XREF=I                                                                 
+120SN  L     3990.1 4(2)+                                                       
+120SNX L XREF=HIJK(4000)                                                        
+120SN cL J         L(p,p')=(2), L(d,{+3}He)(t,|a)=4                             
+120SN  G 2819.1    5 74      9                                                  
+120SN  G 3989.5    6 100     11                                                 
+120SN  L     4006.5 6(1,2)             0.17 PS   5                              
+120SNX L XREF=JO                                                                
+120SN cL J         |g to 0+                                                     
+120SN cL T         from (|g,|g')                                                
+120SN  G 4006.4    6 100                                                        
+120SN  L     4011.4 6(1,2)                                                      
+120SNX L XREF=J                                                                 
+120SN cL J         |g to 0+                                                     
+120SN  G 4011.3    6 100                                                        
+120SN  L     4079.0 41+,2+,3+                                                   
+120SNX L XREF=H(4060)IJ                                                         
+120SN cL J         L(d,p)(t,d)(pol d,p)=2                                       
+120SN  G 2907.7    4 100                                                        
+120SN  L     4096.5 4                                                           
+120SNX L XREF=J                                                                 
+120SN  G 2925.2    4 100                                                        
+120SN  L     4110.4 71-                                                         
+120SNX L XREF=JK                                                                
+120SN cL J         L(d,{+3}He)(t,|a)=1, |g to 0+                                
+120SN  G 4110.3    7 100                                                        
+120SN  L     4146.911                                                           
+120SNX L XREF=O                                                                 
+120SN  L 4180      10-                                                      D   
+120SNX L XREF=I(*4190)K                                                         
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4190        1+,2+,3+                                                   
+120SNX L XREF=HI(*4190)                                                         
+120SN cL J         L(d,p)(t,d)(pol d,p)=2                                       
+120SN  L 4230      20+                                                          
+120SNX L XREF=K                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=4                                          
+120SN  L     4318.2 30-,1-                                                      
+120SNX L XREF=JK(4330)                                                          
+120SN cL J         L(d,{+3}He)(t,|a)=1, |g to 0+                                
+120SN  G 3146.9    3 100     9                                                  
+120SN  G 4318.1    9 29      5                                                  
+120SN  L 4360      20-                                                          
+120SNX L XREF=HK                                                                
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4410      10-                                                      D   
+120SNX L XREF=K                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4460      20-                                                      D   
+120SNX L XREF=K                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4580      20                                                       D   
+120SNX L XREF=K                                                                 
+120SN  L 4650      10-                                                          
+120SNX L XREF=K                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4690      20-                                                          
+120SNX L XREF=K                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4720      10                                                           
+120SNX L XREF=K                                                                 
+120SN  L 4770      20-                                                          
+120SNX L XREF=K                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4870      10                                                       D   
+120SNX L XREF=I(*4900)K                                                         
+120SN cL E         possible doublet                                             
+120SN  L 4920      20-                                                      D   
+120SNX L XREF=I(*4900)K                                                         
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 4970      10                                                           
+120SNX L XREF=K                                                                 
+120SN  L 5030      10                                                           
+120SNX L XREF=K                                                                 
+120SN  L 5090      20-                                                          
+120SNX L XREF=K                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 5170      10-                                                      D   
+120SNX L XREF=I(*5200)K                                                         
+120SN cL J         L(d,{+3}He)(t,|a)=1                                          
+120SN  L 5230      20+                                                          
+120SNX L XREF=I(*5200)K                                                         
+120SN cL J         L(d,{+3}He)(t,|a)=4                                          
+120SN  L 6.3E+3    3                                                            
+120SNX L XREF=I                                                                 
+120SN  L     6728.6 71                                                          
+120SNX L XREF=O                                                                 
+120SN cL J         from |g(|q) in (|g,|g')                                      
+120SN  G 4306        5       3                                              V   
+120SN  G 5559        1       3                                              V  ?
+120SN  G 6730        100     6                                              V   
+120SN  L 6.9E+3    4 -                                                          
+120SNX L XREF=I                                                                 
+120SN cL J         L(d,{+3}He)(t,|a)=3                                          
+120SN  L     7310.1 71                                                      A   
+120SNX L XREF=I(*7600)O                                                         
+120SN cL J         from |g(|q) in (|g,|g')                                      
+120SN  G 5150        14                                                     V   
+120SN  G 7310        100                                                    V   
+120SN  L     7686.6 71-                                                     A   
+120SNX L XREF=I(*7600)O                                                         
+120SN cL J         from |g(|q) in (|g,|g'), E1 |g to g.s.                       
+120SN  G 4059        18      6                                              V   
+120SN  G 5095        8       3                                              V   
+120SN2 G FL=2587.25                                                             
+120SN  G 5335      4 12.3    8                                              V   
+120SN  G 5520      7 1.4     3                                              V   
+120SN2 G FL=2159.931                                                            
+120SN  G 6522      7 7.3     5                                              V   
+120SN  G 7695      5 100     1                                              V   
+120SN  L 8.40E+3   15                                                           
+120SNX L XREF=I                                                                 
+120SN  L     8993.0 41                                                          
+120SNX L XREF=O                                                                 
+120SN cL J         from |g(|q) in (|g,|g')                                      
+120SN  G 5443        44      27                                             V   
+120SN2 G FL=3547.58                                                             
+120SN  G 5963        60      21                                             V   
+120SN2 G FL=3034.75                                                             
+120SN  G 6264        28      21                                             V   
+120SN  G 6634        100     25                                             V   
+120SN  G 6675        60      20                                             V   
+120SN2 G FL=2297                                                                
+120SN  G 6833        33      25                                             V   
+120SN  G 6890        70      21                                             V   
+120SN2 G FL=2097.205                                                            
+120SN  G 7823        33      12                                             V   
+120SN  G 8998        72      14                                             V   
+120SN2 G FL=0.0                                                                 
+120SN  L 9.9E+3    5                                                            
+120SNX L XREF=I                                                                 
+120SN  L 13.3E+3    32+                                                         
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=2                                                    
+120SN  L 16.9E+3   4 0+                                                         
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=0                                                    
+120SN  L 19.2E+3   2 (1-)                                                       
+120SNX L XREF=R                                                                 
+120SN cL J         from E1 excitation in (e,e'p)                                
+120SN  L 19.4E+3   2 (1-)                                                       
+120SNX L XREF=R                                                                 
+120SN cL J         from E1 excitation in (e,e'p)                                
+120SN  L 20.6E+3   2 (1-)                                                       
+120SNX L XREF=R                                                                 
+120SN cL J         from E1 excitation in (e,e'p)                                
+120SN  L 20.9E+3   153-,5-                                                      
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=3,5                                                  
+120SN  L 25.0E+3   10(3-)                                                       
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=(3)                                                  
+120SN  L 27.9E+3   151-,3-                                                      
+120SNX L XREF=I                                                                 
+120SN cL J         L(p,p')=1,3                                                  
+

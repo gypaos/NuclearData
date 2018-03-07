@@ -1,0 +1,1264 @@
+114SN    ADOPTED LEVELS, GAMMAS                                  12NDS    201203
+114SN  H TYP=FUL$AUT=Jean Blachot$CIT=NDS 113, 515 (2012)$CUT=1-Jan-2012$       
+114SN  Q -6062     2210300.4 188480.5  7 -2633.5 11    2012WA38                 
+114SN cQ $Note: Current evaluation has used the following Q record              
+114SN  Q -6063     2210300.5 188480.1  7 -2634.1 12    2011AUZZ                 
+114SN cG M,MR$From |a(K)exp, |g(|q), and |g(pol) in {+112}Cd(|a,2n|g), except   
+114SNacG as noted.                                                              
+114SN cG E$From {+112}Cd(|a,2n|g) if available; otherwise, from                 
+114SNacG {+100}Mo({+18}O,4n|g).                                                 
+114SN cG RI$Weighted average of values from |e decay, (|a,2n|g), (n,n'|g), and  
+114SNacG (HI,xn|g)                                                              
+114SN cL E$From least-squares fit to E|g values.                                
+114SN cL J$Where no J|p argument is given, the assignment is based on           
+114SNacL placement in a band. J|p for levels seen in (|a,2n|g) are based on     
+114SNacL |g(|q), lin pol and side feeding syst                                  
+114SN cL T$From 1991ViZW, Doppler shift in (|a,2n|g), except were noted         
+114SNacL otherwise                                                              
+114SN CL BAND(A)$GS BAND.                                                       
+114SN CL BAND(B)$KPI=0+ intruder band. CONF=((P,G7/2,2)(P,G9/2,-2)(N,H11/2,2)). 
+114SNacL "Amsterdam" band.                                                      
+114SN CL BAND(C)$KPI=5- Band, |a=1. Suggested Configuration=((|p g{-7/2}){+2}   
+114SNacL (|p g{-9/2}){+-2}~#(|n h{-11/2}){+2}(|n g{-9/2}){+-1})                 
+114SN CL BAND(c)$KPI=5- Band, |a=0.                                             
+114SN CL BAND(D)$Negative Parity Band based on 3-                               
+114SN  XA114IN B- DECAY                                                         
+114SN  XB114SB B+ DECAY                                                         
+114SN  XC112CD(3HE,N)                                                           
+114SN  XD112CD(A,2NG)                                                           
+114SN  XE112SN(T,P)                                                             
+114SN  XF114SN(P,P'G)                                                           
+114SN  XG114SN(D,D')                                                            
+114SN  XH114SN(A,A')                                                            
+114SN  XICOULOMB EXCITATION                                                     
+114SN  XJ115SN(D,T)                                                             
+114SN  XK116SN(P,T)                                                             
+114SN  XL(HI,XNG)                                                               
+114SN  XM114SN(N,N'G)                                                           
+114SN  XN100MO(18O,4NG)                                                         
+114SN  XO114CD 2B- DECAY                                                        
+114SN PN                                                                     6  
+114SN  L 0           0+                STABLE                                   
+114SNX L XREF=ABCDEFGHIJKLMNO$FLAG=A                                            
+114SN  L 1299.907  7 2+                0.42 PS   3                              
+114SNX L XREF=ABDEFGIJKLMN$FLAG=A$MOMM1 GE 0 (1980Ha19,2005St24)                
+114SN2 L G=+0.110 25(2011Wa15)                                                  
+114SN cL J$E2 |g to 0+                                                          
+114SN cL T$From 2011Ju01 in Coulomb excitation; Others:T{-1/2}{-1/2}=0.31 ps    
+114SN2cL {i10} (1991ViZW), T{-1/2}{-1/2}=0.39 ps {i8} (2001Ga52), 0.30 ps {i6}  
+114SNxcL (1961An07)                                                             
+114SN  G 1299.900  7 100       E2                                               
+114SNB G BE2W=15 3                                                              
+114SN  L 1953.266  210+                6.5 PS    23                             
+114SNX L XREF=BDEFIKM$FLAG=B                                                    
+114SN cL J$L(p,t)=0                                                             
+114SN cL T$from B(E2) (1981Ba05) in Coulomb excitation                          
+114SN  G 653.36    2 100                                                        
+114SNB G BE2W=22 8                                                              
+114SN  G 1953.2                E0                               0.34      7     
+114SN cG E,TI$from (p,p'|g) (1976Ba32). Authors report                          
+114SNacG Ice(K)/Ice(K)(653|g)=1.00 {i20}. Ice/Ice(K)=1.12                       
+114SN  L 2156.28   3 0+                7.6 PS    GT                             
+114SNX L XREF=DEIKM                                                             
+114SN cL J$L(t,p)=0                                                             
+114SN cL T$from B(E2) (1981Ba05) in Coulomb excitation                          
+114SN  G 856.37    3 100       E2                                               
+114SNB G BE2W LT 4.9                                                            
+114SN  L 2187.602  114+                5.3 PS    4                              
+114SNX L XREF=BDEGKLMN$FLAG=A                                                   
+114SN cL J$L(p,t)=4, E2 |g to 2+. log| {Ift}=5.9 from 3+ {+114}Sb g.s.          
+114SN cL T$from (2001Ga52). Other: 1.4 ps>(1991ViZW)                            
+114SNX L G=+0.09 7 (2011Wa15)                                                   
+114SN  G 887.690   8 100       E2                                               
+114SNB G BE2W=5.9 5                                                             
+114SN  L 2238.953  132+                                                         
+114SNX L XREF=BDKLMN$FLAG=B                                                     
+114SN cL J$|g to 0+ and L(p,t)=2                                                
+114SN  G 285.6     4 0.8     3                                                  
+114SN  G 939.036   1482.4    19M1+E2     -7.1    +12-19                         
+114SN  G 2238.94   2 100     3 E2                                               
+114SN  L 2274.990  113-                0.360 PS  21                             
+114SNX L XREF=BDEKLMN$FLAG=D                                                    
+114SN cL T$From 2011Ju01. Previous: 1.7 ps {I+10-7} (1991ViZW) not adopted      
+114SN cL J$L(p,t)=3                                                             
+114SNX L G=+0.09 7 (2011Wa15)                                                   
+114SN  G 975.076   8 100       E1                                               
+114SNB G BE1W=0.00018 11                                                        
+114SN  L 2421.67   220+                                                         
+114SNX L XREF=JKM                                                               
+114SN cL J$L(p,t)=0                                                             
+114SN  G 1121.4    3 100                                                        
+114SN  L 2454.072  162+                                                         
+114SNX L XREF=BDKM                                                              
+114SN cL J$L(p,t)=2                                                             
+114SN  G 215.8     6 2.3     6                                                  
+114SN  G 1154.160  14100     3 M1+E2     -2.8    +18-95                         
+114SN  G 2454.02   7 27      4                                                  
+114SN  L 2514        3-                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=3.                                                            
+114SN  L 2514.760  223+                                                         
+114SNX L XREF=BDMN                                                              
+114SN cL J$M1+E2 to 4+ and from 4+                                              
+114SN  G 327.15    2 100       M1+E2     +0.02   +2-1                           
+114SN  L 2576      4 2+                                                        ?
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN cL E$not seen in (n,n'|g)                                                 
+114SN  L 2614.461  164+                0.55 PS   10                             
+114SNX L XREF=BDKLMN$FLAG=B                                                     
+114SN cL J$L(p,t)=4                                                             
+114SN cL T$from (2001Ga52). Other: 1.4 ps {I+14-7} (1991ViZW)                   
+114SN  G 339.5       0.30    9 (E1)                                             
+114SNB G BE1W=3.8E-5 14                                                         
+114SN cG E$from 1995Wi15                                                        
+114SN  G 375.3     3 3.2     5 E2                                               
+114SNB G BE2W=1.3E+2 3                                                          
+114SN cG RI$excludes 6.1 {i10} from (HI,xn|g). Inclusion would give 3.7 {i7}    
+114SN  G 426.8     4 2.5     8 M1+E2     -0.24   +6-5                           
+114SNB G BE2W=2.8 17$BM1W=0.011 5                                               
+114SN  G 1314.550  14100     3 E2                                               
+114SNB G BE2W=7.5 14                                                            
+114SN  L 2738.4    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 550.8     5 100                                                        
+114SN  L 2759.7    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1459.8    5 100                                                        
+114SN  L 2765.36   4 4+                0.56 PS   30                             
+114SNX L XREF=BDKLMN                                                            
+114SN cL J$E2 |g from 6+, E2 |g to 2+                                           
+114SN cL T$from (2001Ga52). Other: 1.2 ps {i5} (1991ViZW)                       
+114SN  G 250.5     5 2.7     11M1+E2     -0.1    +1-42                          
+114SNX G FL=2514.760                                                            
+114SNB G BE2W=8 +17-8$BM1W=0.06 5                                               
+114SN  G 490.7     8 3.6     LT(E1)                                             
+114SNB G BE1W=7.E-5 +9-7                                                        
+114SN cG E$from 1995Wi15                                                        
+114SN  G 526       1 5.5     LT(E2)                                            ?
+114SNB G BE2W=20 +23-20                                                         
+114SN cG E$from 2001Ga52                                                        
+114SN  G 1465.44   4 100     4 E2                                               
+114SNB G BE2W=4.2 23                                                            
+114SN  L 2815.146  225-                1.4 PS    GT                             
+114SNX L XREF=DEKLMN$FLAG=D                                                     
+114SN cL J$L(p,t)=5, E1 |g to 4+                                                
+114SN  G 200.84    121.3     3                                                  
+114SN cG RI$from I|g/I|g(540|g+628|g)=0.012 {i3} (1980Va13)                     
+114SN  G 540.15    1310.5    3 E2                                               
+114SNB G BE2W LT 25                                                             
+114SN cG RI$from (|a,2n|g), in agreement with 9.7 {i8} in (n,n'|g). I|g=18.9    
+114SNacG {i16} is reported in (HI,xn|g)                                         
+114SN  G 627.54    2 100     3 E1                                               
+114SNB G BE1W LT 0.00074                                                        
+114SN  L 2859.81   3 4+                                                         
+114SNX L XREF=BDEGKM                                                            
+114SN cL J$L(p,t)=4                                                             
+114SN  G 1559.89   3 100       E2                                               
+114SN  L 2905      5 3-                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=3                                                             
+114SN  L 2905.12   5 3-                                                         
+114SNX L XREF=BDEM                                                              
+114SN cL J$M1+E2 to 4+ and from 4+                                              
+114SN  G 290.8     4 1.06    13                                                 
+114SN  G 390.34    7 25.1    17M1+E2                                            
+114SN cG MR$|d=+2.9 {i11}, +0.49 {I+8-4}                                        
+114SN  G 451.3     8 0.32    13                                                 
+114SN  G 717.45    7 100     6 M1+E2     -0.7    +2-4                           
+114SN  G 1605.4    2 3.34    13                                                 
+114SN  L 2915.73   152+                                                         
+114SNX L XREF=KM                                                                
+114SN cL J$L(p,t)=2                                                             
+114SN  G 1615.9    2 23.1    17M1+E2                                            
+114SN cG MR$+0.08<|d<1.7                                                        
+114SN  G 2915.6    2 100     5 E2                                               
+114SN  L 2943.43   6 2+                                                         
+114SNX L XREF=BDEKM                                                             
+114SN cL J$L(p,t)=2                                                             
+114SN  G 489.5     9 11      5                                                  
+114SN  G 521.4     3 7       3                                                  
+114SN  G 668.42    6 86      8                                                  
+114SN  G 704.2     9 3.7     15                                                 
+114SN  G 990.5     4 5.1     22                                                 
+114SN  G 1643.60   14100     4 M1+E2                                            
+114SN cG MR$|d=-0.61 {i15}, -7 {I+10-3}                                         
+114SN  G 2943.8    4 3.2     3                                                  
+114SN  L 3025        2,3+                                                       
+114SNX L XREF=E(*)M                                                             
+114SN cL J$|g(|q) in (n,n'|g)                                                   
+114SN  L 3025.29   6 0+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=0                                                             
+114SN  G 1725.37   6 100                                                        
+114SN  L 3028.09   102,3+                                                       
+114SNX L XREF=E(*)M                                                             
+114SN cL J$|g(|q) in (n,n'|g)                                                   
+114SN  G 1728.17   10100                                                        
+114SN  L 3071.4    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1771.5    5 100                                                        
+114SN  L 3087.37   7 7-                733 NS    14                             
+114SNX L XREF=DEKMN$FLAG=D$MOME2=0.32 3 (1975Di02,2005St24)                     
+114SN2 L MOMM1=-0.567 4 (2005St24)                                              
+114SN cL T$from 1980Va13 in (|a,2n|g)                                           
+114SN cL J$L(p,t)=(7), |g(|q), |g-pol (1979Br07)                                
+114SN  G 272.3     1 100       E2                                               
+114SNB G BE2W=0.0157 3                                                          
+114SN  L 3100.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 285.0     5 100                                                        
+114SN  L 3107.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 292.0     5 100                                                        
+114SN  L 3149.79   126+                1.1 PS    3                              
+114SNX L XREF=DKM$FLAG=A                                                        
+114SN cL J$L(p,t)=6                                                             
+114SN  G 334.65    13100     3 E1+M2     -0.02   1                              
+114SNB G BE1W=0.0037 11$BM2W=6.E+1 +7-6                                         
+114SN  G 962.3     3 90      3 E2                                               
+114SNB G BE2W=9.0 25                                                            
+114SN  L 3186.13   8 2+                                                         
+114SNX L XREF=KM                                                                
+114SN cL J$L(p,t)=2                                                             
+114SN  G 1886.25   8 100     8                                                  
+114SN cG M$|d=-0.27 {i7} or +7 {I+5-2}                                          
+114SN  G 3185.8    2 51      6                                                  
+114SN  L 3188.92   5 6+                2.14 PS   10                             
+114SNX L XREF=DKLMN$FLAG=B                                                      
+114SN cL J$L(p,t)=6                                                             
+114SN cL T$from (2001Ga52). Other: 2.2 ps {I+6-3} (1991ViZW)                    
+114SN  G 423.5     2 4.1     8 E2                                               
+114SNB G BE2W=19 4                                                              
+114SN cG RI$from (|a,2n|g). I|g=9.1 in (HI,xn|g). Not seen in (n,n'|g)          
+114SN  G 574.44    6 100.0   20E2                                               
+114SNB G BE2W=101 6                                                             
+114SN  G 1001.32   1024.0    14E2                                               
+114SNB G BE2W=1.50 12                                                           
+114SN  L 3190.39   8 8-                0.35 NS   20                             
+114SNX L XREF=DLMN                                                              
+114SN cL T$from a,|g(t) in {+112}Cd(|a,2n|g) (1978BrZU)                         
+114SN cL J$probable M1 |g to 7-, no |g's to 6+ or 5-. M1+E2 from 8-             
+114SN  G 102.98    7 100       M1+E2                                            
+114SNB G BM1W=0.06 4                                                            
+114SN  L 3207.61   17 4+                                                        
+114SNX L XREF=BDKM                                                              
+114SN cL J$L(p,t)=4                                                             
+114SN  G 441.7     6 4.0     6                                                  
+114SN  G 592.9     7 11.0    17                                                 
+114SN  G 932.5     6 20      4                                                  
+114SN  G 1019.9    5 42      3                                                  
+114SN  G 1907.8    2 100     5                                                  
+114SN  L 3211.76   19(1,2)                                                      
+114SNX L XREF=M                                                                 
+114SN cL J$|g's to 0+ and 2+                                                    
+114SN  G 1912.0    6 28      10                                                 
+114SN  G 3211.7    2 100     10                                                 
+114SN  L 3226.00   9 3-                                                         
+114SNX L XREF=BDKM                                                              
+114SN cL J$L(p,t)=3                                                             
+114SN  G 320.4     2 13.4    12                                                 
+114SN cG E$see 1926.2|g                                                         
+114SN  G 771.8     5 2.5     8                                                  
+114SN cG E$the 772|g is not seen in (n,n'|g)                                    
+114SN  G 1926.2    1 100     5                                                  
+114SN cG M$|d=+0.05 {i5} for J=3 or -7.0 {I+27-15} for J=2                      
+114SN cG E,RI$from |e decay. E|g=1925.80 {i8} and I|g(1926|g)/I|g(320|g)=20     
+114SNacG {i7} in (n,n'|g) suggest that the 1926|g may be a multiplet in that    
+114SNacG reaction.                                                              
+114SN  L 3242.05   105-,6+                                                      
+114SNX L XREF=DKM                                                               
+114SN cL J$doublet with mixture of 95% L=6, 5% L=5                              
+114SN  G 1054.44   10100       (E1)                                             
+114SN  L 3244.39   7 6-                1.4 PS    GT                             
+114SNX L XREF=DEM                                                               
+114SN cL J$M1+E2 |g to 5- in (|a,2n|g)                                          
+114SN  G 157.1     1 5.09    15                                                 
+114SN  G 429.19    8 100.0   7 M1+E2     +0.161  +4-3                           
+114SNB G BE2W LT 21$BM1W LT 0.18                                                
+114SN  L 3297.3    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1109.7    5 100                                                        
+114SN  L 3308.4    6 0+                                                         
+114SNX L XREF=KM                                                                
+114SN cL J$L(p,t)=0                                                             
+114SN  G 2008.5    6 100                                                        
+114SN  L 3326        2+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN  L 3326.50   16(1)                                                        
+114SNX L XREF=M                                                                 
+114SN cL J$d to g.s.                                                            
+114SN  G 1373.2    3 76      10                                                 
+114SN  G 2026.6    2 100     10                                                 
+114SN  G 3326.3    6 71      14D                                                
+114SN  L 3357.42   184+                                                         
+114SNX L XREF=BDEKM                                                             
+114SN cL J$L(p,t)=4, 1995Wi15 gives (2)+?                                       
+114SN  G 2057.5    2 100                                                        
+114SN  L 3363.00   10   6-             1.1 PS    +7-3                           
+114SNX L XREF=DEL                                                               
+114SN cL J$L(p,t)=5                                                             
+114SN  G 547.9     2 100       M1+E2     -0.08   2                              
+114SNB G BE2W=2.0 17$BM1W=0.12 8                                                
+114SN  L 3364.8    5    5-                                                      
+114SNX L XREF=DK                                                                
+114SN cL J$L(p,t)=5                                                             
+114SN  G 549.7     5 100                                                        
+114SN  L 3380.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 292.7     5 100                                                        
+114SN  L 3392.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 203.2     5 100                                                        
+114SN  L 3393.0    7                                                            
+114SNX L XREF=D                                                                 
+114SN  G 654.6     5 100                                                        
+114SN  L 3396.1    6   6+                                                       
+114SNX L XREF=KD                                                                
+114SN cL J$L(p,t)=6                                                             
+114SN  G 246.3     5 100                                                        
+114SN  L 3396.9    5 (4-)                                                       
+114SNX L XREF=D                                                                 
+114SN cL J$M1+E2 |g to 3- and |g(|q) in (|a,2n|g)                               
+114SN  G 1121.9    5 100       (M1+E2)   -0.4    +2-7                           
+114SN  L 3422.7    9 0+                                                         
+114SNX L XREF=KM                                                                
+114SN cL J$L(p,t)=0                                                             
+114SN  G 2122.8    9 100                                                        
+114SN  L 3448.37   10 4+                                                        
+114SNX L XREF=KM                                                                
+114SN cL J$L(p,t)=4                                                             
+114SN  G 1209.41   10100     32                                                 
+114SN  G 2148.5    6 26      13                                                 
+114SN  L 3451.8    3   0+                                                       
+114SNX L XREF=KM                                                                
+114SN cL J$L(p,t)=0                                                             
+114SN  G 3451.7    3 100                                                        
+114SN  L 3471.4    3 6+                0.5 PS    +3-18                          
+114SNX L XREF=DKM                                                               
+114SN cL J$L(p,t)=6                                                             
+114SN  G 1283.8    3 100       E2                                               
+114SNB G BE2W=10 6                                                              
+114SN  L 3478.85   13 2+                                                        
+114SNX L XREF=BDKM                                                              
+114SN cL J$L(p,t)=2                                                             
+114SN  G 573.9     5 41      5                                                  
+114SNX G FL=2905.12                                                             
+114SN  G 619.3     3 30      3                                                  
+114SN  G 963.4     3 62      7                                                  
+114SN  G 1203.3    7 57      19                                                 
+114SN  G 1239.9    5 67      14                                                 
+114SN  G 1526.1    6 9       3                                                  
+114SN  G 2179.2    2 100     14                                                 
+114SN  G 3477.7    6 9.5     14                                                 
+114SN  L 3486      3  5-                                                        
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=5                                                             
+114SN  L 3510.70   109-                7.2 PS    39                             
+114SNX L XREF=CDKLN$FLAG=D                                                      
+114SN cL J$M1,E2 |g to 7-, L(p,t)=9                                             
+114SN cL T$from (2001Ga52). Other: 2 ps>(1991ViZW)                              
+114SN  G 320.25    9 100       M1+E2     +0.134  1                              
+114SNX G FL=3190.39                                                             
+114SNB G BE2W=13 7$BM1W=0.09 5                                                  
+114SN  L 3514.19   103-,9-                                                      
+114SNX L XREF=KM                                                                
+114SN cL J$doublet with mixture of 95% L=9, 5% L=3                              
+114SN  G 2214.26   10100       M1+E2                                            
+114SN cG M$|d=-0.02 {i5} for J=3 or -4.3 {i10} for J=2                          
+114SN  L 3525.36   163-                                                         
+114SNX L XREF=BDK                                                               
+114SN cL J$L(p,t)=3                                                             
+114SNacL {+146}Gd                                                               
+114SN  G 1010.5    7 12      4                                                  
+114SNX G FL=2514.760                                                            
+114SN  G 1072.5    3 100     5                                                  
+114SNX G FL=2454.072                                                            
+114SN  G 1250.5    5 30      5                                                  
+114SN cG E$E|g=1249.7 {i3} with Mult.=M1+E2, |d=-1.9 {I+8-31} is reported in    
+114SNacG (|a,2n|g); however, the much stronger 1072|g is not reported. The      
+114SNacG 1249.7|g in (|a,2n|g) may thus correspond to a different transition    
+114SNacG from that seen in |e decay                                             
+114SN  G 1337.2    2 14.4    7                                                  
+114SN  L 3549      3 0+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=0                                                             
+114SN  L 3561.1    3 2+                                                         
+114SNX L XREF=KM                                                                
+114SN cL J$doublet with mixture of 93% L=7, 7% L=2,see 3566.47 level            
+114SN  G 1404.8    3 46      14E2                                               
+114SN  G 3561.4    7 100     14                                                 
+114SN  L 3566.47   8 7-                                                         
+114SNX L XREF=DEK                                                               
+114SN cL J$E2 |g to 5-, M1+E2 |g to (8-), |g(|q) in (|a,2n|g), and part         
+114SNacL of the doublet in (p,t)                                                
+114SN  G 203.5     1 7.5     6                                                  
+114SN  G 322.1     1                                                            
+114SN  G 376.2     2 100     3 M1+E2     +0.05   2                              
+114SN  G 751.4     2 46.8    14E2                                               
+114SN  L 3587      3 4+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=4                                                             
+114SN  L 3610.71   205(-)                                                       
+114SNX L XREF=D                                                                 
+114SN  G 1423.1    2 100                                                        
+114SN  L 3654      3 4+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=4                                                             
+114SN  L 3658.7    10                  0.8 PS    +5-3                           
+114SNX L XREF=D                                                                 
+114SN  G 1471.1      100                                                        
+114SN  L 3680      3 4+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=4                                                             
+114SN  L 3685.15   216-                                                         
+114SNX L XREF=D                                                                 
+114SN  G 870.0     2 100       M1+E2     -0.13   +4-5                           
+114SN  L 3696      3  2+                                                        
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN  L 3717.83   127-                1.0 PS    +7-4                           
+114SNX L XREF=D                                                                 
+114SN  G 354.8     2 26.1    11M1+E2     -0.06   +4-6                           
+114SNB G BE2W=1.4 +22-4$BM1W=0.06 5                                             
+114SN  G 473.5                                                                  
+114SN  G 527.4     2 100.0   23M1+E2     -0.05   2                              
+114SNB G BE2W=0.5 5$BM1W=0.08 6                                                 
+114SN  G 630.5                                                                  
+114SN  G 902.7     2 72.7    23E2                                               
+114SNB G BE2W=11 8                                                              
+114SN  L 3720.4    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1445.4    5 100                                                        
+114SN  L 3727      3 2+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN  L 3740.03   20  0+                                                       
+114SNX L XREF=KM                                                                
+114SN cL J$L(p,t)=0                                                             
+114SN  G 2440.1    2 100                                                        
+114SN  L 3765      3 0+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=0                                                             
+114SN  L 3781.98   8 2+                                                         
+114SNX L XREF=BK                                                                
+114SN cL J$log| {Ift}=5.75 via 3+ {+114}Sb g.s., |g to 0+. L(p,t)=2             
+114SN  G 921.9     4 19      5                                                  
+114SN  G 1327.6    2 11.8    10                                                 
+114SN  G 1507.1    2 34      3                                                  
+114SN  G 1594.3    1 100     5                                                  
+114SN  G 1829.7    5 5.5     10                                                 
+114SN  G 2482.4    2 31      3                                                  
+114SN  G 3781.0      0.3                                                        
+114SN  L 3786      3 4+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=4                                                             
+114SN  L 3800      3 2+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN  L 3854.3    7                                                            
+114SNX L XREF=D                                                                 
+114SN  G 557.0     5 100                                                        
+114SN  L 3855.6    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 244.9     5 100                                                        
+114SN  L 3871      3 5-                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=5                                                             
+114SN  L 3871.28   9 8+                1.01 PS   8                              
+114SNX L XREF=DLN$FLAG=B                                                        
+114SN cL J$E2 |g to 6+, |g(|q), |a(K), |g-pol (1979Br07)                        
+114SN cL T$from (2001Ga52). Other: 1.0 ps (1991ViZW)                            
+114SN  G 682.33    8 100       E2                                               
+114SNB G BE2W=115 10                                                            
+114SN  L 3876      3 2+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN  L 3889.3    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 739.5     5 100                                                        
+114SN  L 3939      6 3-                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=3                                                             
+114SN  L 3971      3 2+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN  L 3971.21   128-                                                         
+114SNX L XREF=DLN                                                               
+114SN cL J$M1+E2 |g to 7- and 9-                                                
+114SN  G 404.9     2 14.6    7 M1+E2     -0.13   +6-8                           
+114SN  G 460.3     2 14.6    7 M1+E2     -0.11   3                              
+114SN  G 780.8     2 29.7    13M1                                               
+114SN  G 883.9     2 100     3 M1+E2     0.45    +6-5                           
+114SN  L 3987.6    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 743.2     5 100                                                        
+114SN  L 3988      3  3-                                                        
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=3                                                             
+114SN  L 3991.39   122+,3+,4+                                                   
+114SNX L XREF=B                                                                 
+114SN cL J$log| {Ift}=5.4 from 3+ parent                                        
+114SN  G 634.0     4 7.8     16                                                 
+114SN  G 1131.7    2 100     6                                                  
+114SN  G 1377.0    7 56      3                                                  
+114SN  G 1476.8    3 11.2    13                                                 
+114SN  G 1715.9    2 34.4    22                                                 
+114SN  G 1804.4    3 88      10                                                 
+114SN  L 4000      3  4+                                                        
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=4                                                             
+114SN  L 4029.83   9 2+,3+,4+                                                   
+114SNX L XREF=BK                                                                
+114SN cL J$log| {Ift}=5.4 from 3+ parent                                        
+114SN  G 1169.7    2 76      6                                                  
+114SN  G 1264.7    5 43      8                                                  
+114SN  G 1415.2    4 7.8     8                                                  
+114SN  G 1515.0    2 57      6                                                  
+114SNX G FL=2514.760                                                            
+114SN  G 1576.1    6 7.8     22                                                 
+114SN  G 1754.6    2 29.7    19                                                 
+114SN  G 1842.5    2 100     6                                                  
+114SN  G 2730.5    3 43      6                                                  
+114SN  L 4043.15   215-                                                         
+114SNX L XREF=KD                                                                
+114SN cL J$L(p,t)=5                                                             
+114SN  G 1228.0    2 100       M1+E2     +0.6    2                              
+114SN  L 4046.82   155-                                                         
+114SNX L XREF=LN$FLAG=C                                                         
+114SN cL J$this level is the bandhead of the rotational bands with J|p=5-       
+114SN  G 1859.3    2 100                                                        
+114SN  L 4057      3  6+                                                        
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=6                                                             
+114SN  L 4088.74   168+                                                         
+114SNX L XREF=DK$FLAG=A                                                         
+114SN cL J$E1 |g to 9- and (7)-, and |g(|q) in (|a,2n|g)                        
+114SN  G 522.3     3 10.3    12E1                                               
+114SN  G 577.9     3 100.0   23E1                                               
+114SN  G 939.0     2                                                            
+114SN  G 1001                                                                   
+114SN  L 4095      3  2+                                                        
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=2                                                             
+114SN  L 4118      3 4+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=4                                                             
+114SN  L 4136      3 4+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=4                                                             
+114SN  L 4139.69   1310+               218 PS    24                             
+114SNX L XREF=DLN                                                               
+114SN cL J$E1 |g to 9- and |g(|q) in (|a,2n|g)                                  
+114SN cL T$from (2001Ga52). Other: 0.7 ps>(1991ViZW)                            
+114SN  G 629.0     1 100       E1                                               
+114SNB G BE1W=5.3E-6 6                                                          
+114SN  L 4141.50   168-                                                         
+114SNX L XREF=DLN                                                               
+114SN  G 778.5     2 42      5 E2                                               
+114SN  G 951.1     2 100     5 M1+E2     +0.6    +7-9                           
+114SN  G 1054.2                                                                 
+114SN  L 4152.5    10                                                           
+114SNX L XREF=D                                                                 
+114SN  G 1538.0                                                                 
+114SN  L 4160      30                                                           
+114SNX L XREF=K                                                                 
+114SN  L 4177      6                                                            
+114SNX L XREF=K                                                                 
+114SN  L 4220.89   176-                                                         
+114SNX L XREF=DLN$FLAG=c                                                        
+114SN  G 174.1     2 100                                                        
+114SN  G 610.3                                                                  
+114SNX G FL=3610.71                                                             
+114SN  G 976.5                                                                  
+114SN  G 1405.8                                                                 
+114SN  L 4262.0    5                                                            
+114SNX L XREF=DK                                                                
+114SN  G 899.0     5 100                                                        
+114SNX G FL=3363.00                                                             
+114SN  L 4293.8    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1049.4    5 100                                                        
+114SN  L 4313.00   237+                                                         
+114SNX L XREF=DK                                                                
+114SN  G 1163.2    2 100       M1+E2     +0.5    +5-2                           
+114SN  L 4322.0    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 959.0     5                                                            
+114SN  G 1077.6                                                                 
+114SN  L 4338.3    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1093.9    5 100                                                        
+114SN  L 4353      6                                                            
+114SNX L XREF=K                                                                 
+114SN  L 4394.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1031.1    5 100                                                        
+114SN  L 4403.0    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1214.1    5 100                                                        
+114SN  L 4406.4    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 895.7     5 100                                                        
+114SN  L 4413      6 0+                                                         
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=0                                                             
+114SN  L 4428.6    9                                                            
+114SNX L XREF=D                                                                 
+114SN  G 557.3     5 100                                                        
+114SNX G FL=3871.28                                                             
+114SN  L 4430.36   127-                                                         
+114SNX L XREF=DLN$FLAG=C                                                        
+114SN  G 209.5     2 35      4                                                  
+114SN  G 383.6     2 30      4 E2                                               
+114SN  G 1067.3    2 57      9                                                  
+114SN  G 1241.4    2 100     9                                                  
+114SN  G 1615.4                                                                 
+114SN  L 4434.5    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 923.8     5 100                                                        
+114SN  L 4449.5    6                                                            
+114SNX L XREF=DK                                                                
+114SN  G 1207.4    5 100                                                        
+114SNX G FL=3242.05                                                             
+114SN  L 4472      6                                                            
+114SNX L XREF=K                                                                 
+114SN  L 4481.5    9                                                            
+114SNX L XREF=D                                                                 
+114SN  G 610.2     5 100                                                        
+114SNX G FL=3871.28                                                             
+114SN  L 4488.5    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 175.5     5 100                                                        
+114SN  L 4492.0    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1676.8    5 100                                                        
+114SN  L 4515.0    5                                                            
+114SNX L XREF=DK                                                                
+114SN  G 1270.6    5 100                                                        
+114SN  L 4526.9    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1338.0    5 100                                                        
+114SN  L 4553.3    4 8+                                                         
+114SNX L XREF=D                                                                 
+114SN cL J$E2 |g to 6+ and |g(|q) in (|a,2n|g)                                  
+114SN  G 1403.5    3 100       E2                                               
+114SN  L 4568.3    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 597.1     5 100                                                        
+114SNX G FL=3971.21                                                             
+114SN  L 4576      6                                                            
+114SNX L XREF=K                                                                 
+114SN  L 4583.7    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1339.3    5 100                                                        
+114SN  L 4593.5    5                                                            
+114SNX L XREF=DK                                                                
+114SN  G 1404.6    5 100                                                        
+114SN  L 4613.0    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1424.1    5 100                                                        
+114SN  L 4624.1    4 7-                                                         
+114SNX L XREF=D                                                                 
+114SN  G 1152.7    2 100       E1                                               
+114SN  L 4650.5    11                                                           
+114SNX L XREF=K                                                                 
+114SN  L 4664.88   229-                                                         
+114SNX L XREF=D                                                                 
+114SN  G 1098.4    2 100       E2                                               
+114SN  L 4669.44   138-                                                         
+114SNX L XREF=DLN$FLAG=c                                                        
+114SN  G 239.1     2 40      8 M1+E2     -0.6    +4-27                          
+114SNX G FL=4430.36                                                             
+114SN  G 448.6                                                                  
+114SNX G FL=4220.89                                                             
+114SN  G 1158.6                                                                 
+114SN  G 1425.1                                                                 
+114SN  G 1479.0                                                                 
+114SN  G 1582.1    2 100     8 M1+E2     +0.7    +96-3                          
+114SN  L 4671.2    3 10-                                                        
+114SNX L XREF=D                                                                 
+114SN cL J$E2 |g to 8- and |g(|q) in (|a,2n|g)                                  
+114SN  G 1160.4                                                                 
+114SN  G 1480.8    3 100       E2                                               
+114SN  L 4672.77   1110+               0.69 PS   9                              
+114SNX L XREF=DLN$FLAG=B                                                        
+114SN cL J$E2 |g to 8+, |g(|q), |a(K), |g-pol (1979Br07)                        
+114SN cL T$from (2001Ga52). Other: 0.60 ps {i18} (1991ViZW)                     
+114SN  G 801.48    9 100       E2                                               
+114SNX G FL=3871.28                                                             
+114SNB G BE2W=76 10                                                             
+114SN  L 4678.7    7                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1940.3    5 100                                                        
+114SN  L 4682.1    11(6+)                                                       
+114SNX L XREF=D                                                                 
+114SN  G 1023.4    2 100       M1+E2     +0.6    3                              
+114SN  L 4683.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1494.2    5 100                                                        
+114SN  L 4717.7    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1207.0    5 100                                                        
+114SN  L 4732.2    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1487.8    5 100                                                        
+114SN  L 4736.38   1610-                                                        
+114SNX L XREF=DK                                                                
+114SN  G 1225.6    2 25.6    12M1+E2     +3.9    +21-34                         
+114SN  G 1546.0    2 100.0   12E2                                               
+114SN  L 4766.2    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1199.7    5 100                                                        
+114SN  L 4766.4    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1255.7    5 100                                                        
+114SN  L 4787.6    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1424.6    5 100                                                        
+114SN  L 4788.3    12                                                           
+114SNX L XREF=D                                                                 
+114SN  G 1129.6    5 100                                                        
+114SNX G FL=3658.7                                                              
+114SN  L 4797      6                                                            
+114SNX L XREF=K                                                                 
+114SN  L 4805.8    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 492.8     5 100                                                        
+114SN  L 4831      10                                                           
+114SNX L XREF=K                                                                 
+114SN  L 4858.7    8                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1347.8                                                                 
+114SN  G 1387.4                                                                 
+114SN  L 4909      10                                                           
+114SNX L XREF=K                                                                 
+114SN  L 4916.41   2310-                                                        
+114SNX L XREF=D                                                                 
+114SN  G 1405.7    2 100.0     M1+E2     +0.8    +46-2                          
+114SN  L 4919.30   129-                                                         
+114SNX L XREF=DLN                                                               
+114SN cL J$|g to 7- and from (11-)                                              
+114SN  G 1047.9    2                                                            
+114SNX G FL=3871.28                                                             
+114SN  G 1353.0    2 35      4                                                  
+114SN  G 1408.4                                                                 
+114SN  G 1729.0                                                                 
+114SN  G 1832.0    2 100     9 E2                                               
+114SN  L 4923.70   139-                                                         
+114SNX L XREF=DLN$FLAG=C                                                        
+114SN  G 254.3     2 25.0    25M1+E2     -0.03   +8-19                          
+114SNX G FL=4669.44                                                             
+114SN  G 493.5                                                                  
+114SNX G FL=4430.36                                                             
+114SN  G 952.5                                                                  
+114SNX G FL=3971.21                                                             
+114SN  G 1052.4                                                                 
+114SNX G FL=3871.28                                                             
+114SN  G 1205.8    2 87      5 E2                                               
+114SN  G 1413.0    2 100     5 M1+E2     -0.77   +11-7                          
+114SN  G 1733.3                                                                 
+114SN  G 1836.4                                                                 
+114SN  L 4924.3    9                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1053.0    5 100                                                        
+114SNX G FL=3871.28                                                             
+114SN  L 4926.9    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1738.0    5 100                                                        
+114SN  L 4932.3    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 792.6     5 100                                                        
+114SNX G FL=4139.69                                                             
+114SN  L 4963.58   2011-               0.30 PS   11                             
+114SNX L XREF=DKLN$FLAG=D                                                       
+114SN  G 1452.7    3 100.0     E2                                               
+114SNB G BE2W=9 4                                                               
+114SN  L 4964.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1601.1    5 100                                                        
+114SN  L 5014.2    6                                                            
+114SNX L XREF=DK                                                                
+114SN  G 1296.4    5 100                                                        
+114SN  L 5039.2    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1676.2    5 100                                                        
+114SN  L 5054.9    8 9-                                                         
+114SNX L XREF=D                                                                 
+114SN  G 1183.6    2 100       E1                                               
+114SNX G FL=3871.28                                                             
+114SN  L 5065.4    6                                                            
+114SNX L XREF=DK                                                                
+114SN  G 512.1     5 100                                                        
+114SN  L 5094.82   22(10-)                                                      
+114SNX L XREF=D                                                                 
+114SN  G 1584.1    2 100     4 M1+E2     +1.8    +31-11                         
+114SN  G 1730.2                                                                 
+114SN  L 5102.9    11                                                           
+114SNX L XREF=D                                                                 
+114SN  G 674.3     5 100                                                        
+114SN  L 5119.6    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1608.9    5 100                                                        
+114SN  L 5124.2    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1613.5    5 100                                                        
+114SN  L 5181.72   1912+               0.49 PS   +21-14                         
+114SNX L XREF=DLN                                                               
+114SN cL J$tentative, poor |g(|q) and |g-pol (1978BrZU)                         
+114SN  G 1042.1    2 100       E2                                               
+114SNB G BE2W=29 13                                                             
+114SN  L 5182.15   23                                                           
+114SNX L XREF=D                                                                 
+114SN  G 1671.7    5 100                                                        
+114SN  L 5191.4    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1051.7    5 100                                                        
+114SNX G FL=4139.69                                                             
+114SN  L 5213.5    4 10+                                                        
+114SNX L XREF=D                                                                 
+114SN cL J$E1 |g to 9- and |g(|q) in (|a,2n|g)                                  
+114SN  G 1702.8    3 100       (E1)                                             
+114SN  L 5214.3    4 (10)+                                                      
+114SNX L XREF=D$FLAG=A                                                          
+114SN  G 1125.6    3 100     4                                                  
+114SN  G 1343.1                                                                 
+114SNX G FL=3871.28                                                             
+114SN  L 5221.6    3 (11)-                                                      
+114SNX L XREF=D                                                                 
+114SN  G 1710.9    3 100.0     E2                                               
+114SN  L 5221.72   23                                                           
+114SNX L XREF=L                                                                 
+114SN  G 1711.0    2 100                                                        
+114SN  L 5226.6    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 263.0     5 100                                                        
+114SNX G FL=4963.58                                                             
+114SN  L 5233.60   1510-               2.2 PS    6                              
+114SNX L XREF=DLN$FLAG=c                                                        
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 309.9     3 24      3                                                  
+114SNX G FL=4923.70                                                             
+114SN  G 314.4     3 24      3 M1+E2     -0.12   +8-16                          
+114SNX G FL=4919.30                                                             
+114SNB G BE2W=3 +4-3$BM1W=0.023 8                                               
+114SN  G 564.2     3 100     5                                                  
+114SNX G FL=4669.44                                                             
+114SN  G 1092.0    2 45      3 (E2)                                             
+114SNB G BE2W=0.70 20                                                           
+114SN  G 1262.4    2 89      12(E2)                                             
+114SNB G BE2W=0.67 21                                                           
+114SNX G FL=3971.21                                                             
+114SN  G 1722.8    2 44      11M1                                               
+114SNB G BM1W=0.00026 10                                                        
+114SN  L 5254.9    4 (8,10)+                                                    
+114SNX L XREF=DK                                                                
+114SN  G 1744.2    3 100       (E1)                                             
+114SN  L 5280.4    9                                                            
+114SNX L XREF=D                                                                 
+114SN  G 629.9     5 100                                                        
+114SN  G 1409.1    5 100                                                        
+114SNX G FL=3871.28                                                             
+114SN  L 5299.32   2111+               0.25 PS   11                             
+114SNX L XREF=D                                                                 
+114SN cL J$M1+E2 |g to 10+ and |g(|q) in (|a,2n|g)                              
+114SN  G 1159.6    2 100       M1+E2     +3.8    +12-17                         
+114SNB G BE2W=31 14$BM1W=0.004 3                                                
+114SN  L 5310.72   23(8,10+)                                                    
+114SNX L XREF=D                                                                 
+114SN  G 1800.0    2 100       E1                                               
+114SN  L 5348.9    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1207.4    5 100                                                        
+114SNX G FL=4141.50                                                             
+114SN  L 5357.22   23(8,10)+                                                    
+114SNX L XREF=D                                                                 
+114SN  G 1846.5    2 100       (E1)                                             
+114SN  L 5372.3    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1401.1    5 100                                                        
+114SNX G FL=3971.21                                                             
+114SN  L 5419.5    8                                                            
+114SNX L XREF=D                                                                 
+114SN  G 2023.4    5 100                                                        
+114SNX G FL=3396.1                                                              
+114SN  L 5445.3    8                                                            
+114SNX L XREF=D                                                                 
+114SN  G 892.0                                                                  
+114SN  G 1132.3                                                                 
+114SN  L 5468.23   21(12-)                                                      
+114SNX L XREF=D                                                                 
+114SN  G 246.5                                                                  
+114SNX G FL=5221.6                                                              
+114SN  G 504.7     2 100     7                                                  
+114SNX G FL=4963.58                                                             
+114SN  G 731.8     2 83.3    24(E2)                                             
+114SN  L 5488.12   23(9,11-)                                                    
+114SNX L XREF=D                                                                 
+114SN  G 1977.4    2 100                                                        
+114SN  L 5500.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1989.4    5 100                                                        
+114SN  L 5535.3    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 2024.6    5 100                                                        
+114SN  L 5538.7    5 (9,11)+                                                    
+114SNX L XREF=D                                                                 
+114SN cL J$E1 |g to 10-                                                         
+114SN  G 867.5     3 100       E1                                               
+114SN  L 5548.24   1412+               0.42 PS   9                              
+114SNX L XREF=DLN$FLAG=B                                                        
+114SN cL J$E2 |g to 10+, |g(|q), |a(K), |g-pol (1979Br07)                       
+114SN cL T$from (2001Ga52). Other: 0.67 ps {i18} (1991ViZW)                     
+114SN  G 875.45    10100       E2                                               
+114SNX G FL=4672.77                                                             
+114SNB G BE2W=80 18                                                             
+114SN  L 5554.09   1311-               1.2 PS    4                              
+114SNX L XREF=DLN$FLAG=C                                                        
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 320.5     2 18      12M1+E2                                            
+114SN  G 630.4     2 100       E2                                               
+114SNX G FL=4923.70                                                             
+114SNB G BE2W=57 20                                                             
+114SN  G 634.9     2 60      20E2                                               
+114SNX G FL=4919.30                                                             
+114SNB G BE2W=33 16                                                             
+114SN  G 881.3     2 74      5 E1                                               
+114SNB G BE1W=0.00010 4                                                         
+114SN  L 5586.6    7                                                            
+114SNX L XREF=D                                                                 
+114SN  G 659.7     5 100                                                        
+114SN  L 5596.9    11                                                           
+114SNX L XREF=D                                                                 
+114SN  G 1168.3    5 100                                                        
+114SN  L 5599.4    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 928.2     5 100                                                        
+114SN  L 5627.92   23(8,10+)                                                    
+114SNX L XREF=D                                                                 
+114SN  G 2117.2    2 100       E1                                               
+114SN  L 5699.87   23(9,11-)                                                    
+114SNX L XREF=D                                                                 
+114SN  G 1027.1    2 100       E1                                               
+114SN  L 5707.2    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 2196.5    5 100                                                        
+114SN  L 5735.17   23(9,11-)                                                    
+114SNX L XREF=D                                                                 
+114SN  G 1062.4    2 100       E1                                               
+114SN  L 5776.26   1712+                                                        
+114SNX L XREF=DL                                                                
+114SN cL J$E2 |g to 10+                                                         
+114SN  G 1103.5    2 100     6 E2                                               
+114SN  G 1636.5    3 71      6 E2                                               
+114SN  L 5776.7    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 228.5     5 100                                                        
+114SN  L 5801.1    8                                                            
+114SNX L XREF=D                                                                 
+114SN  G 574.6                                                                  
+114SN  G 1129.9                                                                 
+114SN  L 5834.93   23(8,10)-                                                    
+114SNX L XREF=D                                                                 
+114SN  G 2324.2    2 100                                                        
+114SN  L 5857.2    8                                                            
+114SNX L XREF=D                                                                 
+114SN  G 309.0                                                                  
+114SN  G 1184.3                                                                 
+114SN  L 5886.5    6                                                            
+114SNX L XREF=DL                                                                
+114SN  G 1746.8     5 100                                                       
+114SNX G FL=4139.69                                                             
+114SN  L 5892.0    12                                                           
+114SNX L XREF=D                                                                 
+114SN  G 789.1     5 100                                                        
+114SN  L 5920.96   1813+               1.4 PS    +14-7                          
+114SNX L XREF=DLN                                                               
+114SN cL J$M1+E2 |g to (12+)                                                    
+114SN  G 144.7     2 9       1                                                  
+114SNX G FL=5776.26                                                             
+114SN  G 621.6     3 18      2 E2                                               
+114SNB G BE2W=19 19                                                             
+114SN  G 739.3     2 100     3 M1+E2     +1.4    1                              
+114SNX G FL=5181.72                                                             
+114SNB G BE2W=3.E+1 3$BM1W=0.010 10                                             
+114SN  L 5921.97   1712-               1.05 PS   20                             
+114SNX L XREF=DLN$FLAG=c                                                        
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 367.9     2 26      4 M1+E2     -0.4    +2-6                           
+114SNB G BE2W=7.E+1 7$BM1W=0.075 22                                             
+114SN  G 688.4     2 100     7 E2                                               
+114SNB G BE2W=84 18                                                             
+114SN  L 5956.2    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1283.4    5 100                                                        
+114SN  L 5974.21   24(12)+                                                      
+114SNX L XREF=D                                                                 
+114SN  G 1834.5    2 100       (E2)                                             
+114SN  L 5977.1    11                                                           
+114SNX L XREF=D                                                                 
+114SN  G 696.7     5 100                                                        
+114SN  L 6001.1    5                                                            
+114SNX L XREF=D                                                                 
+114SN  G 2490.4    5 100                                                        
+114SN  L 6045.53   2014+               13.78 PS  8                              
+114SNX L XREF=DLN                                                               
+114SN cL T$from (2001Ga52). Other: 0.5 ps {I+4-2} (1991ViZW)                    
+114SN  G 124.7     2 11      2 (M1+E2)                                          
+114SNX G FL=5920.96                                                             
+114SN  G 863.8     2 100     3 E2                                               
+114SNX G FL=5181.72                                                             
+114SNB G BE2W=2.34 11                                                           
+114SN  L 6067.8    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1104.2    5 100                                                        
+114SNX G FL=4963.58                                                             
+114SN  L 6131.7    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 949.5     5 100                                                        
+114SNX G FL=5182.15                                                             
+114SN  L 6132.3    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1168.7    5 100                                                        
+114SNX G FL=4963.58                                                             
+114SN  L 6135.1    3                                                            
+114SNX L XREF=L                                                                 
+114SN  G 952.9     2 100                                                        
+114SNX G FL=5181.72                                                             
+114SN  L 6164.5    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 982.3     5 100                                                        
+114SNX G FL=5182.15                                                             
+114SN  L 6173.9    8                                                            
+114SNX L XREF=D                                                                 
+114SN  G 705.6                                                                  
+114SN  G 1210.3                                                                 
+114SNX G FL=4963.58                                                             
+114SN  L 6174.9    8                                                            
+114SNX L XREF=D                                                                 
+114SN  G 875.4                                                                  
+114SN  G 992.9                                                                  
+114SNX G FL=5182.15                                                             
+114SN  L 6225.6    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1489.2    5 100                                                        
+114SN  L 6266.23   2314+                                                        
+114SNX L XREF=DN                                                                
+114SN  G 345.2     2 100     3 M1+E2     +0.21   +3-2                           
+114SN  G 1084.3    3 100     6 E2                                               
+114SNX G FL=5182.15                                                             
+114SN cG MR$|d(M3/E2)=-0.16 {I+17-7}                                            
+114SN  L 6279.01   1813-               1.00 PS   24                             
+114SNX L XREF=DN$FLAG=C                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 357.1     2 24      3 M1+E2     -2.5    +24-14                         
+114SNB G BE2W=5.0E+2 19$BM1W=0.013 +22-13                                       
+114SN  G 725.0     2 100     6 E2                                               
+114SNB G BE2W=69 18                                                             
+114SN  G 730.8                                                                  
+114SN  G 1315.6                                                                 
+114SNX G FL=4963.58                                                             
+114SN  L 6341.62   2014+               0.34 PS   8                              
+114SNX L XREF=DLN$FLAG=B                                                        
+114SN cL J$stretched E2 |g to 12+                                               
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 793.3     2 84      3 E2                                               
+114SNB G BE2W=74 18                                                             
+114SN  G 1159.4    2 100     7                                                  
+114SNX G FL=5182.15                                                             
+114SN  L 6460.44   24(13)-                                                      
+114SNX L XREF=DL$FLAG=D                                                         
+114SN  G 1496.7    2 100       E2                                               
+114SNX G FL=4963.58                                                             
+114SN  L 6496.4    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 948.1     5 100                                                        
+114SN  L 6497.3    3 (14)+                                                      
+114SNX L XREF=DL                                                                
+114SN  G 451.8     2 100       M1+E2     -0.3    +4-2                           
+114SN  L 6520.5    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1556.9    5 100                                                        
+114SNX G FL=4963.58                                                             
+114SN  L 6551.0    3                                                            
+114SNX L XREF=L                                                                 
+114SN  G 1369.4    2 100                                                        
+114SNX G FL=5181.72                                                             
+114SN  L 6551.1    3 15+               3.62 PS   35                             
+114SNX L XREF=DLN                                                               
+114SN cL J$M1+E2 |g to 14+ in (|a,2n|g) and sys with mirror nuclide {+146}Gd    
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 284.9     2 10.9    16(M1+E2)                                          
+114SN  G 505.5     3 100     4 M1+E2     +0.07   2                              
+114SNB G BE2W=0.6 4$BM1W=0.042 5                                                
+114SN  L 6552.3    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1004.1    5 100                                                        
+114SN  L 6610.6    7                                                            
+114SNX L XREF=D                                                                 
+114SN  G 1071.9    5 100                                                        
+114SN  L 6690.64   25(13)-                                                      
+114SNX L XREF=DLN                                                               
+114SN  G 1142.4    2 100       E1                                               
+114SN  L 6698.3    6                                                            
+114SNX L XREF=DLN                                                               
+114SN  G 1150.1    5 100                                                        
+114SN  L 6715.9    8 14-               0.57 PS   33                             
+114SNX L XREF=DN$FLAG=c                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 436.9     2 8.5     2 M1+E2                                            
+114SN  G 794.0     2 100       E2                                               
+114SNX G FL=5921.97                                                             
+114SNB G BE2W=9.E+1 6                                                           
+114SN  L 6725.6    12                                                           
+114SNX L XREF=D                                                                 
+114SN  G 748.5     5 100                                                        
+114SN  L 6925.7    4 16+                                                        
+114SNX L XREF=DLN                                                               
+114SN  G 374.6     5 100     9                                                  
+114SNX G FL=6551.1                                                              
+114SN  G 880.2     5 45      LTE2                                               
+114SN  L 7115.1    6 (15-)             0.40 PS   10                             
+114SNX L XREF=DLN$FLAG=C                                                        
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 399.1     2 6.3     2 (M1)                                             
+114SNB G BM1W=0.051 13                                                          
+114SN  G 836.1     5 100       E2                                               
+114SNB G BE2W=99 25                                                             
+114SN  L 7204.68   2216+               0.35 PS   4                              
+114SNX L XREF=LN$FLAG=B                                                         
+114SN cL J$stretched E2 |g to 14+                                               
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 862.9     2 63      6 E2                                               
+114SNB G BE2W=40 7                                                              
+114SN  G 1159.3    2 100     6                                                  
+114SN  L 7205.18   23                                                           
+114SNX L XREF=L                                                                 
+114SN  G 744.6     2                                                            
+114SN  G 926.3     2                                                            
+114SN  L 7300      AP                                                           
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=8                                                             
+114SN  L 7369.7    6                                                            
+114SNX L XREF=D                                                                 
+114SN  G 818.6     5 100                                                        
+114SNX G FL=6551.1                                                              
+114SN  L 7377.1    8                                                            
+114SNX L XREF=DL                                                                
+114SN  G 880.7     5 100                                                        
+114SNX G FL=6496.4                                                              
+114SN  L 7607.9    9 (16-)             0.24 PS   4                              
+114SNX L XREF=DLN$FLAG=c                                                        
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 492.5     2 9.7     4 (M1)                                             
+114SNB G BM1W=0.068 12                                                          
+114SN  G 892.0     5 100       E2                                               
+114SN  L 7709.6    5                                                            
+114SNX L XREF=L                                                                 
+114SN  G 783.9     2 100                                                        
+114SN  L 7869.7    5                                                            
+114SNX L XREF=L                                                                 
+114SN  G 944.0     2 100                                                        
+114SN  L 8049.3    6 (17-)             0.21 PS   6                              
+114SNX L XREF=LN$FLAG=C                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 934.2     2 100       E2                                               
+114SNB G BE2W=1.2E+2 4                                                          
+114SN  L 8131.4    5                                                            
+114SNX L XREF=L                                                                 
+114SN  G 1205.7    2 100                                                        
+114SN  L 8142.7    3 18+               0.215 PS  28                             
+114SNX L XREF=LN$FLAG=B                                                         
+114SN cL J$stretched E2 |g to 16+                                               
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 938.0     2 100       E2                                               
+114SNX G FL=7204.68                                                             
+114SNB G BE2W=110 15                                                            
+114SN cG M$from {+100}Mo({+18}O,4n|g)                                           
+114SN  L 8194.4    4                                                            
+114SNX L XREF=L                                                                 
+114SN  G 1643.3    2 100                                                        
+114SNX G FL=6551.1                                                              
+114SN  L 8300      AP                                                           
+114SNX L XREF=K                                                                 
+114SN cL J$L(p,t)=(6)                                                           
+114SN  L 8357.7    8                                                            
+114SNX L XREF=L                                                                 
+114SN  G 980.6     2 100                                                        
+114SN  L 8587.5    9 (18-)             0.097 PS  35                             
+114SNX L XREF=LN$FLAG=c                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 538         5.1     7 (M1)                                            ?
+114SNB G BM1W=0.07 3                                                            
+114SN  G 979.6     2 100       E2                                               
+114SNB G BE2W=1.9E+2 7                                                          
+114SN  L 8644.6    5                                                            
+114SNX L XREF=L                                                                 
+114SN  G 1718.9    2 100                                                        
+114SN  L 9060.7    6 (19-)             0.118 PS  28                             
+114SNX L XREF=LN$FLAG=C                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1011.4    2 100       E2                                               
+114SNB G BE2W=1.4E+2 4                                                          
+114SN  L 9194.9    4 20+               0.152 PS  21                             
+114SNX L XREF=LN$FLAG=B                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1052.2    2 100       E2                                               
+114SNB G BE2W=88 13                                                             
+114SN  L 9647.5    10(20-)             0.12 PS   6                              
+114SNX L XREF=LN$FLAG=c                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1059.9    2 100       (E2)                                             
+114SNB G BE2W=1.1E+2 6                                                          
+114SN  L 10113.9   7 (21-)             0.12 PS   6                              
+114SNX L XREF=LN$FLAG=C                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1053.2    2 100       E2                                               
+114SNB G BE2W=1.1E+2 6                                                          
+114SN  L 10359.0   5 (22+)             0.076 PS  21                             
+114SNX L XREF=LN$FLAG=B                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1164.1    2 100       E2                                               
+114SNB G BE2W=1.1E+2 3                                                          
+114SN  L 10778.3   10(22-)             0.43 PS   LT                             
+114SNX L XREF=LN$FLAG=c                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1130.8    2 100                                                        
+114SN  L 11174.7   7 (23-)             0.10 PS   6                              
+114SNX L XREF=LN$FLAG=C                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1060.8    2 100       (E2)                                             
+114SNB G BE2W=1.3E+2 8                                                          
+114SN  L 11609.0   11(24+)             0.042 PS  35                             
+114SNX L XREF=LN$FLAG=B                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1250        100                                                        
+114SN  L 12311.7   12(25-)             0.35 PS   LT                             
+114SNX L XREF=LN$FLAG=C                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1137        100                                                        
+114SN  L 12943.0   15(26+)             0.18 PS   LT                             
+114SNX L XREF=LN$FLAG=B                                                         
+114SN cL T$from (2001Ga52)                                                      
+114SN  G 1334        100       (E2)                                             
+114SNB G BE2W GT 23                                                             
+114SN  L 13516.7   16(27-)                                                      
+114SNX L XREF=LN$FLAG=C                                                         
+114SN  G 1205        100                                                        
+114SN  L 14406.0   18(28+)                                                      
+114SNX L XREF=LN$FLAG=B                                                         
+114SN  G 1463        100                                                        
+114SN  L 14801.7   19(29-)                                                      
+114SNX L XREF=LN$FLAG=C                                                         
+114SN  G 1285        100                                                        
+114SN  L 15997.0   21(30+)                                                      
+114SNX L XREF=LN$FLAG=B                                                         
+114SN  G 1591        100                                                        
+114SN  L 16236.7   21(31-)                                                      
+114SNX L XREF=LN$FLAG=C                                                         
+114SN  G 1435        100                                                        
+114SN  L 17870.7   24(33-)                                                      
+114SNX L XREF=LN$FLAG=C                                                         
+114SN  G 1634        100                                                        
+

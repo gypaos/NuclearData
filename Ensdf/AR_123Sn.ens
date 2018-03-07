@@ -1,0 +1,369 @@
+123SN    ADOPTED LEVELS, GAMMAS                                  04NDS    200410
+123SN  H TYP=FUL$AUT=S. Ohya$CIT=NDS 102, 547 (2004)$CUT=1-Nov-2003$            
+123SN  XA123IN B- DECAY (6.17 S)                                                
+123SN  XB123IN B- DECAY (47.4 S)                                                
+123SN  XC122SN(N,G)                                                             
+123SN  XD122SN(D,P)                                                             
+123SN  XE122SN(D,PG)                                                            
+123SN  XF124SN(P,D)                                                             
+123SN  XG124SN(P,D) IAR                                                         
+123SN  XH124SN(D,T)                                                             
+123SN  XI122SN(A,3HE)                                                           
+123SN  XJ124SN(80SE,XG)                                                         
+123SN  Q 1408      3 5946.2  121.153E4 5 -6.26E3 4     2012WA38                 
+123SN cQ $Note: Current evaluation has used the following Q record              
+123SN  Q 1403.6    295945.8  1211532   50 -6338  80    2003AU03                 
+123SN cL E$From combined fit of levels and gammas in all data sets, except      
+123SN2cL where cross reference clearly indicates other sources.                 
+123SN cL J(C)$Systematics of population of yrast states in {+119}Sn to {+123}Sn 
+123SN2cL in heavy-ion deep inelastic reactions:{+122}Sn,{+124}Sn({+76}Ge,X|g)   
+123SN3cL and {+122}Sn,{+124}Sn({+80}Se,X|g).                                    
+123SN cG E,RI$Adopted principally from {+123}In |b{+-} decays (47.8 s, 5.98 s). 
+123SN2cG |g rays observed in {+122}Sn(n,|g) and {+122}Sn(d,p|g) are             
+123SN3cG supplementally included, except where noted otherwise.                 
+123SN cG M,MR$From |a in {+122}Sn(d,p|g) and in {+123}In |b{+-} decays, unless  
+123SN2cG noted otherwise.                                                       
+123SN cG CC(L)$For |d=1; uncertainties are chosen to cover M1, E2 theory values.
+123SN cG E(B)$From {+124}Sn({+80}Se,X|g).                                       
+123SN PN                                                                     6  
+123SN  L 0.0         11/2-             129.2 D   4                              
+123SNX L XREF=ABCDEFHIJ                                                         
+123SN cL J$from LASER spectroscopy (1986An24); |p=- from L=5 in (d,p).          
+123SN cL T$weighted average of 129.0 d {I5} (1966La13), 129.6 d {I6} (1968Er03).
+123SN2cL Others: 130 d {I5} (1949Le05), 126 d {I5} (1950Ne52), 125 d {I3}       
+123SNxcL (1951Co34).                                                            
+123SN2 L %B-=100$ MOMM1=-1.3700 9$ MOME2=+0.03 4                                
+123SN cL MOMM1$from thermal atomic beam LASER spectroscopy (1989Ra17); value    
+123SN2cL relative to |m for {+119}Sn                                            
+123SN cL MOME2$from thermal atomic beam LASER spectroscopy (1989Ra17).          
+123SN  L       24.6 43/2+              40.06 M   1                           M  
+123SNX L XREF=ABCDEFH                                                           
+123SN2 L %B-=100                                                                
+123SN cL J$atomic beam J=3/2 (1968Ch38); |p=+ from L=2 in (d,p).                
+123SN cL T$from 1990Ab06. Others: 40.08 min {I7} (1968Er03), 41.5 min {I5}      
+123SN2cL (1948Mo33), 40 min {I1} (1949Le05), 38.9 min {I4} (1970OsZZ).          
+123SN  L      150.4 41/2+                                                       
+123SNX L XREF=BCDEFH                                                            
+123SN cL J$L=0 in (d,p), (p,d).                                                 
+123SN  G 125.76    4 100       M1                      0.298                 C  
+123SN  L     618.8124(9/2)-                                                     
+123SNX L XREF=ACDEH                                                             
+123SN cL J$E2 |g to 11/2- g.s.; no |g to 3/2+; level systematics of 9/2- in odd 
+123SN2cL S(n) isotopes.                                                         
+123SN  G 618.8     3 100       E2                      0.0042                C  
+123SN  L      870.2 4(1/2,3/2,5/2+)                                             
+123SNX L XREF=ACDEF(*899)                                                       
+123SN cL J$|g to 1/2+ and to 3/2+. 1970Ca01 suggest J=5/2 in (p,d).             
+123SN  G 719.9     8 12.3    12                                              C  
+123SN  G 845.5     2 100     10                                              C  
+123SN  L      919.8 6(3/2)+                                                     
+123SNX L XREF=BCEF(*899)                                                        
+123SN cL J$fed by primary |g from 258-eV, 1/2- (n,|g) resonance; M1 |g to 1/2+. 
+123SN2cL Excitation function in (d,p|g) favors 3/2+; however, 1970Ca01 suggest  
+123SN3cL J=5/2 in (p,d).                                                        
+123SN  G 769.3     5 35      4 M1                                            C  
+123SN  G 895.8     10100     9 M1,E2                                            
+123SN  L      931.4 5 7/2-                                                      
+123SNX L XREF=ACDEH                                                             
+123SN cL J$L=3 in (d,p); |g to 11/2-.                                           
+123SN  G 931.2     8 100       E2                                               
+123SN cG M$|g to 11/2- is M1 or E2 from ce data, the latter mult                
+123SN2cG being consistent with |DJ|p.                                           
+123SN  L     1044.3 4(7/2)+            0.1 NS    LT                             
+123SNX L XREF=ADEFH                                                             
+123SN cL J$L=(4) in (p,d); |g to 3/2+.                                          
+123SN cL T$from (|b)(1019.7|g)(t) (1976Fo02).                                   
+123SN  G 174.18    6 0.6     1 [M1,E2]                 0.17   6             L   
+123SN  G 425.4     7 0.5     3 [E1]                    0.00352               C  
+123SNB G BE1W>1.7E-7                                                            
+123SN  G 1019.7    2 100     6 (E2)                                          C  
+123SN cG M$|g to 3/2+ is M1 or E2 from ce data, the latter mult                 
+123SN2cG being consistent with |DJ|p.                                           
+123SNB G BE2W>0.14                                                              
+123SN  L     1072.1 6(1/2,3/2)+                                                 
+123SNX L XREF=CED                                                               
+123SN cL J$fed by primary |g from 258-eV, 1/2- (n,|g) resonance; M1,E2 |g to    
+123SNxcL 1/2+.                                                                  
+123SN  G 921.9     5 100     9 M1,E2                                         C  
+123SN  G 1046.8    1075      21                                                 
+123SN  L     1107.0 9(15/2-)                                                C   
+123SNX L XREF=J                                                                 
+123SN  G 1107        100                                                    B   
+123SN  L 1109      3                                                            
+123SNX L XREF=DH                                                                
+123SN  L     1136.3 8(1/2,3/2,5/2,7/2)+                                         
+123SNX L XREF=CED                                                               
+123SN cL J$M1,E2 |g to 3/2+.                                                    
+123SN  G 985.6     1067      20                                              C  
+123SN  G 1112.0    9 100     15M1,E2                                            
+123SN  L     1155.0 37/2+              0.1 NS    LT                             
+123SNX L XREF=ADF(*1185)H                                                       
+123SN cL E$L=4 component in (p,d) suggest excitation of 1155 level              
+123SN cL J$L=4 in (d,p); E2,M1 |g to 3/2+.                                      
+123SN cL T$from (|b)(1130.5|g)(t) (1976Fo02).                                   
+123SN  G 223.5     5 0.19    7 [E1]                    0.0189                   
+123SNB G BE1W>4.5E-7                                                            
+123SN  G 284.7     2 0.27    7 [M1,E2]                 0.038  5             LC  
+123SN  G 536.4     3 1.4     2                                               C  
+123SN  G 1130.5    2 100     6 E2                                               
+123SNB G BE2W>0.083                                                             
+123SN  G 1155.2    8 0.06    3                                                  
+123SN  L     1194.4 6(5/2)+                                                     
+123SNX L XREF=BCDEF(*1185)H                                                     
+123SN cL J$L=2 in (d,p); J|p=5/2+ from L and analyzing power in                 
+123SN2cL {+122}Sn(pol p,p) IAR.                                                 
+123SN  G 1169.8    5 100                                                        
+123SN  L     1217.0 9(13/2-)                                                C   
+123SNX L XREF=J                                                                 
+123SN  G 1217        100                                                    B   
+123SN  L 1301      3                                                            
+123SNX L XREF=D                                                                 
+123SN  L 1440      3                                                            
+123SNX L XREF=DH(1451)                                                          
+123SN cL E$(d,t) level is tentative                                             
+123SN  L 1466      3                                                            
+123SNX L XREF=D                                                                 
+123SN  L     1488.811(5/2)+                                                     
+123SNX L XREF=DEFH(1492)                                                        
+123SN cL J$L=2 in (d,p), (p,d). J|p=5/2+ from L and analyzing power in          
+123SN2cL {+122}Sn(pol p,p) IAR.                                                 
+123SN  G 1464.2    10100                                                        
+123SN  L 1714      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 1729      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 1784      6 3/2+,5/2+                                                  
+123SNX L XREF=DFH                                                               
+123SN cL J$L=2 in (p,d); 1970Ca01 suggest J=5/2 from possible J-dependence of   
+123SN2cL |s(|q) in (p,d).                                                       
+123SN  L 1829      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 1902      6 3/2+,5/2+                                                  
+123SNX L XREF=DF                                                                
+123SN cL J$L=2 in (p,d); 1970Ca01 suggest J=3/2 from possible J-dependence of   
+123SN2cL |s(|q) in (p,d).                                                       
+123SN  L     1926.010(17/2-)                                                C   
+123SNX L XREF=J                                                                 
+123SN  G 709                                                                B   
+123SN  G 819                                                                B   
+123SNF G FL=1107.0                                                              
+123SN  L     1945.010(19/2+)           7.4 US    26                         C   
+123SNX L XREF=J                                                                 
+123SN cL T$from delayed coin to pulsed beam                                     
+123SN  G 19                                                                     
+123SN cG E$E|g from difference of the energies of the levels.                   
+123SN  G 728                                                                B   
+123SN  G 838                                                                B   
+123SNF G FL=1107.0                                                              
+123SN  L    2001.2 3 (9/2)+                                                     
+123SNX L XREF=AD                                                                
+123SN cL J$log| {Ift}=5.40 from (9/2)+; |g's to (3/2,5/2)+ and 11/2-.           
+123SN  G 957.3     5 36      9                                               C  
+123SN  G 1131      2 18      AP                                              C  
+123SN  G 1382.3    2 100     6                                               C  
+123SN  G 2001.2    4 24      6                                                  
+123SN  L 2026      6 3/2+,5/2+                                                  
+123SNX L XREF=DFH                                                               
+123SN cL J$L=2 in (p,d); 1970Ca01 suggest J=3/2 from possible J-dependence of   
+123SN2cL |s(|q) in (p,d).                                                       
+123SN  L 2080      253/2+,5/2+                                                  
+123SNX L XREF=DFH                                                               
+123SN cL J$L=2 in (p,d); 1970Ca01 suggest J=5/2 from possible J-dependence of   
+123SN2cL |s(|q) in (p,d).                                                       
+123SN  L 2114      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L     2153.012(23/2+)           6 US                                 C   
+123SNX L XREF=J                                                                 
+123SN cL T $from delayed |g versus beam pulse (1994Ma48,1995Da26). No |DT{-1/2} 
+123SN2cL value have been given.                                                 
+123SN  G 208         100                                                    B   
+123SNB G BE2W=0.00594 15 if E2 TRANSITION.                                      
+123SN  L     2155.813                                                           
+123SNX L XREF=CF                                                                
+123SN  G 1019.5    10100                                                        
+123SN  L 2162      6                                                            
+123SNX L XREF=DFH                                                               
+123SN  L     2263.012(19/2-)                                                C   
+123SNX L XREF=J                                                                 
+123SN  G 1156        100                                                    B   
+123SNF G FL=1107.0                                                              
+123SN  L 2270      253/2+,5/2+                                                  
+123SNX L XREF=F                                                                 
+123SN cL J$L=2 in (p,d).; 1970Ca01 suggest J=3/2+ from possible J-dependence    
+123SN2cL of |s(|q) in (p,d).                                                    
+123SN  L 2271      6 1/2-,3/2-                                                  
+123SNX L XREF=DFH                                                               
+123SN cL J$L=1 in (d,p).                                                        
+123SN  L 2365      6 7/2+,9/2+                                                  
+123SNX L XREF=DFH                                                               
+123SN cL J$L=4 in (p,d).                                                        
+123SN  L     2396.014(21/2+)                                                C   
+123SNX L XREF=J                                                                 
+123SN  G 243         100                                                    B   
+123SNF G FL=2153.0                                                              
+123SN  L 2425      6 1/2+                                                       
+123SNX L XREF=DFH                                                               
+123SN cL J$L=0 in (p,d).                                                        
+123SN  L 2446      6                                                            
+123SNX L XREF=DH                                                                
+123SN  L     2543.013(23/2-)                                                C   
+123SNX L XREF=J                                                                 
+123SN  G 147                                                                B   
+123SN  G 280                                                                B   
+123SNF G FL=2263.0                                                              
+123SN  L 2601      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L     2621.0221/2+                                                      ?
+123SNX L XREF=BC(2615)F                                                         
+123SN cL J$L=0 in (p,d).                                                        
+123SN  G 2469      3 44      27                                                 
+123SN  G 2598      3 100     39                                                 
+123SN  L 2676      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L     2713.014(27/2-)           34 US                                C   
+123SNX L XREF=J                                                                 
+123SN cL T $from delayed |g versus beam pulse (1994Ma48,1995Da26). No |DT{-1/2} 
+123SN2cL value have been given.                                                 
+123SN  G 170                                                                B   
+123SN  G 560                                                                B   
+123SNF G FL=2153.0                                                              
+123SN  L 2726      6 (7/2)-                                                     
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p); J=7/2 is consistent with analyzing power in            
+123SN2cL {+122}Sn(pol p,p) IAR.                                                 
+123SN  L 2730      257/2+,9/2+                                                  
+123SNX L XREF=F                                                                 
+123SN cL J$L=4 in (p,d).                                                        
+123SN  L 2757      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 2828      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 2850      25(3/2+,5/2+)                                                
+123SNX L XREF=F                                                                 
+123SN cL J$L=(2) in (p,d); 1970Ca01 suggest J=(3/2) from possible J-dependence  
+123SN2cL of |s(|q) in (p,d).                                                    
+123SN  L 3020      25                                                           
+123SNX L XREF=F                                                                 
+123SN  L 3049      6 5/2-,7/2-                                                  
+123SNX L XREF=DF(*3020)                                                         
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 3073      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 3113      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L     3151.721(7/2)-                                                     
+123SNX L XREF=BDF(*3160)                                                        
+123SN cL J$L=3 in (d,p); J=7/2 is consistent with analyzing power in            
+123SN2cL {+122}Sn(pol p,p) IAR.                                                 
+123SN  G 3127      2 100                                                        
+123SN  L 3188      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=DF(*3160)                                                         
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3217      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L       3259 33/2+,5/2+                                                  
+123SNX L XREF=BDF                                                               
+123SN cL J$L=2 in (p,d); 1970Ca01 suggest J=3/2 from possible J-dependence of   
+123SN2cL |s(|q) in (p,d).                                                       
+123SN  G 3103      3 31      10                                                ?
+123SN  G 3234      3 100     25                                                 
+123SN  L 3306      3                                                           ?
+123SNX L XREF=B                                                                 
+123SN  G 3155      3 100                                                       ?
+123SN  L 3320      6 (3/2-)                                                     
+123SNX L XREF=DF                                                                
+123SN cL J$L=(1) and J=(3/2) in (pol p,p).                                      
+123SN  L 3358      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3395      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3435      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3456      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3514      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 3534      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3551      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3632      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3650      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3677      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 3694      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 3720      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3735      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 3773      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3809      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3827      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3849      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 3868      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 3910      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 3966      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 4008      6 (1/2-)                                                     
+123SN cL J$Possibly IAR of 18251-keV level in {+122}Sn(pol p,p).                
+123SNX L XREF=D                                                                 
+123SN  L 4057      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 4075      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 4105      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 4267      6 1/2-,3/2,5/2+                                              
+123SNX L XREF=D                                                                 
+123SN cL J$L=1,2 in (d,p).                                                      
+123SN  L 4358      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 4423      6 5/2-,7/2-                                                  
+123SNX L XREF=D                                                                 
+123SN cL J$L=3 in (d,p).                                                        
+123SN  L 4464      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 4736      6                                                            
+123SNX L XREF=D                                                                 
+123SN  L 16943     50(9/2+)            39 KEV    8                              
+123SNX L XREF=G                                                                 
+123SN cL J$IAS {+123}In g.s.                                                    
+123SN  L 17306     50(1/2-)            45 KEV    7                              
+123SNX L XREF=G                                                                 
+123SN cL J$IAS {+123}In 327-keV state.                                          
+123SN  L 17656     50(3/2-)            39 KEV    15                             
+123SNX L XREF=G                                                                 
+123SN cL J$IAS {+123}In 698-keV state.                                          
+

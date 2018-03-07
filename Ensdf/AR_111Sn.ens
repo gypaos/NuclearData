@@ -1,0 +1,528 @@
+111SN    ADOPTED LEVELS, GAMMAS                                  09NDS    200905
+111SN  H TYP=FUL$AUT=Jean Blachot$CIT=NDS 110, 1239 (2009)$CUT=1-Feb-2008$      
+111SN  Q -5103     118169    156758    13-1374   6     2012WA38                 
+111SN cQ $Note: Current evaluation has used the following Q record              
+111SN  Q -5.06E+3  3 8172    156759    13-1385   9     2003AU03                 
+111SN cG E,RI$From {+111}Sb |e decay and {+111}Cd({+3}He,3n|g), (|a,n|g)        
+111SN cG M,MR$From |a(K)exp and |g(|q) in {+111}Cd({+3}He,3n|g). For intraband  
+111SNacG transitions, mult are from DCO ratios (1995La11)                       
+111SN cG RI(R)$Av of ({+3}He,3n|g) values. I|g(199|g)/I|g(339|g)=1.52 {I7} in   
+111SNacG ({+6}Li,4n|g), and the 199|g is marked by an impurity line in (|a,n|g) 
+111SN cG E(Z)$Existence of transition is uncertain.                             
+111SN cG RI(Y)$I|g(752|g)/I|g(865|g)=0.49 {I8} for (|a,n|g) at 20 MeV. In       
+111SNacG ({+3}He,3n|g), values are 0.66 {I6}, 0.88 {I10}, and 1.15 {I16} at     
+111SNacG E=28, 30, and 32 MeV, respectively.                                    
+111SN cG RI(X)$From ({+3}He,3n|g), (|a,n|g), ({+6}Li,4n|g). Data are            
+111SNacG inconsistent. Only ({+6}Li,4n|g) resolves the 1058 and 1062 |g's, but  
+111SNacG I|g(866|g)/I|g(1058+1062) values are 0.05 {I4}, 0.08 {I3}, 0.19 {I5},  
+111SNacG 0.228 {I24}, 0.097 {I8}, 0.099 {I20}, and 0.20 {I4}                    
+111SN cL J$J|p without comments are based on the |g multipolarities, decay      
+111SNacL patterns and rotational band structure.                                
+111SN cL J(J)$From L and analyzing power in (pol d,t).                          
+111SN cL E$From least-squares fit to E|g's                                      
+111SN CL BAND(A)$|g cascade to GS                                               
+111SN CL BAND(B)$11/2- BAND                                                     
+111SN CL BAND(C)$|g-RAY CASCADE BASED ON 19/2-                                  
+111SN CL BAND(D)$Band based on 19/2-.                                           
+111SNacL Configuration=|nh{-11/2}~#[(|pg{-7/2}){+2}(|pg{-9/2}){+-2}] or         
+111SNacL |nh{-11/2}~#[|p(g{-7/2}d{-5/2})(g{-9/2}){+-2}] (both from literature)  
+111SN  XA111CD(3HE,3NG),108CD(A,NG)                                             
+111SN  XB111SB EC DECAY (75 S)                                                  
+111SN  XC112SN(P,D)                                                             
+111SN  XD112SN(3HE,AG)                                                          
+111SN  XE112SN(POL D,T)                                                         
+111SN  XF112SN(P,PNG)                                                           
+111SN  XG(HI,XNG)                                                               
+111SN  XH96RU(19F,3PNG)                                                         
+111SN  XI98MO(16O,3NG)                                                          
+111SN  XJ100MO(20NE,A5NG)                                                       
+111SN  L 0.0         7/2+              35.3 M    6                              
+111SNX L FLAG=A$%EC+%B+=100$MOME2=0.18 9 (1987Eb02,1989Ra17) $MOMM1=+0.608 4    
+111SN cL J$from atomic beam (1974Ho17), |p=+ from L=4 (p,d)                     
+111SN cL T$weighted av: 35.0 min {I5} (1949Hi10), 35 min {I1} (1951Mc11), 35.5  
+111SNacL min {I8} (1967Da11), 35.8 min {I8} (1969Sh11). Other: 1961Ra06         
+111SN  L 154.48    3 5/2+                                                       
+111SNX L XREF=ABCDE                                                             
+111SN cL J$from L=2 (pol d,t), M1+E2 |g to 7/2+ excludes 3/2+                   
+111SN  G 154.48    3 100       M1+E2     -0.08   6                              
+111SNS G CC=0.17                                                                
+111SN  L 254.71    4 1/2+              12.5 US   10                             
+111SNX L XREF=ABCDE$%IT=100                                                     
+111SN cL T$from (1978Ho06) |g(t) pulsed beam. Other: 18 |ms {I1} (1972Br38)     
+111SNacL |g(t) pulsed beam                                                      
+111SN cL J$L=0 (pol d,t)                                                        
+111SN  G 100.24    3 100       E2                                               
+111SNS G CC=1.60                                                                
+111SNB G BE2W=0.054 5                                                           
+111SN cG M$from intensity balance about 154 level, the placement in the level   
+111SNacG scheme requires |D' J=2                                                
+111SN  L 643.62    9 3/2+                                                       
+111SNX L XREF=ABCDE                                                             
+111SN cL J$L=2 (pol d,t) M1 |g to 1/2+                                          
+111SN  G 389.3     3 8.5     13M1,E2                                            
+111SN  G 489.1     1 100     18M1(+E2)   +0.15   18                             
+111SN  G 643.6     3 4.5                                                        
+111SN  L 755.46    185/2+                                                       
+111SNX L XREF=ABCDE                                                             
+111SN cL J$based on L=2 (pol d,t) and M1 |g to 7/2+                             
+111SN  G 601.0     3 15        M1,E2                                            
+111SN  G 755.4     3 100       M1+E2     +0.50                                  
+111SN  L 978.6     3 11/2-             10.0 NS   5                              
+111SNX L XREF=ACDEFGHIJ$FLAG=B$MOMM1=-1.26 11 (1974Br29,1989Ra17)               
+111SN cL J$L=5 in (pol d,t), M2 |g to 7/2+                                      
+111SN cL E$The state results from the occupation of the |nh11/2 orbital         
+111SNacL coupled to the core g.s. of {+110}Sn (1995La11) Analogs {+113}Sn at {  
+111SNacL 740 keV}, 159-|ms, {+115}Sn at 714 keV                                 
+111SN cL T$from (1984Pr06). Others: 9.2 ns {i10} (1974Br29), 7.9 ns {i8}        
+111SNacL (1972Br38) |g(t) pulsed beam                                           
+111SN  G 978.6     3 100       M2                                               
+111SNB G BM2W=0.150 8                                                           
+111SN cG E$from 1984Pr06 in (|a,n|g). Other: 978.7 {i3} (1976Ma09) in           
+111SNacG (|a,n|g), 978 {i1} (1985Az03) in ({+3}He,|a|g), 979.6 {i5} (1972Br38)  
+111SNacG in IT decay.                                                           
+111SN  L 1032.57   9 3/2+                                                       
+111SNX L XREF=ABCD                                                              
+111SN cL J$from |g decay to 1/2+ and 7/2+                                       
+111SN  G 777.8     3 28                                                         
+111SN  G 877.8     3 5                                                          
+111SN  G 1032.6    1 100                                                        
+111SN  L 1107      2 1/2+                                                       
+111SNX L XREF=CE                                                                
+111SN cL J$based on L=0 (pol d,t)                                               
+111SN  L 1151.74   183/2+,5/2+                                                  
+111SNX L XREF=ABCD                                                              
+111SN cL J$L=2 in (p,d)                                                         
+111SN  G 396.2     3 7.5                                                        
+111SN  G 897.4     3 100                                                        
+111SN  G 997.1     3 81                                                         
+111SN  G 1150      1                                                            
+111SNX G FLAG=Z                                                                 
+111SN cG E$reported by 1972Si28 and 1974De34 (I|g is inconsistent) but not by   
+111SNacG 1976Wi10 in |e decay. I|g/I|g(999)<1.6 {i3} from in-beam studies.      
+111SN  L 1235.60   24(9/2)+                                                     
+111SNX L XREF=ADF                                                               
+111SN cL J$D+Q |g to g.s.                                                       
+111SN  G 1235.6    3 100       D+Q                                              
+111SN  L 1276.69   247/2+              0.3 NS    2                              
+111SNX L XREF=ABCD                                                              
+111SN cL T$from |g|g(t) 1984Pr06                                                
+111SN cL J$L=4 (p,d). M1 |g to 5/2+                                             
+111SN  G 1122.3    3 100       M1(+E2)   -0.9    8                              
+111SNB G BM1W=1.8E-5 +39-12                                                     
+111SN  G 1276.5    4 56      8                                                  
+111SN  L 1302.1    3 5/2+                                                       
+111SNX L XREF=ABCDE$FLAG=J                                                      
+111SN  G 546.7     103                                                          
+111SN  G 1147.6    3 100                                                        
+111SN  L 1347.85   2311/2+                                                      
+111SNX L XREF=ACDFHI$FLAG=A                                                     
+111SN cL J$E2 |g to 7/2+ g.s. Excit in (|a,n|g)                                 
+111SN  G 1347.8    3 100       E2                                               
+111SN  L 1417      3                                                            
+111SNX L XREF=C                                                                 
+111SN  L 1432      3 3/2+,5/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=2 (p,d)                                                            
+111SN  L 1478.1    3 9/2+                                                       
+111SNX L XREF=ABCDE$FLAG=J                                                      
+111SN  G 1323.6    3 100       E2                                               
+111SN cG RI$from (|a,n|g). I|g(1478|g)/I|g(1324|g)=0.87 in |e decay, and 0.52   
+111SNacG {I25} in ({+3}He,|a|g)                                                 
+111SN  G 1478.0    6 35      9                                                  
+111SN  L 1577.5    105/2+                                                       
+111SNX L XREF=DE                                                                
+111SN cL J$from |s(|q) and |s(pol)                                              
+111SN  G 1423      1 100                                                        
+111SN  L 1693.2    4 (3/2+,5/2+)                                                
+111SNX L XREF=ABCD                                                              
+111SN cL J$excit in ({+3}He,3n|g)                                               
+111SN  G 1538.7    4 100                                                        
+111SN  L 1732      3 1/2+                                                       
+111SNX L XREF=CE                                                                
+111SN cL J$L=0 (pol d,t)                                                        
+111SN  L 1805      3                                                            
+111SNX L XREF=C                                                                 
+111SN  L 1823.1    107/2+                                                       
+111SNX L XREF=BCDE$FLAG=J                                                       
+111SN  G 1179.5    10100                                                        
+111SN  L 1866      3 (3/2+,5/2+)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(2) in (p,d)                                                       
+111SN  L 1890.3    147/2+,9/2+                                                  
+111SNX L XREF=CD                                                                
+111SN cL J$L=4 in (p,d)                                                         
+111SN  G 1736      2                                                            
+111SN  G 1890      2                                                            
+111SN  L 1928      3 9/2-,11/2-                                                 
+111SNX L XREF=C                                                                 
+111SN cL J$L=5 (p,d)                                                            
+111SN  L 1956      3 (3/2+,5/2+)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(2) (p,d)                                                          
+111SN  L 1988.0    10                                                           
+111SNX L XREF=D                                                                 
+111SN  G 1988      1 100                                                        
+111SN  L 1995.8    10(3/2+,5/2+)                                                
+111SNX L XREF=BCD                                                               
+111SN cL J$L=(2) in (p,d)                                                       
+111SN  G 1841.3    10100                                                        
+111SN  L 2030.5    203/2+                                                       
+111SNX L XREF=CDE$FLAG=J                                                        
+111SN cL E$E=2023 {i3} in (p,d) is somewhat discrepant                          
+111SN  G 1876      2 100                                                        
+111SN  L 2062.3    3 15/2-                                                      
+111SNX L XREF=AC(*)DGHIJ$FLAG=B                                                 
+111SN cL E$The state results from the occupation of the |nh11/2 orbital         
+111SNacL coupled to the 2+ of the core of {+110}Sn (1995La11)                   
+111SN cL J$stretched E2 |g to 11/2- state and excit in (|a,n|g)                 
+111SN  G 1083.6    3 100       E2                                               
+111SNS G CC=0.0011                                                              
+111SN  L 2065.1    3 15/2+             0.52 NS   9                              
+111SNX L XREF=AC(*)FHI$FLAG=A                                                   
+111SN cL T$|g|g(t) from 1984Pr06                                                
+111SN cL J$stretched E2 |g to 11/2+ and excit in (|a,n|g)                       
+111SN  G 717.3     3 100       E2                                               
+111SNB G BE2W=0.18 4                                                            
+111SN  L 2090.1    5 (9/2+)                                                     
+111SNX L XREF=D                                                                 
+111SN cL J$|g's to 5/2+,11/2+,11/2-                                             
+111SN  G 742       1 28      11                                                 
+111SN  G 854       1 100     15                                                 
+111SN  G 1112      1 76      15                                                 
+111SN  G 1335      1 13      7                                                  
+111SN  L 2092      10(1/2-,3/2-)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(1) (p,d)                                                          
+111SN  L 2100.4    3 (13/2)+                                                    
+111SNX L XREF=A                                                                 
+111SN cL J$M1+E2 |g to 11/2+ and stretched Q to (9/2)                           
+111SN  G 752.5     3           M1+E2     +1.3    10                             
+111SNX G FLAG=Y                                                                 
+111SN  G 864.9     3           Q                                                
+111SNX G FLAG=Y                                                                 
+111SN  L 2140      101/2-                                                       
+111SNX L XREF=CE$FLAG=J                                                         
+111SN  L 2188.2    4 (11/2,13/2)                                                
+111SNX L XREF=A                                                                 
+111SN cL J$|g(|q) in (|a,n|g)                                                   
+111SN  G 1209.6    3 100       D+Q,Q     +1.2    12                             
+111SN  L 2191.6    20                                                           
+111SNX L XREF=CD                                                                
+111SN  G 1548      2 100                                                        
+111SN  L 2216.8    3                                                            
+111SNX L XREF=AC                                                                
+111SN  G 869.0     2 91      45D(+Q)                                            
+111SN  G 981.2     5 100     42                                                 
+111SN  L 2257.4    3 (17/2)+           4 NS      GE                             
+111SNX L XREF=AHI$FLAG=A                                                        
+111SN cL J$M1 |g to 15/2+. Excit                                                
+111SN cL T$From 2005Wo03                                                        
+111SN  G 192.3     2 100       M1(+E2)   -0.03   3                              
+111SN  L 2275      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2284.5    20(5/2)+                                                     
+111SNX L XREF=CDE                                                               
+111SN cL J$L=2 (p,d), J=5/2 from (pol d,t) for complex 2320 peak                
+111SN  G 2130      2 100                                                        
+111SN  L 2312.6    20(7/2+)                                                     
+111SNX L XREF=CDE                                                               
+111SN cL J$L=2+4 (pol d,t) and J=7/2 for L=4 component                          
+111SN  G 1077      2 100                                                        
+111SN  L 2363.1    4 9/2+,11/2+,13/2+                                           
+111SNX L XREF=A                                                                 
+111SN cL J$M1+E2 |g to 11/2+                                                    
+111SN  G 1015.2    3 100       M1+E2     +0.48   20                             
+111SN  L 2374      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2386.1    4 (13/2)                                                     
+111SNX L XREF=A                                                                 
+111SN cL J$stretched D to 11/2+                                                 
+111SN  G 1038.2    3 100       D(+Q)     0.00    15                             
+111SN  L 2395      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2433      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2466      5 5/2+                                                       
+111SNX L XREF=CE                                                                
+111SN cL J$L=2 (p,d) (pol d,t)                                                  
+111SN  L 2505      5 7/2+                                                       
+111SNX L XREF=CE                                                                
+111SN cL J$L=4 (p,d) (pol d,t)                                                  
+111SN  L 2523.5    4 (15/2)+                                                    
+111SNX L XREF=A                                                                 
+111SN cL J$M1+E2 |g to 15/2+ and (17/2)+. Excit in (|a,n|g)                     
+111SN  G 266.2     3 100     2 M1+E2     -0.05   4                              
+111SN  G 458.4     3 23.8    9 M1+E2                                            
+111SN cG MR$-0.4 {i3} or +1.0 {i4}                                              
+111SN  L 2533      5 (7/2+,9/2+)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(4) (p,d)                                                          
+111SN  L 2544      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2600      5 (1/2-,3/2-)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(1) (p,d)                                                          
+111SN  L 2639      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2666      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2690      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2715      5 1/2+                                                       
+111SNX L XREF=C                                                                 
+111SN cL J$L=0 (p,d)                                                            
+111SN  L 2738      5                                                            
+111SNX L XREF=CE(*)                                                             
+111SN  L 2786      5 3/2+,5/2+                                                  
+111SNX L XREF=CE(*)                                                             
+111SN cL J$L=2 (p,d)                                                            
+111SN  L 2804      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2824      5 3/2+,5/2+                                                  
+111SNX L XREF=CE(*)                                                             
+111SN cL J$L=2 (p,d)                                                            
+111SN  L 2867      5                                                            
+111SNX L XREF=CE(*)                                                             
+111SN  L 2910      5                                                            
+111SNX L XREF=C                                                                 
+111SN  L 2983.5    3 19/2-             0.15 NS   10                             
+111SNX L XREF=AGHIJ$FLAG=B                                                      
+111SN cL T$|g|g(t) from 1984Pr06                                                
+111SN cL J$stretched E2 |g to 15/2-                                             
+111SN  G 726.0     6 1.0     2                                                  
+111SN  G 921.2     1 100     5 E2                                               
+111SNB G BE2W=0.18 12                                                           
+111SN  L 3014      107/2+,9/2+                                                  
+111SNX L XREF=CE                                                                
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 3123.7    3 19/2-                                                      
+111SNX L XREF=AGIJ$FLAG=C                                                       
+111SN cL J$M1 |g from 21/2- and E2 |g to 15/2-                                  
+111SN  G 866.5     3 12.1    24                                                 
+111SNX G FLAG=X                                                                 
+111SN  G 1058.5    5 23      4                                                  
+111SNX G FLAG=X                                                                 
+111SN  G 1061.8    3 100     7 E2                                               
+111SNX G FLAG=X                                                                 
+111SN  L 3228.5    4 19/2-                                                      
+111SNX L XREF=AGHJ                                                              
+111SN  G 1166.0    3 100                                                        
+111SN  L 3238      10                                                           
+111SNX L XREF=CE                                                                
+111SN cL J$L=(1) (p,d), but L=4+1, J=9/2,7/2 from (pol d,t) for a complex peak  
+111SNacL at 3270 assumed by the authors to be 3238+3262                         
+111SN  L 3263      101/2-,3/2-                                                  
+111SNX L XREF=CE                                                                
+111SN cL J$L=(1) (p,d)                                                          
+111SN  L 3306.5    3 19/2-                                                      
+111SNX L XREF=AGHIJ$FLAG=D                                                      
+111SN cL J$Q |g to (15/2)-                                                      
+111SN  G 1244.6    3 100       Q                                                
+111SN  L 3322.8    3 21/2-                                                      
+111SNX L XREF=AGIJ$FLAG=C                                                       
+111SN cL J$M1 |g to 19/2-. Excit                                                
+111SN  G 199.1     3 99      3 M1+E2     +0.16   3                              
+111SNX G FLAG=R                                                                 
+111SN  G 339.3     3 100       M1(+E2)   +0.03   3                              
+111SNX G FLAG=R                                                                 
+111SN  L 3443      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 3459.2    4 23/2-                                                      
+111SNX L XREF=AGJ                                                               
+111SN cL J$E2 |g to 19/2-. Excit                                                
+111SN  G 475.7     3 100       E2                                               
+111SN  L 3496      101/2-,3/2-                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=1 (p,d)                                                            
+111SN  L 3513      10                                                           
+111SNX L XREF=C                                                                 
+111SN cL J$L=1+4 (p,d)                                                          
+111SN  L 3559      10                                                           
+111SNX L XREF=C                                                                 
+111SN cL J$L=1+4 (p,d)                                                          
+111SN  L 3582      10                                                           
+111SNX L XREF=C                                                                 
+111SN cL J$L=1+4 (p,d)                                                          
+111SN  L 3620.2    3 23/2-                                                      
+111SNX L XREF=AGIJ$FLAG=C                                                       
+111SN cL J$probable M1+E2 |g to (21/2)-. D+Q to 23/2-                           
+111SN  G 297.4     1 44      4                                                  
+111SN  G 313.5     3 0       AP                                                 
+111SN  G 636.7     1 100     10                                                 
+111SN  L 3622      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 3661      101/2-,3/2-                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=1 (p,d)                                                            
+111SN  L 3694      101/2-,3/2-                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=1 (p,d)                                                            
+111SN  L 3712      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 3758      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL L$L=4 (p,d)                                                            
+111SN  L 3789.0    4 (23/2)-                                                    
+111SNX L XREF=AGIJ$FLAG=C                                                       
+111SN cL J$M1 |g to (21/2)-                                                     
+111SN  G 466.3     3 100       M1+E2     0.25    2                              
+111SN  L 3815      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 3830      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 3865      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 3952      10(1/2-,3/2-)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(1) (p,d)                                                          
+111SN  L 3955.4    3 (23/2)                                                     
+111SNX L XREF=I$FLAG=B                                                          
+111SN  G 971.8     1 8.3     8                                                  
+111SN  L 3971      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4011      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4029      10(1/2-,3/2-)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(1) (p,d)                                                          
+111SN  L 4074.3    3 23/2-                                                      
+111SNX L XREF=GHIJ$FLAG=D                                                       
+111SN  G 751.6     7 7.7     23                                                 
+111SN  G 767.9     1 100     8 E2                                               
+111SN  G 845.8     2 39      4                                                  
+111SNX G FL=3228.5                                                              
+111SN  G 950.8     2 48      4                                                  
+111SN  G 1090.8    1 92      8                                                  
+111SN  L 4079      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 4130      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 4145      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4156.1    5 25/2-                                                      
+111SNX L XREF=I$FLAG=C                                                          
+111SN  G 367.1     2 100                                                        
+111SN  L 4176      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 4192      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 4232      107/2+,9/2+                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=4 (p,d)                                                            
+111SN  L 4259      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4286      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4311      101/2-,3/2-                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=1 (p,d)                                                            
+111SN  L 4332      101/2-,3/2-                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=1 (p,d)                                                            
+111SN  L 4369      10(1/2-,3/2-)                                                
+111SNX L XREF=C                                                                 
+111SN cL J$L=(1) (p,d)                                                          
+111SN  L 4393      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4416      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4446.1    4 25/2-                                                      
+111SNX L XREF=GIJ$FLAG=C                                                        
+111SN  G 1123.3    2 100                                                        
+111SN  L 4448      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4483      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4511      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4556      101/2-,3/2-                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=1 (p,d)                                                            
+111SN  L 4580      101/2-,3/2-                                                  
+111SNX L XREF=C                                                                 
+111SN cL J$L=1 (p,d)                                                            
+111SN  L 4617      10                                                           
+111SNX L XREF=C                                                                 
+111SN  L 4839.0    4 27/2-                                                      
+111SNX L XREF=GIJ$FLAG=C                                                        
+111SN  G 1218.5    2 100                                                        
+111SN  L 4877.2    3 27/2-             0.49 PS   +2-3                           
+111SN cL T$From 2008Ga26                                                        
+111SNX L XREF=GHIJ$FLAG=D                                                       
+111SN cL $ Q{-t}=2.93 {I10}, |b{-2}=0.21 {I1}                                   
+111SN  G 802.9     1 100     4 E2                                               
+111SNB G BE2W=93 4                                                              
+111SN  G 1088.6    5 5.6     11                                                 
+111SN  L 4988.7    4 (27/2)                                                     
+111SNX L XREF=I$FLAG=B                                                          
+111SN  G 914.6     2 93      11                                                 
+111SN  G 1033.1    2 100     11                                                 
+111SN  L 5746.2    4 31/2-             0.173 PS  14                             
+111SN cL T$From 2008Ga26                                                        
+111SNX L XREF=GHIJ$FLAG=D                                                       
+111SN cL $ Q{-t}=3.95 {I+21-18}, |b{-2}=0.28 {I2}                               
+111SN  G 869.8     5  100      E2                                               
+111SNB G BE2W=171 +13-11                                                        
+111SN  G 907.9     5 4.2                                                        
+111SN  L 5766.8    4 (29/2,31/2)                                                
+111SNX L XREF=I$FLAG=C                                                          
+111SN  G 889.8     2 100     12                                                 
+111SN  G 927.4     3 79      9                                                  
+111SN  L 6131.4    4 (31/2)                                                     
+111SNX L XREF=I$FLAG=D                                                          
+111SN  G 364.8     9 18      9                                                  
+111SN  G 1142.7    5 61      15                                                 
+111SN  G 1254.1    3 100     15                                                 
+111SN  L 6688.6    8 35/2-             0.152 PS  14                             
+111SN cL T$From 2008Ga26                                                        
+111SNX L XREF=GHIJ$FLAG=D                                                       
+111SN cL $Q{-t}=3.77 {I+27-24}, |b{-2}=0.26 {I2}                                
+111SN  G 942.4     7 100        E2                                              
+111SNB G BE2W=158 +16-14                                                        
+111SN  L 6842.8    4 (31/2,33/2)                                                
+111SNX L XREF=HI$FLAG=CC                                                        
+111SN  G 1076.0    1 100     8                                                  
+111SN  G 1096.7    2 79      9                                                  
+111SN  L 7683.9    1239/2-             0.159 PS  21                             
+111SN cL T$From 2008Ga26                                                        
+111SNX L XREF=GHJ$FLAG=D                                                        
+111SN cL $ Q{-t}=3.2 {I3}, |b{-2}=0.23 {I2}                                     
+111SN  G 995.3     9 100        E2                                              
+111SNB G BE2W=116 +14-13                                                        
+111SN  L 8738.5    1243/2-             0.125 PS  +21-14                         
+111SN cL T$From 2008Ga26                                                        
+111SNX L XREF=GHJ$FLAG=D                                                        
+111SN cL $ Q{-t}=3.1 {I3}, |b{-2}=0.22 {I2}                                     
+111SN  G 1054.6    1 100        E2                                              
+111SNB G BE2W=108 14                                                            
+111SN  L 9860.3    1247/2-             0.14 PS   LT                             
+111SN cL T$From 2008Ga26                                                        
+111SNX L XREF=HJ$FLAG=D                                                         
+111SN  G 1121.8    2 100        E2                                              
+111SNB G BE2W>72                                                                
+111SN  L 11081.6   13(51/2-)                                                    
+111SNX L XREF=HIJ$FLAG=D                                                        
+111SN  G 1221.3    3 100                                                        
+111SN  L 12448.6   16(55/2-)                                                    
+111SNX L XREF=HJ$FLAG=D                                                         
+111SN  G 1367        100       Q                                                
+111SN  L 13983.6   19(59/2-)                                                    
+111SNX L XREF=H$FLAG=D                                                          
+111SN  G 1535        100       Q                                                
+111SN  L 15742.6   22(63/2-)                                                    
+111SNX L XREF=H$FLAG=D                                                          
+111SN  G 1759        100       Q                                                
+111SN  L 17812.7   24(67/2-)                                                   ?
+111SNX L XREF=H$FLAG=D                                                          
+111SN  G 2070        100       Q                                               ?
+

@@ -1,0 +1,1587 @@
+129TE    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
+129TE  H TYP=FUL$AUT=JANOS TIMAR AND ZOLTAN ELEKES, BALRAJ SINGH$               
+129TE2 H CIT=NDS 121, 143 (2014)$CUT=31-May-2014$                               
+129TE  Q 1502      3 6082.41 8 9664    19-3533.3 13    2012WA38                 
+129TE cQ $S(2n)=14865.8 {I17}, S(2p)=18112 {I10} (2012Wa38)                     
+129TE c  {+129}Te produced and identified by 1939Se05 in deuteron bombardment of
+129TE2c  tellurium, measured half-lives of ground state and isomers, later      
+129TE3c  reported in detail in 1940Se01. Earlier reports of T{-1/2} without     
+129TE4c  specific assignment to {+129}Te: 1935Am01; W. Bother and W. Gentner,   
+129TE5c  Naturwiss. 25, 191 (1937); G.F. Tape and J.M. Cook, Phys. Rev. 53, 676 
+129TE6c  (1938); P. Abelson, Phys. Rev. 55, 670 (1939).                         
+129TE c  Later studies of decay of {+129}Te g.s. and isomer: 1953Pa25, 1963Ma20,
+129TE2c  1963Br18, 1963Ha23, 1964De10, 1965An05, 1969Di01, 1970Bo02, 1971Ba28,  
+129TE3c  1972Em01, 1973Si14, 1974De15, 1976Ma35                                 
+129TE c  Nuclear structure calculations (levels, J, |p, spectroscopic factors): 
+129TE2c  2000Bu15, 1994Di06, 1986Ma05                                           
+129TE cG E,RI$The |g-ray data are primarily from (n,|g) and {+129}Sb |b{+-}     
+129TE2cG g.s. decay. When levels are populated in both (n,|g) and |b{+-} decay  
+129TE3cG of 4.366-h decay of {+129}Sb, values are unweighted averages with a    
+129TE4cG minimum uncertainty of 0.05 keV for gamma-ray energy. For high-spin    
+129TE5cG (J>11/2) data, values are unweighted averages from ({+64}Ni,X|g) and   
+129TE5cG 17.7-min decay of {+129}Sb, when a level is populated in both studies. 
+129TE cG E(X)$|g reported in {+129}Sb |b{+-} (4.366 h), not in (n,|g)           
+129TE cG E(Y)$Doublet in {+129}Sb |b{+-} (4.366 h)                              
+129TE cG E(Z)$E|g not included in the fitting procedure due to poor agreement   
+129TE cG E(U)$Uncertainty doubled in the fitting procedure                      
+129TE cG E(P)$Placement is not unique; also in |g|g coin with 359|g.            
+129TE cG M$From |g(|q) data at low temperature in {+129}Sb |b{+-} g.s. decay.   
+129TE2cG Mixing ratios are mostly double values and are given under comments    
+129TE cG M(M)$|DJ=2, Q from |g|g(|q), and RUL                                   
+129TE cL E$From least-squares fit to E|g data for levels populated in           
+129TE2cL |g-ray studies. In order to get an acceptable fit with reasonable      
+129TE3cL reduced |h{+2}, uncertainties of about 9 |g rays were doubled and      
+129TE4cL another 4 |g rays not included in the fit. With these adjustments      
+129TE5cL reduced |h{+2}=1.9 somewhat larger than critical |h{+2} of 1.3.        
+129TE6cL For levels populated in particle-transfer data only, values are mainly 
+129TE7cL from (d,p) and (d,t). For energies taken from (d,p), 0.5 keV systematic
+129TE8cL uncertainty is added in quadrature, and for energies from (d,t),       
+129TE9cL uncertainty of 0.5 to 5 keV has been added in quadrature based on      
+129TEAcL statement in 2003Wi02.                                                 
+129TE cL J$For levels populated in high-spin studies, ascending order of spins  
+129TE2cL with excitation energy is assumed based on yrast pattern of population 
+129TE  XA129SB B- DECAY (4.366 H)                                               
+129TE  XB129SB B- DECAY (17.7 M)                                                
+129TE  XC129TE IT DECAY (33.6 D)                                                
+129TE  XD128TE(N,G) E=THERMAL                                                   
+129TE  XE128TE(N,G),(N,N):RESONANCES                                            
+129TE  XF128TE(D,P),(POL D,P)                                                   
+129TE  XG128TE(T,D)                                                             
+129TE  XM128TE(A,3HE)                                                           
+129TE  XHCOULOMB EXCITATION                                                     
+129TE  XI130TE(P,D)                                                             
+129TE  XJ130TE(D,T),(POL D,T)                                                   
+129TE  XK130TE(3HE,A)                                                           
+129TE  XL130TE(64NI,XG)                                                         
+129TE  XN238U(12C,FG),208PB(18O,FG)                                             
+129TE PN                                                                     6  
+129TE  L 0.0         3/2+              69.6 M    3                              
+129TE2 L %B-=100                                                                
+129TE2 L MOMM1=0.702 4 (1979Ge04,2014StZZ)                                      
+129TE2 L MOME2=0.055 13 (1987Be36,2014StZZ)                                     
+129TEX L XREF=ABCDFGHIJKMN$                                                     
+129TE cL MOMM1$NMR on oriented nuclei (1979Ge04). Other: 0.66 {i5} (1973Si06,   
+129TE2cL low-temperature nuclear orientation following decay of {+129}Te)       
+129TE cL MOME2$Mossbauer detection of oriented nuclei (1987Be36).               
+129TE cL J$L=2 in (t,d), ({+3}He,|a), (p,d) and (d,p); log| {Ift}=5.8 to 5/2+   
+129TE2cL level in {+129}I forbids 1/2+                                          
+129TE cL $Configuration=|n2d{-3/2}                                              
+129TE cL T$weighted average of 68.7 min {i4} (1963Br18), 69.5 min {i5}          
+129TE2cL (1963Ha23), 70.2 min {i3} (1970Bo22). Others: 72 min {i3} (1940Se01),  
+129TE3cL 67.5 min {i10} (1963Ma20), 1956Gr10, 1948Wa13, 1939Ab02                
+129TE  L 105.51    3 11/2-             33.6 D    1                           M1 
+129TE2 L %IT=64 7$%B-=36 7$                                                     
+129TE2 L MOMM1=-1.091 7 (1980Ge02,2014StZZ)                                     
+129TE2 L MOME2=+0.40 3 (2006Si40,2014StZZ)                                      
+129TE cL $Configuration=|n1h{-11/2}                                             
+129TEX L XREF=ABCDFGHIJKLMN$                                                    
+129TE cL %IT,%B-$deduced by the evaluators from the measured ratio I|b(to       
+129TE2cL g.s.)/I|b(to 27 level in {+129}I)=0.58 {i18} in equilibrium between the
+129TE3cL 33.6-d and 69.6-M {+129}Te activities (1964De10,1969Di01), together    
+129TE4cL with the {+129}I level scheme from 1976Ma35.                           
+129TE cL MOMM1$NMR on oriented nuclei (1980Ge02). Others: -1.10 {I3}            
+129TE2cL (2006Si40, laser spectroscopy on resonant ionization of laser-desorbed 
+129TE3cL atoms at COMPLIS facility in ISOLDE-CERN), -1.15 {I5} (1973Si26, low-  
+129TE4cL temperature nuclear orientation following decay of {+129}Te isomer).   
+129TE5cL 2014StZZ cite 1979Ge04 reference incorrectly                           
+129TE cL MOME2$laser spectroscopy on resonant ionization of laser-desorbed      
+129TE2cL atoms at COMPLIS facility in ISOLDE-CERN (2006Si40)                    
+129TE cL $Charge radius measurement: 2006Si40                                   
+129TE cL J$L=5 in (t,d), ({+3}He,|a), (p,d) and (d,p); M4 |g to 3/2+            
+129TE cL T$weighted average of 33.3 d {i1} (1953Pa25), 33.8 d {i3} (1963Ha23),  
+129TE2cL 34.1 d {i2} (1965An05,1972Em01), 33.2 d {i5} (1970Bo22), 33.52 d       
+129TE3cL {i12} (1971Ba28). Others: 32 d {i2} (1940Se01), 1948Wa13, 1951Co34,    
+129TE4cL 1956Gr10, 1963Ma20, 1965Br34                                           
+129TE  G 105.50    5 100       M4                      429    7                 
+129TES G KC=217 3$LC=165.3 24$MC=38.5 6$ NC=7.43 11$OC=0.656 10                 
+129TE cG M$from {+129}Te IT decay. |a(K)exp and L-subshell ratios               
+129TE2cG (1977So06,1972Ka61).                                                   
+129TE cG E$from IT decay (33.6 d).                                              
+129TEB G BM4W=4.0 11                                                            
+129TE  L 180.356   16 1/2+                                                      
+129TEX L XREF=ADFGHIJ$                                                          
+129TE cL $Configuration=|n3s{-1/2}                                              
+129TE cL J$L=0 in (t,d), (d,p) and (d,t).                                       
+129TE  G 180.37    5 100       [M1]                    0.1311 21                
+129TES G KC=0.1130 18$LC=0.01448 23$MC=0.00289 5$                               
+129TES G NC=0.000572 10$OC=6.21E-5 10                                           
+129TE DG $EG=180.42 1 in 129SB g.s. decay, 180.33 3 in (n,G)                    
+129TE  L 250       5                                                            
+129TEX L XREF=I                                                                 
+129TE  L 360       5 (5/2+,3/2+)                                                
+129TEX L XREF=IK(372)                                                           
+129TE cL J$L=(2) in ({+3}He,|a).                                                
+129TE cL E$from (p,d).                                                          
+129TE  L 455       5 7/2+,9/2+                                                  
+129TEX L XREF=IK                                                                
+129TE cL J$L=4 in (p,d),({+3}He,|a).                                            
+129TE cL E$from (p,d).                                                          
+129TE  L 464.659   25  9/2(-)                                                   
+129TEX L XREF=ADH                                                               
+129TE cL J$|g to 11/2-; 359|g(|q) does not allow 7/2                            
+129TE  G 359.19    5 100        (M1+E2)                0.0216 4                 
+129TE cG E$from (n,|g).                                                         
+129TE cG $|d(E2/M1)=-0.025 {I22} or -27 {I14}                                   
+129TE DG $EG=359.20 1 in 129SB g.s. decay, 359.19 5 in (n,G)                    
+129TE  L 544.585   20 5/2+                                                      
+129TEX L XREF=ADFGHIJM                                                          
+129TE cL J$L=2 in (t,d); L=2, L+1/2 in (pol d,p) and (pol d,t).                 
+129TE  G 364.24    5  2.4    4 [E2]                    0.0208                   
+129TE DG $EG=364.21 3 in 129SB g.s. decay, 364.26 10 in (n,|g)                  
+129TE cG RI$unweighted average from (n,|g) and {+129}Te g.s. decay              
+129TES G KC=0.01753 25$LC=0.00266 4$MC=0.000537 8$                              
+129TES G NC=0.0001044 15$OC=1.053E-5 15                                         
+129TE  G 544.59    5 100.0   9 (M1+E2)                                          
+129TE DG $EG=544.56 1 in 129SB g.s. decay, 544.61 3 in (n,|g)                   
+129TE  L 633.801   24 5/2+                                                      
+129TEX L XREF=ADFGH                                                             
+129TE cL J$L=2 in (t,d); log| {Ift}=8.6 from 7/2+                               
+129TE  G 453.38    5 23.6    23                                                 
+129TE cG RI$unweighted average from (n,|g) and {+129}Te g.s. decay              
+129TE DG $EG=453.44 1 in 129SB g.s. decay, 454.33 3 in (n,|g)                   
+129TE  G 633.76    5 100.0   10 (M1+E2)                                         
+129TE DG $EG=633.74 1 in 129SB g.s. decay, 633.78 3 in (n,|g)                   
+129TE cG $|d(E2/M1)=+0.58 {I5} or +4.3 {I7}                                     
+129TE  L 759.84    3 7/2-                                                       
+129TEX L XREF=ADFGHJ                                                            
+129TE cL J$L(d,p)=3; L+1/2 from (pol d,p)                                       
+129TE  G 295.27    5 29.9    20 (M1+E2)                0.038  3                 
+129TE DG $EG=295.26 1 in 129SB g.s. decay, 259.27 4 in (n,|g)                   
+129TE cG RI$unweighted average from (n,|g) and {+129}Te g.s. decay              
+129TE cG $|d(E2/M1)=-0.07 {I4} or -6.3 {I15}                                    
+129TE  G 654.29    5 100.0   10 (E2)                                            
+129TE DG $EG=654.28 1 in 129SB g.s. decay, 654.30 3 in (n,|g)                   
+129TE  L 773.23    3  1/2+                                                      
+129TEX L XREF=DFIK(783)                                                         
+129TE cL J$L=0 in (d,p)                                                         
+129TE  G 592.81    5 31.9    7                                                  
+129TE  G 773.22    5 100     7                                                  
+129TE  L 812.991   19 7/2+                                                      
+129TEX L XREF=ADFGHI(819)JN                                                     
+129TE cL J$L=4 and analyzing power in (pol d,p).                                
+129TE  G 268.48    5  0.444  7 (M1,E2)                 0.051  5             X   
+129TES G KC=0.043 4$LC=0.0064 14$MC=0.0013 3$                                   
+129TES G NC=0.00025 6$OC=2.5E-5 4                                               
+129TE cG $|d(E2/M1)=+0.47 {I19} or +9 {I6}                                      
+129TE dG E$0.02 uncertainty quoted in 1989WaZJ increased to 0.05                
+129TE  G 812.95    5 100.0   10 (E2)                                            
+129TE DG $EG=812.97 1 in 129SB g.s. decay, 812.93 7 in (n,|g)                   
+129TES G CC=0.00232 4$KC=0.00200 3$LC=0.000257 4$MC=5.13E-5 8$                  
+129TES G NC=1.010E-5 15$OC=1.079E-6 16                                          
+129TE  L 865.4     5 (7/2+)                                                     
+129TEX L XREF=FJ                                                                
+129TE cL J$L=(4) and analyzing power in (pol d,p) and (pol d,t).                
+129TE  L 865.51    11 15/2(-)                                                   
+129TEX L XREF=BHLN                                                              
+129TE cL J$|DJ=2, Q G to 11/2-; systematics of nuclei in this mass region       
+129TE  G 759.82    15 100        Q                                              
+129TE DG E$^NRM weighted average of 759.8 1 in 129SB isomer decay, 760.1 1 in   
+129TE2DG (64NI,XG), 759.4 2 in (12C,FG)                                         
+129TE cG M$from |g|g(|q) in {+238}U({+12}C,F|g)                                 
+129TE  L 874.945   22  3/2+                                                     
+129TEX L XREF=ADFHIJK                                                           
+129TE cL J$L=2 in ({+3}He,|a) and (d,p); |g(|q) in {+129}Sb g.s. decay          
+129TE  G 330.32    5 13.6    6                                                  
+129TE cG RI$from {+129}Te g.s. decay. I|g=34.6 {I6} in (n,|g) is in disagreement
+129TE DG $EG=330.33 4 in 129SB g.s. decay, 330.32 5 in (n,|g)                   
+129TE  G 694.63    14  72    4                                                  
+129TE DG $EG=694.77 3 in 129SB g.s. decay, 694.49 3 in (n,|g)                   
+129TE  G 874.83    5 100.0   9  (M1+E2)                                         
+129TE DG $EG=874.89 3 in 129SB g.s. decay, 874.78 4 in (n,|g)                   
+129TE cG $|d(E2/M1)=0.00 {I2} or +3.9 {I4}                                      
+129TE  L 878       5 5/2-,7/2-                                                  
+129TEX L XREF=G                                                                 
+129TE cL J$L=3 in (t,d).                                                        
+129TE  L 966.902   22 5/2+                                                      
+129TEX L XREF=ADFGIJK                                                           
+129TE cL J$L=2 in (t,d); L=2 and analyzing power in (pol d,p).                  
+129TE  G 333.21    5  1.91   4                                              X   
+129TE  G 421.72    10 0.56   4                                              U   
+129TEF G FL=544.585                                                             
+129TE  G 786.41    5  11.95  12                                                 
+129TE cG RI$from {+129}Te g.s. decay. I|g=33.6 {I24} in (n,|g) is in            
+129TExcG disagreement                                                           
+129TE DG $EG=786.36 1 in 129SB g.s. decay, 786.45 7 (uncertain) in (n,|g)       
+129TE  G 966.83    5 100.0   10 (M1+E2)                                         
+129TE DG $EG=966.78 1 in 129SB g.s. decay, 966.87 7 in (n,|g)                   
+129TE cG $|d(E2/M1)=+0.18 {I1} or -9.1 {I10}                                    
+129TE  L 1155      5 1/2+                                                       
+129TEX L XREF=G                                                                 
+129TE cL J$L=0 in (t,d).                                                        
+129TE  L 1162.25   5 (7/2)-                                                     
+129TEX L XREF=DF                                                                
+129TE cL J$L(d,p)=3; |g to 11/2-.                                               
+129TE  G 697.59    5 100.0   11                                                 
+129TE  G 1056.53   16 7.9    6                                                  
+129TE  L 1211.8    8 7/2+                                                       
+129TEX L XREF=FGJ                                                               
+129TE cL J$L=4 and analyzing power in (pol d,p).                                
+129TE  L 1217      5 3/2+,5/2+                                                  
+129TEX L XREF=I                                                                 
+129TE cL J$L=2 in (p,d).                                                        
+129TE  L 1221.28   3  (5/2-,7/2+)                                               
+129TEX L XREF=D                                                                 
+129TE cL J$gammas to 3/2+ and 9/2-                                              
+129TE  G 461.47    5 21.0    10                                                 
+129TE  G 756.59    3 100     10                                                 
+129TE  G 1221.23   134.2     6                                                  
+129TE  L 1227.98   3  (7/2-,9/2+)                                               
+129TEX L XREF=A                                                                 
+129TE cL J$gammas to 5/2+ and 11/2-; 5/2 ruled out from |g(|q) of 500|g         
+129TE2cL from 1727 level. 9/2 from |g(|q) of 683|g. 525|g(|q)                   
+129TE3cL from 1754 level fits 7/2 somewhat better                               
+129TE  G 415.17    5  1.67   7                                              U   
+129TE  G 682.77    5 100.0   10                                             Y   
+129TEF G FLAG=Z                                                                 
+129TEF G FL=544.585                                                             
+129TE cG E$poor fit, level-energy difference=683.40                             
+129TE  G 1122.48   5  1.60   5                                              U   
+129TE  L 1233.81   9 3/2+,5/2+                                                  
+129TEX L XREF=DF                                                                
+129TE cL J$L(d,p)=2                                                             
+129TE  G 689.22    9  111    17                                             @   
+129TE  G 1053.36   19 100    6                                                  
+129TE  L 1281.64   3 5/2+                                                       
+129TEX L XREF=ADFGI(1290)J                                                      
+129TE cL J$L=2 and analyzing power in (pol d,p); also |g(|q) in {+129}Sb g.s.   
+129TExcL decay                                                                  
+129TE  G 314.40    5  22.0   4                                              X   
+129TEF G FLAG=U                                                                 
+129TEF G FL=966.902                                                             
+129TE  G 737.00    6  88     9                                                  
+129TE DG $EG=737.07 1 in 129SB g.s. decay, 736.94 6 in (n,|g)                   
+129TE  G 1281.65   6 100.0   10                                                 
+129TE DG $EG=1281.72 1 in 129SB g.s. decay, 1281.59 10 in (n,|g)                
+129TE  L 1303.41   6 1/2+                                                       
+129TEX L XREF=DFJ                                                               
+129TE cL J$L(d,p)=0                                                             
+129TE  G 669.64    8 43.9    23                                                 
+129TE  G 1123.01   7 100     4                                                  
+129TE  G 1303.6    4 40      4                                                  
+129TE  L 1318.30   3 7/2+                                                       
+129TEX L XREF=ADF(1319.0)G(1306)JK(1280)                                        
+129TE cL J$L=4 and analyzing power in (d,p).                                    
+129TE  G 351.46    11 2.7    3                                              X   
+129TE  G 505.33    5  18.33  19                                                 
+129TE  G 684.39    21 22.01  22                                                 
+129TE cG RI$from {+129}Sb decay. I|g=172 {I12} in (n,|g) is discrepant,         
+129TE2cG probably due to incorrect splitting of doublet at 773.2 keV.           
+129TE3cG I|g(684)/I|g(1318)=1.35 {I2} in {+129}Sb decay as compared to 1.06     
+129TExcG {I17} in (n,|g)                                                        
+129TE DG $EG=684.18 1 in 129SB g.s. decay, 684.6 3 in (n,|g)                    
+129TE  G 773.29    7 100.0   10                                             Z   
+129TE DG $EG=773.37 1 in 129SB g.s. decay, 773.22 3 doublet in (n,|g)           
+129TEF G FL=544.585                                                             
+129TE  G 1318.42   12 16.35  17                                                 
+129TE cG RI$from {+129}Sb decay. I|g=159 {I20} in (n,|g) is discrepant          
+129TE DG $EG=1318.30 1 in 129SB g.s. decay, 1318.54 22 in (n,|g)                
+129TE  L 1384.98   5  (3/2-,5/2,7/2+)                                           
+129TEX L XREF=A                                                                 
+129TE cL J$|g to 3/2+; log| {Ift}=8.6 from 7/2+                                 
+129TE  G 840.17    22 27     9                                                  
+129TE  G 1384.98   5  100.0  24                                                 
+129TE  L 1405.66   5  (5/2,7/2,9/2+)                                            
+129TEX L XREF=A                                                                 
+129TE cL J$gammas to 5/2+ and 7/2+; log| {Ift}=8.6 from 7/2+                    
+129TE  G 592.77    6  61     4                                                  
+129TE  G 861.00    5  100.0  21                                                 
+129TE  L 1421.35   9 5/2+                                                       
+129TEX L XREF=DF(1419.4)G(1435)I(1430)J                                         
+129TE cL J$L=2 and analyzing power in (pol d,p).                                
+129TE  G 648.11    10 39.6   23                                                 
+129TE  G 1421.36   15 100    4                                                  
+129TE  L 1460.90   5  (5/2,7/2,9/2+)                                            
+129TEX L XREF=A                                                                 
+129TE cL J$gammas to 5/2+ and 7/2+; log| {Ift}=8.3 from 7/2+                    
+129TE  G 647.94    5  100.0  23                                                 
+129TE  G 826.75    16  54    16                                                 
+129TE  L 1481.21   5  (3/2-,5/2,7/2+)                                           
+129TEX L XREF=A                                                                 
+129TE cL J$|g to 3/2+; log| {Ift}=8.0 from 7/2+                                 
+129TE  G 514.43    8  100    8                                                  
+129TE  G 606.22    5   99    3                                                  
+129TE  L 1483.37   4  7/2+                                                      
+129TEX L XREF=AFGI(1490)J                                                       
+129TE cL J$L=4 and analyzing power in (pol d,p).                                
+129TE  G 670.31    5  100                                                       
+129TE  L 1515.7    10 (11/2+)                                                   
+129TEX L XREF=N                                                                 
+129TE  G 703.3     6  100                                                       
+129TE  L 1523.29   13 19/2(-)                                                   
+129TEX L XREF=BLN                                                               
+129TE cL J$|DJ=2 |g, Q to 15/2(-); systematics in this mass region              
+129TE  G 657.74    10 100         Q                                             
+129TEF G FL=865.51                                                              
+129TE DG E$weighted average of two values                                       
+129TE  L 1545.09   9  7/2+,9/2+                                                 
+129TEX L XREF=AK(1535)                                                          
+129TE cL J$L({+3}He,|a)=4; |g to 5/2+                                           
+129TE  G 1000.50   8  100                                                       
+129TE  L 1559.86   4 (3/2)-                                                     
+129TEX L XREF=DFG                                                               
+129TE cL J$L(d,p)=L(t,d)=1; |g to 7/2-.                                         
+129TE  G 338.65    8 71      5                                                  
+129TE  G 786.45    7 43      5                                                  
+129TE cG RI$doubly placed, intensity split based on {+129}Sb decay data         
+129TE  G 800.04    3 100     11                                                 
+129TE  G 1379.33   19 29     5                                                  
+129TE  G 1559.66   21 62     3                                                  
+129TE  L 1581.97   4 7/2+                                                       
+129TEX L XREF=AFJ                                                               
+129TE cL J$L=4 and analyzing power in (pol d,p).                                
+129TE  G 354.13    8  13.08  14                                                 
+129TE  G 707.08    5  43.1   14                                                 
+129TE  G 768.98    5  100.0  15                                                 
+129TE  L 1600.08   3  5/2+                                                      
+129TEX L XREF=ADFIJ                                                             
+129TE cL J$L=2 and analyzing power in (pol d,p); |g(|q) in {+129}Sb g.s. decay; 
+129TE2cL also L(p,d)=2                                                          
+129TE  G 318.36    5  13.08  14                                             X   
+129TE  G 787.16    5 100.0   11 (M1+E2)                                         
+129TE cG $|d(E2/M1)=+0.06 {I24} or -1 {I8}                                      
+129TE cG E$from {+129}Sb decay. Other: 786.45 {I7} doublet in (n,|g)            
+129TE  G 1419.40   12 22.7   3  (E2)                                        X   
+129TE  G 1600.13   5  33.4   3  (M1+E2)                                     X   
+129TE cG $|d(E2/M1)=+0.77 {I11} or +2.7 {I6}                                    
+129TE  L 1632.57   3  7/2-,9/2+                                                 
+129TEX L XREF=A                                                                 
+129TE cL J$|g(|q); 9/2- ruled out by 405|g(|q); |g to 9/2-; log| {Ift}=6.7 from 
+129TExcL 7/2+                                                                   
+129TE  G 404.64    5  84.4   8                                                  
+129TE cG $|d(Q/D)=+0.47 {I5} or +3.65 {I65} for 9/2 to 7/2; +0.10 {I4} or       
+129TE2cG +0.71 {I16} for 9/2 to 9/2; +0.12 {I19} or +0.93 {I34} for 7/2 to 7/2; 
+129TE3cG -0.45 to -1.73 for 7/2 to 9/2                                          
+129TE  G 819.51    5  100.0  21                                                 
+129TE  G 1087.98   5  29.6   6                                                  
+129TE  G 1167.95   5  18.2   2                                                  
+129TE  L 1654      5 1/2+                                                       
+129TEX L XREF=G                                                                 
+129TE cL J$L(t,d)=0                                                             
+129TE  L 1654.31   13(17/2-,19/2-)                                              
+129TEX L XREF=BLN                                                               
+129TE cL J$gammas to (15/2-) and (19/2-); possible                              
+129TE2cL configuration=|pg{-7/2}{+2}~#|nh{-11/2}                                
+129TE  G 131.0     1 84      8                                                  
+129TE DG RI$from (64NI,XG). Other: 150 50 in 129SB isomer decay                 
+129TE  G 788.8     1 100     10                                                 
+129TEF G FL=865.51                                                              
+129TE  L 1656.17   4 5/2+                                                       
+129TEX L XREF=ADF(1655.7)J                                                      
+129TE cL J$L=2 and analyzing power in (pol d,p).                                
+129TE  G 1022.12   7  2.24   22                                             X   
+129TE  G 1475.91   5  5.33   11                                             X   
+129TE  G 1656.20   10 100.0  11 (M1+E2)                                         
+129TE DG E$1656.10 1 in 129SB and 1656.29 13 in (n,|g)                          
+129TE cG $|d(E2/M1)=+0.02 {I3} or -3.7 {I4}                                     
+129TE  L 1672      10 3/2+,5/2+                                                 
+129TEX L XREF=I                                                                 
+129TE cL J$L(p,d)=2                                                             
+129TE  L 1723.5    5 5/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (d,t).                                    
+129TE  L 1727.1    10  (15/2+)                                                  
+129TEX L XREF=N                                                                 
+129TE  G 211.4     5  100                                                       
+129TE  L 1727.972  23(9/2)+                                                     
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=5.6 from 7/2+; |g(|q); |g to 11/2-.                       
+129TE  G 95.42     5  0.19   1  [D,E2]                 1.1    9                 
+129TE  G 146.11    5  0.39   1  [M1+E2]                0.34   11                
+129TE  G 244.53    5  1.73   2                                                  
+129TE  G 409.71    5  0.99   2                                                  
+129TE  G 499.99    5  1.84   2                                                  
+129TE cG $|d(Q/D)=-0.14 to -3.2 for J(1228)=7/2; no fit for 9/2                 
+129TE  G 761.12    5 18.51   19 (E2)                                            
+129TE  G 914.96    5 100.0   10  (M1+E2)                                        
+129TE cG $|d(E2/M1)=+0.105 {I15} or -15.5 {I30}                                 
+129TE  G 1263.30   5  3.90   4  (E1)                                            
+129TE  G 1622.46   5  0.89   1 (E1(+M2))                                        
+129TE cG $|d(M2/E1)=-0.07 {I10}                                                 
+129TE  L 1739.7    5 3/2+,5/2+                                                  
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=2                                                             
+129TE  L 1751.11   13(5/2,7/2,9/2)                                              
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=6.8 from 7/2+                                             
+129TE  G 523.13    12  100                                                  Y   
+129TE  L 1752.32   7  (5/2)-                                                    
+129TEX L XREF=DF(1752.7)                                                        
+129TE cL J$L(d,p)=3; |g to 3/2+                                                 
+129TE  G 590.00    9 47      3                                                  
+129TE  G 992.52    8 100     5                                                  
+129TE  G 1287.62   1847      5                                                  
+129TE  G 1752.6    4 40      12                                                 
+129TE  L 1753.35   5 5/2+                                                       
+129TEX L XREF=AG                                                                
+129TE cL J$L(t,d)=2; log| {Ift}=6.6 from 7/2+.                                  
+129TE  G 435.04    9  22.6   15                                             Y   
+129TE  G 471.54    9  4.8    4                                                  
+129TE  G 525.23    10 17     1                                                  
+129TE DG $|D(EG)=0.10 and 6% uncertainty in RI assumed                          
+129TE cG $|d(Q/D)=-0.34 {I7} or +4 {I8} if J(1228)=7/2; no fit for J(1228)=9/2  
+129TE  G 940.51    12 82     4                                              Y   
+129TE  G 1209.03   5  100.0  15 (M1+E2)                                     U   
+129TE  G 1646.79   5  2.87   10 [E3]                                        Z   
+129TEF G FL=105.51                                                              
+129TE cG E$poor fit, level-energy difference=1647.84                            
+129TE  L 1754.2    5 7/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=4 and analyzing power in (pol d,t).                                
+129TE  L 1762.45   4 (5/2+)                                                     
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=8.1 from 7/2+; |g to 1/2+                                 
+129TE  G 1582.11   5  100    4                                                  
+129TE  G 1762.42   5  94     3                                                  
+129TE  L 1777.8    6  (5/2,7/2,9/2+)                                            
+129TEX L XREF=AG(*)                                                             
+129TE cL J$log| {Ift}=8.2 from 7/2+; |g to 5/2+                                 
+129TE  G 1233.2    6  100                                                       
+129TE  L 1779.79   5  5/2+                                                      
+129TEX L XREF=AFG(*)JI(1797)                                                    
+129TE cL J$L=2 and analyzing power in (pol d,p). L(t,d)=(2)                     
+129TE  G 1779.78   5  100                                                       
+129TE  L 1812.8    6 7/2+                                                       
+129TEX L XREF=FJ                                                                
+129TE cL E,J$L=4 and analyzing power in (pol d,p).                              
+129TE  L 1839.2    6 (1/2+)                                                     
+129TEX L XREF=DFG                                                               
+129TE cL J$L(t,d)=(0)                                                           
+129TE cL E$from (d,p).                                                          
+129TE  L 1843.6    5  -                                                         
+129TEX L XREF=J                                                                 
+129TE cL E,J$doublet; L(d,t)=1+5 suggests 1/2-,3/2- for one                     
+129TE2cL component and 9/2-,11/2- for the other                                 
+129TE  L 1843.67   3  (9/2)+                                                    
+129TEX L XREF=AK                                                                
+129TE cL J$L({+3}He,|a)=4; |g to 11/2-; |g(|q)                                  
+129TE  G 115.84    5  0.58   2  [M1+E2]                  0.7  3                 
+129TE  G 876.65    5  18.2   4                                                  
+129TE  G 1030.65   5  100.0  10  (M1+E2)                                        
+129TE cG $|d(E2/M1)=+0.077 {I13} or -10.8 {I15}                                 
+129TE  G 1738.16   5  49.2   5                                                  
+129TE  G 1843.49   5  0.14   4   [M3]                                          ?
+129TE cG E$this transition is less certain                                      
+129TE  L 1851.55   6 5/2-,7/2-                                                  
+129TEX L XREF=DF(1852.9)                                                        
+129TE cL J$L(d,p)=3                                                             
+129TE  G 689.22    9 100     9                                              @   
+129TE  G 885.0     3 10.9    14                                                 
+129TE  G 1091.42   2313.9    20                                                 
+129TE  G 1851.28   1837      3                                                  
+129TE  L 1867.65   6  (5/2,7/2+)                                                
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=7.6 from 7/2+; |g to 3/2+                                 
+129TE  G 992.70    5  100                                                       
+129TE  L 1868.87   12 5/2+                                                      
+129TEX L XREF=DJ(1869.9)                                                        
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  G 1095.47   18100     8                                                  
+129TE  G 1234.5    3 100     8                                                  
+129TE  G 1324.6    3 81      8                                                  
+129TE  L 1869.6    5 5/2-,7/2-                                                  
+129TEX L XREF=FG                                                                
+129TE cL J$L(d,p)=3                                                             
+129TE  L 1870.57   3  5/2+                                                      
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=6.7 from 7/2+; |g(|q); |g to 1/2+.                        
+129TE  G 589.98    25  3.2   9                                                  
+129TE  G 996.54    5   25.3  6                                                  
+129TEF G FL=874.945                                                             
+129TE cG E$poor fit, level-energy difference=995.63                             
+129TE  G 1237.81   12  34.7  9  (M1+E2)                                     Y   
+129TEF G FL=633.801                                                             
+129TE cG E$poor fit, level-energy difference=1236.77                            
+129TE cG $|d(E2/M1)=-0.65 {I17} or -7 to +10                                    
+129TE  G 1326.98   5  100.0  10  (M1+E2)                                        
+129TEF G FL=544.585                                                             
+129TE cG E$poor fit, level-energy difference=1325.99                            
+129TE cG $|d(E2/M1)=+0.30 {I15} or +9.2 {I24}                                   
+129TE  G 1691.24   5  6.10   21                                                 
+129TEF G FL=180.356                                                             
+129TE cG E$poor fit, level-energy difference=1690.21                            
+129TE  G 1871.58   5  51.3   5  (M1+E2)                                         
+129TEF G FL=0.0                                                                 
+129TE cG $|d(E2/M1)=-0.07 {I6} or -2.8 {I6}                                     
+129TE  L 1886.64   14(21/2-)                                                    
+129TEX L XREF=LN                                                                
+129TE cL J$|DJ=1, d |g to 19/2(-); |g to (17/2-)                                
+129TE  G 232.2     2 21      4                                                  
+129TE  G 363.35    15 100    10 D                                               
+129TE  L 1887.5    6  (3/2+,5/2+)                                               
+129TEX L XREF=IJ                                                                
+129TE cL J$L(d,t)=(1,2); L(p,d)=(4+2)                                           
+129TE  L 1921.26   6 (5/2)+                                                     
+129TEX L XREF=AJK                                                               
+129TE cL J$L({+3}He,|a)=2; log| {Ift}=7.5 from 7/2+.                            
+129TE2cL L=(2) analyzing power in (pol d,t) suggests (3/2+)                     
+129TE  G 1287.45   5  100                                                       
+129TE  L 1939.52   4  (5/2,7/2,9/2)                                             
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=7.2 from 7/2+                                             
+129TE  G 657.6                                                                 ?
+129TE  G 1126.57   5  100.0  24                                                 
+129TE  G 1179.63   5  45.2   16                                                 
+129TE  L 1957.06   15(21/2-)                                                    
+129TEX L XREF=BLN                                                               
+129TE cL J$|DJ=1, dipole |g to 19/2(-); log| {Ift}=6.1 from (19/2-);            
+129TE2cL possible configuration=|pg{-7/2}d{-5/2}~#nh{-11/2} (1998Zh09)          
+129TE  G 433.74    9 100         D                                              
+129TE  L 1992.4    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2040.20   4 3/2-                                                       
+129TEX L XREF=DFGJ                                                              
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 480.22    21 18.5   3                                                  
+129TE  G 818.86    6 28.5    9                                                  
+129TE  G 1859.64   8 100     3                                                  
+129TE  G 2040.38   7 47      3                                                  
+129TE  L 2059.3    10 1/2+                                                      
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=0                                                             
+129TE  L 2071.400  22 5/2+                                                      
+129TEX L XREF=A                                                                 
+129TE cL J$|g(|q); log| {Ift}=5.5 from 7/2+; |g to 3/2+, weak |g to 1/2+        
+129TE  G 1104.52   5  46.7   5  (M1+E2)                                         
+129TE cG $|d(E2/M1)=-0.13 {I12} or +2.5 {I8}                                    
+129TE  G 1196.42   5  11.70  20                                                 
+129TE  G 1258.44   5  55.1   5  (M1+E2)                                         
+129TEF G FL=812.991                                                             
+129TE cG $|d(E2/M1)=-0.37 {I15} or -2.1 {I7}                                    
+129TE  G 1437.52   5  43.3   7  (M1+E2)                                         
+129TE cG $|d(E2/M1)=-1.0 {I4} or -2.2 to +45                                    
+129TE  G 1526.84   5  75.1   7  (M1+E2)                                         
+129TE cG $|d(E2/M1)=-0.10 {I9} or +2.1 {I5}                                     
+129TE  G 1606.72   5  2.7    3  [M2]                                            
+129TE  G 1891.10   7  2.18   13                                                 
+129TE  G 2071.36   5  100.0  10  (M1+E2)                                        
+129TE cG $|d(E2/M1)=-0.29 {I8} or +1.55 {I25}                                   
+129TE  L 2071.5    10  3/2+                                                     
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (POL d,t).                                
+129TE  L 2072.4    5 7/2-                                                       
+129TEX L XREF=FG                                                                
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  L 2086.10   3 (7/2+)                                                     
+129TEX L XREF=AI(2085)J(2089.9)                                                 
+129TE cL J$log| {Ift}=6.0 from 7/2+; |g to 3/2+; L(d,t)=(4)                     
+129TE  G 1211.89   17  100   16                                             U   
+129TE  G 1273.10   5  43.2   9                                                  
+129TEF G FL=812.991                                                             
+129TE  G 1541.47   5  17.6   5                                                  
+129TE  G 2086.11   5  14.18  25                                                 
+129TE  L 2106.6    5 7/2-                                                       
+129TEX L XREF=FGJM                                                              
+129TE cL J$L=3 and analyzing power in (pol d,p) and (pol d,t).                  
+129TE  L 2113.9    10 1/2+                                                      
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=0                                                             
+129TE  L 2114.58   3  5/2+                                                      
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=5.4 from 7/2+; 7/2+ ruled out by 2115|g(|q); |g to 3/2+.  
+129TE  G 796.21    6  4.6    3                                                  
+129TE  G 832.99    16 7.2    17                                                 
+129TE  G 1147.59   5  10.2   3                                                  
+129TE  G 1301.45   5  23.2   9                                                  
+129TEF G FL=812.991                                                             
+129TE  G 1480.94   12 42.8   6                                              Y   
+129TE  G 1570.09   5  100.0  10 (M1+E2)                                         
+129TE cG $|d(E2/M1)=-0.10 {I5} or +2.1 {I3}                                     
+129TE  G 2114.67   5  48.0   5  (M1+E2)                                         
+129TE cG $|d(E2/M1)=+0.17 {I5} or -9 {I3}                                       
+129TE  L 2131      5 (1/2+)                                                     
+129TEX L XREF=GI                                                                
+129TE cL J$L(t,d)=(0)                                                           
+129TE  L 2131.20   5   7/2-                                                     
+129TEX L XREF=AF(2132.7)                                                        
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  G 849.57    5  54.0   21                                                 
+129TE  G 903.19    8  100    5                                                  
+129TE  L 2133.0    10 9/2-,11/2-                                                
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=5                                                             
+129TE  L 2134.86   5  (5/2-,7/2+)                                               
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=6.5 from 7/2+; gammas to 3/2+ and 9/2-                    
+129TE  G 1501.04   5  100    3                                                  
+129TE  G 1669.16   7  36.3   24                                             Z   
+129TEF G FL=464.659                                                             
+129TE cG E$poor fit, level-energy difference=1670.20                            
+129TE  G 2134.86   5  62.1   16                                             U   
+129TE  L 2137.83   17(23/2+)           33 NS     3                              
+129TEX L XREF=LN                                                                
+129TE cL T$|g(t) in ({+64}Ni,X|g).                                              
+129TE cL J$|DJ=1, dipole |g to (21/2-); level systematics of {+128}Te and       
+129TE2cL {+130}Te (1998Zh09)                                                    
+129TE  G 180.4     2 35      4  (E1)                   0.0374                   
+129TEB G BE1W=3.5E-7 6                                                          
+129TE  G 251.1     2 100     11 (E1)                   0.0152                   
+129TEF G FL=1886.64                                                             
+129TEB G BE1W=3.6E-7 7                                                          
+129TE  L 2141.8    10 7/2+                                                      
+129TEX L XREF=IJ                                                                
+129TE cL J$L=4 and analyzing power in (pol d,t).                                
+129TE  L 2182.6    10 3/2+                                                      
+129TEX L XREF=JK                                                                
+129TE cL E,J$L=2 and analyzing power in (pol d,t).                              
+129TE  L 2197.7    11(5/2-,7/2-)                                                
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=(3)                                                           
+129TE  L 2220.9    4  (3/2,5/2+)                                                
+129TEX L XREF=D                                                                 
+129TE cL J$gammas to 1/2+, 5/2+ and 5/2-; weak primary |g from 1/2+             
+129TE  G 1000.26   1034.7    14                                                 
+129TE  G 1677.29   1549      5                                                  
+129TE  G 2041.6    7 34.7    14                                                 
+129TE  G 2221.5    7 100     14                                                 
+129TE  L 2221.3    5 7/2-                                                       
+129TEX L XREF=FGIJM                                                             
+129TE cL J$L=3 and analyzing power in (pol d,p); L(p,d)=(0+2) is inconsistent   
+129TE  L 2232.2    5  5/2-,7/2-                                                 
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=3                                                             
+129TE  L 2255.1    15 1/2+                                                      
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=0                                                             
+129TE  L 2265.29   4   (5/2+,7/2+)                                              
+129TEX L XREF=A                                                                 
+129TE cL J$log| {Ift}=4.8 from 7/2+; |g to 3/2+                                 
+129TE  G 1037.29   5  100    3                                                  
+129TE  G 1298.7    4  38     13                                                 
+129TE  G 2265.27   5  11.0   3                                                  
+129TE  L 2267.20   4 3/2-                                                       
+129TEX L XREF=DF(2267.6)G(2261)J(2266.6)                                        
+129TE cL J$L=1 and analyzing power in (pol d,p). L(d,t)=(2) is inconsistent     
+129TE  G 707.21    15 31     5                                                  
+129TE  G 1045.83   1027.3    15                                                 
+129TE  G 1105.46   1115.2    15                                             U   
+129TE  G 1493.91   1222      3                                                  
+129TE  G 1633.6    3 20      4                                                  
+129TE  G 2086.84   6 100.0   23                                                 
+129TE  G 2267.1    9 9.1     23                                                 
+129TE  L 2278.5    15(7/2)+                                                     
+129TEX L XREF=IJ                                                                
+129TE cL J$L=4 and analyzing power in (pol d,t); L(p,d)=(0+2) is inconsistent   
+129TE  L 2303.7    16 9/2-,11/2-                                                
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=5                                                             
+129TE  L 2309.7    15 1/2+                                                      
+129TEX L XREF=GJ                                                                
+129TE cL J$L(d,t)=0                                                             
+129TE  L 2312.2    5 7/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  L 2316.6    15(11/2)-                                                    
+129TEX L XREF=J                                                                 
+129TE cL J$L=5 and analyzing power in (pol d,t).                                
+129TE  L 2353.8    15 1/2+                                                      
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=0                                                             
+129TE  L 2360.472  21 3/2-                                                      
+129TEX L XREF=DFG                                                               
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 704.40    180.81    8                                                  
+129TE  G 800.40    202.8     4                                                  
+129TE  G 1139.21   132.27    17                                                 
+129TE  G 1485.48   161.92    12                                                 
+129TE  G 1586.7    5 0.81    23                                                 
+129TE  G 1815.6    5 0.47    12                                                 
+129TE  G 2180.12   3 100     3                                                  
+129TE  G 2360.42   3 18.72   17                                                 
+129TE  L 2362.6    16  (1/2-)                                                   
+129TEX L XREF=J                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,t).                                
+129TE  L 2370.5    16(3/2)+                                                     
+129TEX L XREF=IJK                                                               
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2377.4    16  (1/2-)                                                   
+129TEX L XREF=J                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,t).                                
+129TE  L 2379.555  23 3/2-                                                      
+129TEX L XREF=DFG                                                               
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 527.90    8 3.86    19                                                 
+129TE  G 723.22    14 1.9    4                                                  
+129TE  G 1097.9    3 8.6     7                                                  
+129TE  G 1158.37   12 14.6   7                                                  
+129TE  G 1412.4    5 1.4     4                                                  
+129TE  G 1504.3    3 10.0    16                                                 
+129TE  G 1606.60   1310.5    9                                                  
+129TE  G 1619.5    6 6.0     7                                                  
+129TE  G 1745.7    3 4.2     9                                                  
+129TE  G 1834.9    3 4.6     4                                                  
+129TE  G 2199.21   3 100.0   11                                                 
+129TE  G 2379.51   4 36.1    7                                                  
+129TE  L 2416      2 5/2+                                                       
+129TEX L XREF=I(2395)J                                                          
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE cL E$2395 in (p,d) may correspond to 2377.4, 2379.5 and/or 2379.5 levels, 
+129TE2cL but more likely to 2416 from level populations in similar (d,t) and    
+129TE3cL (p,d) reactions, and energy matching                                   
+129TE  L 2427.2    5 7/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  L 2432      2 1/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=0                                                             
+129TE  L 2454      2 7/2+,9/2+                                                  
+129TEX L XREF=IJ                                                                
+129TE cL J$L(d,t)=4                                                             
+129TE  L 2462.5    5 7/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  L 2465      2 (3/2+,5/2+)                                                
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=(2)                                                           
+129TE  L 2477      2 (3/2+,5/2+)                                                
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=(2)                                                           
+129TE  L 2482      2 7/2+,9/2+                                                  
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=4                                                             
+129TE  L 2491      5 1/2+                                                       
+129TEX L XREF=G                                                                 
+129TE cL J$L(t,d)=0                                                             
+129TE  L 2493.06   11 3/2-                                                      
+129TEX L XREF=DF(2491.6)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 623.87    2064      9                                                  
+129TEF G FL=1868.87                                                             
+129TE  G 641.84    17 79     9                                                  
+129TE  G 1526.4    6 79      21                                                 
+129TE  G 2312.7    8 86      21                                                 
+129TE  G 2493.1    6 100     21                                                 
+129TE  L 2507      3 (3/2)+                                                     
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2507.1    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2510.79   16 23/2(-)                                                   
+129TEX L XREF=LN                                                                
+129TE cL J$|DJ=2, Q |g to 19/2(-); possible configuration=                      
+129TE2cL |pg{-7/2}{+2}~#|nh{-11/2}                                              
+129TE  G 987.5     1 100          Q                                             
+129TE  L 2511.0    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2515      25 9/2-,11/2-                                                
+129TEX L XREF=K                                                                 
+129TE cL J$L({+3}He,|a)=5                                                       
+129TE  L 2519      3 3/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2524.76   3 1/2-                                                       
+129TEX L XREF=DF(2524.4)I                                                       
+129TE cL J$L=1 and analyzing power in (pol d,p). L(p,d)=(2) is inconsistent     
+129TE  G 1649.47   9 28      8                                              @   
+129TEF G FL=874.945                                                             
+129TE  G 2343.7    3 17.3    18                                                 
+129TE  G 2524.78   3 100     27                                             @   
+129TE  L 2556      3 5/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2581.67   8 3/2-                                                       
+129TEX L XREF=DF(2581.1)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 729.97    1070      5                                                  
+129TE  G 1360.4    4 63      11                                                 
+129TE  G 2401.74   22100     7                                                  
+129TE  G 2581.5    9 33      7                                                  
+129TE  L 2584      3 (3/2)+                                                     
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2612.4    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2616      4 (3/2+,5/2+)                                                
+129TEX L XREF=IJ                                                                
+129TE cL J$L(d,t)=(2)                                                           
+129TE  L 2632      4 5/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2641.3    6 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2671      4 (3/2+,5/2+)                                                
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=(2)                                                           
+129TE  L 2681      4 9/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=4 and analyzing power in (pol d,t).                                
+129TE  L 2705.130  21 1/2-                                                      
+129TEX L XREF=DF(2705.8)J(2702)                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p) and (pol d,t)                   
+129TE  G 344.55    104.6     3                                                  
+129TE  G 437.4     4 1.5     3                                                  
+129TE  G 1401.4    3 2.7     4                                                  
+129TE  G 1470.9    4 5.6     8                                              P   
+129TE  G 1830.22   4 44.2    4                                                  
+129TE  G 1931.91   236.5     10                                                 
+129TE  G 2071.03   239.0     6                                                  
+129TE  G 2524.78   3 100     6                                              @   
+129TE  G 2705.07   4 67.3    6                                                  
+129TE  L 2711      4 5/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2728.2    5 1/2-,3/2-                                                  
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=1                                                             
+129TE  L 2736.6    5 (3/2-)                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=(1) and analyzing power in (pol d,p).                              
+129TE  L 2747      4 3/2+,5/2+                                                  
+129TEX L XREF=IJK                                                               
+129TE cL J$L(d,t)=2; L(p,d) is inconsistent                                     
+129TE  L 2757      4 (3/2)+                                                     
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2765.3    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2767      4 (5/2+)                                                     
+129TEX L XREF=J                                                                 
+129TE cL J$L=(2) and analyzing power in (pol d,t).                              
+129TE  L 2811.7    5 (9/2-,11/2-)                                               
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(5)                                                           
+129TE  L 2819.5    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2824      5 7/2+,9/2+                                                  
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=4                                                             
+129TE  L 2831      5 (3/2+)                                                     
+129TEX L XREF=J                                                                 
+129TE cL J$L=(2) and analyzing power in (pol d,t).                              
+129TE  L 2835.2    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2840.3    6  27/2(-)                                                   
+129TEX L XREF=N                                                                 
+129TE cL J$|DJ=2, (E2) |g to 2/2(-)                                             
+129TE  G 330.4     3  100        (E2)                                       M   
+129TEF G FL=2510.79                                                             
+129TE  L 2844      5 3/2+,5/2+                                                  
+129TEX L XREF=J                                                                 
+129TE cL J$L(d,t)=2                                                             
+129TE  L 2853.7    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2856      5 5/2+                                                       
+129TEX L XREF=J                                                                 
+129TE cL J$L=2 and analyzing power in (pol d,t).                                
+129TE  L 2859.5    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2871.2    5 (5/2-)                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=(3) and analyzing power in (pol d,p).                              
+129TE  L 2885.8    8                                                            
+129TEX L XREF=N                                                                 
+129TE  G 748.0     6  100                                                       
+129TEF G FL=2137.83                                                             
+129TE  L 2889.8    5 (5/2-,7/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(3)                                                           
+129TE  L 2891      15(3/2:9/2)(+)                                               
+129TEX L XREF=I                                                                 
+129TE cL J$L(p,d)=(4+2)                                                         
+129TE  L 2899.9    5 9/2-,11/2-                                                 
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=5                                                             
+129TE  L 2919.6    5 (5/2)-                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  L 2971.3    5 7/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  L 2979.4    5 5/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=3 and analyzing power in (pol d,p).                                
+129TE  L 2980      25 7/2+,9/2+                                                 
+129TEX L XREF=K                                                                 
+129TE cL J$L({+3}He,|a)=4                                                       
+129TE  L 2999.6    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3009.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3023.8    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3029.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3046.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3051.6    4 (27/2+)                                                    
+129TEX L XREF=LN                                                                
+129TE cL J$|DJ=2, Q |g to (23/2+)                                               
+129TE  G 913.9     3  100       Q                                               
+129TE  L 3056.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3070.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3077      15(3/2+,5/2+)                                                
+129TEX L XREF=IM(*)                                                             
+129TE cL J$L(p,d)=(2)                                                           
+129TE  L 3089.3    5                                                            
+129TEX L XREF=FM(*)                                                             
+129TE  L 3102.8    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3128.5    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3133.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3150.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3163.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3182.0    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3202.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3211.8    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3230.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3240      15(3/2:9/2)(+)                                               
+129TEX L XREF=I                                                                 
+129TE cL J$L(p,d)=(4+2)                                                         
+129TE  L 3246.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3253.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3260.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3277.1    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3281.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3295.7    7                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3306.4    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3321.4    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3326.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3350.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3355.46   10 3/2-                                                      
+129TEX L XREF=DF(3355.6)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3355.14   14                                                           
+129TE  L 3361.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3364.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3371.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3379.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3384.8    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3389.8    6                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3405.8    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3414.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3419.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3429.8    3 (3/2)-                                                     
+129TEX L XREF=DF(3428.9)                                                        
+129TE cL J$L(d,p)=1; |g to 7/2-.                                                
+129TE  G 2554.0    5 100     31                                                 
+129TE  G 2670.4    6 42      7                                                  
+129TE  G 3250.0    1038      8                                                  
+129TE  L 3441.0    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3452.8    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3461.1    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3474.8    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3479.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3489.6    5 1/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 3500      25 7/2+,9/2+                                                 
+129TEX L XREF=K                                                                 
+129TE cL J$L({+3}He,|a)=4                                                       
+129TE  L 3502.58   8 (3/2-)                                                     
+129TEX L XREF=DF(3503.4)                                                        
+129TE cL J$L=(1) and analyzing power in (pol d,p); gammas to 1/2+ and 7/2-      
+129TE  G 2627.7    5 43      7                                                  
+129TE  G 2741.4    1125      7                                                  
+129TE  G 3322.0    4 100     11                                                 
+129TE  L 3512.0    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3512.9    7  (29/2-)                                                   
+129TEX L XREF=N                                                                 
+129TE cL J$|DJ=1, dipole |g to 27/2(-)                                          
+129TE  G 672.6     4  100       D                                               
+129TE  L 3524.2    5                                                            
+129TEX L XREF=FI(*)                                                             
+129TE  L 3528.28   10(1/2-)                                                     
+129TEX L XREF=DF(3527.7)I(*)                                                    
+129TE cL J$L=(1) and analyzing power in (pol d,p).                              
+129TE  G 2652.3    4 30      9                                              @   
+129TE  G 2754.8    7 22      5                                                  
+129TE  G 3348.6    5 100     5                                                  
+129TE  G 3528.4    4 11.3    17                                                 
+129TE  L 3546.91   9 (3/2-)                                                     
+129TEX L XREF=DF(3545.8)                                                        
+129TE cL J$L=(1) and analyzing power in (pol d,p).                              
+129TE  G 1987.6    6 23      5                                                  
+129TE  G 3366.3    6 100     14                                                 
+129TE  G 3546.6    1123      5                                                  
+129TE  L 3559.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3564.51   9 1/2-                                                       
+129TEX L XREF=DF(3565.0)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3564.71   14100                                                        
+129TE  L 3569.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3579.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3587.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3593.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3600.5    5 (3/2)-                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 3615.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3617.0    9 (31/2-)                                                    
+129TEX L XREF=N                                                                 
+129TE cL J$|g to 27/2(-)                                                        
+129TE  G 776.7     6  100                                                       
+129TEF G FL=2840.3                                                              
+129TE  L 3622.9    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3628.7    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3634.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3636.7    7 (29/2+)                                                    
+129TEX L XREF=N                                                                 
+129TE cL J$|g to (27/2+)                                                        
+129TE  G 586.8     4  100                                                       
+129TE  L 3638.38   7 1/2-                                                       
+129TEX L XREF=DF(3638.4)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3457.6    3 48      4                                                  
+129TE  G 3638.36   13100     4                                                  
+129TE  L 3643.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3648.77   11 1/2-                                                      
+129TEX L XREF=DF(3649.0)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3468.7    3 100                                                        
+129TE  L 3655.1    5                                                            
+129TEX L XREF=FM                                                                
+129TE  L 3666.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3671.5    5 3/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 3677.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3695.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3707.7    5 1/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 3713.8    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3729.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3737.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3744.9    5 3/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 3752.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3765.0    5 (3/2)-                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 3769.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3777.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3784.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3792.40   4 3/2-                                                       
+129TEX L XREF=DF(3792.6)M                                                       
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 2371.1    7 5.1     9                                                  
+129TE  G 3018.7    105.1     14                                                 
+129TE  G 3612.02   6 100.0   19                                                 
+129TE  G 3792.4    3 18.2    9                                                  
+129TE  L 3800.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3811.7    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3818.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3826.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3837.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3852.71   12 3/2-                                                      
+129TEX L XREF=DF(3851.9)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 2630.0    1131      12                                                 
+129TEF G FL=1221.28                                                             
+129TE  G 3672.2    3 100     12                                                 
+129TE  L 3859.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3865.36   7 3/2-                                                       
+129TEX L XREF=DF(3865.7)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3684.74   14100                                                        
+129TE  L 3873.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3884.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3890.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3899.3    5 3/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 3906.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3917.0    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3921.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3929.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3938.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3944.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3948.1    6 (3/2-)                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=(1) and analyzing power in (pol d,p).                              
+129TE  L 3952.8    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3962.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3969.4    6 (3/2-)                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=(1) and analyzing power in (pol d,p).                              
+129TE  L 3974.3    5 3/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power1 in (pol d,p).                               
+129TE  L 3986.8    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3993.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 3997.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4002.4    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4005.8    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4017.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4024.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4032.59   16 3/2-                                                      
+129TEX L XREF=DF(4032.5)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3853.6    7 100                                                        
+129TE  L 4033.1    9 (31/2+)                                                    
+129TEX L XREF=N                                                                 
+129TE cL J$|g to (29/2+)                                                        
+129TE  G 396.4     5  100                                                       
+129TE  L 4043.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4045.8    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4053.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4059.1    5 (1/2)-                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 4067.8    5 3/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 4072.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4082.2    5 3/2-                                                       
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 4087.54   11 3/2-                                                      
+129TEX L XREF=DF(4086.8)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 1708.4    3  200    28                                             &   
+129TEF G FL=2379.555                                                            
+129TE  G 3907.2    5  100    8                                                  
+129TE  L 4092.5    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4101.8    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4106.1    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4110.4    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4121.18   8 1/2-                                                       
+129TEX L XREF=DF(4122.1)M                                                       
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3940.4    4 100     8                                                  
+129TE  G 4120.5    4 25      5                                                  
+129TE  L 4129.0    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4133.50   9 3/2-                                                       
+129TEX L XREF=DF(4132.8)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 3952.8    4 57      4                                                  
+129TE  G 4133.23   19100     4                                                  
+129TE  L 4150.2    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4155.6    9 (31/2+)                                                    
+129TEX L XREF=N                                                                 
+129TE cL J$|g to (27/2+)                                                        
+129TE  G 1105.7    6  100                                                       
+129TE  L 4161.1    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4166.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4175.3    3 (1/2)-                                                     
+129TEX L XREF=DF(4175.1)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4174.6    6 100                                                    &   
+129TE  L 4180.68   18(3/2)-                                                     
+129TEX L XREF=DF(4181.2)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4001.5    8 100                                                        
+129TE  L 4200.8    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4204.3    3 1/2-                                                       
+129TEX L XREF=DF(4205.9)                                                        
+129TE cL J$L=1 and analyzing power in (d,p).                                    
+129TE  G 4204.0    9 100                                                        
+129TE  L 4212.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4220.46   16 3/2-                                                      
+129TEX L XREF=DF(4220.1)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 427.7     3 21      4                                                  
+129TE  G 1999.5    3 100     21                                                 
+129TEF G FL=2220.9                                                              
+129TE  L 4229.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4240.5    3 3/2-                                                       
+129TEX L XREF=DF(4239.8)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4060.5    5 100                                                        
+129TE  L 4251.2    6                                                            
+129TEX L XREF=F                                                                 
+129TE cL E$from (d,p).                                                          
+129TE  L 4259.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4267.4    5 (1/2)-                                                     
+129TEX L XREF=DF(4267.4)                                                        
+129TE cL E,J$L=1 and analyzing power in (pol d,p).                              
+129TE  L 4277.02   11 3/2-                                                      
+129TEX L XREF=DF(4277.4)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4096.5    3 100                                                        
+129TE  L 4291.2    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4297.80   22 1/2-                                                      
+129TEX L XREF=DF(4298.5)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4297.7    6 100                                                        
+129TE  L 4306.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4311.7    5 (1/2)-                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 4317.1    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4326.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4336.2    5 (1/2)-                                                     
+129TEX L XREF=F                                                                 
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  L 4349.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4356.13   8 1/2-                                                       
+129TEX L XREF=DF(4356.3)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4174.6    6 100                                                    &   
+129TE  L 4364.57   6  1/2-                                                      
+129TEX L XREF=DF(4365.3)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4184.0    3 53      4                                                  
+129TE  G 4364.38   15100.0   24                                                 
+129TE  L 4374.0    3  (1/2,3/2,5/2+)                                            
+129TEX L XREF=DF(4372.6)                                                        
+129TE cL J$|g to 3/2+; primary |g from 1/2+                                     
+129TE  G 4374.6    12 100                                                       
+129TE  L 4380.6    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4388.93   10 1/2-                                                      
+129TEX L XREF=DF(4389.1)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4208.4    4 100                                                        
+129TE  L 4402.1    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4410.5    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4425.1    5 (3/2-)                                                     
+129TEX L XREF=F                                                                 
+129TE cL E,J$L=(1) and analyzing power in (pol d,p).                            
+129TE  L 4432.93   9 3/2-                                                       
+129TEX L XREF=DF(4433.1)                                                        
+129TE cL J$L=1 and analyzing power in (pol d,p).                                
+129TE  G 4252.0    6 35      3                                                  
+129TE  G 4433.6    5 100     5                                                  
+129TE  L 4435.3    10(33/2-)                                                    
+129TEX L XREF=N                                                                 
+129TE cL J$|g to (29/2-)                                                        
+129TE  G 922.4     6  100                                                       
+129TEF G FL=3512.9                                                              
+129TE  L 4444.0    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4456.4    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4467.4    5 (1/2-)                                                     
+129TEX L XREF=F                                                                 
+129TE cL E,J$L=(1) and analyzing power in (pol d,p).                            
+129TE  L 4474.7    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4483.9    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4496.8    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4504.2    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4511.8    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4522.5    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4543.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4558.2    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4572.7    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4580.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4588.48   12 (1/2,3/2,5/2+)                                            
+129TEX L XREF=DF(4589.2)                                                        
+129TE cL J$|g to 3/2+; primary |g from 1/2+                                     
+129TE  G 4588.5    5 100                                                        
+129TE  L 4595.2    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4608.4    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4622.0    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4634.7    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4643.2    6 (1/2-,3/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(1)                                                           
+129TE  L 4652.9    6 (1/2-,3/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(1)                                                           
+129TE  L 4665.8    5 1/2-,3/2-                                                  
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=1                                                             
+129TE  L 4682.0    6 1/2-,3/2-                                                  
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=1                                                             
+129TE  L 4695.4    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4696.8    10(33/2+)                                                    
+129TEX L XREF=N                                                                 
+129TE cL J$|g to (31/2+)                                                        
+129TE  G 541.2     5  100                                                       
+129TE  L 4711.80   251/2-,3/2-                                                  
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=1                                                             
+129TE  L 4724.3    5                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4743.5    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4766.2    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4777.9    6 (1/2-,3/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(1)                                                           
+129TE  L 4794.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4807.9    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4825.2    11(35/2-)                                                    
+129TEX L XREF=N                                                                 
+129TE cL J$|g to (33/2-)                                                        
+129TE  G 389.9     5  100                                                       
+129TE  L 4840.4    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4849.6    8                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4868.2    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4879.7    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4907.4    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4917.0    7 (1/2-,3/2-)                                                
+129TEX L XREF=F                                                                 
+129TE cL J$L(d,p)=(1)                                                           
+129TE  L 4929.4    7                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4946.8    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4958.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 4975.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 5002.3    6                                                            
+129TEX L XREF=F                                                                 
+129TE  L 5013.3    9                                                            
+129TEX L XREF=F                                                                 
+129TE  L 6082.40   8 1/2+                                                      S
+129TEX L XREF=D                                                                 
+129TE cL J$s-wave capture in 0+                                                 
+129TE cL E$S(n)=6082.41 {I8} (2012Wa38)                                         
+129TE  G 1493.91   122.3     3                                              @   
+129TE  G 1649.47   9 2.5     5                                              @   
+129TE  G 1693.45   104.8     4                                                  
+129TEF G FL=4388.93                                                             
+129TE  G 1708.4    3 2.6     3                                              &   
+129TE  G 1717.80   5 9.0     3                                                  
+129TE  G 1726.24   7 1.4     3                                                  
+129TE  G 1784.58   231.13    20                                                 
+129TE  G 1805.35   112.04    10                                                 
+129TE  G 1842.1    3 2.51    10                                                 
+129TE  G 1861.80   183.0     3                                                  
+129TE  G 1878.1    3 1.4     3                                                  
+129TE  G 1901.77   181.74    20                                                 
+129TE  G 1906.9    3 1.02    20                                                 
+129TE  G 1948.81   103.1     7                                                  
+129TE  G 1961.16   8 3.2     10                                                 
+129TE  G 1994.92   123.5     3                                                  
+129TE  G 2049.87   162.61    15                                                 
+129TE  G 2216.96   7 4.35    15                                                 
+129TE  G 2229.63   132.71    10                                                 
+129TE  G 2289.99   4 19.60   20                                                 
+129TE  G 2433.65   112.87    15                                                 
+129TE  G 2443.99   7 4.97    15                                                 
+129TE  G 2518.02   115.83    10                                                 
+129TE  G 2535.47   9 4.04    15                                                 
+129TE  G 2554.06   102.2     4                                                  
+129TE  G 2579.78   7 5.42    15                                                 
+129TE  G 2652.3    4 3.3     3                                              @   
+129TE  G 2726.70   123.48    15                                                 
+129TE  G 3377.26   4 53.4    5                                                  
+129TE  G 3500.59   124.40    20                                                 
+129TE  G 3557.60   9 5.94    15                                                 
+129TE  G 3589.41   172.66    15                                                 
+129TE  G 3702.82   6 52.9    5                                                  
+129TE  G 3721.87   5 100.0   10                                                 
+129TE  G 3815.14   6 12.2    3                                                  
+129TEF G FL=2267.20                                                             
+129TE  G 3860.59   105.12    15                                                 
+129TEF G FL=2220.9                                                              
+129TE  G 4042.11   7 10.70   20                                                 
+129TE  G 4426.8    7 1.18    15                                                 
+129TE  G 4523.0    5 1.18    10                                                 
+129TE  G 5449.4    6 1.13    10                                                 
+129TE  G 5901.55   243.02    15                                                 
+129TE  G 6082.0    3 2.00    10                                                 
+129TE  L 6082.76   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6082.83   8 1/2               0.15 EV   10                             
+129TEX L XREF=E                                                                 
+129TE cL J$from (n,n):resonances.                                               
+129TE cL $|G from (n,n):resonances                                              
+129TE  L 6082.84   8 1/2-              0.0697 EV 10                             
+129TEX L XREF=E                                                                 
+129TE cL J$from (n,n):resonances.                                               
+129TE cL $|G from (n,n):resonances                                              
+129TE  L 6083.34   8 1/2-              0.170 EV  20                             
+129TEX L XREF=E                                                                 
+129TE cL J$from (n,n):resonances.                                               
+129TE cL $|G from (n,n):resonances                                              
+129TE  L 6083.72   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6083.86   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6083.98   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6084.23   8                                                            
+129TEX L XREF=E                                                                 
+129TEX L XREF=E                                                                 
+129TE  L 6085.36   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6085.65   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6085.93   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6086.46   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6087.70   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6088.47   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6089.43   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6090.28   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6092.34   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6092.68   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6092.98   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6093.16   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6093.82   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6094.41   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6095.14   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6095.20   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6095.27   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6095.39   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6096.90   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6097.62   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6098.62   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6099.29   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6099.79   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6100.26   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6101.16   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6101.68   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6101.96   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6102.47   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6103.27   8                                                            
+129TEX L XREF=E                                                                 
+129TE  L 6104.06   8                                                            
+129TEX L XREF=E                                                                 
+

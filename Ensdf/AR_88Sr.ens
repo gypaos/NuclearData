@@ -1,0 +1,2151 @@
+
+
+ 88SR    ADOPTED LEVELS, GAMMAS                                  14NDS    201401
+ 88SR  H TYP=FUL$AUT=E.A. McCutchan and A.A. Sonzogni$CIT=NDS 115, 135 (2014)$  
+ 88SR2 H CUT=1-Nov-2013$                                                        
+ 88SR  Q -3622.6   1511112.6416 10612.511 -7906.9 11   2012WA38                 
+ 88SR cQ $S(2n)=19540.79 {i20}; S(2p)=19233.6 {i11} (2012Wa38)                  
+ 88SR cG E,RI$Weighted average of all available measurements, except where      
+ 88SR2cG noted.                                                                 
+ 88SR cG M$From |g(|q), |g(|q)(lin pol) in (|g,|g'), except where noted.        
+ 88SR cG M(a)$From |g(|q) in {+80}Se({+11}B,p2n|g)                              
+ 88SR cG M(b),MR(z)$From |g(|q) in (n,n'|g).                                    
+ 88SR cL E$From least-squares fit to E|g for levels with |g-ray information.    
+ 88SR cL T$From Doppler-shift attenuation method in (n,n'|g), except where      
+ 88SR2cL noted.                                                                 
+ 88SR cL T(A)$From Doppler-shift attenuation method in {+86}Kr(|a,2n|g).        
+ 88SR cL T(C)$From (|g,|g') assuming |g branching ratio to g.s. equal to 100%   
+ 88SR cL J(D)$From D, M1, or E1 |g to 0+ g.s.                                   
+ 88SR cL T(w)$Calculated from |G{-o}{+2}/|G using the adopted branching         
+ 88SR2cL ratios.                                                                
+ 88SR cL E(B),J(F)$Isobaric analog resonance.                                   
+ 88SR CL T$LABEL=T{-1/2} or |G                                                  
+ 88SR cG M(y)$D+Q from |g(|q) in (n,n'|g), |D|p=no from level scheme            
+ 88SR D  CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+ 88SR  XA88RB B- DECAY                                                          
+ 88SR  XB88Y B+ DECAY                                                           
+ 88SR  XC80SE(11B,P2NG)                                                         
+ 88SR  XD86KR(A,2NG)                                                            
+ 88SR  XE86SR(T,P)                                                              
+ 88SR  XF87SR(N,G) E=THERMAL                                                    
+ 88SR  XG87RB(3HE,D)                                                            
+ 88SR  XH87SR(D,P)                                                              
+ 88SR  XI88SR(G,G')                                                             
+ 88SR  XJ88SR(D,D'),(POL D,D')                                                  
+ 88SR  XK88SR(E,E')                                                             
+ 88SR  XL88SR(P,P'),(POL P,P')                                                  
+ 88SR  XM88SR(N,N'G)                                                            
+ 88SR  XNCOULOMB EXCITATION                                                     
+ 88SR  XO86KR(3HE,N)                                                            
+ 88SR  XP87RB(P,N),(P,G) IAR                                                    
+ 88SR  XQ88SR(N,N')                                                             
+ 88SR  XR89Y(D,3HE)                                                             
+ 88SR  XS89Y(MU-,NG)                                                            
+ 88SR  XT89Y(6LI,7BE)                                                           
+ 88SR  XU90ZR(6LI,8B)                                                           
+ 88SR  XV92ZR(D,6LI)                                                            
+ 88SR  XW176YB(28SI,FG),173YB(24MG,FG)                                          
+ 88SR  L 0            0+                STABLE                                  
+ 88SRX L XREF=ABCDEFGHIJKLMNOQRSTUVW                                            
+ 88SR  L 1836.090  8  2+                0.154 PS  8                             
+ 88SRX L XREF=ABCDEFGHIJKLMNOQRSTUVW                                            
+ 88SR2 L MOMM1=+2.44 22                                                         
+ 88SR cL J$E2 1826|g to 0+, L(p,t)=2                                            
+ 88SR cL T$weighted average of 0.155 ps {I8} from (|g,|g') and 0.152 ps {I12}   
+ 88SR2cL from DSAM in Coul. Ex. Others: 0.159 ps {I13} from B(E2) in (e,e')     
+ 88SR3cL and 0.185 ps {I14} from DSAM in (n,n'|g)                               
+ 88SR cL MOMM1$from transient field technique in Coul. Ex. (2012Ku14)           
+ 88SR  G 1836.063  12 100       E2                     3.93E-4                  
+ 88SRS G KC=0.0001449 21$LC=1.550E-5 22$MC=2.60E-6 4$NC=3.27E-7 5$OC=2.15E-8 3  
+ 88SRB G BE2W=7.6 4                                                             
+ 88SR cG M$from |g(|q) and |g(|q)(lin pol) in (|g,|g'); |a(K)exp in {+88}Y |e   
+ 88SR2cG decay.                                                                 
+ 88SR cG E$from {+88}Y |e decay.                                                
+ 88SR  L 2734.137  8  3-                0.70 PS   5                             
+ 88SRX L XREF=ABCDEFGHJKLMNOQSVW                                                
+ 88SR cL J$L(t,p)=3                                                             
+ 88SR cL T$weighted average of 0.78 ps {I5} from B(E3) in (e,e') and 0.67 ps    
+ 88SR2cL {I3} from DSAM in Coul. Ex. Other: 0.67 ps {I+19-13} from DSAM in      
+ 88SR3cL (n,n'|g)                                                               
+ 88SR  G 898.042   3  100.00 17 E1                     3.07E-4                  
+ 88SRS G KC=0.000273 4$LC=2.92E-5 4$MC=4.89E-6 7$NC=6.14E-7 9$OC=4.02E-8 6      
+ 88SRB G BE1W=6.6E-4 5                                                          
+ 88SR cG M$from |g(|q) and |a(K)exp in {+88}Y |e decay.                         
+ 88SR cG E$from {+88}Y |e decay.                                                
+ 88SR cG MR$|d(M2/E1)=-0.002 {I9} from {+88}Y |e decay.                         
+ 88SR  G 2734.086  13 0.69   4  (E3)                   5.64E-4                  
+ 88SRS G KC=0.0001098 16$LC=1.176E-5 17$MC=1.97E-6 3$NC=2.48E-7 4$              
+ 88SRS G OC=1.639E-8 23                                                         
+ 88SRB G BE3W=22.6 21                                                           
+ 88SR cG E$from {+88}Rb |b{+-} decay.                                           
+ 88SR cG M$from |a(IPF) in {+88}Y |e decay.                                     
+ 88SR  L 3156.19   10 0+                1.5 PS    +8-4                          
+ 88SRX L XREF=EGKLMOUV                                                          
+ 88SR cL J$L(t,p)=0                                                             
+ 88SR  G 1320.1    1  100       E2                     3.46E-4                  
+ 88SRS G KC=0.000278 4$LC=3.00E-5 5$MC=5.04E-6 7$NC=6.33E-7 9$OC=4.13E-8 6      
+ 88SRB G BE2W=4.0 +15-14                                                        
+ 88SR cG M$Q from |g(|q) in (n,n'|g), M2 excluded by comparison to RUL.         
+ 88SR  L 3218.489  22 2+                0.155 PS  10                            
+ 88SRX L XREF=ABEFGHIJKLMRT                                                     
+ 88SR cL J$L(t,p)=2                                                             
+ 88SR cL T$Other: 0.13 ps {I6} from B(E2)=0.0014 {I7} in (e,e')                 
+ 88SR  G 484.44    12 2.3    10 [E1]                   1.22E-3                  
+ 88SRS G KC=0.001078 16$LC=0.0001165 17$MC=1.95E-5 3$NC=2.44E-6 4$              
+ 88SRS G OC=1.575E-7 22                                                         
+ 88SRB G BE1W=0.00034 15                                                        
+ 88SR  G 1382.41   3  100    4  M1+E2     +0.04  2     3.25E-4                  
+ 88SRS G KC=0.000255 4$LC=2.73E-5 4$MC=4.58E-6 7$NC=5.77E-7 8$OC=3.82E-8 6      
+ 88SRB G BE2W=0.038 3$BM1W=0.041 3                                              
+ 88SR cG M$D+Q from |g|g(|q) in {+88}Rb |b{+-} decay, |D|p=no from level scheme 
+ 88SR cG MR$from |g|g(|q) in {+88}Rb |b{+-} decay. Other: +0.01 {I3} from       
+ 88SR2cG |g(|q) in (n,n'|g).                                                    
+ 88SR  G 3218.46   6  28.9   16 E2                     9.30E-4                  
+ 88SRS G KC=5.45E-5 8$LC=5.77E-6 8$MC=9.67E-7 14$NC=1.219E-7 17$OC=8.08E-9 12   
+ 88SRB G BE2W=0.100 10                                                          
+ 88SR  L 3378.2    10 1                 22 PS     3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$D 3378|g to 0+                                                       
+ 88SR  G 3378.1       100       D                                               
+ 88SR  L 3486.56   4  1+                2.78 FS   24                        C   
+ 88SRX L XREF=AFGIKLMRT                                                         
+ 88SR cL J$M1 3487|g to 0+                                                      
+ 88SR cL T$Other: 4.6 fs {I39} from DSAM in (n,n'|g)                            
+ 88SR  G 3486.43   8  100       M1                     9.66E-4                  
+ 88SRS G KC=4.69E-5 7$LC=4.96E-6 7$MC=8.32E-7 12$NC=1.049E-7 15$OC=6.97E-9 10   
+ 88SRB G BM1W=0.187 17                                                          
+ 88SR  L 3522.77   7  (2+)              46 FS     15                            
+ 88SRX L XREF=AFM                                                               
+ 88SR cL J$3523|g to 0+, 2167|g from 4+.                                        
+ 88SR  G 1687.35   19 100    5                                                  
+ 88SR  G 3523.4    3  57     4  (E2)                   1.04E-3                  
+ 88SRS G KC=4.71E-5 7$LC=4.98E-6 7$MC=8.35E-7 12$NC=1.053E-7 15$OC=6.98E-9 10   
+ 88SRB G BE2W=0.35 12                                                           
+ 88SR  L 3584.784  19 5-                0.14 NS   4                         A   
+ 88SRX L XREF=BCDFGHKLMSVW                                                      
+ 88SR cL J$L(p,p')=5, E2 851|g to 3-.                                           
+ 88SR cL T$Other: 1.7 ps {I+6-3} from DSAM in (n,n'|g)                          
+ 88SR  G 850.647   24 100       E2                     8.53E-4                  
+ 88SRS G KC=0.000754 11$LC=8.28E-5 12$MC=1.390E-5 20$NC=1.739E-6 25$            
+ 88SRS G OC=1.114E-7 16                                                         
+ 88SRB G BE2W=0.39 12                                                           
+ 88SR cG E$from (n,|g), E=thermal                                               
+ 88SR cG M$Q from |g(|q) in {+80}Se({+11}B,p2n|g), M2 excluded by comparison    
+ 88SR2cG to RUL                                                                 
+ 88SR  L 3635.09   4  (3)+              0.76 PS  +21-14                         
+ 88SRX L XREF=AFGHJKLMRST                                                       
+ 88SR cL J$L({+3}He,d)=1 on 3/2- target; primary |g from 4+,5+ capture state;   
+ 88SR2cL |DJ=1, M1+E2 1779|g to 2+.                                             
+ 88SR  G 416.74    18 3.86   22 M1(+E2)                 0.005313                
+ 88SRS G KC=0.0046 11$LC=0.00052 14$MC=8.8E-5 23$NC=1.1E-5 3$OC=6.8E-7 15       
+ 88SRB G BM1W=0.015 3                                                           
+ 88SR cG M$D(+Q) from |g(|q) in (n,n'|g), |D|p=no from level scheme             
+ 88SR  G 1799.04   12 100.0  2  M1+E2     -0.08  2     3.53E-4                  
+ 88SRF G FLAG=yz                                                                
+ 88SRS G KC=0.0001525 22$LC=1.626E-5 23$MC=2.73E-6 4$NC=3.44E-7 5$OC=2.28E-8 4  
+ 88SRB G BE2W=0.010 6$BM1W=0.0048 +14-9                                         
+ 88SR  L 3952.636  22 (4)-              0.8 PS    +7-3                          
+ 88SRX L XREF=FGKLM                                                             
+ 88SR cL J$L(p,p')=5, M1+E2 1219|g to 3-.                                       
+ 88SR  G 1218.505  25 100       M1+E2     -0.11  2     3.80E-4                  
+ 88SRF G FLAG=yz                                                                
+ 88SRS G KC=0.000329 5$LC=3.53E-5 5$MC=5.93E-6 9$NC=7.47E-7 11$OC=4.93E-8 7     
+ 88SRB G BE2W=0.14 +13-7$BM1W=0.015 +14-6                                       
+ 88SR cG E$from (n,|g), E=thermal                                               
+ 88SR  L 3990      5                                                            
+ 88SRX L XREF=E                                                                 
+ 88SR cL J$May be identical to the 3993.8 level if L(t,p)=4,3 is incorrect.     
+ 88SR  L 3992.42   7  (0+)              0.48 PS   GT                            
+ 88SRX L XREF=KLM                                                               
+ 88SR cL J$L(p,p')=(0), |g(|q) in (n,n'|g)                                      
+ 88SR  G 505.9     1  100.0  5  M1                     0.00255                  
+ 88SRS G KC=0.00226 4$LC=0.000247 4$MC=4.15E-5 6$NC=5.21E-6 8$OC=3.41E-7 5      
+ 88SRB G BM1W LT 0.31                                                           
+ 88SR cG M$D from comparison to RUL, |D|p=no from level scheme                  
+ 88SR  G 2156.0    2  15.3   5  [E2]                   5.05E-4                  
+ 88SRS G KC=0.0001079 16$LC=1.150E-5 17$MC=1.93E-6 3$NC=2.43E-7 4$              
+ 88SRS G OC=1.602E-8 23                                                         
+ 88SRB G BE2W LT 0.14                                                           
+ 88SR  L 4019.56   4  (6)-              10 PS     LT                        A   
+ 88SRX L XREF=CDFGJMV(*)W                                                       
+ 88SR cL J$L({+3}He,d)=4 on 3/2- target, M1+E2 434|g to 5-                      
+ 88SR cL T$Other: >1.9 ps from DSAM in (n,n'|g)                                 
+ 88SR  G 434.89    6  100       M1+E2     +0.25  3     0.00376                  
+ 88SRF G FLAG=a                                                                 
+ 88SRS G KC=0.00333 6$LC=0.000366 6$MC=6.16E-5 10$NC=7.72E-6 13$OC=5.00E-7 8    
+ 88SRB G BE2W GT 7$BM1W GT 0.025                                                
+ 88SR  L 4035.52   7  2+                15 FS     3                             
+ 88SRX L XREF=AEIKMUV(*)                                                        
+ 88SR cL J$L(t,p)=2                                                             
+ 88SR cL T$weighted average of 21 fs {I7} from DSAM in (n,n'|g), 13 fs {I3}     
+ 88SR2cL from (|g,|g'), and 20 fs {I11} from B(E2)=0.013 {I7} in (e,e')         
+ 88SR  G 2200.4       19     4                                                  
+ 88SR  G 4035.5    1  100       E2                     1.23E-3                  
+ 88SRS G KC=3.81E-5 6$LC=4.02E-6 6$MC=6.74E-7 10$NC=8.50E-8 12$OC=5.64E-9 8     
+ 88SRB G BE2W=1.3 3                                                             
+ 88SR  L 4039.04   3  (3)+              83 FS     7                             
+ 88SRX L XREF=FHLM                                                              
+ 88SR cL J$L(p,p')=(2), M1(+E2) 842|g from 4+.                                  
+ 88SR  G 1304.90   4  21.1   5  E1                     2.66E-4                  
+ 88SRF G FLAG=b                                                                 
+ 88SRS G KC=0.0001359 19$LC=1.446E-5 21$MC=2.42E-6 4$NC=3.05E-7 5$OC=2.00E-8 3  
+ 88SRB G BE1W=0.00032 3                                                         
+ 88SR cG MR$|d(M2/E2)=+0.5 {I+5-2} from |g(|q) in (n,n'|g) results in M2        
+ 88SR2cG transition strength which exceeds RUL.                                 
+ 88SR  G 2202.92   7  100.00 24 M1+E2                  5.01E-424                
+ 88SRF G FLAG=y                                                                 
+ 88SRS G KC=0.0001041 15$LC=1.109E-5 16$MC=1.86E-6 3$NC=2.34E-7 4$              
+ 88SRS G OC=1.550E-8 23                                                         
+ 88SR cG MR$+0.20 {I10} or +1.5 {I+3-2} from |g(|q) in (n,n'|g).                
+ 88SR  L 4170.41   3  (3-)              1.6 PS    +22-6                         
+ 88SRX L XREF=FKM                                                               
+ 88SR cL J$586|g to 5-, 1436|g to 3-, 4171|g to 0+.                             
+ 88SR  G 585.626   25 100.0  5  [E2]                   0.00231                  
+ 88SRS G KC=0.00204 3$LC=0.000228 4$MC=3.83E-5 6$NC=4.77E-6 7$OC=2.98E-7 5      
+ 88SRB G BE2W=1.9E+2 +12-11                                                     
+ 88SR cG E$from (n,|g), E=thermal                                               
+ 88SR  G 1436.27   4  12.8   5                                                  
+ 88SR cG E$from (n,|g), E=thermal                                               
+ 88SR cG RI$from (n,n'|g). Other: 31 {I5} in (n,|g), E=thermal                  
+ 88SR  G 4170.71   20 0.71   7  [E3]                   9.95E-4                  
+ 88SRS G KC=5.08E-5 8$LC=5.39E-6 8$MC=9.05E-7 13$NC=1.140E-7 16$OC=7.56E-9 11   
+ 88SRB G BE3W=0.5 3                                                             
+ 88SR cG E$not observed in (n,n'|g)                                             
+ 88SR  L 4171      4  (6+,7-)                                                  ?
+ 88SRX L XREF=L                                                                 
+ 88SR cL E$possibly identical to 4170.4 level if L(p,p') is incorrect           
+ 88SR cL J$L(p,p')=(6,7)                                                        
+ 88SR  L 4224.10   10                                                           
+ 88SRX L XREF=AK(*)M                                                            
+ 88SR cL T$170 ps {I60} based on DSAM in (n,n'|g) of 1006|g which has only a    
+ 88SR2cL tentative assignment to this level                                     
+ 88SR  G 1005.6    1                                                           ?
+ 88SR cG E$tentative placement from (n,n'|g) based solely on level energy       
+ 88SR2cG differences                                                            
+ 88SR  G 2388.0    6                                                            
+ 88SR cG E$not observed in (n,n'|g)                                             
+ 88SR  L 4226.98   12 1                 0.15 PS   4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$D 4227|g to 0+                                                       
+ 88SR  G 4226.6       100       D                                               
+ 88SR  L 4227.20   4  (3-)              84 FS     26                            
+ 88SRX L XREF=EFK(*)LM                                                          
+ 88SR cL J$L(p,p')=3; D 2391|g to 2+. L(t,p)=4 is discrepant.                   
+ 88SR  G 1008.7    1  6.4    4  [E1]                   2.45E-4                  
+ 88SRS G KC=0.000217 3$LC=2.32E-5 4$MC=3.89E-6 6$NC=4.89E-7 7$OC=3.20E-8 5      
+ 88SRB G BE1W=1.8E-4 6                                                          
+ 88SR  G 1493.01   4  33.1   4                                                  
+ 88SR  G 2391.0    3  100.0  4  (E1)                   9.43E-4                  
+ 88SRS G KC=5.23E-5 8$LC=5.52E-6 8$MC=9.25E-7 13$NC=1.165E-7 17$OC=7.71E-9 11   
+ 88SRB G BE1W=2.1E-4 7                                                          
+ 88SR cG M$D from |g(|q) in (n,n'|g), |D|p=no from level scheme                 
+ 88SR  L 4232      10 4+                                                        
+ 88SRX L XREF=E                                                                 
+ 88SR cL J$L(t,p)=4                                                             
+ 88SR cL $Possibly identical to the 4227.2 level if L(t,p) is incorrect.        
+ 88SR  L 4262.9    10 (1,2+)                                                    
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$4263|g to 0+.                                                        
+ 88SR  G 4262.8       100                                                       
+ 88SR  L 4268.70   4  (3-,4,5-)         0.37 PS   4                             
+ 88SRX L XREF=FJKLM                                                             
+ 88SR cL J$684|g to 5-, 1534|g to 3-. Decay pattern inconsistent with           
+ 88SR2cL L(p,p')=(2)                                                            
+ 88SR  G 683.97    5  31.6   11                                                 
+ 88SR cG RI$from (n,n'|g). Other: <17 for multiply placed transition in         
+ 88SR2cG (n,|g), E=thermal                                                      
+ 88SR  G 1534.42   7  100.0  11                                                 
+ 88SR  L 4299.52   5  4+                30 FS     5                             
+ 88SRX L XREF=EFHKLM                                                            
+ 88SR cL J$L(t,p)=4                                                             
+ 88SR  G 1565.40   9  86.2   9  E1                     4.10E-4                  
+ 88SRF G FLAG=b                                                                 
+ 88SRS G KC=0.0001000 14$LC=1.062E-5 15$MC=1.779E-6 25$NC=2.24E-7 4$            
+ 88SRS G OC=1.475E-8 21                                                         
+ 88SRB G BE1W=0.00137 23                                                        
+ 88SR cG RI$from (n,n'|g)                                                       
+ 88SR cG MR$|d(M2/E1)=+0.05 {I5} from |g(|q) in (n,n'|g)                        
+ 88SR  G 2463.51   19 100.0  9  E2                     6.29E-4                  
+ 88SRF G FLAG=b                                                                 
+ 88SRS G KC=8.53E-5 12$LC=9.07E-6 13$MC=1.521E-6 22$NC=1.92E-7 3$OC=1.266E-8 18 
+ 88SRB G BE2W=4.8 8                                                             
+ 88SR cG RI$from (n,n'|g)                                                       
+ 88SR  L 4353.95   7  (3-)              0.68 PS  +22-14                         
+ 88SRX L XREF=KLM                                                               
+ 88SR cL J$D 1136|g to 2+, 769|g to 5-                                          
+ 88SR  G 768.8     1  42.9   6  [E2]                   1.10E-3                  
+ 88SRS G KC=0.000973 14$LC=0.0001074 15$MC=1.80E-5 3$NC=2.25E-6 4$              
+ 88SRS G OC=1.435E-7 20                                                         
+ 88SRB G BE2W=38 +10-9                                                          
+ 88SR  G 1135.8    1  100.0  5  (E1)                   2.11E-4                  
+ 88SRS G KC=0.0001741 25$LC=1.86E-5 3$MC=3.11E-6 5$NC=3.91E-7 6$OC=2.57E-8 4    
+ 88SRB G BE1W=2.2E-4 +6-5                                                       
+ 88SR cG M$D from |g(|q) in (n,n'|g), |D|p=no from level scheme                 
+ 88SR  G 2518.1    4  8.6    5  [E1]                   1.02E-3                  
+ 88SRS G KC=4.85E-5 7$LC=5.12E-6 8$MC=8.58E-7 12$NC=1.082E-7 16$OC=7.16E-9 10   
+ 88SRB G BE1W=1.8E-6 +5-4                                                       
+ 88SR  L 4367.94   8  (7-)              10 PS     LT                        A   
+ 88SRX L XREF=CDKLMVW                                                           
+ 88SR cL J$L(d,{+6}Li)=(7) on 0+ target, E2 783|g to 5-                         
+ 88SR cL T$Other: >600 fs from DSAM in (n,n'|g)                                 
+ 88SR  G 348.42    8  100.0  20 (M1)                   0.00622                  
+ 88SRS G KC=0.00550 8$LC=0.000607 9$MC=0.0001020 15$NC=1.280E-5 18$             
+ 88SRS G OC=8.32E-7 12                                                          
+ 88SRB G BM1W GT 0.046                                                          
+ 88SR cG M$D from |g(|q) in {+80}Se({+11}B,p2n|g), D(+Q) from |g(|q) in         
+ 88SR2cG (n,n'|g), |D|p=no from level scheme.                                   
+ 88SR  G 782.9     3  11.8   8  (E2)                   1.05E-3                  
+ 88SRS G KC=0.000929 13$LC=0.0001024 15$MC=1.719E-5 25$NC=2.15E-6 3$            
+ 88SRS G OC=1.370E-7 20                                                         
+ 88SRB G BE2W GT 0.87                                                           
+ 88SR  L 4413.96   4  (2)+              16 FS     3                             
+ 88SRX L XREF=AEFHKLM                                                           
+ 88SR cL J$L(d,p)=2(+0) on 9/2+ target. 1970Ra10 deduced L(t,p)=2+6 for an      
+ 88SR2cL unresolved doublet. Also 1987Li02 concluded this level to be a         
+ 88SR3cL doublet from the large L(d,p)=2 strength.                              
+ 88SR  G 891.31    12 11.9   23                                                 
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1679.65   9  34.9   10 [E1]                   4.89E-4                  
+ 88SRS G KC=8.93E-5 13$LC=9.47E-6 14$MC=1.586E-6 23$NC=2.00E-7 3$OC=1.317E-8 19 
+ 88SRB G BE1W=0.00105 20                                                        
+ 88SR  G 2577.78   5  100.0  4  (M1)                   6.20E-4                  
+ 88SRS G KC=7.87E-5 11$LC=8.36E-6 12$MC=1.401E-6 20$NC=1.767E-7 25$             
+ 88SRS G OC=1.172E-8 17                                                         
+ 88SRB G BM1W=0.053 11                                                          
+ 88SR cG M$D from |g(|q) in (n,n'|g), |D|p=no from level scheme                 
+ 88SR  G 4413.7    3  7.0    LT [E2]                   1.34E-3              &   
+ 88SRS G KC=3.32E-5 5$LC=3.50E-6 5$MC=5.87E-7 9$NC=7.40E-8 11$OC=4.92E-9 7      
+ 88SRB G BE2W LT 0.04                                                           
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  L 4440.72   8                    367 FS    49                            
+ 88SRX L XREF=FKLM                                                              
+ 88SR  G 1706.57   12 100       Q                                               
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 4451.97   3  (4)+              222 FS    42                            
+ 88SRX L XREF=FHLM                                                              
+ 88SR cL J$L(d,p)=2(+0) on 9/2+ target; 2616|g to 2+.                           
+ 88SR  G 867.09    6  7.5    12 [E1]                   3.30E-4                  
+ 88SRS G KC=0.000293 4$LC=3.13E-5 5$MC=5.25E-6 8$NC=6.60E-7 10$OC=4.31E-8 6     
+ 88SRB G BE1W=0.00016 5                                                         
+ 88SR cG E$not observed in (n,n'|g)                                             
+ 88SR  G 1717.71   8  100    15 [E1]                   5.14E-4                  
+ 88SRS G KC=8.61E-5 12$LC=9.13E-6 13$MC=1.530E-6 22$NC=1.93E-7 3$OC=1.271E-8 18 
+ 88SRB G BE1W=0.00028 8                                                         
+ 88SR  G 2615.91   10 1.31   14 [E2]                   6.90E-4                  
+ 88SRS G KC=7.69E-5 11$LC=8.17E-6 12$MC=1.370E-6 20$NC=1.726E-7 25$             
+ 88SRS G OC=1.142E-8 16                                                         
+ 88SRB G BE2W=0.011 3                                                           
+ 88SR cG E$not observed in (n,n'|g)                                             
+ 88SR  L 4484.83   7  0+                97 FS     7                             
+ 88SRX L XREF=EKLMV(4470)                                                       
+ 88SR cL J$L(t,p)=0                                                             
+ 88SR  G 998.4     1  100.0  3                                                  
+ 88SR  G 2648.5    1  8.6    3  [E2]                   7.04E-4                  
+ 88SRS G KC=7.53E-5 11$LC=8.00E-6 12$MC=1.342E-6 19$NC=1.690E-7 24$             
+ 88SRS G OC=1.118E-8 16                                                         
+ 88SRB G BE2W=0.152 13                                                          
+ 88SR  L 4514.028  17 2-                0.9 PS    3                             
+ 88SRX L XREF=AK(*)M                                                            
+ 88SR cL J$log| {Ift}=5.5 from 2-. J=1,3 rejected by |g|g(|q) in {+88}Rb        
+ 88SR2cL |b{+-} decay.                                                          
+ 88SR  G 1027.3    3  0.55   22 [E1]                   2.37E-4                  
+ 88SRS G KC=0.000210 3$LC=2.24E-5 4$MC=3.76E-6 6$NC=4.72E-7 7$OC=3.09E-8 5      
+ 88SRB G BE1W=1.7E-6 9                                                          
+ 88SR  G 1779.870  21 11.0   7                                                  
+ 88SR  G 2677.892  21 100.0  14 E1+M2     +0.073 6     1.10E-3                  
+ 88SRS G KC=4.49E-5 7$LC=4.74E-6 7$MC=7.94E-7 12$NC=1.001E-7 15$OC=6.63E-9 10   
+ 88SRB G BE1W=1.8E-5 6$BM2W=0.060 23                                            
+ 88SR cG M,MR$from |g|g(|q) measured in {+88}Rb |b{+-} decay. Parity from       
+ 88SR2cG adopted |D|p. Other: -0.06 {I+7-6} from |g(|q) in (n,n'|g).            
+ 88SR  L 4514.54   7  +                 27 FS     8                             
+ 88SRX L XREF=FHK(*)M                                                           
+ 88SR cL J$L(d,p)=2 on 9/2+ target indicates a positive parity level near the   
+ 88SR2cL 4514-keV level.                                                        
+ 88SR  G 2678.38   9  100                                                      ?
+ 88SR cG $Possibly identical to 2677.89|g.                                      
+ 88SR  L 4521.43   12 (6)-                                                      
+ 88SRX L XREF=CLMW                                                              
+ 88SR cL J$L(p,p')=5, M1(+E2) 936|g to 5-.                                      
+ 88SR  G 936.61    13 100       M1(+E2)   -0.03  7     6.44E-4                  
+ 88SRF G FLAG=z                                                                 
+ 88SRS G KC=0.000571 8$LC=6.15E-5 9$MC=1.032E-5 15$NC=1.300E-6 19$OC=8.56E-8 12 
+ 88SR cG M$D(+Q) from |g(|q) in (n,n'|g), |D|p=no from level scheme.            
+ 88SR  L 4556      3  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 4613.8    6  (3-)                                                      
+ 88SRX L XREF=HV                                                                
+ 88SR cL J$L(d,{+6}Li)=(3)                                                      
+ 88SR  L 4622.19   9  2+                21 FS     5                             
+ 88SRX L XREF=E(4619)KL(4626)M                                                  
+ 88SR cL J$L(t,p)=2                                                             
+ 88SR  G 1888.0    1  100.0  6  E1                     6.26E-4                  
+ 88SRS G KC=7.43E-5 11$LC=7.87E-6 11$MC=1.318E-6 19$NC=1.660E-7 24$             
+ 88SRS G OC=1.096E-8 16                                                         
+ 88SRB G BE1W=0.0020 5                                                          
+ 88SR cG M$D from |g(|q) in (n,n'|g), |D|p=yes from level scheme                
+ 88SR  G 2786.2    2  20.3   6                                                  
+ 88SR  L 4632.0    6  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 4640.40   7                    132 FS    14                            
+ 88SRX L XREF=L(4645)M                                                          
+ 88SR  G 1906.2    1  100.0  6  Q                                               
+ 88SRF G FLAG=b                                                                 
+ 88SR  G 2804.3    1  46.0   6  D+Q       -0.18  5                              
+ 88SRF G FLAG=bz                                                                
+ 88SR  L 4680.19   10                   0.15 PS   +15-7                         
+ 88SRX L XREF=M                                                                 
+ 88SR  G 1095.4    1  100                                                   *   
+ 88SR  L 4687.38   24 (7)                                                       
+ 88SRX L XREF=CK(4695)                                                          
+ 88SR cL J$D 2153|g from (8)                                                    
+ 88SR  G 319.6     3  100                                                   @   
+ 88SR  L 4742.50   6  1-                2.6 FS    2                         C   
+ 88SRX L XREF=AHILMV                                                            
+ 88SR cL J$E1 |g to 0+ g.s.                                                     
+ 88SR cL E$Candidate for 2+ x 3- two-phonon state (2002Pi08)                    
+ 88SR cL T$Other: <6 fs from DSAM in (n,n'|g)                                   
+ 88SR  G 1524.6       18     5  [E1]                   3.83E-4                  
+ 88SRS G KC=0.0001044 15$LC=1.109E-5 16$MC=1.86E-6 3$NC=2.34E-7 4$              
+ 88SRS G OC=1.541E-8 22                                                         
+ 88SRB G BE1W=0.0055 16                                                         
+ 88SR  G 2906.1    1  3.5    14 [E1]                   1.22E-3                  
+ 88SRL G FL=1836.090                                                            
+ 88SRS G KC=3.97E-5 6$LC=4.19E-6 6$MC=7.02E-7 10$NC=8.84E-8 13$OC=5.86E-9 9     
+ 88SRB G BE1W=0.00015 7                                                         
+ 88SR cG RI$from (|g,|g'). Other: 12.1 {I3} from (n,n'|g)                       
+ 88SR cG E$from (n,n'|g)                                                        
+ 88SR  G 4742.52   8  100       E1                     0.00195                  
+ 88SRS G KC=2.10E-5 3$LC=2.21E-6 3$MC=3.70E-7 6$NC=4.66E-8 7$OC=3.09E-9 5       
+ 88SRB G BE1W=0.00101 9                                                         
+ 88SR  L 4743         (6-)                                                     ?
+ 88SRX L XREF=K                                                                 
+ 88SR cL J$from (e,e'). Form factor is significantly different from that        
+ 88SR2cL expected for a 1- level, suggesting this level is distinct from the    
+ 88SR3cL 4742.5 level.                                                          
+ 88SR  L 4761.8    14 2+                70 FS     40                            
+ 88SRX L XREF=EHK                                                               
+ 88SR cL J$L(t,p)=2                                                             
+ 88SR cL T$from B(E2)=0.0016 {I8} measured in (e,e') if level decays mainly to  
+ 88SR2cL g.s.                                                                   
+ 88SR  L 4770.12   5  2+                6.2 FS    27                            
+ 88SRX L XREF=ILM                                                               
+ 88SR cL J$L(p,p')=2, 2036|g to 3-, 4771|g to 0+                                
+ 88SR  G 734.7     1  3.7    4  M1                     1.09E-3                  
+ 88SRS G KC=0.000968 14$LC=0.0001048 15$MC=1.759E-5 25$NC=2.21E-6 3$            
+ 88SRS G OC=1.454E-7 21                                                         
+ 88SRB G BM1W=0.27 12                                                           
+ 88SR cG M$D from comparison to RUL, |D|p=no from level scheme.                 
+ 88SR  G 1283.6    1  2.4    4                                              *   
+ 88SR  G 2035.7    1  100.0  4  [E1]                   7.24E-4              *   
+ 88SRS G KC=6.62E-5 10$LC=7.01E-6 10$MC=1.174E-6 17$NC=1.479E-7 21$             
+ 88SRS G OC=9.77E-9 14                                                          
+ 88SRB G BE1W=0.0053 24                                                         
+ 88SR  G 2933.9    1  16.2   4  M1(+E2)                0.000794                 
+ 88SRS G KC=6.31E-5 10$LC=6.69E-6 10$MC=1.122E-6 17$NC=1.414E-7 21$             
+ 88SRS G OC=9.38E-9 14                                                          
+ 88SR cG M$D(+Q) from |g(|q) in (n,n'|g), |D|p=no from level scheme             
+ 88SR  G 4770.7    2  0.7    4  E2                     1.45E-3                  
+ 88SRS G KC=2.95E-5 5$LC=3.11E-6 5$MC=5.22E-7 8$NC=6.58E-8 10$OC=4.37E-9 7      
+ 88SRB G BE2W=0.009 7                                                           
+ 88SR cG M$Q from |g(|q) in (n,n'|g), |D|p=no from level scheme                 
+ 88SR  L 4801.3    6  0+                16 FS     5                             
+ 88SRX L XREF=E(4794)H(*4789)KL(4804)MO(*4800)                                  
+ 88SR cL J$L(t,p)=0                                                             
+ 88SR  G 2965.2    6  100       [E2]                   8.32E-4                  
+ 88SRS G KC=6.23E-5 9$LC=6.61E-6 10$MC=1.108E-6 16$NC=1.396E-7 20$OC=9.25E-9 13 
+ 88SRB G BE2W=6.6 21                                                            
+ 88SR  L 4801.4    10 1                 0.13 PS   3                         C   
+ 88SRX L XREF=H(*4789)IK(*4798)O(*4800)                                         
+ 88SR cL J$D 4801|g to 0+                                                       
+ 88SR  G 4801.3       100       D                                               
+ 88SR  L 4845.62   3  (3)-              19 FS     5                             
+ 88SRX L XREF=AE(4838)FHKMV(4850)                                               
+ 88SR cL J$L(t,p)=(3), log {Ift}=5.5 from 2-.                                   
+ 88SR  G 1627.01   19 3.7    7                                                  
+ 88SR cG E$observed only in (n,|g), E=thermal.                                  
+ 88SR  G 2111.47   5  48.1   12 M1+E2     -2.0   +12-|@                         
+ 88SRF G FLAG=y                                                                 
+ 88SRB G BE2W=7.7 20$BM1W=0.0078 21                                             
+ 88SR  G 3009.50   4  100.0  6  E1+M2     +0.075 15    1.27E-3                  
+ 88SRS G KC=3.82E-5 6$LC=4.03E-6 6$MC=6.75E-7 10$NC=8.51E-8 13$OC=5.64E-9 9     
+ 88SRB G BE1W=0.00043 12$BM2W=1.2 6                                             
+ 88SR cG M,MR$D+Q from |g|g(|q) in {+88}Rb |b{+-} decay. |D|p=yes from level    
+ 88SR2cG scheme                                                                 
+ 88SR  G 4845.19   18 0.60   5  [E3]                   1.18E-3                  
+ 88SRS G KC=3.93E-5 6$LC=4.17E-6 6$MC=6.99E-7 10$NC=8.81E-8 13$OC=5.85E-9 9     
+ 88SRB G BE3W=8.7 24                                                            
+ 88SR  L 4853.026  16 1-                0.17 PS   2                             
+ 88SRX L XREF=ALM                                                               
+ 88SR cL J$log| {Ift}=5.2 from 2-, 1366|g to 1+, 4853|g to 0+. L(p,p')=(2) is   
+ 88SR2cL discrepant.                                                            
+ 88SR  G 338.95    7  12.8   6  M1                     0.00666                  
+ 88SRS G KC=0.00588 9$LC=0.000649 9$MC=0.0001092 16$NC=1.371E-5 20$             
+ 88SRS G OC=8.90E-7 13                                                          
+ 88SRB G BM1W=0.26 4                                                            
+ 88SR cG M$D from comparison to RUL, |D|p=no from level scheme.                 
+ 88SR cG E,RI$from {+88}Rb |b{+-} decay.                                        
+ 88SR cG RI$Other: 85.9 {I9} in (n,n'|g)                                        
+ 88SR  G 439.2     3  3.2    9                                                  
+ 88SR  G 1217.97   18 11.1   9                                                  
+ 88SR  G 1366.26   12 34     5  E1+M2     -0.05  2     2.94E-4                  
+ 88SRS G KC=0.0001266 21$LC=1.347E-5 22$MC=2.26E-6 4$NC=2.84E-7 5$OC=1.87E-8 3  
+ 88SRB G BE1W=0.00016 4$BM2W=1.0 9                                              
+ 88SR cG M,MR$D+Q from |g|g(|q) in {+88}Rb |b{+-} decay. |D|p=yes from level    
+ 88SR2cG scheme                                                                 
+ 88SR  G 2118.867  20 100.0  13 (E2)                   4.91E-4                  
+ 88SRS G KC=0.0001114 16$LC=1.187E-5 17$MC=1.99E-6 3$NC=2.51E-7 4$              
+ 88SRS G OC=1.653E-8 24                                                         
+ 88SRB G BE2W=2.0 3                                                             
+ 88SR cG E$from {+88}Rb |b{+-} decay                                            
+ 88SR cG M$(Q) from |g(|q) in (n,n'|g), |D|p=no from level scheme               
+ 88SR  G 3017.19   20 1.0    5  [E1]                   1.27E-3                  
+ 88SRS G KC=3.77E-5 6$LC=3.98E-6 6$MC=6.67E-7 10$NC=8.40E-8 12$OC=5.56E-9 8     
+ 88SRB G BE1W=4.5E-7 23                                                         
+ 88SR  G 4852.882  24 1.6    9  (E1)                   0.00199                  
+ 88SRS G KC=2.04E-5 3$LC=2.14E-6 3$MC=3.59E-7 5$NC=4.53E-8 7$OC=3.01E-9 5       
+ 88SRB G BE1W=1.7E-7 10                                                         
+ 88SR cG E$from {+88}Rb |b{+-} decay                                            
+ 88SR cG M$(D) from |g(|q) in (n,n'|g), |D|p=yes from level scheme              
+ 88SR  L 4880.57   5  4+                30 FS     3                             
+ 88SRX L XREF=H(4873)K(4873)L(4886)M                                            
+ 88SR cL J$L(d,p)=0+2 on 9/2+ target, 3044|g to 2+                              
+ 88SR  G 581.2     1  19.2   6  M1(+E2)                 0.00213                 
+ 88SRS G KC=0.00186 23$LC=0.00021 3$MC=3.5E-5 5$NC=4.3E-6 6$OC=2.8E-7 3         
+ 88SR cG M$D from comparison to RUL, |D|p=no from level scheme                  
+ 88SR  G 841.6     1  58.3   20 M1(+E2)                0.000844                 
+ 88SRS G KC=0.00075 3$LC=8.1E-5 4$MC=1.37E-5 7$NC=1.71E-6 8$OC=1.11E-7 4        
+ 88SR cG M$D from comparison to RUL, |D|p=no from level scheme                  
+ 88SR  G 1245.5    1  0.6    6                                                  
+ 88SR  G 2146.2    1  17.6   6  E1(+M2)                7.91E-412                
+ 88SRS G KC=6.26E-5 17$LC=6.62E-6 18$MC=1.11E-6 3$NC=1.40E-7 4$OC=9.23E-9 25    
+ 88SR cG M$D(Q) from |g(|q) in (n,n'|g), |D|p=yes from level scheme.            
+ 88SR  G 3044.4    1  100.0  16 [E2]                   8.63E-4                  
+ 88SRS G KC=5.97E-5 9$LC=6.33E-6 9$MC=1.060E-6 15$NC=1.336E-7 19$OC=8.85E-9 13  
+ 88SRB G BE2W=1.58 17                                                           
+ 88SR cG M$Q from |g(|q) in (n,n'|g), |D|p=no from level scheme                 
+ 88SR  L 4914.6    10 1                 56 FS     9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 4914.5       100       D                                               
+ 88SR  L 4923.61   6  (2,3,1)           51 FS     10                            
+ 88SRX L XREF=HM                                                                
+ 88SR cL J$(D+Q) 3088|g to 2+.                                                  
+ 88SR  G 1288.5    1  16.7   4                                                  
+ 88SR  G 2189.3    1  8.0    4                                                  
+ 88SR  G 3087.6    1  100.0  4  (D+Q)                                           
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 4930.6    5  2+,3+,4+          64 FS    +80-42                         
+ 88SRX L XREF=KLM                                                               
+ 88SR cL J$L(p,p')=2                                                            
+ 88SR  G 3094.5    5  100                                                       
+ 88SR  L 4988.23   6  2+                12 FS     3                             
+ 88SRX L XREF=EHIKLM                                                            
+ 88SR cL J$L(t,p)=2                                                             
+ 88SR  G 1769.6    1  53.8   8                                                  
+ 88SR  G 2253.9    1  26.4   8  [E1]                   8.61E-4                  
+ 88SRS G KC=5.69E-5 8$LC=6.02E-6 9$MC=1.008E-6 15$NC=1.270E-7 18$OC=8.40E-9 12  
+ 88SRB G BE1W=0.00031 8                                                         
+ 88SR  G 3152.2    1  100    4  M1(+E2)                0.000874                 
+ 88SRS G KC=5.59E-5 9$LC=5.93E-6 10$MC=9.94E-7 16$NC=1.253E-7 20$OC=8.31E-9 13  
+ 88SR cG M$D(+Q) from |g(|q) in (n,n'|g), |D|p=no from level scheme             
+ 88SR  G 4988.7    2  31     3  [E2]                   1.51E-3                  
+ 88SRS G KC=2.76E-5 4$LC=2.91E-6 4$MC=4.88E-7 7$NC=6.16E-8 9$OC=4.09E-9 6       
+ 88SRB G BE2W=0.10 3                                                            
+ 88SR cG E$from (n,n'|g)                                                        
+ 88SR cG M$Q from |g(|q) in (n,n'|g), |D|p=no from level scheme                 
+ 88SR  L 5010.59   4  (3,4+)            14 FS     3                             
+ 88SRX L XREF=FKLM                                                              
+ 88SR cL J$558|g to (4)+, 1058|g to (4)-, 1792|g to 2+                          
+ 88SR  G 558.49    6  19     3                                                  
+ 88SR  G 1058.06   6  22.7   6                                                  
+ 88SR  G 1791.69   19 3.1    6                                                  
+ 88SR  G 2276.44   15 100    1  D(+Q)                                           
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5076.65   7                                                            
+ 88SRX L XREF=EFH                                                               
+ 88SR  G 1442.06   22 1.0E+2 3                                                  
+ 88SR  G 2342.82   22 22     4                                                  
+ 88SR  L 5085.49   7  (2)+              6.3 FS    28                            
+ 88SRX L XREF=KL(5091)M                                                         
+ 88SR cL J$L(p,p')=2, (E2) 5086|g to 0+                                         
+ 88SR  G 1450.4    1  9.5    4                                                  
+ 88SR  G 1866.9    1  10.2   6                                                  
+ 88SR  G 3249.5    2  100.0  7                                                  
+ 88SR  G 5086.1    5  3.7    4  (E2)                   1.54E-3                  
+ 88SRS G KC=2.68E-5 4$LC=2.83E-6 4$MC=4.74E-7 7$NC=5.98E-8 9$OC=3.97E-9 6       
+ 88SRB G BE2W=0.034 16                                                          
+ 88SR cG M$(Q) from |g(|q) in (n,n'|g), |D|p=no from level scheme               
+ 88SR  L 5092.12   6  (4+)              57 FS     8                             
+ 88SRX L XREF=FHLM                                                              
+ 88SR cL J$D 1507|g to 5-, D 2358|g to 3-,3256|g to 2+                          
+ 88SR  G 1052.90   12 71     LT                                             &   
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1507.22   9  49.5   15 (E1)                   3.71E-4                  
+ 88SRS G KC=0.0001064 15$LC=1.130E-5 16$MC=1.89E-6 3$NC=2.38E-7 4$              
+ 88SRS G OC=1.570E-8 22                                                         
+ 88SRB G BE1W=0.00037 9                                                         
+ 88SR cG RI$from (n,n'|g). Other: <60 for multiply placed transition in         
+ 88SR2cG (n,|g), E=thermal                                                      
+ 88SR cG M$D from |g(|q) in (n,n'|g), |D|p=yes from level scheme                
+ 88SR  G 1571.2    7  23     LT [E2]                   3.33E-4              &   
+ 88SRS G KC=0.000196 3$LC=2.10E-5 3$MC=3.52E-6 5$NC=4.43E-7 7$OC=2.90E-8 4      
+ 88SRB G BE2W LT 3.5                                                            
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1606.2    8  22     LT                                             &  ?
+ 88SR cG E$placement is questionable, if J|p=(4+) assignment to 5092 level is   
+ 88SR2cG correct, as this transition would imply M3 multipolarity.              
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2358.08   19 100    2  (E1)                   9.23E-4                  
+ 88SRF G FLAG=b                                                                 
+ 88SRS G KC=5.33E-5 8$LC=5.63E-6 8$MC=9.44E-7 14$NC=1.189E-7 17$OC=7.86E-9 11   
+ 88SRB G BE1W=0.00020 5                                                         
+ 88SR cG M$D from |g(|q) in (n,n'|g), |D|p=yes from level scheme                
+ 88SR  G 3256.44   21 24     3  [E2]                   9.45E-4                  
+ 88SRS G KC=5.34E-5 8$LC=5.66E-6 8$MC=9.49E-7 14$NC=1.196E-7 17$OC=7.93E-9 11   
+ 88SRB G BE2W=0.12 3                                                            
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  L 5103.31   19 (7)                                                       
+ 88SRX L XREF=CK(5109)L(*5109)W                                                 
+ 88SR cL J$D 1084|g to (6)-                                                     
+ 88SR  G 581.8     5  18     6  (D)                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 1083.6    3  100    6  D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 5113.06   5  (2+,3)            5.3 FS    35                            
+ 88SRX L XREF=FK(5119)L(*5109)M                                                 
+ 88SR cL J$fed by primary |g from 4+,5+ capture state, D 3277|g to 2+.          
+ 88SR  G 1074.12   8  50     4                                                  
+ 88SR  G 1477.99   8  130    22                                                 
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1894.5    3  56     4                                                  
+ 88SR  G 2377.9    4  5.4    14                                                 
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 3276.80   9  100    4  D                                               
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5123.8    3  (1,2+)            0.16 PS   +8-5                          
+ 88SRX L XREF=L(*)M                                                             
+ 88SR cL J$5124|g to 0+                                                         
+ 88SR  G 3287.5    5  100.0  8                                                  
+ 88SR  G 5123.7    3  2.8    8                                                  
+ 88SR  L 5127.40   9  (2)               23 FS     7                             
+ 88SRX L XREF=L(*)MV(*)                                                         
+ 88SR cL J$(Q) 5128|g to 0+                                                     
+ 88SR  G 3291.1    1  100.0  8                                                  
+ 88SR  G 5127.8    2  4.1    8  (Q)                                             
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5136.95   11                   33 FS     10                            
+ 88SRX L XREF=HMV(*)                                                            
+ 88SR  G 1501.8    1  100       D(+Q)                                           
+ 88SRF G FLAG=b                                                                 
+ 88SR  G 5137.8    5  1      LT                                                 
+ 88SR  L 5163.91   14 2+                51 FS     13                            
+ 88SRX L XREF=EH(5157)K(*)M                                                     
+ 88SR cL J$L(t,p)=2                                                             
+ 88SR  G 2007.7    1  100       [E2]                   4.50E-4                 ?
+ 88SRS G KC=0.0001228 18$LC=1.311E-5 19$MC=2.20E-6 3$NC=2.77E-7 4$OC=1.82E-8 3  
+ 88SRB G BE2W=15 4                                                              
+ 88SR  L 5168.80   5                    23 FS     3                            ?
+ 88SRX L XREF=K(*)L(*)M                                                         
+ 88SR  G 1682.3    1  56     6                                                  
+ 88SR  G 1950.2    1  45     11                                                 
+ 88SR  G 2434.5    1  77     4                                                  
+ 88SR  G 3332.8    1  100    6  D(+Q)                                           
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5170.1    3  (2+)              48 FS     23                            
+ 88SRX L XREF=K(*)L(*)M                                                         
+ 88SR cL J$(E2) 5170|g to 0+                                                    
+ 88SR cL E$measured F(|t) of 5169.9 depopulating transition is sufficiently     
+ 88SR2cL different from F(|t)'s of |g's depopulating the 5168.8 level to        
+ 88SR3cL suggest that the 5170.1 level is distinct.                             
+ 88SR  G 5169.9    3  100       (E2)                   1.56E-3                  
+ 88SRS G KC=2.62E-5 4$LC=2.76E-6 4$MC=4.63E-7 7$NC=5.84E-8 9$OC=3.88E-9 6       
+ 88SRB G BE2W=0.14 7                                                            
+ 88SR cG M$(Q) from |g(|q) in (n,n'|g),  M2 excluded by comparison to RUL.      
+ 88SR  L 5199      8  4+                                                        
+ 88SRX L XREF=HV                                                                
+ 88SR cL J$L(d,{+6}Li)=4 on 0+ target.                                          
+ 88SR  L 5253.92   7  (3-)              33 FS     8                             
+ 88SRX L XREF=EKLM                                                              
+ 88SR cL J$L(t,p)=(3), L(p,p')=(3)                                              
+ 88SR  G 2035.7    1  100    4  [E1]                   7.24E-4              *   
+ 88SRS G KC=6.62E-5 10$LC=7.01E-6 10$MC=1.174E-6 17$NC=1.479E-7 21$             
+ 88SRS G OC=9.77E-9 14                                                          
+ 88SRB G BE1W=0.00087 22                                                        
+ 88SR  G 2519.6    2  22.5   14                                                 
+ 88SR  G 3417.5    1  18     6  [E1]                   1.47E-3                  
+ 88SRS G KC=3.19E-5 5$LC=3.36E-6 5$MC=5.64E-7 8$NC=7.10E-8 10$OC=4.71E-9 7      
+ 88SRB G BE1W=3.3E-5 14                                                         
+ 88SR  L 5263.06   20                   18 FS     4                             
+ 88SRX L XREF=M                                                                 
+ 88SR  G 3426.9    2  100                                                       
+ 88SR  L 5275.98   8  (1-,2+)           17 FS     4                             
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$1284|g to 0+, 2542|g to 3-                                           
+ 88SR  G 1283.6    1  18.8   18                                             *   
+ 88SR  G 2541.8    1  100    7                                                  
+ 88SR  G 3439.5    3  1.9    19                                                 
+ 88SR  L 5307.53   12 (1)               35 FS     6                             
+ 88SRX L XREF=HM                                                                
+ 88SR cL J$(D) 1315|g to 0+                                                     
+ 88SR  G 1315.1    1  100       (D)                                             
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5321.36   3  4+                                                        
+ 88SRX L XREF=FKL                                                               
+ 88SR cL J$L(p,p')=4, 1737|g to 5-, 2103|g to 2+.                               
+ 88SR  G 1052.90   12 7.6    LT                                             &   
+ 88SR  G 1368.67   3  100    15                                                 
+ 88SR  G 1736.51   8  48     LT                                             &   
+ 88SR  G 2103.14   10 4.4    5                                                  
+ 88SR  L 5322.39   7  (2,3)             104 FS    28                            
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$1095|g to 1, 1687|g to (3+), 2588|g to 3-                            
+ 88SR cL $Possibly identical to the 5321.36 level, however, depopulating        
+ 88SR2cL transitions observed by (n,|g), E=thermal and (n,n'|g) are different.  
+ 88SR  G 1095.4    1  47     6                                              *   
+ 88SR  G 1687.2    1  100    6                                                  
+ 88SR  G 2588.3    1  85     5                                                  
+ 88SR  L 5370.5    3                                                            
+ 88SRX L XREF=CW                                                                
+ 88SR  G 267.1     3  100                                                       
+ 88SRL G FL=5103.31                                                             
+ 88SR  L 5383      5  4+                                                        
+ 88SRX L XREF=E(5376)LV(5360)                                                   
+ 88SR cL J$L(t,p)=4                                                             
+ 88SR  L 5393.25   7  (2+)              32 FS     12                            
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$941|g to (4)+, 5393|g to 0+                                          
+ 88SR  G 941.4     1  43     4  [E2]                   6.67E-4                  
+ 88SRS G KC=0.000590 9$LC=6.45E-5 9$MC=1.082E-5 16$NC=1.355E-6 19$OC=8.73E-8 13 
+ 88SRB G BE2W=2.2E+2 9                                                          
+ 88SR  G 2174.6    1  100    6                                                  
+ 88SR  G 5393.2       61     8  [E2]                   1.62E-3                 ?
+ 88SRS G KC=2.46E-5 4$LC=2.60E-6 4$MC=4.35E-7 6$NC=5.49E-8 8$OC=3.65E-9 6       
+ 88SRB G BE2W=0.050 20                                                          
+ 88SR  L 5396.0    3  (2+)              0.18 PS   +9-6                          
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$(E2) 5396|g to 0+                                                    
+ 88SR  G 5395.8    3  100       (E2)                   1.62E-3                  
+ 88SRS G KC=2.46E-5 4$LC=2.60E-6 4$MC=4.35E-7 6$NC=5.48E-8 8$OC=3.64E-9 6       
+ 88SRB G BE2W=0.030 +15-10                                                      
+ 88SR cG M$Q from |g(|q) in (n,n'|g); M2 excluded by comparison to RUL.         
+ 88SR  L 5415.7    28 4+,5+                                                     
+ 88SRX L XREF=HK                                                                
+ 88SR cL J$L(d,p)=0(+2) on 9/2+ target.                                         
+ 88SR  L 5424.61   5  (3-)              83 FS     35                            
+ 88SRX L XREF=FL(5419)M                                                         
+ 88SR cL J$L(p,p')=(3), 3589|g to 2+                                            
+ 88SR  G 1404.98   5  450    70                                                ?
+ 88SR cG E$observed only in (n,|g), E=thermal. Tentative placement as           
+ 88SR2cG transition would imply M3/E4 multipolarity if J|p=(3-) for 5424.61     
+ 88SR3cG level is correct.                                                      
+ 88SR  G 1471.76   16 113    21                                                 
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2690.64   14 100    3                                                  
+ 88SR  G 3588.7    2  60.5   22 [E1]                   1.54E-3                  
+ 88SRS G KC=2.99E-5 5$LC=3.15E-6 5$MC=5.28E-7 8$NC=6.66E-8 10$OC=4.41E-9 7      
+ 88SRB G BE1W=7.E-6 4                                                           
+ 88SR cG E$observed only in (n,n'|g)                                            
+ 88SR  L 5427.6    3  (8)                                                       
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$D 324|g to (7)                                                       
+ 88SR  G 324.3     3  100       D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 5427.71   4  (4-,5)                                                    
+ 88SRX L XREF=F                                                                 
+ 88SR cL J$fed by primary |g from 4+,5+ capture state, 1408|g to (6)-.          
+ 88SR  G 975.64    7  50     8                                                  
+ 88SR  G 1158.95   11 31     6                                                  
+ 88SR  G 1408.23   5  100    16                                                 
+ 88SR  G 2693.41   13 9.5    LT                                             &   
+ 88SR  L 5465.0    21 4+                                                        
+ 88SRX L XREF=E(5470)HK                                                         
+ 88SR cL J$L(t,p)=4, L(d,p)=0 on 9/2+ target.                                   
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 5472.88   10 (2-,3-,4-)        0.7 FS    LT                            
+ 88SRX L XREF=L(5467)M                                                          
+ 88SR cL $L(p,p')=(3)                                                           
+ 88SR  G 2738.7    1  100       M1,E2                  0.000713                 
+ 88SRS G KC=7.09E-5 11$LC=7.53E-6 11$MC=1.263E-6 19$NC=1.592E-7 23$             
+ 88SRS G OC=1.055E-8 15                                                         
+ 88SR cG M$from comparison to RUL                                               
+ 88SR  L 5485.6    16 1                 0.7 PS    +30-4                         
+ 88SRX L XREF=HKLM                                                              
+ 88SR cL J$D 5486|g to 0+                                                       
+ 88SR  G 5485.4    16 100       D                                               
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5498.7    11 (1,2+)            0.7 PS    GT                            
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$5499|g to 0+                                                         
+ 88SR  G 5498.5    11 100                                                       
+ 88SR  L 5517.2    3  (1,2,3)           19 FS    +19-15                         
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$(D) 3681|g to 2+                                                     
+ 88SR  G 3681.0    3  100       (D)                                             
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5518.23   5  4+                                                        
+ 88SRX L XREF=FHKLV(5490)                                                       
+ 88SR cL J$L(d,p)=0 on 9/2+ target. 2300|g to 2+.                               
+ 88SR  G 1565.49   9  100    LT                                             &   
+ 88SR  G 2299.78   23 2.3    5                                                  
+ 88SR  G 2784.12   7  16.7   17                                                 
+ 88SR  L 5528.9    6                                                            
+ 88SRX L XREF=HK                                                                
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 5537      6  2-,3-,4-                                                 ?
+ 88SRX L XREF=L                                                                 
+ 88SR cL $Possibly identical to 5529 level.                                     
+ 88SR cL J$L(p,p')=3                                                            
+ 88SR  L 5542.20   10 (1)               29 FS     10                            
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$(D) 5542|g to 0+                                                     
+ 88SR  G 3706.0    1  100.0  13                                                 
+ 88SR  G 5542.5    4  5.6    13 (D)                                             
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 5583.3    3                    3.3 PS    GT                            
+ 88SRX L XREF=ELM                                                               
+ 88SR  G 3747.1    3  100                                                       
+ 88SR  L 5590.32   14 (1-,2,3+)         45 FS     15                            
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$2103|g to 1+, 2856|g to 3-                                           
+ 88SR  G 2103.2    2                                                            
+ 88SR  G 2856.0    7                                                            
+ 88SR  G 3754.7    2                                                            
+ 88SR  L 5600.6    10 (1,2+)                                                    
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$5600|g to 0+                                                         
+ 88SR  G 5600.4       100                                                       
+ 88SR  L 5614      6                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 5655.3    3  (8)               10 PS     LT                        A   
+ 88SRX L XREF=CDW                                                               
+ 88SR cL J$D 1287|g to (7-)                                                     
+ 88SR  G 1287.4    3  100       D                                               
+ 88SRL G FL=4367.94                                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 5656.50   10 (2+,3,4+)         12 FS     LT                            
+ 88SRX L XREF=HLM                                                               
+ 88SR cL J$1357|g to 4+, 3821|g to 2+.                                          
+ 88SR  G 1356.7    1  100    6                                                  
+ 88SR  G 3821.4    2  85     6                                                  
+ 88SR  L 5678.34   14 (4)+              23 FS     6                             
+ 88SRX L XREF=HKMV                                                              
+ 88SR cL J$L(d,p)=2(+0) on 9/2+ target, L(d,{+6}Li)=(4) on 0+ target            
+ 88SR  G 2944.1    2  35.5   23 [E1]                   1.24E-3                  
+ 88SRS G KC=3.90E-5 6$LC=4.12E-6 6$MC=6.89E-7 10$NC=8.69E-8 13$OC=5.75E-9 8     
+ 88SRB G BE1W=0.00015 5                                                         
+ 88SR  G 3842.2    2  100.0  23 [E2]                   1.15E-3                  
+ 88SRS G KC=4.11E-5 6$LC=4.34E-6 6$MC=7.28E-7 11$NC=9.18E-8 13$OC=6.09E-9 9     
+ 88SRB G BE2W=0.93 25                                                           
+ 88SR  L 5689.00   4  3+,4+             0.29 PS   8                             
+ 88SRX L XREF=EFHLM                                                             
+ 88SR cL J$L(p,p')=4, 2955|g to 3-.                                             
+ 88SR  G 1669.0    5  3.5    12                                                ?
+ 88SR cG E$observed only in (n,|g), E=thermal. Tentative placement as           
+ 88SR2cG transition would imply M2 or E3 multipolarity.                         
+ 88SR  G 1736.51   7  100    LT                                             &   
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2166.50   21 4.3    6                                                  
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2954.67   7  53     5                                                  
+ 88SR  L 5691.3    10 1                 38 FS     9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$D 5691|g to 0+                                                       
+ 88SR  G 5691.1       100       D                                               
+ 88SR  L 5693.93   9  2+                67 FS     19                            
+ 88SRX L XREF=E(5699)M                                                          
+ 88SR cL J$1394|g to 4+, 5693|g to 0+                                           
+ 88SR  G 1394.5    1  27     7  [E2]                   3.31E-4                  
+ 88SRS G KC=0.000248 4$LC=2.68E-5 4$MC=4.49E-6 7$NC=5.64E-7 8$OC=3.69E-8 6      
+ 88SRB G BE2W=8 4                                                               
+ 88SR  G 2960.2    2  57     5  [E1]                   1.25E-3                  
+ 88SRS G KC=3.87E-5 6$LC=4.08E-6 6$MC=6.84E-7 10$NC=8.62E-8 12$OC=5.71E-9 8     
+ 88SRB G BE1W=4.9E-5 15                                                         
+ 88SR  G 3857.2    2  100    9                                                  
+ 88SR  G 5693.1    3  43     7  E2                     1.69E-3                  
+ 88SRS G KC=2.28E-5 4$LC=2.40E-6 4$MC=4.02E-7 6$NC=5.07E-8 8$OC=3.37E-9 5       
+ 88SRB G BE2W=0.011 4                                                           
+ 88SR cG M$Q from |g(|q) in (n,n'|g), |D|p=no from level scheme.                
+ 88SR  L 5706.5    7                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 5710.78   10                   9 FS      LT                            
+ 88SRX L XREF=M                                                                 
+ 88SR  G 3874.6    1  100                                                       
+ 88SR  L 5730.18   20 4+                0.2 PS    GT                            
+ 88SRX L XREF=E(5724)HKLM                                                       
+ 88SR cL J$L(d,p)=0 on 9/2+ target, 3894|g to 2+                                
+ 88SR  G 3894.0    2  100       [E2]                   1.17E-3                  
+ 88SRS G KC=4.02E-5 6$LC=4.25E-6 6$MC=7.13E-7 10$NC=8.99E-8 13$OC=5.96E-9 9     
+ 88SRB G BE2W LT 0.14                                                           
+ 88SR  L 5738.3    7                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 5772.23   12 0+                25 FS     11                            
+ 88SRX L XREF=E(5766)HKLM                                                       
+ 88SR cL J$L(t,p)=0                                                             
+ 88SR  G 1736.7    1  100    14 [E2]                   3.66E-4                  
+ 88SRS G KC=0.0001610 23$LC=1.724E-5 25$MC=2.89E-6 4$NC=3.64E-7 5$OC=2.39E-8 4  
+ 88SRB G BE2W=36 18                                                             
+ 88SR  G 3935.8    6  69     14 [E2]                   1.19E-3                  
+ 88SRS G KC=3.96E-5 6$LC=4.18E-6 6$MC=7.01E-7 10$NC=8.84E-8 13$OC=5.86E-9 9     
+ 88SRB G BE2W=0.42 21                                                           
+ 88SR  L 5800.71   10 (1-,2,3+)         32 FS     10                            
+ 88SRX L XREF=K(5806)LM                                                         
+ 88SR cL J$2314|g to 1+, 3006|g to 3-                                           
+ 88SR  G 2314.2    1                                                            
+ 88SR  G 3066.2    2                                                            
+ 88SR  L 5812.08   6  3-                7 FS      5                             
+ 88SRX L XREF=EFHK(5821)LM                                                      
+ 88SR cL J$L(p,p')=3, fed by primary |g from 4+,5+ capture state, 3976|g to 2+  
+ 88SR  G 1513.5    6  26     13 [E1]                   3.75E-4                  
+ 88SRS G KC=0.0001057 15$LC=1.123E-5 16$MC=1.88E-6 3$NC=2.37E-7 4$              
+ 88SRS G OC=1.559E-8 22                                                         
+ 88SRB G BE1W=0.0012 11                                                         
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1643.1    7  20     10                                                 
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2177.22   21 39     6  [E1]                   8.14E-4                  
+ 88SRS G KC=5.99E-5 9$LC=6.34E-6 9$MC=1.062E-6 15$NC=1.337E-7 19$OC=8.84E-9 13  
+ 88SRB G BE1W=0.0006 5                                                          
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 3077.94   9  88     5                                                  
+ 88SR  G 3975.66   14 100    10 [E1]                   1.69E-3                  
+ 88SRS G KC=2.62E-5 4$LC=2.76E-6 4$MC=4.62E-7 7$NC=5.83E-8 9$OC=3.87E-9 6       
+ 88SRB G BE1W=0.00026 19                                                        
+ 88SR  G 5811.79   15 23.5   14 [E3]                   1.43E-3                  
+ 88SRS G KC=2.91E-5 4$LC=3.08E-6 5$MC=5.17E-7 8$NC=6.52E-8 10$OC=4.33E-9 6      
+ 88SRB G BE3W=1.3E+2 10                                                         
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  L 5831.5    5  (1,2+)            1 PS      GT                            
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$5831|g to 0+                                                         
+ 88SR  G 5831.3    5  100                                                       
+ 88SR  L 5835.58   6  (3-,4+)           33 FS     9                             
+ 88SRX L XREF=FHLM                                                              
+ 88SR cL J$2251|g to 5-, 4000|g to 2+.                                          
+ 88SR  G 1608.2    8  26     LT                                             &   
+ 88SRL G FL=4227.20                                                             
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1665.31   13 100    17                                                 
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2250.72   11 36     4                                                  
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2349.21   20 13.7   21                                                ?
+ 88SR cG E$placement is questionable, if J|p=(4+) assignment to 5835.58 level   
+ 88SR2cG is correct, as this transition would imply M3 multipolarity.           
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 3999.64   20 26     4                          1                       
+ 88SR  L 5858.5    6  4+,5+                                                     
+ 88SRX L XREF=EHKL                                                              
+ 88SR cL J$L(p,p')=4, L(d,p)=2(+0) on 9/2+ target; L(t,p)=(3) is discrepant.    
+ 88SR  L 5866.0    4  (1,2+)            0.9 PS    +9-3                          
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$5866|g to 0+                                                         
+ 88SR  G 5865.8    4  100                                                       
+ 88SR  L 5876      8                                                           ?
+ 88SRX L XREF=H                                                                 
+ 88SR  L 5925      6                                                            
+ 88SRX L XREF=KL                                                                
+ 88SR cL E$from (p,p')                                                          
+ 88SR  L 5951.09   4  (4-)                                                      
+ 88SRX L XREF=FKL                                                               
+ 88SR cL J$1723|g to (3-), 1912|g to (3+), 1931|g to (6)-                       
+ 88SR  G 1510.3    3  37     9                                                  
+ 88SR  G 1723.48   15 46     8                                                  
+ 88SR  G 1911.94   12 42     7                                                  
+ 88SR  G 1931.33   16 26     5                                                  
+ 88SR  G 1998.46   9  80     12                                                 
+ 88SR  G 2315.7    3  23.0   LT                                             &   
+ 88SR  G 2366.42   7  100    10                                                 
+ 88SR  L 5990.0    3  (1,2+)            0.033 PS  9                             
+ 88SRX L XREF=IM                                                                
+ 88SR cL J$5989|g to 0+                                                         
+ 88SR  G 4154.0    4  100    3                                                  
+ 88SR cG E,RI$from (n,n'|g)                                                     
+ 88SR  G 5989.1    7  71     3                                                  
+ 88SR cG E,RI$from (n,n'|g)                                                     
+ 88SR  L 5996.24   6  4+                23 FS     8                             
+ 88SRX L XREF=FHKLM                                                             
+ 88SR cL J$L(d,p)=0(+2) on 9/2+ target, 4160|g to 2+                            
+ 88SR  G 1150.55   16 109    23 [E1]                   2.11E-4                  
+ 88SRS G KC=0.0001701 24$LC=1.81E-5 3$MC=3.04E-6 5$NC=3.82E-7 6$OC=2.51E-8 4    
+ 88SRB G BE1W=0.0020 9                                                          
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1727.57   24 77     18                                                 
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 1977.17   20 51     10                                                ?
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR cG E$tentative as placement would require M2+E3 multipolarity for the     
+ 88SR2cG transition                                                             
+ 88SR  G 2043.5       46     1  [E1]                   7.29E-4                  
+ 88SRS G KC=6.59E-5 10$LC=6.97E-6 10$MC=1.168E-6 17$NC=1.470E-7 21$             
+ 88SRS G OC=9.71E-9 14                                                          
+ 88SRB G BE1W=0.00015 6                                                         
+ 88SR cG E$observed only in (n,n'|g)                                            
+ 88SR  G 2473.49   15 33     5  [E2]                   6.33E-4                  
+ 88SRS G KC=8.47E-5 12$LC=9.01E-6 13$MC=1.510E-6 22$NC=1.90E-7 3$OC=1.257E-8 18 
+ 88SRB G BE2W=0.7 3                                                             
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR  G 2509.49   17 25     4                                                 ?
+ 88SR cG E$observed only in (n,|g), E=thermal                                   
+ 88SR cG E$tentative as placement would require M3+E4 multipolarity for the     
+ 88SR2cG transition                                                             
+ 88SR  G 3261.8    2  98     7  [E1]                   1.39E-3                  
+ 88SRS G KC=3.40E-5 5$LC=3.58E-6 5$MC=6.00E-7 9$NC=7.56E-8 11$OC=5.01E-9 7      
+ 88SRB G BE1W=8.E-5 3                                                           
+ 88SR cG E$observed only in (n,n'|g)                                            
+ 88SR  G 4160.05   13 100    5  [E2]                   1.26E-3                  
+ 88SRS G KC=3.63E-5 5$LC=3.84E-6 6$MC=6.43E-7 9$NC=8.11E-8 12$OC=5.38E-9 8      
+ 88SRB G BE2W=0.16 6                                                            
+ 88SR  L 6010.0    10 1-                1.4 FS    1                         C   
+ 88SRX L XREF=IL                                                                
+ 88SR cL J$E1 6010|g to 0+                                                      
+ 88SR  G 6009.8       100       E1                                              
+ 88SRB G BE1W=0.00113 8                                                         
+ 88SR  L 6011.15   6  (2+)                                                      
+ 88SRX L XREF=E(6005)F                                                          
+ 88SR cL J$L(t,p)=(2)                                                           
+ 88SR  G 934.50    3  100    15                                                 
+ 88SR  G 1595.6    6  5.4    LT                                             &   
+ 88SR  G 1972.7    5  1.5    5                                                  
+ 88SR  G 4174.89   10 18     9                                                  
+ 88SR  L 6011.5    3  (3-)              41 FS    +29-22                        ?
+ 88SRX L XREF=M                                                                 
+ 88SR cL E$possibly identical to 6011.15 level, however, depopulating           
+ 88SR2cL transitions observed in (n,n'|g) are different.                        
+ 88SR cL J$2058|g to 5-, 2856|g to 0+.                                          
+ 88SR  G 2058.7    3                                                           ?
+ 88SR  G 2856.0    7                                                        *   
+ 88SR  L 6021.5    5  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6034      6                                                           ?
+ 88SRX L XREF=KL                                                                
+ 88SR cL $Possibly identical to 6021.5 level.                                   
+ 88SR  L 6052.2    3  (2+)              1.1 PS    GT                            
+ 88SRX L XREF=EH(6047)KL(*)M                                                    
+ 88SR cL J$L(t,p)=(2)                                                           
+ 88SR  G 6052.0    3  100                                                       
+ 88SR  L 6053.86   21 (2)+              44 FS     16                            
+ 88SRX L XREF=L(*)M                                                             
+ 88SR cL J$L(t,p)=(2); L(d,p)=2(+0) on 9/2+ target.                             
+ 88SR  G 2567.0    3                                                            
+ 88SR  G 3319.9    3                                                            
+ 88SR  G 4218.2    19                                                           
+ 88SR  L 6065.7    4  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2+0 on 9/2+ target.                                           
+ 88SR  L 6074.5    7                    61 FS    +91-45                        ?
+ 88SRX L XREF=HM                                                                
+ 88SR  G 2856.0    7  100                                                   *   
+ 88SR  L 6099.01   20 (3,4+)            17 FS     8                             
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$D 2146|g to (4)-, 4263|g to 2+                                       
+ 88SR  G 2146.5                 D                                               
+ 88SRF G FLAG=b                                                                 
+ 88SR  G 4262.8    2                                                            
+ 88SR  L 6101.4    3  (1,2+)            0.8 PS    GT                            
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$6101|g to 0+.                                                        
+ 88SR  G 6101.2    3  100                                                       
+ 88SR  L 6106.00   24 (1,2,3)           0.2 PS    LT                            
+ 88SRX L XREF=KLM                                                               
+ 88SR cL J$(D) 2070|g to 2+                                                     
+ 88SR  G 2070.1    4            (D)                                             
+ 88SR  G 4270.0    3                                                            
+ 88SR  L 6125.20   6                                                            
+ 88SRX L XREF=E(*)FK(*)L(*)                                                     
+ 88SR cL J$L(t,p)=(3)                                                           
+ 88SR cL E$depopulating transitions observed in (n,n'|g) and (n,|g), E=thermal  
+ 88SR2cL for levels at |?6125 keV are different, suggesting two closely spaced  
+ 88SR3cL levels.                                                                
+ 88SR  G 1857.0    4  22     6                                                  
+ 88SR  G 2172.51   10 52     6                                                  
+ 88SR  G 2602.3    3  6.8    14                                                 
+ 88SR  G 3391.03   9  100    5                                                  
+ 88SR  L 6126.6    4                    0.26 PS  +26-10                         
+ 88SRX L XREF=E(*)K(*)L(*)M                                                     
+ 88SR cL J$L(t,p)=(3)                                                           
+ 88SR cL E$depopulating transitions observed in (n,n'|g) and (n,|g), E=thermal  
+ 88SR2cL for levels at |?6125 keV are different, suggesting two closely spaced  
+ 88SR3cL levels.                                                                
+ 88SR  G 2091.1    4  100                                                       
+ 88SR  L 6132.92   17                   29 FS     LT                            
+ 88SRX L XREF=KM                                                                
+ 88SR  G 2180.3    2                                                        *   
+ 88SR  G 4296.6    3                                                            
+ 88SR  L 6140.4    5  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target                                              
+ 88SR  L 6153.50   20 (1-)              0.3 PS    LT                            
+ 88SRX L XREF=ELM                                                               
+ 88SR cL J$L(t,p)=(1)                                                           
+ 88SR  G 4317.3    2  100       (E1)                   0.00181                  
+ 88SRF G FLAG=b                                                                 
+ 88SRS G KC=2.36E-5 4$LC=2.48E-6 4$MC=4.16E-7 6$NC=5.24E-8 8$OC=3.48E-9 5       
+ 88SRB G BE1W GT 1.4E-5                                                         
+ 88SR cG M$(D) from |g(|q) in (n,n'|g), |D|p=yes from level scheme              
+ 88SR  L 6168.1    6  (1,2,3)           0.13 PS   +8-5                          
+ 88SRX L XREF=M                                                                 
+ 88SR cL J$(D) 4332|g to 2+                                                     
+ 88SR  G 4331.9    6  100       (D)                                             
+ 88SRF G FLAG=b                                                                 
+ 88SR  L 6173.06   9  (1,2+)            15 FS     7                             
+ 88SRX L XREF=HM                                                                
+ 88SR cL J$2180|g to 0+                                                         
+ 88SR  G 2180.3    2                                                        *   
+ 88SR  G 2954.6    1                                                            
+ 88SR  L 6188.0    5                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6200.63   20 1+                3.5 FS    5                         C   
+ 88SRX L XREF=IKM                                                               
+ 88SR cL J$M1 6202|g to 0+                                                      
+ 88SR  G 6200.4    2  100       M1                                              
+ 88SRB G BM1W=0.026 4                                                           
+ 88SR cG E,RI$from (|g,|g')                                                     
+ 88SR  L 6213.9    7  1-                0.247 FS  15                        C   
+ 88SRX L XREF=EIL(*)M                                                           
+ 88SR cL T$Other: 0.4 ps {I+43-2} from DSAM in (n,n'|g)                         
+ 88SR cL J$E1 6214|g to 0+                                                      
+ 88SR  G 4377.8       2.4    4  [E1]                   0.00184                  
+ 88SRS G KC=2.32E-5 4$LC=2.44E-6 4$MC=4.09E-7 6$NC=5.15E-8 8$OC=3.42E-9 5       
+ 88SRB G BE1W=0.00039 7                                                         
+ 88SR cG E,RI$from (|g,|g')                                                     
+ 88SR  G 6213.6       100       E1                                              
+ 88SRB G BE1W=0.0056 4                                                          
+ 88SR cG E,RI$from (|g,|g')                                                     
+ 88SR  L 6216      4  4+,5+                                                     
+ 88SRX L XREF=HL(*)                                                             
+ 88SR cL J$L(d,p)=0 on 9/2+ target.                                             
+ 88SR  L 6233.8    6  (-)                                                       
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=(1) on 9/2+ target.                                           
+ 88SR  L 6235.50   17 (7)                                                       
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$D 1714|g to (6)-                                                     
+ 88SR  G 1132.1    3  88     8                                                  
+ 88SRL G FL=5103.31                                                             
+ 88SR  G 1713.9    3  100    17 D                                               
+ 88SR  G 1867.4    3  94     8                                                  
+ 88SR  L 6241.5    4                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6249.26   7  (2-,3+)                                                   
+ 88SRX L XREF=FH                                                                
+ 88SR cL J$2297|g to (4)-, 2764|g to 1+.                                        
+ 88SR  G 560.9     6  100    24                                                 
+ 88SR  G 1980.13   19 41     8                                                  
+ 88SR  G 2020.6    5  20     8                                                  
+ 88SR  G 2079.4    3  22     4                                                  
+ 88SR  G 2297.4    6  10     4                                                  
+ 88SR  G 2763.7    5  6.9    17                                                 
+ 88SR  G 3030.84   21 29     4                                                  
+ 88SR  G 4413.7    3  63     LT                                             &   
+ 88SR  L 6257.85   9  3+                                                        
+ 88SRX L XREF=FHL                                                               
+ 88SR cL J$L(p,p')=4, 2771|g to 1+                                              
+ 88SR  G 1742.74   24 100    21                                                 
+ 88SR  G 1806.22   25 79     18                                                 
+ 88SR  G 2238.9    3  75     LT                                             &  ?
+ 88SR cG E$tentative placement as transition would imply E3/M4 multipolarity    
+ 88SR2cG if J|p=3+ for 6257.85 level is correct.                                
+ 88SR  G 2770.9    4  20     5                                                  
+ 88SR  L 6270      4  (2+)                                                      
+ 88SRX L XREF=E                                                                 
+ 88SR cL J$L(t,p)=(2)                                                           
+ 88SR  L 6282.8    4  3+,4+,5+                                                  
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(p,p')=4                                                            
+ 88SR  L 6292.9    11                                                          ?
+ 88SRX L XREF=HL                                                                
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 6302.1    4  (2+)                                                      
+ 88SRX L XREF=E(6307)H                                                          
+ 88SR cL J$L(t,p)=(2)                                                           
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 6333.44   10 1-                0.160 FS  10                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$E1 6335|g to 0+                                                      
+ 88SR  G 6333.2    1  100       E1                                              
+ 88SRB G BE1W=0.0084 6                                                          
+ 88SR  L 6346.45   20 1-                1.4 FS    1                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$E1 6346|g to 0+                                                      
+ 88SR  G 6346.2    2  100       E1                                              
+ 88SRB G BE1W=0.00096 7                                                         
+ 88SR  L 6350.7    5  +                                                         
+ 88SRX L XREF=HK                                                                
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 6362      6                                                            
+ 88SRX L XREF=EL                                                                
+ 88SR cL E$from (p,p')                                                          
+ 88SR  L 6367.0    10 (1,2+)                                                    
+ 88SRX L XREF=I                                                                 
+ 88SR cL J$6367|g to 0+                                                         
+ 88SR  G 6366.8       100                                                       
+ 88SR  L 6378.1    4  (+)                                                       
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=(2) on 9/2+ target.                                           
+ 88SR  L 6382.0    10 1                 18 FS     5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 6381.8       100       D                                               
+ 88SR  L 6397.7    4                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6417.3    3  +                                                         
+ 88SRX L XREF=HK(6411)L                                                         
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6430.8    4                                                            
+ 88SRX L XREF=EH                                                                
+ 88SR  L 6462      3  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6471.05   22 (+)                                                       
+ 88SRX L XREF=HL                                                                
+ 88SR cL J$L(d,p)=(2) on 9/2+ target.                                           
+ 88SR  L 6507.74   6  (4+)                                                      
+ 88SRX L XREF=FHK(6498)                                                         
+ 88SR cL J$L(d,p)=(0) on 9/2+ target, 3773|g to 3-                              
+ 88SR  G 1662.15   16 46     8                                                  
+ 88SR  G 2055.4    4  11.0   LT                                             &   
+ 88SR  G 2067.5    3  12.3   21                                                 
+ 88SR  G 2093.4    3  30     10                                                 
+ 88SR  G 2208.41   13 17.4   23                                                 
+ 88SR  G 2238.9    3  17.0   LT                                             &   
+ 88SR  G 2337.56   19 8.4    13                                                 
+ 88SR  G 2469.2    7  100    10                                                 
+ 88SR  G 3773.38   10 56     3                                                  
+ 88SR  L 6518.83   21 (2+)                                                      
+ 88SRX L XREF=E(6512)HL                                                         
+ 88SR cL J$L(t,p)=(2)                                                           
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 6542.9    3                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6551.5    3  (3,4,5)+                                                  
+ 88SRX L XREF=HK(6558)L                                                         
+ 88SR cL J$L(p,p')=4                                                            
+ 88SR  L 6565.94   22                                                           
+ 88SRX L XREF=HV(*)                                                             
+ 88SR  L 6575.25   23                                                           
+ 88SRX L XREF=HV(*)                                                             
+ 88SR  L 6583.70   5  (1-,2,3+)                                                 
+ 88SRX L XREF=EF                                                                
+ 88SR cL J$3850|g to 3-, 3097|g to 1+                                           
+ 88SR  G 1507.30   21 100    LT                                             &   
+ 88SR  G 1571.2    7  40     LT                                             &   
+ 88SR  G 2169.62   18 53     7                                                  
+ 88SR  G 2315.7    3  47     LT                                             &   
+ 88SR  G 2544.43   19 35     5                                                  
+ 88SR  G 3097.15   22 21     3                                                  
+ 88SR  G 3849.53   11 48     3                                                  
+ 88SR  G 4747.32   12 46     3                                                  
+ 88SR  L 6591.7    9  1                 5.2 FS    13                        C   
+ 88SRX L XREF=IK                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 6591.4    9  100       D                                               
+ 88SR  L 6612.75   6  2-,3-                                                     
+ 88SRX L XREF=E(6605)FL                                                         
+ 88SR cL J$L(p,p')=3, 3125|g to 1+                                              
+ 88SR  G 1768.0    4  67     18                                                 
+ 88SR  G 2573.23   19 55     7                                                  
+ 88SR  G 2660.22   8  100    11                                                 
+ 88SR  G 3125.4    3  55     13                                                 
+ 88SR  L 6618.12   23 +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6622.96   23                                                           
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6627.24   24                                                           
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6634.59   20 +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6640      6  (0-,1-,2-)                                                
+ 88SRX L XREF=L                                                                 
+ 88SR cL J$L(p,p')=(1)                                                          
+ 88SR  L 6666.2    3                                                           ?
+ 88SRX L XREF=HL(*)V(*)                                                         
+ 88SR  L 6672.17   26                                                           
+ 88SRX L XREF=HL(*)V(*)                                                         
+ 88SR  L 6692.46   7  (3+,2+)                                                   
+ 88SRX L XREF=EFH                                                               
+ 88SR cL J$2241|g to (4)+, 3205|g to 1+, fed by primary |g from 4+,5+ capture   
+ 88SR2cL state.                                                                 
+ 88SR  G 2241.3    6  22     8                                                  
+ 88SR  G 3205.42   21 28     3                                                  
+ 88SR  G 3958.36   11 100    6                                                  
+ 88SR  L 6710.4    7  1                 0.0025 PS 13                        C   
+ 88SRX L XREF=HIL(6703)                                                         
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 4874.2       42     11 D                                               
+ 88SR  G 6710.0       100       D                                               
+ 88SR  L 6739      5  +                                                         
+ 88SRX L XREF=EHL(6746)                                                         
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6770      6                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 6782.69   19 +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6798.23   22                                                           
+ 88SRX L XREF=HL                                                                
+ 88SR  L 6806.89   6  (4+)                                                      
+ 88SRX L XREF=EFH                                                               
+ 88SR cL J$L(t,p)=(4)                                                           
+ 88SR  G 1694.7    4  30     10                                                 
+ 88SR  G 1730.50   17 100    18                                                 
+ 88SR  G 2768.16   17 32     4                                                  
+ 88SR  G 3222.14   11 60     4                                                  
+ 88SR  G 4072.41   16 22.2   16                                                 
+ 88SR  G 4970.82   25 10.9   16                                                 
+ 88SR  L 6814.7    3                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6831.9    4  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6840.64   17 (8)                                                       
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$D 605|g to (7)                                                       
+ 88SR  G 605.1     1  100    4  D                                               
+ 88SRL G FL=6235.50                                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 1470.1    3  23     5                                                  
+ 88SR  G 2153.4    3  30     4  D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 2473.3    5  11.2   22                                                 
+ 88SR  L 6854.6    3  1                 2.1 FS    4                         C   
+ 88SRX L XREF=HIL(*)V(*)                                                        
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 6854.3    3  100       D                                               
+ 88SR  L 6874      10                                                           
+ 88SRX L XREF=EL(*)V(*)                                                         
+ 88SR cL E$from (t,p)                                                           
+ 88SR  L 6897      5                                                            
+ 88SRX L XREF=EL                                                                
+ 88SR cL E$weighted average of 6892 {I10} from (t,p) and 6899 {I6} from (p,p')  
+ 88SR  L 6910.7    4                                                            
+ 88SRX L XREF=H                                                                 
+ 88SR  L 6916.68   7  (3-,2+)                                                   
+ 88SRX L XREF=FH                                                                
+ 88SR cL J$fed by primary |g from 4+,5+ capture state, weak 6916|g to 0+.       
+ 88SR  G 1595.6    6  100    LT                                             &   
+ 88SR  G 2070.5    3  46     8                                                  
+ 88SR  G 2647.64   13 63     8                                                  
+ 88SR  G 4182.52   18 22.5   19                                                 
+ 88SR  G 6915.6    7  6.3    13                                                 
+ 88SR  L 6938.6    5  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR  L 6961.5    5  3+,4+,5+                                                  
+ 88SRX L XREF=HL(6973)                                                          
+ 88SR cL J$L(p,p')=4                                                            
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 6987         1-                0.81 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 6987.6    2  100       E1                                              
+ 88SRB G BE1W=0.00124 11                                                        
+ 88SR  L 7011.2    4                                                            
+ 88SRX L XREF=E(*)HK(7000)                                                      
+ 88SR  L 7022.6    4  3+,4+,5+                                                  
+ 88SRX L XREF=E(*)HL                                                            
+ 88SR cL J$L(p,p')=4                                                            
+ 88SR  L 7056      8  2-,3-,4-                                                  
+ 88SRX L XREF=L                                                                 
+ 88SR cL J$L(p,p')=3                                                            
+ 88SR  L 7060.5    5  +                                                         
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=(2) on 9/2+ target                                            
+ 88SR  L 7071.64   28                                                           
+ 88SRX L XREF=H                                                                 
+ 88SR  L 7089.11   10 1-                0.109 FS  7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7088.8    1  100       E1                                              
+ 88SRB G BE1W=0.0088 6                                                          
+ 88SR  L 7103.2    4                                                            
+ 88SRX L XREF=HL                                                                
+ 88SR  L 7119.3    3  (10)                                                      
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$Q 1464|g to (8)                                                      
+ 88SR  G 1464.0    1  100       Q                                               
+ 88SRL G FL=5655.3                                                              
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 7129.3    7                                                            
+ 88SRX L XREF=W                                                                 
+ 88SR  G 1474.0    6  100                                                       
+ 88SRL G FL=5655.3                                                              
+ 88SR  L 7138.84   6  (4+)                                                      
+ 88SRX L XREF=FH                                                                
+ 88SR cL J$L(d,p)=(2) on 9/2+ target, 3554|g to 5-, 5303|g to 2+                
+ 88SR  G 1449.77   17 100    22                                                 
+ 88SR  G 2127.9    3  6.6    16                                                 
+ 88SR  G 3099.76   20 10.9   14                                                 
+ 88SR  G 3554.02   10 24.8   14                                                 
+ 88SR  G 3616.17   17 90     7                                                  
+ 88SR  G 4404.62   20 5.2    5                                                  
+ 88SR  G 5302.61   16 35     3                                                  
+ 88SR  L 7169.21   20 1                 2.9 FS    5                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7168.9    2  100       D                                               
+ 88SR  L 7194.7    4  +                                                         
+ 88SRX L XREF=HL                                                                
+ 88SR cL J$L(d,p)=2 on 9/2+ target.                                             
+ 88SR cL E$from (d,p)                                                           
+ 88SR  L 7207.88   6  (3,4+,2+)                                                 
+ 88SRX L XREF=F                                                                 
+ 88SR cL J$fed by primary |g from 4+,5+ capture state, 5372|g to 2+.            
+ 88SR  G 2094.8    4  1.0E+2 5                                                  
+ 88SR  G 2693.41   13 84     LT                                             &   
+ 88SR  G 2793.96   22 27     5                                                  
+ 88SR  G 3989.11   12 84     5                                                  
+ 88SR  G 5371.59   14 63     4                                                  
+ 88SR  L 7223      5  (+)                                                       
+ 88SRX L XREF=H                                                                 
+ 88SR cL J$L(d,p)=(2) on 9/2+ target.                                           
+ 88SR  L 7255      6                                                            
+ 88SRX L XREF=HL                                                                
+ 88SR cL E$weighted average of 7251 {I10} in (d,p) and 7257 {I8} in (p,p')      
+ 88SR  L 7281.8    3  1-                0.55 FS   5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7281.5    3  100       E1                                              
+ 88SRB G BE1W=0.00161 15                                                        
+ 88SR  L 7299.9    3  (1)-              1.11 FS   16                        C   
+ 88SRX L XREF=IK                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7299.6    3  100       (E1)                                            
+ 88SRB G BE1W=0.00079 12                                                        
+ 88SR  L 7330.55   19 (9)                                                       
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$D 490|g to (8)                                                       
+ 88SR  G 489.9     1  100    4  D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 1902.9    3  13.3   18                                                 
+ 88SRL G FL=5427.6                                                              
+ 88SR  L 7333      6                                                            
+ 88SRX L XREF=HL                                                                
+ 88SR cL E$weighted average of 7337 {I10} in (d,p) and 7330 {I8} in (p,p')      
+ 88SR  L 7360      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 7402      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 7427      6  +                                                         
+ 88SRX L XREF=HL                                                                
+ 88SR cL J$L(d,p)=4 on 9/2+ target.                                             
+ 88SR cL E$weighted average of 7426 {I10} in (d,p) and 7427 {I8} in (p,p')      
+ 88SR  L 7434.2    3  (10)                                                      
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$Q 1779|g to (8)                                                      
+ 88SR  G 1778.9    1  100       Q                                               
+ 88SRL G FL=5655.3                                                              
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 7460      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 7481      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 7492.8    3  1-                2.5 FS    7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7492.5    3  100       E1                                              
+ 88SRB G BE1W=0.00033 10                                                        
+ 88SR  L 7526      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 7533.95   20 1-                0.32 FS   3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7533.6    2  100       E1                                              
+ 88SRB G BE1W=0.00250 24                                                        
+ 88SR  L 7573.20   6  (3,4+,2+)                                                 
+ 88SRX L XREF=FH(7561)L                                                         
+ 88SR cL J$fed by primary |g from 4+,5+ capture state, 5737|g to 2+.            
+ 88SR  G 1323.95   6  100    16                                                 
+ 88SR  G 1761.6    3  7.1    17                                                 
+ 88SR  G 2055.4    4  4.8    LT                                             &   
+ 88SRL G FL=5518.23                                                             
+ 88SR  G 2145.72   20 12.6   23                                                 
+ 88SRL G FL=5427.71                                                             
+ 88SR  G 2147.6    4  6.5    21                                                 
+ 88SR  G 3158.84   13 6.4    5                                                  
+ 88SR  G 4839.7    5  1.4    3                                                  
+ 88SR  G 5736.55   19 6.3    6                                                  
+ 88SR  L 7591.4    3  1-                0.91 FS   15                        C   
+ 88SRX L XREF=HI                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7591.0    3  100       E1                                              
+ 88SRB G BE1W=0.00086 15                                                        
+ 88SR  L 7623      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 7640      10                                                           
+ 88SRX L XREF=H                                                                 
+ 88SR  L 7641.86   21 (10)                                                      
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$D 311|g to (9)                                                       
+ 88SR  G 311.3     1  100    4  D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 522.7     5  10.9   11 (D)                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 7679      6                                                            
+ 88SRX L XREF=HL                                                                
+ 88SR cL E$weighted average of 7674 {I10} in (d,p) and 7682 {I8} in (p,p')      
+ 88SR  L 7749      6                                                            
+ 88SRX L XREF=HKL                                                               
+ 88SR cL E$weighted average of 7742 {I10} in (d,p) and 7753 {I8} in (p,p')      
+ 88SR  L 7774.8    3  (11)                                                      
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$D 341|g to (10)                                                      
+ 88SR  G 340.5     3  100    4  D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 655.4     3  98     5  D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 7807.8    3  1-                0.54 FS   8                         C   
+ 88SRX L XREF=IL(7819)                                                          
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7807.4    3  100       E1                                              
+ 88SRB G BE1W=0.00133 20                                                        
+ 88SR  L 7838.27   20 1-                0.221 FS  22                        C   
+ 88SRX L XREF=HIL(7847)                                                         
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7837.9    2  100       E1                                              
+ 88SRB G BE1W=0.0032 4                                                          
+ 88SR  L 7877.3    3  (1)-              0.65 FS   11                        C   
+ 88SRX L XREF=H(7889)IL(7874)                                                   
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7876.9    3  100       (E1)                                            
+ 88SRB G BE1W=0.00108 19                                                        
+ 88SR  L 7908.76   23 (11)                                                      
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$(D) 267|g to (10)                                                    
+ 88SR  G 266.9     1  100       (D)                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 7911      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 7964.19   20 1-                0.31 FS   3                         C   
+ 88SRX L XREF=HIL                                                               
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7963.8    2  100       E1                                              
+ 88SRB G BE1W=0.00218 22                                                        
+ 88SR  L 7987.59   20 1-                0.52 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7987.2    2  100       E1                                              
+ 88SRB G BE1W=0.00129 18                                                        
+ 88SR  L 8003      10                                                           
+ 88SRX L XREF=H                                                                 
+ 88SR  L 8040.79   10 1-                0.138 FS  13                        C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8040.4    1  100       E1                                              
+ 88SRB G BE1W=0.0048 5                                                          
+ 88SR  L 8069      8  (0+,1+)                                                   
+ 88SRX L XREF=L                                                                 
+ 88SR cL J$L(p,p')=(0)                                                          
+ 88SR  L 8094.8    4  (12)              5.1 PS    LT                            
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$(D) 320|g to (11)                                                    
+ 88SR cL T$effective half-life from DSAM in {+80}Se({+11}B,p2n|g); feeding      
+ 88SR2cL corrections have not been incorporated.                                
+ 88SR  G 319.6     1  100    4  (D)                                         @   
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 661.3     6  51     4                                                 ?
+ 88SRL G FL=7434.2                                                              
+ 88SR cG E$seen only in {+176}Yb({+28}Si,F|g).                                  
+ 88SR  L 8109.5    3  1-                0.54 FS   9                         C   
+ 88SRX L XREF=H(8103)IL(8119)                                                   
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8109.1    3  100       E1                                              
+ 88SRB G BE1W=0.00119 20                                                        
+ 88SR  L 8142      10                                                           
+ 88SRX L XREF=H                                                                 
+ 88SR  L 8171      8  (0+,1+)                                                   
+ 88SRX L XREF=L                                                                 
+ 88SR cL J$L(p,p')=(0)                                                          
+ 88SR  L 8180.7    3  1-                0.48 FS   6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8180.3    3  100       E1                                              
+ 88SRB G BE1W=0.00130 17                                                        
+ 88SR  L 8191.11   20 1-                0.33 FS   4                         C   
+ 88SRX L XREF=IL(8200)                                                          
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8190.7    2  100       E1                                              
+ 88SRB G BE1W=0.00189 23                                                        
+ 88SR  L 8215.31   20 1-                0.35 FS   4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8214.9    2  100       E1                                              
+ 88SRB G BE1W=0.00176 21                                                        
+ 88SR  L 8228      8                                                            
+ 88SRX L XREF=L                                                                 
+ 88SR  L 8271.5    3  1-                0.54 FS   9                         C   
+ 88SRX L XREF=IL(8268)                                                          
+ 88SRF L FLAG=D                                                                 
+ 88SR cL J$L(p,p')=(0) is discrepant                                            
+ 88SR  G 8271.1    3  100       E1                                              
+ 88SRB G BE1W=0.00112 19                                                        
+ 88SR  L 8276.1    5  (13)                                                      
+ 88SRX L XREF=CW                                                                
+ 88SR cL J$D 181|g to (12)                                                      
+ 88SR  G 181.4     3  100       D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 8302      8  (0+,1+)                                                   
+ 88SRX L XREF=L                                                                 
+ 88SR cL J$L(p,p')=(0)                                                          
+ 88SR  L 8325.7    3  1-                0.39 FS   6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8325.3    3  100       E1                                              
+ 88SRB G BE1W=0.00152 24                                                        
+ 88SR  L 8336.3    4  (12)              2.4 PS    LT                            
+ 88SRX L XREF=C                                                                 
+ 88SR cL T$effective half-life from DSAM in {+80}Se({+11}B,p2n|g); feeding      
+ 88SR2cL corrections have not been incorporated.                                
+ 88SR cL J$(D) 561|g to (11)                                                    
+ 88SR  G 241.6     3  100    9  (D)                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 561.3     3  88     6  (D)                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 8374.9    5                                                           ?
+ 88SRX L XREF=C                                                                 
+ 88SR  G 1255.5    5  100                                                      ?
+ 88SR  L 8375.8    6  1                 1.2 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8375.4    6  100       D                                               
+ 88SR  L 8407.0    4  1                 0.75 FS   16                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8406.6    4  100       D                                               
+ 88SR  L 8437.2    4  (12)              0.55 PS   21                            
+ 88SRX L XREF=CW                                                                
+ 88SR cL T$from DSAM in {+80}Se({+11}B,p2n|g)                                   
+ 88SR cL J$D 528|g to (11)                                                      
+ 88SR  G 528.4     3  100       D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 8453.4    3  1-                0.20 FS   3                         C   
+ 88SRX L XREF=HIL(*8470)                                                        
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8453.0    3  100       E1                                              
+ 88SRB G BE1W=0.0028 5                                                          
+ 88SR  L 8469.0    3  1-                0.62 FS   12                        C   
+ 88SRX L XREF=IL(*8470)                                                         
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8468.6    3  100       E1                                              
+ 88SRB G BE1W=0.00091 18                                                        
+ 88SR  L 8500.8    3  1                 0.35 FS   5                         C   
+ 88SRX L XREF=H(8493)I                                                          
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8500.4    3  100       D                                               
+ 88SR  L 8517.9    8                                                            
+ 88SRX L XREF=W                                                                 
+ 88SR  G 241.8     6  100                                                       
+ 88SRL G FL=8276.1                                                              
+ 88SR  L 8518.8    4  1-                0.67 FS   15                            
+ 88SRX L XREF=HI                                                                
+ 88SR cL J$E1 8518|g to 0+                                                      
+ 88SR  G 8518.4    4  100       E1                                              
+ 88SRB G BE1W=0.00083 19                                                        
+ 88SR  L 8553.0    9                    1.7 FS    5                         C  ?
+ 88SRX L XREF=IL                                                                
+ 88SR  G 8552.6    9  100                                                       
+ 88SR  L 8561.3    6                    0.83 FS   18                        C  ?
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8560.9    6  100                                                       
+ 88SR  L 8580.6    5                    1.0 FS    2                         C  ?
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8580.2    5  100                                                       
+ 88SR  L 8588.8    4                    0.58 FS   12                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8588.3    4  100                                                       
+ 88SR  L 8626.3    10                   1.3 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8625.8    10 100                                                       
+ 88SR  L 8668.7    6  1                 1.2 FS    2                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8668.2    6  100       D                                               
+ 88SR  L 8682.0    6  1                 2.5 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8681.5    6  100       D                                               
+ 88SR  L 8713.7    9  1-                0.6 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8713.2    9  100       E1                                              
+ 88SRB G BE1W=0.0009 5                                                          
+ 88SR  L 8735.8    9                    0.74 FS   12                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8735.3    9  100                                                       
+ 88SR  L 8754.6    8  1                 0.52 FS   9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8754.1    8  100       D                                               
+ 88SR  L 8764.7    5                    2.4 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8764.2    5  100                                                       
+ 88SR  L 8779.8    6                    0.95 FS   18                        C   
+ 88SRX L XREF=IL                                                                
+ 88SR  G 8779.3    6  100                                                       
+ 88SR  L 8791.9    6  1                 0.97 FS   19                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8791.4    6  100       D                                               
+ 88SR  L 8840.1    4                    0.61 FS   11                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8839.6    4  100                                                       
+ 88SR  L 8850.6    12                   2.9 FS    9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8850.1    12 100                                                       
+ 88SR  L 8874.4    5  1                 1.5 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8873.9    5  100       D                                               
+ 88SR  L 8928.5    3  1-                0.21 FS   3                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 8928.0    3  100       E1                                              
+ 88SRB G BE1W=0.0023 4                                                          
+ 88SR  L 8935.9    4  (13)                                                      
+ 88SRX L XREF=C                                                                 
+ 88SR cL J$D 600|g to (12)                                                      
+ 88SR  G 560.9     5  9.8    AP                                                 
+ 88SRL G FL=8374.9                                                              
+ 88SR  G 599.5     3  100    5  D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 659.8     3  46     3  (D)                                             
+ 88SRL G FL=8276.1                                                              
+ 88SRF G FLAG=a                                                                 
+ 88SR  G 841.2     3  46     3  (D)                                             
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 8980.8    6                    0.67 FS   12                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8980.3    6  100                                                       
+ 88SR  L 9019.2    6                    1.6 FS    4                         C   
+ 88SRX L XREF=IL(*)                                                             
+ 88SR  G 9018.7    6  100                                                       
+ 88SR  L 9043.6    4  1-                0.33 FS   9                         D   
+ 88SRX L XREF=IL(*)                                                             
+ 88SRF L FLAG=w                                                                 
+ 88SR  G 7207.3    5  29     8                                                  
+ 88SR  G 9043.0    5  100       E1                                              
+ 88SRB G BE1W=0.0011 3                                                          
+ 88SR  L 9069.7    6  1-                0.61 FS   11                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9069.2    6  100       E1                                              
+ 88SRB G BE1W=0.00075 14                                                        
+ 88SR  L 9078.3    3  1-                0.37 FS   6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9077.8    3  100       E1                                              
+ 88SRB G BE1W=0.00124 20                                                        
+ 88SR  L 9098.3    7  1                 1.2 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9097.8    7  100       D                                               
+ 88SR  L 9116.3    5                    0.52 FS   8                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 9115.8    5  100                                                       
+ 88SR  L 9125.1    3  1                 0.34 FS   5                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9124.6    3  100       D                                               
+ 88SR  L 9148.31   20 1-                0.183 FS  22                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9147.8    2  100       E1                                              
+ 88SRB G BE1W=0.0024 3                                                          
+ 88SR  L 9191.42   14 1-                0.123 FS  23                        w   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7355.1    2  16     3                                                  
+ 88SR  G 9190.8    2  100       E1                                              
+ 88SRB G BE1W=0.0031 6                                                          
+ 88SR  L 9214.4    7  1                 0.72 FS   14                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9213.9    7  100       D                                               
+ 88SR  L 9255.2    9  1                 1.6 FS    6                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9254.7    9  100       D                                               
+ 88SR  L 9305.7    3  1-                0.157 FS  22                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9305.2    3  100       E1                                              
+ 88SRB G BE1W=0.0027 4                                                          
+ 88SR  L 9341.1    3  1-                0.55 FS   9                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9340.6    3  100       E1                                              
+ 88SRB G BE1W=0.00076 13                                                        
+ 88SR  L 9384.6    7  1                 0.71 FS   13                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9384.1    7  100       D                                               
+ 88SR  L 9393.3    5  1                 0.42 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9392.8    5  100       D                                               
+ 88SR  L 9402.4    5  1                 0.55 FS   9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9401.9    5  100       D                                               
+ 88SR  L 9410.1    6  (13)                                                      
+ 88SRX L XREF=C                                                                 
+ 88SR cL J$D 973|g to (12)                                                      
+ 88SR  G 972.9     5  100       D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 9431.8    10 1                 0.58 FS   12                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9431.3    10 100       D                                               
+ 88SR  L 9445.5    4  1-                0.163 FS  23                        C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9445.0    4  100       E1                                              
+ 88SRB G BE1W=0.0025 4                                                          
+ 88SR  L 9470.5    4  (1-)              0.26 FS   4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9470.0    4  100       (E1)                                            
+ 88SRB G BE1W=0.00155 24                                                        
+ 88SR  L 9478.8    4  1(-)              0.33 FS   9                         w   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 7642.5    5  14     4                                                  
+ 88SR  G 9478.2    5  100       (E1)                                            
+ 88SRB G BE1W=0.0011 3                                                          
+ 88SR  L 9497.05   20 1-                0.104 EV  12                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9496.5    2  100       E1                                              
+ 88SRB G BE1W=9.1E-5 11                                                         
+ 88SR  L 9528.3    4  (14)              0.28 PS   10                            
+ 88SRX L XREF=C                                                                 
+ 88SR cL T$from DSAM in {+80}Se({+11}B,p2n|g)                                   
+ 88SR cL J$D 592|g to (13)                                                      
+ 88SR  G 592.4     1  100       D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 9550.8    7                    1.1 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 9550.2    7  100                                                       
+ 88SR  L 9568.3    5  1                 0.44 FS   8                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9567.7    5  100       D                                               
+ 88SR  L 9576.8    11                   1.2 FS    3                         C   
+ 88SRX L XREF=IL                                                                
+ 88SR  G 9576.2    11 100                                                       
+ 88SR  L 9597.9    11 1                 1.1 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9597.3    11 100       D                                               
+ 88SR  L 9616.3    6  1                 0.54 FS   10                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9615.7    6  100       D                                               
+ 88SR  L 9646.1    8                    1.8 FS    5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 9645.5    8  100                                                       
+ 88SR  L 9704.1    5  1-                0.23 FS   5                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9703.5    5  100       E1                                              
+ 88SRB G BE1W=0.0016 4                                                          
+ 88SR  L 9728.2    18                   2.3 FS    10                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 9727.6    18 100                                                       
+ 88SR  L 9738.1    16 1                 0.72 FS   18                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9737.5    16 100       D                                               
+ 88SR  L 9746.0    6  1-                0.18 FS   3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9745.4    6  100       E1                                              
+ 88SRB G BE1W=0.0021 4                                                          
+ 88SR  L 9804.7    9  1                 1.1 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9804.1    9  100       D                                               
+ 88SR  L 9816.5    3  1-                0.39 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9815.9    3  100       E1                                              
+ 88SRB G BE1W=0.00093 17                                                        
+ 88SR  L 9881.2    4  1(-)              0.26 FS   4                         C   
+ 88SRX L XREF=IL                                                                
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9880.6    4  100       (E1)                                            
+ 88SRB G BE1W=0.00136 21                                                        
+ 88SR  L 9944.1    8  1-                0.46 FS   8                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9943.5    8  100       E1                                              
+ 88SRB G BE1W=0.00076 14                                                        
+ 88SR  L 9953.3    5                    0.32 FS   5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 9952.7    5  100                                                       
+ 88SR  L 9965.8    6  1(-)              0.52 FS   9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 9965.2    6  100       (E1)                                            
+ 88SRB G BE1W=0.00066 12                                                        
+ 88SR  L 9977.9    5  (15)              0.17 PS   +10-3                         
+ 88SRX L XREF=C                                                                 
+ 88SR cL T$from DSAM in {+80}Se({+11}B,p2n|g)                                   
+ 88SR cL J$D 450|g to (14)                                                      
+ 88SR  G 449.6     3  100       D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 10056.3   4  1                 0.61 FS   10                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10055.7   4  100       D                                               
+ 88SR  L 10089.2   10                   1.5 FS    5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10088.6   10 100                                                       
+ 88SR  L 10106.9   8  1                 0.86 FS   23                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10106.3   8  100       D                                               
+ 88SR  L 10128.2   7                    0.93 FS   21                        C   
+ 88SRX L XREF=IL                                                                
+ 88SR  G 10127.6   7  100                                                       
+ 88SR  L 10139.5   8                    1.06 FS   24                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10138.9   8  100                                                       
+ 88SR  L 10150.3   8                    0.88 FS   24                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10149.7   8  100                                                       
+ 88SR  L 10184.0   4                    3.5 FS    11                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10183.4   4  100                                                       
+ 88SR  L 10248.6   4  1                 1.6 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10248.0   4  100       D                                               
+ 88SR  L 10288.6   7  1(-)              0.45 FS   9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10288.0   7  100       (E1)                                            
+ 88SRB G BE1W=0.00070 14                                                        
+ 88SR  L 10297.7   13                   1.1 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10297.1   13 100                                                       
+ 88SR  L 10326.7   6                    1.9 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10326.0   6  100                                                       
+ 88SR  L 10341.3   6                    1.7 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10340.6   6  100                                                       
+ 88SR  L 10372.5   5                    0.5 FS    5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10371.8   5  100                                                       
+ 88SR  L 10406.6   14                   0.35 FS   24                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10405.9   14 100                                                       
+ 88SR  L 10421.1   10                   0.8 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10420.4   10 100                                                       
+ 88SR  L 10453.2   12                   1.3 FS    5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10452.5   12 100                                                       
+ 88SR  L 10481.1   9                    1.1 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10480.4   9  100                                                       
+ 88SR  L 10512.1   19                   0.77 FS   22                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10511.4   19 100                                                       
+ 88SR  L 10522.7   5  1                 0.18 FS   3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10522.0   5  100       D                                               
+ 88SR  L 10550.3   5  1                 0.40 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10549.6   5  100       D                                               
+ 88SR  L 10600.2   16                   0.61 FS   17                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10599.5   16 100                                                       
+ 88SR  L 10608.7   14                   0.41 FS   11                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10608.0   14 100                                                       
+ 88SR  L 10644.1   8  1-                0.30 FS   6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10643.4   8  100       E1                                              
+ 88SRB G BE1W=0.00095 19                                                        
+ 88SR  L 10657.8   16 1                 0.38 FS   13                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10657.1   16 100       D                                               
+ 88SR  L 10698.4   8                    1.2 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10697.7   8  100                                                       
+ 88SR  L 10726.4   15 1                 0.8 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10725.7   15 100       D                                               
+ 88SR  L 10739.4   6  (16)              4.2 PS    LT                            
+ 88SRX L XREF=C                                                                 
+ 88SR cL T$effective half-life from DSAM in {+80}Se({+11}B,p2n|g); feeding      
+ 88SR2cL corrections have not been incorporated.                                
+ 88SR cL J$D 762|g to (15)                                                      
+ 88SR  G 761.5     3  100       D                                               
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 10744.9   8                    0.80 FS   22                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10744.2   8  100                                                       
+ 88SR  L 10759.7   16                   1.0 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10759.0   16 100                                                       
+ 88SR  L 10767.1   15 1                 0.7 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10766.4   15 100       D                                               
+ 88SR  L 10783.6   5  1                 0.18 FS   4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10782.9   5  100       D                                               
+ 88SR  L 10804.8   4                    0.27 FS   11                        w   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 8968.3    6  26     11                                                 
+ 88SR  G 10804.0   6  100                                                       
+ 88SR  L 10857.4   4                    1.7 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 7370.6    6  52     18                                                 
+ 88SR  G 10856.6   6  100                                                       
+ 88SR  L 10888.4   9                    0.51 FS   22                        w   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 7669.7    13 33     14                                                 
+ 88SR  G 10887.6   13 100                                                       
+ 88SR  L 10914.6   5  1                 0.35 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 10913.9   5  100       D                                               
+ 88SR  L 10929.9   7                    0.50 FS   12                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10929.2   7  100                                                       
+ 88SR  L 10950.4   6                    0.43 FS   9                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10949.7   6  100                                                       
+ 88SR  L 10979.7   12                   0.9 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 10979.0   12 100                                                       
+ 88SR  L 11012.0   5  1                 0.20 FS   3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 11011.3   5  100       D                                               
+ 88SR  L 11059.0   11                   0.75 FS   23                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11058.3   11 100                                                       
+ 88SR  L 11083.1   8                    0.46 FS   18                        w   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 7864.3    11 26     11                                                 
+ 88SR  G 11082.3   11 100                                                       
+ 88SR  L 11111.8   16 1                 0.53 FS   17                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 11111.0   16 100       D                                               
+ 88SR  L 11125.4   14 1                 0.43 FS   14                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 11124.6   14 100       D                                               
+ 88SR  L 11169.6   8                    0.46 FS   18                        w   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 7682.9    12 35     15                                                 
+ 88SR  G 11168.7   12 100                                                       
+ 88SR  L 11224.2   13                   1.0 FS    5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11223.4   13 100                                                       
+ 88SR  L 11251.8   12                   0.68 FS   21                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11251.0   12 100                                                       
+ 88SR  L 11278.9   10 1                 0.30 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 11278.1   10 100       D                                               
+ 88SR  L 11313.8   6                    0.22 FS   12                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11313.0   6  100                                                       
+ 88SR  L 11326     3                    2.2 FS    8                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11325     3  100                                                       
+ 88SR  L 11335.3   13 1                 0.11 FS   4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 11334.5   13 100       D                                               
+ 88SR  L 11355     3                    0.15 FS   7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11354     3  100                                                       
+ 88SR  L 11356.1   7  (17)                                                     ?
+ 88SRX L XREF=C                                                                 
+ 88SR cL J$D 617|g to (16)                                                      
+ 88SR  G 616.7     3  100       D                                              ?
+ 88SRF G FLAG=a                                                                 
+ 88SR  L 11370     3  1                 0.14 FS   5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 11369     3  100       D                                               
+ 88SR  L 11393.6   6  1                 0.75 FS   18                        C   
+ 88SRX L XREF=I                                                                 
+ 88SRF L FLAG=D                                                                 
+ 88SR  G 11392.8   6  100       D                                               
+ 88SR  L 11413.2   15                   0.9 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11412.4   15 100                                                       
+ 88SR  L 11548.0   7                    2.0 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11547.2   7  100                                                       
+ 88SR  L 11593.7   16                   1.7 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11592.9   16 100                                                       
+ 88SR  L 11607.6   12                   1.2 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11606.8   12 100                                                       
+ 88SR  L 11633.0   14                   1.7 FS    5                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11632.2   14 100                                                       
+ 88SR  L 11658.0   16                   2.2 FS    8                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11657.2   16 100                                                       
+ 88SR  L 11743.1   14                   1.3 FS    4                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11742.3   14 100                                                       
+ 88SR  L 11782.4   14                   1.5 FS    6                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11781.6   14 100                                                       
+ 88SR  L 11920.6   7                    1.2 FS    3                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11919.7   7  100                                                       
+ 88SR  L 11935.5   10                   2.2 FS    7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11934.6   10 100                                                       
+ 88SR  L 11958.9   14                   4.1 FS    19                        C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 11958.0   14 100                                                       
+ 88SR  L 12026.5   10                   2.0 FS    7                         C   
+ 88SRX L XREF=I                                                                 
+ 88SR  G 12025.6   10 100                                                       
+ 88SR  L 15645        (2-)              35 KEV    5                         B   
+ 88SRX L XREF=P                                                                 
+ 88SRF L FLAG=F                                                                 
+ 88SR  L 15674        (3-)              27 KEV    5                         B   
+ 88SRX L XREF=P                                                                 
+ 88SRF L FLAG=F                                                                 
+ 88SR  L 15918        (4-)              31 KEV    4                         B   
+ 88SRX L XREF=P                                                                 
+ 88SRF L FLAG=F                                                                 
+ 88SR  L 16500        (2-)              28 KEV    5                         B   
+ 88SRX L XREF=P                                                                 
+ 88SRF L FLAG=F                                                                 
+ 88SR  L 17.2E+3                                                            B   
+ 88SRX L XREF=P                                                                 
+ 88SR  L 17.8E+3                                                            B   
+ 88SRX L XREF=P                                                                 
+ 88SR  L 19.2E+3                                                            B   
+ 88SRX L XREF=P                                                                 
+ 88SR  L 20.5E+3                                                            B   
+ 88SRX L XREF=P                                                                 

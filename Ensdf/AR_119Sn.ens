@@ -1,0 +1,576 @@
+119SN    ADOPTED LEVELS, GAMMAS                                  09NDS    200910
+119SN  H TYP=FUL$AUT=D. M. SYMOCHKO, E. BROWNE, J. K. TULI$                     
+119SN2 H CIT=NDS 110,2945 (2009)$CUT=1-Dec-2008$                                
+119SN  Q -591      8 6483.5  6 10126   8 -4405.6 10    2012WA38                 
+119SN cQ $Note: Current evaluation has used the following Q record              
+119SN  Q -591      8 6483.6  6 10126   8 -4405   2     2009AUZZ                 
+119SN cQ           Q(|a)=-6240 {I80} (2003Au03)                                 
+119SN D  Modified by E. Browne (December 2008). BRICC conv. coeffs.             
+119SN2D  GTOL (2008). RULER (2007).                                             
+119SN c  Other reactions:                                                       
+119SN c            {+120}Sn(d,{+3}He|p{+-}): 2004Su04, 2003Su24, 2003Su35,      
+119SN2c  2003SuZY, 2003GiZZ, 2002SuZX.                                          
+119SN DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+119SN cG E,RI      From |b{+-} decay (2.4 min), except as noted                 
+119SN cG M         From (|a,n|g), except as noted                               
+119SN cL E         From a least-squares fit by the evaluators to the adopted    
+119SN2cL E(|g's) for levels connected by |g's. Others are from {+118}Sn(d,p),   
+119SN3cL {+119}Sn({+80}Se,{+80}Se'), {+119}Sn(p,p'), {+119}Sn(|a,|a'),(d,d'),   
+119SNxcL and {+120}Sn({+3}He,|a)                                                
+119SN cL J(O)      From L in (d,p) and/or (p,d)                                 
+119SN cL J(Q)      From L in (d,p) and/or ({+3}He,|a)                           
+119SN cL J(T)      From enhanced cross section in (p,p'). The enhancement       
+119SN2cL suggests the presence of a level with J|p=5/2-,7/2-                    
+119SN cL E(A)      Doublet resolved from Coul. ex.                              
+119SN cL E(B)      IAS                                                          
+119SN  XA119IN B- DECAY (2.4 M)                                                 
+119SN  XB119IN B- DECAY (18.0 M)                                                
+119SN  XC119SN IT DECAY                                                         
+119SN  XD119SB EC DECAY                                                         
+119SN  XE116CD(A,NG)                                                            
+119SN  XF118SN(N,G) E=RESONANCE                                                 
+119SN  XG118SN(D,P)                                                             
+119SN  XH118SN(D,PG)                                                            
+119SN  XISN(80SE,80SE'XNG)                                                      
+119SN  XJ119SN(P,P')                                                            
+119SN  XK119SN(A,A'),(D,D')                                                     
+119SN  XLCOULOMB EXCITATION                                                     
+119SN  XM120SN(P,D)                                                             
+119SN  XN120SN(D,T),(POL D,T)                                                   
+119SN  XO120SN(3HE,A)                                                           
+119SN  XP120SN(P,D),(3HE,A) IAS                                                 
+119SN  XQ118SN(T,D)                                                             
+119SN PN                                                                     6  
+119SN  L 0           1/2+              STABLE                                   
+119SN2 L XREF=ABCDEFGHIJKLMNOQ                                                  
+119SN3 L MOMM1=-1.04728 7                                                       
+119SN cL J         from NMR (1976Fu06); L(d,p),({+3}He,|a)=0                    
+119SN cL MOMM1$NMR (2005St24); value relative to |m=+2.2176556 {I6}             
+119SNxcL {+23}Na(g.s.)                                                          
+119SN  L 23.871    8 3/2+              18.03 NS  7                              
+119SN2 L XREF=ABCDEFGHILMN(30)OQ                                                
+119SN3 L MOMM1=+0.633 3$MOME2=-0.112 7                                          
+119SN cL MOMM1$Moss (1973Cr01, 2005St24). Value relative to |m=-1.04728 {I7}    
+119SN2cL for {+119}Sn(g.s.). Other: +0.682 {I3} (Moss (2005St24))               
+119SN cL MOME2$Moss (2006Ma35). Other values: 0.094 {I4} (Time dependent        
+119SN2cL perturbed angular distributions, 1975Di02, 2005St24); -0.065 {I5}      
+119SN2cL (Moss, 1972Mi02, 2005St24); -0.061 {I3} (Moss, 1987Gr28, 2005St24);    
+119SN3cL -0.109 {I8} (Moss, 1983Ha50, 2005St24). Other: 0.121 {I1} (1997Sv03),  
+119SN4cL 0.094 {I11} (                                                          
+119SN cL T         from 1980La03. Others: 17.87 ns {I11} and 18.48 ns {I30}     
+119SN2cL (1976Ab01), 18.29 ns {I9} (1975Ro14), 18.45 ns {I20} (1971Dr04), 17.75 
+119SN3cL ns {I12} (1971Be04), and 18.5 ns {I10} (1957Ol05). All data are from   
+119SN4cL IT decay. Note that the weighted av of these values gives              
+119SN5cL T{-1/2}=18.06 ns {I8}, but that of 1980La03 is somewhat more precise.  
+119SN6cL See 1977Do07, 1976Ha66, 1983Ma81 for physical and chemical effects     
+119SN cL J         L(d,p),({+3}He,|a)=2; M1 |g to 1/2+                          
+119SN cL           Isomer shift |D' r/r=0.00087 {I25} (1984Mu28)                
+119SN  G 23.870    8 100       M1+E2     0.003   LT    5.06   8                 
+119SNS G LC=4.10 6$MC=0.804 12$NC+=0.1637 23                                    
+119SNS G NC=0.1508 22$OC=0.01292 19                                             
+119SN cG E         weighted av of 23.875 {I11} in IT decay and 23.867 {I10} in  
+119SN2cG |b{+-} decay (2.4 min)                                                 
+119SN cG M,MR      from {+119}Sn IT decay (1968Bo09)                            
+119SNB G BM1W=0.015$BE2W<0.70                                                   
+119SN  L 89.531    1311/2-             293.1 D   7                           M  
+119SN2 L %IT=100$XREF=ACEFGHIMN(80)OQ                                           
+119SN cL J         L(d,p),({+3}He,|a)=5; M4 |g to 3/2+                          
+119SN3 L MOMM1=-1.40 8$MOME2=0.21 2                                             
+119SN cL MOMM1     Moss (2005St24).                                             
+119SN cL MOME2     Value relative to Q=+0.094 {I4} for {+119}Sn (23.87 level)   
+119SN2cL (1975Di02,2005St24).                                                   
+119SN cL T         from 1988GeZS. Others: 293.0 d {I13} (1976Ma63), 245 d {I20} 
+119SN2cL (1950Ne52). All data are from IT decay                                 
+119SN  G 65.66     1 100       M4                      5.00E3                   
+119SNS G KC=1618 23$LC=2.64E3 4$MC=630 9$NC+=116.9 17                           
+119SNS G NC=113.4 16$OC=3.47 5                                                  
+119SN cG M         from IT decay                                                
+119SNB G BM4W=5.20 8                                                            
+119SN  L 787.01    4 7/2+              0.19 NS   7                              
+119SN2 L XREF=AEFGHJMNO                                                         
+119SN cL J         L(d,p)=4, analyzing-power analysis in (pol d,t).             
+119SN cL T         |b|g(t) in {+119}In |b{+-} decay (2.4 min)                   
+119SN  G 697.47    5 0.49    4 [M2]                    0.01001                  
+119SNB G BM2W=0.20 8                                                            
+119SNS G KC=0.00864 12$LC=0.001108 16$MC=0.000218 3$NC+=4.46E-5 7               
+119SNS G NC=4.10E-5 6$OC=3.57E-6 5                                              
+119SN  G 763.14    4 100       E2                                               
+119SNB G BE2W=0.33 13                                                           
+119SNS G CC=0.00241 4$KC=0.00209 3$LC=0.000264 4$MC=5.17E-5 8$NC+=1.048E-5 15   
+119SNS G NC=9.68E-6 14$OC=8.06E-7 12                                            
+119SN  L     920.51143/2+              1.6 PS    5                          A   
+119SN2 L XREF=BEF(*)G(*)HJ(*)LM(*)N(*)O(*)K(*900)                               
+119SN cL J         |g(|q) for a composite 921|g from the 920.5 and              
+119SN2cL 921.4 levels, and T{-1/2} from Doppler shift measurement for these     
+119SN3cL levels are mutually consistent with J|p(920.5)=3/2+, and               
+119SN4cL J|p(921.4)=5/2+, not with J|p(921.4)=3/2+ and J|p(920.5)=5/2+,         
+119SN5cL or with J|p=3/2+ or 5/2+ for both states                               
+119SN cL T         Doppler-broadening in Coul. ex.                              
+119SN cL E         from (p,p')                                                  
+119SN  G 896.6     2 35      23                                                 
+119SN  G 920.5     2 100     36E2+M1     -10     +2-5                           
+119SNS G CC=0.001554 22$KC=0.001347 19$LC=0.0001668 24$MC=3.26E-5 5$NC+=6.63E-6 
+119SNS G NC=6.12E-6 9$OC=5.18E-7 8                                              
+119SN cG MR        from |g(|q) in Coul. ex.                                     
+119SNB G BM1W=0.00013 9$BE2W=11 7                                               
+119SN  L     921.39155/2+              1.2 PS    4                          A   
+119SN2 L XREF=BEF(*)G(*)HJ(*)LM(*)N(*)O(*)K(*900)                               
+119SN cL J         see 920.48 level                                             
+119SN cL T         Doppler-broadening in Coul. ex.                              
+119SN  G 897.5     2 100     30E2(+M1)                                          
+119SNB G BE2W=17 6                                                              
+119SNS G CC=0.00182 18$KC=0.00158 16$LC=0.000192 16$MC=3.8E-5 3$NC+=7.7E-6 7    
+119SNS G NC=7.1E-6 6$OC=6.1E-7 7                                                
+119SN  G 921.4     2 34      13E2                                               
+119SNS G CC=0.001547 22$KC=0.001342 19$LC=0.0001661 24$MC=3.25E-5 5$NC+=6.61E-6 
+119SNS G NC=6.09E-6 9$OC=5.16E-7 8                                              
+119SNB G BE2W=5 3                                                               
+119SN  L 1060      10(+)                                                        
+119SN2 L XREF=JK                                                                
+119SN cL J         |p=(+) from |s(60|')/|s(40|') in (d,d')                      
+119SN cL E         from (p,p')                                                  
+119SN  L 1062.4    107/2-                                                       
+119SN2 L XREF=EFGH                                                              
+119SN cL J         L(d,p)=3, |g to 11/2-                                        
+119SN  G 972.9     10100       E2,M1                                            
+119SNS G CC=0.00151 15$KC=0.00132 14$LC=0.000160 14$MC=3.1E-5 3$NC+=6.4E-6 6    
+119SNS G NC=5.9E-6 5$OC=5.1E-7 6                                                
+119SN cG E         from (n,|g)                                                  
+119SN  L    1089.44 65/2+              0.21 PS   7                              
+119SN2 L XREF=BFJLMNOGH                                                         
+119SN cL J         L(d,p),({+3}He,|a)=2; analyzing-power analysis in (pol d,t)  
+119SN cL T         Doppler-broadening in Coul. ex.                              
+119SN  G 1065.55   6 100.0   4 M1+E2     +0.26   3                              
+119SNB G BM1W=0.08 3$BE2W=3.4 14                                                
+119SNS G CC=0.001340 19$KC=0.001168 17$LC=0.0001393 20$MC=2.72E-5 4$NC+=5.57E-6 
+119SNS G NC=5.12E-6 8$OC=4.52E-7 7                                              
+119SN cG RI        from Coul. ex.                                               
+119SN cG MR        from the compilation of 1977Kr13 based on values from        
+119SN2cG +0.26 {I3} or <-15 in Coul. ex.                                        
+119SN  G 1089.9    3 6.3     4 [E2]                                             
+119SNB G BE2W=3.0 11                                                            
+119SNS G CC=0.001066 15$KC=0.000926 13$LC=0.0001129 16$MC=2.20E-5 3$NC+=4.50E-6 
+119SNS G NC=4.14E-6 6$OC=3.55E-7 5                                              
+119SN cG RI        from Coul. ex.; other: 20 {I5} ({+119}In |b{+-} decay (18.0  
+119SNxcG min))                                                                  
+119SN  L 1187.73   6 3/2+,5/2+                                                  
+119SN2 L XREF=BEFGHL                                                            
+119SN cL           B(E2)<0.0006 from Coul. ex.                                  
+119SN cL J         L(d,p)=2                                                     
+119SN  G 1163.85   6 100     12M1                                               
+119SNS G CC=0.001117 16$KC=0.000972 14$LC=0.0001155 17$MC=2.25E-5 4$NC+=7.46E-6 
+119SNS G NC=4.25E-6 6$OC=3.75E-7 6$IPC=2.84E-6 4                                
+119SN  G 1187.79   2019      7                                                  
+119SN  L 1210                                                                   
+119SN2 L XREF=K                                                                 
+119SN cL E         multiplet in (|a,|a')                                        
+119SN  L 1249.71   5 1/2+                                                       
+119SN2 L XREF=BFGHJMN(1240)O                                                    
+119SN cL J         L(d,p)=0                                                     
+119SN  G 1225.7    3 28      7                                                  
+119SN cG RI        other: 49 in (n,|g)                                          
+119SN  G 1249.71   5 100     9                                                  
+119SN  L 1304.40   10GE7/2                                                      
+119SN2 L XREF=AEFGHJO                                                           
+119SN cL J         |g to 11/2-; but inconsistent with L=(2) assigned in (d,p);  
+119SN3cL an L=3 or L=4 admixture cannot be ruled out from authors' drawing      
+119SN  G 1214.86   10100                                                        
+119SN  L 1309      4                                                            
+119SN2 L XREF=G                                                                 
+119SN  L     1309.3 9(15/2-)                                                    
+119SN2 L XREF=I                                                                 
+119SN cL J$systematics of 15/2- states in {+117-123}Sn isotopes                 
+119SN  G 1220      1 100                                                        
+119SN  L 1354.8    5 5/2+              0.42 PS   14                             
+119SN2 L XREF=BFGHJK(1340)LMN(1360)O                                            
+119SN cL J         L(d,p),({+3}He,|a)=2; E2 |g to 1/2+                          
+119SN cL T         Doppler-broadening in Coul. ex.                              
+119SN cL E         doublet in (p,p')                                            
+119SN  G 434.2     208       AP[M1]                    0.0112121                
+119SN3 G FL=920.51                                                              
+119SNB G BM1W AP 0.04                                                           
+119SNS G KC=0.00974 18$LC=0.001192 22$MC=0.000233 5$NC+=4.78E-5 9               
+119SNS G NC=4.39E-5 8$OC=3.85E-6 7                                              
+119SN cG E         from (n,|g)                                                  
+119SN  G 1331.0    5 100       E2+M1     -0.31   3                              
+119SNB G BM1W=0.014 5$BE2W=0.58 22                                              
+119SNS G CC=0.000847 12$KC=0.000715 11$LC=8.49E-5 12$MC=1.654E-5 24$NC+=3.04E-5 
+119SNS G NC=3.12E-6 5$OC=2.75E-7 4$IPC=2.70E-5 4                                
+119SN cG MR        from the compilation of 1977Kr13 based on values from        
+119SN2cG -0.31 {I3} or -1.45 {I15} in Coul. ex.                                 
+119SN cG E         from (n,|g)                                                  
+119SN  G 1354.9    1032      2 [E2]                                             
+119SNB G BE2W=1.9 7                                                             
+119SNS G CC=0.000713 10$KC=0.000590 9$LC=7.07E-5 10$MC=1.379E-5 20$NC+=3.86E-5 6
+119SNS G NC=2.59E-6 4$OC=2.25E-7 4$IPC=3.58E-5 6                                
+119SN cG E         from (n,|g)                                                  
+119SN  L     1378.8 9(13/2-)                                                    
+119SN2 L XREF=I                                                                 
+119SN cL J$|g to 11/2-; from analogious to decay of the 19/2+ state in {+117}Sn 
+119SN  G 1289      1 100                                                        
+119SN  L 1390      10                                                           
+119SN2 L XREF=JO                                                                
+119SN cL E         doublet or broad peak in (p,p'). |?1385 in ({+3}He,|a),      
+119SN2cL reported as peak populated with probably L>2                           
+119SN  L 1510                                                                   
+119SN2 L XREF=K                                                                 
+119SN  L 1554.4    5 3/2+,5/2+                                              O   
+119SN2 L XREF=FGO                                                               
+119SN  G 465.2     1518                                                         
+119SN  G 632.9     1518                                                         
+119SN3 G FL=920.51                                                              
+119SN  G 767.4     5 100                                                        
+119SN  G 1554.5    1543                                                         
+119SN  L 1562      103/2+,5/2+                                              O   
+119SN2 L XREF=MN                                                                
+119SN cL E         from (p,d)                                                   
+119SN  L     1571.8 61/2,3/2,5/2+                                               
+119SN2 L XREF=FL                                                                
+119SN cL           B(E2)<0.002 from Coul. ex.                                   
+119SN cL J         |g to 1/2+                                                   
+119SN  G 323.0     2041                                                         
+119SN  G 650.6     1071                                                         
+119SN3 G FL=920.51                                                              
+119SN  G 1547.7    10100                                                        
+119SN  G 1572.4    1032                                                         
+119SN  L 1590                                                                   
+119SN2 L XREF=K                                                                 
+119SN  L     1617.1 8(1/2+,3/2,5/2)                                             
+119SN2 L XREF=F                                                                 
+119SN cL J         primary |g from (1/2) res, |g to 5/2+                        
+119SN  G 430.6     2019                                                         
+119SN  G 695.6     1519                                                         
+119SN3 G FL=920.51                                                              
+119SN  G 1593.4    10100                                                        
+119SN  L 1633      4 3/2+,5/2+                                              O   
+119SN2 L XREF=GMN(1640)O                                                        
+119SN cL E         weighted av of 1631 {I4} (d,p), 1645 {I10} (p,d), and        
+119SN2cL 1635 {I8} ({+3}He,|a)                                                  
+119SN  L 1718.4    153/2+,5/2+                                              O   
+119SN2 L XREF=FGO(*1725)                                                        
+119SN  G 1694.5    15                                                           
+119SN  L 1731      6 3/2+,5/2+                                              O   
+119SN2 L XREF=J(1740)KMNO(*1725)                                                
+119SN cL E         weighted av of 1740 {I10} (p,p'), 1730 {I10} (p,d), and      
+119SN2cL 1725 {I8} ({+3}He,|a)                                                  
+119SN  L 1774.8    3 3/2+,5/2+                                                  
+119SN2 L XREF=F                                                                 
+119SN cL J         primary |g from 1/2+ res, |g to 7/2+                         
+119SN  G 420.9     209                                                          
+119SN  G 855.6     1554                                                         
+119SN  G 987.7     3 54                                                         
+119SN  G 1750.4    20100                                                        
+119SN  L 1789.7    201/2,3/2,5/2+                                               
+119SN2 L XREF=F                                                                 
+119SN cL J         primary |g from 1/2+ res                                     
+119SN  G 1765.8    20                                                           
+119SN  L 1810      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 1905      5 3/2+,5/2+                                              O   
+119SN2 L XREF=GKJ                                                               
+119SN  L 1929.6    201/2,3/2,5/2+                                               
+119SN2 L XREF=FO(*1935)                                                         
+119SN cL J         |g to 1/2+                                                   
+119SN  G 1929.6    20                                                           
+119SN  L 1938.9    5 1/2+,3/2,5/2+                                              
+119SN2 L XREF=FM(*1945)O(*1935)                                                 
+119SN cL J         |g's to 1/2+ and 5/2+                                        
+119SN cL E         possible multiplet in (p,d)                                  
+119SN  G 849.4     5 100                                                        
+119SN  G 1915.7    2070                                                         
+119SN  G 1939.4    20100                                                        
+119SN  L 1950      10                                                           
+119SN2 L XREF=JM(*1945)                                                         
+119SN cL E         from (p,p')                                                  
+119SN  L 1983.0    20                                                           
+119SN2 L XREF=F                                                                 
+119SN  G 1959.1    20                                                           
+119SN  L     2003.1101/2,3/2,5/2                                                
+119SN2 L XREF=F                                                                 
+119SN cL J         primary |g from 3/2- res, |g to 3/2+                         
+119SN  G 1082.6    10                                                           
+119SN3 G FL=920.51                                                              
+119SN  L 2041.0    251/2,3/2,5/2+                                               
+119SN2 L XREF=F                                                                 
+119SN cL J         |g to 1/2+                                                   
+119SN  G 2041.0    25                                                           
+119SN  L 2075      8                                                            
+119SN2 L XREF=JO                                                                
+119SN cL E         from ({+3}He,|a); doublet in (p,p')                          
+119SN  L 2100      15                                                           
+119SN2 L XREF=J                                                                 
+119SN cL E         doublet                                                      
+119SN  L 2120      6                                                            
+119SN2 L XREF=G                                                                 
+119SN  L     2127.010(19/2+)           9.6 US    12                             
+119SN2 L XREF=I                                                                 
+119SN cL J$|g's to 13/2- and 15/2-; from systematics of the 19/2+ state         
+119SN2cL in {+117-123}Sn                                                        
+119SN cL T         off-beam |g|g(t) in ({+80}Se,{+80}Se')                       
+119SN  G 748       1                                                            
+119SN2 G FL=1378.8                                                              
+119SN  G 818       1                                                            
+119SN2 G FL=1309.3                                                              
+119SN  L 2130.2    201/2+                                                       
+119SN2 L XREF=FG(2120)J(*2140)M(2120)                                           
+119SN cL J         L(d,p)=0                                                     
+119SN cL E         doublet in (p,p')                                            
+119SN  G 2130.2    20                                                           
+119SN  L 2155      8                                                            
+119SN2 L XREF=J(*2140)O                                                         
+119SN cL E         doublet in (p,p')                                            
+119SN  L 2180      15(5/2-,7/2-)                                            T   
+119SN2 L XREF=J                                                                 
+119SN cL E         doublet in (p,p')                                            
+119SN  L 2230      153/2+,5/2+                                              O   
+119SN2 L XREF=JM(2210)                                                          
+119SN  L 2240                                                                   
+119SN2 L XREF=K                                                                 
+119SN  L 2258      6 3/2+,5/2+                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 2280      15(5/2-,7/2-)                                            T   
+119SN2 L XREF=J                                                                 
+119SN  L 2322      6 3/2+,5/2+                                              O   
+119SN2 L XREF=GJ(*2340)M                                                        
+119SN  L 2350      8                                                            
+119SN2 L XREF=J(*2340)O                                                         
+119SN  L 2367      6 3/2+,5/2+                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 2390      155/2-,7/2-                                                  
+119SN2 L XREF=JK(2360)                                                          
+119SN cL J         L(|a,|a')=3                                                  
+119SN  L 2400        9/2-,11/2-                                                 
+119SN2 L XREF=M                                                                 
+119SN cL J         L(p,d)=5                                                     
+119SN  L     2415.314(19/2-)                                                    
+119SN2 L XREF=I                                                                 
+119SN cL J$|g to 15/2-; from analogous decay of the 19/2- states in             
+119SN2cL {+113-123}Sn                                                           
+119SN  G 1106      1 100                                                        
+119SN2 G FL=1309.3                                                              
+119SN  L 2470                                                                   
+119SN2 L XREF=M                                                                 
+119SN  L 2535      8                                                            
+119SN2 L XREF=OM(*2540)                                                         
+119SN  L 2549      7 5/2-,7/2-                                              Q   
+119SN2 L XREF=GJ(2560)KM(*2540)                                                 
+119SN  L 2636      7 (5/2-,7/2-)                                            Q   
+119SN2 L XREF=GO                                                                
+119SN  L 2640        3/2+,5/2+                                              O   
+119SN2 L XREF=M                                                                 
+119SN  L 2700        1/2-,3/2-                                              O   
+119SN2 L XREF=KM(*2710)                                                         
+119SN  L 2723      7 1/2-,3/2-                                              O   
+119SN2 L XREF=GM(*2710)                                                         
+119SN cL E         possible doublet in (d,p)                                    
+119SN  L 2760      8                                                            
+119SN2 L XREF=JG(2771)O(2770)K                                                  
+119SN cL E         possible doublet in (d,p)                                    
+119SN  L 2813      7                                                            
+119SN2 L XREF=GO                                                                
+119SN  L 2823      7                                                            
+119SN2 L XREF=G                                                                 
+119SN  L 2840        1/2-,3/2-                                              O   
+119SN2 L XREF=M                                                                 
+119SN  L 2845.8    203/2+,5/2+                                              O   
+119SN2 L XREF=FG                                                                
+119SN  G 2845.8    20100                                                        
+119SN  L 2881.2    203/2+,5/2+                                              O   
+119SN2 L XREF=FGK(*2890)M(*2890)O(2870)                                         
+119SN  G 2881.2    20100                                                        
+119SN  L 2905.1    203/2+,5/2+                                              O   
+119SN2 L XREF=GK(*2890)M(*2890)N(2890)                                          
+119SN  L     2928.317(23/2-)                                                    
+119SN2 L XREF=I                                                                 
+119SN cL J$from energy calculation of h{-11/2} seniority scheme                 
+119SN  G 513       1 100                                                        
+119SN  L 2939      8 3/2+,5/2+                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 2940                                                                   
+119SN2 L XREF=K                                                                 
+119SN  L 2965      8                                                            
+119SN2 L XREF=G                                                                 
+119SN  L 3011.9    153/2+,5/2+                                              O   
+119SN2 L XREF=FMO                                                               
+119SN  G 2988.9    20100                                                        
+119SN  G 3010.9    2079                                                         
+119SN  L     3046.922LE 5/2                                                     
+119SN2 L XREF=FK(*3060)                                                         
+119SN cL J         |g from (1/2) res                                            
+119SN  G 1429.8    20100                                                        
+119SN  L 3071      8 3/2+,5/2+                                              O   
+119SN2 L XREF=GK(*3060)                                                         
+119SN  L 3093      8 5/2-,7/2-                                              Q   
+119SN2 L XREF=G                                                                 
+119SN  L     3103.320(27/2-)           34 NS     10                             
+119SN2 L XREF=I                                                                 
+119SN cL J$E2 |g to 23/2-; from energy calculation of h{-11/2} seniority scheme 
+119SN cL T         from |g|g(t) in ({+80}Se,{+80}Se')                           
+119SN  G 175       1 100       [E2]                    0.221  6                 
+119SN2 G FL=2928.3                                                              
+119SNS G KC=0.178 5$LC=0.0347 10$MC=0.00696 19$NC+=0.00133 4                    
+119SNS G NC=0.00126 4$OC=7.34E-5 19                                             
+119SNB G BE2W=2.4 7                                                             
+119SN  L 3120      8                                                            
+119SN2 L XREF=OK(3130)                                                          
+119SN  L 3158      8 5/2-,7/2-                                              Q   
+119SN2 L XREF=G                                                                 
+119SN  L 3191      8                                                            
+119SN2 L XREF=GO                                                                
+119SN  L 3279      9 3/2+,5/2+                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3300      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 3366      9                                                            
+119SN2 L XREF=GO(3355)                                                          
+119SN  L 3375      9 (3/2+,5/2,7/2-)                                            
+119SN2 L XREF=G                                                                 
+119SN cL J         L(d,p)=(2,3)                                                 
+119SN  L 3389      9                                                            
+119SN2 L XREF=G                                                                 
+119SN  L 3405      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 3442      9 1/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3481      9 1/2-,3/2-                                              O   
+119SN2 L XREF=GO                                                                
+119SN  L 3527      9 1/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3566      9 1/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3595      9 (1/2-,3/2-,5/2-)                                           
+119SN2 L XREF=GO                                                                
+119SN cL J         L(d,p)=(1,3)                                                 
+119SN  L 3618      9 1/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3656      101/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3675      10                                                          ?
+119SN2 L XREF=G                                                                 
+119SN  L 3690      10                                                          ?
+119SN2 L XREF=G                                                                 
+119SN  L 3730      10                                                           
+119SN2 L XREF=GO                                                                
+119SN  L 3770      10                                                          ?
+119SN2 L XREF=G                                                                 
+119SN  L 3807      101/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3843      101/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 3880      107/2+,9/2+                                              Q  ?
+119SN2 L XREF=GO(3890)                                                          
+119SN  L 3891      10(1/2-,3/2-)                                            O   
+119SN2 L XREF=G                                                                 
+119SN  L 3905      10                                                          ?
+119SN2 L XREF=G                                                                 
+119SN  L 3921      105/2-,7/2-                                              Q   
+119SN2 L XREF=G                                                                 
+119SN  L 3955      10(1/2-,3/2-)                                            O   
+119SN2 L XREF=G                                                                 
+119SN  L 3980      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=O                                                                 
+119SN  L 3987      10                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4031      10                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4050      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=O                                                                 
+119SN  L 4062      111/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 4115      11                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4138      11                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4191      11                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4210      117/2+,9/2+                                              Q   
+119SN2 L XREF=GO                                                                
+119SN  L 4235      115/2-,7/2-                                              Q   
+119SN2 L XREF=G                                                                 
+119SN  L 4261      115/2-,7/2-                                              Q   
+119SN2 L XREF=G                                                                 
+119SN  L 4301      11(1/2-,3/2-)                                            O   
+119SN2 L XREF=G                                                                 
+119SN  L 4350      11                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4380      111/2-,3/2-                                              O   
+119SN2 L XREF=G                                                                 
+119SN  L 4418      11                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4435      12                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4451      12                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4470      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=O                                                                 
+119SN  L 4521      12                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4552      12(5/2-,7/2-)                                            Q   
+119SN2 L XREF=G                                                                 
+119SN  L 4610      12(1/2-,3/2-)                                            O   
+119SN2 L XREF=G                                                                 
+119SN  L 4663      12                                                           
+119SN2 L XREF=GO                                                                
+119SN  L 4688      12                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4758      12                                                           
+119SN2 L XREF=G                                                                 
+119SN  L 4800      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 4900      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 4950      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 5050      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=O                                                                 
+119SN  L 5120      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=O                                                                 
+119SN  L 5200      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=O                                                                 
+119SN  L 5330      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=ON(5350)                                                          
+119SN  L 5480      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=OM(5500)                                                          
+119SN  L 5600      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 5710      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 5820      8 7/2+,9/2+                                              Q   
+119SN2 L XREF=ON(5850)                                                          
+119SN  L 5960      8                                                            
+119SN2 L XREF=O                                                                 
+119SN  L 6020      15                                                           
+119SN2 L XREF=O                                                                 
+119SN  L 6120      15                                                           
+119SN2 L XREF=O                                                                 
+119SN  L 6300      15                                                           
+119SN2 L XREF=O                                                                 
+119SN  L 6360      15                                                           
+119SN2 L XREF=O                                                                 
+119SN  L 6460      15                                                           
+119SN2 L XREF=O                                                                 
+119SN  L 7500                                                                   
+119SN2 L XREF=N                                                                 
+119SN  L 9500                                                                   
+119SN2 L XREF=N                                                                 
+119SN  L 10500                                                                  
+119SN2 L XREF=N                                                                 
+119SN  L 12750                                                                  
+119SN2 L XREF=N                                                                 
+119SN  L 12900     AP                                                           
+119SN2 L XREF=K                                                                 
+119SN  L 14995     509/2+                                                   B   
+119SN2 L XREF=P                                                                 
+119SN  L 15329     501/2-                                                   B   
+119SN2 L XREF=P                                                                 
+119SN  L 15622     503/2-                                                   B   
+119SN2 L XREF=P                                                                 
+119SN  L 15750                                                                  
+119SN2 L XREF=N                                                                 
+119SN  L 16100     30                                                       B   
+119SN2 L XREF=P                                                                 
+119SN  L 16470     309/2+                                                   B   
+119SN2 L XREF=P                                                                 
+119SN  L 20250                                                                  
+119SN2 L XREF=N                                                                 
+

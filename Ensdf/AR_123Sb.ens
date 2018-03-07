@@ -1,0 +1,384 @@
+123SB    ADOPTED LEVELS, GAMMAS                                  04NDS    200410
+123SB  H TYP=FUL$AUT=S. Ohya$CIT=NDS 102, 547 (2004)$CUT=1-Nov-2003$            
+123SB  XA123SN B- DECAY (129.2 D)                                               
+123SB  XB123SN B- DECAY (40.06 M)                                               
+123SB  XC123TE EC DECAY                                                         
+123SB  XD120SN(A,P)                                                             
+123SB  XE122SN(POL P,P) IAR                                                     
+123SB  XF122SN(3HE,D)                                                           
+123SB  XG123SB(G,G')                                                            
+123SB  XH123SB(N,N'G)                                                           
+123SB  XI123SB(D,D')                                                            
+123SB  XJCOULOMB EXCITATION                                                     
+123SB  XK124TE(T,A)                                                             
+123SB  XM122SN(7LI,A2NG)                                                        
+123SB  Q -52.7     168963    3 6572    3 -3950   8     2012WA38                 
+123SB cQ $Note: Current evaluation has used the following Q record              
+123SB  Q -52.2     15 8965.3 21 6567.1 29-3944.5 78    2003AU03                 
+123SB cG E,RI$From {+123}Sn |b{+-} decays (129.2 d, 40.08 min); |g rays observed
+123SB2cG in {+123}Sb(n,n'|g), {+123}Sb(|g,|g') are supplementally included.     
+123SB cG M,MR$From |a(exp) and K/L in {+123}Sn |b{+-} decays (129.2 d, 40.08    
+123SB2cG min), |g(|q) in {+123}Sb(n,n'|g).                                      
+123SB cL E$From combined fit of levels and gammas in all data sets, except      
+123SB2cL where cross reference clearly indicates other sources.                 
+123SB cG E(B),RI(B)$Composite peak. |D' E|g assigned by the evaluator.          
+123SB PN                                                                     6  
+123SB  L 0.0         7/2+              STABLE                                   
+123SBX L XREF=ABCDFGHIJKM                                                       
+123SB cL J$optical spectroscopy J=7/2; L=4 in (t,|a).                           
+123SB2 L MOMM1=+2.5498 2$ MOME2=-0.49 5                                         
+123SB3 L CONF=(P,1g7/2)                                                         
+123SB cL MOMM1,MOME2$|m from NMR; Q from optical spectroscopy (1989Ra17).       
+123SB  L 160.33    5 5/2+              0.61 NS   3                              
+123SBX L XREF=ABDFGHIJK                                                         
+123SB cL XREF$K(144)                                                            
+123SB cL T$weighted average of 0.60 ns {I8} (1970Si21), 0.64 ns {I5} (1963Sc12),
+123SB2cL 0.57 ns {I7} (1969Sh12), 0.60 ns {I4} (1973Be18). Other: 0.62 ns {I21} 
+123SB3cL (1964Sh23).                                                            
+123SB cL J$L=2 in (t,|a); M1+E2 |g to 7/2+.                                     
+123SB2 L CONF=(P,2d5/2)                                                         
+123SB  G 160.33    5 100       M1+E2     0.067   6     0.168                    
+123SB cG M$from |a(K)exp=0.15 {I1}, K/L=7.6 {I6} (1977Ti03)                     
+123SB cG MR$from T{-1/2}=0.61 ns {I3} and B(E2)=0.0034 {I2} from (Coul. ex.)    
+123SBB G BM1W=0.0075 4$BE2W=0.92 17                                             
+123SB  L 541.8     3 3/2+              10.6 PS   12                             
+123SBX L XREF=BDFHIJK                                                           
+123SB cL XREF$K(528)                                                            
+123SB cL J$L=2 in (t,|a), ({+3}He,d); J=3/2 from J-dependence of L=2 in (|a,p). 
+123SB cL T$from B(E2)=0.035 {I2} (Coul. ex.), branching=31% for 541.9|g.        
+123SB2cL (1975An16) and if J|p=3/2+.                                            
+123SB  G 381.4     4 100     8 [M1]                    0.0170                   
+123SBB G BM1W=0.025 4                                                           
+123SB  G 541.8     4 45      4 [E2]                    0.0063                   
+123SB cG RI$average of 47 {I8}:100 {I8} ({+123}Sn |b{+-} decay), 47 {I5}:100    
+123SB2cG {I7} (n,n'|g), 31.6 {I13}:100.0 {I13} and 56:100 (Coul. ex.)           
+123SBB G BE2W=9.6 15                                                            
+123SB  L 712.8     3 1/2+                                                       
+123SBX L XREF=BDFHK                                                             
+123SB cL J$L=0 in (t,|a).                                                       
+123SB  G 170.9     7 67      40                                                 
+123SB  G 552.5     3 100     17                                              C  
+123SB  L 1030.24   109/2+              0.190 PS  13                             
+123SBX L XREF=AGHIJ                                                             
+123SB cL T$from (|g,|g'). Others: 0.09 ps {I3} (1975An16), 0.19 ps {I3}         
+123SBxcL (1978Ca25).                                                            
+123SB cL J$M1+E2 |g to 7/2+; J=9/2 or 11/2 from |g(|q) in (n,n'|g).             
+123SB  G 1030.23   10100       M1+E2     -0.63   4     0.0016                   
+123SB cG MR$the evaluator calculated from B(E2)=0.073 {I4} (Coul. ex.) and      
+123SB2cG T{-1/2}=0.190 ps {I13}, sign from |d=-1.6(15) in {+123}Sb(n,n'|g)      
+123SB3cG (1979Ho28). Other: -0.57 {I7} in (|g,|g')                              
+123SBB G BM1W=0.082 6$BE2W=15.9 18                                              
+123SB  L 1088.64   10(9/2)+            0.52 PS   3                              
+123SBX L XREF=AGHIJ                                                             
+123SB cL J$9/2+,11/2+ from angular distribution in Coul. ex. (1989Ja13).        
+123SB2cL The discrepancy between the conclusion of 1989Ja13 and 9/2+ of         
+123SB3cL 1977Ku23, both based on |g(|q). T{-1/2}=0.53 ps {I3} if J|p=9/2+ from  
+123SB4cL (|g,|g') and T{-1/2}=0.68 ps {I4} if J|p=11/2+ from (|g,|g'). The      
+123SB2cL value of 0.45 ps 10 from Doppler-shift attenuation (1975An16) supports 
+123SBxcL J|p=9/2.                                                               
+123SB cL T$weighted average of 0.53 ps {I3} from (|g,|g') and 0.45 ps {I10}     
+123SB2cL Doppler-shift attenuation (1975An16).                                  
+123SB  G 1088.64   10100       E2,M1                                            
+123SB cG M$from angular distribution in Coul. ex.                               
+123SB  L 1181.28   15(7/2,9/2)+                                                 
+123SBX L XREF=AFGHIJ                                                            
+123SB cL J$from |g(|q) in (|g,|g').                                             
+123SB  G 1021.00   20100     5                                               C  
+123SB  G 1181.23   2015      2                                                  
+123SB  L 1260.9    3 (5/2,7/2,9/2)                                              
+123SBX L XREF=AFGHIK                                                            
+123SB cL J$from |g(|q) in (|g,|g').                                             
+123SB  G 1100.5    4 100     50                                                 
+123SB  G 1260.9    4 64      36                                                 
+123SB  L 1337.42   157/2+,9/2+                                                  
+123SBX L XREF=AGHJKM                                                            
+123SB cL J$L=4 in (t,|a)                                                        
+123SB  G 1177.06   2030      3                                                  
+123SB  G 1337.44   20100     6                                                  
+123SB  L 1424.8    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L 1510.5    5 3/2+,5/2+                                                  
+123SBX L XREF=D(*1511)FGHI(*1510)                                               
+123SB cL J$L=2 in (|a,p),({+3}He,d)                                             
+123SB  G 1352.4    10119     LE                                             B   
+123SB  G 1509.6    6 100     19                                                 
+123SB  L    1513.5324                                                           
+123SBX L XREF=D(*1511)FGHI(*1510)                                               
+123SB cL J$L=2 in (|a,p)                                                        
+123SB  G 1353.4    4 100                                                        
+123SB  G 1513.4    3  56     11                                                 
+123SB  L 1575.5    6                                                            
+123SBX L XREF=FH                                                                
+123SB  G 1575.5    6 100                                                        
+123SB  L 1643      3 5/2+                                                       
+123SBX L XREF=DFGK(*1649)I(*1653)                                               
+123SB cL J$L=2+5 in ({+3}He,d) for E=1644 {I10}. Excited level from 7/2+ in     
+123SBxcL (|g,|g').                                                              
+123SB  G 1643      3 100                                                        
+123SB  L 1644      1011/2-                                                      
+123SBX L XREF=DFK(*1649)I(*1653)                                                
+123SB cL J$L=2+5 in ({+3}He,d) for E=1644 {I10}; J=11/2 from J-dependence of    
+123SB2cL |s(|q) in (|a,p) for E=1643.                                           
+123SB  L 1729      101/2-,3/2-                                                  
+123SBX L XREF=K                                                                 
+123SB cL J$L=1 in (t,|a)                                                        
+123SB  L 1745      213/2+,5/2+                                                  
+123SBX L XREF=FI                                                                
+123SB cL J$L=2 in ({+3}He,d)                                                    
+123SB  L 1764.3    3 (7/2)+                                                     
+123SBX L XREF=D(*1754)G                                                         
+123SB cL J$L=4 in (|a,p); J=(7/2) from J-dependence of |s(|q) in (|a,p).        
+123SB  L     1773.411                                                           
+123SBX L XREF=M                                                                 
+123SB  G 436         100                                                        
+123SB  L 1777.7    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L 1810      30                                                           
+123SBX L XREF=I                                                                 
+123SB  L 1884      101/2-,3/2-                                                  
+123SBX L XREF=K                                                                 
+123SB cL J$L=1 in (t,|a)                                                        
+123SB  L 1896.4    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2011.6    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2026      3                                                            
+123SBX L XREF=G                                                                 
+123SB  G 2026      3 100                                                        
+123SB  L 2033      3                                                            
+123SBX L XREF=G                                                                 
+123SB  G 2033      3 100                                                        
+123SB  L 2036.4    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2047.6    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2059.0    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2114      3 3/2+,5/2+                                                  
+123SBX L XREF=FGIK                                                              
+123SB  L 2137.9    8                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2170.0    6                                                            
+123SBX L XREF=GK(2184)I(*2200)                                                  
+123SBX L XREF=I                                                                 
+123SB  L 2230.3    4                                                            
+123SBX L XREF=GI(*2200)                                                         
+123SB  L 2235.0    5 1/2-,3/2-                                                  
+123SBX L XREF=GK                                                                
+123SB cL J$L=1 in (t,|a)                                                        
+123SB  L 2238.6    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2252.0    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2270.0    7                                                            
+123SBX L XREF=IG                                                                
+123SB  L     2273.7 5                                                           
+123SBX L XREF=G                                                                 
+123SB  G 2112.9    9 100                                                        
+123SB  G 2273.8    5  27     13                                                 
+123SB  L     2278.7 5                                                           
+123SBX L XREF=G                                                                 
+123SB  G 2118.3    6 100                                                        
+123SB  G 2278.7    6  80     24                                                 
+123SB  L 2283.3    7                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2292.1    8                                                            
+123SBX L XREF=KG                                                                
+123SB  L 2296.6    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2300.8    5                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2306.4    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2322.3    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2329.5    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2371.3    3                                                            
+123SBX L XREF=IKG                                                               
+123SB  L     2423.0 4                                                           
+123SBX L XREF=G                                                                 
+123SB  G 2262.2    6 100                                                        
+123SB  G 2423.2    4  51     12                                                 
+123SB  L 2429.3    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L     2447.3 6                                                           
+123SBX L XREF=G                                                                 
+123SB  G 2287.3    10100                                                        
+123SB  G 2447.2    6  50     17                                                 
+123SB  L 2455.4    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2459.1    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2472      3                                                            
+123SBX L XREF=G                                                                 
+123SB  G 2472      3 100                                                        
+123SB  L 2507.3    6 1/2+                                                       
+123SBX L XREF=KF(*2520)G                                                        
+123SB cL J$L=0 in ({+3}He,d)                                                    
+123SB  L 2521.8    3 1/2+                                                       
+123SBX L XREF=F(*2520)G                                                         
+123SB cL J$L=0 in ({+3}He,d)                                                    
+123SB  L 2597.7    4                                                            
+123SBX L XREF=I(*2580)G                                                         
+123SB  L 2605.9    8                                                            
+123SBX L XREF=I(*2580)G                                                         
+123SB  L 2620.1    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L     2647.4 37/2+,9/2+                                                  
+123SBX L XREF=K(*2636)G                                                         
+123SB cL J$L=4 in (t,|a)                                                        
+123SB  G 2487.0    4  51     16                                                 
+123SB  G 2647.4    4 100                                                        
+123SB  L 2701.6    5                                                            
+123SBX L XREF=IG                                                                
+123SB  L 2756.7    4 (3/2+,5/2+)                                                
+123SBX L XREF=FIG                                                               
+123SB cL J$L=(2) in ({+3}He,d)                                                  
+123SB cL E$probable multiplet in ({+3}He,d)                                     
+123SB  L 2799      10                                                           
+123SBX L XREF=K                                                                 
+123SB  L 2843.1    10                                                           
+123SBX L XREF=G                                                                 
+123SB  L 2860.6    9                                                            
+123SBX L XREF=IG                                                                
+123SB  L 2883.1    5                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2904.9    5 7/2+,9/2+                                                  
+123SBX L XREF=KG                                                                
+123SB cL J$L=4 in (t,|a)                                                        
+123SB  L 2919.0    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2934.6    7                                                            
+123SBX L XREF=G                                                                 
+123SB  L 2989.0    6                                                            
+123SBX L XREF=KG                                                                
+123SB  L 3000.8    5                                                            
+123SBX L XREF=IG                                                                
+123SB  L 3017.3    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3056.8    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3062.6    4                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3098.1    7                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3147.9    5                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3152.4    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3158.5    10                                                           
+123SBX L XREF=G                                                                 
+123SB  L 3184.5    4 7/2+,9/2+                                                  
+123SBX L XREF=KG                                                                
+123SB cL J$L=4 in (t,|a)                                                        
+123SB  L 3190.6    3                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3198.2    5                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3209.8    8                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3228.4    9                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3277.6    10                                                           
+123SBX L XREF=G                                                                 
+123SB  L     3281.1 6                                                           
+123SBX L XREF=G                                                                 
+123SB  G 3120.3    8 100                                                        
+123SB  G 3281.4    8  35     16                                                 
+123SB  L     3294.2 3                                                           
+123SBX L XREF=G                                                                 
+123SB  G 3134.5    8 100                                                        
+123SB  G 3294.1    3  19     6                                                  
+123SB  L 3327      101/2-,3/2-                                                  
+123SBX L XREF=K                                                                 
+123SB cL J$L=1 in (t,|a)                                                        
+123SB  L 3331.9    5                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3351.7    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3385.7    7                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3399.7    9                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3412.3    10                                                           
+123SBX L XREF=G                                                                 
+123SB  L 3418.3    10                                                           
+123SBX L XREF=G                                                                 
+123SB  L 3427.6    9                                                            
+123SBX L XREF=G                                                                 
+123SB  L 3476.2    6                                                            
+123SBX L XREF=G                                                                 
+123SB  L 6417.4    159/2                                                        
+123SBX L XREF=G                                                                 
+123SB cL J$from |g(|q) in (|g,|g')                                              
+123SB  G 5236      3 4       2                                                  
+123SB  G 5329      3 3       2                                                  
+123SB  G 5386      3 19      2                                                  
+123SB  G 6418      3 100     1                                                  
+123SB  L 6759.3    147/2                                                        
+123SBX L XREF=G                                                                 
+123SB cL J$from |g(|q) in (|g,|g')                                              
+123SB  G 5248      3 4       3                                                  
+123SBF G FL=1513.53                                                             
+123SB  G 5498      3 9       2                                                  
+123SB  G 5728      3 22      4                                                  
+123SB  G 6600      3 69      3                                                  
+123SB  G 6760      3 100                                                        
+123SB  L 6873.6    157/2                                                        
+123SBX L XREF=G                                                                 
+123SB cL J$from |g(|q) in (|g,|g')                                              
+123SB  G 5362      3 6       9                                                  
+123SBF G FL=1513.53                                                             
+123SB  G 5612      3 25      9                                                  
+123SB  G 6714      3 9       6                                                  
+123SB  G 6874      3 100     9                                                  
+123SB  L 7162.6    157/2                                                        
+123SBX L XREF=G                                                                 
+123SB cL J$from |g(|q) in (|g,|g')                                              
+123SB  G 5651      3 24      4                                                  
+123SBF G FL=1513.53                                                             
+123SB  G 5901      3 8       3                                                  
+123SB  G 7003      3 100     4                                                  
+123SB  G 7163      3 81      3                                                  
+123SB  L 7309.7    149/2                                                        
+123SBX L XREF=G                                                                 
+123SB cL J$from |g(|q) in (|g,|g')                                              
+123SB  G 5973      3 15      3                                                  
+123SBF G FL=1337.42                                                             
+123SB  G 6128      3 65      3                                                  
+123SB  G 6221      3 14      3                                                  
+123SB  G 6278      3 27      3                                                  
+123SB  G 7310      3 100                                                        
+123SB  L 14256     233/2+              48 KEV                                   
+123SBX L XREF=E                                                                 
+123SB cL J$L=2 in (pol p,p), J=3/2 is consistent with analyzing power in        
+123SB2cL (pol p,p) IAR.                                                         
+123SB  L 14390       1/2+              48 KEV                                   
+123SBX L XREF=E                                                                 
+123SB cL J$L=0 in (pol p,p).                                                    
+123SB  L 15429       5/2+              74 KEV                                   
+123SBX L XREF=E                                                                 
+123SB cL J$L=2 in (pol p,p), J=5/2 is consistent with analyzing power in        
+123SB2cL (pol p,p) IAR.                                                         
+123SB  L 15729       5/2+              93 KEV                                   
+123SBX L XREF=E                                                                 
+123SB cL J$L=2 in (pol p,p), J=5/2 is consistent with analyzing power in        
+123SB2cL (pol p,p) IAR.                                                         
+123SB  L 16927       7/2-              94 KEV                                   
+123SBX L XREF=E                                                                 
+123SB cL J$L=3 in (pol p,p), J=7/2 is consistent with analyzing power in        
+123SB2cL (pol p,p) IAR.                                                         
+123SB  L 17371       (7/2-)            140 KEV                                  
+123SBX L XREF=E                                                                 
+123SB cL J$L=(3) in (pol p,p), J=(7/2) is consistent with analyzing power in    
+123SB2cL (pol p,p) IAR.                                                         
+123SB  L 17558       (3/2-)            202 KEV                                  
+123SBX L XREF=E                                                                 
+123SB cL J$L=(1)in (pol p,p), J=(3/2) is consistent with analyzing power in     
+123SB2cL (pol p,p) IAR.                                                         
+123SB  L 18251       (1/2)-            130 KEV                                  
+123SBX L XREF=E                                                                 
+123SB cL J$L=1 in (pol p,p), J=(1/2) is consistent with analyzing power in      
+123SB2cL (pol p,p) IAR.                                                         
+

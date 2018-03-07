@@ -1,0 +1,504 @@
+122SN    ADOPTED LEVELS, GAMMAS                                  07NDS    200704
+122SN  H TYP=FUL$AUT=T. TAMURA$CIT=NDS 108, 455 (2007)$CUT=30-Sep-2006$         
+122SN  Q -1608     4 8815.4  241.139E4 3 -5665   21    2012WA38                 
+122SN cQ $Note: Current evaluation has used the following Q record              
+122SN  Q -1615.8   288813.2  2511394   27-5662   20    2003AU03                 
+122SN cG E,RI      Weighted average of data from                                
+122SN2cG {+122}In |b{+-} decay (1.5 s, 10.3 s, 10.8 s), {+122}Sb |e decay       
+122SN3cG and {+122}Sn(n,n'|g) wherever data are available                       
+122SN cG E(R)      Weighted average of {+122}Sn(n,n'|g) and {+122}Sn(p,p'|g)    
+122SN cG M,MR      From Coulomb excitation, |a(exp) in {+122}In |b{+-} decay    
+122SN2cG (10.3 s, 10.8 s), |g(|q) and linear polarization                       
+122SN3cG in {+122}Sn(n,n'|g)                                                    
+122SN cL E         From combined fit of levels, and gammas, except where noted  
+122SN2cL or where cross references clearly indicate other source.               
+122SN3cL The completeness of the existences of E(J|p=0+)<2.9 MeV,               
+122SN4cL E(J|p=1-5)<3.2 MeV is discussed in {+122}Sn(n,n'|g) (1991De38).        
+122SN cL J$Evaluator assigned the J|p's from the followings:                    
+122SN2cL 1) L-values in the various reactions;                                  
+122SN3cL 2) log {Ift} values;                                                   
+122SN4cL 3) multipolarities and |d of the relevant transitions.                 
+122SN5cL 1991De38 discuss |g(|q) and linear polarization data for the           
+122SN6cL determination of J|p, and J-dependence of direct                       
+122SN7cL feeding in {+122}Sn(n,n'|g)                                            
+122SN cL T         From Doppler-shift attenuation method in (n,n'|g) (1991Go24),
+122SN2cL except noted otherwise                                                 
+122SN  XA122IN B- DECAY (1.5 S)                                                 
+122SN  XB122IN B- DECAY (10.3 S)                                                
+122SN  XC122IN B- DECAY (10.8 S)                                                
+122SN  XD122SB EC DECAY                                                         
+122SN  XE122SN(N,N'G)                                                           
+122SN  XF122SN(P,P'G)                                                           
+122SN  XGCOULOMB EXCITATION                                                     
+122SN  XH122SN(P,P')                                                            
+122SN  XI122SN(D,D'),(A,A')                                                     
+122SN  XJ122SN(N,N')                                                            
+122SN  XK123SB(T,A)                                                             
+122SN  XL124SN(P,T)                                                             
+122SN  XM126TE(D,6LI)                                                           
+122SN  XN122SN(G,G')                                                            
+122SN  XO123SB(MU-,NUNG)                                                        
+122SN  XP122SN IT DECAY                                                         
+122SN PN                                                                     6  
+122SN  L 0.0         0+                STABLE                                   
+122SNX L XREF=ABCDEFGHIJKLMNOP$                                                 
+122SN cL           Nuclear rms charge radius=4.6657 fm {I10} (2004An14)         
+122SN cL T$>5.8|*10{+13} y for neutrino-less decay mode (1952Fr23)              
+122SN  L    1140.51 32+                0.776 PS  16                             
+122SNX L XREF=ABCDEFGHIJKLMNOP                                                  
+122SN2 L MOMM1=-0.1 2$ MOME2 LT +0.14 GT -0.28$                                 
+122SN cL MOMM1$from transient field integral perturbed angular correlation      
+122SN2cL (1980Ha19,2005St24), Q from Coulomb excitation reorientation           
+122SN3cL (1975Gr30,2005St24)                                                    
+122SN3 L BE2=0.189 4                                                            
+122SN cL J         L=2 in (p,p')                                                
+122SN cL T         from B(E2) in Coulomb excitation;                            
+122SN2cL other: 0.62 ps {I12} from |G in (|g,|g')                               
+122SN  G 1140.52   4 100       E2                                               
+122SNB G BE2W=10.69 23                                                          
+122SN  L    2087.71 50+                0.277 PS  GT                             
+122SNX L XREF=AEFGHLM                                                           
+122SN cL J $L=0 in (p,t)                                                        
+122SN cL T$other: >3.3 ps from B(E2) in Coulomb excitation                      
+122SN  G 947.19    4 100       E2                                               
+122SNB G BE2W<75                                                                
+122SN  L    2142.06 34+                1.56 PS   21                             
+122SNX L XREF=BCEGHI(*2150)KL(2146)M                                            
+122SN cL J         L=4 in (p,p')                                                
+122SN cL T         from B(E2) in Coulomb excitation; other: >0.346 ps from      
+122SN2cL (n,n'|g)                                                               
+122SN  G 1001.54   2 100         E2                                             
+122SNB G BE2W=10.0 14                                                           
+122SN  L 2153.81    32+                0.69 PS   +55-21                         
+122SNX L XREF=ABEI(*2150)                                                       
+122SN cL J         log {Ift}=5.7 from 1+; E2 |g to 0+                           
+122SN  G 1013.27   3 100     5 M1+E2     +3.8    4                              
+122SNB G BM1W=0.0019 4$BE2W=19 3                                                
+122SN  G 2153.71   8 3.1     3 E2                                               
+122SNB G BE2W=0.015 +5-12                                                       
+122SN  L    2245.81 35-                7.9 NS    9                              
+122SNX L XREF=BCEHI(2250)L(2252)MP                                              
+122SN cL J         L=5 in (p,p')                                                
+122SN cL T         from |b|g(t) in {+122}In |b{+-} decay (10.8 s)               
+122SN  G  103.74   1 100     4 E1(+M2)   +0.03   2     0.1639                   
+122SNB G BE1W=(2.6E-5 4)$BM2W=(10 +14-10)                                       
+122SN  G 1105.38   111.6     4 [E3]                                             
+122SNB G BE3W=1.2 4                                                             
+122SN  L    2331.09 34+                0.83 PS   +69-28                         
+122SNX L XREF=BEGHILM                                                           
+122SN cL J         L=4 in (p,p')                                                
+122SN cL T$other: >3.5 ps from B(E2) in Coulomb                                 
+122SN2cL excitation                                                             
+122SN  G 1190.56   2 100       E2                                               
+122SNB G BE2W=8 +3-7                                                            
+122SN  L    2409.03 47-                7.5 US    9                              
+122SNX L XREF=BCEH(2390)L(2417)MP                                               
+122SN cL J         L=7 in (p,t)                                                 
+122SN2cL E2 |g to 5-                                                            
+122SN cL T$from |g|g(t) in {+122}In |b{+-} decay (10.8 s)                       
+122SN  G  163.22   3 100       E2                      0.283                    
+122SNB G BE2W=0.0141 17                                                         
+122SN  L 2415.543  252+                0.33 PS   +10-7                          
+122SNX L XREF=ABEFGH(2412)IMN                                                   
+122SN cL J         L=2 in (p,p')                                                
+122SN cL T$others: 0.19 ps {i5} from |G in (|g,|g');                            
+122SN2cL >0.78 ps from B(E2) in Coulomb excitation                              
+122SN  G 261.79    9 76      9 [M1+E2]                                          
+122SN  G 1275.03   3 42.6    21M1+E2     -0.34   4                              
+122SNB G BM1W=0.0056 14$BE2W=0.29 6                                             
+122SN  G 2415.51   3 100     5 E2                                               
+122SNB G BE2W=0.27 +6-9                                                         
+122SN  L 2492.67    43-                0.079 PS  +5-3                           
+122SNX L XREF=ABEFGHILMN                                                        
+122SN2 L BE3=0.092 10 (2002Ki06)                                                
+122SN cL J         L=3 in (p,p')                                                
+122SN  G 246.4     8 24      10[E2]                                            ?
+122SN  G 1352.17   3 100     6 E1(+M2)   -0.03   2                              
+122SNB G BE1W=(0.00113 14)$BM2W=(3 +4-3)                                        
+122SN  G 2492.6    4 0.052   5 E3                                               
+122SN cG $branching from BE3|^=0.092 {I10} and T{-1/2}                          
+122SN  L    2530.33 4(0)+                                                       
+122SNX L XREF=AE                                                                
+122SN cL J         1390|g(|q) is isotropic, 1390|g(lin pol) in (n,n'|g);        
+122SN2cL log {Ift}=5.7 from 1+, |g's to 2+                                      
+122SN  G 376.6     2 7.9     7                                                  
+122SN  G 1389.81   3 100     4 E2                                               
+122SN  L    2555.42 66+                                                         
+122SNX L XREF=BEHLM                                                             
+122SN cL J         L=6 in (p,t),(p,p')                                          
+122SN  G 146.0     2 10      1                                                  
+122SN  G 309.63    5 100     5 E1(+M2)   +0.01   2                              
+122SN  L    2651.37 44-,5-,6-                                                   
+122SNX L XREF=EM(*2653)                                                         
+122SN cL J         M1+E2 |g to 5-                                               
+122SN  G  405.56   3 100       M1+E2     +0.10   2                              
+122SN  L 2653.00    56-                                                         
+122SNX L XREF=CEHM(*2653)                                                       
+122SN cL J         M1(+E2) |g's to 7- and 5-                                    
+122SN  G  243.97   3 69      3 M1(+E2)   -0.07   4                              
+122SN  G  407.18   7 100     5 M1(+E2)   +0.03   2                              
+122SN  L     2657  10                                                           
+122SNX L XREF=L                                                                 
+122SN  L    2675.57 6 0+               0.2 PS     GT                            
+122SNX L XREF=EFGL                                                              
+122SN cL J         L=0 in (p,t);                                                
+122SN2cL 1535|g(|q) is isotropic in (n,n'|g)                                    
+122SN cL T$from B(E2) in Coulomb excitation                                     
+122SN  G 1535.05   5 100                                                    R   
+122SN  L    2690.04 7(8+)                                                       
+122SNX L XREF=CEHLMP                                                            
+122SN cL J         L=8 in (p,t)                                                 
+122SN  G  281.00   6 100                                                        
+122SN  L    2734.50 4 2+               0.49 PS   +69-21                         
+122SNX L XREF=ABE                                                               
+122SN cL J         log {Ift}=6.5 from 1+; E2 |g to 0+                           
+122SN  G 204.16    7 20.5    13                                                 
+122SNB G BE2W=0.11 +5-11                                                        
+122SN  G 1593.97   3 75      4 M1+E2     -3.5    6                              
+122SNB G BM1W=0.00032 11$BE2W=1.11 3                                            
+122SN  G 2734.53   15100     11E2                                               
+122SNB G BE2W=0.11 +5-11                                                        
+122SN  L 2751.01    55-                                                         
+122SNX L XREF=EHLM                                                              
+122SN cL J         L=5 in (p,p')                                                
+122SN  G 505.20    4 100       M1+E2                                            
+122SN cG MR$+0.07 {i5} or +0.77 {i7}                                            
+122SN  L 2765.6    10(10+)             62 US     3                              
+122SNX L XREF=LHP                                                               
+122SN cL J         L=10 in (p,p')                                               
+122SN cL T         from {+122}Sn IT decay (1992Br06)                            
+122SN  G 75.2      5 100       (E2)                    4.44                     
+122SN cG E,M       from {+122}Sn IT decay                                       
+122SNB G BE2W=0.0194 13                                                         
+122SN  L 2775.55    62+                0.62 PS   +83-28                         
+122SNX L XREF=ABEH                                                              
+122SN cL J         log {Ift}=6.0 from 1+; E2 |g's to 0+, |g from 4+             
+122SN  G 1634.73   11100     5 M1+E2     +0.14   2                              
+122SNB G BM1W=0.0055 3$BE2W=0.029 8                                             
+122SN  G 2775.58   7 46      3 E2                                               
+122SNB G BE2W=0.049 +23-5                                                       
+122SN  L 2837.88    76-                                                         
+122SNX L XREF=CE                                                                
+122SN cL J         M1 |g to 7-, M1(+E2) |g to 5-                                
+122SN  G 428.94    1330      2 M1                                               
+122SN  G  592.05   6 100     4 M1(+E2)   +0.01   3                              
+122SN  L    2855.47 44-                                                         
+122SNX L XREF=E                                                                 
+122SN cL J         M1(+E2) |g to 3-, M1+E2 |g to 5-                             
+122SN  G 362.84    4 14.7    8 M1(+E2)   -0.01   6                              
+122SN  G 609.64    3 100     4 M1+E2     -0.35   4                              
+122SN  L    2867.73 7                  0.13 PS   +20-6                          
+122SNX L XREF=EH(*2870)                                                         
+122SN  G 1727.20   6 100                                                        
+122SN  L    2879.79 5 1+,2+            0.111 PS  +55-28                         
+122SNX L XREF=EH(*2870)                                                         
+122SN cL J         M1+E2 |g to 2+, |g to 0+                                     
+122SN  G 1739.27   4 100     5 M1+E2                                            
+122SN cG MR$-0.3 {I2} or -1.4 {I6}                                              
+122SNB G BM1W<0.046$BE2W<8                                                      
+122SN  G 2879.6    3 16.4    11                                                 
+122SN  L    2944.96 63+                                                         
+122SNX L XREF=E                                                                 
+122SN cL J$M1+E2 |g's to 2+ and 4+                                              
+122SN  G 613.76    1317.5    11M1+E2                                            
+122SN cG MR$+0.3 {I2} or +6 {I+9-3}                                             
+122SN  G 791.14    5 100     5 M1+E2     +1.4    +10-4                          
+122SN  G 1804.53   1132.2    17M1+E2     +5.1    17                             
+122SN  L 2959.12    6 4+                                                        
+122SNX L XREF=E                                                                 
+122SN cL J         stretched E2 |g's to 2+, E1(+M2) |g to 3-                    
+122SN  G 224.5     2 6.4     7                                                  
+122SN  G 466.42    1114.6    11E1(+M2)   +0.08   8                              
+122SN  G 1818.60   5 100     6 E2                                               
+122SN  L     2971.1 4                                                          ?
+122SNX L XREF=A                                                                 
+122SN  G 1830.6    4 100                                                       ?
+122SN  L    2973.39 4 4+                                                        
+122SNX L XREF=BEH(2976)                                                         
+122SN cL J         log {Ift}=5.5 from 5+; stretched E2 |g to 2+, M1+E2 |g to 4+ 
+122SN  G 642.59    216.3     20                                                 
+122SN  G  819.54   3 100     5 E2                                               
+122SN  G  831.35   3 74      3 M1+E2     -0.61   10                             
+122SN  L    3035.91 53-                                                         
+122SNX L XREF=EH                                                                
+122SN cL J         E1(+M2) |g's to 2+, M1+E2 |g to 4-                           
+122SN  G 180.42    1026.7    19                                                 
+122SN  G 384.54    5 70      5 M1+E2     +0.26   8                              
+122SN  G 543.4     2 23.3    16                                                 
+122SN  G 882.00    13100     5 E1(+M2)   -0.01   4                              
+122SN  G 1895.41   9 53      3 E1(+M2)   -0.03   3                              
+122SN  L    3082.15 5 4+               0.19 PS   +15-6                          
+122SNX L XREF=BEH                                                               
+122SN cL J         stretched E2 |g to 2+, M1+E2 |g to 4+                        
+122SN  G 750.80    1018      3 M1+E2                                            
+122SN cG MR$+1.6 {I8} or -0.2 {I2}                                              
+122SNB G BM1W<0.08$BE2W<40                                                      
+122SN  G 1941.67   4 100     4 E2                                               
+122SNB G BE2W=2.5 +9-21                                                         
+122SN  L     3128.6 72+                0.043 PS  +10-7                          
+122SNX L XREF=EHI(3150)N                                                        
+122SN cL J         L=2 in (p,p')                                                
+122SN cL T$other: 0.080 ps {i7} from |G in (|g,|g')                             
+122SN  G 3128.6    7 100       E2                                               
+122SNB G BE2W=1.22 +20-29                                                       
+122SN  L    3130.5815                                                           
+122SNX L XREF=EH                                                                
+122SN  G 440.54    13100                                                        
+122SN  L    3206.2518 (0)+                                                      
+122SNX L XREF=ABE                                                               
+122SN cL J         2065|g(|q) is isotropic in (n,n'|g);                         
+122SN2cL log {Ift}=5.3 from 1+; |g to 2+                                        
+122SN3cL in (n,n'|g)                                                            
+122SN  G 2065.72   17100                                                        
+122SN  L 3233.74    44+                                                         
+122SNX L XREF=BEH(3237)                                                         
+122SN cL J         L=4 in (p,p')                                                
+122SN  G  457.81   194.7     13                                                 
+122SN  G  678.10   254.9     18                                                 
+122SN  G  902.62   4 45      3 M1(+E2)   +0.5    6                              
+122SN  G  987.60   1610.5    22                                                 
+122SN  G 1080.00   9 10.8    11                                                 
+122SN  G 1091.67   3 100     2 M1(+E2)                                          
+122SN  G 2093.23   3 41      2 E2                                               
+122SN  L    3281.43 9                  0.10 PS   +10-4                          
+122SNX L XREF=EHI(3260)                                                         
+122SN  G 2140.90   8 100                                                        
+122SN  L    3305.69 44+                                                         
+122SNX L XREF=BEHM(*3319)                                                       
+122SN cL J         L=4 in (p,p')                                                
+122SN  G  332.27   5 11.3    8                                                  
+122SN  G  530.10   173.3     6                                                  
+122SN  G  812.99   108.8     10                                                 
+122SN  G  974.61   3 78      8 M1+E2                                            
+122SN  G 1059.92   4 17.6    9                                                  
+122SN  G 1163.61   3 100     4 M1+E2                                            
+122SN  G 2165.05   152.8     4                                                  
+122SN  L 3330      30                                                           
+122SNX L XREF=IM(*3319)                                                         
+122SN  L    3358.59 91-                0.006 PS  +4-3                           
+122SNX L XREF=EN                                                                
+122SN cL J$E1 |g to 0+ in (|g,|g'); 3359|g(|q)| in (n,n'|g)                     
+122SN cL T$other: 0.0048 ps {i4} from |G in (|g,|g')                            
+122SN  G 3358.54   9 100       E1                                               
+122SNB G BE1W=0.0012 +6-8                                                       
+122SN  L    3362.87 93-                                                         
+122SNX L XREF=EH                                                                
+122SN cL J         L=3 for E=3367 {I10} in (p,p')                               
+122SN  G 1209.06   8 100       D(+Q)     +0.03   3                              
+122SN  L    3371.2414(2+)                                                       
+122SNX L XREF=BE                                                                
+122SN cL J         D(+Q) |g to 2+, Q |g to 0+                                   
+122SN  G  596.5    1041      14                                                 
+122SN  G 1217.5    2 41      3                                                  
+122SN  G 2230.6    4 67      4 D(+Q)                                            
+122SN cG MR$-0.09 {I8} or +3.1 {I8}                                             
+122SN  G 3371.1    2 100     6 Q                                                
+122SN  L     3416.5 4(7-,8-,9-)                                                 
+122SNX L XREF=C                                                                 
+122SN cL J         log {Ift}=6.0 from (8-); |g to 7-                            
+122SN  G 1007.5    4 100                                                        
+122SN  L    3454.8213(3-)                                                       
+122SNX L XREF=EH                                                                
+122SN cL J         L=(3) in (p,p')                                              
+122SN  G 1300.8    2 100     5                                                  
+122SN  G 2314.40   1543      3 D(+Q)     -0.03   5                              
+122SN  L 3478.60   21(7-)                                                       
+122SNX L XREF=EHI                                                               
+122SN cL J         L=(7) in (p,p')                                              
+122SN  G  825.6    2 100                                                        
+122SN  L    3530.71 5(7-,8-)                                                    
+122SNX L XREF=CH                                                                
+122SN cL           log| {Ift}=4.6 from (8-); |g's to 6- and 7-                  
+122SN  G  692.4    4 4.7     13                                                 
+122SN  G  840.4    3 2.0     11                                                 
+122SN  G  877.70   8 18.3    18                                                 
+122SN  G 1121.68   3 100     4                                                  
+122SN  L 3548.66   102+                0.06 PS   +9-3                           
+122SNX L XREF=AE                                                                
+122SN cL J         log {Ift}=5.8 from 1+; |g's to 2+ and 4+                     
+122SN  G 1406.4    2 44      4                                                  
+122SN  G 2408.17   10100     6                                                  
+122SN  L 3568.14   21                                                           
+122SNX L XREF=EHI(3560)K(*3580)                                                 
+122SN  G 2427.6    2 100                                                        
+122SN  L    3582.35182+                0.028 PS  +16-10                         
+122SNX L XREF=AEH(3584)K(*3580)N                                                
+122SN cL J         log {Ift}=6.3 from 1+; stretched E2 |g to 0+                 
+122SN cL T$other: 0.014 ps {i5} from |G in (|g,|g')                             
+122SN  G 2441.8    4 100     10                                                 
+122SN  G 3582.3    2 43      3 E2                                               
+122SNB G BE2W=0.29 +11-17                                                       
+122SN  L    3627.0114 4+                                                        
+122SNX L XREF=BH                                                                
+122SN cL J         log {Ift}=6.1 from 5+; |g's to 2+ and 6+                     
+122SN  G  544.8    4 63      29                                                 
+122SN  G 1071.4    3 68      20                                                 
+122SN  G 1296.4    3 100     24                                                 
+122SN  G 1485.0    3 56      22                                                 
+122SN  G 2486.20   2761      20                                                 
+122SN  L    3670.28 74+                                                         
+122SNX L XREF=BHK                                                               
+122SN cL J         log {Ift}=5.8 from 5+; |g to 2+                              
+122SN  G 1254.80   1154      6                                                  
+122SN  G 1340.0    5 25      9                                                  
+122SN  G 1516.49   8 100     7                                                  
+122SN  G 1527.84   2228      7                                                  
+122SN  G 2529.63   1542      7                                                  
+122SN  L    3703.3811(7-,8-,9-)                                                 
+122SNX L XREF=CH(*3708)I(*3710)L(*3710)M(*3714)                                 
+122SN cL J         log {Ift}=5.4 from (8-); |g to 7-                            
+122SN  G 1013.4    3 18      4                                                  
+122SN  G 1294.34   10100     14                                                 
+122SN  L     3704.9 5(2+)                                                       
+122SNX L XREF=E                                                                 
+122SN cL J         Q |g to 0+                                                   
+122SN  G 2563.9    6 73      7                                                  
+122SN  G 3705.7    8 100     7 Q                                                
+122SN  L    3710.1514(7-,8-)                                                    
+122SNX L XREF=CH(*3708)I(*3710)L(*3710)M(*3714)                                 
+122SN cL J$log {Ift}=5.6 from (8-); |g's to 6-, 7-                              
+122SN  G 1057.2    4 53      17                                                 
+122SN  G 1301.11   14100     14                                                 
+122SN  L 3730.00   20                                                           
+122SNX L XREF=EH(3731)M(*3714)                                                  
+122SN  G 1398.5    6 57      6                                                  
+122SN  G 2589.5    2 100     7                                                  
+122SN  L 3751.3     62+                0.055 PS  +69-41                         
+122SNX L XREF=EKN                                                               
+122SN cL J         stretched E2 |g to 0+                                        
+122SN cL T$other: 0.39 ps {i4} from |G in (|g,|g')                              
+122SN  G 3751.2    6 100       E2                                               
+122SNB G BE2W=0.054 +12-20                                                      
+122SN  L 3758.51   201,2+              0.028 PS  +41-20                         
+122SNX L XREF=EN                                                                
+122SN cL J         |g to 0+ and 1+                                              
+122SN  G 878.7     2 100     8                                                  
+122SN  G 3758.6    7 52      4                                                  
+122SN  L     3777.0 3                                                           
+122SNX L XREF=EH                                                                
+122SN  G 2636.5    3 100                                                        
+122SN  L    3782.8418(4+)                                                       
+122SNX L XREF=BE                                                                
+122SN cL J         log {Ift}=6.5 from 5+; Q |g to 2+                            
+122SN  G 1367.9    1016      5                                                  
+122SN  G 2642.28   18100     19Q                                                
+122SN  L 3810      10 +                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=4 in (t,|a)                                                
+122SN  L 3818      10(6+)                                                       
+122SNX L XREF=H                                                                 
+122SN cL J         L=(6) in (p,p')                                              
+122SN  L    3819.79222+                0.049 PS  +68-21                         
+122SNX L XREF=AEN                                                               
+122SN cL J         log {Ift}=5.8 from 1+; stretched E2 |g to 0+                 
+122SN cL T$other: 0.14 ps {i5} from |G in (|g,|g')                              
+122SN  G 1404.3    3 100     9                                                  
+122SN  G 3819.66   3091      6 E2                                               
+122SNB G BE2W=0.19 +9-19                                                        
+122SN  L    3840.65 9 (4+)                                                      
+122SNX L XREF=BEHI(3850)                                                        
+122SN cL J         log {Ift}=5.8 from from 5+; |g's to 2+ and 4+                
+122SN  G 1698.51   9 100     8                                                  
+122SN  G 2700.43   2033      4                                                  
+122SN  L 3871.1     9 1,2+                                                      
+122SNX L XREF=N                                                                 
+122SN cL J         excited in (|g,|g'), |g to 0+                                
+122SN  G 3871.0    9 100                                                        
+122SN  L    3876.4816 5-,6+                                                     
+122SNX L XREF=BH(*3879)K(*3880)                                                 
+122SN cL J         |g's to 4+, 5- and 7-; log {Ift}=6.0 from 5+                 
+122SN  G 794.46    22100     26                                                 
+122SN  G 1467.7    7 19      9                                                  
+122SN  G 1546.2    8 14      7                                                  
+122SN  G 1630.44   2255      14                                                 
+122SN  L    3882.10 5 4+                                                        
+122SNX L XREF=BH(*3879)K(*3880)                                                 
+122SN cL J         log {Ift}=5.5 from 5+; |g's to 2+                            
+122SN  G 1389.22   1830      7                                                  
+122SN  G 1550.82   1731      5                                                  
+122SN  G 1740.17   7 93      5                                                  
+122SN  G 2741.50   6 100     5                                                  
+122SN  L    3899.68160+,1+,2+                                                   
+122SNX L XREF=ABH(*3900)                                                        
+122SN cL J         log {Ift}=4.7 from 1+                                        
+122SN  G 2759.13   15100                                                        
+122SN  L 3900      10                                                           
+122SNX L XREF=H(*3900)                                                          
+122SN  L     3929.9 51,2+                                                       
+122SNX L XREF=EIKN                                                              
+122SN cL J         |g's to 0+, 2+ and (3-)                                      
+122SN  G 2789.7    7 23      6                                                  
+122SN  G 3929.5    7 100     8                                                  
+122SN  L     3948.5 5 5-,6+                                                     
+122SNX L XREF=B                                                                 
+122SN cL J         |g's to 4+, 6+ and 7-; log {Ift}=6.5 from 5+                 
+122SN  G 1393.1    6 100     5                                                  
+122SN  G 1539.4    10100     5                                                  
+122SN  G 1806.3    7 82      5                                                  
+122SN  L 3974      7                                                            
+122SNX L XREF=HK                                                                
+122SN cL E         weighted average of 3978 {I10} in (p,p') and 3970 {I10} in   
+122SNxcL (t,|a)                                                                 
+122SN  L     4004.010(2+)                                                       
+122SNX L XREF=AE                                                                
+122SN cL J         log {Ift}=6.0 from 1+; Q |g to 0+                            
+122SN  G 4003.9    10100       Q                                                
+122SN  L 4040      10 -                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=1 in (t,|a)                                                
+122SN  L 4104      10(5-)                                                       
+122SNX L XREF=H                                                                 
+122SN cL J         L=(5) in (p,p')                                              
+122SN  L     4106.6 41,2+                                                       
+122SNX L XREF=AE                                                                
+122SN cL J         log {Ift}=5.6 from 1+; |g to 0+                              
+122SN  G 2966.0    4 90      22                                                 
+122SN  G 4106.7    5 100     20                                                 
+122SN  L     4116.3 40+,1+,2+                                                   
+122SNX L XREF=A                                                                 
+122SN cL J         log {Ift}=5.1 from 1+                                        
+122SN  G 2975.7    4 100                                                        
+122SN  L 4120      10 -                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=1 in (t,|a)                                                
+122SN  L     4179.6 40,1,2                                                      
+122SNX L XREF=AH                                                                
+122SN cL J         log {Ift}=5.9 from 1+                                        
+122SN  G 3039.0    4 100                                                        
+122SN  L 4220      10 -                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=1 in (t,|a)                                                
+122SN  L     4283.8 9(2+)                                                       
+122SNX L XREF=E                                                                 
+122SN cL J         Q |g to 0+                                                   
+122SN  G 4283.7    9 100       Q                                                
+122SN  L 4360      10 -                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=1 in (t,|a)                                                
+122SN  L 4470      10 +                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=4 in (t,|a)                                                
+122SN  L 4510      10 +                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=4 in (t,|a)                                                
+122SN  L 4560      10 +                                                         
+122SN cL J         L=4 in (t,|a)                                                
+122SNX L XREF=K                                                                 
+122SN  L 4680      10 +                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=4 in (t,|a)                                                
+122SN  L 4750      10 +                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=4 in (t,|a)                                                
+122SN  L 4800        (-)                                                        
+122SNX L XREF=I                                                                 
+122SN cL J         L=(3) in (d,d'),(|a,|a')                                     
+122SN  L 4930      10 +                                                         
+122SNX L XREF=K                                                                 
+122SN cL J         L=4 in (t,|a)                                                
+122SN  L 5000                                                                   
+122SNX L XREF=I                                                                 
+122SN  L 5300        (-)                                                        
+122SNX L XREF=I                                                                 
+122SN cL J         L=(3) in (d,d'),(|a,|a')                                     
+

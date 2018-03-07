@@ -1,0 +1,1512 @@
+112SN    ADOPTED LEVELS, GAMMAS                                  15NDS    201412
+112SN  H TYP=FUL$AUT=S. LALKOVSKI, F.G. KONDEV$CIT=NDS 124, 157 (2015)$         
+112SN2 H CUT=1-Aug-2014$                                                        
+112SN  Q -7057     18-10788  5 -7554   4 -1828.3 12    2012Wa38                 
+112SN  XA112IN B- DECAY                                                         
+112SN  XB112SB EC DECAY                                                         
+112SN  XCCOULOMB EXCITATION                                                     
+112SN  XD112SN(G,G')                                                            
+112SN  XE112SN(N,N'G)                                                           
+112SN  XF110CD(A,2NG)                                                           
+112SN  XG103RH(12C,P2NG)                                                        
+112SN  XH100MO(16O,4NG),98MO(16O,2NG)                                           
+112SN  XI100MO(20NE,A4NG)                                                       
+112SN  XJ110CD(3HE,NG),112CD(3HE,3NG)                                           
+112SN  XK113IN(P,2NG)                                                           
+112SN  XL112SN(P,P'G)                                                           
+112SN  XM112SN(P,P')                                                            
+112SN  XN114SN(P,T)                                                             
+112SN  XO110CD(3HE,N)                                                           
+112SN  XP112SN(D,D')                                                            
+112SN  XQ112SN(A,A')                                                            
+112SN cL E$From a least-squares fit to E|g                                      
+112SN cL T$From DSAM in {+112}Sn(n,n'|g) (2005Ku28), unless otherwise noted     
+112SN cL E(K)$Ground state band                                                 
+112SN cL E(L),J(L)$Probable member of the |DJ=2 sequence;                       
+112SN2cL configuration=|pg{-9/2}{+-2}~#|pg{-7/2}{+2}                            
+112SN CL BAND(A)$PROBABLE MEMBER OF A DJ=2 BAND ON THE 5564.3 (JPI=12+) STATE;  
+112SN2cL configuration=|p[g{-9/2}{+-2}g{-7/2}{+2}]~#|nh{-11/2}{+2}              
+112SN CL BAND(B)$PROBABLE MEMBER OF A DJ=2 BAND ON THE 6398.3 (JPI=13-) STATE;  
+112SN2cL configuration=|p[g{-9/2}{-1}h{-11/2}]~#|nh{-11/2}{+2}                  
+112SN cG E,RI$From {+112}Sn(n,n'|g) (2005Ku28), unless otherwise noted          
+112SN cG MR$From |g(|q) in {+112}Sn(n,n'|g) (2005Ku28), unless otherwise noted. 
+112SN cG M,MR$Based on |a(K)exp, A{-2}, A{-4} in                                
+112SN2cG |g(|q) and |g-linear polarization, unless otherwise noted              
+112SN cG E(a),RI(e)$From {+112}Sb |e decay (1976Wi10,1975WiZX)                  
+112SN cG E(b),RI(b)$From {+110}Cd(|a,2n|g) (1980Va13,1979Br07)                  
+112SN cG E(c),RI(c)$From |g(|q) and band structure in {+100}Mo({+16}O,4n|g)     
+112SN cG E(d),M(d)$From {+112}Sn(|g,|g')                                        
+112SN DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+112SN cG MR$If no value given it was assumed |d=0.00 for E2/M1,                 
+112SN2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+112SN  L 0.0         0+                STABLE                               K   
+112SNX L XREF=ABCDEFGHIJKLMNOPQ                                                 
+112SN  L 1256.69    42+                0.376 PS  5                          K   
+112SNX L XREF=BCDEFGHIJK(1258)LMNP(1250)Q(1260)                                 
+112SN cL J$L(p,t)=2; 1256.68|g E2 to 0+                                         
+112SN cL T$from B(E2)|^ in Coulomb excitation. Others: 0.451 ps {I28} from DSAM 
+112SN2cL in 2011Ju01 and 0.37 ps {I+7-6} in from DSAM in 2007Or04 (note that    
+112SN3cL the value was initially reported as 0.52 ps {I+9-6}, but it was        
+112SN4cL retracted by the authors.                                              
+112SN cL BE2$0.240 {I3}, weighted average of 0.242 {I8} (2011Ku05,2010Ku07),    
+112SN2cL 0.240 {I20} (2007Va22), 0.229 {I5} (1975Gr30), and 0.256 {I6}          
+112SN3cL (1970St20). Other: 0.240 {I14} (1987Ra01), weighted average of the     
+112SN4cL data in 1975Gr30 and 1970St20                                          
+112SN cL $|b{-2}=0.143 {i5} (for r{-0}=1.26 fm) (1980Bl07). Other:              
+112SN2cL 0.152 {i10} (1968Ma34)                                                 
+112SN cL MOMM1$+0.21 {I7} from g-factor=+0.104 {I35} in 2011Wa15. Other: +0.7   
+112SN2cL {I3} in 1980Ha19                                                       
+112SN cL MOME2$-0.09 {I10} in 1975Gr30                                          
+112SN  G 1256.68   4 100       E2                      8.05E-4                  
+112SN cG M$|a(K)exp=0.00060 {I8} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.64    
+112SN2cG {I8} and A{-4}=-0.82 {I8} in Coulomb excitation (2011Wa15);            
+112SN3cG Alternatively, A{-2}=0.90 {I6} and A{-4}=-0.71 {I6} in Coulomb         
+112SN4cG excitation (2011Wa15). A{-2}=0.243 {I5} and A{-4}=-0.048 {I9} in       
+112SN5cG {+110}Cd(|a,2n|g) (1979Br07); DCO=1.01 {I6} in                         
+112SN6cG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45); P|g=0.39 in {+110}Cd(|a,2n|g)     
+112SNxcG (1979Br07) and +0.05 {I2} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)       
+112SNS G  KC=0.000687 10$LC=8.28E-5 12$MC=1.616E-5 23                           
+112SNS G  NC=3.04E-6 5$OC=2.62E-7 4$IPC=1.523E-5 22                             
+112SNB G BE2W=14.96 20                                                          
+112SN  L 2150.87    52+                1.4 PS    4                              
+112SNX L XREF=BCELMN                                                            
+112SN cL J$L(p,p')=2; 2150.9|g E2 to 0+ and 894.17|g M1+E2 to 2+                
+112SN cL T$from B(E2)|^=0.00065 {I20} in Coulomb excitation (1981Jo03)          
+112SN  G 894.17    4 100     1 M1+E2     -0.28   6     0.00199                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.00173 3$LC=0.000207 3$MC=4.05E-5 6                               
+112SNS G  NC=7.63E-6 12$OC=6.71E-7 11                                           
+112SNB G BM1W=0.017 5$BE2W=1.4 7                                                
+112SN  G 2150.9    4 16.7    11E2                      6.53E-4              e   
+112SNS G  KC=0.000245 4$LC=2.88E-5 4$MC=5.60E-6 8                               
+112SNS G  NC=1.055E-6 15$OC=9.27E-8 13$IPC=0.000372 6                           
+112SN cG M$from |g(|q) in 2005Ku28                                              
+112SNB G BE2W=0.039 12                                                          
+112SN  L 2190.81    60+                2.7 PS    GE                             
+112SNX L XREF=CEH(2186.9)LMN(2192)OQ(2200)                                      
+112SN cL J$L(p,t)=0,L({+3}He,n)=0; 2190.9 E0 transition to 0+, 934.12|g E2 to 2+
+112SN cL T$From B(E2)|^|<0.029                                                  
+112SN  G 934.12    4 100       E2                      1.50E-3                  
+112SN cG E$928 in {+100}Mo({+16}O,4n|g),{+98}Mo({+16}O,2n|g) (1988Ha20)         
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.001301 19$LC=0.0001608 23$MC=3.14E-5 5                           
+112SNS G  NC=5.90E-6 9$OC=5.00E-7 7                                             
+112SNB G BE2W<9.2                                                               
+112SN  G 2190.9    5           E0                               0.1455    21    
+112SN cG E,M$from ce measurements in {+112}Sn(p,p'|g) (1981Ba05)                
+112SN cG TI$from Ice(K)(2190.9|g)/Ice(K)(934.12|g)=0.55 {I10} in                
+112SN2cG {+112}Sn(p,p'|g) (1981Ba05), |a(K)(934.12|g)=0.001301 {I19},           
+112SN3cG I|g(934.12|g)=100 and |W{-K}/|W{-T}=0.8942 (2008Ki07)                  
+112SN  L 2247.39    64+                3.3 PS    5                          K   
+112SNX L XREF=BCEFHIJK(2251.0)LMN(2248)P(2260)                                  
+112SN cL J$L(p,t)=4; L(p,p')=4; 990.69|g E2 to 2+                               
+112SN cL T$from B(E2)(2+ to 4+)=0.032 {I5} in Coulomb excitation (1981Jo03)     
+112SN cL MOMM1$+1.5 {I7} from g-factor=+0.38 {I18} in 2011Wa15                  
+112SN  G 990.69    4 100       E2                      1.31E-3                  
+112SNS G  KC=0.001140 16$LC=0.0001402 20$MC=2.74E-5 4                           
+112SNS G  NC=5.14E-6 8$OC=4.38E-7 7                                             
+112SN cG E$993 in {+113}In(p,2n|g) (1969Ya05)                                   
+112SN cG M$|a(K)exp=0.0014 in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.236 {I5}    
+112SN2cG and A{-4}=-0.050 {I9} in {+110}Cd(|a,2n|g) (1979Br07); DCO=1.03 {I5}   
+112SN3cG in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45); P|g=+0.07 {I3} in              
+112SN4cG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45) and P|g=0.37 in {+110}Cd(|a,2n|g)  
+112SNxcG (1979Br07);                                                            
+112SNB G BE2W=5.6 9                                                             
+112SN  L 2354.21    63-                0.215 PS  14                             
+112SNX L XREF=B(2355.0)CEFHLMN(2355)P(2360)Q(2350)                              
+112SN cL J$L(p,p')=3; L(p,t)=3; L(|a,|a')=3; 1097.38|g E1 to 2+                 
+112SN cL T$From DSAM in 2011Ju01; Other: 0.35 {I+14-8} ps from DSAM in          
+112SN2cL {+112}Sn(n,n'|g) (2005Ku28)                                            
+112SN cL $|b{-3}=0.146 {i5} (for r{-0}=1.26 fm) (1980Bl01). Other:              
+112SN2cL 0.203 {i15} (1968Ma34).                                                
+112SN cL $B(E3)=0.087 {I12} (1981Jo03) in Coulomb excitation (1981Jo03) and     
+112SN2cL 0.050 {I10} in {+112}Sn(|a,|a') (1970Br07)                             
+112SN cL MOMM1$-1.4 {I28} from g-factor=-0.48 {I92} in 2011Wa15                 
+112SN  G 203.2     2           [E1]                    0.0246                   
+112SNS G  KC=0.0214 3$LC=0.00262 4$MC=0.000510 8                                
+112SNS G  NC=9.51E-5 14$OC=7.67E-6 11                                           
+112SN  G 1097.38   7  100      E1                      4.59E-4                  
+112SN cG M$A{-2}=-0.21 {I3} and A{-4}=0.03 {I4} in {+110}Cd(|a,2n|g)            
+112SN2cG (1980Va13); P|g=0.34 {I9} in {+110}Cd(|a,2n|g) (1980Va13);             
+112SNxcG |a(K)exp<0.0005 in {+110}Cd(|a,2n|g) (1980Va13)                        
+112SNB G BE1W=0.00102 7                                                         
+112SNS G  KC=0.000401 6$LC=4.70E-5 7$MC=9.13E-6 13                              
+112SNS G  NC=1.718E-6 24$OC=1.492E-7 21                                         
+112SN  L 2476.16   11 2+               2.4 PS    GT                             
+112SNX L XREF=BCEH(2474.8)M(2475)NQ(2500)                                       
+112SN cL J$L(p,t)=2; 2475.8|g E2 to 0+                                          
+112SN  G 286                                                                    
+112SN cG E$from {+98}Mo({+16}O,2n|g) (2003Wo15)                                 
+112SN  G 1219.34   1320.5    24M1+E2     -0.54   7     9.77E-416                
+112SN cG M,MR$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SNB G BM1W<0.00071$BE2W<0.13                                                 
+112SNS G  KC=0.000845 14$LC=0.0001006 16$MC=1.96E-5 3                           
+112SNS G  NC=3.70E-6 6$OC=3.25E-7 6$IPC=8.59E-6 14                              
+112SN  G 2475.8    3 100.0   24E2                      7.48E-4                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W<0.066                                                             
+112SNS G  KC=0.000191 3$LC=2.23E-5 4$MC=4.34E-6 6                               
+112SNS G  NC=8.18E-7 12$OC=7.20E-8 10$IPC=0.000529 8                            
+112SN  L 2520.70    74+                0.42 PS   14                             
+112SNX L XREF=BCEFGHI(2520.12)MNP(2530)                                         
+112SN cL J$L(p,t)=4; 1264.07|g E2 to 2+                                         
+112SN cL T$from DSAM in {+103}Rh({+12}C,p2n|g) (1990ViZW). Other: >0.8 ps in    
+112SN2cL {+112}Sn(n,n'|g) (2005Ku28)                                            
+112SN  G 1264.07   7 100       E2                      7.96E-4                  
+112SNS G  KC=0.000679 10$LC=8.18E-5 12$MC=1.596E-5 23                           
+112SNS G  NC=3.00E-6 5$OC=2.59E-7 4$IPC=1.648E-5 24                             
+112SN cG M$|a(K)exp=0.0007 {I2} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.218    
+112SN2cG {I11} and A{-4}=-0.07 {I2} in {+110}Cd(|a,2n|g) (1979Br07); P|g=0.53   
+112SNxcG {I8} in {+110}Cd(|a,2n|g) (1979Br07);                                  
+112SNB G BE2W=13 5                                                              
+112SN  L 2549.22   146+                13.73 NS   8                             
+112SNX L XREF=EFHIJK(2553.0)M(2550)N                                            
+112SN cL J$L(p,t)=6; 301.84|g E2 to 4+                                          
+112SN cL T$weighted average of of 13.9 ns {I2} (1980Va13), 14.0 ns {I4}         
+112SN2cL (1969Ya05), 13.2 ns {I4} (1981Go17) and 13.7 ns {I1} (1981Va15) in     
+112SN3cL {+110}Cd(|a,2n|g) and 12.1 ns {I15} (1989An14, 1988Pe17) and 13.6 ns   
+112SN4cL {I4} (1989An14) in {+110}Cd({+3}He,n|g),{+112}Cd({+3}He,3n|g). Other   
+112SN5cL >0.5 ps from DSAM in {+112}Sn(n,n'|g) (2005Ku28)                       
+112SN cL MOMM1$+0.53 {I3} (1983Le18), +0.61 {I5} (1981Go17), and +0.2 {I2}      
+112SNxcL (1981Va15)                                                             
+112SN cL MOME2$0.29 {I6} (1975Vi03)                                             
+112SN cL CONF$most likely a mixture between (|ng{-7/2}{+-1},|nd{-5/2}{+-1})     
+112SN2cL and (|ng{-7/2}){+-2}                                                   
+112SN  G 301.84    13 100      E2                      0.0348                   
+112SN cG M$|a(K)exp=0.033 {I5} in {+110}Cd(|a,2n|g) (1980Va13); Also,           
+112SN2cG A{-2}=0.220 {I4} and A{-4}=-0.04 {I1} in {+110}Cd(|a,2n|g)(1980Va13);  
+112SN3cG DCO=1.11 {I6} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45) and P|g=0.31 {I6} 
+112SN4cG in {+110}Cd(|a,2n|g) (1980Va13) and +0.06 {I3} in                      
+112SNxcG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                                    
+112SNB G BE2W=0.496 3                                                           
+112SNS G  KC=0.0292 5$LC=0.00448 7$MC=0.000889 13                               
+112SNS G  NC=0.0001632 23$OC=1.155E-5 17                                        
+112SN  L 2556.6    3 (2+)                                                       
+112SNX L XREF=B                                                                 
+112SN cL J$2556.6|g to 0+; direct population in {+112}Sb |e decay (J|p=(3+))    
+112SN  G 2556.6    3 100                                                    a   
+112SN2 G FLAG=e                                                                 
+112SN  L 2617.62   180+                0.4 PS    GT                             
+112SNX L XREF=EMN                                                               
+112SN cL J$L(p,t)=0; 1360.92|g E2 to 2+                                         
+112SN cL T$Other: >0.8 ps from B(E2)(0+ ->2+)<0.016 (1981Ba05)                  
+112SN  G 1360.92   17 100      E2                      7.08E-4                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.000584 9$LC=7.01E-5 10$MC=1.367E-5 20                            
+112SNS G  NC=2.57E-6 4$OC=2.23E-7 4$IPC=3.74E-5 6                               
+112SNB G BE2W<9.4                                                               
+112SN  L 2721.06   142+                0.8 PS    +10-3                          
+112SNX L XREF=BEM(2723)N                                                        
+112SN cL J$L(p,t)=2; L(p,p')=2; 2721.6|g E2 to 0+                               
+112SN  G 1464.22   15100     4 M1+E2     0.17    10    7.38E-4              e   
+112SN cG M,MR$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SNS G  KC=0.000589 9$LC=6.96E-5 11$MC=1.357E-5 21                            
+112SNS G  NC=2.56E-6 4$OC=2.26E-7 4$IPC=6.28E-5 10                              
+112SNB G BM1W=0.007 +3-7$BE2W=0.08 +10-8                                        
+112SN  G 2721.6    3 15.9    13 E2                     8.28E-4              e   
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.0001620 23$LC=1.89E-5 3$MC=3.67E-6 6                             
+112SNS G  NC=6.92E-7 10$OC=6.10E-8 9$IPC=0.000643 9                             
+112SNB G BE2W=0.020 +8-20                                                       
+112SN  L 2756.02    9 3+               0.8 PS    GT                             
+112SNX L XREF=BEM(2760)                                                         
+112SN cL J$1499.5|g M1(+E2) to 2+, 508.8|g M1+E2 to 4+                          
+112SN  G 234.8     3 5.9     6 [M1+E2]                 0.0542               a   
+112SN2 G FLAG=e                                                                 
+112SNS G  KC=0.0469 7$LC=0.00586 9$MC=0.001148 17                               
+112SNS G  NC=0.000216 4$OC=1.88E-5 3                                            
+112SN  G 279.5     2 4.0     4 [M1+E2]                 0.0343               a   
+112SN2 G FLAG=e                                                                 
+112SNS G  KC=0.0297 5$LC=0.00369 6$MC=0.000723 11                               
+112SNS G  NC=0.0001361 20$OC=1.188E-5 17                                        
+112SN  G 401.3     5 2.6     6 [E1]                    0.00406              a   
+112SN2 G FLAG=e                                                                 
+112SNB G BE1W<0.00011                                                           
+112SNS G  KC=0.00354 5$LC=0.000425 7$MC=8.28E-5 12                              
+112SNS G  NC=1.552E-5 23$OC=1.303E-6 19                                         
+112SN  G 508.8     3           M1+E2     0.2     1     0.00757                 ?
+112SNS G  KC=0.00658 10$LC=0.000804 12$MC=0.0001572 23                          
+112SNS G  NC=2.96E-5 5$OC=2.59E-6 4                                             
+112SN cG E$508.8|g seen in {+112}Sn(n,n'|g) (2005Ku28) and                      
+112SNxcG I|g(509)/I|g(1499)=100/18                                              
+112SN  G 605.1     2 21.2    13[M1+E2]                 0.00500              a   
+112SN2 G FLAG=e                                                                 
+112SNS G  KC=0.00435 6$LC=0.000527 8$MC=0.0001029 15                            
+112SNS G  NC=1.94E-5 3$OC=1.705E-6 24                                           
+112SN  G 1499.5    1 100      3M1(+E2)   0.08    LE    7.18E-4              a   
+112SN2 G FLAG=e                                                                 
+112SN cG M,MR$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SNS G  KC=0.000562 8$LC=6.64E-5 10$MC=1.294E-5 19                            
+112SNS G  NC=2.44E-6 4$OC=2.16E-7 3$IPC=7.42E-5 11                              
+112SNB G BE2W<0.014?                                                            
+112SN  L 2765.2     3  0+:4+           1.0 PS    GT                             
+112SNX L XREF=E                                                                 
+112SN  G 1508.5     3100                                                        
+112SN  L 2783.66   144+                0.32 PS   7                              
+112SNX L XREF=B(2784.6)EFGHIM(2786)NP(2800)                                     
+112SN cL J$L(p,t)=4; L(p,p')=4; 1527.2|g E2 to 2+                               
+112SN cL T$wt. average of 0.35 ps {I14} in {+103}Rh({+12}C,p2n|g) (1990ViZW) and
+112SN2cL 0.31 ps {I+10-6} in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SN  G 536                                                                    
+112SN cG E$from {+98}Mo({+16}O,2n|g) (2003Wo15)                                 
+112SN  G 1527.2    2 100       E2                      6.25E-4                  
+112SN cG M$A{-2}=-0.09 {I3} and A{-4}=0.7 {I2} in {+110}Cd(|a,2n|g) (1979Br07); 
+112SNS G  KC=0.000466 7$LC=5.54E-5 8$MC=1.080E-5 16                             
+112SNS G  NC=2.03E-6 3$OC=1.770E-7 25$IPC=9.08E-5 13                            
+112SNB G BE2W=6.6 15                                                            
+112SN  L 2860      2                                                            
+112SNX L XREF=M                                                                 
+112SN  L 2913.07   214+                0.6 PS    GT                             
+112SNX L XREF=BEM(2915)                                                         
+112SN cL J$L(p,p')=4; 1656.3|g E2 to 2+                                         
+112SN  G 392.8     5 12      3 [M1]                    0.01440                  
+112SNS G  KC=0.01250 18$LC=0.001535 22$MC=0.000300 5                            
+112SNS G  NC=5.65E-5 9$OC=4.95E-6 8                                             
+112SN cG RI$I|g(392.3)/I|g(1656.7)=12.32% in {+112}Sb |e decay                  
+112SNxcG (1976Wi10,1975WiZX)                                                    
+112SNB G BM1W<0.049                                                             
+112SN  G 665.6     3 100     3 [M1]                    0.00399                  
+112SNS G  KC=0.00347 5$LC=0.000419 6$MC=8.18E-5 12                              
+112SNS G  NC=1.542E-5 22$OC=1.357E-6 19                                         
+112SN cG E$not observed in {+112}Sb |e decay (1976Wi10,1975WiZX)                
+112SNB G BM1W<0.084                                                             
+112SN  G 1656.3    4 35      3 E2                      5.99E-4                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W<0.56                                                              
+112SNS G  KC=0.000398 6$LC=4.72E-5 7$MC=9.20E-6 13                              
+112SNS G  NC=1.732E-6 25$OC=1.511E-7 22$IPC=0.0001422 20                        
+112SN  L 2917.39   10  2+,3,4+         1.1 PS    GT                             
+112SNX L XREF=B(2918.0)E                                                        
+112SN cL J$669.9|g to 4+, 767.0|g to 2+                                         
+112SN  G 669.9     1 100     15                                             e   
+112SN  G 767.0     2 11.8    8                                              e   
+112SN  L 2926.82   186+                0.22 PS   GT                             
+112SNX L XREF=EFHIM(2928)N                                                      
+112SN cL J$L(p,t)=6; 378.6|g M1 to 6+                                           
+112SN  G 378.6     3 100       M1                      0.01579                  
+112SN cG M$|a(K)exp=0.017 {I3} in {+110}Cd(|a,2n|g) (1980Va13); A{-2}=0.365     
+112SN2cG {I8} and A{-4}=0.00 {I2} in {+110}Cd(|a,2n|g) (1980Va13); P|g=0.67     
+112SNxcG {I5} in {+110}Cd(|a,2n|g) (1980Va13);                                  
+112SNB G BM1W<1.8                                                               
+112SNS G  KC=0.01371 20$LC=0.001685 24$MC=0.000330 5                            
+112SNS G  NC=6.21E-5 9$OC=5.44E-6 8                                             
+112SN  L 2945.70   134+                1.1 PS    GT                             
+112SNX L XREF=BEFHIM(2947)                                                      
+112SN cL J$L(p,p')=4; 1688.7|g E2 to 2+                                         
+112SN  G 470                                                                    
+112SN cG E$from {+98}Mo({+16}O,2n|g) (2003Wo15)                                 
+112SN  G 794.5     2           E2                      0.00219                  
+112SNS G  KC=0.00189 3$LC=0.000239 4$MC=4.67E-5 7                               
+112SNS G  NC=8.74E-6 13$OC=7.31E-7 11                                           
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SN  G 1688.7    3 100       E2                      5.96E-4                  
+112SN cG M$A{-2}=0.22 {I3} and A{-4}=0.5 {I2} in {+110}Cd(|a,2n|g) (1979Br07);  
+112SNB G BE2W<1.2                                                               
+112SNS G  KC=0.000384 6$LC=4.55E-5 7$MC=8.86E-6 13                              
+112SNS G  NC=1.667E-6 24$OC=1.456E-7 21$IPC=0.0001561 22                        
+112SN  L 2966.63    82+                0.5 PS    +8-2                           
+112SNX L XREF=BEM(2969)N(2966)                                                  
+112SN cL J$L(p,t)=2; 612.4|g E1 to 3-; 1709.9|g M1(+E2) to 2+                   
+112SN2cL and 2966.6|g E2 to 0+                                                  
+112SN  G 612.4     1 28      2 E1                      1.50E-3              e   
+112SN cG RI$12 {I3} in {+112}Sn(n,n'|g) (2005Ku28)                              
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.001307 19$LC=0.0001555 22$MC=3.03E-5 5                           
+112SNS G  NC=5.68E-6 8$OC=4.85E-7 7                                             
+112SNB G BE1W=0.00039 +16-39                                                    
+112SN  G 1709.9    4 100     4 M1(+E2)   0.7     LE    6.36E-412            e   
+112SN cG RI$37 {I9} in {+112}Sn(n,n'|g) (2005Ku28)                              
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.000418 11$LC=4.93E-5 12$MC=9.60E-6 24                            
+112SNS G  NC=1.81E-6 5$OC=1.60E-7 5$IPC=0.000157 3                              
+112SNB G BM1W>0.0033?$BE2W<0.44?                                                
+112SN  G 2966.6    1  53     4 E2                                           e   
+112SN cG RI$100 {I12} in {+112}Sn(n,n'|g) (2005Ku28)                            
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.0001398 20$LC=1.624E-5 23$MC=3.16E-6 5                           
+112SNS G  NC=5.95E-7 9$OC=5.26E-8 8$IPC=0.000752 11                             
+112SNB G BE2W=0.045 +19-45                                                      
+112SN  L 2969.31    6                  0.29 PS   +21-9                          
+112SNX L XREF=EP(2970)                                                          
+112SN  G 818.43    6                                                            
+112SN  G 1712.61   6 100                                                        
+112SN  L 2986.4     3  0+              1.7 PS    GT                             
+112SNX L XREF=EM(2989)N(2988)                                                   
+112SN cL J$L(p,t)=0; 1729.7|g E2 to 2+                                          
+112SN  G 1729.7    3 100       E2                      5.94E-4                  
+112SNB G BE2W<0.67                                                              
+112SNS G  KC=0.000367 6$LC=4.34E-5 6$MC=8.45E-6 12                              
+112SNS G  NC=1.591E-6 23$OC=1.391E-7 20$IPC=0.0001741 25                        
+112SN  L 3078.53   13(2,3)+            1.2 PS    GT                             
+112SNX L XREF=BE                                                                
+112SN cL J$927.7|g M1+E2 to 2+; 1821.8|g M1+E2 to 2+, and 831.1|g to 4+         
+112SN  G 557.8     3 12.0    8                                              e   
+112SN  G 831.1     4 8.8     19                                             e   
+112SN  G 927.7     2 97      3 M1+E2     0.60    +1-2  0.001763             e   
+112SN cG RI$100.0 19 in {+112}Sn(n,n'|g) (2005Ku28)                             
+112SN cG M,MR$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SNS G  KC=0.001535 22$LC=0.000185 3$MC=3.61E-5 6                             
+112SNS G  NC=6.80E-6 10$OC=5.94E-7 9                                            
+112SNB G BM1W<0.0076$BE2W<2.6                                                   
+112SN  G 1821.8    2 100     4 M1+E2     -1.3    +3-5  6.11E-410            e   
+112SN cG RI$88.7 {I19} in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SN cG M,MR$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SNS G  KC=0.000348 8$LC=4.10E-5 9$MC=7.99E-6 17                              
+112SNS G  NC=1.51E-6 4$OC=1.32E-7 3$IPC=0.000212 4                              
+112SNB G BM1W<0.00067$BE2W<0.25                                                 
+112SN  L 3092.21   102+                0.25 PS   +8-5                           
+112SNX L XREF=B(3093.3)EM(3095)                                                 
+112SN cL J$L(p,p')=2; 3092.1|g E2 to 0+                                         
+112SN  G 1836.0    3  100     3M1+E2     -1.5    10    6.09E-420            e   
+112SN cG M,MR$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SNS G  KC=0.000340 21$LC=4.01E-5 24$MC=7.8E-6 5                              
+112SNS G  NC=1.47E-6 9$OC=1.29E-7 9$IPC=0.000219 7                              
+112SNB G BM1W=0.003 4$BE2W=1.9 +9-10                                            
+112SN  G 3092.1    1  26.2   19E2                      9.54E-4              e   
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNS G  KC=0.0001303 19$LC=1.513E-5 22$MC=2.94E-6 5                           
+112SNS G  NC=5.55E-7 8$OC=4.90E-8 7$IPC=0.000805 12                             
+112SNB G BE2W=0.052 +12-17                                                      
+112SN  L 3113.54   15  0+:4+                                                    
+112SNX L XREF=EM(3118)                                                          
+112SN cL J$962.67|g to 2+                                                       
+112SN  G 962.67    14100                                                        
+112SN  L 3133.42   11 5-               1.0 PS    GT                             
+112SNX L XREF=EH(3136.5)M(3137)N(3132)                                          
+112SN cL J$L(p,p')=5; L(p,t)=5; 779.3|g E2 to 3-; 886.0|g E1 to 4+              
+112SN  G 779.3     2 16.3    12E2                      0.00229                  
+112SN cG E$782 in {+98}Mo({+16}O,2n|g) (2003Wo15)                               
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W<8.6                                                               
+112SNS G  KC=0.00198 3$LC=0.000250 4$MC=4.90E-5 7                               
+112SNS G  NC=9.18E-6 13$OC=7.66E-7 11                                           
+112SN  G 886.0     1 100.0   12E1                      6.91E-4                  
+112SN cG M,MR$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                        
+112SNB G BE1W<0.00036                                                           
+112SNS G  KC=0.000603 9$LC=7.10E-5 10$MC=1.381E-5 20                            
+112SNS G  NC=2.60E-6 4$OC=2.24E-7 4                                             
+112SN  L 3141.1     4                                                           
+112SNX L XREF=E                                                                 
+112SN  G 990.2      4100                                                        
+112SN  L 3149.28   214+                0.6 PS    +10-2                          
+112SNX L XREF=BEM(3152)P(3150)                                                  
+112SN cL J$L(p,p')=4; 1892.2|g E2 to 2+                                         
+112SN  G 901.8     6 24      7 [M1+E2]                 0.00197              e   
+112SNS G  KC=0.001718 25$LC=0.000206 3$MC=4.01E-5 6                             
+112SNS G  NC=7.57E-6 11$OC=6.68E-7 10                                           
+112SN  G 1892.2    5 100     3 E2                      6.03E-4              e   
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W=1.0 +4-10                                                         
+112SNS G  KC=0.000310 5$LC=3.65E-5 6$MC=7.11E-6 10                              
+112SNS G  NC=1.340E-6 19$OC=1.174E-7 17$IPC=0.000248 4                          
+112SN  L 3248.69   102+                1.1 PS    GT                             
+112SNX L XREF=BEM(3253)N                                                        
+112SN cL J$L(p,t)=2; 3248.1|g E2 to 0+                                          
+112SN  G 772.44    24  25.9  19[M1+E2]                 0.00282              e   
+112SNS G  KC=0.00245 4$LC=0.000295 5$MC=5.75E-5 8                               
+112SNS G  NC=1.084E-5 16$OC=9.55E-7 14                                          
+112SN  G 894.2     2 27      19[E1]                    6.79E-4              e   
+112SNS G  KC=0.000593 9$LC=6.97E-5 10$MC=1.356E-5 19                            
+112SNS G  NC=2.55E-6 4$OC=2.20E-7 3                                             
+112SNB G BE1W<5.7E-5                                                            
+112SN  G 1097.4    2           [M1+E2]                 1.27E-3                  
+112SNS G  KC=0.001106 16$LC=0.0001317 19$MC=2.57E-5 4                           
+112SNS G  NC=4.84E-6 7$OC=4.28E-7 6                                             
+112SN  G 1992.25   12 22.9   13M1+E2                   6.41E-4              e   
+112SNS G  KC=0.000312 5$LC=3.66E-5 6$MC=7.13E-6 10                              
+112SNS G  NC=1.345E-6 19$OC=1.192E-7 17$IPC=0.000284 4                          
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SN  G 3248.8    8 100.0   21E2                      1.01E-3                  
+112SNS G  KC=0.0001199 17$LC=1.391E-5 20$MC=2.70E-6 4                           
+112SNS G  NC=5.10E-7 8$OC=4.50E-8 7$IPC=0.000871 13                             
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W<0.025                                                             
+112SN  L 3272.31   164+                0.30 PS   +21-10                         
+112SNX L XREF=EM(3278)N(3275)                                                   
+112SN cL J$L(p,p')=4; L(p,t)=4; 2016.1|g E2 to 2+                               
+112SN  G 1121.39   1527      9 E2                      1.00E-3                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W=7 +4-6                                                            
+112SNS G  KC=0.000872 13$LC=0.0001060 15$MC=2.07E-5 3                           
+112SNS G  NC=3.89E-6 6$OC=3.34E-7 5$IPC=9.93E-7 15                              
+112SN  G 2016.1    5 100     9 E2                      6.24E-4                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W=1.4 +5-10                                                         
+112SNS G  KC=0.000276 4$LC=3.24E-5 5$MC=6.31E-6 9                               
+112SNS G  NC=1.189E-6 17$OC=1.043E-7 15$IPC=0.000308 5                          
+112SN  L 3283.60   21 2+                                                        
+112SNX L XREF=EN(*3286)                                                         
+112SN cL J$L(p,t)=2; 1036.2|g to 4+                                             
+112SN  G 1036.2    2 100                                                        
+112SN  L 3286.18   15  (2)+            0.22 PS   +15-7                          
+112SNX L XREF=BEN(*3286)                                                        
+112SN cL J$2029.4|g M1(+E2) to 2+ and 3286.2|g to 0+; direct population in      
+112SN2cL {+112}Sb |e decay (J|p=(3+))                                           
+112SN  G 2029.4    2   84    5 M1(+E2)   0.4     LE    6.45E-410                
+112SNS G  KC=0.000298 5$LC=3.50E-5 6$MC=6.82E-6 11                              
+112SNS G  NC=1.287E-6 20$OC=1.139E-7 18$IPC=0.000303 5                          
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SN cG RI$8 {I3} in {+112}Sn(n,n'|g) (2005Ku28)                               
+112SNB G BM1W>0.0047?$BE2W<0.15?                                                
+112SN  G 3286.2    2 100     3                                                  
+112SN  L 3288.0     3 (1,2+)                                                    
+112SNX L XREF=EM(3292)                                                          
+112SN cL J$1097.2|g to 0+                                                       
+112SN  G 1097.2    3 100                                                        
+112SN  L 3338.3     32+                0.3 PS    GT                             
+112SNX L XREF=EN(3345)                                                          
+112SN cL J$2081.6|g M1+E2 to 2+; L(p,t)=2                                       
+112SN  G 2081.6    3 100       M1+E2                   6.54E-4                  
+112SNS G  KC=0.000285 4$LC=3.35E-5 5$MC=6.52E-6 10                              
+112SNS G  NC=1.229E-6 18$OC=1.090E-7 16$IPC=0.000328 5                          
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SN  L 3353.1     42+                1.4 PS    GT                             
+112SNX L XREF=E                                                                 
+112SN cL J$2096.4|g M1+E2 to 2+ and 3353.0|g E2 |g to 0+                        
+112SN  G 2096.4    4 9       3 M1+E2                   6.57E-4                  
+112SNS G  KC=0.000281 4$LC=3.30E-5 5$MC=6.42E-6 9                               
+112SNS G  NC=1.212E-6 17$OC=1.074E-7 15$IPC=0.000335 5                          
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SN  G 3353.0    5 100     3 E2                      1.04E-3                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W<0.027                                                             
+112SNS G  KC=0.0001138 16$LC=1.319E-5 19$MC=2.56E-6 4                           
+112SNS G  NC=4.83E-7 7$OC=4.27E-8 6$IPC=0.000914 13                             
+112SN  L 3354.38   15(7)-                                                       
+112SNX L XREF=FH(3355.0)IK(3360)M(3360)                                         
+112SN cL J$805.11|g E1 to 6+; yrast state, but 5- and 6- cannot unambiguously   
+112SN2cL be excluded                                                            
+112SN cL CONF$possible |nd{-3/2}h{-11/2} configuration                          
+112SN  G 427.67    105.8     3 E1                      0.00347              b   
+112SNS G  KC=0.00302 5$LC=0.000363 5$MC=7.07E-5 10                              
+112SNS G  NC=1.325E-5 19$OC=1.115E-6 16                                         
+112SN cG M$A{-2}=-0.20 {I2} and A{-4}=0.07 {I4} in (1980Va13); P|g=0.38 {I5}    
+112SNxcG (1980Va13)                                                             
+112SN  G 805.11    7 100     6 E1                      8.38E-4              b   
+112SNS G  KC=0.000731 11$LC=8.63E-5 12$MC=1.678E-5 24                           
+112SNS G  NC=3.16E-6 5$OC=2.72E-7 4                                             
+112SN cG E$807 {I1} in {+113}In(p,2n|g) (1969Ya05)                              
+112SN cG M$|a(K)exp=0.00070 {I15} in {+110}Cd(|a,2n|g) (1980Va13); A{-2}=-0.233 
+112SN2cG {I5} and A{-4}=-0.01 {I1} in {+110}Cd(|a,2n|g) (1980Va13); P|g=0.37    
+112SN3cG {I5} in {+110}Cd(|a,2n|g) (1980Va13) and +0.06 {I3} in                 
+112SN4cG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45); DCO=0.71 {I13} in                 
+112SNxcG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                                    
+112SN  L 3378.9     3 0+:4+                                                     
+112SNX L XREF=E                                                                 
+112SN cL J$1228.0|g to 2+                                                       
+112SN  G 1228.0    3  100                                                       
+112SN  L 3384.30   22 (3)-             0.18 PS   +8-5                           
+112SNX L XREF=BEM(3387)                                                         
+112SN cL J$2127.50|g E1 to 2+, but 1- and 2- cannot unambiguously be excluded   
+112SN  G 467.2     3 16.1    15                                             a   
+112SN2 G FLAG=e                                                                 
+112SN  G 2127.3    3 100     6 E1                      8.44E-4              e   
+112SNS G  KC=0.0001324 19$LC=1.528E-5 22$MC=2.97E-6 5                           
+112SNS G  NC=5.59E-7 8$OC=4.91E-8 7$IPC=0.000693 10                             
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE1W=0.00014 +5-7                                                      
+112SN  L 3397.20   12 2-,3-            0.23 PS   +10-6                          
+112SNX L XREF=E                                                                 
+112SN cL J$1042.95|g M1+E2 to 3- and 1246.6|g to 2+                             
+112SN  G 1042.95   1172.4    17M1+E2     1.8     12    0.0012313                
+112SNS G  KC=0.00107 11$LC=0.000130 12$MC=2.54E-5 23                            
+112SNS G  NC=4.8E-6 5$OC=4.1E-7 5                                               
+112SNB G BM1W=0.008 +9-8$BE2W=20 +9-11                                          
+112SN  G 1246.6    3 100     17                                                 
+112SN  L 3400      3 4+                                                         
+112SNX L XREF=M(3402)N                                                          
+112SN cL J$L(p,t)=4                                                             
+112SN  L 3413.93   126+                0.6 PS    3                          L   
+112SNX L XREF=EFGHIN                                                            
+112SN cL J$L(p,t)=4,6; 1166.9|g E2 to 4+; member of |DJ=2 sequence              
+112SN cL T$From DSAM in {+103}Rh({+12}C,p2n|g) (1990ViZW)                       
+112SN  G 468.03    1332      2 E2                      0.00893              b   
+112SN cG M$|a(K)exp=0.007 {I2} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.32 {I6} 
+112SN2cG and A{-4}=-0.18 {I10} in {+110}Cd(|a,2n|g) (1979Br07); P|g=0.49 {I8}   
+112SNxcG in {+110}Cd(|a,2n|g) (1979Br07);                                       
+112SNS G  KC=0.00764 11$LC=0.001047 15$MC=0.000206 3                            
+112SNS G  NC=3.83E-5 6$OC=2.98E-6 5                                             
+112SNB G BE2W=1.8E+2 10                                                         
+112SN  G 630.36    1256      2 E2                      0.00392              b   
+112SN cG M$|a(K)exp=0.0038 {I8} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.34     
+112SN2cG {I2} and A{-4}=0.71 {I8} in {+110}Cd(|a,2n|g) (1979Br07); P|g=0.71     
+112SNxcG {I8} in {+110}Cd(|a,2n|g) (1979Br07);                                  
+112SNB G BE2W=7.E+1 4                                                           
+112SNS G  KC=0.00337 5$LC=0.000439 7$MC=8.61E-5 12                              
+112SNS G  NC=1.606E-5 23$OC=1.310E-6 19                                         
+112SN  G 893.2     2 38      12E2                      1.66E-3              b   
+112SNB G BE2W=9 6                                                               
+112SNS G  KC=0.001440 21$LC=0.000179 3$MC=3.50E-5 5                             
+112SNS G  NC=6.56E-6 10$OC=5.54E-7 8                                            
+112SN  G 1166.9    3 100     10E2                      9.25E-4              b   
+112SN cG M$|a(K)exp=0.0009 {I4} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.38     
+112SN2cG {I7} and A{-4}=-0.12 {I13} in {+110}Cd(|a,2n|g) (1979Br07); P|g=0.8    
+112SNxcG {I2} in {+110}Cd(|a,2n|g) (1979Br07);                                  
+112SNB G BE2W=6 3                                                               
+112SNS G  KC=0.000801 12$LC=9.72E-5 14$MC=1.90E-5 3                             
+112SNS G  NC=3.56E-6 5$OC=3.06E-7 5$IPC=3.50E-6 6                               
+112SN  L 3417.41   114+                0.4 PS    GT                             
+112SNX L XREF=BEM(3424)P(3430)                                                  
+112SN cL J$L(p,p')=4; 2160.7|g E2 to 2+                                         
+112SN  G 2160.7    1 100       E2                      6.56E-4                  
+112SN cG M$from |g(|q) in {+112}Sn(n,n'|g) (2005Ku28)                           
+112SNB G BE2W<0.94                                                              
+112SNS G  KC=0.000243 4$LC=2.85E-5 4$MC=5.55E-6 8                               
+112SNS G  NC=1.046E-6 15$OC=9.19E-8 13$IPC=0.000377 6                           
+112SN  L 3430.65   22(8)-              0.61 NS   3                              
+112SNX L XREF=FGHI                                                              
+112SN cL J$76.3|g M1+E2 to (7)-; no transitions to the 6+ states                
+112SN cL T$weighed average of 0.58 ns {I6} from |g|g(t) in {+110}Cd(|a,2n|g)    
+112SN2cL (1980Va13) and 0.62 ns {I4} from recoil distance method in             
+112SNxcL {+100}Mo({+16}O,4n|g) (1986Ka25)                                       
+112SN  G 76.3      2 100       M1+E2     0.04    3     1.221  22            b   
+112SN cG M$A{-2}=-0.15 {I2} (1980Va13); A{-4}=-0.01 {I2} in {+110}Cd(|a,2n|g)   
+112SNxcG (1980Va13)                                                             
+112SNB G BM1W=0.0365 19$BE2W=8 +12-8                                            
+112SNS G  KC=1.053 18$LC=0.136 4$MC=0.0267 9                                    
+112SNS G  NC=0.00502 15$OC=0.000430 8                                           
+112SN  L 3433.9     5(1-)              1.9 FS    +11-10                         
+112SNX L XREF=ED(3434)M(3440)                                                   
+112SN cL J$3433.3|g (E1) to 0+                                                  
+112SN2cL ; B(E1)=11.5|*10{+-5} {I11} (2014Oz03), 10.7|*10{+-5} {I12} (2006Py01) 
+112SN  G 3433.8    5  100      (E1)                    1.50E-3              d   
+112SNS G  KC=6.62E-5 10$LC=7.59E-6 11$MC=1.473E-6 21                            
+112SNS G  NC=2.78E-7 4$OC=2.45E-8 4$IPC=0.001424 20                             
+112SNB G BE1W=0.0038 +20-22                                                     
+112SN  L 3445       3 4+                                                        
+112SNX L XREF=N                                                                 
+112SN  L 3456.31   20     2+,3+        0.7 PS    GT                             
+112SNX L XREF=BE                                                                
+112SN cL J$2199.6|g M1+E2 to 2+; direct population in {+112}Sb |e decay         
+112SNxcL (J|p=(3+))                                                             
+112SN  G 700.3     6 22      5                                              a   
+112SN2 G FLAG=e                                                                 
+112SN  G 2199.6    2 100     6 M1+E2     2.8     10    6.67E-4              a   
+112SN2 G FLAG=e                                                                 
+112SNS G  KC=0.000238 5$LC=2.79E-5 5$MC=5.42E-6 10                              
+112SNS G  NC=1.022E-6 18$OC=8.99E-8 17$IPC=0.000395 6                           
+112SN cG M,MR$from {+112}Sn(n,n'|g) (2005Ku28)                                  
+112SNB G BM1W<0.00045$BE2W<0.38                                                 
+112SN  L 3471.7     3 4+               0.23 PS   GT                             
+112SNX L XREF=EM(3477)N(3481)                                                   
+112SN cL J$L(p,t)=4; 951.0|g to 4+                                              
+112SN  G 951.0     3  100      [M1]                    1.75E-3                  
+112SNS G  KC=0.001524 22$LC=0.000182 3$MC=3.55E-5 5                             
+112SNS G  NC=6.70E-6 10$OC=5.91E-7 9                                            
+112SNB G BM1W<0.11                                                              
+112SN  L 3494.00   21  2+:6+                                                    
+112SNX L XREF=E                                                                 
+112SN cL J$1246.6|g to 4+                                                       
+112SN  G 1246.6    2 100                                                        
+112SN  L 3499.21   165-                0.04 PS   +4-2                           
+112SNX L XREF=EM(3502)N(3510)                                                   
+112SN cL J$L(p,t)=5; 979.3|g to 4+, 1144.2|g to 3-                              
+112SN  G 979.3     2 54      5 [E1]                    5.69E-4                  
+112SNB G BE1W=0.0027 +14-27                                                     
+112SNS G  KC=0.000497 7$LC=5.83E-5 9$MC=1.134E-5 16                             
+112SNS G  NC=2.13E-6 3$OC=1.85E-7 3                                             
+112SN  G 1144.2    2 100     5 [E2]                    9.63E-4                  
+112SNB G BE2W=1.5E+2 +8-15                                                      
+112SNS G  KC=0.000835 12$LC=0.0001014 15$MC=1.98E-5 3                           
+112SNS G  NC=3.72E-6 6$OC=3.20E-7 5$IPC=1.96E-6 3                               
+112SN  L 3520.45   20 1:4+                                                      
+112SNX L XREF=EM(3522)                                                          
+112SN  G 1166.3    2                                                            
+112SN  G 1369.0    6                                                            
+112SN  L 3524.54   18 2+               0.12 PS   GT                             
+112SNX L XREF=BE                                                                
+112SN cL J$1277.7|g E2 to 4+; 3524.2|g E2 to 0+                                 
+112SN  G 431.9     6 9.2     14[M1]                    0.01136              a   
+112SN2 G FLAG=e                                                                 
+112SNS G  KC=0.00987 15$LC=0.001208 18$MC=0.000236 4                            
+112SNS G  NC=4.45E-5 7$OC=3.90E-6 6                                             
+112SNB G BM1W<0.16                                                              
+112SN  G 1277.7    5 22      8 E2                      7.82E-4              a   
+112SN2 G FLAG=e                                                                 
+112SN cG M$From {+112}Sn(n,n'|g) in 2005Ku28                                    
+112SNS G  KC=0.000664 10$LC=8.00E-5 12$MC=1.560E-5 22                           
+112SNS G  NC=2.93E-6 5$OC=2.53E-7 4$IPC=1.89E-5 3                               
+112SNB G BE2W<7.2                                                               
+112SN  G 2267.80   20100     8 M1(+E2)   -0.5    GE    6.88E-411            a   
+112SN2 G FLAG=e                                                                 
+112SN cG M,MR$From {+112}Sn(n,n'|g) in 2005Ku28                                 
+112SNS G  KC=0.000230 8$LC=2.69E-5 9$MC=5.24E-6 18                              
+112SNS G  NC=9.9E-7 4$OC=8.7E-8 4$IPC=0.000425 7                                
+112SNB G BM1W<0.0096?                                                           
+112SN  G 3524.2    10          E2                      1.10E-3                  
+112SNS G  KC=0.0001048 15$LC=1.213E-5 17$MC=2.36E-6 4                           
+112SNS G  NC=4.45E-7 7$OC=3.93E-8 6$IPC=0.000981 14                             
+112SN  L 3530.15   14 2+,3,4+                                                   
+112SNX L XREF=BEM(3532)                                                         
+112SN cL J$380.8|g to 4+, 1379.6|g to 2+                                        
+112SN  G 380.8     2                                                            
+112SN  G 1009.4    4 84      19                                             a   
+112SN2 G FLAG=e                                                                 
+112SN  G 1282.4    4 65      13                                             a   
+112SN2 G FLAG=e                                                                 
+112SN  G 1379.6    2 100     5                                              a   
+112SN2 G FLAG=e                                                                 
+112SN  L 3553.7     3 (3)-             0.17 PS   +11-6                          
+112SNX L XREF=BEN                                                               
+112SN cL J$L(p,t)=3; 2297.0|g to 2+                                             
+112SN  G 2297.0    3 100       [E1]                    9.40E-4                  
+112SNB G BE1W=0.00014 +5-10                                                     
+112SNS G  KC=0.0001179 17$LC=1.359E-5 19$MC=2.64E-6 4                           
+112SNS G  NC=4.97E-7 7$OC=4.37E-8 7$IPC=0.000806 12                             
+112SN  L 3557.29   12                  0.3 PS    GT                             
+112SNX L XREF=EM(3558)                                                          
+112SN  G 1036.1    4 16.3    23                                                 
+112SN  G 1203.1    1 100.0   23                                                 
+112SN  L 3570        (0)+                                                       
+112SNX L XREF=O                                                                 
+112SN cL J$L({+3}He,n)=0                                                        
+112SN  L 3580       5 (4)+                                                      
+112SNX L XREF=M                                                                 
+112SN cL J$L(p,p')=4                                                            
+112SN  L 3586       3 (2)+                                                      
+112SNX L XREF=N                                                                 
+112SN cL J$L(p,t)=2                                                             
+112SN  L 3604.90   12                                                           
+112SNX L XREF=E                                                                 
+112SN  G 1357.5     1100                                                        
+112SN  L 3610.97   11                  0.8 PS    +4-2                           
+112SNX L XREF=EM(3611)                                                          
+112SN  G 1460.1     1                                                           
+112SN  G 2354.1     5100                                                        
+112SN  L 3624       3 (2+,4+)                                                   
+112SNX L XREF=MN                                                                
+112SN cL J$L(p,p')=(2) in 1980Bl01 supports (2+), while L(p,t)=4 in (2012Gu10)  
+112SN2cL supports 4(+)                                                          
+112SN  L 3631.03   24                                                           
+112SNX L XREF=E                                                                 
+112SN  G 552.5      2100                                                        
+112SN  L 3654.34   152+                                                         
+112SNX L XREF=EMN(3663)                                                         
+112SN cL J$L(p,p')=2; 2397.6|g M1+E2 to 2+                                      
+112SN  G 2397.6    2           M1+E2     0.52    6     7.28E-4                  
+112SNS G  KC=0.000213 3$LC=2.49E-5 4$MC=4.84E-6 7                               
+112SNS G  NC=9.13E-7 13$OC=8.08E-8 12$IPC=0.000485 7                            
+112SN  G 3654.3    2           E2                      1.14E-3                  
+112SNS G  KC=9.87E-5 14$LC=1.142E-5 16$MC=2.22E-6 4                             
+112SNS G  NC=4.19E-7 6$OC=3.70E-8 6$IPC=0.001032 15                             
+112SN cG M$assigned by the evaluators; M1+E2 with |d=0.48 {I6} in               
+112SN2cG {+112}Sn(n,n'|g) (2005Ku28) is not consistent with the J|p differences 
+112SN  L 3693.68   22(9)-                47 PS   7                              
+112SNX L XREF=FGHIM(3695)                                                       
+112SN cL J$263.03|g M1+E2 to (8)-                                               
+112SN cL T$From recoil-distance measurements in {+100}Mo({+16}O,4n|g)           
+112SN2cL (1986Ka25); Other: 0.69 ps {I14} in {+103}Rh({+12}C,p2n|g) (1990ViZW)  
+112SN  G 263.03    7 100       M1+E2     0.13    1     0.0404               b   
+112SN cG MR$Also 0.12 {I16} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)              
+112SNB G BM1W=0.024 4$BE2W=4.8 11                                               
+112SNS G  KC=0.0350 5$LC=0.00438 7$MC=0.000859 13                               
+112SNS G  NC=0.0001615 23$OC=1.401E-5 20                                        
+112SN  L 3726.22   21                                                           
+112SNX L XREF=EM(3737)N(3715)                                                   
+112SN  G 2469.5    2 100                                                        
+112SN  L 3754.4     3                                                           
+112SNX L XREF=EM(3756)                                                          
+112SN  G 1507.0    3 100                                                        
+112SN  L 3782.9     3                                                           
+112SNX L XREF=EM(3773)N(3776)                                                   
+112SN  G 1632.0    3 100                                                        
+112SN  L 3813.78   10   (2+,3+,4+)                                              
+112SNX L XREF=BM(3815)N(3818)                                                   
+112SN cL J$1566.4|g to 4+; direct population in {+112}Sb |e decay (J|p=(3+))    
+112SN  G 283.8     2 2.59    24                                             a   
+112SN2 G FLAG=e                                                                 
+112SN  G 900.8     5 17      3                                              a   
+112SN2 G FLAG=e                                                                 
+112SN  G 1029.6    7 43      3                                              a   
+112SN2 G FLAG=e                                                                 
+112SN  G 1293.6    7 6       3                                              a   
+112SN2 G FLAG=e                                                                 
+112SN  G 1459.5    1 27.1    12                                             a   
+112SN2 G FLAG=e                                                                 
+112SN  G 1566.4    2 100.0   24                                             a   
+112SN2 G FLAG=e                                                                 
+112SN  L 3832      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 3857      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 3877      7                                                            
+112SNX L XREF=MN(3874)                                                          
+112SN  L 3914      7                                                            
+112SNX L XREF=MN(3930)                                                          
+112SN  L 3988      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4031      7                                                            
+112SNX L XREF=MN(4048)                                                          
+112SN  L 4054      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4077.59   148+                1.0 PS    4                          L   
+112SNX L XREF=FGHIM(4078)N(4091)                                                
+112SN cL J$663.66|g E2 to 6+; band member                                       
+112SN cL T$from DSAM in {+103}Rh({+12}C,p2n|g) (1990ViZW)                       
+112SN  G 384                                                                    
+112SN cG E$from {+98}Mo({+16}O,2n|g) (2003Wo15)                                 
+112SN  G 663.66    8 100       E2                      0.00343              b   
+112SNS G  KC=0.00296 5$LC=0.000381 6$MC=7.47E-5 11                              
+112SNS G  NC=1.396E-5 20$OC=1.146E-6 16                                         
+112SN cG M$|a(K)exp=0.0027 {I4} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.375    
+112SN2cG {I9} and A{-4}=-0.11 {I2} in {+110}Cd(|a,2n|g) (1979Br07); DCO=0.93    
+112SN3cG {I9} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45); P|g=0.65 {I6} in          
+112SN4cG {+110}Cd(|a,2n|g) (1979Br07) and +0.11 {I4} in                         
+112SNxcG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45);                                   
+112SNB G BE2W=1.4E+2 6                                                          
+112SN  L 4105      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4141.3    5  (1-)                                                      
+112SNX L XREF=DM(4138)                                                          
+112SN cL J$4141.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 4141.2    5  100      (E1)                    1.78E-3              d   
+112SNS G  KC=5.14E-5 8$LC=5.88E-6 9$MC=1.141E-6 16                              
+112SNS G  NC=2.15E-7 3$OC=1.90E-8 3$IPC=0.001717 24                             
+112SN  L 4151      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4162.3    5  (1-)                                                      
+112SNX L XREF=DN(4164)                                                          
+112SN cL J$4162.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.8|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 4162.2    5  100      (E1)                    1.78E-3              d   
+112SNS G  KC=5.11E-5 8$LC=5.84E-6 9$MC=1.134E-6 16                              
+112SNS G  NC=2.14E-7 3$OC=1.89E-8 3$IPC=0.001725 25                             
+112SN  L 4171      7   4(+)                                                     
+112SNX L XREF=M                                                                 
+112SN cL J$L(p,p')=4                                                            
+112SN  L 4193      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4222      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4239      7                                                            
+112SNX L XREF=MN(4241)                                                          
+112SN  L 4279      7                                                            
+112SNX L XREF=MN(4287)                                                          
+112SN  L 4330.4    5  (1-)                                                      
+112SNX L XREF=DM(4325)N(4316)                                                   
+112SN cL J$4330.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.5|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 4330.3    5   100     (E1)                    0.00184              d   
+112SNS G  KC=4.85E-5 7$LC=5.54E-6 8$MC=1.075E-6 15                              
+112SNS G  NC=2.03E-7 3$OC=1.79E-8 3$IPC=0.00179 3                               
+112SN  L 4364      7                                                            
+112SNX L XREF=MN(4363)                                                          
+112SN  L 4402      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4437      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4461      7                                                            
+112SNX L XREF=MN(4455)                                                          
+112SN  L 4502      7                                                            
+112SNX L XREF=MN(4486)                                                          
+112SN  L 4544      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4582.61   25(10)-               0.24 PS 7                              
+112SNX L XREF=FGHIM(4571)N(4576)                                                
+112SN cL J$1151.94|g E2 to (8)-                                                 
+112SN cL T$from DSAM in {+103}Rh({+12}C,p2n|g) (1990ViZW). Other: <21 ps from   
+112SN2cL RDDS in {+100}Mo({+16}O,4n|g) (1986Ka25);                              
+112SN  G 1151.94   11100       E2                      9.49E-4              b   
+112SN cG M$|a(K)exp=0.0007 {I3} in {+110}Cd(|a,2n|g) (1980Va13); A{-2}=0.344    
+112SN2cG {I15} and A{-4}=-0.14 {I3} in {+110}Cd(|a,2n|g) (1980Va13); P|g=0.72   
+112SNxcG {I8} in {+110}Cd(|a,2n|g) (1980Va13);                                  
+112SNS G  KC=0.000824 12$LC=9.99E-5 14$MC=1.95E-5 3                             
+112SNS G  NC=3.66E-6 6$OC=3.15E-7 5$IPC=2.42E-6 4                               
+112SNB G BE2W=36 11                                                             
+112SN  L 4610      7                                                            
+112SNX L XREF=MN(4629)                                                          
+112SN  L 4681.0     3(10+)                                                      
+112SNX L XREF=H(4680.2)IM(4685)                                                 
+112SN cL J$603.1|g to 8+, 987.4|g to (9)-                                       
+112SN  G 603.1      525      11                                                 
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN  G 987.4      3100     22                                                 
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN  L 4726.5    5  (1-)                                                      
+112SNX L XREF=DM(4738)N(4724)                                                   
+112SN cL J$4726.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.3|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 4726.4    5   100     (E1)                    0.00197              d   
+112SNS G  KC=4.32E-5 6$LC=4.94E-6 7$MC=9.59E-7 14                               
+112SNS G  NC=1.81E-7 3$OC=1.596E-8 23$IPC=0.00193 3                             
+112SN  L 4757      7                                                            
+112SNX L XREF=MN(4740)                                                          
+112SN  L 4794      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4819.37   2210+               0.14 PS   7                          L   
+112SNX L XREF=FGHIM(4825)                                                       
+112SN cL J$741.8|g E2 to 8+; band member                                        
+112SN cL T$from DSAM in {+103}Rh({+12}C,p2n|g) (1990ViZW)                       
+112SN  G 741.8     2 100       E2                      0.00259              b   
+112SN cG M$|a(K)exp=0.0025 {I4} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.366    
+112SN2cG {I12} and A{-4}=-0.11 {I2} in {+110}Cd(|a,2n|g) (1979Br07); DCO=1.04   
+112SN3cG {I10} for 741.7|g+744.6|g in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45);      
+112SN4cG P|g=0.53 {I5} in {+110}Cd(|a,2n|g) (1979Br07) and +0.25 {I11} in       
+112SNxcG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                                    
+112SNB G BE2W=6.E+2 3                                                           
+112SNS G  KC=0.00224 4$LC=0.000284 4$MC=5.56E-5 8                               
+112SNS G  NC=1.041E-5 15$OC=8.65E-7 13                                          
+112SN  L 4837.4    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$4837.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 4837.3    5   100     (E1)                    0.00201              d   
+112SNS G  KC=4.20E-5 6$LC=4.79E-6 7$MC=9.30E-7 13                               
+112SNS G  NC=1.754E-7 25$OC=1.549E-8 22$IPC=0.00196 3                           
+112SN  L 4850      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4887      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 4928.9     4(11)-               21 PS   LT                             
+112SNX L XREF=FHIM                                                              
+112SN cL J$1235.3|g E2 to (9)-, 345.9|g M1+E2 to (10)-                          
+112SN cL T$from recoil distance method in {+100}Mo({+16}O,4n|g) (1986Ka25)      
+112SN  G 345.9     8 8.3     LTM1+E2                   0.0198                   
+112SNS G  KC=0.0172 3$LC=0.00212 4$MC=0.000415 7                                
+112SNS G  NC=7.82E-5 12$OC=6.84E-6 11                                           
+112SN cG E,RI,M$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                        
+112SN  G 1235.3    3 100     25E2                      8.30E-4              b   
+112SN cG M$|a(K)exp=0.0007 {I2} in {+110}Cd(|a,2n|g) (1980Va13); A{-2}=0.34     
+112SN2cG {I3} and A{-4}=-0.13 {I3} in {+110}Cd(|a,2n|g) (1980Va13); P|g=0.72    
+112SNxcG {I8} in {+110}Cd(|a,2n|g) (1980Va13);                                  
+112SNB G BE2W>0.28                                                              
+112SNS G  KC=0.000712 10$LC=8.59E-5 12$MC=1.676E-5 24                           
+112SNS G  NC=3.15E-6 5$OC=2.72E-7 4$IPC=1.182E-5 18                             
+112SN  L 4957      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 5057.1    5  (1-)                                                      
+112SNX L XREF=DM(5059)                                                          
+112SN cL J$5057.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.0|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 5057.0    5  100      (E1)                    0.00207              d   
+112SNS G  KC=3.96E-5 6$LC=4.53E-6 7$MC=8.78E-7 13                               
+112SNS G  NC=1.656E-7 24$OC=1.462E-8 21$IPC=0.00203 3                           
+112SN  L 5089      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 5128.2    5  (1-)                                                      
+112SNX L XREF=DM(5116)                                                          
+112SN cL J$5128.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=4.2|*10{+-5} {I4}                                               
+112SN  G 5128.1    5  100      (E1)                    0.00209              d   
+112SNS G  KC=3.89E-5 6$LC=4.45E-6 7$MC=8.62E-7 12                               
+112SNS G  NC=1.627E-7 23$OC=1.436E-8 21$IPC=0.00205 3                           
+112SN  L 5144      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 5181      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 5246.2    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5246.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.3|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 5246.1    5  100      (E1)                    0.00213              d   
+112SNS G  KC=3.78E-5 6$LC=4.32E-6 6$MC=8.38E-7 12                               
+112SNS G  NC=1.580E-7 23$OC=1.395E-8 20$IPC=0.00208 3                           
+112SN  L 5270      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 5355      7                                                            
+112SNX L XREF=M                                                                 
+112SN  L 5480.5    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5480.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.2|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 5480.4    5  100      (E1)                    0.00220              d   
+112SNS G  KC=3.58E-5 5$LC=4.08E-6 6$MC=7.92E-7 11                               
+112SNS G  NC=1.494E-7 21$OC=1.320E-8 19$IPC=0.00216 3                           
+112SN  L 5502.6    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5502.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.5|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 5502.5    5  100      (E1)                    0.00220              d   
+112SNS G  KC=3.56E-5 5$LC=4.06E-6 6$MC=7.88E-7 11                               
+112SNS G  NC=1.487E-7 21$OC=1.313E-8 19$IPC=0.00216 3                           
+112SN  L 5564.3     3 12+              0.66 PS   14                         A   
+112SNX L XREF=FGHI                                                              
+112SN cL J$745.0|g E2 to 10+; band member                                       
+112SN cL T$from DSAM in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45). Other: <0.14 ps in 
+112SN2cL {+103}Rh({+12}C,p2n|g) (1990ViZW)                                      
+112SN  G 745.0     2 100     19E2                      0.00256              b   
+112SN cG M$|a(K)exp=0.0024 {I6} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.27     
+112SN2cG {I4} and A{-4}=-0.05 {I6} in {+110}Cd(|a,2n|g) (1979Br07); DCO=1.04    
+112SN3cG {I10} for 741.7+744.6 in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45); P|g=0.61 
+112SN4cG {I12} in {+110}Cd(|a,2n|g) (1979Br07) and +0.27 {I11} in               
+112SNxcG {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                                    
+112SNB G BE2W=8.E+1 3                                                           
+112SNS G  KC=0.00221 4$LC=0.000281 4$MC=5.50E-5 8                               
+112SNS G  NC=1.029E-5 15$OC=8.56E-7 12                                          
+112SN  G 883.2     3 40      11[E2]                    1.70E-3                  
+112SNS G  KC=0.001478 21$LC=0.000184 3$MC=3.60E-5 5                             
+112SNS G  NC=6.74E-6 10$OC=5.69E-7 8                                            
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SNB G BE2W=14 6                                                              
+112SN  L 5593.7    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5593.6|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 5593.6    5  100      (E1)                    0.00223              d   
+112SNS G  KC=3.49E-5 5$LC=3.98E-6 6$MC=7.72E-7 11                               
+112SNS G  NC=1.456E-7 21$OC=1.286E-8 18$IPC=0.00219 3                           
+112SN  L 5617.6    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5617.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.6|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 5617.4    5   100     (E1)                    0.00223              d   
+112SNS G  KC=3.47E-5 5$LC=3.96E-6 6$MC=7.68E-7 11                               
+112SNS G  NC=1.448E-7 21$OC=1.279E-8 18$IPC=0.00219 3                           
+112SN  L 5649.1    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5648.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 5648.9    5   100     (E1)                    0.00224              d   
+112SNS G  KC=3.45E-5 5$LC=3.93E-6 6$MC=7.62E-7 11                               
+112SNS G  NC=1.438E-7 21$OC=1.270E-8 18$IPC=0.00220 3                           
+112SN  L 5666.4    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5666.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.4|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 5666.2    5   100     (E1)                    0.00225              d   
+112SNS G  KC=3.43E-5 5$LC=3.91E-6 6$MC=7.59E-7 11                               
+112SNS G  NC=1.432E-7 20$OC=1.265E-8 18$IPC=0.00221 3                           
+112SN  L 5684.59   2412+                                                        
+112SNX L XREF=FHI                                                               
+112SN cL J$865.2|g E2 to 10+                                                    
+112SN  G 865.21    9 100       E2                      0.00179              b   
+112SNS G  KC=0.001550 22$LC=0.000193 3$MC=3.78E-5 6                             
+112SNS G  NC=7.08E-6 10$OC=5.97E-7 9                                            
+112SN cG M$|a(K)exp=0.0024 {I7} in {+110}Cd(|a,2n|g) (1979Br07); A{-2}=0.40     
+112SN2cG {I6} and A{-4}=-0.12 {I10} in {+110}Cd(|a,2n|g) (1979Br07); P|g=0.7    
+112SNxcG {I2} in {+110}Cd(|a,2n|g) (1979Br07);                                  
+112SN  G 1004                                                                   
+112SN cG E$from {+100}Mo({+16}O,4n|g) (1988Ha20)                                
+112SN  L 5699.9    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5699.7|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.5|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 5699.7    5   100     (E1)                    0.00225              d   
+112SNS G  KC=3.41E-5 5$LC=3.89E-6 6$MC=7.54E-7 11                               
+112SNS G  NC=1.422E-7 20$OC=1.256E-8 18$IPC=0.00221 4                           
+112SN  L 5748.6    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5748.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.0|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 5748.4    5   100     (E1)                    0.00226              d   
+112SNS G  KC=3.37E-5 5$LC=3.84E-6 6$MC=7.46E-7 11                               
+112SNS G  NC=1.407E-7 20$OC=1.243E-8 18$IPC=0.00223 4                           
+112SN  L 5812.7    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5812.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.5|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 5812.5    5   100     (E1)                    0.00228              d   
+112SNS G  KC=3.32E-5 5$LC=3.79E-6 6$MC=7.35E-7 11                               
+112SNS G  NC=1.387E-7 20$OC=1.225E-8 18$IPC=0.00224 4                           
+112SN  L 5860.7    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5860.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.3|*10{+-5} {I4} (2014Oz03)                                    
+112SN  G 5860.5    5   100     (E1)                    0.00230              d   
+112SNS G  KC=3.29E-5 5$LC=3.75E-6 6$MC=7.28E-7 11                               
+112SNS G  NC=1.373E-7 20$OC=1.213E-8 17$IPC=0.00226 4                           
+112SN  L 5884.0    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5883.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.4|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 5883.8    5   100     (E1)                    0.00230              d   
+112SNS G  KC=3.27E-5 5$LC=3.73E-6 6$MC=7.24E-7 11                               
+112SNS G  NC=1.366E-7 20$OC=1.207E-8 17$IPC=0.00226 4                           
+112SN  L 5924.1    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5923.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.5|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 5923.9    5   100     (E1)                    0.00231              d   
+112SNS G  KC=3.25E-5 5$LC=3.70E-6 6$MC=7.18E-7 10                               
+112SNS G  NC=1.354E-7 19$OC=1.197E-8 17$IPC=0.00228 4                           
+112SN  L 5976.6    5  (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$5976.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.7|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 5976.4    5   100     (E1)                    0.00233              d   
+112SNS G  KC=3.21E-5 5$LC=3.66E-6 6$MC=7.10E-7 10                               
+112SNS G  NC=1.340E-7 19$OC=1.184E-8 17$IPC=0.00229 4                           
+112SN  L 6005.0    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6004.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.2|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6004.8    10  100     (E1)                                         d   
+112SN  L 6059.8    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6059.6|g (E1) to 0+                                                  
+112SN cL $B(E1)=6.1|*10{+-5} {I6} (2014Oz03)                                    
+112SN  G 6059.6    10  100     (E1)                                         d   
+112SN  L 6080.9    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6080.7|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.9|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6080.7    10  100     (E1)                                         d   
+112SN  L 6096.9    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6096.7|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.6|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6096.7    10  100     (E1)                                         d   
+112SN  L 6129.0    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6128.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.4|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6128.8    10  100     (E1)                                         d   
+112SN  L 6150.4    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6150.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.4|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6150.2    10  100     (E1)                                         d   
+112SN  L 6168.3    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6168.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.2|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6168.1    10  100     (E1)                                         d   
+112SN  L 6198.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6198.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.2|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6198.5    10  100     (E1)                                         d   
+112SN  L 6224.3    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6224.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.7|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6224.1    10  100     (E1)                                         d   
+112SN  L 6246.4    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6246.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.8|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6246.2    10  100     (E1)                                         d   
+112SN  L 6259.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6259.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.5|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6258.9    10  100     (E1)                                         d   
+112SN  L 6272.6    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6272.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.5|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6272.4    10  100     (E1)                                         d   
+112SN  L 6313.3    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6313.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.9|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6313.1    10  100     (E1)                                         d   
+112SN  L 6348.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6348.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.5|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6348.5    10  100     (E1)                                         d   
+112SN  L 6362.9     314+               1.2 PS     3                         A   
+112SNX L XREF=HI                                                                
+112SN cL J$798.6|g E2 to 12+; band member                                       
+112SN cL T$from DSAM in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                     
+112SN  G 678.1     8  4      LT[E2]                    0.00324                  
+112SNS G  KC=0.00280 4$LC=0.000360 6$MC=7.05E-5 11                              
+112SNS G  NC=1.318E-5 19$OC=1.084E-6 16                                         
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SNB G BE2W=2.0 +21-20                                                        
+112SN  G 798.6     1  100    16E2                      0.00216                  
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN cG M$DCO=0.99 {I12} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45);               
+112SN2cG Pol{-DCO}=+0.08 {I3} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)            
+112SNB G BE2W=44 15                                                             
+112SNS G  KC=0.00187 3$LC=0.000235 4$MC=4.61E-5 7                               
+112SNS G  NC=8.63E-6 12$OC=7.22E-7 11                                           
+112SN  L 6388.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6387.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=7.3|*10{+-5} {I5} (2014Oz03), 5.17|*10{+-5} {I2} (2008BoZK)     
+112SN  G 6387.9    10 100      (E1)                                         d   
+112SN cG E$Other: 6384.9 keV {I4} in 2008BoZK                                   
+112SN  L 6398.3     5(13-)                                                  B   
+112SNX L XREF=H(6399.5)I                                                        
+112SN cL J$1469.4|g to (11)-; band member                                       
+112SN  G 1469.4     4100                                                        
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45). 1471 in                 
+112SN2cG {+100}Mo({+16}O,4n|g) (1988Ha20)                                       
+112SN  L 6404.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6403.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=18.4|*10{+-5} {I13} (2014Oz03), B(E1)=8.47|*10{+-5} {I3}        
+112SNxcL (2008BoZK)                                                             
+112SN  G 6403.9    10 100      (E1)                                         d   
+112SN cG E$Other:6402.0 keV {I2} in 2008BoZK                                    
+112SN  L 6428.6    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6428.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.2|*10{+-5} {I2} (2014Oz03), B(E1)=4.89|*10{+-5} {I2}          
+112SNxcL (2008BoZK)                                                             
+112SN  G 6428.4    10 100      (E1)                                         d   
+112SN cG E$Other: 6431.6 keV 8 in 2008BoZK                                      
+112SN  L 6450.0    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6449.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.2|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6449.8    10 100      (E1)                                         d   
+112SN  L 6476.3    15 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6476.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=7.46|*10{+-5} {I4} (2008BoZK)                                   
+112SN  G 6476.1    15 100      (E1)                                         d   
+112SN  L 6520.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6520.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.2|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6520.5    10 100      (E1)                                         d   
+112SN  L 6550.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6549.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.6|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 6549.9    10 100      (E1)                                         d   
+112SN  L 6601.0    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6600.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.7|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6600.8    10 100      (E1)                                         d   
+112SN  L 6679.9    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6679.7|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 6679.7    10 100      (E1)                                         d   
+112SN  L 6706.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6706.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.8|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6706.5    10 100      (E1)                                         d   
+112SN  L 6715.0    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6714.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.5|*10{+-5} {I6} (2014Oz03), 3.03|*10{+-5} {I1} (2008BoZK)     
+112SN  G 6714.8    10 100      (E1)                                         d   
+112SN cG E$Other: 6718.7 keV {I13} in 2008BoZK                                  
+112SN  L 6731.9    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6731.7|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.7|*10{+-5} {I5} (2014Oz03), 2.66|*10{+-5} {I1} (2008BoZK)     
+112SN  G 6731.7    10 100      (E1)                                         d   
+112SN cG E$Other: 6735.2 keV {I14} in 2008BoZK                                  
+112SN  L 6795.5    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6795.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.7|*10{+-5} {I2} (2014Oz03), 2.01|*10{+-5} {I1} (2008BoZK)     
+112SN  G 6795.3    10 100      (E1)                                         d   
+112SN cG E$Other: 6791.6 keV {I23} in 2008BoZK                                  
+112SN  L 6818.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6818.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.3|*10{+-5} {I2} (2014Oz03), 3.16|*10{+-5} {I1} (2008BoZK)     
+112SN  G 6818.5    10 100      (E1)                                         d   
+112SN cG E$6819.4 keV {I11} in 2008BoZK                                         
+112SN  L 6824.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6824.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.7|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6824.0    10 100      (E1)                                         d   
+112SN  L 6855.9    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6855.7|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.5|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6855.7    10 100      (E1)                                         d   
+112SN  L 6871.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6871.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.7|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 6871.0    10 100      (E1)                                         d   
+112SN  L 6941.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6941.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.1|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6941.0    10 100      (E1)                                         d   
+112SN  L 6961.5    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6961.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.1|*10{+-5} {I5} (2014Oz03)                                    
+112SN  G 6961.3    10 100      (E1)                                         d   
+112SN  L 6982.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$6982.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.1|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 6982.5    10 100      (E1)                                         d   
+112SN  L 7009.8    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7009.6|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.5|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 7009.6    10 100      (E1)                                         d   
+112SN  L 7018.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7018.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 7018.5    10 100      (E1)                                         d   
+112SN  L 7025.8    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7025.6|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I1} (2014Oz03)                                    
+112SN  G 7025.6    10 100      (E1)                                         d   
+112SN  L 7043.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7042.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.0|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7042.9    10 100      (E1)                                         d   
+112SN  L 7092.8    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7092.6|g (E1) to 0+                                                  
+112SN cL $B(E1)=4.2|*10{+-5} {I4} (2014Oz03)                                    
+112SN  G 7092.6    10 100      (E1)                                         d   
+112SN  L 7167.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7167.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.8|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7167.0    10 100      (E1)                                         d   
+112SN  L 7198.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7198.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=4.4|*10{+-5} {I6} (2014Oz03), 2.66|*10{+-5} {I1} (2008BoZK)     
+112SN  G 7198.0    10 100      (E1)                                         d   
+112SN cG E$Other: 7199.6 keV {I9} in 2008BoZK                                   
+112SN  L 7207.1     5(15-)                                                  B   
+112SNX L XREF=H(7208.5)I                                                        
+112SN cL J$808.8|g to (13-); band member                                        
+112SN  G 808.8      3100                                                        
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN  L 7208.1    10 1-                                                        
+112SNX L XREF=D                                                                 
+112SN cL J$7207.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.18|*10{+-5} {I1} (2008BoZK)                                   
+112SN  G 7207.9    10  100     (E1)                                         d   
+112SN  L 7214.2     316+               0.55 PS   10                         A   
+112SNX L XREF=H(7213.0)I                                                        
+112SN cL J$851.3|g E2 to 14+; band member                                       
+112SN cL T$from DSAM in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                     
+112SN  G 851.3     1 100       E2                      0.00186                  
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN cG M$DCO=1.05 {I13} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45);               
+112SN2cG Pol{-DCO}=+0.24 {I14} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)           
+112SNB G BE2W=72 13                                                             
+112SNS G  KC=0.001609 23$LC=0.000201 3$MC=3.93E-5 6                             
+112SNS G  NC=7.37E-6 11$OC=6.20E-7 9                                            
+112SN  L 7217.8    11 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7217.6|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.89|*10{+-5} {I1} (2008BoZK)                                   
+112SN  G 7217.6    11 100      (E1)                                         d   
+112SN  L 7228.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7227.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.2|*10{+-5} {I2} (2014Oz03), 2.01|*10{+-5} {I1} (2008BoZK)     
+112SN  G 7227.8    10 100      (E1)                                         d   
+112SN cG E$7229.3 keV {I14} in 2008BoZK                                         
+112SN  L 7248.4    14 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7248.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.01|*10{+-5} {I1} (2008BoZK)                                   
+112SN  G 7248.1    14 100      (E1)                                         d   
+112SN  L 7311.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7310.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.0|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 7310.8    10 100      (E1)                                         d   
+112SN  L 7389.9    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7389.6|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.3|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 7389.6    10 100      (E1)                                         d   
+112SN  L 7438.6    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7438.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.9|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7438.3    10 100      (E1)                                         d   
+112SN  L 7444.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7443.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.6|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7443.8    10 100      (E1)                                         d   
+112SN  L 7468.3    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7468.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.3|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7468.0    10 100      (E1)                                         d   
+112SN  L 7531.3    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7531.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.9|*10{+-5} {I4} (2014Oz03)                                    
+112SN  G 7531.0    10 100      (E1)                                         d   
+112SN  L 7537.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7536.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=5.2|*10{+-5} {I6} (2014Oz03)                                    
+112SN  G 7536.9    10 100      (E1)                                         d   
+112SN  L 7559.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7558.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.1|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7558.8    10 100      (E1)                                         d   
+112SN  L 7594.5    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7594.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.3|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 7594.2    10 100      (E1)                                         d   
+112SN  L 7615.3    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7615.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.7|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7615.0    10 100      (E1)                                         d   
+112SN  L 7859.5    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7859.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.2|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 7859.2    10 100      (E1)                                         d   
+112SN  L 7904.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7904.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.1|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 7904.4    10 100      (E1)                                         d   
+112SN  L 7936.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7936.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.6|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 7936.4    10 100      (E1)                                         d   
+112SN  L 7988.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$7987.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=3.4|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 7987.9    10 100      (E1)                                         d   
+112SN  L 8020.7    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8020.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.3|*10{+-5} {I4} (2014Oz03)                                    
+112SN  G 8020.4    10 100      (E1)                                         d   
+112SN  L 8051.6    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8051.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.2|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 8051.3    10 100      (E1)                                         d   
+112SN  L 8069.6    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8069.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.6|*10{+-5} {I4} (2014Oz03)                                    
+112SN  G 8069.3    10 100      (E1)                                         d   
+112SN  L 8083.0     5(17-)                                                  B   
+112SNX L XREF=H(8089.0)I                                                        
+112SN cL J$875.9|g to (15-); band member                                        
+112SN  G 868.8      4 38     15                                                 
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN  G 875.9      3100     30                                                 
+112SNF G FL=7207.1                                                              
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN  L 8147.1     418+               0.34 PS   +8-10                      A   
+112SNX L XREF=H(8145.0)I                                                        
+112SN cL J$932.9|g E2 to 16+; band member                                       
+112SN cL T$from DSAM in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                     
+112SN  G 932.9     2 100       E2                      1.50E-3                  
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN cG M$DCO=1.06 {I19} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45);               
+112SN2cG Pol{-DCO}=+0.22 {I14} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)           
+112SNB G BE2W=73 +22-18                                                         
+112SNS G  KC=0.001304 19$LC=0.0001613 23$MC=3.15E-5 5                           
+112SNS G  NC=5.91E-6 9$OC=5.01E-7 7                                             
+112SN  L 8194.5    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8194.2|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.7|*10{+-5} {I4} (2014Oz03)                                    
+112SN  G 8194.2    10 100      (E1)                                         d   
+112SN  L 8218.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8217.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.4|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 8217.9    10 100      (E1)                                         d   
+112SN  L 8253.6    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8253.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.9|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 8253.3    10 100      (E1)                                         d   
+112SN  L 8448.6    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8448.3|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.7|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 8448.3    10 100      (E1)                                         d   
+112SN  L 8568.9    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8568.5|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.8|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 8568.5    10 100      (E1)                                         d   
+112SN  L 8600.4    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8600.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.5|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 8600.0    10 100      (E1)                                         d   
+112SN  L 8750.2    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8749.8|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.1|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 8749.8    10 100      (E1)                                         d   
+112SN  L 8823.4    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$8823.0|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.2|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 8823.0    10 100      (E1)                                         d   
+112SN  L 9045.2     6(19-)                                                  B   
+112SNX L XREF=H(9051)I                                                          
+112SN cL J$962.2|g to (17-); band member                                        
+112SN  G 962.2      4100                                                        
+112SN cG E,RI,M$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                        
+112SN  L 9050.5    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$9050.1|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.6|*10{+-5} {I4} (2014Oz03)                                    
+112SN  G 9050.1    10 100      (E1)                                         d   
+112SN  L 9095.3    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$9094.9|g (E1) to 0+                                                  
+112SN cL $B(E1)=1.0|*10{+-5} {I2} (2014Oz03)                                    
+112SN  G 9094.9    10 100      (E1)                                         d   
+112SN  L 9150.1    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$9149.7|g (E1) to 0+                                                  
+112SN cL $B(E1)=0.9|*10{+-5} {I3} (2014Oz03)                                    
+112SN  G 9149.7    10 100      (E1)                                         d   
+112SN  L 9186.6     4 20+              0.22 PS    6                         A   
+112SNX L XREF=H(9184)I                                                          
+112SN cL J$1039.5|g E2 to 18+; band member                                      
+112SN cL T$from DSAM in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                     
+112SN  G 1039.5    2 100       E2                      1.18E-3                  
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN cG M$DCO=1.00 {I21} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                
+112SNB G BE2W=66 18                                                             
+112SNS G  KC=0.001026 15$LC=0.0001256 18$MC=2.45E-5 4                           
+112SNS G  NC=4.61E-6 7$OC=3.93E-7 6                                             
+112SN  L 9329.8    10 (1-)                                                      
+112SNX L XREF=D                                                                 
+112SN cL J$9329.4|g (E1) to 0+                                                  
+112SN cL $B(E1)=2.1|*10{+-5} {I5} (2014Oz03)                                    
+112SN  G 9329.4    10  100     (E1)                                         d   
+112SN  L 10076.2   12(21-)                                                  B   
+112SNX L XREF=H(10082)I                                                         
+112SN cL J$1031.0|g to (19-); band member                                       
+112SN  G 1031.0    10 100                                                       
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN  L 10335.7    5 22+              0.14 PS    4                         A   
+112SNX L XREF=H(10332)I                                                         
+112SN cL J$1149.1|g E2 to 20+; band member                                      
+112SN cL T$from DSAM in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                     
+112SN  G 1149.1    3 100       E2                      9.54E-4                  
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SN cG M$DCO=1.13 {I23} in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                
+112SNB G BE2W=63 18                                                             
+112SNS G  KC=0.000828 12$LC=0.0001005 14$MC=1.96E-5 3                           
+112SNS G  NC=3.68E-6 6$OC=3.17E-7 5$IPC=2.24E-6 4                               
+112SN  L 11570.6    7 (24+)            0.35 PS   LT                         A   
+112SNX L XREF=I                                                                 
+112SN cL J$1234.9|g to 22+; band member                                         
+112SN cL T$from DSAM in {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                     
+112SN  G 1234.9    5  100      [E2]                    8.30E-4                  
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+112SNB G BE2W>18                                                                
+112SNS G  KC=0.000712 10$LC=8.60E-5 12$MC=1.678E-5 24                           
+112SNS G  NC=3.15E-6 5$OC=2.72E-7 4$IPC=1.176E-5 19                             
+112SN  L 12965.1   13 (26+)                                                 A  ?
+112SNX L XREF=I                                                                 
+112SN cL J$1395.0|g to (24+); band member                                       
+112SN  G 1395.0    10 100                                                      ?
+112SN cG E,RI$from {+100}Mo({+20}Ne,|a4n|g) (2007Ga45)                          
+

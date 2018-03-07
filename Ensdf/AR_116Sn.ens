@@ -1,0 +1,1271 @@
+116SN    ADOPTED LEVELS, GAMMAS                                  10NDS    201004
+116SN  H TYP=FUL$AUT=Jean Blachot$CIT=NDS 111, 717 (2010)$CUT=1-Dec-2009$       
+116SN  Q -4704     6 9563.48 9 9278.62 10-3375.1 6     2012WA38                 
+116SN cQ $Note: Current evaluation has used the following Q record              
+116SN  Q -4707     5 9563.45 109281    4 -3374.9 20    2003AU03,2009AUZZ        
+116SN cG E,RI$Average of all available data; otherwise noted.                   
+116SN cG M(B)$From ce data in {+116}Sb decay and (|a,2n|g)                      
+116SN cL E$From a least-squares fit to the adopted E|g. Other levels are from   
+116SNacL the reactions indicated                                                
+116SN cL J$From (n,|g),(n,n'|g) (1991Ra01), except where noted otherwise.       
+116SNacL Values from 1991Ra01 are based on |g(|q), decay modes and |s and       
+116SNacL |s(E) in (n,n'|g). All the J|p for levels only seen in (|g,|g') are    
+116SNacL derived from nuclear resonance fluorescence with polarized |g. J|p     
+116SNacL for levels seen only in ({+18}O,|a2n|g) are based on |g|g(q) data.     
+116SN CL BAND(A)$0+ intruder band, CONF=|pg{-9/2}{+-2}g{-7/2}{+2}               
+116SN  XACOULOMB EXCITATION                                                     
+116SN  XB114CD(A,2NG)                                                           
+116SN  XC116SN(N,N'G)                                                           
+116SN  XD115IN(A,TG)                                                            
+116SN  XE115IN(3HE,D),(A,T)                                                     
+116SN  XF115SN(D,P)                                                             
+116SN  XG115SN(N,G) E=TH                                                        
+116SN  XH117SN(D,T),(3HE,A)                                                     
+116SN  XI116IN B- DECAY (14.10 S)                                               
+116SN  XJ116IN B- DECAY (54.29 M)                                               
+116SN  XK116SB EC DECAY (15.8 M)                                                
+116SN  XL116SB EC DECAY (60.3 M)                                                
+116SN  XM116SN(P,P')                                                            
+116SN  XN104RU(18O,A2NG)                                                        
+116SN  XO116SN(E,E')                                                            
+116SN  XP116CD(3HE,3NG)                                                         
+116SN  XQ117SN(P,D)                                                             
+116SN  XR118SN(P,T)                                                             
+116SN  XS114CD(3HE,N)                                                           
+116SN  XT115IN(P,N),(P,P) IAR                                                   
+116SN  XU116SN(A,A')                                                            
+116SN  XV116SN(P,P'G)                                                           
+116SN  XW116SN(POL P,P')                                                        
+116SN  XX116SN(D,D')                                                            
+116SN  XY116SN(G,G')                                                            
+116SN  XZ116SN(6LI,6LI')                                                        
+116SN PN                                                                     6  
+116SN  L 0           0+                STABLE                                   
+116SN  L 1293.560  8 2+                0.374 PS  10                             
+116SNX L XREF=ABCDEFGHIJKLMNOPQRX$MOME2=-0.17 4 (1989Ra17,2005St24,1976Li19)    
+116SN2 L  MOMM1=-0.32 18 (2008Ea02)                                             
+116SN cL MOME2$others: +0.07 {i10} (1975Gr30), +0.09 {i13} (1970Kl06)           
+116SN cL J$E2 |g to 0+                                                          
+116SN cL T$from 1987Ra01 based on an average of available B(E2) and             
+116SNacL T{-1/2}{-1/2} data; values included in 1987Ra01: 0.49 ps {i9}          
+116SNbcL (1962Li10), 0.44 ps {i19} (1962Ka28), 0.195 (1975Gr30), 0.33 ps {i7}   
+116SNccL (1963Be14), 0.37 ps {i4} (1977Ca14,1981Ca10) via res fluorescence      
+116SNdcL The recent value: 0.51 ps {I+20-14} (2007Or04) in (n,n'|g) is in       
+116SNxcL agreement                                                              
+116SN  G 1293.558  15100       E2                                               
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.00075                                                             
+116SNB G BE2W=12.4 4                                                            
+116SN cG E$from 1994Ga14                                                        
+116SN  L 1756.864  240+                44 PS     6                              
+116SNX L XREF=ABCDFGHIJKMNOVX$FLAG=A                                            
+116SN cL J$E0 to g.s.                                                           
+116SN cL T$average of 1978Ju02 and B(E2) in Coul. ex.                           
+116SN  G 463.25    3 100     6 [E2]                                             
+116SNB G BE2W=18 3                                                              
+116SN  G 1757.06   21          E0                               0.35      2     
+116SN  L 2027.48   3 0+                160 PS    20                             
+116SNX L XREF=ACFGHKMOSX                                                        
+116SN cL J$E0 to g.s.                                                           
+116SN cL T$from 1978Ju02                                                        
+116SN  G 733.89    3 100       [E2]                                             
+116SNB G BE2W=0.49 7                                                            
+116SN  G 2027.3    10          E0                                               
+116SN  L 2112.323  152+                1.89 PS   10                             
+116SNX L XREF=ABCDGHIJKMNOPX$FLAG=A                                             
+116SN cL J$E2 |g to g.s.                                                        
+116SN cL T$from B(E2) in (e,e'). Other: 1.8 ps {I+11-5} from B(E2) in Coul. ex. 
+116SN  G 84.9      5 0.006   3 [E2]                    2.86   8                 
+116SNB G BE2W=7.E+1 4                                                           
+116SN  G 355.40    4 5.0     5 E2                                               
+116SNS G CC=0.01861                                                             
+116SNB G BE2W=44 5                                                              
+116SN  G 818.718   2175      4 M1+E2     -1.8    2                              
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.00216                                                             
+116SNB G BM1W=0.0021 4$BE2W=7.7 8                                               
+116SN  G 2112.312  22100       E2                                               
+116SNB G BE2W=0.118 7                                                           
+116SN  L 2225.379  172+                2.4 PS    12                             
+116SNX L XREF=ACEFGHIJKMQRV                                                     
+116SN cL J$L(d,p)=2, log| {Ift}=4.7 from 3+ parent, excited in Coul. ex.        
+116SN cL T$from B(E2) in Coul. ex.                                              
+116SN  G 113.1     100.0017  LT                                                 
+116SN  G 198.0     7 0.014   LT                                                 
+116SN  G 468.5     5 0.52    11[E2]                                             
+116SNB G BE2W=1.0 6                                                             
+116SN  G 931.814   20100     15M1+E2     -1.9    +5-7                           
+116SNB G BM1W=0.0015 10$BE2W=5 3                                                
+116SN  G 2225.33   3 67      6 [E2]                                             
+116SNB G BE2W=0.05 3                                                            
+116SN  L 2266.159  193-                0.34 PS   4                              
+116SNX L XREF=ABCDEGHJKLMNOWX                                                   
+116SN cL J$E1 |g to 2+, L=(p,p')=3, (972|g)(1293|g)(|q)                         
+116SN cL T$from B(E3) in Coul. ex.                                              
+116SN  G 972.564   19100     4 E1                                               
+116SNX G FLAG=B                                                                 
+116SNB G BE1W=0.00091 12                                                        
+116SN  G 2266      1 0.154   24[E3]                                             
+116SNB G BE3W=22 5                                                              
+116SN  L 2365.975  215-                348 NS    19                             
+116SNX L XREF=BCDF(*)GHJLMNOQRWX$MOME2=0.26 1 (1989Ra17,2005St24)               
+116SN2 L MOMM1=-0.376 3 (1989Ra17,2005St24)                                     
+116SN cL J$E2 |g to 3-, E3 |g to 2+, L(p,p')=5                                  
+116SN cL T$weighted av of 335 ns {i50} from (|a,2n|g) (1980Va13) and 350 ns     
+116SNacL {i20} from |e decay (1966Rg02). Others: 370 ns from (|a,2n|g)          
+116SNacL (1973IsZQ), 230 ns {i20} from |e decay (1964Bo21)                      
+116SN  G 99.802    11100       E2                                               
+116SNX G FLAG=B                                                                 
+116SNS G CC=1.624                                                               
+116SN cG E$from 1994Ga14                                                        
+116SNB G BE2W=2.46 16                                                           
+116SN  G 1072.37   3 99      6 E3                                               
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.00229                                                             
+116SNB G BE3W=1.33 12                                                           
+116SN  L 2390.879  184+                0.28 PS   14                             
+116SNX L XREF=ABCDEF(*)GHJKMNOW                                                 
+116SN cL J$E2 |g to 2+ (1097|g)(1293|g)(|q), L=4 (d,t)                          
+116SN cL T$from 1972Ka66, res fluorescence, T{-1/2}{-1/2}=0.47 ps {i9} from     
+116SNxcL Coul. ex.                                                              
+116SN  G 124.75    7 0.02    1 [E1]                                             
+116SNB G BE1W=0.00010 8                                                         
+116SN  G 165.5     100.00089 LT                                                 
+116SN  G 278.49    6 0.26    3 [E2]                                             
+116SNB G BE2W=9.E+1 5                                                           
+116SN  G 1097.326  22100     15E2                                               
+116SNX G FLAG=B                                                                 
+116SNB G BE2W=38 21                                                             
+116SN  L 2529.202  184+                100 PS    LT                             
+116SNX L XREF=ABCDEGHJKMNOQ(*)RWX$FLAG=A                                        
+116SN cL J$E2 |g to 2+, (417|g)(2112|g)(|q), L(p,p')=4, L=4 (d,t)               
+116SN cL T$from |b(417|g) coin (1979Ka01)                                       
+116SN  G 138.327   8 11.3    4 M1                                               
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.2284                                                              
+116SNB G BM1W>0.0084                                                            
+116SN  G 262.95    8 0.4     1 [E1]                                             
+116SNB G BE1W>5.6E-7                                                            
+116SN  G 303.80    5 0.4     1 [E2]                                             
+116SNB G BE2W>0.23                                                              
+116SN  G 416.86    3 100     5 E2                                               
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.0126                                                              
+116SNB G BE2W>12                                                                
+116SN  G 1235.6    3 0.32    6 [E2]                                             
+116SNB G BE2W>0.00017                                                           
+116SN  L 2545.71   3 (0+)                                                       
+116SNX L XREF=ACGHIKMQ(*)V                                                      
+116SN cL J$primary |g from 0+,1+, L=0(d,t)                                      
+116SN  G 433.9     3 3       1                                                  
+116SN  G 1252.118  24100     12                                                 
+116SN  L 2585.564  241+                                                         
+116SNX L XREF=CF(*)GHKM                                                         
+116SN cL J$based on |g to 0+ and 2+, from (n,|g),(n,n'|g)                       
+116SN  G 360.17    3 13      2                                                  
+116SN  G 828.79    7 6       18                                                 
+116SN  G 1292.00   14100     18                                                 
+116SN  G 2585.70   7 66      9                                                  
+116SN  L 2650.438  232+                                                         
+116SNX L XREF=CEF(*)GHIKMO                                                      
+116SN cL J$L(p,p')=2, L=2 (d,t)                                                 
+116SN  G 384.22    6 2.0     4                                                  
+116SN  G 538.21    6 2.8     5                                                  
+116SN  G 1356.850  22100     19                                                 
+116SN  G 2650.5    4 8       1                                                  
+116SN  L 2773.33   3 6-                                                         
+116SNX L XREF=BCDF(*)GHLMNQ                                                     
+116SN cL J$M1 |g to 5-, L=5 (d,t)                                               
+116SN  G 407.351   15100       M1(+E2)   +0.02   2                              
+116SNX G FLAG=B                                                                 
+116SN cG E$from 1994Ga14                                                        
+116SN  L 2790.55   4 (0)+                                                       
+116SNX L XREF=CF(2780)GOX                                                       
+116SN cL J$L(d,p)=2 gives 2+, but 1991Ra01 based his argument on cross          
+116SNacL sections to assign 0+                                                  
+116SN  G 204.96    6 11      1                                                  
+116SN  G 565.16    1214      2                                                  
+116SN  G 678.28    5 68      8                                                  
+116SN  G 1496.91   6 100                                                        
+116SN  L 2801.28   4 4+                                                         
+116SNX L XREF=BCDEF(*)GHJKMORUW                                                 
+116SN cL J$E2 |g to 2+, L(p,p')=4, L(p,t)=4                                     
+116SN  G 434.9     7 0.36    8                                                  
+116SN  G 536.0     6 0.35    8                                                  
+116SN  G 689.0     3 1.6     3                                                  
+116SN  G 1507.67   4 100     4 E2                                               
+116SNX G FLAG=B                                                                 
+116SN  L 2843.82   5 2+                                                         
+116SNX L XREF=CEGHKM                                                            
+116SN cL J$L(p,p')=2 L=2 (d,t)                                                  
+116SN  G 577.36    251.5     7                                                  
+116SN  G 1550.03   2069      18                                                 
+116SN  G 2843.85   7 100     24                                                 
+116SN  L 2908.85   3 7-                0.5 NS    3                              
+116SNX L XREF=CDEHLMNO                                                          
+116SN cL J$M1 |g to 6-, log| {Ift}=4.9 from 8- parent                           
+116SN cL T$from (|a,2n|g) (1980Va13). Other: |<0.5 ns from |e decay (1966Rg02)  
+116SN  G 135.511   1056      6 M1+E2     -0.04   3                              
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.2419                                                              
+116SN cG E$from 1994Ga14                                                        
+116SNB G BM1W=0.006 4$BE2W=0.4 +7-4                                             
+116SN  G 542.867   15100     6 E2                                               
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.00593                                                             
+116SN cG E$from 1994Ga14                                                        
+116SNB G BE2W=0.5 3                                                             
+116SN  L 2960.03   3 2+                                                         
+116SNX L XREF=CFGHKM                                                            
+116SN cL J$|g to 0+ in (n,|g), L(d,p)=2                                         
+116SN  G 309.75    222.2     7                                                  
+116SN  G 374.52    4 15      2                                                  
+116SN  G 693.82    6 17      2                                                  
+116SN  G 1666.38   5 52      7                                                  
+116SN  G 2960.03   8 100     16                                                 
+116SN  L 2996.27   3 3+                                                         
+116SNX L XREF=CEGHKM                                                            
+116SN cL J$L=2+4 (d,t), and measured g7/2 strength (1990Sc12)                   
+116SN  G 194.83    9 3.8     6                                                  
+116SN  G 466.7     4 16      6                                                  
+116SN  G 605.34    6 22      3                                                  
+116SN  G 770.95    5 20      2                                                  
+116SN  G 1702.68   4 100     16                                                 
+116SN  L 3016.44   7 6(-)                                                       
+116SNX L XREF=CG                                                                
+116SN  G 650.46    6 100                                                        
+116SN  L 3032.70   176+                                                         
+116SNX L XREF=BCDN$FLAG=A                                                       
+116SN cL J$E2 |g's to 4+, |DJ=2 collective band                                 
+116SN  G 503.3     6 55.7    25E2                                               
+116SN  G 641.1     5 100     7 E2                                               
+116SN  L 3046.40   9 4+                                                         
+116SNX L XREF=CDEGHJMOQRWX                                                      
+116SN cL J$L=4 (d,t), E2 |g to 2+ level                                         
+116SN  G 245.0     3 1.5     3                                                  
+116SN  G 655.65    144.5     10                                                 
+116SN  G 781.1     8 4.5     8                                                  
+116SN cG E$Not confirmed by 2006Kr04, could be a single-escape (Se) peak of     
+116SN2cG the 1293.56-keV transition                                             
+116SN  G 1752.72   12100     5 E2                                               
+116SN  L 3088.63   3 2+                                                         
+116SNX L XREF=CF(*)GKM                                                          
+116SN cL J$|g to 0+, from (n,|g),(n,n'|g)                                       
+116SN  G 1331.68   7 19      3                                                  
+116SN  G 1795.02   5 34      5                                                  
+116SN  G 3088.58   4 100     20                                                 
+116SN  L 3096.93   134+                                                         
+116SNX L XREF=CDEF(*)HJW(*)                                                     
+116SN cL J$L=4 (d,t), log| {Ift}=5.6 from 5+ parent                             
+116SN  G 567.7     3 24      7                                                  
+116SN  G 706.00    22100     15                                                 
+116SN  G 730.8     3 40      15                                                 
+116SN  G 831.0     3 31      6                                                  
+116SN  L 3105.18   175-                                                         
+116SNX L XREF=BCDF(*)GMW(*)                                                     
+116SN cL J$1978VaZK suggest (7-), excit in (n,n'|g), also 7- in (|a,t|g)        
+116SN  G 331.8     2 100     18                                                 
+116SN  G 714.4     5 45      18                                                 
+116SN  G 738.8     5 73      25                                                 
+116SN  G 839.6     5 45      18                                                 
+116SN  L 3157.73   7 3-,4                                                       
+116SNX L XREF=CGMQRW(*)X(*)                                                     
+116SN  G 791.75    6 100                                                        
+116SN  L 3179.68   6 3+                                                         
+116SNX L XREF=CEFGHKX(*)                                                        
+116SN cL J$L=2+4 ({+3}He,d), from (n,|g),(n,n'|g)                               
+116SN  G 378.24    149       1                                                  
+116SN  G 788.81    8 27      3                                                  
+116SN  G 1886.12   10100     21                                                 
+116SN  L 3184      5 3-                                                         
+116SNX L XREF=MX(*)                                                             
+116SN cL J$L(p,p')=3                                                            
+116SN  L 3194.32   6 0+                                                         
+116SNX L XREF=CGM                                                               
+116SN cL J$L(p,p')=0, from (n,|g),(n,n'|g)                                      
+116SN  G 1900.72   5 100                                                        
+116SN  L 3210.00   5 7-                0.5 NS    LT                             
+116SNX L XREF=BCDLNOW                                                           
+116SN cL J$E2 |g to 5-, log| {Ift}=5.6 from 8- parent                           
+116SN cL T$from 1966Rg02                                                        
+116SN  G 436.68    6 30      7 M1,E2                                            
+116SN  G 844.001   19100     10E2                                               
+116SNX G FLAG=B                                                                 
+116SNS G CC=0.00191                                                             
+116SN cG E$from 1994Ga14                                                        
+116SNB G BE2W>0.060                                                             
+116SN  L 3227.45   5 (2+)                                                       
+116SNX L XREF=CGH(*)M(*)X(*)                                                    
+116SN cL J$L=2 (d,t), from (n,|g),(n,n'|g)                                      
+116SN  G 641.63    147.5     11                                                 
+116SN  G 698.0     3 6       1                                                  
+116SN  G 961.3     4 25      8                                                  
+116SN  G 1115.16   5 100     14                                                 
+116SN  L 3227.95   118-                                                         
+116SNX L XREF=BDLN                                                              
+116SN cL J$|g(|q) for M1 |g to 7-                                               
+116SN  G 319.1     1 100       M1+E2     +0.11   1                              
+116SN  L 3228.06   142+                                                         
+116SNX L XREF=CGH(*)KM(*)X(*)                                                   
+116SN cL J$L=2 (d,t) but not resolved with 3227 level from (n,|g),(n,n'|g)      
+116SN  G 961.9     4 14      6                                                  
+116SN  G 1002.6    4 6       2                                                  
+116SN  G 1200.5    3 100     8                                                  
+116SN  G 1934.52   2121      6                                                  
+116SN  L 3236.02   6 0+                                                         
+116SNX L XREF=CG                                                                
+116SN  G 1123.68   6 100     20                                                 
+116SN  G 1942.51   1327      6                                                  
+116SN  L 3257.67   123-,4-,5-                                                   
+116SNX L XREF=CGM                                                               
+116SN  G 891.69    11100                                                        
+116SN  L 3277.6    5 6+                                                         
+116SNX L XREF=BCDEM                                                             
+116SN cL J$L({+3}He,d)=2                                                        
+116SN  G 748.0     6 100                                                        
+116SN  L 3288.99   17LE 4                                                       
+116SNX L XREF=CG                                                                
+116SN  G 1022.83   17100                                                        
+116SN  L 3309.0    4 6-                                                         
+116SNX L XREF=C                                                                 
+116SN  G 535.5     6                                                            
+116SN  G 943.1     4                                                            
+116SN  L 3314.99   133+                                                         
+116SNX L XREF=CGH                                                               
+116SN cL J$L=4 (d,t), J|p=2+,3+ from (n,|g),(n,n'|g)                            
+116SN  G 1089.56   1424      10                                                 
+116SN  G 1202.9    3 100     14                                                 
+116SN  G 2021.3    5 17      7                                                  
+116SN  L 3333.78   6 1-                                                         
+116SNX L XREF=CGM                                                               
+116SN cL J$J|p determined in (pol |g,|g') experiment 1994Go25                   
+116SN  G 3333.73   6 100                                                        
+116SN  L 3344.34   5 2+                                                         
+116SNX L XREF=CFGX                                                              
+116SN cL J$L=2 (d,t), J|p=2 from (n,|g),(n,n'|g)                                
+116SN  G 500.84    208       1                                                  
+116SN  G 1078.14   7 94      30                                                 
+116SN  G 1119.00   7 100     19                                                 
+116SN  G 1231.94   1142      6                                                  
+116SN  G 2050.4    7 94      25                                                 
+116SN  L 3350.5    4 (5+)                                                       
+116SNX L XREF=C                                                                 
+116SN  G 355.0     9                                                            
+116SN  G 549.1     4                                                            
+116SN  L 3371.42   8 3+                                                         
+116SNX L XREF=CGK                                                               
+116SN  G 980.42    2218      14                                                 
+116SN  G 1146.03   2231      6                                                  
+116SN  G 2077.82   10100     14                                                 
+116SN  L 3379.8    5 3+                                                         
+116SNX L XREF=DEHM                                                              
+116SN cL J$|g decay in (|a,t|g)                                                 
+116SN  G 578                                                                    
+116SN  G 853                                                                    
+116SN  G 989                                                                    
+116SN  L 3416.2    3 2+                                                         
+116SNX L XREF=CGHKMQR                                                           
+116SN cL J$L=2 (d,t), J=2 in (n,|g),(n,n'|g)                                    
+116SN  G 831.03    1067      7                                                  
+116SN  G 1150.31   6 100     16                                                 
+116SN  G 2122.3    7 83      15                                                 
+116SN  L 3427.91   144-                                                         
+116SNX L XREF=CG                                                                
+116SN  G 1060.9    6 50      17                                                 
+116SN  G 1161.80   14100     17                                                 
+116SN  L 3453.2    3 4,5                                                        
+116SNX L XREF=CMX                                                               
+116SN  G 407.5     3 100                                                        
+116SN  G 1187.0    3 32      8                                                  
+116SN  G 3454.9    15100     20                                                 
+116SN  L 3469.61   9 2+                                                         
+116SNX L XREF=CGHM                                                              
+116SN cL J$L=2 (d,t)                                                            
+116SN  G 125.7     3 2.3     7                                                  
+116SN  G 668.5     4 8       2                                                  
+116SN  G 1244.25   1294      11                                                 
+116SN  G 2175.89   13100     15                                                 
+116SN  L 3492.98   128+                                                         
+116SNX L XREF=BDN                                                               
+116SN cL J$from |g(|q) for 584 E1 |g to 7-                                      
+116SN  G 214.0     10                                                           
+116SN  G 264.0     10                                                           
+116SNX G FL=3227.95                                                             
+116SN  G 584.16    12          E1                                               
+116SN  L 3507.25   205-                                                         
+116SNX L XREF=CG                                                                
+116SN  G 1241.08   20100                                                        
+116SN  L 3508.33   7 2+                                                         
+116SNX L XREF=CG                                                                
+116SN  G 419.60    1250      8                                                  
+116SN  G 548.34    9 41      6                                                  
+116SN  G 664.54    2018      3                                                  
+116SN  G 1396.03   15100     7                                                  
+116SN  L 3510      5 4+                                                         
+116SNX L XREF=M                                                                 
+116SN cL J$L(p,p')=4                                                            
+116SN  L 3513.6    3 (2)+                                                       
+116SNX L XREF=CEGHK                                                             
+116SN cL J$L=2 (d,t), J|p=(2) from (n,|g),(n,n'|g)                              
+116SN  G 2220.1      100     24                                                 
+116SN  G 3514.0    5 27      7                                                  
+116SN  L 3522.66   259-                                                         
+116SNX L XREF=BDLMNW                                                            
+116SN cL E$1987Va30 have studied the role of core polarization and of the       
+116SNacL quenching of the leading shell model configuration in stretched spin   
+116SNacL states for this state.                                                 
+116SN cL J$from |g(|q) for M1+E2 |g to 8-                                       
+116SN  G 294.6     2 100       M1+E2     +0.13   2                              
+116SNX G FL=3227.95$FLAG=B                                                      
+116SN  L 3547.16   1710+               833 NS    30                             
+116SNX L XREF=BN$MOME2=0.50 (1989Ra17,2005St24,1975Di02)                        
+116SN2 L MOMM1=-2.326 15 (1989Ra17,2005St24)                                    
+116SN cL J$M2 |g to 8-, E2 |g to 8+                                             
+116SN cL T$from 1978VaZK (time distribution/beam burst of cyclotron)            
+116SN  G 54.0      5 8       6 E2                      14.4   6                 
+116SNB G BE2W=3 3                                                               
+116SN  G 319.1     1 100     21M2                                               
+116SNX G FL=3227.95                                                             
+116SNS G CC=0.104                                                               
+116SNB G BM2W=0.44 13                                                           
+116SN  L 3551.7    5 3+                                                         
+116SNX L XREF=CG                                                                
+116SN  G 2258.1    5 100                                                        
+116SN  L 3572.77   172+,3                                                       
+116SNX L XREF=CGM(*)X(*)                                                        
+116SN  G 2279.16   17100                                                        
+116SN  L 3576.2    6 4+,5                                                       
+116SNX L XREF=CM(*)X(*)                                                         
+116SN  G 1185.3    6 100                                                        
+116SN  L 3586.63   102+                                                         
+116SNX L XREF=CGH(*)KM(*)X(*)                                                   
+116SN  G 1000.92   1273      11                                                 
+116SN  G 1474.45   1981      13                                                 
+116SN  G 3586.83   22100     9                                                  
+116SN  L 3593.76   9 3+                                                         
+116SNX L XREF=CGH(*)K                                                           
+116SN  G 1368.38   9 100                                                        
+116SN  G 1481.4    4 26      LT                                                 
+116SN cG RI$from |b{+-} decay. Transition is multiply placed in (n,|g)          
+116SN  L 3616.3    4 4-                                                         
+116SNX L XREF=CH                                                                
+116SN cL J$L(d,t)=2, J|p=4 in (n,|g),(n,n'|g)                                   
+116SN  G 1350.1    4 100                                                        
+116SN  L 3624.6    7 4+                                                         
+116SNX L XREF=CM                                                                
+116SN cL J$L(p,p')=4, from (n,|g),(n,n'|g)                                      
+116SN  G 2331.0    7 100                                                        
+116SN  L 3640.7    7 4,5+                                                       
+116SNX L XREF=C                                                                 
+116SN  G 1249.8    7 100                                                        
+116SN  L 3648.1    5 3-,5-                                                      
+116SNX L XREF=CM(*)                                                             
+116SN  G 1257.0    5                                                            
+116SN  G 1282.5    8                                                            
+116SN  L 3658.05   6 2+                                                         
+116SNX L XREF=CEFGM(*)R                                                         
+116SN  G 857.19    1531      5                                                  
+116SN  G 1433.40   1418      4                                                  
+116SNX G FL=2225.379                                                            
+116SN  G 1545.42   7 50      14                                                 
+116SNX G FL=2112.323                                                            
+116SN  G 3658.5    15100     20                                                 
+116SN  L 3706.9    7 3+                                                         
+116SNX L XREF=CH                                                                
+116SN cL J$L=2+4 (d,t)                                                          
+116SN  G 1440.7    7 100                                                        
+116SN  L 3711.89   8 (1)+                                                       
+116SNX L XREF=CGM(*)                                                            
+116SN  G 868.04    6 45      5                                                  
+116SN  G 3712.06   16100     21                                                 
+116SN  L 3712.4    3 8+                                                         
+116SNX L XREF=BDN$FLAG=A                                                        
+116SN cL J$E2 |g to 6+, |DJ=2 collective band                                   
+116SN  G 679.7     2 100       E2                                               
+116SN  L 3730.6    4 LE 3                                                       
+116SNX L XREF=CG                                                                
+116SN  G 2437.0    4 100                                                        
+116SN  L 3739        3+                                                         
+116SNX L XREF=DEHQ                                                              
+116SN cL J$L(d,t)=2, |g from 5+                                                 
+116SN  G 1348        100                                                        
+116SN  L 3742.90   183-                                                         
+116SNX L XREF=CGM(*)                                                            
+116SN  G 1476.75   19100     16                                                 
+116SN  G 1631.0    1053      9                                                  
+116SN  G 2449.0      44      7                                                  
+116SN  L 3747.9    4 LE 3                                                       
+116SNX L XREF=CGKM(*)                                                           
+116SN  G 2454.3    4 100                                                        
+116SN  L 3776.78   151+                                                         
+116SNX L XREF=CGHM                                                              
+116SN cL J$L=2 (d,t), J=1 from (n,|g),(n,n'|g)                                  
+116SN  G 1191.08   1734      8                                                  
+116SN  G 3777.1    3 100     25                                                 
+116SN  L 3787.2    5 (6-)                                                       
+116SNX L XREF=CF(*)                                                             
+116SN  G 1421.2    5 100                                                        
+116SN  L 3797        +                                                          
+116SNX L XREF=EF(*)                                                             
+116SN cL J$L=0+2 in (3He,D)                                                     
+116SN  L 3805.5    5 4+                                                         
+116SNX L XREF=CFM(*)                                                            
+116SN  G 1693.1    8                                                            
+116SN  G 2511.9    6                                                            
+116SN  L 3806.02   182+                                                         
+116SNX L XREF=CFGM(*)                                                           
+116SN cL J$L=2 in (p,p'), from (n,|g),(n,n'|g)                                  
+116SN  G 3805.95   18100                                                        
+116SN  L 3809.3    8 2+,3                                                       
+116SNX L XREF=CM(*)                                                             
+116SN  G 1697.0    8 100                                                        
+116SN  L 3836.67   230+                                                         
+116SNX L XREF=CG                                                                
+116SN  G 2543.06   23100                                                        
+116SN  L 3843.66   192+,3                                                       
+116SNX L XREF=CG                                                                
+116SN  G 1618.7    6 18      7                                                  
+116SN  G 1731.8    4 22      6                                                  
+116SN  G 2549.85   22100     18                                                 
+116SN  L 3850.9    5 1,2+                                                       
+116SNX L XREF=CG                                                                
+116SN  G 1584.1    6 40      15                                                 
+116SN  G 3852.0    8 100     50                                                 
+116SN  L 3851      5                                                           ?
+116SNX L XREF=M                                                                 
+116SN cL J$probably different from the 3850.9 level (1,2+) since |s(|q) in      
+116SNacL (p,p') requires a high -L component (see comment in (p,p'))            
+116SN  L 3886.9    4 5+                                                         
+116SNX L XREF=DE                                                                
+116SN cL J$L({+3}He,d)=0+2+4. |g to 6-                                          
+116SN  G 509         100                                                        
+116SN  G 791         20                                                         
+116SN  G 841         15                                                         
+116SN  G 1086        22                                                         
+116SN  G 1114        22                                                         
+116SN  G 1358        11                                                         
+116SN  G 1494        75                                                         
+116SN  G 1521        91                                                         
+116SN  G 1618        68                                                         
+116SN  L 3903.58   242+                                                         
+116SNX L XREF=CGK                                                               
+116SN  G 1678.2    3 27      6                                                  
+116SN  G 3903.5    4 100     17                                                 
+116SN  L 3904.91   6 1                                                          
+116SNX L XREF=CG                                                                
+116SN  G 1877.36   8 92      12                                                 
+116SN  G 2148.06   6 100     16                                                 
+116SN  L 3916.91   7 2+                                                         
+116SNX L XREF=CGM                                                               
+116SN cL J$L(p,p')=2                                                            
+116SN  G 1650.74   6 100                                                        
+116SN  L 3945.8    5 1+,2+,3                                                    
+116SNX L XREF=CE(*)GH(*)M(*)Q(*)                                                
+116SN  G 2652.2    5 100                                                        
+116SN  L 3950.52   211-,2,3                                                     
+116SNX L XREF=CE(*)GH(*)M(*)Q(*)                                                
+116SN  G 1684.6    8 27      13                                                 
+116SN  G 1724.6    3 100     17                                                 
+116SN  G 2657.4    3 22      11                                                 
+116SN  L 3952.9    3 2+                                                         
+116SNX L XREF=CE(*)GH(*)M(*)Q(*)                                                
+116SN cL J$L({+3}He,d)=2, L=2 (d,t)                                             
+116SN  G 439.32    1721      6                                                  
+116SN  G 3952.5    4 100     17                                                 
+116SN  L 3973.7    8 4+                                                         
+116SNX L XREF=C                                                                 
+116SN  G 1861.4    8 100                                                        
+116SN  L 3985.5    2                                                            
+116SNX L XREF=L                                                                 
+116SN  G 1076.72   13100                                                        
+116SN  L 4001.10   7 1(-)                                                       
+116SNX L XREF=CG                                                                
+116SN  G 1210.6    7 7       4                                                  
+116SN  G 2244.21   7 100     13                                                 
+116SN  G 2707.48   2278      17                                                 
+116SN  L 4013.27   152+                                                         
+116SNX L XREF=CE(*)GR(*)W(*)                                                    
+116SN cL J$L({+3}He,d)=2, primary |g from 0+,1+                                 
+116SN  G 1787.54   2511      2                                                  
+116SN  G 2719.7    4 29      11                                                 
+116SN  G 4013.4    2 100     11                                                 
+116SN  L 4015.1    6 2,3,4+                                                     
+116SNX L XREF=CE(*)R(*)W(*)                                                     
+116SN  G 1902.7    8                                                            
+116SN  G 2721.5    9                                                            
+116SN  L 4023      1 5+                                                         
+116SNX L XREF=DEM                                                               
+116SN cL J$L({+3}He,d)=0+2+4. |g from 7+                                        
+116SN  G 136                                                                    
+116SN  G 284                                                                    
+116SN  G 746                                                                    
+116SN  L 4026.4    3 1                                                          
+116SNX L XREF=CGM(*)                                                            
+116SN  G 4026.5    3 100                                                        
+116SN  L 4028.5    5 LE 3                                                       
+116SNX L XREF=CG                                                                
+116SN  G 2734.9    5 100                                                        
+116SN  L 4037.2    4 2+,3+                                                      
+116SNX L XREF=CGH                                                               
+116SN  G 1771.2    5 32      6                                                  
+116SN  G 2743.5    4 100     36                                                 
+116SN  L 4075.87   201+,2+,3+                                                   
+116SNX L XREF=CGHW(*)                                                           
+116SN  G 417.4     4 100     35                                                 
+116SN  G 1963.67   2373      13                                                 
+116SN  L 4077      104+,5+                                                      
+116SNX L XREF=DEM(*)W(*)                                                        
+116SN cL J$L({+3}He,d)=0+2+4                                                    
+116SN  G 189                                                                    
+116SN  G 799                                                                    
+116SNX G FL=3277.6                                                              
+116SN  G 1028                                                                   
+116SN  G 1549                                                                   
+116SN  G 1685                                                                   
+116SN  G 1712                                                                   
+116SN  L 4113.89   6 1,2+                                                       
+116SNX L XREF=CG                                                                
+116SN  G 1568.02   2011      3                                                  
+116SN  G 2357.01   6 100     13                                                 
+116SN  G 4113.9    2 71      13                                                 
+116SN  L 4128.28   201,2+                                                       
+116SNX L XREF=CG                                                                
+116SN  G 4128.2    2 100                                                        
+116SN  L 4143.9    5 1+,2+,3                                                    
+116SNX L XREF=CE(*)GM(*)                                                        
+116SN  G 2850.3    5 100                                                        
+116SN  L 4162.108  242                                                          
+116SNX L XREF=CE(*)GM(*)                                                        
+116SN cL J$({+3}He,d)=2, primary |g from 0+,1+                                  
+116SN  G 1576.74   2121      5                                                  
+116SN  G 1896.49   1946      6                                                  
+116SN  G 2868.48   2 100     22                                                 
+116SN  L 4170.9    4 2+                                                         
+116SNX L XREF=CE(*)GM(*)                                                        
+116SN  G 2877.5    4 100     21                                                 
+116SN  G 4170.4    6 82      23                                                 
+116SN  L 4190.5    4 2+,3+,4+                                                   
+116SNX L XREF=CG                                                                
+116SN  G 1924.3    6 37      15                                                 
+116SN  G 2896.9    4 100     22                                                 
+116SN  L 4200.09   141                                                          
+116SNX L XREF=CGM(*)Y                                                           
+116SN  G 1409.66   1753      11                                                 
+116SN  G 4199.79   22100     17                                                 
+116SN  L 4201.52   8 1,2                                                        
+116SNX L XREF=CGM(*)                                                            
+116SN  G 1551.3    6 68      40                                                 
+116SN  G 1616.06   1455      7                                                  
+116SN  G 1935.46   2260      12                                                 
+116SN  G 1976.06   9 100     21                                                 
+116SN  G 2907.2    5 31      9                                                  
+116SN  L 4211.59   120+,1,2                                                     
+116SNX L XREF=CGM(*)S                                                           
+116SN  G 840.14    1124      3                                                  
+116SN  G 2918.07   22100     22                                                 
+116SN  L 4238.15   222+                                                         
+116SNX L XREF=CG                                                                
+116SN  G 2944.8    3 100     33                                                 
+116SN  G 4237.8    3 100     33                                                 
+116SN  L 4240        4+,5+                                                      
+116SNX L XREF=E                                                                 
+116SN cL J$L({+3}He,d)=0+2+4                                                    
+116SN  L 4251.68   111                                                          
+116SNX L XREF=CGM(*)W(*)                                                        
+116SN  G 835.07    1913      3                                                  
+116SN  G 4251.64   12100     19                                                 
+116SN  L 4278.51   201,2+                                                       
+116SNX L XREF=CGM(*)W(*)                                                        
+116SN cL J$L({+3}He,d)=2                                                        
+116SN  G 2984.70   23100     17                                                 
+116SN  G 4279.0    4 20      6                                                  
+116SN  L 4280.7    7 2,3-,4                                                     
+116SNX L XREF=CM(*)W(*)                                                         
+116SN  G 2014.5    7 100                                                        
+116SN  L 4285.0    4 (7)+                                                       
+116SNX L XREF=DE                                                                
+116SN cL J$L({+3}He,d)=2+4, |g's to 8-and 5-. |g to 8- is stronger Than |g to   
+116SNacL 5-                                                                     
+116SN  G 260         7                                                          
+116SNX G FL=4023                                                                
+116SN  G 1008        27                                                         
+116SN  G 1057        100                                                        
+116SNX G FL=3227.95                                                             
+116SN  G 1252        23                                                         
+116SN  G 1375        29                                                         
+116SN  G 1512        25                                                         
+116SN  G 1918        48                                                         
+116SN  L 4297.1    5 LE 3                                                       
+116SNX L XREF=CG                                                                
+116SN  G 3003.5    5 100                                                        
+116SN  L 4308.5    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 1517.9    3 55      10                                                 
+116SN  G 3015.1    5 100     23                                                 
+116SN  L 4340        +                                                          
+116SNX L XREF=E                                                                 
+116SN cL J$({+3}He,d)=2                                                         
+116SN  L 4365                                                                   
+116SNX L XREF=E                                                                 
+116SN  L 4392.62   8                                                            
+116SNX L XREF=EG                                                                
+116SN  G 1165.15   2518      3                                                  
+116SN  G 1303.86   1513      3                                                  
+116SN  G 1863.5    4 15      3                                                  
+116SN  G 2001.8    3 14      3                                                  
+116SN  G 3099.3    3 47      9                                                  
+116SN  G 4392.54   12100     17                                                 
+116SN  L 4410.98   15                                                           
+116SNX L XREF=G                                                                 
+116SN  G 1882.9    7 35      11                                                 
+116SN  G 3117.6    5 66      12                                                 
+116SN  G 4410.81   16100     30                                                 
+116SN  L 4430.45   23                                                           
+116SNX L XREF=G                                                                 
+116SN  G 1586.4    3 42      8                                                  
+116SN  G 2402.2    7 100     28                                                 
+116SN  G 4431.0    4 95      24                                                 
+116SN  L 4480.19   11                                                           
+116SNX L XREF=EG                                                                
+116SN cL J$L({+3}He,d)=2                                                        
+116SN  G 1136.2    4 11      4                                                  
+116SN  G 2254.72   2452      8                                                  
+116SN  G 3186.55   12100     18                                                 
+116SN  L 4496.0    6 (10-)                                                      
+116SNX L XREF=BN                                                                
+116SN cL J$probable stretched E2 to 8-. No |g to J<8                            
+116SN  G 1267.9    5 100                                                        
+116SNX G FL=3227.95                                                             
+116SN  L 4506.2    4 10+                                                        
+116SNX L XREF=BN$FLAG=A                                                         
+116SN cL J$E2 |g to 8+, |DJ=2 collective band                                   
+116SN  G 793.8     2 100       E2                                               
+116SNX G FL=3712.4                                                              
+116SN  L 4511.36   17                                                           
+116SNX L XREF=G                                                                 
+116SN  G 1860.4    3 34      5                                                  
+116SN  G 1926.3    4 28      8                                                  
+116SN  G 2754.7    3 100     22                                                 
+116SN  G 4511.2    4 61      17                                                 
+116SN  L 4548.38   141-                                                         
+116SNX L XREF=EGY                                                               
+116SN  G 4548.28   14100                                                        
+116SN  L 4584.13   24                                                           
+116SNX L XREF=G                                                                 
+116SN  G 4584.03   24100                                                        
+116SN  L 4649.21   10                                                           
+116SNX L XREF=G                                                                 
+116SN  G 2535.9    5 17      8                                                  
+116SN  G 2620.7    6 50      20                                                 
+116SN  G 3356.5    6 24      6                                                  
+116SN  G 4649.15   10100     10                                                 
+116SN  L 4701.83   2311+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 1154.9    1 100                                                        
+116SN  L 4765      1 7+                                                         
+116SNX L XREF=DE                                                                
+116SN cL J$L({+3}He,d)=2. |g's to 8-,6-,6+                                      
+116SN  G 1487        100                                                        
+116SN  G 1537        24                                                         
+116SNX G FL=3227.95                                                             
+116SN  G 1555        80                                                         
+116SN  L 4840      10(8,10-)                                                    
+116SNX L XREF=DEW(*)                                                            
+116SN cL J$strong feeding to 8-. L({+3}He,d)=4,5. 1992Sc20 suggest that this    
+116SNacL state contains part of the fragmented 10-,8- or 8+ configurations.     
+116SN  G 1325                                                                   
+116SNX G FL=3522.66                                                             
+116SN  G 1354                                                                   
+116SN  G 1936                                                                   
+116SN  L 4852.7    3                                                            
+116SNX L XREF=GW(*)                                                             
+116SN  G 3558.9    5 100     25                                                 
+116SN  G 4852.6    3 100     25                                                 
+116SN  L 4877.07   14                                                           
+116SNX L XREF=G                                                                 
+116SN  G 2291.68   2550      7                                                  
+116SN  G 4876.88   17100     15                                                 
+116SN  L 4879.5    6 (11-)                                                      
+116SNX L XREF=BN                                                                
+116SN cL J$stretched E2 to 9-. No |g to J<9                                     
+116SN  G 1356.8    5 100                                                        
+116SN  L 4881.95   2312+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 1335.2    1 100                                                        
+116SN  L 4892.55   211-                                                         
+116SNX L XREF=EGY                                                               
+116SN cL J$L({+3}He,d)=2 (1969Sh14), 1986Va02 report L=4                        
+116SN  G 3598.4    5 100     17                                                 
+116SN  G 4892.54   2299      14                                                 
+116SN  L 4925.92   14                                                           
+116SNX L XREF=G                                                                 
+116SN  G 2275.6    6 28      6                                                  
+116SN  G 3632.26   2094      12                                                 
+116SN  G 4925.8    2 100     15                                                 
+116SN  L 4940        0+                                                         
+116SNX L XREF=S                                                                 
+116SN cL J$L({+3}He,n)=0                                                        
+116SN  L 4952.02   20                                                           
+116SNX L XREF=G                                                                 
+116SN  G 2301.62   2637      6                                                  
+116SN  G 3658.3    3 100     22                                                 
+116SN  L 4980.3    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 5055.53   8                                                            
+116SNX L XREF=G                                                                 
+116SN  G 1711.16   9 100     14                                                 
+116SN  G 2211.72   1137      6                                                  
+116SN  L 5066.3    4                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3309.4    4 100     33                                                 
+116SN  G 5066.2    6 33      11                                                 
+116SN  L 5085.7    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 5161.27   2312+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 459.3     1 54      5                                                  
+116SN  G 1614.7    1 100     5                                                  
+116SN  L 5174.4    5                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3417.6    5 37      13                                                 
+116SN  G 5172.9    20100     55                                                 
+116SN  L 5242.3    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 2282.4    3 100     16                                                 
+116SN  G 3947.9    6 60      15                                                 
+116SN  L 5329.90   2412+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 1783.5    2 100                                                        
+116SN  L 5357.9    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3132.7    6 17      62                                                 
+116SN  G 3331.0    7 100     25                                                 
+116SN  G 4064.0    3 37      6                                                  
+116SN  L 5390.4    5 12+                                                        
+116SNX L XREF=BN$FLAG=A                                                         
+116SN cL J$E2 |g to 10+, |DJ=2 collective band                                  
+116SN  G 884.2     3 100       E2                                               
+116SN  L 5391.2    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 5395.5    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 2051.5    7 100     32                                                 
+116SN  G 4101.8    3 59      9                                                  
+116SN  L 5453.5    4 1(-)                                                       
+116SNX L XREF=Y                                                                 
+116SN  L 5474.9    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 4181.5    3 100     20                                                 
+116SN  G 5474.0    5 27      7                                                  
+116SN  L 5484.24   22                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3456.68   22100     10                                                 
+116SN  G 5484.5    9 30      10                                                 
+116SN  L 5493.2    6                                                            
+116SNX L XREF=G                                                                 
+116SN  G 5493.1    6 100                                                        
+116SN  L 5495.91   2313+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 166.1     1 27.1    14                                                 
+116SN  G 334.7     1 31      3                                                  
+116SN  G 613.8     1 73      4                                                  
+116SN  G 794.0     1 100     9                                                  
+116SN  L 5500                                                                   
+116SNX L XREF=DE                                                                
+116SN  G 2285      AP100                                                        
+116SNX G FL=3210.00                                                             
+116SN  L 5522.19   2313+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 360.9     1 100     5                                                  
+116SN  G 820.4     1 22.7    23                                                 
+116SN  L 5550.7    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 5555.4    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 5562.72   21                                                           
+116SNX L XREF=G                                                                 
+116SN  G 2977.2    4 60      20                                                 
+116SN  G 3296.7    4 47      20                                                 
+116SN  G 4268.9    3 100     20                                                 
+116SN  L 5573.6    5 (12+)                                                      
+116SNX L XREF=N                                                                 
+116SN  G 1068.4    3 100                                                        
+116SN  L 5630.2    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 5668.1    4                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3554.5    7 100     33                                                 
+116SN  G 3911.6    4 95      20                                                 
+116SN  L 5707.2    3                                                            
+116SNX L XREF=N                                                                 
+116SN  G 1005.3    2 100                                                        
+116SN  L 5716.7    4                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3491.2    6 43      21                                                 
+116SN  G 4423.0    4 100     14                                                 
+116SN  L 5723.24   25(12-)                                                      
+116SNX L XREF=G                                                                 
+116SN  G 844.6     1 100                                                        
+116SN  L 5730      10                                                           
+116SNX L XREF=E                                                                 
+116SN  L 5740      10                                                           
+116SNX L XREF=E                                                                 
+116SN  L 5767.19   11                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3500.4    3 79      11                                                 
+116SN  G 3740.6    6 18      8                                                  
+116SN  G 4473.57   12100     16                                                 
+116SN  L 5780        (-)                                                        
+116SNX L XREF=DE                                                                
+116SN cL J$L({+3}He,d)=5                                                        
+116SN  G 2260      AP100                                                        
+116SNX G FL=3522.66                                                             
+116SN  L 5823.68   2314+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 301.5     1 100     4                                                  
+116SN  G 662.4     2 19      3                                                  
+116SN  G 941.6     1 57      3                                                  
+116SN  L 5834.7    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 5860        (-)                                                        
+116SNX L XREF=E                                                                 
+116SN cL J$L({+3}He,d)=5                                                        
+116SN  L 5923.6    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3811.2    6 60      20                                                 
+116SN  G 4629.9    3 100     20                                                 
+116SN  L 5929.3    3 (13+)                                                      
+116SNX L XREF=N                                                                 
+116SN  G 1050.7    2 100                                                        
+116SN  L 5968.4    4                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3008.2    5 100     40                                                 
+116SN  G 3578.1    7 52      22                                                 
+116SN  G 3855.6    8 80      40                                                 
+116SN  L 5977.57   2313-                                                        
+116SNX L XREF=N                                                                 
+116SN  G 270.3     2 3       5                                                  
+116SN  G 1095.9    2 18.8    18                                                 
+116SN  G 1098.9    1 100     4                                                  
+116SN  L 5989.53   10                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3764.8    6 6       2                                                  
+116SN  G 3876.8    4 9       2                                                  
+116SN  G 4695.85   10100     11                                                 
+116SN  L 5995.58   11                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3968.18   2072      12                                                 
+116SN  G 4701.85   12100     12                                                 
+116SN  L 6006.2    5 1(-)                                                       
+116SNX L XREF=Y                                                                 
+116SN  L 6041.59   22                                                           
+116SNX L XREF=G                                                                 
+116SN  G 2944.5    3 100     30                                                 
+116SN  G 3650.4    8 34      13                                                 
+116SN  G 3816.3    3 100     30                                                 
+116SN  L 6083.0    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6088.7    4 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6098.30   2414+                                                        
+116SNX L XREF=N                                                                 
+116SN  G 1217.1    2 100                                                        
+116SN  L 6116.8    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3026.8    6 91      23                                                 
+116SN  G 4360.1    5 100     23                                                 
+116SN  G 4823.0    3 94      19                                                 
+116SN  L 6130.97   17                                                           
+116SNX L XREF=G                                                                 
+116SN  G 4374.15   20100     19                                                 
+116SN  G 4837.0    3 33      7                                                  
+116SN  L 6151.9    4                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3926.4    6 29      15                                                 
+116SN  G 4858.2    4 100     16                                                 
+116SN  L 6159.57   10                                                           
+116SNX L XREF=G                                                                 
+116SN  G 4865.97   11100     10                                                 
+116SN  G 6158.96   2428      5                                                  
+116SN  L 6180.5    4 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6198.74   11                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3549.0    4 26      6                                                  
+116SN  G 3932.5    4 29      7                                                  
+116SN  G 4441.68   11100     14                                                 
+116SN  G 4905.9    5 13      4                                                  
+116SN  L 6213.01   2314-                                                        
+116SNX L XREF=N                                                                 
+116SN  G 114.9     1 10.5                                                       
+116SN  G 235.4     1 89      3                                                  
+116SN  G 505.6     3 2.9                                                        
+116SN  G 717.0     1 100     4                                                  
+116SNX G FL=5495.91                                                             
+116SN  L 6216.7    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6289.0    4 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6292.7    11(10-)                                                      
+116SNX L XREF=DE                                                                
+116SN cL J$L({+3}He,d)=5. |g to 9-                                              
+116SN  G 2770        100                                                        
+116SN  L 6313.4    6 14+                                                        
+116SNX L XREF=N$FLAG=A                                                          
+116SN  G 925.4     1 100                                                        
+116SNX G FL=5390.4                                                              
+116SN  L 6323.0    6 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6339.3    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6344.08   2315-                                                        
+116SNX L XREF=N                                                                 
+116SN  G 131.1     1 100     3                                                  
+116SN  G 366.6     1 25.0    13                                                 
+116SN  G 520.3     1 66      3                                                  
+116SN  L 6357.7    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 4246.1    5 61      14                                                 
+116SN  G 4600.4    3 100     25                                                 
+116SN  L 6358.0    6 (14+)                                                      
+116SNX L XREF=N                                                                 
+116SN  G 970.0     1 100                                                        
+116SNX G FL=5390.4                                                              
+116SN  L 6363.6    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6371.9    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6373.0    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3528.8    4 86      25                                                 
+116SN  G 5079.6    4 100     25                                                 
+116SN  L 6398.5    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6405.59   15                                                           
+116SNX L XREF=G                                                                 
+116SN  G 4293.18   15100                                                        
+116SN  L 6423.1    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6428.05   23                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3626.7    5 40      10                                                 
+116SN  G 3637.0    4 65      12                                                 
+116SN  G 3842.6    4 70      20                                                 
+116SN  G 4162.4    6 100     25                                                 
+116SN  L 6436.31   21                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3592.8    3 100     10                                                 
+116SN  G 3646.6    6 20      10                                                 
+116SN  G 4209.8    5 46      13                                                 
+116SN  G 5142.2    4 44      12                                                 
+116SN  L 6446.5    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6457.2    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6466.1    101                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6468.7    3                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3677.7    4 100     21                                                 
+116SN  G 4076.9    6 70      19                                                 
+116SN  G 4712.7    5 93      16                                                 
+116SN  G 5176.4    1558      25                                                 
+116SN  L 6472.3    3 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6482.59   17                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3393.8    4 43      14                                                 
+116SN  G 3521.4    7 36      14                                                 
+116SN  G 3832.3    6 29      7                                                  
+116SN  G 4092.4    4 100     21                                                 
+116SN  G 4257.5    7 29      7                                                  
+116SN  G 4725.6    3 57      14                                                 
+116SN  G 5188.4    4 34      7                                                  
+116SN  L 6484.1    4 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6507.6    6 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6510.55   9                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3720.5    6 44      13                                                 
+116SN  G 3859.9    8 19      13                                                 
+116SN  G 4483.12   23100     19                                                 
+116SN  G 5216.8    1 94      13                                                 
+116SN  L 6518.7    4 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6532.01   21                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3351.4    5 69      15                                                 
+116SN  G 4306.74   25100     15                                                 
+116SN  G 5238.4    6 28      6                                                  
+116SN  L 6581.9    6 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6593.2    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6654.9    7 (1)                                                        
+116SNX L XREF=Y                                                                 
+116SN  L 6659.52   2516-                                                        
+116SNX L XREF=N                                                                 
+116SN  G 315.4     1 100     3                                                  
+116SN  G 447       1 1.9     4                                                  
+116SN  L 6663.1    6 (15+)                                                      
+116SNX L XREF=N                                                                 
+116SN  G 305.1     1 100                                                        
+116SNX G FL=6358.0                                                              
+116SN  L 6717.24   11                                                           
+116SNX L XREF=G                                                                 
+116SN  G 4959.7    3 32      49                                                 
+116SN  G 5423.60   11100     12                                                 
+116SN  L 6741.4    6 (1)                                                        
+116SNX L XREF=Y                                                                 
+116SN  L 6749.5    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6754.07   18                                                           
+116SNX L XREF=G                                                                 
+116SN  G 3793.6    6 33      11                                                 
+116SN  G 4641.5    2 100     22                                                 
+116SN  G 5461.1    4 89      22                                                 
+116SN  L 6834.1    3 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6877.0    7 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 6889.4    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 6967.3    5 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7011.5    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7035.01   8                                                            
+116SNX L XREF=G                                                                 
+116SN  G 4449.50   1263      9                                                  
+116SN  G 4769.4    1026      14                                                 
+116SN  G 4809.42   10100     11                                                 
+116SN  L 7082.15   2517-                                                        
+116SNX L XREF=N                                                                 
+116SN  G 422.6     1 100     3                                                  
+116SN  G 738.1     1 16.7    20                                                 
+116SN  L 7125.6    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 7145.8    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7154.7    5 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 7165.0    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7173.9    4                                                            
+116SNX L XREF=G                                                                 
+116SN  G 3938.0    5 100     25                                                 
+116SN  G 5062.1    8 60      15                                                 
+116SN  G 5416.3    6 75      25                                                 
+116SN  L 7203.7    8 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7215.3    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7224.7    4                                                            
+116SNX L XREF=G                                                                 
+116SN  G 4135.8    4 100     30                                                 
+116SN  G 5931.4    6 23      8                                                  
+116SN  L 7229.2    6 16+                                                        
+116SNX L XREF=N$FLAG=A                                                          
+116SN  G 915.8     1 100                                                        
+116SN  L 7235.5    111                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7241.4    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7246.3    5                                                            
+116SNX L XREF=G                                                                 
+116SN  G 5134.2    6 100     33                                                 
+116SN  G 5952.3    6 100     33                                                 
+116SN  L 7319.9    7 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7325.27   22                                                           
+116SNX L XREF=G                                                                 
+116SN  G 4674.6    3 100     17                                                 
+116SN  G 4780.2    1544      20                                                 
+116SN  G 4934.0    4 50      11                                                 
+116SN  G 5298.4    5 71      18                                                 
+116SN  L 7353.4    3 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 7457.3    6 (16+)                                                      
+116SNX L XREF=N                                                                 
+116SN  G 1143.9    2 100                                                        
+116SN  L 7479.8    141-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 7597.8    101                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7654.3    7 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 7659.94   19                                                           
+116SNX L XREF=G                                                                 
+116SN  G 4816.1    3 100     14                                                 
+116SN  G 5114.1    3 92      17                                                 
+116SN  G 5268.8    4 48      16                                                 
+116SN  L 7692.77   18                                                           
+116SNX L XREF=G                                                                 
+116SN  G 5427.8    7 60      10                                                 
+116SN  G 5467.1    2 100     10                                                 
+116SN  G 5580.6    5 50      10                                                 
+116SN  L 7758.8    9 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7826.3    101(-)                                                       
+116SNX L XREF=Y                                                                 
+116SN  L 7896.6    8 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7917.1    7 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 7925.2    8 1(+)                                                       
+116SNX L XREF=Y                                                                 
+116SN  L 7933.7    6 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7947.0    8 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 7961.1    6 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 7991.6    8 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 8187.4    7 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 8214.3    6 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 8227.9    6 18+                                                        
+116SNX L XREF=N$FLAG=A                                                          
+116SN  G 998.7     1 100                                                        
+116SN  L 8234.5    8 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 8247.8    7 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 8282.9    9 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 8361.3    8 1-                                                         
+116SNX L XREF=Y                                                                 
+116SN  L 8427.9    111                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 8457.9    8 1                                                          
+116SNX L XREF=Y                                                                 
+116SN  L 8585.6    3                                                            
+116SNX L XREF=N                                                                 
+116SN  G 1503.4    1 100                                                        
+116SN  L 8661.2    4                                                            
+116SNX L XREF=N                                                                 
+116SN  G 1579.0    2 100                                                        
+116SN  L 8739.7    7 (1)                                                        
+116SNX L XREF=Y                                                                 
+116SN  L 9141.4    4                                                            
+116SNX L XREF=N                                                                 
+116SN  G 480.2     1 100                                                        
+116SN  L 9321.9    12(20+)                                                      
+116SNX L XREF=N$FLAG=A                                                          
+116SN  G 1094.0    10100                                                        
+116SN  L 16198                                                                  
+116SNX L XREF=T                                                                 
+116SN  L 16308                                                                  
+116SNX L XREF=T                                                                 
+116SN  L 16388                                                                  
+116SNX L XREF=T                                                                 
+116SN  L 16478                                                                  
+116SNX L XREF=T                                                                 
+116SN  L 16568                                                                  
+116SNX L XREF=T                                                                 
+116SN  L 17708                                                                  
+116SNX L XREF=T                                                                 
+

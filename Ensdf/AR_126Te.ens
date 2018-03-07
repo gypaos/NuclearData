@@ -1,0 +1,508 @@
+126TE    ADOPTED LEVELS, GAMMAS                                  02NDS    200301
+126TE  H TYP=ERR$AUT=J. TULI$DAT=16-Jul-2007$COM=Fixed typo in comment$         
+126TE  H TYP=FUL$AUT=J. KATAKURA AND K. KITAO$CIT=NDS 97, 765 (2002)$           
+126TE2 H CUT=5-Apr-2002$                                                        
+126TE  Q -2154     4 9113.69 8 9098.0  22-2549   3     2012WA38                 
+126TE cQ $Note: Current evaluation has used the following Q record              
+126TE  Q -2155     4 9113.8  4 9098.2  22 -2550   3    1995AU04                 
+126TE c  See 1989Sh02 for |m mesic atom, isotope shift.                         
+126TE c  1993Wy03 reports antiprotonic atom.                                    
+126TE cG RI,E      All are from (n,n'|g), unless otherwise noted. Relative      
+126TE2cG photon branchings from each level                                      
+126TE cG RI(A),E(A)$From {+126}I |e decay,                                      
+126TE cG RI(B),E(B)$From {+126}Sb |b{+-} decay (12.46 d).                       
+126TE cG RI(E),M(E),E(E)$From {+124}Sn(|a,2n|g).                                
+126TE cG M,MR      From (n,n'|g), unless otherwise noted.                       
+126TE cG MR(A)     From {+124}Sn(|a,2n|g).                                      
+126TE cL E         A least-squares fit to the |g rays adopted, except           
+126TE2cL where noted or where cross reference clearly indicates other source    
+126TE  XA126I EC DECAY                                                          
+126TE  XB126SB B- DECAY (12.35 D)                                               
+126TE  XC126SB B- DECAY (19.15 M)                                               
+126TE  XDCOULOMB EXCITATION                                                     
+126TE  XE124SN(A,2NG)                                                           
+126TE  XF125TE(N,G)                                                             
+126TE  XG126TE(N,N'G)                                                           
+126TE  XH130TE(64NI,XG)                                                         
+126TE  XI127I(MU-,NG)                                                           
+126TE  XJ124SN(3HE,N)                                                           
+126TE  XK125TE(D,P)                                                             
+126TE  XL126TE(G,G')                                                            
+126TE  XM126TE(D,D')                                                            
+126TE  XN126TE(P,P')                                                            
+126TE  XO127I(D,3HE)                                                            
+126TE  XP128TE(P,T)                                                             
+126TE  XQ232TH(37CL,X)                                                          
+126TE PN                                                                     6  
+126TE  L 0.0         0+                STABLE                                   
+126TEX L XREF=ABCDEFGHIJKLMNOPQ                                                 
+126TE  L    666.35210  2+              4.52 PS   10                             
+126TEX L XREF=ABCDEFGHIKLMNOPQ                                                  
+126TE3 L MOMM1=+0.62 8$MOME2=-0.20 9                                            
+126TE cL           |m from transient field integral perturbed                   
+126TE2cL angular distribution (1988Du10,2001StZZ). Others: +0.68 {I6}           
+126TE3cL (1985ThZX), +0.38 {I6} (1981Sh15). (transient field technique).        
+126TE cL           Q from reorientation (1975Ra24,2001StZZ).                    
+126TE cL J         E2 |g to 0+                                                  
+126TE cL T         from 2001Ra27.                                               
+126TE  G 666.331   12 100       E2                                          A   
+126TEB G BE2W=25.4 7                                                            
+126TE  L   1361.395164+                2.8 PS    12                             
+126TEX L XREF=ABCDEFGHIKMNOPQ                                                   
+126TE cL J         stretched E2 |g to 2+.                                       
+126TE cL T         from B(E2) in Coulomb excitation.                            
+126TE  G 695.03    2 100       E2                                               
+126TE cG M         from |a(K)exp and |g(|q) in (|a,2n|g)                        
+126TEB G BE2W=34 16                                                             
+126TE  L   1420.181132+                0.8 PS    2                              
+126TEX L XREF=ADEFGHIKLMOP                                                      
+126TE cL T         from B(E2) in Coulomb excitation.                            
+126TE cL J         E2 |g to 0+.                                                 
+126TE  G 753.819   13100.0   13M1+E2     -4.25   +15-10                         
+126TE cG MR        From |g|g(|q) in {+126}I |e Decay (1971Ta04).                
+126TEB G BM1W=0.0011 6$BE2W=71 18                                               
+126TE  G 1420.17   2 7.33    19Q                                                
+126TE  L    1776.19 76+                68 PS     2                              
+126TEX L XREF=BCEGHMNOPQ                                                        
+126TE cL T         from {+126}Sb |b{+-} decay (12.46 d).                        
+126TE cL J         stretched E2 |g to 4+ in (|a,2n|g)                           
+126TE  G 414.7     2 100       E2                       0.0141              B   
+126TEB G BE2W=17.8 6                                                            
+126TE  L   1873.399230+                                                         
+126TEX L XREF=AFGJ(1920)KMNOP                                                   
+126TE cL J         L(p,t)=0.                                                    
+126TE  G 1207.04   2 100                                                        
+126TE  L   2013.172184+                                                         
+126TEX L XREF=FGMNOP                                                            
+126TE cL J         L(p,p')=4.                                                   
+126TE  G 651.79    2 100     4 M1+E2     -0.22   +3-2                           
+126TE  G 1346.79   2  73     3 E2                                               
+126TE  L   2045.154172                                                          
+126TEX L XREF=AFGKMN(2054)OP(2050)                                              
+126TE cL J         Q |g to 0+.                                                  
+126TE  G 624.85    5  15     1 D+Q                                              
+126TE cG MR        -0.07 {I6} or +3.3 {I+6-5} in (n,n'|g).                      
+126TE  G 1378.76   3  49     2 D+Q                                              
+126TE cG MR        -0.04 {I3} or +2.84 {I24} in (n,n'|g).                       
+126TE  G 2045.17   2 100     3 Q                                                
+126TE  L    2113.57 4                                                           
+126TEX L XREF=FGKMOP(2080)                                                      
+126TE  G 1447.21   3 100                                                        
+126TE  L   2128.390183+                                                         
+126TEX L XREF=FGO                                                               
+126TE cL J         M1+E2 |g's to 2+ and 4+.                                     
+126TE  G 708.21    2 100     3 M1+E2     -8.4    +7-6                           
+126TE  G 766.98    3  36     1 M1+E2                                            
+126TE cG MR        +19 {I+10-5} or +0.196 {I+23-12} in (n,n'|g).                
+126TE  G 1462.03   3  43     1 D+Q       +1.94   +15-14                         
+126TE  L   2181.515221                                                          
+126TEX L XREF=FGN(*2190)P(*2190)                                                
+126TE cL J         |g(|q) in (n,n'|g)                                           
+126TE  G 761.78    189.1     10                                                ?
+126TE cG E         from (n,|g). In (n,n'|g) 761.86 keV |g is unplaced.          
+126TE2cG Energy matching is bad for this |g. The assignment is uncertain.       
+126TE  G 1515.15   2 100     4 D+Q                                              
+126TE cG MR        -2.2 {I+5-8} or -0.06 {I+9-10} in (n,n'|g).                  
+126TE  G 2181.50   8  15     1                                                  
+126TE  L   2184.354232+                                                         
+126TEX L XREF=FGKMN(*2190)OP(*2190)                                             
+126TE cL J         |g(|q) and linear pol. in (n,n'|g)                           
+126TE  G 1517.99   2 100     3 M1(+E2)   +0.002  +18-21                         
+126TE  G 2184.4    3 0.3     1                                                  
+126TE  L   2218.203235-                                                         
+126TEX L XREF=BEFGHIKMN(2227)P(2230)                                            
+126TE cL           |b{-5}=0.058                                                 
+126TE cL J         L(p,t), (p,p')=5 and |g(|q) in (n,n'|g)                      
+126TE  G 204.89    12  1.9   1                                                  
+126TE  G 856.80    2 100     4 E1+M2     +0.029  6                              
+126TE  L   2309.185244+                                                         
+126TEX L XREF=FGJMN(2320)P(2320)                                                
+126TE cL J         |g(|q) and linear pol. in (n,n'|g).                          
+126TE2cL Inconsistent with L({+3}He,n)=2 at 2320 keV.                           
+126TE  G 889.03    5  27     1 Q                                                
+126TE  G 947.78    2 100     4 M1+E2                                            
+126TE cG MR        +0.64 {I+7-14} or +0.22 {I+8-6}                              
+126TE  L 2350.8    12                                                           
+126TEX L XREF=M                                                                 
+126TE  L   2385.814223-                                                         
+126TEX L XREF=DFGK(*2386)M(*2386)N(*2395)P(*2390)                               
+126TE cL J         from E3 Coulomb excitation.                                  
+126TE  G 965.60    8  8.0    4 D(+Q)     +0.01   4                              
+126TE  G 1719.45   2 100     4 E1+M2     +0.036  7                              
+126TEB G BE1W=0.00012 7$BM2W=0.25 16                                            
+126TE  L   2385.984234                                                          
+126TEX L XREF=FGK(*2386)M(*2386)N(*2395)P(*2390)                                
+126TE cL J         D+Q's |g to 4+, 3+ and 5-.                                   
+126TE  G 167.78    3  60     2 D+Q       +0.35   2                              
+126TE  G 257.60    3  44     2 D(+Q)     -0.02   2                              
+126TE  G 372.81    3 100     3 D(+Q)     +0.02   6                              
+126TE  L    2396.42 66                                                          
+126TEX L XREF=BCEGO                                                             
+126TE cL J         |g(|q) in (n,n'|g)                                           
+126TE  G 620.20    5  78     3 D+Q       -0.17   +8-6                           
+126TE  G 1035.07   6 100     4 Q                                                
+126TE  L    2421.15 42+                                                         
+126TEX L XREF=FGKMNP                                                            
+126TE cL J         |g(|q) and pol. In (n,n'|g)                                  
+126TE cL E         (p,t) reports 2430 and 2440 keV states, but the              
+126TE2cL assignment of two states seems to Be questionable.                     
+126TE  G 999.66    4 47      3                                                 ?
+126TE2 G FL=1420.181                                                            
+126TE cG E         from (n,|g). In (n,n'|g) 999.65 keV |g is unplaced.          
+126TE2cG Energy matching is bad for this |g. The assignment is uncertain.       
+126TE  G 1754.78   3 100     4 M1+E2     +3.02   18                             
+126TE  G 2421.38   18 5.6    4 Q                                                
+126TE  L    2479.73 44                                                         ?
+126TEX L XREF=GM                                                                
+126TE cL J         |g(|q) in (n,n'|g).                                          
+126TE  G 1118.33   4 100     5 D+Q       +0.12   +10-7                          
+126TE  G 1813.37   5  55     2 Q                                                
+126TE  L    2496.83 87-                0.152 NS  5                              
+126TEX L XREF=BEGHMN(2480)OP(2500)Q                                             
+126TE cL T         from {+126}Sb |b{+-} decay (12.46 d)                         
+126TE cL J         L(p,t)=7. |g(|q) in (|a,2n|g)                                
+126TE  G 278.2     3   4.4   1 E2                       0.0494              B   
+126TE cG M         from |g(|q) in (|a,2n|g) and RUL.                            
+126TEB G BE2W=2.48 14                                                           
+126TE  G 720.64    4 100     4 D(+Q)     -0.01   3                              
+126TEB G BE1W=4.55E-6 16                                                        
+126TE  L    2503.55 42+                                                         
+126TEX L XREF=FGKMNP(*2510)                                                     
+126TE cL J         |g(|q) and pol. in (n,n'|g)                                  
+126TE  G 1837.19   3 100     4 M1+E2     +1.54   9                              
+126TE  G 2503.32   16 21     1 Q                                                
+126TE  L    2515.21136-                                                         
+126TEX L XREF=BGKMP(*2510)                                                      
+126TE cL J         M1+E2 |g to 5- and |g(|q) in (n,n'|g)                        
+126TE  G 296.5     3 100     3 M1+E2     -7.0    7      0.0400              B   
+126TE  G 739.23    14 11     1                                                  
+126TE  L    2533.85 54,6+                                                       
+126TEX L XREF=GMP                                                               
+126TE cL J         |g(|q) in (n,n'|g) and |g to 4+                              
+126TE  G 1172.45   4 100                                                        
+126TE  L   2577.822253                                                          
+126TEX L XREF=GM(*2578)O                                                        
+126TE cL J         |g(|q) in (n,n'|g).                                          
+126TE  G 1216.40   3  96     4 D+Q       +0.07   3                              
+126TE  G 1911.47   3 100     4 D+Q       +0.110  10                             
+126TE  L 2578.5    5 0+,1+                                                      
+126TEX L XREF=KM(*2578)                                                         
+126TE cL J         L(d,p)=0                                                     
+126TE  L   2585.462222+,3+                                                      
+126TEX L XREF=FGMP(*2590)                                                       
+126TE cL J         |g(|q) and linear pol. in (n,n'|g).                          
+126TE  G 1224.11   10 11     5                                                  
+126TE  G 1919.09   2 100     3                                                  
+126TE  L 2588.9    6                                                            
+126TEX L XREF=KOP(*2590)                                                        
+126TE cL E         weighted av from (d,{+3}He) and (d,p)                        
+126TE  L 2640.4    5                                                            
+126TEX L XREF=KM                                                                
+126TE cL E         weighted av from (d,d') and (d,p)                            
+126TE  L    2661.43 4(5)                                                       ?
+126TEX L XREF=G                                                                 
+126TE cL J         |g(|q) in (n,n'|g).                                          
+126TE  G 648.26    7  24     1 D+Q                                              
+126TE cG MR        -1.6 {I4} or -0.42 {I+10-20}                                 
+126TE  G 1300.02   3 100     4 D+Q       -1.81   12                             
+126TE  L    2678.78 9(2+)                                                       
+126TEX L XREF=FMP(*2680)                                                        
+126TE cL J         |g's to 0+, 4+                                               
+126TE  G 1258.5    4 38      7                                                  
+126TE  G 1317.32   1074      6                                                  
+126TE  G 2678.91   16100     9                                                  
+126TE  L    2682.03 51+,2+                                                      
+126TEX L XREF=GKOP(*2680)                                                       
+126TE cL J         L(d,p)=2; |g's to 0+ and 2+.                                 
+126TE  G 2015.65   5 100     5                                                  
+126TE  G 2682.3    3  18     1                                                  
+126TE  L    2686.53 4                                                          ?
+126TEX L XREF=G                                                                 
+126TE  G 673.38    6  63     3                                                  
+126TE  G 1325.11   4 100     4                                                  
+126TE  L    2704.49 9(5+,6+)                                                    
+126TEX L XREF=CGK(2708)M                                                        
+126TE cL J         log| {Ift}=6.41 from (5)+ {+126}Sb; (D+Q) |g to 6+.          
+126TE  G 928.30    6 100       (D+Q)     +0.8    2                              
+126TE  L    2731.13 5(3+,2+)                                                    
+126TEX L XREF=FGKMP                                                             
+126TE cL J         |g(|q) and linear pol. in (n,n'|g);                          
+126TE2cL inconsistent with L(d,p)=(3+5)                                         
+126TE  G 1310.97   6 100     4                                                  
+126TE  G 1369.70   8  56     3                                                  
+126TE  G 2064.72   11 55     3                                                  
+126TE  L 2744.2    3 (3+,4+,5+)                                                 
+126TEX L XREF=KMN                                                               
+126TE cL J         L(p,p')=(4)                                                  
+126TE  L    2765.75138+                                                         
+126TEX L XREF=BEGHMP(2770)Q                                                     
+126TE cL J         stretched E2 |g to 6+.                                       
+126TE  G 989.57    11100       E2                                           A   
+126TE cG E         weighted av from {+126}Sb |b{+-} decay, (n,n'|g) and         
+126TExcG ({+64}Ni,X)                                                            
+126TE  L    2782.72 54-,5-,6-                                                   
+126TEX L XREF=GKMO                                                              
+126TE cL J         L(d,p)=5                                                     
+126TE  G 2116.35   4 100                                                        
+126TE  L    2803.02 62+,3,4+                                                    
+126TEX L XREF=GKMP                                                              
+126TE cL J         |g's to 2+ and 4+.                                           
+126TE  G 1382.82   6 100     4                                                  
+126TE  G 1441.70   16 59     2                                                  
+126TE  L     2811.6 3(7-)                                                       
+126TEX L XREF=B                                                                 
+126TE cL J         log| {Ift}=8.37 from (8)- {+126}Sb; |g's to 5- and 6+.       
+126TE  G 297.1     8  6.6    3                                              B   
+126TE  G 415.3     8  13     4                                              B   
+126TE  G 593.2     3 100     5                                              B   
+126TE  L    2812.89 81                                                          
+126TEX L XREF=FGLMP(*2820)                                                      
+126TE cL J         D |g to 0+                                                   
+126TE  G 2812.86   8 100       D                                                
+126TE  L 2814.23   24                                                           
+126TEX L XREF=KMP(*2820)                                                        
+126TE cL E         weighted av from (d,d') and (d,p)                            
+126TE  L    2833.74 4                                                           
+126TEX L XREF=GMKP(*2820)                                                       
+126TE  G 1413.53   4 100     4                                                  
+126TE  G 2167.42   7 52      2                                                  
+126TE  L     2839.7 6(6+)                                                       
+126TEX L XREF=BCMP(*2850)                                                       
+126TE cL J         log| {Ift}=9.7 {I4} from (8)-; |g's to 6+ and 4+.            
+126TE  G 1064.4    15100     67                                             B   
+126TE  G 1476.9    9 31      3                                              B   
+126TE  L    2858.87 5(3-)                                                       
+126TEX L XREF=GKM(2863)NP(*2850)                                                
+126TE cL J         L(p,p')=(3). |g(|q) in (n,n'|g)                              
+126TE  G 1438.6    3 63      3                                                  
+126TE  G 2192.50   5 100     4 (D+Q)     -4.1    +3-5                           
+126TE  L    2877.22102                                                          
+126TEX L XREF=GMO                                                               
+126TE cL J         Q |g to 0+.                                                  
+126TE  G 2210.69   1384      4                                                  
+126TE  G 2877.34   13100     5 Q                                                
+126TE  L    2897.93101                                                          
+126TEX L XREF=GKLP(*2910)                                                       
+126TE cL J         D |g to 0+.                                                  
+126TE  G 2231.9    3 20      4 (D,Q)                                            
+126TE cG E,M       from (|g,|g')                                                
+126TE  G 2897.86   10100       D                                                
+126TE  L     2911.9 4                                                           
+126TEX L XREF=FMP(*2910)                                                        
+126TE  G 1550.5    4 100                                                        
+126TE  L 2929.5    8                                                            
+126TEX L XREF=M                                                                 
+126TE  L 2955.5    10                                                           
+126TEX L XREF=MP(*2960)                                                         
+126TE  L    2966.7610                                                           
+126TEX L XREF=GP(*2960)P(*2970)                                                 
+126TE  G 1190.53   13100     5                                                  
+126TE  G 1605.40   1339      3                                                  
+126TE  L    2974.32101                                                          
+126TEX L XREF=FKLMN(*2975)OP(*2970)                                             
+126TE cL J         D |g to 0+                                                   
+126TE  G 2307.65   1721.4    23(D,Q)                                            
+126TE cG M         from (|g,|g')                                                
+126TE  G 2974.40   11100     4 D                                                
+126TE  L     2974.4 410+               10.7 NS   9                              
+126TEX L XREF=BEH                                                               
+126TE2 L MOMM1=-1.51 9 (1989Ra17)                                               
+126TE cL T         weighted av of 13.5 ns {I10} (1971Ke20), 10.6 ns {I10}       
+126TE2cL (1983Go02) and 10.0 ns {I5} (1998Zh09). All data are from |g(t)        
+126TE cL J         |g(|q) in (|a,2n|g) and E2 |g to 8+                          
+126TE  G 208.6     3 100       E2                       0.130               E   
+126TE cG M         from {+124}Sn(|a,2n|g) and RUL.                              
+126TEB G BE2W=2.50 19                                                           
+126TE  L 2977.8    6                                                            
+126TEX L XREF=MN(*2975)                                                         
+126TE cL E         from (d,d')                                                  
+126TE  L     2989.4 3                                                           
+126TEX L XREF=BP(*2990)                                                         
+126TE  G 148.7     9 17      8                                              B   
+126TE  G 223.9     7 58      4                                              B   
+126TE  G 1213.3    3 100     8                                              B   
+126TE  L 2995.9    4                                                            
+126TEX L XREF=KMP(*2990)                                                        
+126TE  L 2999.4    5                                                            
+126TEX L XREF=M                                                                 
+126TE  L    3008.11 6(2+,3)                                                     
+126TEX L XREF=FGNO                                                              
+126TE cL J         |g to 4+. |g(|q) in (n,n'|g)                                 
+126TE  G 1646.65   6 100     4                                                  
+126TE  G 2342.07   1526      2 (D+Q)     +8      +22-3                          
+126TE  L    3015.5814(1,2+)                                                     
+126TEX L XREF=GLP(*3020)                                                        
+126TE cL J         |g to 0+.                                                    
+126TE  G 3015.54   14100       (D,Q)                                            
+126TE  L 3026.4    6                                                            
+126TEX L XREF=KMP(*3020)                                                        
+126TE  L    3045.71 9(1,2+)                                                     
+126TEX L XREF=GM(3050)                                                          
+126TE cL J         |g to 0+.                                                    
+126TE  G 2379.37   9 100     5                                                  
+126TE  G 3045.2    3 39      3                                                  
+126TE  L    3068.6313                                                           
+126TEX L XREF=H                                                                 
+126TE  G 571.8     1 100                                                        
+126TE  L    3071.1223                                                           
+126TEX L XREF=BMN(*3070)                                                        
+126TE  G 556.3     3 25      3                                              B   
+126TE  G 573.9     3 100     4                                              B   
+126TE  L 3075.5    7                                                            
+126TEX L XREF=MN(*3070)                                                         
+126TE  L 3101.14   10                                                           
+126TEX L XREF=KMP(3090)                                                         
+126TE  L 3114.0    3                                                            
+126TEX L XREF=M                                                                 
+126TE  L 3126.9    3                                                            
+126TEX L XREF=M                                                                 
+126TE  L 3131.1    122-,3-,4-                                                   
+126TEX L XREF=KP(*3140)                                                         
+126TE cL J         L(d,p)=3.                                                    
+126TE  L 3141.8    5                                                            
+126TEX L XREF=MP(*3140)                                                         
+126TE  L 3149.2    4                                                            
+126TEX L XREF=MP(3150)                                                          
+126TE  L 3159.71   23                                                           
+126TEX L XREF=M                                                                 
+126TE  L     3171.6 3                                                           
+126TEX L XREF=BM                                                                
+126TE  G 656.3     6 59      3                                              B   
+126TE  G 674.8     3 100     27                                             B   
+126TE  L     3193.5 3(7,8,9)                                                    
+126TEX L XREF=BEHK                                                              
+126TE cL J         log| {Ift}=6.94 from (8)- {+126}Sb.                          
+126TE  G 696.7     3 100                                                    E   
+126TE  L    3201.99 8                                                           
+126TEX L XREF=GMP                                                               
+126TE  G 1781.83   1068      4                                                  
+126TE  G 2535.56   11100     5                                                  
+126TE  L 3225.1    4                                                            
+126TEX L XREF=M                                                                 
+126TE  L 3231.36   23                                                           
+126TEX L XREF=MP                                                                
+126TE  L 3243.6    4                                                            
+126TEX L XREF=MP(*3250)                                                         
+126TE  L 3256.9    12                                                           
+126TEX L XREF=MP(*3250)                                                         
+126TE  L 3269.4    10                                                           
+126TEX L XREF=KMP                                                               
+126TE cL E         weighted av from (d,d') and (d,p)                            
+126TE  L 3301.1    19                                                           
+126TEX L XREF=K                                                                 
+126TE  L    3309.02 5                                                           
+126TEX L XREF=F                                                                 
+126TE  G 922.94    1317.2    16                                                 
+126TE  G 1888.66   1357      4                                                  
+126TE  G 2642.67   5 100     4                                                  
+126TE  L 3330                                                                   
+126TEX L XREF=P                                                                 
+126TE  L    3349.2110                                                           
+126TEX L XREF=FP                                                                
+126TE  G 2682.83   10100                                                        
+126TE  L 3371.7    21                                                           
+126TEX L XREF=K                                                                 
+126TE  L 3389.8    18(1+,2+,3+)                                                 
+126TEX L XREF=K                                                                 
+126TE cL J         L(d,p)=(2).                                                  
+126TE  L     3450.5 4                                                           
+126TEX L XREF=BK(3448)                                                          
+126TE  G 638.8     8  75     8                                              B   
+126TE2 G FL=2811.6                                                              
+126TE  G 953.7     4 100     8                                              B   
+126TE  L     3473.5 8                                                           
+126TEX L XREF=B                                                                 
+126TE  G 958.3     7 100                                                    B   
+126TE  L    3681.3417(1,2)                                                      
+126TEX L XREF=L                                                                 
+126TE cL J         (D,Q) |g to 0+.                                              
+126TE  G 3015.2    2 100     10(D,Q)                                            
+126TE  G 3680.7    3 69      10(D,Q)                                            
+126TE  L     3687.9 4(12+)                                                      
+126TEX L XREF=H                                                                 
+126TE cL J         from ({+64}Ni,X|g)                                           
+126TE  G 713.5     1                                                            
+126TE2 G FL=2974.4                                                              
+126TE  L 3695.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L 3759.2    3 (1,2)                                                      
+126TEX L XREF=L                                                                 
+126TE cL J         (D,Q) |g to 0+                                               
+126TE  G 3759.1    3 100       (D,Q)                                            
+126TE  L 3763.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L    3807.4510                                                          ?
+126TEX L XREF=F                                                                 
+126TE  G 3141.05   10100                                                        
+126TE  L 3847.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L    3881.6322                                                           
+126TEX L XREF=FL                                                                
+126TE  G 3215.3    3 100     14(D,Q)                                            
+126TE  G 3881.5    3 69      14                                                 
+126TE  L 3976.6      2-,3-,4-                                                   
+126TEX L XREF=K                                                                 
+126TE cL J         L(d,p)=3.                                                    
+126TE  L 4044.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L 4081.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L 4282.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L 4343.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L 4381.6                                                                 
+126TEX L XREF=K                                                                 
+126TE  L 4421.6      (1+,2+,3+)                                                 
+126TEX L XREF=K                                                                 
+126TE cL J         L(d,p)=(2).                                                  
+126TE  L 4466.6      (1+,2+,3+)                                                 
+126TEX L XREF=K                                                                 
+126TE cL J         L(d,p)=(2).                                                  
+126TE  L 4504.84   11                                                           
+126TEX L XREF=F                                                                 
+126TE  L 4510.78   8 (0-,1-,2-)                                                ?
+126TEX L XREF=FK(4509)                                                          
+126TE cL J         L(d,p)=(1).                                                  
+126TE  L     4538.2 4(14+)                                                      
+126TEX L XREF=H                                                                 
+126TE cL J         From ({+64}Ni,X|g)                                           
+126TE  G 850.3     1                                                            
+126TE  L 4559.6      (1+,2+,3+)                                                 
+126TEX L XREF=K                                                                 
+126TE cL J         L(d,p)=(2).                                                  
+126TE  L 4594.6      0-,1-,2-                                                   
+126TEX L XREF=K                                                                 
+126TE cL J         L(d,p)=1.                                                    
+126TE  L 4671.25   15                                                           
+126TEX L XREF=FK                                                                
+126TE  L 4700.53   120-,1-,2-                                                   
+126TEX L XREF=FK                                                                
+126TE cL J         L(d,p)=1.                                                    
+126TE  L 4767.50                                                                
+126TEX L XREF=FK                                                                
+126TE  L 4799.6      0-,1-,2-                                                   
+126TEX L XREF=K                                                                 
+126TE cL J         L(d,p)=1.                                                    
+126TE  L 4882.94   15                                                           
+126TEX L XREF=F                                                                 
+126TE  L 4889.6      (0-,1-,2-)                                                 
+126TEX L XREF=K                                                                 
+126TE cL J $L(d,p)=(1).                                                         
+126TE  L 4934.63   11                                                           
+126TEX L XREF=F                                                                 
+126TE  L 4939.6      (0-,1-,2-)                                                 
+126TEX L XREF=K                                                                 
+126TE cL J $L(d,p)=(1).                                                         
+126TE  L 5070.6      (0-,1-,2-)                                                 
+126TEX L XREF=K                                                                 
+126TE cL J $L(d,p)=(1).                                                         
+126TE  L     7790.3 7                                                           
+126TEX L XREF=L                                                                 
+126TE  G 6369                                                                   
+126TE  G 7791                                                                   
+126TE  L     7915.3101                                                          
+126TEX L XREF=L                                                                 
+126TE cL J         D |g to 0+.                                                  
+126TE  G 7915        100       D                                                
+

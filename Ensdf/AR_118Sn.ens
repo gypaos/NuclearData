@@ -1,0 +1,691 @@
+118SN    ADOPTED LEVELS, GAMMAS                                  95NDS    199509
+118SN  H TYP=ERR$COM=FIXED FORMAT ERRORS JKT 12/96$                             
+118SN  H TYP=FUL$AUT=K. KITAO$CIT=NDS 75,99 (1995)$CUT=1-Feb-1993$              
+118SN  XA118IN B- DECAY (4.45 M)                                                
+118SN  XB118IN B- DECAY (5.0 S)                                                 
+118SN  XC118IN B- DECAY (8.5 S)                                                 
+118SN  XD118SB EC DECAY (3.6 M)                                                 
+118SN  XE118SB EC DECAY (5.00 H)                                                
+118SN  XFCOULOMB EXCITATION                                                     
+118SN  XG116CD(A,2NG),(7LI,P4NG)                                                
+118SN  XH116SN(T,P)                                                             
+118SN  XI117SN(N,G) E=RES                                                       
+118SN  XJ117SN(D,P),(T,D)                                                       
+118SN  XK118SN(N,N'G)                                                           
+118SN  XL118SN(P,P'),(P,P'G)                                                    
+118SN  XM118SN(A,A'),(D,D'),(3HE,3HE')                                          
+118SN  XN119SN(P,D),(D,T)                                                       
+118SN  XO122TE(D,6LI)                                                           
+118SN  XP116CD(3HE,N)                                                           
+118SN  XQ118SN(E,E')                                                            
+118SN  XR118SN(G,G')                                                            
+118SN  XS118SN(N,N')                                                            
+118SN  XT120SN(P,T)                                                             
+118SN CL BAND(G)   QUASI-ROTATIONAL BAND                                        
+118SN cL E         From a least-squares fit to adopted E(|g's) for levels       
+118SN2cL connecting with |g-transitions. Others from {+117}Sn(d,p),(t,d), except
+118SN3cL as noted                                                               
+118SN cL E(X)      From (p,p'),(p,p'|g)                                         
+118SN cL E(Y)      From (|a,|a'),(d,d'),({+3}He,{+3}He')                        
+118SN cL J(Z)      From |g(|q) and |g(pol) in (n,n'|g)                          
+118SN cL T         From (n,n'|g) unless otherwise noted                         
+118SN cG E,RI      From (n,n'|g), except where otherwise noted                  
+118SN cG E(A)      Weighted av of E(|g's) from |b{+-} decay (4.45 min) and      
+118SN2cG (n,n'|g). Relative photon branching is also the weighted av            
+118SN cG E(B),RI(B)$From |b{+-} decay (4.45 min)                                
+118SN cG E(C)      From |e decay (3.6 min)                                      
+118SN cG E(D)      From |e decay (5.00 h). Relative photon branching is also    
+118SN2cG from the decay                                                         
+118SN cG E(E)      From (|a,2n|g),({+7}Li,p4n|g)                                
+118SN cG E(F),RI(F)$From (|g,|g')                                               
+118SN cG M,MR      From |g(|q) and |g(pol) in (n,n'|g), except where            
+118SN2cG otherwise noted                                                        
+118SN  Q -3657     3 9326.42 139999    5 -4063.0 7     2012WA38                 
+118SN cQ $Note: Current evaluation has used the following Q record              
+118SN  Q -3656.6   309326.3  149999    5 -4056   3     1993AU05                 
+118SN PN                                                                     6  
+118SN  L  0.0        0+                STABLE                                   
+118SNX L XREF=ABCDEFGHIJKLMNOPQRST                                              
+118SN  L   1229.666162+                0.485 PS  19                             
+118SNX L XREF=ABCDEFGHIJKLMNOQRST                                               
+118SN2 L MOMM1=+0.04 20$MOME2=-0.05 14                                          
+118SN cL MOMM1$transient field integral PAC (1989Ra17)                          
+118SN cL MOME2$Coul. ex. reorientation (1989Ra17)                               
+118SN cL           Deformation parameter=0.108 {I7}                             
+118SN cL T         from Coul. ex. other: 0.46 ps {I3} in (|g,|g')               
+118SN cL J         L=2 in (t,p) and (|a,|a'),(d,d'),({+3}He,{+3}He')            
+118SN  G  1229.68  2 100       E2                                           A   
+118SNB G BE2W=12.1 5                                                            
+118SN cG M         from |g(pol) in {+118}In |b{+-} decay (8.5 s)                
+118SN  L    1758.31 30+                 21 PS    3                          G   
+118SNX L XREF=BDFHIJKLMNO(1780)PT                                               
+118SN cL J         E0 to 0+                                                     
+118SN cL T         from Coul. ex. other: >0.5 ps in (n,n'|g)                    
+118SN  G 528.73    3 100       E2                      0.00638              C   
+118SN cG E         other: 528.83 {I2} in (n,n'|g)                               
+118SN cG M         from |a(K)exp in {+118}Sb |e decay (3.6 min)                 
+118SNB G BE2W=19 3                                                              
+118SN  G 1758.05   5           E0                                           C   
+118SN cG M         from |g|g(|q) in {+118}Sb |e decay (3.6 min)                 
+118SN  L   2042.882192+                 2.9 PS   4                          G   
+118SNX L XREF=ABDFGIKLM(1990)OT                                                 
+118SN cL J         L=2 in (p,t) and (d,{+6}Li)                                  
+118SN cL T         from Coul. ex. other: >1.1 ps in (n,n'|g)                    
+118SN  G 284.66    122.5     2 [E2]                     0.0422                  
+118SNS G KC=0.0354$LC=0.00554$MC=0.00109$NC+=0.00024                            
+118SNB G BE2W=39 7                                                              
+118SN  G 813.22    2 100.0   24E2+M1     -2.34   16                         A   
+118SNB G BM1W=0.00112 21$BE2W=6.9 10                                            
+118SN  G 2042.90   5 92.2    25E2                                           A   
+118SN cG RI        others: 50 {I33} in {+118}Sb |e decay (3.6 min), 54 {I15} in 
+118SN2cG {+118}In |b{+-} decay (5.0 s), 85 {I12} in (|a,2n|g),({+7}Li,p4n|g)    
+118SNB G BE2W=0.075 11                                                          
+118SN  L    2056.91 40+                  200 PS  LT                             
+118SNX L XREF=BDFHIJKLNOR                                                       
+118SN cL J         E0 to 0+                                                     
+118SN cL T         from centroid shift measurement in {+117}Sn(d,p) (1981Ba05). 
+118SN2cL Other: >0.7 ps in (n,n'|g)                                             
+118SN  G 298.58    4           E0                                           C   
+118SN cG M         from |g|g(|q) in {+118}Sb |e decay (3.6 min)                 
+118SN  G 827.30    6 100       E2                                           C   
+118SNB G BE2W>0.21                                                              
+118SN cG E         other: 820 in (|g,|g')                                       
+118SN  G  2056.5   5           E0                                           C   
+118SN cG M         from |g|g(|q) in {+118}Sb |e decay (3.6 min)                 
+118SN  L    2120   15(2+)                                                       
+118SNX L XREF=NO                                                                
+118SN cL E         from (p,d),(d,t)                                             
+118SN cL J         L=(2) in (d,{+6}Li)                                          
+118SN  L   2280.342214+                  0.76 PS  13                            
+118SNX L XREF=ACEFGHJKLNOQT                                                     
+118SN cL J         L=4 in (p,p'),(p,p'|g)                                       
+118SN cL T         from Coul. ex. others: <0.7 ns in {+118}Sb |e decay (5.00 h),
+118SN2cL >1.5 ps in (n,n'|g)                                                    
+118SN  G 237.6     5 0.05    2 [E2]                     0.0774              B   
+118SNS G KC=0.0641$LC=0.0107$MC=0.00212$NC+=0.00046                             
+118SNB G BE2W=14 7                                                              
+118SN  G  1050.65  3 100     3 E2                                           B   
+118SN3 G BE2W=17 3                                                              
+118SN  L    2321.23 45-                  21.7 NS  2                             
+118SNX L XREF=CEGH(*2324)KL(*2318)O                                             
+118SN cL J         J=5 from |g|g(|q) in {+118}Sb |e decay (3.6 min), E1 |g to 4+
+118SN cL T         from {+118}Sb |e decay (5.00 h). Other: 22 ns {I5} in        
+118SN2cL {+118}In |b{+-} decay (8.5 s)                                          
+118SN2 L MOMM1=-0.300 25$MOME2=0.16 2                                           
+118SN cL MOMM1$differential PAC (1989Ra17). Other: -0.342 {I35} from integral   
+118SN2cL PAC (1989Ra17)                                                         
+118SN cL MOME2$differential PAC, value relative to Q=0.50 for {+116}In          
+118SN2cL (10+ 3548 level) and recalculated (1989Ra17)                           
+118SN  G 40.8      1 100     7 E1                        2.21               D   
+118SNS G KC=1.88$LC=0.266$MC=0.0514                                             
+118SN cG M         from |a in (|a,2n|g),({+7}Li,p4n|g)                          
+118SNB G BE1W=5.7E-5 7                                                          
+118SN  G 1091.51   8 12      1 E3                                           D   
+118SN cG E         other: 1091.84 {I7} in (n,n'|g)                              
+118SN cG M         from |a(K)exp in {+118}Sb |e decay (5.00 h)                  
+118SNB G BE3W=1.32 15                                                           
+118SN  L   2324.846223-                0.19 PS   +4-3                           
+118SNX L XREF=AFH(*2324)KML(*2318)OQT                                           
+118SN2 L BE3=0.118 10                                                           
+118SN cL           B(E3) from Coul. ex.                                         
+118SN cL J         L=3 in (d,{+6}Li) and (|a,|a'),(d,d'),({+3}He,{+3}He')       
+118SN cL T         other: 2.1 ps {I2} from B(E3) in Coul. ex.                   
+118SN  G 1095.19   2 100     4 E1(+M2)   +0.026  6                              
+118SNB G BE1W=(0.00111 25)$BM2W=(2.9 11)                                        
+118SN  G 2324.7    2 1.1     1 E3                                               
+118SN cG M         from |a(K)exp in {+118}Sb |e decay (5.00 h)                  
+118SNB G BE3W=2.3E+2 6                                                          
+118SN  L    2328.02 32+                0.2 PS    GT                         Z   
+118SNX L XREF=ABDIJKLNORS                                                       
+118SN  G 285.22    115.1     6                                              B   
+118SN  G 1098.2    5 100     19E2(+M1)                                      B   
+118SN cG M         1/|d=+0.018 {I10} in (n,n'|g)                                
+118SNB G BM1W<0.033$BE2W<20                                                     
+118SN  G 2327.82   8 23.4    8 E2                                           B   
+118SN cG RI        others: 13 {I3} in {+118}Sb |e decay (3.6 min), 18.4 {I7} in 
+118SNxcG (n,n'|g)                                                               
+118SN  L    2403.22 32+                0.18 PS   +8-4                           
+118SNX L XREF=ABDFIKLO                                                          
+118SN cL J         L=2 in (d,{+6}Li) and (p,p'),(p,p'|g)                        
+118SN  G 360.4     2 1.8     2                                                  
+118SN  G 1173.59   5 100     3 M1+E2     +1.07   9                          A   
+118SNB G BM1W=(0.035 16)$BE2W=(22 10)                                           
+118SN  L    2408   3 4+                                                         
+118SNX L XREF=HJO                                                               
+118SN cL J         L=4 in (t,p)                                                 
+118SN  L   2488.871194+                0.55 PS   GT                         G   
+118SNX L XREF=AFGH(*2489)KLM(*2490)N(2470)OQT(*2490)                            
+118SN cL J         L=4 in (d,{+6}Li) and (p,p'),(p,p'|g)                        
+118SN  G 208.52    2 52      7 M1+E2     -0.17   4      0.0762 7            A   
+118SNS G KC=0.0659 5$LC=0.0084 1$MC=0.00163 3$NC+=0.00037 1                     
+118SNB G BM1W<1.0$BE2W<7.2E2                                                    
+118SN  G 445.99    1 100     3 E2                       0.0103              A   
+118SNS G KC=0.0088$LC=0.00121$MC=0.00024                                        
+118SNB G BE2W<7.6E2                                                             
+118SN  G 1259.19   2 67      3 E2                                           A   
+118SNB G BE2W<2.8                                                               
+118SN  L    2496.88 50+                                                         
+118SNX L XREF=DFH(*2489)IJKLM(*2490)NOT(*2490)                                  
+118SN cL J         E0 to 0+                                                     
+118SN cL E         possible unresolved doublet in (d,p),(t,d)                   
+118SN  G 1267.23   5 100       E2                                           C   
+118SN cG E         other: 1267.57 {I3} in (n,n'|g)                              
+118SN cG M         from |a(K)exp {+1}n {+118}Sb |e decay (3.6 min)              
+118SN  G 2496.56   20          E0                                           C   
+118SN cG M         from |g|g(|q) in {+118}Sb |e decay (3.6 min)                 
+118SN  L    2530                                                                
+118SNX L XREF=N                                                                 
+118SN  L    2574.91 47-                  230 NS  10                             
+118SNX L XREF=CEGHKLO                                                           
+118SN2 L MOMM1=-0.689 4$MOME2=0.32                                              
+118SN cL MOMM1$differential perturbed angular distribution, value does not      
+118SN2cL include the Knight-shift correction (1989Ra17)                         
+118SN cL MOME2$differential perturbed angular distribution, value relative      
+118SN2cL to Q=0.41 for 3108 level (1989Ra17)                                    
+118SN cL J         L=7 in (t,p) and (p,p'),(p,p'|g)                             
+118SN cL T         from in {+118}Sb |e decay (5.00 h). Other: 245 ns {I40} in   
+118SN2cL (|a,2n|g),({+7}Li,p4n|g)                                               
+118SN  G  253.678  10100       E2                       0.0620              D   
+118SNS G KC=0.0516$LC=0.0084$MC=0.00166$NC+=0.00036                             
+118SNB G BE2W=0.064 3                                                           
+118SN  L    2577   3 2+                                                         
+118SNX L XREF=JO                                                                
+118SN cL J         L=2 in (d,{+6}Li)                                            
+118SN  L    2677.35 32+                0.28 PS   GT                             
+118SNX L XREF=ADIJKLOT                                                          
+118SN cL J         L=2 in (p,p'),(p,p'|g)                                       
+118SN  G 1447.66   3 86      4 M1+E2     +2.46   +17-13                         
+118SN cG RI        others: 120 {I16} ({+118}In |b{+-} decay (4.45 min)),        
+118SN2cG 180 {I90} ({+118}Sb |e decay (3.6 min))                                
+118SNB G BM1W<0.0019$BE2W<3.7                                                   
+118SN  G 2677.35   4 100     4 E2                                               
+118SNB G BE2W<0.23                                                              
+118SN  L    2725   3 1+,2+,3+                                                   
+118SNX L XREF=H(*2733)JN(*2740)OQ(*2736)T(*2730)                                
+118SN cL J         L=2 in (d,p),(t,d)                                           
+118SN  L   2733.789204+                0.5 PS    +6-2                           
+118SNX L XREF=AGH(*2733)IKLMOQ(*2736)T(*2730)                                   
+118SN cL J         L=4 in (p,p'),(p,p'|g)                                       
+118SN  G 1504.13   2 100       E2                                           A   
+118SNB G BE2W=4 6                                                               
+118SN  L    2738.01 41+                0.19 PS   +16-6                      Z   
+118SNX L XREF=H(*2733)JKN(*2740)Q(*2736)T(*2730)                                
+118SN  G 1508.33   3 100     5 M1+E2     -0.8    +9-5                           
+118SNB G BM1W=0.015 17$BE2W=3 5                                                 
+118SN  G 2738.10   1034.3    15M1                                               
+118SNB G BM1W=0.0014 13                                                         
+118SN  L    2773.94 44-                                                     Z   
+118SNX L XREF=JKL                                                               
+118SN  G 449.07    3 42.4    12M1+E2     +0.010  16     0.0104                  
+118SNS G KC=0.0090$LC=0.00110$MC=0.00021                                        
+118SN  G 452.72    2 100     3 M1+E2     +0.092  9      0.0101                  
+118SNS G KC=0.0088$LC=0.00108$MC=0.00021                                        
+118SN  L    2817   3 (4-,5-,6-)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(5) in (d,p),(t,d)                                         
+118SN  L    2817.17 4(3-)                                                   Z   
+118SNX L XREF=K                                                                 
+118SN  G 492.32    3 100     3 D+Q                                              
+118SN  G 1587.1    4 2.7     5 D                                                
+118SN  L    2878.70 54,5,6+                                                     
+118SNX L XREF=AGH(*2877)KT(*2900)                                               
+118SN cL J         D+Q |g to 5-, strong |g to 4+                                
+118SN  G 557.23    7 43      2 D+Q                                              
+118SN  G 598.47    5 100     3                                                  
+118SN  L 2889      10(8+)                                                   X   
+118SNX L XREF=H(*2877)LT(*2900)                                                 
+118SN cL J         L=(8) in (p,p'),(p,p'|g)                                     
+118SN  L    2903.87 42+                0.077 PS  +20-13                         
+118SNX L XREF=HI(*2911)JKLO(*2918)T(*2900)                                      
+118SN cL J         L=2 in (p,p'),(p,p'|g)                                       
+118SN  G 1674.10   6 37      2 E2(+M1)                                          
+118SN cG MR        17 {I+33-9} or -0.40 {I10}                                   
+118SNB G BM1W=(0.0082 22)$BE2W=(2.2 6)                                          
+118SN  G 2903.90   5 100     4 E2                                               
+118SNB G BE2W=0.76 20                                                           
+118SN  L    2929.72 70+,1+                                                      
+118SNX L XREF=DH(*2927)JKO(*2918)Q(*2920)T(*2900)                               
+118SN cL J         L=0 in (d,p),(t,d)                                           
+118SN  G 1700.04   6 100                                                        
+118SN  L 2934      10(2+)                                                   X   
+118SNX L XREF=H(*2927)LNO(*2918)Q(*2920)T(*2900)                                
+118SN cL J         L=(2) in (p,p'),(p,p'|g)                                     
+118SN  L   2963.437204+                                                     Z   
+118SNX L XREF=AHJKQ(*2970)T(*2960)                                              
+118SN  G  229.65   1 1.38    4                                              B   
+118SN  G  474.57   2 5.30    18                                             B   
+118SN  G  560.21   2 1.75    7                                              B   
+118SN  G  635.40   2 3.13    11                                             B   
+118SN  G  638.61   2 2.42    7                                              B   
+118SN  G  683.06   2 100     3 M1+E2     +0.09   5                          B   
+118SN  G   920.57  4 0.89    4                                              B   
+118SN  L 2972      3 4+                                                         
+118SNX L XREF=JLM(2960)Q(*2970)T(*2960)                                         
+118SN cL J         L=4 in (p,p'),(p,p'|g)                                       
+118SN  L 2991      3                                                           ?
+118SNX L XREF=J                                                                 
+118SN  L    2999.45 76+                                                     G   
+118SNX L XREF=AGK                                                               
+118SN cL J         stretched |g to 4+                                           
+118SN  G 510.5     1 100     17                                             E   
+118SN cG RI        from (|a,2n|g),({+7}Li,p4n|g)                                
+118SN  G 719.15    8 60      3 E2                                               
+118SN cG E         weighted av from (n,n'|g) and {+118}In |b{+-} decay (4.45    
+118SNxcG min)                                                                   
+118SN cG RI        from (|a,2n|g),({+7}Li,p4n|g)                                
+118SN  L    3015.21 61,2,3                                                     ?
+118SNX L XREF=K                                                                 
+118SN cL J         d |g to 2+                                                   
+118SN  G  972.32   5 100       D                                                
+118SN  L 3020      3 0+                                                         
+118SNX L XREF=JP                                                                
+118SN cL J         L=0 in ({+3}He,n)                                            
+118SN  L    3048.35 54                                                      Z  ?
+118SNX L XREF=H(*3055)KM(*3060)N(*3040)Q(*3050)                                 
+118SN  G  768.00   4 100       D+Q                                              
+118SN  L    3052.16 77+,8+                                                      
+118SNX L XREF=GH(*3055)M(*3060)N(*3040)Q(*3050)                                 
+118SN cL J         E1 |g to 7-; no |g to 4+                                     
+118SN  G 477.25    6 100       E1                                           E   
+118SN cG M         from |a(K)exp in (|a,2n|g),({+7}Li,p4n|g)                    
+118SN  L    3057.22 62+                0.11 PS   +5-3                           
+118SNX L XREF=H(*3055)JKLM(*3060)Q(*3050)                                       
+118SN cL J         L=2 in (p,p'),(p,p'|g)                                       
+118SN  G 1827.36   1222.7    12M1+E2                                            
+118SN cG MR        -0.7 {I+3-2} or -5 {I+6-2}                                   
+118SNB G BM1W=0.0030 14$BE2W=0.7 4                                              
+118SN  G 3057.22   6 100     4 E2                                               
+118SNB G BE2W=0.46 21                                                           
+118SN  L    3089.21 4+                                                      Z   
+118SNX L XREF=K                                                                 
+118SN  G  808.87   3 100       M1+E2     +1.37   14                             
+118SN  L    3108.06229+,10+              2.52 US 6                              
+118SNX L XREF=GL                                                                
+118SN2 L G=-0.2432 7$MOME2=0.41                                                 
+118SN cL           g-factor: differential perturbed angular distribution,       
+118SN2cL value does not include the Knight-shift correction (1973IsZQ)          
+118SN cL MOME2$differential perturbed angular distribution, value derived       
+118SN2cL from experimental B(E2) (1989Ra17)                                     
+118SN cL J         E2 |g to 7+,8+; no |g to 6+                                  
+118SN cL T         from (|a,2n|g),({+7}Li,p4n|g)                                
+118SN  G 55.9      2 100       E2                        12.9               E   
+118SNS G KC=6.81$LC=4.89$MC=1.00$NC+=0.203                                      
+118SN cG M         from |a in (|a,2n|g),({+7}Li,p4n|g)                          
+118SNB G BE2W=0.86 4                                                            
+118SN  L    3137.48150+                                                         
+118SNX L XREF=BDHJKL                                                            
+118SN cL J         L=0 in (t,p), log| {Ift}=5.45 from 1+, no |g to 0+           
+118SN  G  1907.80  15100                                                        
+118SN cG E         other: 1907.2 {I2} in {+118}Sb |e decay (3.6 min)            
+118SN  L    3159.35154+                                                         
+118SNX L XREF=A                                                                 
+118SN cL J         |g to 2+, log| {If{+1u}t} from 5+ not allows 3-              
+118SN  G  756.4    4 52      21                                             B   
+118SN  G 1116.42   16100     13                                             B   
+118SN  L    3190   20                                                       Y   
+118SNX L XREF=M                                                                 
+118SN  L    3227.67 72+,3+                                                  Z   
+118SNX L XREF=K                                                                 
+118SN  G 1997.99   6 100       E2                                               
+118SN  L    3228.37 82+                0.15 PS   +14-10                     Z   
+118SNX L XREF=K                                                                 
+118SN  G 3228.32   8 100       E2                                               
+118SNB G BE2W=0.3 3                                                             
+118SN  L    3231   10(8+)                                                   X   
+118SNX L XREF=L                                                                 
+118SN cL J         L=(8) in (p,p'),(p,p'|g)                                     
+118SN  L    3237   3                                                            
+118SNX L XREF=JLM(*3250)                                                        
+118SN  L    3252.03 7(3+)              0.08 PS   +6-3                           
+118SNX L XREF=KN(*3250)                                                         
+118SN cL J         L=(4) in (p,d),(d,t); D+Q |g to 2+                           
+118SN  G 2022.35   6 100       D+Q                                              
+118SN cG MR        1/|d=+0.14 {I4}                                              
+118SN  L    3262.53 63+                                                     Z   
+118SNX L XREF=JKN(*3250)                                                        
+118SN  G 1219.64   5 100       M1+E2     +0.14   4                              
+118SN  L    3270.67111                 0.005 PS  3                          Z   
+118SNX L XREF=K                                                                 
+118SN  G 3270.62   11100       D                                                
+118SN  L    3274   3                                                            
+118SNX L XREF=JL(*3277)M(*3290)                                                 
+118SN  L    3286   3                                                            
+118SNX L XREF=JL(*3277)M(*3290)                                                 
+118SN  L    3308.54152+                                                     Z   
+118SNX L XREF=KL(*3310)M(*3290)                                                 
+118SN  G 2078.82   16100     5 M1+E2                                            
+118SN cG MR        -0.21 {I9} or +4 {I2}                                        
+118SN  G 3308.6    3 27      3 E2                                               
+118SN  L    3317   3 0-,1-,2-                                                   
+118SNX L XREF=JL(*3310)                                                         
+118SN cL J         L=1 in (d,p),(t,d)                                           
+118SN  L 3344      3 (3-)                                                       
+118SNX L XREF=JL                                                                
+118SN cL J         L=(3) in (p,p'),(p,p'|g)                                     
+118SN  L    3355.86132+                                                     Z   
+118SNX L XREF=KH(*3369)                                                         
+118SN  G 2126.19   13100     6 M1+E2                                            
+118SN cG MR        -0.34 {I9} or 1/|d=0.008 {I9}                                
+118SN  G 3355.6    4 25      3 E2                                               
+118SN  L 3363      3 0+,1+                                                      
+118SNX L XREF=H(*3369)J                                                         
+118SN cL J         L=0 in (d,p),(t,d)                                           
+118SN  L    3374.60 44+                                                         
+118SNX L XREF=AH(*3369)                                                         
+118SN cL J         log| {Ift}=5.78 {I3} from 5+, strong |g to 2+                
+118SN  G  411.44   184.6     9                                              B   
+118SN  G  885.66   8 32.8    25                                             B   
+118SN  G  971.44   4 44      8                                              B   
+118SN  G 1094.3    5 100     3                                              B   
+118SN  G 2144.64   9 15.0    6                                              B   
+118SN  L    3386.30 83+                                                     Z   
+118SNX L XREF=JKL(*3383)                                                        
+118SN cL           Supports 3+                                                  
+118SN  G  1058.27  7 100       M1+E2                                            
+118SN cG MR        1/|d=-0.09 {I2}                                              
+118SN  L    3389   3                                                            
+118SNX L XREF=JL(*3383)                                                         
+118SN  L    3409   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    3427.11103+                                                         
+118SNX L XREF=JKLN                                                              
+118SN cL J         L=4 in (p,d),(d,t); D+Q |g to 2+                             
+118SN  G  1384.24  15100     5 M1+E2                                            
+118SN  G 2197.41   1298      5 M1+E2                                            
+118SN  L    3441                                                               ?
+118SNX L XREF=J                                                                 
+118SN  L    3460.49 54+                                                         
+118SNX L XREF=AKL                                                               
+118SN cL J         log| {Ift}=5.87 {I5} from 5+, strong |g to 2+                
+118SN  G   971.44  4 96      21                                             B   
+118SN  G  1132.49  1130      3                                              B   
+118SN  G  1180.18  7 49      3 E2                                           B   
+118SN cG RI        85 {I6} in (n,n'|g)                                          
+118SN  G  1418.03  298       2                                              B   
+118SN  G 2230.76   7 100     3 E2                                           B   
+118SN  L    3462.6311(2-,3-)                                                    
+118SNX L XREF=JK                                                                
+118SN cL J         L=(3) in (d,p),(t,d); |g to 2+                               
+118SN  G    1419.7410100                                                        
+118SN  L    3475   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    3540.57 91+,2+,3+          0.11 PS   +23-5                          
+118SNX L XREF=JKM(*3530)N(3520)O(*3549)                                         
+118SN cL J         L=2 in (p,d),(d,t)                                           
+118SN  G 2310.88   8 100       M1+E2                                            
+118SN  L    3541   10(6+,7-)                                                X   
+118SNX L XREF=LM(*3530)O(*3549)                                                 
+118SN cL J         L=(6,7) in (p,p'),(p,p'|g)                                   
+118SN  L     3558.910 7-,8-,9-                                                  
+118SNX L XREF=ELO(*3549)                                                        
+118SN cL J         log| {Ift}=5.55 from 8-                                      
+118SN  G 984.0     10100       (M1,E2)                                      D   
+118SNF G FL=2574.91                                                             
+118SN cG M         from |a(K)exp in {+118}In |b{+-} decay (4.45 min)            
+118SN  L    3576   3 2-,3-,4-                                                   
+118SNX L XREF=H(*3581)J                                                         
+118SN cL J         L=3 in (d,p)                                                 
+118SN  L    3592.54 54+                                                         
+118SNX L XREF=AH(*3581)                                                         
+118SN cL J         log| {Ift}=5.79 4from 5+, strong |g to 2+                    
+118SN  G   858.84  1942      7                                              B   
+118SN  G  1312.22  6 67      3                                              B   
+118SN  G  1549.63  6 100     4                                              B   
+118SN  G  2362.78  1224      1                                              B   
+118SN  L 3597      3 2+                                                         
+118SNX L XREF=JL                                                                
+118SN cL J         L=2 in (p,p'),(p,p'|g) and (d,p),(t,d)                       
+118SN  L    3635   3                                                            
+118SNX L XREF=JM(*3650)                                                         
+118SN  L    3643   3                                                            
+118SNX L XREF=JM(*3650)                                                         
+118SN  L    3673.67154+                                                         
+118SNX L XREF=JKLN                                                              
+118SN cL J         L=4 in (p,p')                                                
+118SN  G 1393.40   2050      7                                                  
+118SN  G 2443.90   20100     8                                                  
+118SN  L     3692.0 48+                                                     G   
+118SNX L XREF=G                                                                 
+118SN cL J         stretched E2 |g to 6+                                        
+118SN  G 692.5     4 100       E2                                           E   
+118SN cG M         from |a(K)exp in (|a,2n|g),({+7}Li,p4n|g)                    
+118SN  L    3696.78171+,2+             0.11 PS   +38-6                          
+118SNX L XREF=KN                                                                
+118SN cL J         L=2 in (p,d),(d,t); |g to 0+                                 
+118SN  G 2466.9    3 32      5 M1+E2                                            
+118SN  G 3696.8    2 100     7                                                  
+118SN  L    3704.84 84+                                                         
+118SNX L XREF=AM(*3720)                                                         
+118SN cL J         log| {Ift}=5.89 {I3} from 5+, strong |g to 2+                
+118SN  G 1301.62   1637      4                                              B   
+118SN  G 1377.09   2025      3                                              B   
+118SN  G 1424.7    4 14      3                                              B   
+118SN  G 1661.93   2127      4                                              B   
+118SN  G 2475.06   10100     5                                              B   
+118SN  L    3705   10(6+)                                                   X   
+118SNX L XREF=LM(*3720)                                                         
+118SN cL J         L=(6) in (p,p'),(p,p'|g)                                     
+118SN  L    3709.87151+,2+                                                      
+118SNX L XREF=KL(*3720)M(*3720)N                                                
+118SN cL J         E2 |g to 0+                                                  
+118SN  G 1381.79   16100     7 M1+E2                                            
+118SN  G 3710.1    4 63      6 E2                                               
+118SN  L    3721   3 0-,1-,2-                                                   
+118SNX L XREF=JL(*3720)M(*3720)O                                                
+118SN cL J         L=1 in (d,p)                                                 
+118SN  L 3750      3 (0- TO 3+)                                                 
+118SNX L XREF=JLN                                                               
+118SN cL J         L=(2) in (p,d),(d,t); L=(1,2) in (d,p),(t,d)                 
+118SN  L    3753.85 64,5,6                                                      
+118SNX L XREF=A                                                                 
+118SN cL J         log| {Ift}=5.77 from 5+                                      
+118SN  G 1264.96   8 78      5                                              B   
+118SN  G 1473.50   7 100     5                                              B   
+118SN  L    3762.13141,2,3                                                      
+118SNX L XREF=K                                                                 
+118SN cL J         D+Q |g to 2+                                                 
+118SN  G 2532.43   14100       D+Q                                              
+118SN  L 3773      104+                                                     X   
+118SNX L XREF=L                                                                 
+118SN cL J         L=4 in (p,p'),(p,p'|g)                                       
+118SN  L    3784   3 (0+,1+)                                                    
+118SNX L XREF=JLN                                                               
+118SN cL J         L=(0) in (d,p),(t,d)                                         
+118SN  L    3816.64 91+,2+,3+                                                   
+118SNX L XREF=AJK                                                               
+118SN cL J         L=2 in (d,p),(t,p)                                           
+118SN  G  2586.94  8 100       M1+E2                                        A   
+118SN  L    3838.88144                                                          
+118SNX L XREF=AL(*3847)M(*3840)                                                 
+118SN cL J         log| {Ift}=6.14 from 5+, |g to 2+                            
+118SN  G 2609.18   14100                                                    B   
+118SN  L     3857.0 41,2+                                                       
+118SNX L XREF=JKL(*3847)M(*3840)                                                
+118SN cL J         strong |g to 0+                                              
+118SN  G 2627.3    5 84      10                                                 
+118SN  G 3857.0    7 100     10                                                 
+118SN  L    3889   3 (0-,1-,2-)                                                 
+118SNX L XREF=JLN(*3890)                                                        
+118SN cL J         L=(1) in (d,p),(t,d)                                         
+118SN  L    3898.9020                                                           
+118SNX L XREF=KLN(*3890)                                                        
+118SN  G 2669.20   20100                                                        
+118SN  L    3916   3 1+,2+,3+                                                   
+118SNX L XREF=J                                                                 
+118SN cL J         L=2 in (d,p),(t,d)                                           
+118SN  L     3944.4 41+,2+                                                      
+118SNX L XREF=JKLN                                                              
+118SN cL J         L=2 in (d,p),(t,d); E2 |g to 0+                              
+118SN  G 2714.7    5 100     11                                                 
+118SN  G 3944.4    7 67      11E2                                               
+118SN  L    3977   10                                                       X   
+118SNX L XREF=L                                                                 
+118SN  L    3995   3 0-,1-,2-                                                   
+118SNX L XREF=JLN                                                               
+118SN cL J         L=1 in (d,p),(t,d)                                           
+118SN  L     4044.6 3(1+,2+,3+)                                                 
+118SNX L XREF=JKLMN                                                             
+118SN cL J         L=(2) in (p,d),(d,t), but L=(1,2) in (d,p),(t,d)             
+118SN  G 2814.9    3 100                                                        
+118SN  L     4109.0 30-,1-,2-                                                   
+118SNX L XREF=JKL                                                               
+118SN cL J         L=1 in (d,p),(t,d)                                           
+118SN  G 2879.3    3 100                                                        
+118SN  L     4126.7 41+,2+                                                      
+118SNX L XREF=JKN                                                               
+118SN cL J         L=2 in (d,p),(t,d); |g to 0+                                 
+118SN  G 2897.1    4 100     7                                                  
+118SN  G 4126.3    9 36      7                                                  
+118SN  L    4203   3 1+,2+,3+                                                   
+118SNX L XREF=JM                                                                
+118SN cL J         L=2 in (d,p),(t,d)                                           
+118SN  L    4233   3 (2-,3-,4-)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(3) in (d,p),(t,d)                                         
+118SN  L    4252   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4288   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4313   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4326   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4352   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4365   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4391   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4408   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4422   3 (0+,1+)                                                    
+118SNX L XREF=JP(4450)                                                          
+118SN cL J         L=(0) in (d,p),(t,d)                                         
+118SN  L    4448   3 (1+,2+,3+)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(2) in (d,p),(t,d)                                         
+118SN  L    4472   3 (0-,1-,2-)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(1) in (d,p),(t,d)                                         
+118SN  L    4484   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L     4495.4 5(10+)                                                  G   
+118SNX L XREF=G                                                                 
+118SN cL J         stretched (E2) to 8+                                         
+118SN  G 803.4     3 100       (E2)                                         E   
+118SN cG M         from |a(K)exp and |g(|q) in (|a,2n|g),({+7}Li,p4n|g)         
+118SN  L    4507   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4523   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4540   3 (0- TO 3+)                                                 
+118SNX L XREF=JM                                                                
+118SN cL J         L=(1,2) in (d,p),(t,d)                                       
+118SN  L    4573   3 (0-,1-,2-)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(1) in (d,p),(t,d)                                         
+118SN  L 4604      7                                                            
+118SNX L XREF=R                                                                 
+118SN  G    4604   7 100                                                    F   
+118SN  L 4617      3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4637   3 1+,2+,3+                                                   
+118SNX L XREF=J                                                                 
+118SN cL J         L=2 in (d,p),(t,d)                                           
+118SN  L    4696   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4706   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    4798   3 3-                                                         
+118SNX L XREF=JM                                                                
+118SN cL J         L=3 in (|a,|a'),(d,d'),({+3}He,{+3}He'); but L=(0,3) in      
+118SNxcL (d,p),(t,d)                                                            
+118SN  L    4832   3 0+,1+                                                      
+118SNX L XREF=J                                                                 
+118SN cL J         L=0 in (d,p),(t,d)                                           
+118SN  L    4862   3 0+,1+                                                      
+118SNX L XREF=J                                                                 
+118SN cL J         L=0 in (d,p),(t,d)                                           
+118SN  L    4879   3 0+,1+                                                      
+118SNX L XREF=J                                                                 
+118SN cL J         L=0 in (d,p),(t,d)                                           
+118SN  L    4940   3 (2-,3-,4-)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(3) in (d,p),(t,d)                                         
+118SN  L    5006   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5014   3 2-,3-,4-                                                   
+118SNX L XREF=J                                                                 
+118SN cL J         L=3 in (d,p),(t,d)                                           
+118SN  L    5025   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5043   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5068   3 (2-,3-,4-)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(3) in (d,p),(t,d)                                         
+118SN  L    5098   3                                                            
+118SNX L XREF=JM                                                                
+118SN  L    5116   3 (0- TO 3+)                                                 
+118SNX L XREF=J                                                                 
+118SN cL J         L=(1,2) in (d,p),(t,d)                                       
+118SN  L    5142   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5150   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5163   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5181   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5193   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L    5208   3                                                            
+118SNX L XREF=J                                                                 
+118SN  L     5379.412(12+)                                                  G  ?
+118SNX L XREF=G                                                                 
+118SN cL J         stretched |g to (10+)                                        
+118SN  G 884       1 100                                                    E   
+118SN  L    5400   803-                                                     Y   
+118SNX L XREF=M                                                                 
+118SN cL J         L=3 in (|a,|a'),(d,d'),({+3}He,{+3}He')                      
+118SN  L 6325      7 1                 5.7 FS    24                             
+118SNX L XREF=R                                                                 
+118SN cL E         from (|g,|g')                                                
+118SN cL J         from |g(|q) in (|g,|g')                                      
+118SN cL T         from (|g,|g')                                                
+118SN  G 6325      7 100       D                                            F   
+118SN cG M         from (|g,|g')                                                
+118SN  L 6.9E+3    4 3-                                                     Y   
+118SNX L XREF=M                                                                 
+118SN cL J         L=3 in (|a,|a'),(d,d'),({+3}He,{+3}He')                      
+118SN  L 6988      5 1-                2.9 FS    6                              
+118SNX L XREF=R                                                                 
+118SN cL E         from (|g,|g')                                                
+118SN cL J         from |g(|q) and |g(pol) in (|g,|g')                          
+118SN cL T         from (|g,|g')                                                
+118SN  G 4672      5 3.4     7                                              F   
+118SN2 G FL=2328.02                                                             
+118SN  G 4940      5 2.3     7                                              F   
+118SN2 G FL=2042.882                                                            
+118SN  G 5762      3 20.1    19                                             F   
+118SN  G 6988      5 100       E1                                           F   
+118SNB G BE1W=2.3E-6 5                                                          
+118SN cG M         from (|g,|g')                                                
+118SN  L 7010      5 1                                                          
+118SNX L XREF=R                                                                 
+118SN cL E         from (|g,|g')                                                
+118SN cL J         from |g(|q) in (|g,|g')                                      
+118SN  G 5780      1025      4 D,Q                                          F   
+118SN cG M         from (|g,|g')                                                
+118SN  G 7010      10100     5 D                                            F   
+118SN cG M         from (|g,|g')                                                
+118SN  L 12.35E3   20                                                           
+118SNX L XREF=Q                                                                 
+118SN cL E         from (e,e')                                                  
+118SN  L 15.55E3   20                                                           
+118SNX L XREF=Q                                                                 
+118SN cL E         from (e,e')                                                  
+118SN  L 24.3E+3   15(3-)                                                   Y   
+118SNX L XREF=M                                                                 
+118SN cL J         L=3 in (|a,|a'),(d,d'),({+3}He,{+3}He')                      
+
