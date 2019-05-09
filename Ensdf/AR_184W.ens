@@ -1,0 +1,1556 @@
+184W    ADOPTED LEVELS, GAMMAS                                  10NDS    201002
+184W  H TYP=ERR$AUT=J. Tuli$CUT=10-Nov-2015$COM=corrected typo in conf(1746)$  
+184W  H TYP=FUL$AUT=CORAL M. BAGLIN$CIT=NDS 111,275 (2010)$CUT=1-Oct-2009$     
+184W  Q -1483     5 7411.66 257700.4  181649.3  20    2012WA38                 
+184W cQ $Note: Current evaluation has used the following Q record              
+184W  Q -1481      4 7411.6026 7700.2 17 1657.0 20    2003AU03,2009AUZZ        
+184W cQ QA        From 2009AuZZ; 1656.2 {I22} in 2003Au03.                     
+184W c  {U Other Reactions:}                                                   
+184W c  {+184}W(e,e) (1973Ka44): E=42, 60, 65 MeV; deduced charge distribution 
+184W2c  parameters.                                                            
+184W c  For isotope shift and/or hfs data see, for example, 1985Bo33, 1988Au04 
+184W2c  1994Ji02, 1994Ji07, 1995Au08.                                          
+184W cG E,RI      From (n,|g) E=thermal, except as noted.                      
+184W cG M,MR      From {+184}Re |e decay, except as noted.                     
+184W cG E(B),RI(B)$From |b{+-} decay.                                          
+184W cG E(E),RI(E)$From |e decay (169 d).                                      
+184W cG E(e),RI(e)$From |e decay (35.4 d).                                     
+184W cG E(N),RI(N)$From (n,n'|g).                                              
+184W cG E(U),RI(U)$From (n,|g) E=thermal: |g|g coin.                           
+184W cL E         From least-squares fit to adopted E|g, except as noted,      
+184W2cL whenever |g's are observed; from weighted average of values in reaction
+184W3cL dataset(s) otherwise.                                                  
+184W cL E(U)      From (n,|g) E=thermal: |g|g coin.                            
+184W cL J(H)      M1 |g to 0+.                                                 
+184W cL J(I)      D |g to 0+ g.s..                                             
+184W cL T(W)      Deduced from measured |G{-|g0}{+2}/|G in (|g,|g')and adopted 
+184W2cL |G{-|g1}/|G{-|g0}, assuming |G=|G{-|g1}+|G{-|g0}. Thus, deduced        
+184W3cL T{-1/2} will Be an upper limit if branches exist to levels             
+184W4cL other than the g.s. and the 111-keV level.                             
+184W cL J(X)      From band assignment and arguments given.                    
+184W cL T(Y)      From measured B(E2) in Coulomb excitation.                   
+184W cL E(Z)      Energy may differ from value shown because it depends on     
+184W2cL unestablished order of |g cascade above the 2480 level in              
+184W3cL ({+136}Xe,X|g) (2004Wh02).                                             
+184W CL BAND(C)   KPI=0+ |b BAND.                                              
+184W2cL Band parameters: A=23.9, B=-296 (J=0,2,4,6 levels).                    
+184W CL BAND(A)   KPI=0+ ground state BAND.                                    
+184W2cL Band parameters: A=18.5, B=-17 (J=2,4,6 levels).                       
+184W cL J(A)      Definite J|p is assigned to members of g.s. band based on    
+184W2cL smooth progression of level spacings and independently established     
+184W3cL J|p for g.s. and E2 multipolarity for J=2 to 0 transition.             
+184W CL BAND(B)   KPI=2+ GAMMA BAND.                                           
+184W2cL Band parameters: A=17.7, B=-63 (J=2,3,4 levels).                       
+184W cL J(B)      Definite J|p is assigned to J|<10 members of |g band based   
+184W2cL on smooth progression of level spacings and independently established  
+184W3cL J|p for 2+ member (903 keV) and E2 multipolarity for J=4 to 2, 230|g.  
+184W CL BAND(D)   KPI=2- OCTUPOLE BAND.                                        
+184W CL BAND(P)   sequence based on 2479 (8-,9,10+) LEVEL.                     
+184W CL BAND(E)   K=0 BAND.                                                    
+184W CL BAND(F)   KPI=2+ (|n 3/2[512])+(|n 1/2[510]) BAND.                     
+184W CL BAND(G)   KPI=3+ (|n 7/2[503])-(|n 1/2[510]) BAND.                     
+184W CL BAND(M)   KPI=5- (|n 11/2[615])-(|n 1/2[510]) BAND.                    
+184W CL BAND(N)   KPI=7- (|n 11/2[615])+(|n 3/2[512]) BAND.                    
+184W CL BAND(O)   KPI=6- (|n 11/2[615])+(|n 1/2[510]) BAND.                    
+184W  XA184TA B- DECAY                                                         
+184W  XB184RE EC DECAY (35.4 D)                                                
+184W  XC184RE EC DECAY (169 D)                                                 
+184W  XF183W(N,G) E=THERMAL                                                    
+184W  XG183W(N,G) E=7.6 EV                                                     
+184W  XH183W(N,G) E=2 KEV                                                      
+184W  XI183W(N,G) E=300 EV                                                     
+184W  XJ184W(N,N')                                                             
+184W  XK184W(N,N'G)                                                            
+184W  XM184W(D,D')                                                             
+184W  XNCOULOMB EXCITATION                                                     
+184W  XO186W(P,T)                                                              
+184W  XP183W(D,P)                                                              
+184W  XQ182W(T,P)                                                              
+184W  XD184W(G,G')                                                             
+184W  XE184W(G,G):MOSSBAUER                                                    
+184W  XL184W(P,P),(P,P'),(POL P,P')                                            
+184W  XR186W(12C,14C)                                                          
+184W  XSMUONIC ATOM                                                            
+184W  XT198PT(136XE,XG)                                                        
+184W  XU183W(N,G) E=THERMAL: GG COIN                                           
+184W  XV183W(N,G) E=RES                                                        
+184W  XW184W(A,A')                                                             
+184W  XX186W(N,3NG)                                                            
+184W  XY184W(G,X)                                                              
+184W  XZ184W(12C,12C'), (18O,18O')                                             
+184W PN                                                                     6  
+184W  L        0.0   0+               STABLE                               A   
+184WX L XREF=ABCDEFGHIJKLMNOPQSTUVWZ                                           
+184W cL           |D<r{+2}>({+186}W,{+184}W)=0.085 {I4},                       
+184W2cL |D<r{+2}>({+184}W,{+182}W)=0.099 {I5} (1994Ji02).                      
+184WxcL |D<r{+2}>({+186}W,{+184}W)=0.084 {I7} (1988Au04).                      
+184W cL           <r{+2}>{+1/2}(charge)=5.3670 {I17} (2004An14).               
+184W cL J         L(p,t)=0.                                                    
+184W cL T         |a decay searched for but not observed.                      
+184W2cL T{-1/2}|>8.9|*10{+21} y (2004Co26), T{-1/2}|>1.8|*10{+20} y            
+184W3cL (2003Da05), T{-1/2}|>2.9|*10{+19} y (2003Ce01), T{-1/2}|>4.0|*10{+18}  
+184W4cL y (1997Ge15), all at 90% confidence level. Others: T{-1/2}>2|*10{+17}  
+184WxcL y (1960Be13), T{-1/2}>3|*10{+17} y (1961Gr37).                         
+184W  L 111.2174   4 2+                 1.251 NS 12                        A   
+184WX L XREF=ABCDEFGHIJKLMNOPQSTUVWXZ                                          
+184WM L MOMM1=+0.578 14 (1984Al06)                                             
+184WM L MOME2=-1.87 20 (1977RuZV)                                              
+184W cL MOMM1$from g=+0.289 {I7} (1984Al06; IPAC); corrected                   
+184W2cL for Knight shift and diamagnetism. Other: +0.576 {I14} (1972Ca12;      
+184W3cL Coulomb excitation integral perturbed angular distribution). Other     
+184W4cL g-factor data: 1961Ha21, 1962Go17.                                     
+184W cL MOME2     From Coulomb excitation reorientation. Other data:           
+184W2cL Q/Q({+182}W)=0.938 {I15} (1968Pe06), 0.930 {I16} (1969Ch23),           
+184W3cL 0.965 {I8} (1971Ob02)                                                  
+184W cL           Isomer shift |d<r{+2}>/<r{+2}> =+0.19|*10{+-4} {I12}         
+184W2cL (1971HaWV), |?+0.13|*10{+-4} (1971WaYS).                               
+184W3cL |d<r{+2}>/|d<r{+2}>({+182}W)=-0.8 {I7} (1971HaWV), -0.81 {I22}         
+184WxcL (1971WaYS)                                                             
+184W cL J         E2 111|g to 0+ g.s..                                         
+184W cL T         from {+184}Re |e decay (35.4 d) (1984Al06). Other values:    
+184W2cL 1.23 ns {I4} (from B(E2)), 1.24 ns {I3}, 1.28 ns {I2}, 1.22 ns {I9},   
+184W3cL all from Coulomb excitation), 1.19 ns {I4} (muonic atom), 1.29 ns      
+184W4cL {I12} (Mossbauer). The weighted average of all these data is 1.253 ns  
+184WxcL {I14}.                                                                 
+184W  G 111.2174   4   100     E2                     2.57                 e   
+184W DG E         WEIGHTED AVERAGE OF 111.218 10 IN (N,G) E=THERMAL, 111.207 7 
+184W2DG IN EC DECAY AND 111.192 20 IN  B- DECAY IS 111.209 6.                  
+184WB G BE2W=119.8 17                                                          
+184W  L    364.069 8 4+               46.3 PS   +25-13                     A   
+184WX L XREF=ABCFGJKLMNOPQTUWXZ                                                
+184WM L MOMM1=+1.17 9                                                          
+184W cL MOMM1     from g=+0.293 {I23} (1984Al06; IPAC). Other: 1970BlZT.       
+184WF L FLAG=Y                                                                 
+184W cL J         E4 excitation from 0+.                                       
+184W cL           Other T{-1/2}: 40 ps {I5} from RDM in Coulomb excitation.    
+184W  G 252.845   10   100     E2                     0.1437               E   
+184WB G BE2W=166 +5-9                                                          
+184W  L   748.320 12 6+               5.75 PS   18                         A   
+184WX L XREF=ACFGJKLMNOQTWX                                                    
+184WM L MOMM1=+1.79 26                                                         
+184W cL MOMM1     from g=+0.299 {I43} (1984Al06; IPAC). Other:+1.85 {I20}      
+184W3cL (1985St18; transient field) if g(364 level)=+0.293 {I23}.              
+184WF L FLAG=Y                                                                 
+184W cL J         E2 to 4+, band assignment.                                   
+184W cL           Other T{-1/2}: 5.2 ps {I6} from RDM in Coulomb excitation.   
+184W  G 384.250   12   100     E2                     0.0418               E   
+184WB G BE2W=181 6                                                             
+184W  L    903.307 9 2+               1.80 PS    4                         B   
+184WX L XREF=ABCFGHIJKLMNOPQUVW                                                
+184WM L MOMM1=+0.25 8 (1985St18)                                               
+184W cL           From g/g(364 level)=0.42 {I14} if g(364 level)=0.293 {I23}.  
+184W2cL Method: transient field.                                               
+184WM L MOME2=+0.1 +4-3 (1977Ob02,1977Ob01)                                    
+184W cL MOME2     from Coulomb-excitation reorientation.                       
+184WF L FLAG=Y                                                                 
+184W cL J         E2 539|g to 0+.                                              
+184W cL           Other T{-1/2}: 2.3 ps {I3} from RDM in Coulomb excitation.   
+184W  G 539.220   25 0.83    3 E2                     0.01744                  
+184WB G BE2W=0.459 20                                                          
+184W cG E         from |e decay.                                               
+184W cG RI        weighted average of 0.80 {I4} in |e decay (169 d),           
+184W2cG 0.86 {I4} in |e decay (35.4 d), 0.77 {I10} in |b{+-} decay.            
+184W3cG Other I|g: 1.3 {I3} in (n,|g) E=thermal; 2.2 {I2} for possibly         
+184W4cG contaminated |g in Coulomb excitation.                                 
+184W  G 792.067   22 98.5   11 M1+E2     -16.8   5    0.00733                  
+184WB G BM1W=4.3E-5 3$BE2W=7.94 21                                             
+184W cG E         from |e decay.                                               
+184W cG RI        weighted average of 98.9 {I22} in |e decay (169 d),          
+184W2cG 98.9 {I16} in |e decay (35.4 d), 97.1 {I24} in |b{+-} decay.           
+184W cG           Weighted average from |e decay.                              
+184W2cG Other |d: -19 {I+6-21} and -18 {I+4-2} from Coulomb excitation.        
+184W  G 903.282   19 100.0  11 E2                     0.00554 8                
+184WB G BE2W=4.19 11                                                           
+184W cG E         from |e decay.                                               
+184W cG RI        weighted average from |b{+-} decay, |e decay (169 d) and     
+184W2cG |e decay (35.4 d).                                                     
+184W  L    1002.49 4 0+                                                    C   
+184WX L XREF=FGHIJKLMOQUV                                                      
+184W cL J         L=0 in (p,t) and (t,p).                                      
+184W cL           Other E: 1003.3 {I4} in (p,t).                               
+184W  G 891.27     4 100       [E2]                   0.00575                  
+184W  L   1005.97110 3+                                                    B   
+184WX L XREF=ABCFGHKNU                                                         
+184W cL J         M1+E2 894|g to 2+ 111; M1+E2 642|g to 4+ 364.                
+184W  G 641.915   20 12.40  18 M1+E2    -8.5    8     0.0118318                
+184W cG E         from |e decay (35.4 d).                                      
+184W cG RI        weighted average of 12.1 {I5} in (n,|g) E=thermal, 10.8      
+184W2cG {I20} in (n,n'|g), 12.42 {I22} in |e decay (35.4 d), 12.4 {I26} in     
+184W3cG (n,|g) E=7.6 eV, 12.5 {I4} in |e decay (169 d).                        
+184W  G 894.760   19 100.0  14 M1+E2    -13.2   9     0.00569 8                
+184W cG E         from |e decay (35.4 d).                                      
+184W  L  1121.440 14 2+               56 PS      7                         C   
+184WX L XREF=BFGHIJKMNOPQUVW                                                   
+184W cL J         E2 757|g to 0+.                                              
+184W cL T         from B(E2)|^=0.00052 {I6} in Coulomb excitation and adopted  
+184W2cL |g properties. However, B(E2) and B(E2)(W.u.) values given in Coulomb  
+184W3cL excitation for 1121|g are inconsistent by a factor of |?2.             
+184W  G 757.328   24 70      4  E2                    0.00803                  
+184WB G BE2W=0.22 3                                                            
+184W cG E         weighted average from |e decay and (n,|g) E=thermal.         
+184W cG RI        weighted average of 76 {I4} in (n,|g) E=thermal, 52 {I9} in  
+184W2cG (n,n'|g), 67 {I5} in |e decay (35.4 d), 66 {I14} in (n,|g) E=7.6 eV.   
+184W cG BE2W      See comment on T{-1/2}(1121 level).                          
+184W  G 1010.245  21 100     4M1+E2+E0                0.0139 10                
+184W cG E         weighted average from |e decay and (n,|g) E=thermal.         
+184W cG           |d(M1,E2)=+2.3 {I6}.                                         
+184W cG           |r{+2}(E0)=0.0026 {I5} (1999Wo07).                           
+184W cG CC        estimate based on |a(K)exp.                                  
+184W  G 1121.422  24 38.0   20 E2                     0.00359                  
+184WB G BE2W=0.0166 23                                                         
+184W cG E         weighted average from |e decay and (n,|g) E=thermal.         
+184W cG RI        weighted average of 38.8 {I28} in (n,|g) E=thermal, 22 {I9}  
+184W2cG in (n,n'|g), 38.5 {I28} in |e decay (35.4 d), 40 {I9} in (n,|g) E=7.6  
+184WxcG eV.                                                                    
+184W cG BE2W      See comment on T{-1/2}(1121 level).                          
+184W  L   1130.045 9 (2)-                                                  D   
+184WX L XREF=ABCFGHIK                                                          
+184W cL J         E1+M2+E3 227|g to 2+ 903; reduced I|g for M1 primary |g from 
+184W2cL 0-,1- in (n,|g) E=300 eV favors 0-,2-; (E1) 124|g to 3+ 1005.          
+184W  G 124.067   12 9.0     7 (E1)                   0.214                    
+184W cG E         weighted average of 124.071 {I15} in (n,|g) E=thermal and    
+184W2cG 124.060 {I20} in |e decay.                                             
+184W cG RI        weighted average of 9.7 {I10} in (n,|g) E=thermal, 10.1 {I5} 
+184W2cG in |e decay (169 d), 9.8 {I19} in |e decay (35.4 d), 7.6 {I5} in       
+184WxcG |b{+-} decay.                                                          
+184W  G 226.746    8 100.0  21 E1+M2+E3               0.059   5                
+184W cG E         weighted average of 226.743 {I12} in (n,|g) E=thermal and    
+184W2cG 226.748 {I10} in |e decay.                                             
+184W cG M         |d(M2,E1)=0.0 {I4}, |d(E3,E1)=+0.10 {I3} from |e decay.      
+184W  G 1018.83    9 5.6     3 (E1)                                            
+184W cG RI        weighted average of 4.9 {I5} in (n,|g) E=thermal, 6.4 {I7} in
+184W2cG |e decay (169 d), 6.3 {I12} in |e decay (35.4 d), 5.7 {I5} in |b{+-}   
+184W3cG decay, 5.5 {I11} in (n,|g) E=7.6 eV.                                   
+184W cG E         weighted average of 1018.75 {I9} in |b{+-} decay, 1018.93    
+184W2cG {I5} in |e decay and 1018.63 {I8} in (n,|g) E=thermal.                 
+184W  L   1133.85010 4+               2.30 PS   17                         B   
+184WX L XREF=ABCFGJKLMNOPT                                                     
+184WF L FLAG=Y                                                                 
+184W cL J         E2 230|g to 2+ 903; |g band member.                          
+184W cL           Other T{-1/2}: 2.6 ps {I3} from RDM in Coulomb excitation.   
+184W  G 127.67    10 0.25   10 E2(+M1)   2.8    GT    1.57    6                
+184WB G BM1W<0.0010$BE2W>86                                                    
+184W cG E         from |e decay.                                               
+184W cG RI        based on ce(L2) data in |e decay; photons not observed.      
+184W  G 230.45     6 2.2     3 E2                     0.193                E   
+184WB G BE2W=75 12                                                             
+184W  G 385.5        0.83   LT [E2]                   0.0414                   
+184WB G BE2W=1.1 11                                                            
+184W cG E         from level energy difference.                                
+184W cG RI        based on ce(K) data in |e decay; photons not observed.       
+184W  G 769.778   17 100     3 M1+E2    -6.3    +20-320.0080  4                
+184WB G BM1W=0.00029 18$BE2W=8.0 7                                             
+184W cG E         from |e decay.                                               
+184W cG           Other |d: -12 {I+5-20} from Coulomb excitation.              
+184W  G 1022.63    3 74      3 E2                     0.00431 6                
+184WB G BE2W=1.46 13                                                           
+184W cG E         from |e decay.                                               
+184W cG RI        weighted average of 70 {I5} in |b{+-} decay and 77 {I4} in   
+184W2cG |e decay (35.4 d).                                                     
+184W  L   1221.308 8 3-               45 PS     5                          D   
+184WX L XREF=ACFGIJKMNOQW                                                      
+184WF L FLAG=Y                                                                 
+184W cL J         E1+M2 1110|g to 2+ 111; E1 857|g to 4+ 364.                  
+184W  G 87.452    10 4.15   19 E1                     0.529                    
+184WB G BE1W=0.000142 18                                                       
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 4.1 {I6} in |b{+-} decay and 4.15 {I20}  
+184W2cG in |e decay (169 d).                                                   
+184W  G 91.270    10 4.35   24 M1+E2       0.62  4    6.03                     
+184WB G BM1W=0.0099 13$BE2W=190 30                                             
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 4.54 {I28} in |b{+-} decay, 4.42 {I20} in
+184W2cG |e decay (169 d) and 3.3 {I5} in (n,|g) E=thermal.                     
+184W  G 215.326   12 48.9   13 E1                     0.0519                   
+184WB G BE1W=0.000112 13                                                       
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 52 {I4} in (n,|g) E=thermal, 48.3 {I14}  
+184W2cG in |e decay (169 d), 50 {I5} in |b{+-} decay, 59 {I24} in (n,|g) E=7.6 
+184WxcG eV.                                                                    
+184W  G 318.008   10 100.0  12 E1+M2    -0.020  10    0.0202  5                
+184WB G BE1W=7.1E-5 8                                                          
+184W cG E         from |e decay (169 d).                                       
+184W cG MR        from |g(|q,H,T) in |e decay; however, note that |d<0.017     
+184W2cG if B(M2)(W.u.)<1 as required by RUL.                                   
+184W  G 857.23     3 2.84    7 E1                     0.00238 4                
+184WB G BE1W=1.03E-7 12                                                        
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 2.93 {I19} in |b{+-} decay and 2.82 {I8} 
+184W2cG in |e decay (169 d).                                                   
+184W  G 1110.08    3 9.88   25 E1+M2      +0.08 3     0.0015910                
+184WB G BE1W=1.64E-7 19$BM2W=0.004 3                                           
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 9.0 {I12} in (n,|g) E=thermal, 10.1 {I5} 
+184W2cG in |e decay (169 d), 9.8 {I3} in |b{+-} decay, 10.5 {I35} in (n,n'|g), 
+184W3cG 15 {I3} in (n,|g) E=7.6 eV.                                            
+184W  G 1221.29    4 0.36    3(E3)                    0.00639 9                
+184WB G BE3W=5.9 9                                                             
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 0.41 {I6} in |b{+-} decay and 0.35 {I3}  
+184W2cG in |e decay (169 d).                                                   
+184W cG BE3       From measured B(E3)|^=0.082 {I6} in Coulomb excitation.      
+184W  L 1252.2     7 8+               1.49 PS     3                        A   
+184WX L XREF=NTX                                                               
+184WF L FLAG=Y                                                                 
+184WM L MOMM1=+2.9 6 (1985St18)                                                
+184W cL           |m: from g/g(364 level)=1.22 {I24} if                        
+184W2cL g(364 level)=0.293 {I23}; transient field.                             
+184W cL J         E2 504|g to 6+, band assignment.                             
+184W cL           Other T{-1/2}: 1.37 ps {I17} from RDM in Coulomb excitation. 
+184W  G 503.6        100       E2                     0.0206                   
+184WB G BE2W=185 5                                                             
+184W cG M,E       from Coulomb excitation.                                     
+184W  L 1282.71   10 (1,2)-                                                    
+184WX L XREF=IKM                                                               
+184W cL J         M1 primary |g from 0-,1- in (n,|g) E=300 eV. Possible |g     
+184W2cL to 2+.                                                                 
+184W  G 161.27    10 100                                                   N  ?
+184WL G FL=1121.440                                                            
+184W  L  1284.997  8 5-                 8.33 US 18                         M   
+184WX L XREF=ACFGKM                                                            
+184W cL T         from (216|g)(200<E(|g)<1000)(t) (1969Gl04) in |e decay (169  
+184W2cL d). Other T{-1/2}: 7.70 |ms {I3} (1969FaZY) and 8.0 |ms {I4}           
+184W3cL (1969Mo07) from delayed coin in {+184}Ta |b{+-} decay.                 
+184W cL J         E1+M2+E3 921|g to 4+ 364; E1+M2+E3 537|g to 6+ 748.          
+184W  G 63.6890   14 5.47   25 E2                     25.7                     
+184WB G BE2W=0.0188 11                                                         
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        from |b{+-} decay.                                           
+184W  G 151.134   20 0.57    5 [E1]                   0.1286                   
+184WB G BE1W=1.37E-11 13                                                       
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 0.50 {I9} in |b{+-} decay and 0.60 {I6}  
+184W2cG in |e decay (169 d).                                                   
+184W  G 279.0        0.010  LT[M2]                    1.111                   S
+184WB G BM2W=1.1E-6 +12-11                                                     
+184W cG RI        from |e decay (169 d).                                       
+184W  G 381.82    14 0.69    6 [E3]                   0.1579                   
+184WB G BE3W=0.139 13                                                          
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 0.65 {I7} in |b{+-} decay and 0.77 {I10} 
+184W2cG in |e decay (169 d).                                                   
+184W  G 536.674   15 40.4    6 E1+M2+E3               0.0068  1                
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 29 {I7} in (n,|g) E=thermal, 40.6 {I6} in
+184W2cG |e decay (169 d), 39.9 {I14} in |b{+-} decay, 49 {I11} in (n,n'|g).    
+184W cG MR        |d(M2,E1)=+0.070 {I6}, |d(E3,E1)=-0.025 {I4}, |l=-2.1 {I2}.  
+184W  G 920.933   21 100.0  14 E1+M2+E3               0.0030  2            E   
+184W cG M         |d(M2,E1)=-0.14 {I4}, |d(E3,E1)=-0.19 {I3}                   
+184W  G  1173.77   3 14.9    6(E3)                    0.0069810                
+184WB G BE3W=0.00116 6                                                         
+184W cG E         from |e decay (169 d).                                       
+184W cG RI        weighted average of 14.9 {I8} in                             
+184W2cG |e decay (169 d), 14.9 {I11} in |b{+-} decay, 15 {I4} in (n,n'|g).     
+184W  L   1294.94 10  5+                                                   B   
+184WX L XREF=AFKNPQ                                                            
+184WF L FLAG=X                                                                 
+184W  G 930.87    10   100                                                 N   
+184W cG           Other E|g: 932.2 in Coulomb excitation, 930.00 {I25} in      
+184W2cG (n,|g) E=thermal, 930.9 {I5} in |b{+-} decay.                          
+184W  L  1322.152 22 (0)+                                                  E   
+184WX L XREF=FGHIJKMV(1310)                                                    
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV; band assignment.
+184W  G 418.847   20 100    50 [E2]                   0.0331                   
+184W cG RI        from (n,n'|g).                                               
+184W  G 1211.0    10 7.5    LT                                             N   
+184W  L    1345.37 3 (4-)                                                  D   
+184WX L XREF=AFGK                                                              
+184WF L FLAG=X                                                                 
+184W  G 211.63     5 27      7 [E1]                   0.0542                   
+184W  G 215.21    10 232    LT                                             N   
+184W  G 339.34     4 100    20 [E1]                   0.0170  3                
+184W  G 981.1      5 15      5                                                 
+184W cG E         from (n,n'|g).                                               
+184W cG RI        weighted average of 12 {I5} in (n,n'|g), 23 {I8} in |b{+-}   
+184WxcG decay.                                                                 
+184W  L   1360.38 19 (4+)                                                  C   
+184WX L XREF=J(*)KMP                                                           
+184WF L FLAG=X                                                                 
+184W cL J         239|g to 2+ 1122; 996|g to 4+ 364.                           
+184W  G 238.8      6 100    28                                             N   
+184W  G 996.3      2 500    LT                                             N   
+184W  G 1249.8    10 44     LT                                             N   
+184W  L  1386.296 13 2+               1.08 PS   10                         F   
+184WX L XREF=BFGHIJ(*)KMNPUV                                                   
+184WF L FLAG=Y                                                                 
+184W cL J         E2 1386|g to 0+ g.s..                                        
+184W  G 380.34     4 3.9    10 M1+E2      1.3   +23-6 0.070  22                
+184WB G BM1W=0.003 +6-3$BE2W=13 +18-13                                         
+184W cG E         from |e decay (35.4 d).                                      
+184W cG           Other I|g: 4.2 {I11} in |e decay (35.4 d).                   
+184W  G 482.92     3 15.8   18M1+E2                   0.042  20                
+184W cG RI        weighted average of 13.9 {I28} in (n,|g) E=7.6 eV, 11.8      
+184W2cG {I25} in Coulomb excitation, 15.4 {I28} in |e decay (35.4 d), 19.5     
+184W3cG {I20} in (n,|g) E=thermal.                                             
+184W cG M         small E0 component suggested in |e decay.                    
+184W  G 1275.11    3 100     5M1+E2     +3      GE                         e   
+184WB G BM1W<0.00054$BE2W>0.98                                                 
+184W cG MR,M      |d(M1,E2):-0.42 {I4} or >18, <-50 from |g(|q,H,T) (1973Kr01),
+184W2cG 1.2 {I+10-5} from |a(K)exp if no E0 in |e decay (35.4 d), but 1974Mc08 
+184W3cG suggest the possible presence of an E0 component; |d=+6 {I+6-3} from   
+184W4cG |g(|q) in Coulomb excitation (1971Mi08), where this larger solution is 
+184W5cG considered the more likely. The evaluator adopts |d|>+3.               
+184W  G  1386.302 17 81      3 E2                     0.00242 4                
+184WB G BE2W=0.66 7                                                            
+184W cG RI        weighted average of 83 {I17} in (n,|g) E=7.6 eV, 70 {I7} in  
+184W2cG (n,n'|g), 86 {I4} in |e decay (35.4 d), 80 {I4} in (n,|g) E=thermal.   
+184W3cG Other I|g: 84 in Coulomb excitation.                                   
+184W  L  1425.003 16 (3)+                                                  G   
+184WX L XREF=ABFGJ(*)KP                                                        
+184W cL J         E1 295|g to 2- 1330; E2 1061|g to 4+ 364; band assignment.   
+184W  G 203.56    10 13.1   24 [E1]                   0.0599                   
+184W cG           Other I|g: 16 {I8} in (n,|g) E=7.6 eV, 6 {I3} in |b{+-}      
+184W2cG decay, 11 {I3} in (n,n'|g).                                            
+184W  G 294.962   15 100     5 E1                     0.0238                   
+184W  G 1060.85   15 11.4   15 E2                     0.00401 6                
+184W cG RI        weighted average of 13 {I3} in (n,|g) E=7.6 eV, 15 {I4} in   
+184W2cG |b{+-} decay, 11.9 {I23} in |e decay (35.4 d), 7 {I3} in (n,n'|g).     
+184W3cG Other: 36 {I4} in (n,|g) E=thermal.                                    
+184W  G 1313.79    4 58      6 E2                     0.00266 4                
+184W cG E         from |e decay (35.4 d).                                      
+184W cG RI        weighted average of 57 {I11} in (n,|g) E=7.6 eV, 69 {I10} in 
+184W2cG |b{+-} decay, 51 {I4} in |e decay (35.4 d), 74 {I7} in (n,|g)          
+184W3cG E=thermal. Other I|g: <43 in (n,n'|g).                                 
+184W  L    1431.02 5 2+               5 PS      GT                         E   
+184WX L XREF=BFGHIJ(*)KMNUV                                                    
+184WF L FLAG=Y                                                                 
+184W cL J         E2 1431|g to 0+ g.s..                                        
+184W  G 424.36    15 8.3    19                                                ?
+184WL G FL=1005.971                                                            
+184W  G 1319.84    6 100     6 M1+E2+E0                                        
+184W  G 1430.97    6 79      6 E2                     0.00230 4                
+184WB G BE2W<0.13                                                              
+184W  L  1446.266 13 6-                                                    O   
+184WX L XREF=ACJ(*)KP                                                          
+184W cL J         M1 from 7-, M1 to 5-.                                        
+184W  G  161.269  15   100     M1+E2      0.53     7  1.09    3            E   
+184W  L 1476.9     5  6+              1.82 PS    9                         B   
+184WX L XREF=MNPQT                                                             
+184WF L FLAG=X                                                                 
+184W cL J         E2 225|g to 8+ 1252; E2 343|g to 4+ 1134.                    
+184W cL T         from B(E2) in Coulomb excitation. Other: 2.0 ps {I4} from DSA
+184W2cL in Coulomb excitation (1991Wu05).                                      
+184W  G 224.7                  E2                     0.210                    
+184WB G BE2W=2.5 +18-4                                                         
+184W cG BE2W      From measured B(E2)|^=0.0119 {I+85-21} in Coulomb excitation.
+184W cG E         from Coulomb excitation.                                     
+184W  G 343.1                  E2                     0.0574                   
+184WB G BE2W=179 +8-10                                                         
+184W cG E         from Coulomb excitation.                                     
+184W cG BE2W      From measured B(E2)|^=1.60 {I+7-9} in Coulomb excitation.    
+184W  G 728.6                  M1+E2    -4      +1-15 0.0095  8                
+184WB G BE2W=10.5 5                                                            
+184W cG E         from Coulomb excitation.                                     
+184W cG BE2W      From measured B(E2)|^=0.065 {I3} in Coulomb excitation.      
+184W cG M,MR      from Coulomb excitation.                                     
+184W  G 1112.9                 E2                     0.00364 6                
+184WB G BE2W=1.13 7                                                            
+184W cG E         from Coulomb excitation.                                     
+184W cG BE2W      From measured B(E2)|^=0.0101 {I+5-6} in Coulomb excitation.  
+184W  L 1492       4 (5-)                                                  D   
+184WX L XREF=M                                                                 
+184WF L FLAG=X                                                                 
+184W  L  1501.545 13 7-                  2.35 NS 10                        N   
+184WX L XREF=AC                                                                
+184W cL T         from (K| x ray)(216|g)(t) (1969Gl04) in {+184}Re |e decay    
+184WxcL (169 d).                                                               
+184W cL J         E2 217|g to 5-, log| {Ift}=7.8 from 8(+).                    
+184W  G 55.2790    8 24.5   25 M1+E2       0.051 17   4.68   12            E   
+184WB G BM1W=0.0052 7$BE2W=1.8 13                                              
+184W  G 216.547   12 100.0  21 E2                     0.237                E   
+184WB G BE2W=3.09 23                                                           
+184W  L    1523.27 8 (3+)                                                  F   
+184WX L XREF=FGJ(*)KP                                                          
+184WF L FLAG=X                                                                 
+184W  G 1412.05    8   100                                                     
+184W  L    1536.6616 (4+)                                                  G   
+184WX L XREF=AFJ(*)KMPQ                                                        
+184WF L FLAG=X                                                                 
+184W  G 112                                                                   ?
+184W cG E         from |b{+-} decay.                                           
+184W  G 191.0      5 12      5 [E1]                   0.0704 11            B   
+184W  G 315.4      4 100    24                                             B   
+184W  G 1172.1     5 83     24                                             B   
+184W  G 1425.54   20 56      5                                             B   
+184W cG           Other I|g: 77 {I19} from (n,|g) E=thermal.                   
+184W  L   1570.2   3 (2+)                                                      
+184WX L XREF=FG                                                                
+184W cL J         |g's to 0+,(3)+.                                             
+184W  G 145.6      8 2.6E2  13                                                ?
+184W cG E,RI      from (n,|g) E=7.6 eV. |g should have been seen in (n,|g)     
+184W2cG E=thermal also, but was not, rendering this placement questionable.    
+184W  G 1570.19   25 100    40                                                 
+184W cG RI        from (n,|g) E=7.6 eV.                                        
+184W  L    1581.46 9 (6-)                                                      
+184WX L XREF=AKP                                                               
+184W cL J         L(d,p)>3 for 1/2+ target; band assignment.                   
+184W  G 296.46    10   100                                                 B   
+184W  L  1613.512 20 (1+)                                                      
+184WX L XREF=FHIKUV                                                            
+184W cL J         strong 608|g to 3+ 1006 inconsistent with J=0 so level       
+184W2cL differs from the 0+ 1614.3 {I5} level excited in (p,t); 1502|g to 2+   
+184W3cL 111; primary |g to 1613 level from 0- in (n,|g) E=res;                 
+184W4cL 1975Ca23 argue that levels at 1614 and 1615 are 1+ and 0+,             
+184W5cL respectively, on the basis of more intense feeding of the 1614 level   
+184W6cL in (n,|g) E=7.6 eV.                                                    
+184W  G 607.620   25 100     6                                                 
+184W  G 710.08     3 94     10                                                 
+184WL G FL=903.307                                                             
+184W  G 1502.35    8 24     12                                                 
+184W  L   1614.3   5 0+                                                        
+184WX L XREF=I(*)KO                                                            
+184W cL J         L(p,t)=0 for E=1614.3 {I5} level. Consistent with J|p=0+,2+  
+184W2cL recommended for a 1613.9 {I7} level fed by E1 primary |g from 0-,1- in 
+184W3cL (n,|g) E=300 eV.                                                       
+184W  L    1614.90 6 (1,2)+                                                    
+184WX L XREF=FGI(*)KUV(*)                                                      
+184W cL J         E1 primary |g's from 0-,1- in (n,|g) E=300 eV, with 0+,2+    
+184W2cL favored for a 1613.9 {I7} level and 1+ for a 1615.46 {I23} level;      
+184W3cL 1504|g to 2+ 111; possible 1615|g to 0+ g.s. in (n,|g) E=thermal: |g|g 
+184W4cL coin inconsistent with J=0.                                            
+184W  G 711.58     6 100    10                                                 
+184W  G 1503.74   15 54     14                                                 
+184W cG           Other I|g: 77 {I18} from (n,|g) E=7.6 eV; 61 from            
+184W2cG (n,|g) E=thermal: |g|g coin.                                           
+184W  G 1614.6       3.9    14                                             U   
+184W cG E         |g reported only in (n,|g) E=thermal: |g|g coin.             
+184W  L    1627.71 3 (1)+                                                      
+184WX L XREF=FGHIPUV                                                           
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV with reduced I|g 
+184W2cL that favors 1+; 724|g to 2+ 903.                                       
+184W  G 241.46     6 4.9    10 [M1]                   0.396                    
+184W  G 724.39     3 100     5                                                 
+184W  L 1637       4 (7-)                                                  M   
+184WX L XREF=P                                                                 
+184WF L FLAG=X                                                                 
+184W  L   1661.09 19                                                           
+184WX L XREF=J(*)KV(1651)                                                      
+184W cL J         527|g to 4+ 1134                                             
+184W  G 526.8      4 100    31                                             N   
+184W  G 655.5      3 300    LT                                             N   
+184W  G 757.6      3 1000   LT                                             N   
+184W  G 1550.4    10 38     LT                                             N   
+184W  L   1676.42 12 (5+)                                                  G   
+184WX L XREF=AJ(*)KP                                                           
+184W cL J         1312|g to 4+ 364; 382|g to (5+) 1295; 331|g to (4-) 1345;    
+184W2cL band assignment suggested in (n,n'|g).                                 
+184W  G 331.06    12 74     17                                             B   
+184W  G 381.6      5 100    52                                             B   
+184W  G 1312.2     4 61     17                                             B   
+184W  L     1683.4 5                                                           
+184WX L XREF=K                                                                 
+184W cL J         gammas to 2+ and 4+.                                         
+184W  G 1319.6     5 670    LT                                             N   
+184W  G 1571.5     8 100    50                                             N   
+184W  L    1699.04 4 (5)+                                                      
+184WX L XREF=AP                                                                
+184W cL J         E1 414|g to 5- 1285, 274|g to (3)+ 1425, 253|g to 6- 1446.   
+184W cL           Possible configuration: (|n 7/2[503])+(|n 3/2[512])          
+184W2cL (1984Bu37).                                                            
+184W  G 162       AP 2.3    10 [M1]                   1.202                B   
+184W cG RI        possibly overestimated; see comment on this |g in |b{+-}     
+184W2cG decay data set.                                                        
+184W  G 253       AP 6.8    20 [E1]                   0.0347               B   
+184W  G 274.07     7 0.60    6 [E2]                   0.1118               B   
+184W  G 354.0      2 0.20    8 [E1]                   0.01544              B   
+184W  G 414.01     5 100       E1                     0.01078              B   
+184W cG M         from {+184}Ta |b{+-} decay.                                  
+184W  G 1334.9     3 0.07    2                                                 
+184W  L   1713.47 10 (0)+                                                      
+184WX L XREF=FHIKU                                                             
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV with             
+184W2cL reduced I|g that favors 0+,2+. 0+ proposed by 1975Ca23 on the          
+184W2cL basis of (n,|g) population systematics.                                
+184W  G 810.16    10   100                                                     
+184W  L 1722       4 (1+)                                                      
+184WX L XREF=PV                                                                
+184W cL J,E       primary |g to 1722 level from 0- resonance in (n,|g) E=res.  
+184W2cL Presumed to feed this level instead of the (0)+ 1713.                  
+184W  L    1746.03 4 (6)+                                                      
+184WX L XREF=AK                                                                
+184W cL J         E1 461|g to 5- 1285, |g to 7- 1502.                          
+184W cL           Possible configuration: (|p 5/2[402])+(|p 7/2[404])          
+184W2cL (1984Bu37).                                                            
+184W  G 244.44     6 33      4 [E1]                   0.0378               B   
+184W  G 299.79     9 4.4     5 [E1]                   0.0229               B   
+184W  G 461.06     5 100     3 E1                     0.0084812            B   
+184W cG M         from {+184}Ta |b{+-} decay.                                  
+184W  L 1755       3 (4+)                                                      
+184WX L XREF=MPQ                                                               
+184W cL E         weighted average of 1756 {I5} from (d,d'), 1754 {I5} from    
+184W2cL (d,p) and 1755 {I5} from (t,p).                                        
+184W cL J         L(d,p)=3; assigned by 1973Kl06 as K=4 bandhead based on      
+184W2cL comparison of experimental and theoretical cross sections.             
+184W  L   1774.5   5 0+                                                        
+184WX L XREF=O                                                                 
+184W cL J         L(p,t)=0.                                                    
+184W  L    1775.34 3 (2)+                                                      
+184WX L XREF=FGHIKP                                                            
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV; 1412|g to 4+    
+184WxcL 364.                                                                   
+184W  G 769.44     3 51     24                                                 
+184W cG           Other I|g: 109 {I47} from (n,|g) E=7.6 eV.                   
+184W  G 871.56     8 100    21                                                 
+184WL G FL=903.307                                                             
+184W  G 1412.4     5                                                          ?
+184W cG           E|g and placement from (n,n'|g) for doubly-placed |g.        
+184W  L 1795.8     5 0+                                                        
+184WX L XREF=OPV(*1803)                                                        
+184W cL E         from (p,t). E=1796 {I5} for composite peak in (d,p).         
+184W cL J         L(p,t)=0.                                                    
+184W  L    1808.27 6(2+)                                                       
+184WX L XREF=FGHIKPQUV(*1803)                                                  
+184W cL J         1809|g to 0+ g.s.; 1445|g to 4+ 364. (M1) primary |g from    
+184W2cL 0-,1- in (n,|g) E=300 eV for E=1808.7 {I5} level is inconsistent with  
+184W3cL this and may indicate the existence of a separate close-lying level.   
+184W  G 586.94     7 44      4                                                ?
+184W  G 678.17     6 100     9                                                 
+184WL G FL=1130.045                                                            
+184W  G 802.53    20 41      9                                                 
+184W cG           Other I|g: 26 {I6} from (n,|g) E=7.6 eV.                     
+184W  G 1444.5     3 79     21                                                 
+184W  G 1697.5     3 91     15                                                 
+184W  G 1808.5     4 68     15                                                 
+184W  L     1846.615                                                          ?
+184WX L XREF=G                                                                 
+184W  L 1860.8     9 10+              0.570 PS  +24-31                     A   
+184WX L XREF=NQ                                                                
+184WF L FLAG=Y                                                                 
+184W cL J         E2 to 8+, band assignment.                                   
+184W cL T         other T{-1/2}: 0.66 ps {I9} from DSA (1991Wu05) in Coulomb   
+184W2cL excitation.                                                            
+184W  G 608.6        100       E2                     0.01309                  
+184WB G BE2W=189 +11-8                                                         
+184W cG E,M       from Coulomb excitation.                                     
+184W  L    1876.71 9 (2)+                                                      
+184WX L XREF=FHIKU                                                             
+184W cL J         1877|g to 0+ g.s.; 655|g to 3- 1221; E1 primary |g from      
+184W2cL 0-,1- in (n,|g) E=300 eV.                                              
+184W  G 655.38    12 26      5                                                 
+184W  G 746.59    15 47     11                                                 
+184W  G 1765.6     4 100    29                                                 
+184W  G 1877.3     4 92     18                                                 
+184W  L     1894.3 4 (2+,3)                                                    
+184WX L XREF=KMP(1901)                                                         
+184W cL J         764|g to 2- 1130; 1531|g to 4+ 364; 1784|g to 2+ 111.        
+184W  G 763.6      6 100    39                                             N   
+184W  G 1530.5     8 16      8                                             N   
+184W  G 1783.6     6 37     11                                             N   
+184W  L 1921       5                                                           
+184WX L XREF=P                                                                 
+184W  L 1925.4     7 8+                                                    B   
+184WX L XREF=NT                                                                
+184W cL J         E2 intraband 449|g to 6+ 1477; E2 Coulomb excitation from    
+184W2cL 10+ 1861.                                                              
+184W  G 64.6                    E2                    24.0                     
+184WB G BE2W=2.2 +22-13                                                        
+184W cG BE2W      From measured B(E2)|^=0.011 {I+11-7} in Coulomb excitation.  
+184W cG E         from level energy difference.                                
+184W  G 448.7                  E2                     0.0276                   
+184W cG E         from Coulomb excitation.                                     
+184WB G BE2W=221 +14-9                                                         
+184W cG BE2W      From measured B(E2)|^=1.79 {I+11-7} in Coulomb excitation.   
+184W  G 673                    M1+E2    -2.3    +42-4 0.0129 10                
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184WB G BE2W=11.0 +8-26                                                        
+184W cG BE2W      From measured B(E2)|^=0.069 {I+5-16} in Coulomb excitation.  
+184W cG M,MR      from Coulomb excitation.                                     
+184W  G 1177.3                 E2                     0.00327 5                
+184W cG E         from Coulomb excitation.                                     
+184WB G BE2W=0.63 +6-11                                                        
+184W cG BE2W      From measured B(E2)|^=0.0052 {I+5-9} in Coulomb excitation.  
+184W  L     1995.4 3 1(-)                                                      
+184WX L XREF=DFHIKU                                                            
+184W cL J         D 1995|g to 0+ g.s.; (M1) contaminated primary |g from 0-,1- 
+184W2cL in (n,|g) E=300 eV.                                                    
+184W  G 1995.35   25   100     D                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L   2012.94 10 (2)+                                                      
+184WX L XREF=FHIU                                                              
+184W cL J         1007|g to 3+ 1006; 883|g to 2- 1130; E1 primary |g from 0-,1-
+184W2cL in (n,|g) E=300 eV with reduced I|g that favors 0+,2+.                 
+184W  G 882.75    15 185    LT                                             &   
+184W  G 1007.03   12 235    LT                                             &   
+184W  G 1901.9     3 100    31                                                 
+184W  L    2029.83 6 (5-,6,7-)                                                 
+184WX L XREF=AP(2022)                                                          
+184W cL J         |g to 7-, log| {Ift}=8.2 from (5-).                          
+184W  G 528.28     6   100                                                 B   
+184W  L     2031.3 4 0+                                                        
+184WX L XREF=FHIOU                                                             
+184W cL J         L(p,t)=0 for 2030.7 {I6} level; E1 primary |g from 0-,1- in  
+184W2cL (n,|g) E=300 eV.                                                       
+184W  G 1920.1     4   100                                                     
+184W  L   2035.56 18 1+,2+                                                     
+184WX L XREF=FHIKU                                                             
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV; strong |g to 0+.
+184W  G 1132.36   20 17      3                                                 
+184W  G 2035.1     4 100    20                                                 
+184W  L 2044       6                                                           
+184WX L XREF=PV(*2050)                                                         
+184W cL E         from (d,p).                                                  
+184W  L   2056.41 17(1)-              26 FS      5                         W   
+184WX L XREF=DFIKUV(*2050)                                                     
+184W cL J         M1 primary |g from 0-,1- in (n,|g) E=300 eV; 2056|g to 0+    
+184WxcL g.s..                                                                  
+184W cL           K=(0) based on branching in (|g,|g').                        
+184W  G 1945.3     3 100    15 [E1]                                            
+184WB G BE1W=0.00062 16                                                        
+184W cG RI        from (|g,|g').                                               
+184W  G 2056.34   20 76        [E1]                                            
+184WB G BE1W=0.00040 9                                                         
+184W cG RI        from (|g,|g').                                               
+184W  L    2060.8  3                                                           
+184WX L XREF=FGHKP(*)UV                                                        
+184W cL J         636|g to (3)+ 1425; 1950|g to 2+ 111, so J|p=(1+,2,3,4+).    
+184W2cL If this is the level fed by primary |g from 0- in (n,|g) E=res,        
+184W3cL J|p=(1+) would Be favored.                                             
+184W  G 635.92     8 27      4                                                ?
+184W cG           Other I|g: 8.6 {I21} from (n,|g) E=7.6 eV.                   
+184W  G 1949.60   25 100    15                                                 
+184W  L 2063.4     3 (0,2)+                                                    
+184WX L XREF=IP(*)                                                             
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV with reduced I|g 
+184W2cL that favors J=0,2.                                                     
+184W  L 2074.0     6 (0,2)-                                                    
+184WX L XREF=IQ                                                                
+184W cL J         M1 primary |g from 0-,1- in (n,|g) E=300 eV with reduced I|g 
+184W2cL that favors J=(0,2).                                                   
+184W  L 2084.8     5 (0,2)-                                                    
+184WX L XREF=I                                                                 
+184W cL J         M1 primary |g from 0-,1- in (n,|g) E=300 eV with reduced I|g 
+184W2cL that favors J=0,2.                                                     
+184W  L 2089.5     5 (1)-                                                      
+184WX L XREF=FI                                                                
+184W cL J         M1 primary |g from 0-,1- in (n,|g) E=300 eV with reduced I|g 
+184W2cL that favors J=1.                                                       
+184W  L     2097.7 3 (1)+             31 FS      4                         W   
+184WX L XREF=DFHIKUV(2090)                                                     
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV with reduced I|g 
+184W2cL that favors J=1; 2098|g to 0+ g.s.; probably primary |g from 0- in     
+184W3cL (n,|g) E=res.                                                          
+184W  G 1986.6     4 81     17                                                 
+184W  G 2097.6     4 100    14 [M1]                                            
+184WB G BM1W=0.043 10                                                          
+184W  L    2104.20 8 (2)+                                                      
+184WX L XREF=FHIPU                                                             
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV with reduced I|g 
+184W2cL that favors J=0,2; 782|g to (0)+ 1322; 1098|g to 3+ 1006.              
+184W  G 782.2      3 26      9                                             &   
+184W  G 982.44    18 41      9                                             &   
+184W  G 1098.28    8 100     9                                             &   
+184W  L   2111.2   6 0+                                                        
+184WX L XREF=OI(*)                                                             
+184W cL E         from (p,t).                                                  
+184W cL J         L(p,t)=0.                                                    
+184W  L   2112.49 18                                                           
+184WX L XREF=FHI(*)                                                            
+184W cL J         982|g to (2)- 1130, so J|<(4).                               
+184W  G 982.44    18   100                                                 &   
+184W  L   2124.6   7 (1,2+)                                                    
+184WX L XREF=I(*)P(*)UV(*)                                                     
+184W cL J         1121|g to 0+ 1002; 1222|g to 2+ 903. See also comment on 2126
+184W2cL level.                                                                 
+184W  G 1121.4       47     18                                                 
+184W  G 1222.0       100     9                                                 
+184W  L    2126.07 5                                                           
+184WX L XREF=FGHI(*)KMP(*)UV(*)                                                
+184W cL J         996|g to 2- 1130; 2015|g to 2+ 1113. An E1 primary |g from   
+184W2cL 0-,1- in (n,|g) E=300 eV with reduced I|g that favors J=0,2 populates  
+184W3cL 2126 and/or 2125 level..                                               
+184W  G 996.06     5 52      5                                                 
+184W cG           Other I|g: 66 {I13} in (n,|g) E=7.6 eV.                      
+184W  G 1004.47    8 44      5                                                 
+184W cG           Other I|g: 41 {I8} in (n,|g) E=7.6 eV.                       
+184W  G 2015.32   20 100    10                                                 
+184W cG           Other I|g: 100 {I41} in (n,|g) E=7.6 eV.                     
+184W  L    2168.19 5 (1)+                                                      
+184WX L XREF=FGHIKPUV                                                          
+184W cL J         2168|g to 0+ g.s.; 743|g to (3)+ 1425; E1 primary |g from    
+184W2cL 0-,1- in (n,|g) E=300 eV; primary |g from 0- in (n,|g) E=res.          
+184W  G 743.19     4 66     14                                                 
+184W cG RI        from (n,|g) E=7.6 eV.                                        
+184W  G 782.2      3 28     LT                                             &  ?
+184W cG RI        if I(1046|g)=34.                                             
+184W  G 846.21    25 34     10                                                 
+184W cG RI        if I(1046|g)=34.                                             
+184W  G 1046.4     3 34      8                                                 
+184W cG RI        from (n,|g) E=7.6 eV.                                        
+184W  G 1264.7    AP 20      4                                                 
+184W cG E,RI      from (n,|g) E=7.6 eV. Other I|g: 14 {I7} from (n,|g)         
+184W2cG E=thermal; 29 {I11} from (n,|g) E=thermal: |g|g coin.                  
+184W  G 2056.5     5 100     4                                                 
+184W cG E,RI      from (n,|g) E=7.6 eV.                                        
+184W  G 2168.0     5 10      4                                                 
+184W cG E,RI      from (n,|g) E=7.6 eV. Other I|g:                             
+184W2cG 62 {I10} from (n,|g) E=thermal: |g|g coin.                             
+184W  L 2182       5 (0+)                                                      
+184WX L XREF=Q                                                                 
+184W cL J         L=(0) in (t,p).                                              
+184W  L 2194.7    10                                                           
+184WX L XREF=H                                                                 
+184W  L   2221.77 22 (LE4)                                                     
+184WX L XREF=FH(*)I(*)P(*)Q(*)V                                                
+184W cL J         447|g to 2+ 111, so J|<(4). E1 primary |g from 0-,1- in      
+184W2cL (n,|g) E=300 eV may feed 2222 and/or 2223 levels. In (n,|g) E=res,     
+184W3cL primary |g from 0- possibly feeds this level; if so, J|p=(1+) is       
+184W4cL favored.                                                               
+184W  G 446.64    25 21      6                                                 
+184WL G FL=1775.34                                                             
+184W  G 2110.0     4 100    26                                                 
+184W  L  2222.8    5 (2+,3,4+)                                                 
+184WX L XREF=GH(*)I(*)P(*)Q(*)                                                 
+184W cL J         1859|g to 4+ 364; possible 1320|g to 2+ 903. E1 primary |g   
+184W2cL from 0-,1- in (n,|g) E=300 eV may feed 2222 and/or 2223 levels; its    
+184W3cL reduced intensity favors J|p=0+,2+.                                    
+184W  G 1319.5    AP                                                          ?
+184W cG E         from {+183}W(n,|g) 7.6 eV; doubly-placed |g.                 
+184W  G 1858.7     5                                                           
+184W cG E         from {+183}W(n,|g) 7.6 eV.                                   
+184W  L    2228.30 7 (2-,3,4-)                                                ?
+184WX L XREF=F                                                                 
+184W cL J         883|g to (4)- 1345; 1098|g to 2- 1130.                       
+184W  G 882.75    15 60     12                                             &   
+184W  G 1007.03   12 82      9                                             &   
+184W  G 1098.28    8 100    10                                             &   
+184W  L     2246.3 3  (2)+                                                     
+184WX L XREF=FGHIPUV                                                           
+184W cL J         2245|g to 0+ g.s.; E1 primary |g from 0-,1- in (n,|g) E=300  
+184W2cL eV with reduced I|g that favors J=0,2. However, if primary |g from 0-  
+184W3cL in (n,|g) E=res feeds this level, J|p=1+ would Be preferred.           
+184W  G 2135.1     3 100    41                                                 
+184W cG RI        from (n,|g) E=7.6 eV.                                        
+184W  G 2245      AP 38     16                                                 
+184W cG E,RI      from (n,|g) E=7.6 eV.                                        
+184W  L    2294.61 7 (2)+                                                      
+184WX L XREF=FHIPUV(*2293)                                                     
+184W cL J         2295|g to 0+ g.s.; 2184|g to 2+ 111; E1 primary |g from      
+184W2cL 0-,1- in (n,|g) E=300 eV with reduced I|g that favors J=0,2.           
+184W  G 1173.1       8.4    16                                             U   
+184W  G 1391.23    8 46      5                                                 
+184W  G 2183.62   15 100    15                                                 
+184W  G 2294.5       4.9    22                                             U   
+184W  L 2309.6     7 0+                                                        
+184WX L XREF=OV(*2293)                                                         
+184W cL E         from (p,t).                                                  
+184W cL J         L(p,t)=0.                                                    
+184W  L 2320.4     3  (1-,2-)                                              U   
+184WX L XREF=FIP(*)U                                                           
+184W cL J         1417|g to 2+ 930; (M1) primary |g from 0-,1- in (n,|g) E=300 
+184WxcL eV.                                                                    
+184W  G 1417.1       100                                                   U   
+184W  L     2328.7 5(1,2+)                                                    ?
+184WX L XREF=GP(*)                                                             
+184W cL J         |g to 0+.                                                    
+184W  G     2328.7 5   100                                                     
+184W  L 2349.9     5                                                       U   
+184WX L XREF=P(*)U                                                             
+184W  G  2349.9      100                                                   U   
+184W  L 2352.2     2 (1)-                                                      
+184WX L XREF=FHIP(*)                                                           
+184W cL J         M1 primary |g from 0-,1- in (n,|g) E=300 eV.                 
+184W  L     2370.1 3 (1)+                                                      
+184WX L XREF=FHIPUV                                                            
+184W cL J         E1 primary from 0-,1- in (n,|g) E=300 eV.                    
+184W  G 2258.6     4 100    26                                                 
+184W  G 2370.4     4 93     14                                                 
+184W  L   2389.14 12 (4-,5,6-)                                                 
+184WX L XREF=AFP(*)                                                            
+184W cL J         gammas to 4- and 6-.                                         
+184W  G 359.2      3 22      6                                             B   
+184W  G 807.68    10 100    12                                             B   
+184W  G 942.9      4 21      4                                             B   
+184W  G 1043.1     8 1.5    AP                                             B   
+184W  G 1093.8    10 4       3                                             B   
+184W  G 1104.4     3 9       4                                             B   
+184W  L 2390.3     2 (1)+                                                  U   
+184WX L XREF=IP(*)UV(*2400)                                                    
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV has reduced      
+184W2cL intensity that favors J|p=1+.                                          
+184W  G  2279.1      27      9                                             U   
+184W  G  2390.3      100    16                                             U   
+184W  L 2392.3     3                                                           
+184WX L XREF=HP(*)V(*2400)                                                     
+184W  L 2395.8     4 (1)+                                                  U   
+184WX L XREF=FIMP(*)UV(*2400)                                                  
+184W cL J         E1 primary |g from 0-,1- in (n,|g) E=300 eV.                 
+184W  G  782.2     3 14     LT                                             &  ?
+184WL G FL=1613.512                                                            
+184W  G  1274.3      20.6   18                                             U   
+184W  G  2031.7      16      3                                             U   
+184W  G  2284.2    4 100     6                                                 
+184W cG RI        from (n,|g) E=thermal: |g|g coin.                            
+184W  G  2395.9    5 48      4                                                 
+184W cG RI        from (n,|g) E=thermal: |g|g coin. Other: 37 {I14} in (n,|g)  
+184W2cG E=thermal.                                                             
+184W  L 2401.8     6                                                           
+184WX L XREF=HP(*)                                                             
+184W  L 2404.2     3 0+                                                    U   
+184WX L XREF=FIOU                                                              
+184W cL J         L(p,t)=0 for E=2404.7 {I7} level. Consistent with E1         
+184W2cL primary from 0-,1- in (n,|g) E=300 eV with reduced intensity that      
+184W3cL favors J|p=0+,2+.                                                      
+184W  G  1500.9      100    13                                             U   
+184W  G  2292.9      49     12                                             U   
+184W  L 2421.5     7 (0+)                                                      
+184WX L XREF=HMPQ                                                              
+184W cL J         L=(0) in (t,p)                                               
+184W  L 2429.6    11                                                           
+184WX L XREF=FV(2420)                                                          
+184W cL J         if this is the level populated by primary |g from 0- in      
+184W2cL (n,|g) E=res, J|p=1+ is favored.                                       
+184W  L 2439.8     2                                                       U   
+184WX L XREF=FHPU                                                              
+184W  G  2328.6      100                                                   U   
+184W  L 2458.4     2 1                62 FS     12                         U   
+184WX L XREF=DFHU                                                              
+184WF L FLAG=W                                                                 
+184WF L FLAG=I                                                                 
+184W  G  2347.1      19      4                                             U   
+184W  G  2458.4      100     9 D                                           U   
+184W cG M         from anisotropy in (|g,|g').                                 
+184W  L 2468.9     7 (0+)                                                      
+184WX L XREF=OV                                                                
+184W cL E         from (p,t).                                                  
+184W cL J         L(p,t)=(0).                                                  
+184W  L 2471.7    12   10+            0.82 PS   +15-4                      B   
+184WX L XREF=N                                                                 
+184WF L FLAG=Y                                                                 
+184W  G 546.3        100       [E2]                   0.0169                   
+184WB G BE2W=224 +12-41                                                        
+184WL G FL=1925.4                                                              
+184W cG E         from Coulomb excitation.                                     
+184W  L 2479.3     9 (8-,9,10+)                                            P   
+184WX L XREF=T                                                                 
+184W cL J         |g's to 8+ levels but not to 6+ levels; calculated energies  
+184W2cL for possible two quasiparticle configurations at roughly this energy   
+184W3cL have J|p=8- or 9- or 10+, the latter, |n{+2} 11/2[615]+9/2[624]        
+184W4cL configuration, being the closest (2004Wh02).                           
+184W  G 554                                                                    
+184WL G FL=1925.4                                                              
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W  G 1227                                                                   
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W  L 2485.3    12                                                           
+184WX L XREF=F(2486.7)H(2484.3)                                                
+184W cL E         weighted average from (n,|g) E=thermal and (n,|g) E=2 keV.   
+184W  L   2492.67 10 (4-,5,6)                                                  
+184WX L XREF=AHP                                                               
+184W cL J         log| {Ift}=7.4 from (5-), |g to 6-.                          
+184W  G 1046.4     6      15 5                                             B   
+184W  G 1207.67   10    100 10                                             B   
+184W  L 2509.4     2                                                       U   
+184WX L XREF=FHUV(*2513)                                                       
+184W  G  1606.1      22      7                                             U   
+184W  G  2398.1      100    13                                             U   
+184W  L 2512.7     7 0+                                                        
+184WX L XREF=OV(*2513)                                                         
+184W cL E         from (p,t).                                                  
+184W cL J         L(p,t)=0.                                                    
+184W  L 2518.9     3                                                           
+184WX L XREF=FHPV(*2513)                                                       
+184W  L 2520.7     3                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2409.5      100                                                   U   
+184W  L 2532.4     6                                                           
+184WX L XREF=HP                                                                
+184W  L 2546.1     7 1                65 FS     15                         W   
+184WX L XREF=D                                                                 
+184WF L FLAG=I                                                                 
+184W cL           K=1 based on branching in (|g,|g') (1993He15).               
+184W  G  2435        44     11                                                 
+184W cG E,RI      from (|g,|g').                                               
+184W  G  2546      1 100       D                                               
+184W cG E,RI,M    from (|g,|g').                                               
+184W  L 2555.0     2                                                       U   
+184WX L XREF=FHMU                                                              
+184W  G  2443.8      100                                                   U   
+184W  L 2557.0    14   12+            0.265 PS  +21-24                     A   
+184WX L XREF=N                                                                 
+184WF L FLAG=Y                                                                 
+184W  G 696.2        100       E2                     0.0096514                
+184WB G BE2W=208 +19-17                                                        
+184W cG E,M       from Coulomb excitation.                                     
+184W cG BE2W      From measured B(E2)|^=1.54 {I+14-12} in Coulomb excitation.  
+184W  L 2567.9     7 (0+)                                                      
+184WX L XREF=O                                                                 
+184W cL J         L(p,t)=(0).                                                  
+184W  L 2573.4     3                                                       U   
+184WX L XREF=FHP(*)U                                                           
+184W  G  2462.2      100                                                   U   
+184W  L 2582.0    23                                                           
+184WX L XREF=HP(*)                                                             
+184W  L 2592.5     6                                                           
+184WX L XREF=FHP                                                               
+184W  L 2613.3     3                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  1710.0      100    26                                             U   
+184W  G  2502.1      54     21                                             U   
+184W  L 2618.8     3                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  2618.8      100                                                   U   
+184W  L 2630.7     7                                                           
+184WX L XREF=FHP                                                               
+184W  G  2519.4      34      9                                             U   
+184W  G  2630.7      100    17                                             U   
+184W  L 2649.0     3                                                       U   
+184WX L XREF=FUV(*2653)                                                        
+184W  G  2537.8      100                                                   U   
+184W  L 2652.1     5                                                           
+184WX L XREF=HMV(*2653)                                                        
+184W  L 2655.8     4                                                       U   
+184WX L XREF=UV(*2653)                                                         
+184W  G  2544.5      39     16                                             U   
+184W  G  2655.8      100    26                                             U   
+184W  L 2675.5     7                                                           
+184WX L XREF=HMPV(2688)                                                        
+184W cL J         primary |g from 1- resonance in (n,|g) E=res.                
+184W  L 2694.4     3 1                                                     U   
+184WX L XREF=DH(2693.4)UV(*2688)                                               
+184WF L FLAG=I                                                                 
+184W  G  2694.4      100       D                                           U   
+184W cG           Other E|g: 2693 {I1} from (|g,|g').                          
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 2704.5     9                                                           
+184WX L XREF=H                                                                 
+184W  L 2706.7     4                                                       U   
+184WX L XREF=FU                                                                
+184W  G  1803.4      100    14                                             U   
+184W  G  2595.5      32     11                                             U   
+184W  G  2706.7      26     13                                             U   
+184W  L 2713         LE3                                                       
+184WX L XREF=V                                                                 
+184W cL J,E       primary |g from 0-,1- resonance in (n,|g) E=res.             
+184W  L 2719.8     2                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  1816.5      100                                                   U   
+184W  L 2732.5     6                                                       U   
+184WX L XREF=F(2730.3)U                                                        
+184W  G  2621.3      100                                                   U   
+184W  L 2739.3    14                                                       P   
+184WX L XREF=T                                                                 
+184WF L FLAG=Z                                                                 
+184W  G 260                                                                    
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W  L 2757.6     2                                                       U   
+184WX L XREF=FUV(*2763)                                                        
+184W  G  2646.4      100                                                   U   
+184W  L 2763.2     2 1                28 FS      6                         W   
+184WX L XREF=DF(2764.0)UV(*2763)                                               
+184WF L FLAG=IU                                                                
+184W  G  2397.1      20      5                                             U   
+184WL G FL=364.069                                                             
+184W  G  2651.9      82     12                                             U   
+184W  G  2763.2      100    12 D                                           U   
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 2767.6     6                                                       U   
+184WX L XREF=HUV(*2763)                                                        
+184W  G  2656.3      100    16                                             U   
+184W  G  2767.6      25      9                                             U   
+184W  L 2798.2     4                                                       U   
+184WX L XREF=FUV(*2803)                                                        
+184W  G  2798.2      100                                                   U   
+184W  L 2802.7     1                                                       U   
+184WX L XREF=FMV(*2803)                                                        
+184W  G  2691.5      100                                                   U   
+184W  L 2813       1                                                           
+184WX L XREF=D                                                                 
+184W  G  2813      1 100                                                       
+184W cG E         from (|g,|g').                                               
+184W  L 2815.0     2                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  2450.9      25      5                                             U   
+184W  G  2703.7      100    10                                             U   
+184W  L 2825.1     3 0+                                                    U   
+184WX L XREF=OU                                                                
+184W cL J         L(p,t)=0 for 2826.4 {I7} level. 2714|g to 2+ 111.            
+184W  G  1921.8      63     25                                             U   
+184W  G  2713.9      100    28                                             U   
+184W  L 2836.9     4                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2725.7      100                                                   U   
+184W  L 2845.4    11                                                           
+184WX L XREF=HM                                                                
+184W  L 2849.2     8                                                          ?
+184WX L XREF=F                                                                 
+184W  L 2853.6     6                                                           
+184WX L XREF=H                                                                 
+184W  L 2855.6    10                                                          ?
+184WX L XREF=FM(*2863)                                                         
+184W  L 2870.5     2 (0+)                                                  U   
+184WX L XREF=FM(*2863)OU                                                       
+184W cL J         L(p,t)=(0) for 2871.3 {I7} level; consistent with 1967|g to  
+184W2cL 2+ 903.                                                                
+184W  G  1967.2      100                                                   U   
+184W  L 2892.1     2 1                31 FS      6                         U   
+184WX L XREF=DHU                                                               
+184WF L FLAG=IW                                                                
+184W cL           Other E: 2893 {I1} from (|g,|g').                            
+184W cL           K=1 based on branching in (|g,|g').                          
+184W  G  2780.9      35     12                                                 
+184W cG E         from (n,|g) E=thermal: |g|g coin.                            
+184W cG RI        from (|g,|g'). Other: 25 {I13} from (n,|g) E=thermal: |g|g   
+184WxcG coin.                                                                  
+184W  G  2892.1      100       D                                               
+184W cG E         from (n,|g) E=thermal: |g|g coin.                            
+184W cG RI        from (|g,|g').                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 2902.0     8                                                           
+184WX L XREF=F                                                                 
+184W  L 2905.8     7                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2000.8      100    25                                             U   
+184W  G  2905.8      49     25                                             U   
+184W  L 2919.5     2                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  2808.3      100                                                   U   
+184W  L 2927.7     7 (0+)                                                      
+184WX L XREF=O                                                                 
+184W cL J         L(p,t)=(0).                                                  
+184W  L 2939.6     7 (0+)                                                      
+184WX L XREF=HO                                                                
+184W cL E         from (p,t). Other E: 2937.8 {I14} from (n,|g) E=2 keV.       
+184W cL J         L(p,t)=(0).                                                  
+184W  L 2946.8     4                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2043.5      100    47                                             U   
+184W  G  2835.5      91     47                                             U   
+184W  L 2948.7     5                                                           
+184WX L XREF=H                                                                 
+184W  L 2951.0     5 1                33 FS      6                         U   
+184WX L XREF=DFU                                                               
+184WF L FLAG=W                                                                 
+184WF L FLAG=I                                                                 
+184W cL           K=1 based on branching in (|g,|g').                          
+184W  G  2839.7      56     11                                                 
+184W cG E         from (n,|g) E=thermal: |g|g coin.                            
+184W cG RI        from (|g,|g'). Other: 34 {I21} from (n,|g) E=thermal: |g|g   
+184WxcG coin.                                                                  
+184W  G  2951.0      100       D                                               
+184W cG E         from (n,|g) E=thermal: |g|g coin.                            
+184W cG RI        from (|g,|g').                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 2968.7     2 (1+)                                                  U   
+184WX L XREF=FHUV(2960)                                                        
+184W cL J         primary |g from 0- resonance in (n,|g) E=res.                
+184W  G  2857.4      33      7                                             U   
+184W  G  2968.7      100    24                                             U   
+184W  L 2981.4      5                                                          
+184WX L XREF=F(*)HV(*2986)                                                     
+184W cL E         from (n,|g) E=2 keV.                                         
+184W  L 2983.6     4                                                       U   
+184WX L XREF=F(*)UV(*2986)                                                     
+184W cL J         primary |g from 0- resonance in (n,|g) E=res favors J|p=1+   
+184W2cL for 2982 and/or 2984 level.                                            
+184W  G  2983.6      100                                                   U   
+184W  L 3004.1    11                                                           
+184WX L XREF=F                                                                 
+184W  L 3017.1     1                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3017.1      100                                                   U   
+184W  L 3022.9     3                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2911.6      71     29                                             U   
+184W  G  3022.9      100    20                                             U   
+184W  L 3026.8     5                                                           
+184WX L XREF=FH                                                                
+184W cL E         weighted average from (n,|g) E=thermal and (n,|g) E=2 keV.   
+184W  L 3029.0     1                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2917.8      100                                                   U   
+184W  L 3037.1     6 (1+)                                                  U   
+184WX L XREF=F(3035.5)UV                                                       
+184W cL J         primary |g from 0- resonance in (n,|g) E=res.                
+184W  G  1915.7      100    22                                             U   
+184W  G  2925.9      78     24                                             U   
+184W  G  3037.1      90     31                                             U   
+184W  L 3053.4     2                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2942.2      100                                                   U   
+184W  L 3060.3    17                                                       P   
+184WX L XREF=T                                                                 
+184WF L FLAG=Z                                                                 
+184W  G 321                                                                    
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W  G 581                                                                   ?
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W  L 3068.5     3                                                       U   
+184WX L XREF=FH(*3070.1)U                                                      
+184W  G  2957.3      100                                                   U   
+184W  L 3071.2     3 1                                                     U   
+184WX L XREF=DH(*3070.1)U                                                      
+184WF L FLAG=I                                                                 
+184W  G  3071.2      100       D                                           U   
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3084.0    10 1                                                         
+184WX L XREF=DH                                                                
+184WF L FLAG=I                                                                 
+184W  G  3084      1 100       D                                               
+184W cG E,RI      from (|g,|g').                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3088       1 1                                                         
+184WX L XREF=D                                                                 
+184WF L FLAG=I                                                                 
+184W  G  3088      1 100       D                                               
+184W cG E,RI      from (|g,|g').                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3104.2     3                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  2200.9      42      7                                             U   
+184W  G  2992.9      28      7                                             U   
+184W  G  3104.2      100    12                                             U   
+184W  L 3108.8    16   (12+)          0.35 PS   +14-3                      B  ?
+184WX L XREF=N                                                                 
+184WF L FLAG=Y                                                                 
+184W  G 637.1        100       [E2]                   0.01178                 ?
+184WB G BE2W=245 +21-97                                                        
+184WL G FL=2471.7                                                              
+184W cG E         from Coulomb excitation.                                     
+184W cG BE2W      From measured B(E2)|^=1.79 {I+15-71} in Coulomb excitation.  
+184W  L 3112.1     8                                                           
+184WX L XREF=F                                                                 
+184W  L 3124       1 1                                                         
+184WX L XREF=D                                                                 
+184WF L FLAG=I                                                                 
+184W  G  3124      1 100       D                                               
+184W cG E,RI      from (|g,|g').                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3133       1 1                                                         
+184WX L XREF=D                                                                 
+184WF L FLAG=I                                                                 
+184W  G  3133      1 100       D                                               
+184W cG M,E       from |g anisotropy in (|g,|g').                              
+184W  L 3134.6     5                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  2231.3      100                                                   U   
+184W  L 3136.8     4                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3136.8      100                                                   U   
+184W  L 3164.1     8                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3052.9      78     32                                             U   
+184W  G  3164.1      100    28                                             U   
+184W  L 3166.2     8                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3055.0      100                                                   U   
+184W  L 3169.1     2                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3057.9      100                                                   U   
+184W  L 3177.9     5                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3177.9      100                                                   U   
+184W  L 3183.8     1                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  3072.6      100                                                   U   
+184W  L 3187.1     3                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3075.9      100                                                   U   
+184W  L 3193.3     3                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3082.1      100                                                   U   
+184W  L 3201.8     6                                                       U   
+184WX L XREF=F(3200.3)IUV                                                      
+184W  G  3090.6      100                                                   U   
+184W  L 3215.5     7                                                           
+184WX L XREF=H                                                                 
+184W  L 3220.6     9                                                           
+184WX L XREF=F                                                                 
+184W  L 3224.6     7                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3113.4      100                                                   U   
+184W  L 3226.3     5                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  2323.0      100                                                   U   
+184W  L 3233.7     8                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2330.4      78     40                                             U   
+184W  G  3122.4      100    36                                             U   
+184W  L 3244.6     8                                                           
+184WX L XREF=F                                                                 
+184W  L 3248.8     3                                                       U   
+184WX L XREF=F(3251.1)HU                                                       
+184W  G  3137.6      100                                                   U   
+184W  L 3262.6     8                                                           
+184WX L XREF=HV(*3264)                                                         
+184W  L 3264.0     5                                                       U   
+184WX L XREF=FUV(*3264)                                                        
+184W  G  3264.0      100                                                   U   
+184W  L 3266.4     5                                                       U   
+184WX L XREF=UV(*)                                                             
+184W  G  3155.2      100                                                   U   
+184W  L 3288.3     6                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2385.0      100                                                   U   
+184W  L 3290.0     4                                                       U   
+184WX L XREF=FHU                                                               
+184W  G  3290.0      100                                                   U   
+184W  L 3293.5     6                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3293.5      100                                                   U   
+184W  L 3304.3     4                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2401.4      100                                                   U   
+184W  L 3307.4     5                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3196.2      100                                                   U   
+184W  L 3314.4     6                                                           
+184WX L XREF=H                                                                 
+184W  L 3316.6     9                                                           
+184WX L XREF=F                                                                 
+184W  L 3318.5     4                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3207.3      100                                                   U   
+184W  L 3319.9    17   14+            0.140 PS  +25-10                     A   
+184WX L XREF=N                                                                 
+184WF L FLAG=Y                                                                 
+184W  G 762.9        100       [E2]                   0.0079                   
+184WB G BE2W=250 +18-44                                                        
+184WL G FL=2557.0                                                              
+184W cG E         from Coulomb excitation.                                     
+184W cG BE2W      From measured B(E2)|^=1.80 {I+13-32} in Coulomb excitation.  
+184W  L 3329.2     3                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3218.0      100                                                   U   
+184W  L 3341.4     5                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3230.2      100                                                   U   
+184W  L 3345.1     2                                                       U   
+184WX L XREF=U                                                                 
+184W  G  2223.7      100                                                   U   
+184W  L 3349.1     6                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3237.9      100                                                   U   
+184W  L 3352.6     6                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3241.4      68     23                                             U   
+184W  G  3352.6      100    29                                             U   
+184W  L 3364.7    20                                                           
+184WX L XREF=F                                                                 
+184W  L 3369.9     9                                                           
+184WX L XREF=F(3371.5)H                                                        
+184W  L 3372.9     5                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3261.7      100                                                   U   
+184W  L 3377.5     3                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3266.3      100                                                   U   
+184W  L 3384.3     6                                                       U   
+184WX L XREF=F(3386.1)U                                                        
+184W cL           Other E: 3386.1 {I7} from (n,|g) E=thermal.                  
+184W  G  3273.1      100                                                   U   
+184W  L 3392.0     9                                                       U   
+184WX L XREF=HU                                                                
+184W  G  3280.8      84     38                                             U   
+184W  G  3392.0      100    46                                             U   
+184W  L 3399.9     7                                                           
+184WX L XREF=H                                                                 
+184W  L 3413.7     5                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3302.5      100                                                   U   
+184W  L 3420.8     9                                                           
+184WX L XREF=H                                                                 
+184W  L 3422.4     4                  16 FS     10                         U   
+184WX L XREF=DU                                                                
+184WF L FLAG=W                                                                 
+184W cL T         if J=1.                                                      
+184W  G  3311.2      100                                                   U   
+184W  G  3422.4      81     28                                                 
+184W cG E         from (n,|g) E=thermal: |g|g coin.                            
+184W cG RI        weighted average of 71 {I39} from (n,|g) E=thermal: |g|g     
+184W2cG coin, 91 {I41} from (|g,|g').                                          
+184W  L 3427.2     4                                                       U   
+184WX L XREF=F(3428.5)U                                                        
+184W  G  3316.0      100                                                   U   
+184W  L 3441.3    20                                                       P   
+184WX L XREF=T                                                                 
+184WF L FLAG=Z                                                                 
+184W  G 381                                                                    
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W  G 702                                                                   ?
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W  L 3442.3    10                                                           
+184WX L XREF=H                                                                 
+184W  L 3448.2     3                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3337.0      100                                                   U   
+184W  L 3455.6     7                                                           
+184WX L XREF=F(3454.3)HU                                                       
+184W  G  3344.4      100    36                                             U   
+184W  G  3455.6      98     38                                             U   
+184W  L 3466.2     6 1                5.0 FS    12                         U   
+184WX L XREF=DHU                                                               
+184WF L FLAG=W                                                                 
+184WF L FLAG=I                                                                 
+184W  G  3355        100                                                       
+184W cG E         from level energy difference.                                
+184W  G  3466.2      76     13 D                                           U   
+184W cG           Other E|g: 3464 {I1} in (|g,|g').                            
+184W cG RI        from (|g,|g').                                               
+184W  L 3473.3     5                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3362.1      94     42                                             U   
+184W  G  3473.3      100    45                                             U   
+184W  L 3488.2     4                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3377.0      100                                                   U   
+184W  L 3500.7     4                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3389.5      98     33                                             U   
+184W  G  3500.7      100    38                                             U   
+184W  L 3507.1     7 (1)              12 FS      4                         W   
+184WX L XREF=DH(3507.9)                                                        
+184W cL J         (D) |g to 0+ g.s..                                           
+184W cL           K=(1) based on branching (1993He15).                         
+184W  G  3396        70     20                                                 
+184W cG RI        from (|g,|g').                                               
+184W  G  3507      1 100       (D)                                             
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3516.2     6                                                       U   
+184WX L XREF=F(3517.8)U                                                        
+184W  G  3405.0      100                                                   U   
+184W  L 3522.5     4                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3411.3      100                                                   U   
+184W  L 3546.9     6                                                           
+184WX L XREF=F                                                                 
+184W  L 3571.1     7 (1)              4.1 FS    17                         W   
+184WX L XREF=DF                                                                
+184W cL E         from (|g,|g').                                               
+184W cL J         (D) |g to 0+ g.s..                                           
+184W cL           K=(0) based on branching (1993He15).                         
+184W  G  3460        100                                                       
+184W  G  3571      1 56     12 (D)                                             
+184W cG RI        from (|g,|g').                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3618.1     5                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3618.1      100                                                   U   
+184W  L 3633.1     7 1                4.7 FS    17                         W   
+184WX L XREF=D                                                                 
+184WF L FLAG=I                                                                 
+184W cL           K=1 based on branching (1993He15).                           
+184W  G  3522        45     12                                                 
+184W cG RI        from (|g,|g').                                               
+184W  G  3633      1 100       D                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3634.7     3                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3523.5      100    24                                             U   
+184W  G  3634.7      80     24                                             U   
+184W  L 3649.2     4                                                       U   
+184WX L XREF=F(*3652)U                                                         
+184W cL E         may Be the same level as seen at E=3633 {I1} in (|g,|g'), but
+184W2cL |g branching differs.                                                  
+184W  G  3538.0      100                                                   U   
+184W  L 3654.2     3                                                       U   
+184WX L XREF=F(*3652)U                                                         
+184W  G  3543.0      100                                                   U   
+184W  L 3670.3     5                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3559.1      100                                                   U   
+184W  L 3682.1     7 (1)              8 FS       5                         W   
+184WX L XREF=D                                                                 
+184W cL J         (D) |g to 0+ g.s..                                           
+184W cL           K=(1) based on branching (1993He15).                         
+184W  G  3571        46     14                                                 
+184W cG E,RI      from (|g,|g').                                               
+184W  G  3682      1 100       (D)                                             
+184W cG E,RI      from (|g,|g').                                               
+184W cG M         from |g anisotropy in (|g,|g').                              
+184W  L 3684.5     4                                                       U   
+184WX L XREF=HU                                                                
+184W cL E         may Be the same level as seen at E=3682 {I1} in (|g,|g'), but
+184W2cL |g branching differs.                                                  
+184W  G  3573.3      100                                                   U   
+184W  L 3686.3     6                                                           
+184WX L XREF=F                                                                 
+184W  L 3703.2     7                                                           
+184WX L XREF=F                                                                 
+184W  L 3706.6     5                                                       U   
+184WX L XREF=U                                                                 
+184W  G  3595.4      100                                                   U   
+184W  L 3715.3    22                                                       Z   
+184WC L XREF=T                                                                 
+184W  G 274          100                                                       
+184WL G FL=3441.3                                                              
+184W cG E         from {+198}Pt({+136}Xe,X|g) (2004Wh02                        
+184W  L 3715.6     4                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3604.4      100                                                   U   
+184W  L 3743.9     6                                                           
+184WX L XREF=F                                                                 
+184W  L 3770.6     5                                                           
+184WX L XREF=F                                                                 
+184W  L 3782.3     7                                                           
+184WX L XREF=F                                                                 
+184W  L 3807.0     5                                                           
+184WX L XREF=F                                                                 
+184W  L 3863.2    25 (14-,15,17-)     188 NS    38                             
+184WX L XREF=T                                                                 
+184W cL T         from {+198}Pt({+136}Xe,X|g) (2004Wh02).                      
+184W cL J         probable 4-quasiparticle isomer; candidate configurations    
+184W2cL with calculated energies near this energy have J|p=14- or 15 or 17-    
+184W3cL (2004Wh02).                                                            
+184W  G 148          100       (M1)                   1.552                    
+184WL G FL=3715.3                                                              
+184WB G BM1W=1.4E-5 3                                                          
+184W cG E         from {+198}Pt({+136}Xe,X|g).                                 
+184W cG M         |a(exp)=4.3 {I24} in ({+136}Xe,X|g) favors M1, but           
+184W2cG uncertainty is large and authors do not rule out E2 and E1 which are   
+184W3cG within 2|s of deduced |a(exp).                                         
+184W  L 3882.8    11                                                           
+184WX L XREF=F                                                                 
+184W  L 3930.2    13                                                           
+184WX L XREF=F                                                                 
+184W  L 3962.4     2                                                       U   
+184WX L XREF=FU                                                                
+184W  G  3851.2      37     13                                             U   
+184W  G  3962.4      100    20                                             U   
+184W  L 3971.9     6                                                           
+184WX L XREF=F                                                                 
+184W  L 4061.6     6                                                           
+184WX L XREF=F                                                                 
+184W  L 4116.9    20   16+            0.125 PS  +32-13                     A   
+184WX L XREF=N                                                                 
+184WF L FLAG=Y                                                                 
+184W  G 797.0        100      [E2]                    0.0072010                
+184WB G BE2W=225 +23-58                                                        
+184WL G FL=3319.9                                                              
+184W cG E         from Coulomb excitation.                                     
+184W cG BE2W      From measured B(E2)|^=1.59 {I+16-41} in Coulomb excitation.  
+184W  L 4278.8     3                                                       U   
+184WX L XREF=U                                                                 
+184W  G  4167.5      51     18                                             U   
+184W  G  4278.8      100    25                                             U   
+184W  L 6543.5     2                                                       U   
+184WX L XREF=U                                                                 
+184W  G  6543.5      100                                                   U   
+184W  L 6556.1    10                                                           
+184WX L XREF=D                                                                 
+184W  G  5433        28     17                                                 
+184W cG E,RI      from (|g,|g').                                               
+184W  G  6444        64     32                                                 
+184W cG E,RI      from (|g,|g').                                               
+184W  G  6555        100                                                       
+184W cG E,RI      from (|g,|g').                                               
+184W  L 6580.8     2                                                       U   
+184WX L XREF=U                                                                 
+184W  G  6580.8      100                                                   U   
+184W  L 6622.7     4                                                       U   
+184WX L XREF=U                                                                 
+184W  G  6511.5      100                                                   U   
+184W  L  6760.1   10 1+                                                    H   
+184WX L XREF=D                                                                 
+184W  G   6648       71     25                                                 
+184W cG E,RI      from (|g,|g').                                               
+184W  G      6760    100        M1                                             
+184W cG E,RI,M    from (|g,|g').                                               
+184W  L 11.90E3   17                  2.90 MEV  17                             
+184WX L XREF=Y                                                                 
+184W cL E,T       component of E1 GDR; total GDR |G=6.8 {I2} MeV; from (|g,X). 
+184W  L 14.80E3   22                  4.70 MEV  22                             
+184WX L XREF=Y                                                                 
+184W cL E,T       component of E1 GDR; total GDR |G=6.8 {I2} MeV; from (|g,X). 
+
+
+

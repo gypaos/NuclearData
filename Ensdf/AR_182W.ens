@@ -1,0 +1,1577 @@
+182W    ADOPTED LEVELS, GAMMAS                                  15NDS    201512
+182W  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 130, 21 (2015)$CUT=15-Jul-2015$       
+182W  Q -280E1    10 8066   5 7095.1  17 1765.0 19    2012WA38                 
+182W cQ $S(2n)=14751.8 {I20}, S(2p)=13043.9 {I10} (2012Wa38)                   
+182W c  First identification of {+182}W isotope by Aston:                      
+182W2c  Nature 126, 913 (1930)                                                 
+182W c  Other reactions:                                                       
+182W c  {+9}Be({+208}Pb,X) E=1 GeV/nucleon: 2002Pf01: Measured fragment yield, 
+182W2c  (fragment)|g coin, deduced isomer (at 2230 keV) half-life and          
+182W3c  isomer production ratio of 10% {I2}                                    
+182W D  183W(G,P) E=10-25 MEV: 2007Tr10: MEASURED EG, IG                       
+182W D  2007Mu19: calculated neutron resonances                                
+182W D  2009Pa07: 182W(t,t),E=20 MEV; analyzed |s(|q), deduced optical         
+182W2D  model parameters                                                       
+182W c  Mass measurements: 2012Li52, 1977Sh04, 1970Mc03, 1961De21, 1960Bh02    
+182W c  Structure calculations (levels, moments, transition probabilities,     
+182W2c  high-K isomers, etc.): 2013Zh43, 2012Bu01, 2012Ze02, 2012Zh23,         
+182W3c  2011Er04, 2008Sa21, 2003Jo10, 1998Sh01, 1996Na08,                      
+182W4c  1996Na12, 1994Be21, 1994Mo07, 1993Be25, 1991Gr14, 1990Ch50, 1990Ve01,  
+182W5c  1989Sa19, 1989Ta06. Only selected references are given here, consult   
+182W6c  NSR  database at www.nndc.bnl.gov website for more detailed            
+182W7c  bibliography for theoretical studies on {+182}W nuclide.               
+182W d  Other theoretical structure references: 2015Ok01, 2013Bo24, 2013Ni02,  
+182W2d  2012Do10, 2011Bo12, 2011In03, 2011Ko35, 2010Ab21, 2010Bo25, 2010Bu02,  
+182W3d  2010Ra10, 2010Wa08, 2009Pr08, 2009Ca26, 2009Ku13, 2008Ba15, 2008Bi13,  
+182W4d  2008Bo15, 2008Bu03, 2008Li05, 2008Jo08, 2008Kl03, 2007Bo46, 2007Mu19   
+182W cG $q{-K}(E0/E2)=ratios of K-conversion intensities of E0 and E2          
+182W2cG transitions                                                            
+182W cG E,RI$The adopted values represent weighted averages from different     
+182W2cG studies. The intensities are known with high precision in {+182}Ta     
+182W3cG |b{+-} decay, thus values from this decay are preferred when available.
+182W4cG In cases where large discrepancies are found, those values             
+182W5cG were not considered in deducing averages. In (|a,2n|g), many such      
+182W6cG cases are noted where the relative branching ratios are discrepant,    
+182W7cG generally being much higher than in other studies. For gammas from     
+182W8cG high-spin levels above 2500 keV, gamma-ray energies and                
+182W9cG intensities are almost entirely from {+176}Yb({+13}C,|a3n|g) dataset   
+182WAcG since this dataset provides the most complete set of values.           
+182W cG M,MR$From ce and angular distribution/correlation studies in           
+182W2cG {+182}Ta decay, {+182}Re decay and in-beam |g-ray studies.             
+182W cG E(A)$From evaluation by 2000He14                                       
+182W cG CC$Theoretical values from BrIcc v2.3b (16-Dec-2014) 2008Ki07,         
+182W2cG "Frozen Orbitals" approximation. If mixing ratio |d is not given, it   
+182W3cG was assumed as 1.0 for E2/M1 and E3/M2 and 0.10 for others             
+182W cL $ Details of the measurements of Half-life (in ns) of the              
+182W2cL 100.1, 2+ state:                                                       
+182W cL $ 1. Deduced from B(E2) values in Coulomb excitation:                  
+182W2cL 1.44 {I7} (1961Ha21), 1.26 {I11} (1963Gr04), 1.340 {I30} (1968St13),   
+182W3cL 1.368 {I29} (1973Be40, earlier value from the same lab is 1.31 {I15},  
+182W4cL 1958Mc02), 1.15 {I12} (1989Ku04), 1.53 {I7} (1991Wu05, earlier value   
+182W5cL is 1.41 {I9} in 1989Wu04).                                             
+182W cL $2. Delayed coincidence method in Coulomb excitation:                  
+182W2cL 1.366 {I14} (1961Ke07), 1.43 {I4} (1962Bi05, earlier value from the    
+182W3cL same group is 1.55 {I14},1959Bi10).                                    
+182W cL $ 3. Pulsed beam: (p,p'|g): 1.372 {I14} (1964Sc21)                     
+182W cL $ 4. Deduced from B(E2) in Muonic atom: 1.343 {I40} (1970Hi03)         
+182W cL $ 5. Deduced from B(E2) in (e,e'): 1.391 {I21} (1987PeZV,1988PeZW)     
+182W cL $ 6. Delayed coincidence in {+182}Ta |b{+-} decay:                     
+182W2cL 1.27 {I10} (1955Su64,1954Su10), 1.55 {I11} (1963Ba24),                 
+182W3cL 1.26 {I4} (1963Fo02), 1.41 {I6} (1963Ko02), 1.47 {I9} (1964Ro19),      
+182W4cL 1.4 {I1} (1964Be36), 1.39 {I3} (1965Do02), 1.37 {I3} (1965Me08),       
+182W5cL 1.45 {I4} (1966Bl08), 1.35 {I7} (1966Fu03), 1.43 {I5} (1966Ra04),      
+182W6cL 1.48 {I3} (1970Ab14), 1.380 {I20} (1971Ho14), 1.55 {I5} (1973GrXX),    
+182W7cL 1.380 {I30} (1983El02),                                                
+182W cL E$From least-squares fit to E|g data; normalized |h{+2}=0.68           
+182W cL J$For high-spin (J>6) states, ascending spins are assumed with the     
+182W2cL rise in excitation energy, as expected from yrast type of population   
+182W3cL of levels in in-beam, heavy-ion |g-ray studies. The transitions        
+182W4cL involving |DJ=2 from angular distributions are generally treated       
+182W5cL as E2 from RUL and those with |DJ=1 and significant D+Q admixtures     
+182W6cL as M1+E2.                                                              
+182W cL T(N)$Deduced from |G{-|g0} and branching ratio given by 1993He15.      
+182W cL J(O)$K=1 assigned by 1993He15 from comparison of reduced transition    
+182W2cL probabilities with Alaga's rules                                       
+182W CL BAND(A)$K|p=0+, g.s. band.                                             
+182W2cL Backbending at ~h|w|?0.38 MeV                                          
+182W CL BAND(B)$K|p=0+ band.                                                   
+182W2cL 2001Ga02, in analysis of |b vibration and second 0+ states, suggest    
+182W3cL that excited 0+ band in {+182}W is not a |b-vibration                  
+182W CL BAND(C)$K|p=2+, |g band.                                               
+182W CL BAND(D)$K|p=2-, octupole band.                                         
+182W CL BAND(E)$K|p=10+,|n9/2[624]~#|n11/2[615].                               
+182W3cL (g{-K}-g{-R})=0.34 {I4} (1994Re03), g{-K}(exp)=-0.15 {I2}              
+182W CL BAND(F)$ K|p=(16+),4-qp band.                                          
+182W2cL |n{+2}(8-): |n9/2[624]~#|n7/2[503]; |p{+2}(8-): |p9/2[514]~#|p7/2[404].
+182W3cL (g{-K}-g{-R})=0.21 {I19} (1994Re03), g{-K}(exp)=+0.36 {I6}.            
+182W4cL Configuration=(|n9/2+[624])(|n11/2+[615])10+)+(|p7/2+[404])            
+182W5cL (|p5/2+[402])6+ is also proposed by 1994Re03. For K|p=8-               
+182W6cL neutron configuration, 7/2[514] orbital is excluded by the comparison  
+182W7cL of experimental g{-K} and corresponding theoretical value              
+182W CL BAND(G)$ K|p=(17-),4-qp band.                                          
+182W2cL |n{+2}(10+):|n9/2[624]~#|n11/2[615]; |p{+2}(7-):|p9/2[514]~#|p5/2[402].
+182W3cL (g{-K}-g{-R})=0.30 {I7}, 0.18 {I7} (1994Re03), g{-K}(exp)=+0.46 {I3}   
+182W CL BAND(H)$ K|p=4-,|n9/2[624]~#|n1/2[510].                                
+182W2cL g{-K}(exp)=+0.05 {I4}                                                  
+182W CL BAND(I)$ K|p=6+,|p5/2[402]~#|p7/2[404].                                
+182W2cL g{-K}(exp)=+1.11 {I5}                                                  
+182W CL BAND(J)$ K|p=5-,|n9/2[624]~#|n1/2[510].                                
+182W CL BAND(K)$ K|p=6-,|n9/2[624]~#|n3/2[512].                                
+182W2cL g{-K}(exp)=+0.01 {I1}                                                  
+182W CL BAND(L)$ K|p=7-,|p9/2[514]~#|p5/2[402].                                
+182W2cL g{-K}(exp)=+1.17 {I7}                                                  
+182W CL BAND(M)$ K|p=8-,|n9/2[624]~#|n7/2[503].                                
+182W2cL g{-K}(exp)=-0.21 {I5} excludes 7/2[514] neutron orbital when compared  
+182W3cL with theoretical value                                                 
+182W CL BAND(P)$ K|p=15+,4-qp band.                                            
+182W2cL |n{+2}(8-): |n9/2[624]~#|n7/2[503]; |p{+2}(7-): |p9/2[514]~#|p5/2[402].
+182W3cL g{-K}(exp)=+0.52 {I4}. For K|p=8- neutron configuration, 7/2[514]      
+182W4cL orbital is excluded by the comparison of experimental g{-K} and        
+182W5cL corresponding theoretical value                                        
+182W CL BAND(Q)$ K|p=18-,|n{+2}{-(10+)}~#|p{+2}{-(8-)}.                        
+182W2cL |n{+2}(10+):|n9/2[624]~#|n11/2[615]; |p{+2}(8-):|p9/2[514]~#|p7/2[404].
+182W3cL g{-K}(exp)|?+0.32                                                      
+182W CL BAND(R)$ K=(12) band.                                                  
+182W  XA182TA B- DECAY (114.74 D)                                              
+182W  XKMUONIC ATOM                                                            
+182W  XC182RE EC DECAY (64.2 H)                                                
+182W  XB182RE EC DECAY (14.14 H)                                               
+182W  XQ186OS A DECAY                                                          
+182W  XM176YB(9BE,3NG)                                                         
+182W  XP176YB(13C,A3NG)                                                        
+182W  XE180HF(A,2NG)                                                           
+182W  XS180W(T,P)                                                              
+182W  XU182W(G,G):MOSSBAUER                                                    
+182W  XN182W(G,G')                                                             
+182W  XT182W(E,E')                                                             
+182W  XD182W(N,N'G)                                                            
+182W  XG182W(N,N')                                                             
+182W  XL182W(P,P'),(POL P,P'),(A,A')                                           
+182W  XH182W(D,D')                                                             
+182W  XFCOULOMB EXCITATION                                                     
+182W  XI183W(D,T)                                                              
+182W  XR183W(3HE,A)                                                            
+182W  XJ184W(P,T)                                                              
+182W  XO186W(N,5NG)                                                            
+182W PN                                                                     6  
+182W  L        0.0   0+                STABLE                              A   
+182WX L XREF=ABCDEFGHIJKLMNOPQSTU                                              
+182W cL T$T{-1/2}(|a decay) measured limits: |>7.7|*10{+21} y (2004Co26) with  
+182W2cL 90% confidence limit. Others: |>1.7|*10{+20} y                         
+182W3cL (2003Da05,2003Bi13,1997Ge15, 1995Ge17), |>2.5|*10{+19} y (2003Ce01),   
+182WxcL 1960Be13                                                               
+182W cL $(<r{+2}>){+1/2}(rms charge radius)=5.3559 fm {I17}                    
+182W2cL (2013An02,evaluation)                                                  
+182W cL           |D<r{+2}>({+182}W-{+180}W)=0.068 fm{+2} {I4} (1994Ji02)      
+182W cL           |D<r{+2}>({+183}W-{+182}W)=0.052 fm{+2} {I3} (1994Ji02)      
+182W cL           |D<r{+2}>({+184}W-{+182}W)=0.099 fm{+2} {I5} (1994Ji02)      
+182W  L 100.10598  7 2+               1.381 NS   10                        A   
+182WX L XREF=ABCDEFGHIJKLMNOPRSTU                                              
+182W2 L MOMM1=+0.521 16 (1968Pe06,2014StZZ)$                                   
+182W2 L MOME2=-2.13 35 (1977RuZV,2014StZZ,2013StZZ)                            
+182W cL MOMM1$Mossbauer effect (1968Pe06). Other: +0.528 {I12} (CEAD,1972Ca12).
+182W cL MOME2$reorientation method in Coul. Ex. (1977RuZV).                    
+182W2 L BE2=4.17 6                                                             
+182W cL $B(E2) from Coul. Ex.                                                  
+182W cL T$from several weighted averaging methods (weighted average,           
+182W2cL limitation of statistical weights method (LWM), normalized residuals   
+182W3cL method (NRM) and Rajeval's technique (RT)) using 26 independent        
+182W4cL measurements (from 1954 to 1991) of lifetimes from Coulomb excitation, 
+182W5cL delayed coincidence methods, pulsed beam, (e,e') and muonic atom.      
+182W6cL The value of |h{+2} is |?2.1 for different methods as compared to      
+182W7cL critical |h{+2} of 1.7. All the values used in the averaging           
+182W8cL procedure are listed above in the header comments of this table        
+182W9cL 2001Ra27 evaluation (of 27 measurements from 1954 to 1988) gives       
+182WAcL nearly the same adopted B(E2)(|^)=4.20 {I8} and mean lifetime          
+182WBcL (|t)=1990 ps {I20} (T{-1/2}=1.379 ns {I14}).                           
+182W cL J$E2 |g to 0+                                                          
+182W  G 100.10595 7    100    E2                      3.89                 A   
+182WB G BE2W=136.1 18                                                          
+182WS G  KC=0.878 13$LC=2.28 4$MC=0.576 8                                      
+182WS G  NC=0.1358 19$OC=0.0186 3$PC=7.08E-5 10                                
+182W  L 329.4268   6 4+                62 PS    3                          A   
+182WX L XREF=ABCDEFGHIJLMOPRST                                                 
+182W2 L MOMM1=+0.88 17 (1972Be94,2014StZZ)                                     
+182W cL $B(E4)=0.077 {I16} (1987PeZV) from (e,e')                              
+182W cL MOMM1$IPAC (1972Be94).                                                 
+182W cL T$from RDM in Coul. ex.                                                
+182W cL J$|DJ=2, E2 |g to 2+                                                   
+182W  G 229.3207  6    100    E2                      0.196                A   
+182WB G BE2W=196 10                                                            
+182WS G  KC=0.1167 17$LC=0.0605 9$MC=0.01497 21                                
+182WS G  NC=0.00354 5$OC=0.000505 7$PC=9.50E-6 14                              
+182W  L 680.42     5 6+                8.2 PS   9                          A   
+182WX L XREF=ACDEFGHIJLMOPT                                                    
+182W cL $B(E6)=0.012 {I5} (1987PeZV) from (e,e')                               
+182W cL T$from RDM in Coul. ex.                                                
+182W cL J$stretched E2 |g to 4+                                                
+182W  G 351.02    6    100    E2                      0.0538                   
+182WB G BE2W=201 22                                                            
+182WS G  KC=0.0380 6$LC=0.01210 17$MC=0.00293 5                                
+182WS G  NC=0.000696 10$OC=0.0001027 15$PC=3.34E-6 5                           
+182W  L 1135.82   10 0+                                                    B   
+182WX L XREF=ADGHIJS                                                           
+182W cL J$L(p,t)=0. Also L(t,p)=0 and E0 transition to 0+                      
+182W  G 1035.65   12    100 33 [E2]                   0.00420                  
+182WS G  KC=0.00346 5$LC=0.000575 8$MC=0.0001317 19                            
+182WS G  NC=3.16E-5 5$OC=5.05E-6 7$PC=3.21E-7 5                                
+182W  G    1135.9  2           E0                                0.84    21    
+182W cG $ q{-K}{+2}(E0/E2)=1.8 {I7}, X(E0/E2)=0.09 {I4} (2005Ki02 evaluation)  
+182W  L 1144.32   12 8+                2.01 PS   17                        A   
+182WX L XREF=DEFMOPT                                                           
+182W cL $B(E8)=0.00029 {I17} (1987PeZV) from (e,e')                            
+182W cL T$from RDM in Coulomb excitation                                       
+182W cL J$|DJ=2, E2 |g to 6+; band assignment                                  
+182W  G 463.9     1    100    E2                      0.0254                   
+182WB G BE2W=209 18                                                            
+182WS G  KC=0.0191 3$LC=0.00479 7$MC=0.001140 16                               
+182WS G  NC=0.000272 4$OC=4.11E-5 6$PC=1.735E-6 25                             
+182W  L 1221.4001 10 2+                0.434 PS 11                         C   
+182WX L XREF=ABCDEFGHIJLS                                                      
+182W cL J$E2 |g to 0+                                                          
+182W cL T$from B(E2) in Coulomb excitation                                     
+182W cL           B(E2)(IS)(|^)=0.146 {I11} ((pol p,p') 1987Ic04). This        
+182W2cL gives B(E2)(W.u.)=4.8 {I4} compared to 3.4 from Coul. ex.              
+182W  G 891.77    10 0.163  7 E2                      0.00569                  
+182WB G BE2W=0.0346 18                                                         
+182WS G  KC=0.00464 7$LC=0.000810 12$MC=0.000187 3                             
+182WS G  NC=4.47E-5 7$OC=7.09E-6 10$PC=4.31E-7 6                               
+182W  G 1121.290  3    100.0  E2+M1+E0  +30     +6-4                           
+182W cG M$E0 component suggested by ce data in {+182}Ta |b{+-} (1990Ka35)      
+182W2cG and q{-K}(E0/E2)=0.19 {I6} (1975We22)                                  
+182W cG MR$17 {I+4-3} (1990Ka35)                                               
+182WB G BE2W=6.74 17                                                           
+182W  G 1221.395  3   77.27 22E2                      0.00305                  
+182WB G BE2W=3.40 9                                                            
+182WS G  KC=0.00252 4$LC=0.000402 6$MC=9.15E-5 13                              
+182WS G  NC=2.20E-5 3$OC=3.53E-6 5$PC=2.34E-7 4$IPC=6.75E-6 10                 
+182W  L 1257.4121 11 2+               1.71 PS   13                         B   
+182WX L XREF=ABCDEFGHIJS                                                       
+182W cL J$E2 |g to 0+                                                          
+182W cL T$from B(E2) in Coulomb excitation and adopted branching ratios        
+182W  G 121.5     2     0.16 4[E2]                    1.83                    S
+182W cG E$ B(E2)(W.u.)=200 {I60} is considered as large and improbable         
+182W2cG by the evaluators in view of relatively small B(E2)(W.u.) for          
+182W3cG other transitions from the 1257 level. Thus the presence of this       
+182W4cG transition is treated as questionable                                  
+182WB G BE2W=1.8E+2 5                                                          
+182WS G  KC=0.596 9$LC=0.936 15$MC=0.236 4                                     
+182WS G  NC=0.0556 9$OC=0.00765 13$PC=4.50E-5 7                                
+182W  G 928.00    3    40.5 6 E2                      0.00524                  
+182W cG           |d(M3/E2)=+0.04 {I14} (|g|g(|q) in {+182}Ta |b{+-}, 1992Ch26)
+182WB G BE2W=1.73 15                                                           
+182WS G  KC=0.00429 6$LC=0.000738 11$MC=0.0001698 24                           
+182WS G  NC=4.07E-5 6$OC=6.47E-6 9$PC=3.98E-7 6                                
+182W  G 1157.3    1  42     6 E2+M1+E0  -9      +3-6  0.0092 5                 
+182W cG E$from {+182}Re decay (64.0 h). In |b{+-} decay, 1157+1158 doublet is  
+182W2cG not well resolved; with average energy of the doublet at 1157.510      
+182W3cG {I15}, it deviates from level-energy difference by 0.2 keV in |b{+-}   
+182W4cG decay dataset.                                                         
+182W cG RI$unweighted average of 48.6 {I23} (|b{+-} decay) and 35 {I4} in |e   
+182W2cG decay (64 h). Other: 72 {I5} in Coul. ex. is high by |?70%. Values from
+182W3cG (|a,2n|g) and (n,n'|g) cannot be used as these studies did not account 
+182W4cG for 1157 being a doublet with the second component from 1487 level     
+182W cG M$ E0 component is estimated as 0.5% {I1} by the evaluators from       
+182W2cG comparison of |g-ray intensities and K-shell electron conversion       
+182W3cG data in 1976He18                                                       
+182W cG CC$ based on 0.5% {I1} E0 component and |d(E2/M1)=-9 {I+3-6}           
+182WB G BE2W=0.59 10                                                           
+182W  G 1257.407  3  100.00 28E2                      0.00289                  
+182WB G BE2W=0.93 8                                                            
+182WS G  KC=0.00239 4$LC=0.000378 6$MC=8.60E-5 12                              
+182WS G  NC=2.06E-5 3$OC=3.33E-6 5$PC=2.21E-7 3$IPC=1.119E-5 16                
+182W  L 1289.1498 10 2-                1.12 NS   4                         D   
+182WX L XREF=ABCDEFIP                                                          
+182W2 L MOMM1=+1.74 24 (1973Se14,2014StZZ)                                     
+182W cL MOMM1$ IPAC (1973Se14).                                                
+182W cL J$M2 |g to 0+                                                          
+182W cL T$from (|b)(ce)(t) and |b|g(t) in {+182}Ta |b{+-} decay.               
+182W2cL Weighted averaging method (normalized residuals) used                  
+182W  G 31.7377   5   5.30  13 E1                     1.628                    
+182W cG RI$all branchings relative to 1189|g, since efficiency problems        
+182W2cG at low energies such as 67.7 keV can be problematic.                   
+182W3cG Branching for 31.7|g is from |b{+-} decay. Other: 2.8 {I6} from |e     
+182W4cG decay is low by a factor of |?2                                        
+182WB G BE1W=7.1E-5 4                                                          
+182WS G  LC=1.259 18$MC=0.293 4                                                
+182WS G  NC=0.0675 10$OC=0.00910 13$PC=0.000305 5                              
+182W  G 67.74970  10  260.4 21 E1                     0.202                A   
+182W cG M,MR$RUL(M2)=1 implies |d<0.002, thus pure E1 is assigned.             
+182W2cG Experimental limit: |d<0.02                                            
+182WB G BE1W=0.000360 14                                                       
+182WS G  LC=0.1563 22$MC=0.0358 5                                              
+182WS G  NC=0.00840 12$OC=0.001234 18$PC=5.51E-5 8                             
+182W  G 959.73    3   2.120 24E3+M2     -5.5    +19-100.0116 7                 
+182W cG MR$other: -4.6 {I+36-}Inf (|g|g(|q) in {+182}Ta |b{+-}, 1992Ch26)      
+182WB G BM2W=0.00016 11$BE3W=3.44 16                                           
+182WS G  KC=0.0090 6$LC=0.00196 8$MC=0.000463 17                               
+182WS G  NC=0.000111 4$OC=1.73E-5 7$PC=9.3E-7 6                                
+182W  G 1189.040  3  100.00 24E1+M2+E3                0.0047 3                 
+182W2 G MR(M2/E1)=+0.48 3$MR(E3/E1)=-0.67 5                                    
+182WB G BE1W=1.58E-8 13$BM2W=0.012 2$BE3W=10.6 13                              
+182W cG MR$from weighted averages of |d(M2/E1)=+0.44 {I6}, |d(E3/E1)=-0.69     
+182W2cG {I10} (1983Ri05); |d(M2/E1)=+0.49 {I3}, |d(E3/E1)=-0.64 {I5}           
+182W3cG (1972Kr05); |d(M2/E1)=0.49 {I3}, |d(E3/E1)=0.72 {I7} (1972He10)        
+182W cG M,CC$59% {I4} E1, 14% {I1} M2 and 27% {I3} E3.                         
+182W2cG Conversion coefficient deduced for this admixture from BrIcc code      
+182W  G 1289.145  3   8.32  4 M2                      0.01231                  
+182WB G BM2W=0.00460 17                                                        
+182WS G  KC=0.01019 15$LC=0.001630 23$MC=0.000372 6                            
+182WS G  NC=8.98E-5 13$OC=1.466E-5 21$PC=1.047E-6 15$IPC=5.96E-6 9             
+182W  L 1331.1153 10 3+                0.6 NS   LT                         C   
+182WX L XREF=ABCDEFG(1309 )IR                                                  
+182W cL J$M1+E2 |gs to 2+ and 4+                                               
+182W cL T$from |g|g(t) in {+182}Ta |b{+-} decay                                
+182W  G 1001.700  18  17.95 21 E2+M1    -8.9    +18-210.004558                 
+182W cG MR$other: -8.2 {I+22-42} (|g|g(|q) in {+182}Ta |b{+-}, 1992Ch26)       
+182WB G BM1W>4.1E-8$BE2W>0.0023                                                
+182WS G  KC=0.00374 6$LC=0.000627 10$MC=0.0001438 23                           
+182WS G  NC=3.45E-5 6$OC=5.51E-6 9$PC=3.48E-7 6                                
+182W  G 1231.004  3  100.00 24 E2+M1    -33     +6-9  0.00301                  
+182WB G BM1W>9.7E-9$BE2W>0.0046                                                
+182WS G  KC=0.00249 4$LC=0.000395 6$MC=9.01E-5 13                              
+182WS G  NC=2.16E-5 3$OC=3.48E-6 5$PC=2.31E-7 4$IPC=7.86E-6 11                 
+182W cG MR$others: +11 {I+6-3} (|g|g(|q) in {+182}Ta |b{+-}, 1992Ch26);        
+182W2cG -60 {I+20-100} (1972Kr05)                                              
+182W  L 1373.8301 10 3-                78 PS    10                         D   
+182WX L XREF=ABCDEFG(1357)HJLP                                                 
+182W2 L MOMM1=0.96 27 (1972He10,2014StZZ)                                      
+182W cL MOMM1$ IPAC (1972He10). Other: 2.21 {I34} (IPAC,1973Se14).             
+182W cL J$E3 |g to 0+                                                          
+182W cL T$from (ce)(ce)(t) in {+182}Ta |b{+-} decay                            
+182W  G 42.7148   4    3.82 8 E1                      0.720                    
+182WB G BE1W=0.00028 4                                                         
+182WS G  LC=0.557 8$MC=0.1286 18                                               
+182WS G  NC=0.0299 5$OC=0.00419 6$PC=0.0001586 23                              
+182W  G 84.6802   3   37.82 25M1+E2     +0.326  11    7.66                 A   
+182W cG MR$weighted average of +0.32 {I3} (1983Ri05), +0.30 {I2} (1980Sp01),   
+182W2cG +0.31 {I5} (1975Qu01), +0.30 {I2} (1972Kr05), 0.352 {I3} (1972He10,ce  
+182W3cG data, uncertainty increased to 0.02 in averaging procedure), 0.40 {I7} 
+182W4cG (1971Ga37,ce data), 0.346 {I7} (1967Ni03, ce data, uncertainty         
+182W5cG increased to 0.02 in averaging procedure). Values with sign are from   
+182W6cG |g(|q) or |g|g(|q) data                                                
+182WB G BM1W=0.034 5$BE2W=2.1E+2 3                                             
+182WS G  KC=5.84 9$LC=1.40 3$MC=0.331 8                                        
+182WS G  NC=0.0790 18$OC=0.0121 3$PC=0.000593 9                                
+182W  G 116.4179  6     6.33 5E1                      0.253                A   
+182WB G BE1W=2.3E-5 3                                                          
+182WS G  KC=0.207 3$LC=0.0353 5$MC=0.00805 12                                  
+182WS G  NC=0.00191 3$OC=0.000290 4$PC=1.510E-5 22                             
+182W  G 152.42991 26 100.0  5  E1                     0.1258               A   
+182W cG MR$-0.22 {I11} (1992Ch26), -0.023 {I4} (1983Ri05), 0.035 {I53}         
+182W2cG (1980Sp01 in {+182}Re decay); +0.014 {I13} (1975Qu01); all from |g(|q) 
+182W3cG or |g|g(|q). Subshell ratios in ce data (1967Ni03) give pure E1        
+182W4cG consistent with RUL(M2)=1 suggests |d<0.006, thus the evaluators       
+182WxcG assign pure E1                                                         
+182WB G BE1W=0.000162 21                                                       
+182WS G  KC=0.1038 15$LC=0.01703 24$MC=0.00387 6                               
+182WS G  NC=0.000919 13$OC=0.0001421 20$PC=7.85E-6 11                          
+182W  G 1044.42   5   3.41  6 E1+M2(+E3)0.46    9     0.0051 12                
+182W cG $|d(M2/E1)=+0.4 {I3}, |d(E3/E1)=-0.3 {I2} (1972Kr05)                   
+182WB G BE1W=1.42E-8 21$BM2W=(0.013 5)                                         
+182WS G  KC=0.0042 10$LC=0.00067 16$MC=0.00015 4                               
+182WS G  NC=3.7E-5 9$OC=6.0E-6 14$PC=4.2E-7 10                                 
+182W  G 1273.719  3   9.40  5 E1+M2+E3                0.0029 5                 
+182W2 G MR(M2/E1)=+0.36 10$ MR(E3/E1)=-0.28 12                                 
+182W cG M,CC$81% {I5} E1, 12% {I4} M2 and 7% {I2} E3.                          
+182W2cG Conversion coefficient deduced for this admixture from BrIcc code      
+182W cG M,MR$from |g(|q) and lin pol data of 1983Ri05, agrees with             
+182W2cG ce data of 1992Ch26                                                    
+182WB G BE1W=1.37E-8 20$BM2W AP 8E-4$BE3W=9 2                                  
+182W  G 1373.824  3   3.17  3 E3                      0.00496                  
+182WB G BE3W=5.8 8                                                             
+182WS G  KC=0.00400 6$LC=0.000728 11$MC=0.0001685 24                           
+182WS G  NC=4.05E-5 6$OC=6.44E-6 9$PC=3.97E-7 6$IPC=1.252E-5 18                
+182W  L 1442.835   9 4+                 0.32 PS 3                          C   
+182WX L XREF=ABCDEFGHIJLS                                                      
+182W cL J$M1+E2 |g to 4+; E2 |g to 2+; (E1) |g from 5-; band assignment        
+182W cL T$from B(E2) in Coul. ex.                                              
+182W cL           B(E4)(IS)(|^)=0.0122 {I25} ((pol p,p') 1987Ic04) which       
+182W2cL gives B(E4)(W.u.)=2.0 {I4}                                             
+182W  G 1113.410  18  100.0 14E2+M1(+E0)+5.6    +13-100.00376 8                
+182W cG M,MR$from ce data in {+182}Ta |b{+-}, 1990Ka35 suggest M1+E2(+E0) with 
+182W2cG |d(E2/M1)=20 {I13}. |d(E2/M1)=+1.1 {I2} from |g|g(|q) in {+182}Ta      
+182W3cG |b{+-} (1992Ch26). E0 component is suggested by 1975We22 with          
+182W4cG q{-K}(E0/E2)=0.41 {I9}                                                 
+182WB G BE2W=10.3 10                                                           
+182W  G 1342.730  15  57.7  3  E2                     0.00256                  
+182W cG RI$93 {I7} in (|a,2n|g) is high by |?60%                               
+182W cG $|d(M3/E2)=-0.11 {I+4-20} from |g(|q) in {+182}Ta |b{+-} decay is      
+182W2cG inconsistent with RUL(M3)=10, which suggests that |d should be near    
+182W3cG zero. |a(K)exp in {+182}Re |e decay is consistent with |d(M3/E2)=0     
+182W4cG assigned by the evaluators.                                            
+182WB G BE2W=2.41 23                                                           
+182WS G  KC=0.00211 3$LC=0.000329 5$MC=7.49E-5 11                              
+182WS G  NC=1.80E-5 3$OC=2.90E-6 4$PC=1.95E-7 3$IPC=2.56E-5 4                  
+182W  L 1487.5018 10 4-                49 PS    LT                         D   
+182WX L XREF=ABCDEG(1492)P                                                     
+182W cL J$M2+E3 |g to 2+; M1+E2 |g from 5-                                     
+182W cL T$from (ce)(ce)(t) in {+182}Ta |b{+-} decay                            
+182W  G 44.66     11   1.12 22[E1]                    0.637  10               ?
+182WB G BE1W>0.00011                                                           
+182WS G  LC=0.493 8$MC=0.1136 18                                               
+182WS G  NC=0.0264 5$OC=0.00373 6$PC=0.0001436 22                              
+182W  G 113.67170 22 70.0   3 M1+E2     +0.36   1     3.18                 A   
+182W cG RI$122 {I10} in (|a,2n|g) is high by |?75%                             
+182WB G BM1W>0.038$BE2W>1.5E+2                                                 
+182WS G  KC=2.49 4$LC=0.530 9$MC=0.1242 22                                     
+182WS G  NC=0.0297 5$OC=0.00462 8$PC=0.000250 4                                
+182W  G 156.3864  3    100.0 4E1                      0.1177               A   
+182W cG $|d(M2/E1)=-0.053 {I4} (1983Ri05,|g(|q) and lin pol); -0.08 {I5}       
+182W2cG (1992Ch26, |g|g(|q)); +0.06 {I+3-6} (1981Ka22,|g|g(|q)). But           
+182W3cG RUL=1 for M2 implies |d<0.005, thus the evaluators assign E1           
+182W cG           |d(M2/E1)=-0.08 {I5} (|g|g(|q) and ce in {+182}Ta |b{+-},    
+182WxcG 1992Ch26)                                                              
+182WB G BE1W>0.00023                                                           
+182WS G  KC=0.0972 14$LC=0.01590 23$MC=0.00362 5                               
+182WS G  NC=0.000858 12$OC=0.0001328 19$PC=7.38E-6 11                          
+182W  G 198.35187 29  54.84 21 E2                     0.317                A   
+182W cG $|d(M3/E2)=+0.067 {I10} from |g(|q) in {+182}Ta |b{+-}, but RUL(M3)=10 
+182W2cG suggests |d(M3/E2) should be near zero. The evaluators assign pure E2  
+182WB G BE2W>68                                                                
+182WS G  KC=0.1725 25$LC=0.1097 16$MC=0.0273 4                                 
+182WS G  NC=0.00646 9$OC=0.000910 13$PC=1.364E-5 19                            
+182W  G 1158.1    2    10.8 13 E1                     1.38E-3                  
+182W cG           |d(M2/E1)=-0.01 {I+2-1} (|g|g(|q) in {+182}Ta |b{+-},        
+182WxcG 1992Ch26)                                                              
+182W cG RI$from {+182}Re decay (64.0 h)                                        
+182WB G BE1W>6.1E-8                                                            
+182WS G  KC=0.001159 17$LC=0.0001632 23$MC=3.66E-5 6                           
+182WS G  NC=8.79E-6 13$OC=1.432E-6 20$PC=1.021E-7 15$IPC=7.59E-6 12            
+182W  G 1387.390  3    2.73 4  E3+M2    2.6     4     0.0055424                
+182WB G BM2W>0.0020$BE3W>5.9                                                   
+182WS G  KC=0.00450 21$LC=0.00079 3$MC=0.000183 7                              
+182WS G  NC=4.39E-5 16$OC=7.0E-6 3$PC=4.50E-7 21$IPC=1.426E-5 22               
+182W  L 1510.22    4 4+                                                    B   
+182WX L XREF=ACDEI                                                             
+182W cL J$E2 |g to 2+; E2+M1 |g to 4+; |g from 5-                              
+182W  G 830.1     4    17   3                                                  
+182W cG E,RI$weighted averages taken of data from |b{+-}, |e and (n,n'|g)      
+182W2cG for all three |g rays from the 1510 level                              
+182W  G 1180.80   11   100  3 E2+M1     -2.8    10    0.0036 4                 
+182WS G  KC=0.0030 4$LC=0.00047 5$MC=0.000108 11                               
+182WS G  NC=2.59E-5 25$OC=4.2E-6 5$PC=2.8E-7 4$IPC=3.11E-6 16                  
+182W  G 1410.13   5   45.8  10 E2                     0.00235                  
+182WS G  KC=0.00193 3$LC=0.000298 5$MC=6.76E-5 10                              
+182WS G  NC=1.624E-5 23$OC=2.62E-6 4$PC=1.783E-7 25$IPC=4.20E-5 6              
+182W  L 1553.2240 10 4-                1.27 NS   4                         H   
+182WX L XREF=ABCDEGIP                                                          
+182W cL T$from |g|g(t) in {+182}Ta |b{+-} decay                                
+182W cL J$M2+E3 |g to 2+; M1+E2 |g from 5-                                     
+182W  G 65.72215  15  39.8  4 M1+E2     0.093   6     2.91   5             A   
+182WF G FL=1487.5018                                                           
+182WB G BM1W=0.00624 24$BE2W=5.2 7                                             
+182WS G  LC=2.25 4$MC=0.517 9                                                  
+182WS G  NC=0.1242 20$OC=0.0200 3$PC=0.001340 19                               
+182W  G 110.393   12   1.42 4 [E1]                    0.290                    
+182WB G BE1W=4.53E-7 20                                                        
+182WS G  KC=0.238 4$LC=0.0408 6$MC=0.00931 13                                  
+182WS G  NC=0.00220 3$OC=0.000335 5$PC=1.717E-5 24                             
+182W  G 179.39381 25  41.22 19 M1+E2    +1.3    2     0.62   4             A   
+182W cG RI$35.5 {I21} from |e decay is quite in agreement                      
+182W cG MR$unweighted average of +2.2 {I2} (1992Ch26), +2.1 {I+3-2} (1983Ri05),
+182W2cG +1.3 {I5} (1980Sp01), +0.9 {I4} (1975Qu01), +0.92 {I+13-7} (1972Kr05), 
+182W3cG +0.90m +40-23 (1972He10), 0.7 {I1} (1967Ni03). Weighted average is 1.0 
+182W4cG {I2} but with reduced |h{+2}=10. Except for 1967Ni03, all other        
+182W5cG methods are |g(|q) on oriented nuclei or |g|g(|q)                      
+182WB G BM1W=0.000119 24$BE2W=2.6 4                                            
+182WS G  KC=0.42 5$LC=0.149 5$MC=0.0363 13                                     
+182WS G  NC=0.0086 3$OC=0.00126 4$PC=3.9E-5 5                                  
+182W  G 222.1085  3  100.0  3 E1                      0.0480               A   
+182W cG MR$+0.007 {I5} (1972Kr05), +0.027 {I7} (1992Ch26), -0.12 {I18}         
+182W2cG (1975Qu01), pure E1 from subshell data (1967Ni01), as also suggested by
+182W3cG RUL for M2.                                                            
+182WB G BE1W=3.92E-6 13                                                        
+182WS G  KC=0.0399 6$LC=0.00630 9$MC=0.001429 20                               
+182WS G  NC=0.000340 5$OC=5.34E-5 8$PC=3.17E-6 5                               
+182W  G 264.0740  3  47.74  19 E2                     0.1254               A   
+182WB G BE2W=0.700 23                                                          
+182WS G  KC=0.0799 12$LC=0.0347 5$MC=0.00852 12                                
+182WS G  NC=0.00202 3$OC=0.000291 4$PC=6.69E-6 10                              
+182W  G 1223.73   11 3.1    4 E1+M2(+E3)-0.15   +10-250.0016 15                
+182W cG E$weighted average from |b{+-} and |e decay                            
+182W cG M,MR$from ce data of 1976He18 and |g|g(|q) data of                     
+182W2cG of 1992Ch26 in {+182}Ta |b{+-}. E3 admixture cannot be ruled out       
+182WB G BE1W=7.1E-10 10$BM2W=(5.E-5 +7-5)                                      
+182WS G  KC=0.0013 13$LC=1.9E-4 20$MC=4.2E-5 46                                
+182WS G  NC=1.0E-5 11$OC=1.6E-6 18$PC=1.2E-7 13$IPC=2.7E-5 3                   
+182W  G 1453.120  6   0.405 14 E3(+M2)   2.3    GT    0.0048 4                 
+182WB G BE3W=0.017 2                                                           
+182WS G  KC=0.0039 4$LC=0.00068 5$MC=0.000156 11                               
+182WS G  NC=3.76E-5 25$OC=6.0E-6 4$PC=3.9E-7 4$IPC=2.29E-5 4                   
+182W cG RI$other: 27 {I3} in (|a,2n|g) is much higher, most likely an impurity 
+182W2cG or incorrect assignment                                                
+182W  L 1621.284  21 5-                                                    D   
+182WX L XREF=CDEG(*)H(*)J(*)P                                                  
+182W cL J$M1 |g from 6-; E1 |g to 4+                                           
+182W  G     111.07 5     4.1 3                                                 
+182W  G 133.80    5       49 3M1+E2     +0.39   +4-3  1.96   4                 
+182WS G  KC=1.55 4$LC=0.316 10$MC=0.0739 24                                    
+182WS G  NC=0.0177 6$OC=0.00277 8$PC=0.000155 4                                
+182W  G 178.47    5       45 3 E1                     0.0838                   
+182WS G  KC=0.0693 10$LC=0.01118 16$MC=0.00254 4                               
+182WS G  NC=0.000604 9$OC=9.39E-5 14$PC=5.36E-6 8                              
+182W  G 247.46    5      100 7E2                      0.1538                   
+182WS G  KC=0.0951 14$LC=0.0447 7$MC=0.01101 16                                
+182WS G  NC=0.00261 4$OC=0.000374 6$PC=7.86E-6 11                              
+182W  G 1291.8    4      4.6 5E1+M2     0.4     2     0.0027 14                
+182WS G  KC=0.0022 12$LC=3.4E-4 19$MC=7.7E-5 44                                
+182WS G  NC=1.9E-5 11$OC=3.0E-6 17$PC=2.2E-7 13$IPC=5.0E-5 7                   
+182W  G 1521.3    4    1.89 20(E3)                    0.00402                  
+182WS G  KC=0.00325 5$LC=0.000568 8$MC=0.0001309 19                            
+182WS G  NC=3.15E-5 5$OC=5.03E-6 7$PC=3.20E-7 5$IPC=3.37E-5 5                  
+182W  L 1623.51    4 (5)+                                                  C   
+182WX L XREF=CDEFG(*)H(*)IJ(*)                                                 
+182W cL J$E1 |g from 6-; band assignment                                       
+182W  G 943.1     3    14.0 22E2                      0.00507                  
+182WS G  KC=0.00415 6$LC=0.000711 10$MC=0.0001634 23                           
+182WS G  NC=3.92E-5 6$OC=6.23E-6 9$PC=3.86E-7 6                                
+182W cG RI$35 {I5} in (n,n'|g) is discrepant                                   
+182W  G    1294.0  3  100.0 19 E2(+M1)    30    GT    0.00274                  
+182WS G  KC=0.00226 4$LC=0.000356 5$MC=8.10E-5 12                              
+182WS G  NC=1.94E-5 3$OC=3.13E-6 5$PC=2.10E-7 3$IPC=1.654E-5 24                
+182W  L 1660.383  21 5-                                                    H   
+182WX L XREF=CDEG(1678 )HIJP                                                   
+182W cL J$E1+M2 |g to 4+; M1+E2 |g to 5-; M1 |g from 6-                        
+182W  G 39.1      1      3.7 7M1+E2     0.061   7     13.6   4                 
+182WS G  LC=10.53 25$MC=2.42 6                                                 
+182WS G  NC=0.581 15$OC=0.0933 21$PC=0.00618 10                                
+182W  G 107.13    5    20.1 15M1+E2     -0.8    2     3.54   13                
+182WS G  KC=2.3 4$LC=0.96 15$MC=0.24 4                                         
+182WS G  NC=0.056 9$OC=0.0081 12$PC=0.00022 4                                  
+182W cG RI$55 {I4} in (|a,2n|g) is discrepant                                  
+182W  G 150.25    5      7.3 7(E1)                    0.1305                  ?
+182WS G  KC=0.1077 16$LC=0.01770 25$MC=0.00403 6                               
+182WS G  NC=0.000956 14$OC=0.0001476 21$PC=8.13E-6 12                          
+182W cG RI$51 {I10} in (|a,2n|g) is discrepant                                 
+182W  G 172.87    5       51 3M1+E2     +0.26   1     0.971                    
+182WS G  KC=0.795 12$LC=0.1356 20$MC=0.0312 5                                  
+182WS G  NC=0.00749 11$OC=0.001205 17$PC=7.97E-5 12                            
+182W cG RI$137 {I14} in (|a,2n|g) is discrepant                                
+182W  G 217.55    5       46 3(E1)                    0.0506                   
+182WS G  KC=0.0420 6$LC=0.00664 10$MC=0.001508 22                              
+182WS G  NC=0.000359 5$OC=5.63E-5 8$PC=3.33E-6 5                               
+182W cG RI$93 {I7} in (|a,2n|g) is discrepant                                  
+182W  G 286.56    5      100 7E2                      0.0976                   
+182WS G  KC=0.0643 9$LC=0.0254 4$MC=0.00621 9                                  
+182WS G  NC=0.001472 21$OC=0.000213 3$PC=5.47E-6 8                             
+182W  G  1330.9   2      5.3 5 E1+M2     0.5    2     0.0032 14                
+182WS G  KC=0.0026 11$LC=4.0E-4 18$MC=9.1E-5 41                                
+182WS G  NC=2.19E-5 98$OC=3.6E-6 16$PC=2.6E-7 12$IPC=6.3E-5 9                  
+182W  G 1560.4    4   1.02  11(E3)                    0.00382                  
+182WS G  KC=0.00309 5$LC=0.000534 8$MC=0.0001231 18                            
+182WS G  NC=2.96E-5 5$OC=4.74E-6 7$PC=3.03E-7 5$IPC=4.10E-5 6                  
+182W  L 1711.99   14 10+              0.76 PS   7                          A   
+182WX L XREF=EFMOP                                                             
+182W cL T$from RDM in Coulomb excitation                                       
+182W cL J$|DJ=2, E2 |g to 8+; band assignment                                  
+182W  G 567.5     1    100    E2                      0.01543                  
+182WB G BE2W=203 19                                                            
+182WS G  KC=0.01202 17$LC=0.00262 4$MC=0.000616 9                              
+182WS G  NC=0.0001472 21$OC=2.26E-5 4$PC=1.106E-6 16                           
+182W  L 1756.75    4 6+                                                    I   
+182WX L XREF=CDEG(1745)P                                                       
+182W cL J$log| {Ift}=7.4 from 7+, E2 |g to 4+                                  
+182W  G 313.94    12     7.5 5E2                      0.0743                   
+182WS G  KC=0.0506 8$LC=0.0181 3$MC=0.00440 7                                  
+182WS G  NC=0.001045 15$OC=0.0001525 22$PC=4.37E-6 7                           
+182W  G 1076.4    1      100 3E2+M1     +2.56   +9-8  0.00444                  
+182WS G  KC=0.00368 6$LC=0.000592 9$MC=0.0001351 21                            
+182WS G  NC=3.24E-5 5$OC=5.22E-6 8$PC=3.45E-7 6                                
+182W cG M$no E0 admixture was found in |g(ce)(|q) and ce data of 1975We22      
+182W  G 1427.2    1    92.1 17E2                      0.00231                  
+182WS G  KC=0.00188 3$LC=0.000291 4$MC=6.60E-5 10                              
+182WS G  NC=1.584E-5 23$OC=2.56E-6 4$PC=1.744E-7 25$IPC=4.67E-5 7              
+182W  L 1765.53   12                                                           
+182WX L XREF=DHJ                                                               
+182W  G      434.3 2    48  12                                                 
+182W  G   544.20  15   100  15                                                 
+182W  L 1768.943  23   6-                                                  H   
+182WX L XREF=CDEIPR                                                            
+182W cL J$E1+M2 |g to 6+; E2 |gs to 4-; band assignment                        
+182W  G 108.58    5    12.6 25M1+E2     -0.6    2     3.50   13                
+182WS G  KC=2.5 3$LC=0.78 14$MC=0.19 4                                         
+182WS G  NC=0.045 9$OC=0.0066 11$PC=0.00025 4                                  
+182W cG RI$78 {I6} in (|a,2n|g) is discrepant                                  
+182W  G 145.43    5     11.8 9(E1)                    0.1420                   
+182WS G  KC=0.1171 17$LC=0.0193 3$MC=0.00440 7                                 
+182WS G  NC=0.001043 15$OC=0.0001608 23$PC=8.80E-6 13                          
+182W cG RI$45 {I10} in (|a,2n|g) is discrepant                                 
+182W  G 147.71    5    16.2 14M1+E2     +0.8    2     1.30   9                 
+182WS G  KC=0.94 12$LC=0.277 24$MC=0.067 7                                     
+182WS G  NC=0.0159 15$OC=0.00237 18$PC=9.1E-5 13                               
+182W cG RI$49 {I10} in (|a,2n|g) is discrepant                                 
+182W  G 215.72    5    12.3 24(E2)                    0.240                    
+182WS G  KC=0.1376 20$LC=0.0776 11$MC=0.0192 3                                 
+182WS G  NC=0.00455 7$OC=0.000645 9$PC=1.106E-5 16                             
+182W cG RI$65 {I6} in (|a,2n|g) is discrepant                                  
+182W  G 281.43    5      100 7E2                      0.1031                   
+182WS G  KC=0.0675 10$LC=0.0272 4$MC=0.00665 10                                
+182WS G  NC=0.001578 23$OC=0.000228 4$PC=5.72E-6 8                             
+182W  G 1088.5    3      3.5 4E1+M2     0.4     2     0.0040 23                
+182WS G  KC=0.0033 19$LC=5.1E-4 31$MC=1.17E-4 70                               
+182WS G  NC=2.8E-5 17$OC=4.6E-6 28$PC=3.3E-7 20                                
+182W  G 1439.3    3    2.81 18(M2)                    0.00930                  
+182WS G  KC=0.00770 11$LC=0.001217 17$MC=0.000277 4                            
+182WS G  NC=6.69E-5 10$OC=1.093E-5 16$PC=7.84E-7 11$IPC=2.33E-5 4              
+182W cG M$E1+M2 from |a(K)exp but |DJ|p requires M2                            
+182W  L  1769.5   7   (6+)                                                 C  ?
+182WX L XREF=F                                                                 
+182W cL E$level is suspect since the two |g rays at 1089 and 1440 are          
+182W2cL associated with the decay of 1769, (6)- level                          
+182W cL J$|g to 6+; possible band assignment                                   
+182W  G 1089.0                                                                 
+182W  G  1440.1                                                                
+182W  L 1809.64    7 5-                                                    J   
+182WX L XREF=CEG(*1792)IJ(*)P                                                  
+182W cL J$M1 |g to 4-; M1 |g from 6-                                           
+182W  G     188.54 5   1.38 14                                                ?
+182W  G 256.42    11     100 8M1+E2     +0.037  +6-7  0.336                    
+182WS G  KC=0.279 4$LC=0.0438 7$MC=0.00997 14                                  
+182WS G  NC=0.00240 4$OC=0.000392 6$PC=2.80E-5 4                               
+182W  L 1810.85    4 (6)-                                                  D   
+182WX L XREF=CEG(*1792)J(*)P                                                   
+182W cL J$log| {Ift}=8.7 from 7+; M1+E2 |g to 5-; band assignment              
+182W  G      42.0                                                              
+182WF G FL=1768.943                                                            
+182W  G 187.34    5    18.4 18E1+M2     +0.25   +27-200.33   66                
+182WS G  KC=0.25 50$LC=0.06 13$MC=0.014 30                                     
+182WS G  NC=0.0033 73$OC=5.E-4 12$PC=3.3E-5 74                                 
+182W  G 189.60    7    21.8 18M1+E2     +0.31   +15-120.74   4                 
+182WS G  KC=0.60 4$LC=0.104 3$MC=0.0240 10                                     
+182WS G  NC=0.00576 22$OC=0.000924 21$PC=6.0E-5 5                              
+182W  G 323.33    10     100 7E2                      0.0681                   
+182WS G  KC=0.0469 7$LC=0.01623 23$MC=0.00395 6                                
+182WS G  NC=0.000937 14$OC=0.0001372 20$PC=4.07E-6 6                           
+182W  L     1813.4 3                                                           
+182WX L XREF=DG(*1792)I(*)J(*)                                                 
+182W  G      524.2 3   100                                                     
+182W  L 1829.53    3 6-                                                    K   
+182WX L XREF=CEIJPR                                                            
+182W cL J$log| {Ift}=7.4 from 7+; E2 |g to 4-                                  
+182W  G 19.85     10   0.32 11M1+E2     0.07    2     1.3E2  3                 
+182WS G  LC=102 20$MC=24 5                                                     
+182WS G  NC=5.7 12$OC=0.88 15$PC=0.0461 10                                     
+182W  G    60.65  10   0.91 23                                                 
+182WF G FL=1768.943                                                            
+182W  G 169.15    10     100 7M1+E2     +0.094  6     1.060                    
+182WS G  KC=0.879 13$LC=0.1405 20$MC=0.0320 5                                  
+182WS G  NC=0.00771 11$OC=0.001256 18$PC=8.85E-5 13                            
+182W  G 206.00    5      4.5 5E1                      0.0581                   
+182WS G  KC=0.0482 7$LC=0.00766 11$MC=0.001739 25                              
+182WS G  NC=0.000414 6$OC=6.48E-5 9$PC=3.80E-6 6                               
+182W  G 208.26    5      5.5 5M1+E2     -1.0    5     0.43   10                
+182WS G  KC=0.32 11$LC=0.084 4$MC=0.0200 14                                    
+182WS G  NC=0.0048 3$OC=0.000721 18$PC=3.1E-5 12                               
+182W  G 276.31    5       77 5E2                      0.1090                   
+182WS G  KC=0.0708 10$LC=0.0291 4$MC=0.00714 10                                
+182WS G  NC=0.001693 24$OC=0.000245 4$PC=5.98E-6 9                             
+182W  G 342.03    10     9.3 7E2                      0.0579                   
+182WS G  KC=0.0406 6$LC=0.01326 19$MC=0.00321 5                                
+182WS G  NC=0.000764 11$OC=0.0001124 16$PC=3.55E-6 5                           
+182W cG RI$43 {I4} in (|a,2n|g) is discrepant                                  
+182W  L     1833.1 6                                                          ?
+182WX L XREF=D                                                                 
+182W  G     1733.0 6   100                                                    ?
+182W  L 1855.98    5 (2+)                                                      
+182WX L XREF=BD(1856.2)G(*)H(*)I(*)J(*)                                        
+182W cL J$|gs to 0+ and 4+                                                     
+182W  G     598.56 5    100 11                                                 
+182W  G    1527.0 10    10  5                                                 ?
+182W cG E$from (n,n'|g) only                                                   
+182W  G    1756.0  2      15 3                                                 
+182W cG RI$167 {I40} in (n,n'|g) is discrepant                                 
+182W  G 1857.3    2      8.0 6(E2)                    1.59E-3                  
+182WF G FL=0.0                                                                 
+182WS G  KC=0.001162 17$LC=0.0001723 25$MC=3.89E-5 6                           
+182WS G  NC=9.35E-6 13$OC=1.522E-6 22$PC=1.073E-7 15$IPC=0.000210 3            
+182W cG E$from {+182}Re decay only, poor fit; |g not used in the               
+182W2cG level-scheme fitting procedure. Level-energy difference=1856.1         
+182W  L 1856.9     5    1                                                      
+182WX L XREF=D(1856.9)G(*)H(*)I(*)J(*)                                         
+182W cL J$|gs to 0+ and 2+; |g(|q) in (n,n'|g)                                 
+182W  G     1757.0 6     35 12                                                 
+182W  G     1856.7 6    100 23                                                 
+182W  L 1871.17   15 1-                                                        
+182WX L XREF=BD                                                                
+182W cL J$E1 |g to 0+                                                          
+182W  G 1543      2    5    AP[E3]                    0.00391                  
+182WS G  KC=0.00316 5$LC=0.000549 8$MC=0.0001265 19                            
+182WS G  NC=3.04E-5 5$OC=4.86E-6 7$PC=3.11E-7 5$IPC=3.77E-5 7                  
+182W  G 1771.0    2    100  10E1                      1.04E-3                  
+182WS G  KC=0.000562 8$LC=7.77E-5 11$MC=1.740E-5 25                            
+182WS G  NC=4.18E-6 6$OC=6.84E-7 10$PC=4.98E-8 7$IPC=0.000383 6                
+182W  G 1871.2    2       90 7E1                      1.06E-3                  
+182WS G  KC=0.000513 8$LC=7.09E-5 10$MC=1.587E-5 23                            
+182WS G  NC=3.81E-6 6$OC=6.24E-7 9$PC=4.55E-8 7$IPC=0.000457 7                 
+182W  L 1887.84   21                                                           
+182WX L XREF=DHJ                                                               
+182W  G    556.7  3      83 25                                                 
+182W  G    666.4  4      46 17                                                 
+182W  G   1558.5  4     100 25                                                 
+182W  L 1917.05    5  7-                                                   H   
+182WX L XREF=CEI(1916)PR                                                       
+182W cL J$|DJ=2, E2 |g to 5-; |g to (6)-; band assignment                      
+182W  G  106.3    1    8    2                                                  
+182W  G  148.2    1    10   2                                                  
+182WF G FL=1768.943                                                            
+182W  G   160.20  5                                                           ?
+182W cG E$from {+182}Re decay only. This |g is considered as suspect by the    
+182W2cG evaluators since its intensity of 116 {I7} relative to 100 for 295.7|g 
+182W3cG is much too high to have missed detection in in-beam |g-ray study      
+182W  G  256.5    1    28   4  Q                                               
+182W  G 295.63    10   100  14  E2                    0.0888                   
+182WS G  KC=0.0592 9$LC=0.0226 4$MC=0.00551 8                                  
+182WS G  NC=0.001308 19$OC=0.000190 3$PC=5.06E-6 8                             
+182W  L     1918.6 4   (2+:4+)                                                 
+182WX L XREF=DGI(1923)                                                         
+182W cL J$|g to 2+; not 0 or 1 from |g(|q) in (n,n'|g)                         
+182W  G     1818.5 4   100                                                     
+182W  L 1959.35   16 (2+)                                                      
+182WX L XREF=DHIJ(1961)                                                        
+182W cL J$|DJ=(2) |g to 4+; |g to 0+                                           
+182W  G    449.8  3      21 10  (Q)                                            
+182W  G    627.5  4      50 14                                                 
+182W  G   1629.8  2     100 14                                                 
+182W  G   1859.1  8      71 24                                                 
+182W  G   1959.2  10      14 5                                                ?
+182W  L 1960.30    3  (7)-                                                 K   
+182WX L XREF=CEP                                                               
+182W cL J$log| {Ift}=7.1 from 7+; |DJ=2, E2 |gs to 5-                          
+182W  G 130.81    5      100 7M1+E2     -0.51   +6-8  2.03   6                 
+182WS G  KC=1.55 8$LC=0.369 21$MC=0.087 6                                      
+182WS G  NC=0.0208 13$OC=0.00319 16$PC=0.000154 8                              
+182W  G 149.45    5    12.1 10M1+E2     -0.15   +15-181.50   6                 
+182WS G  KC=1.23 7$LC=0.202 14$MC=0.046 4                                      
+182WS G  NC=0.0111 9$OC=0.00180 10$PC=0.000124 8                               
+182W  G 191.39    5       90 7M1+E2     -0.23   +6-8  0.734  18                
+182WS G  KC=0.604 19$LC=0.1002 18$MC=0.0230 5                                  
+182WS G  NC=0.00552 11$OC=0.000892 14$PC=6.05E-5 20                            
+182W  G 203.55    5      6.6 7 (E1)                   0.0599                   
+182WS G  KC=0.0497 7$LC=0.00790 11$MC=0.00179 3                                
+182WS G  NC=0.000427 6$OC=6.68E-5 10$PC=3.91E-6 6                              
+182W cG $From |g(|q) in {+182}Re |e decay, 1980Sp01 give |d(Q/D)=-17 {I+10-24} 
+182W2cG or +0.06 {I+9-4}; favoring the former value from |d based on ce data   
+182W3cG of 1971Ga37. But 1971Ga37 assigned tentative E2 from their ce data.    
+182W4cG |d(M2/E1)=-17 {I+10-24} is inconsistent with RUL(M2)=1 for             
+182W5cG T{-1/2}(1960.30 level)<1 ns or so. The evaluators assign tentative E1  
+182W cG RI$52 {I4} in (|a,2n|g) is discrepant                                  
+182W  G 299.90    10      20 3E2                      0.0851                   
+182WS G  KC=0.0570 8$LC=0.0214 3$MC=0.00522 8                                  
+182WS G  NC=0.001239 18$OC=0.000180 3$PC=4.89E-6 7                             
+182W cG RI$61 {I6} in (|a,2n|g) is discrepant                                  
+182W  G 339.04    10     72 10E2                      0.0594                   
+182WS G  KC=0.0415 6$LC=0.01368 20$MC=0.00332 5                                
+182WS G  NC=0.000789 11$OC=0.0001159 17$PC=3.63E-6 5                           
+182W  L 1960.78    7 6-                                                    J   
+182WX L XREF=CDIPR                                                             
+182W cL J$M1 |g to 5-; log| {Ift}=8.0 from 7+; possible band assignment        
+182W  G 151.15    5       26 3M1+E2     0.8     3     1.21   13                
+182WS G  KC=0.88 17$LC=0.25 3$MC=0.061 9                                       
+182WS G  NC=0.0146 20$OC=0.00218 23$PC=8.5E-5 19                               
+182W  G 300.36    10    100 23M1+E2     +0.048  26    0.218                    
+182WS G  KC=0.181 3$LC=0.0284 4$MC=0.00646 9                                   
+182WS G  NC=0.001555 22$OC=0.000254 4$PC=1.81E-5 3                             
+182W  G    1279.8 3      3.6 5                                                ?
+182W  G 1631.4    5    0.74 14M2+E3     2.5     AP    0.00396AP               ?
+182WS G  KC AP 0.00321$LC AP 0.000536$MC AP 0.0001230                          
+182WS G  NC AP 2.96E-5$OC AP 4.77E-6$PC AP 3.17E-7$IPC AP 5.70E-5              
+182W  L 1971.05    7 (7)+                                                  I   
+182WX L XREF=CEI(1966)P                                                        
+182W cL J$log| {Ift}=8.2 from 7+; M1+E2 |g to 6+; band assignment              
+182W  G 214.31    5    100    M1+E2     +0.25   +8-7  0.532  15                
+182WS G  KC=0.439 14$LC=0.0725 11$MC=0.0166 3                                  
+182WS G  NC=0.00399 7$OC=0.000645 9$PC=4.39E-5 15                              
+182W  L 1978.36    4 (7)-                                                  L   
+182WX L XREF=CEP                                                               
+182W cL J$log| {Ift}=7.0 from 7+; M1+E2 |g to (6)-; band assignment            
+182W  G 18.05     10     1.9 5M1+E2     0.016   5     128    4                 
+182WS G  LC=99 3$MC=22.7 7                                                     
+182WS G  NC=5.45 16$OC=0.883 24$PC=0.0612 14                                   
+182W  G 148.86    5    27.2 20M1+E2     +0.28   +8-6  1.48   4                 
+182WS G  KC=1.20 5$LC=0.214 8$MC=0.0493 22                                     
+182WS G  NC=0.0118 5$OC=0.00189 6$PC=0.000121 5                                
+182W  G 209.40    5      7.6 8M1+E2     -0.28   +23-150.56   3                 
+182WS G  KC=0.46 3$LC=0.0776 15$MC=0.0178 5                                    
+182WS G  NC=0.00428 10$OC=0.000690 11$PC=4.6E-5 4                              
+182W cG RI$33 {I3} in (|a,2n|g) is discrepant                                  
+182W  G 221.59    6      100 8E1                      0.0483                   
+182WS G  KC=0.0401 6$LC=0.00633 9$MC=0.001438 21                               
+182WS G  NC=0.000342 5$OC=5.37E-5 8$PC=3.19E-6 5                               
+182W  G 357.04    10     8.4 8E2                      0.0513                   
+182WS G  KC=0.0364 5$LC=0.01140 16$MC=0.00276 4                                
+182WS G  NC=0.000656 10$OC=9.68E-5 14$PC=3.20E-6 5                             
+182W  L 1981.82   25                                                           
+182WX L XREF=DGI(1985)                                                         
+182W  G    650.7  3      59 18                                                 
+182W  G    723.8  7       26 9                                                 
+182W  G   1653.1  8      82 24                                                 
+182W  G   1881.8  8     100 18                                                 
+182W  L 1993.68   10 (7-)                                                  D   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to 5-; band assignment                                      
+182W  G   182.8   5    11   LT                                                 
+182W  G 372.4     1    100  17 Q                                               
+182W  L 2016.8     8 (2,3,4)+                                                  
+182WX L XREF=DI                                                                
+182W cL J$L(d,t)=1,3 from 1/2-; possible |gs to 2+ and 4+                      
+182W cL E$2023 {I7} level in (d,t) is probably not 2023.57, 3- level           
+182W  G  1688.3   10  100   33                                                ?
+182W  G  1915.3   12  100   33                                                ?
+182W  L 2023.57    3  3-                                                       
+182WX L XREF=BDG(*)                                                            
+182W cL J$M1+E2 |gs to 2- and 4-                                               
+182W  G 470.26    5   100   5 M1+E2     0.6     1     0.055  3                 
+182WS G  KC=0.0455 25$LC=0.0075 3$MC=0.00171 6                                 
+182WS G  NC=0.000412 15$OC=6.6E-5 3$PC=4.5E-6 3                                
+182W  G 536.04    5   10.3  16 M1+E2    0.7     2     0.037  4                 
+182WS G  KC=0.031 4$LC=0.0051 4$MC=0.00116 9                                   
+182WS G  NC=0.000279 21$OC=4.5E-5 4$PC=3.0E-6 4                                
+182W  G 649.73    5   16.8  24 M1+E2    0.8     2     0.0219 23                
+182WS G  KC=0.0181 19$LC=0.00293 24$MC=0.00067 6                               
+182WS G  NC=0.000161 13$OC=2.60E-5 22$PC=1.76E-6 20                            
+182W  G 734.53    5   18.7  22 M1+E2    1.0     3     0.0148 22                
+182WS G  KC=0.0122 19$LC=0.00199 24$MC=0.00045 6                               
+182WS G  NC=0.000109 13$OC=1.76E-5 22$PC=1.18E-6 19                            
+182W  L 2057.39    5  1+                                                       
+182WX L XREF=BDG(*)I                                                           
+182W cL J$|DJ=1 |g to 0+; L(d,t)=1,3 from 1/2- target                          
+182W  G     800   1       16 4                                                 
+182W  G 835.98    5       50 5(M1+E2)   0.8     AP    0.01177AP                
+182WS G  KC AP 0.00979$LC AP 0.001538$MC AP 0.000350                           
+182WS G  NC AP 8.42E-5$OC AP 1.366E-5$PC AP 9.48E-7                            
+182W  G 1957.4    2       49 3(M1+E2)   1.0     +6-4  0.0018617                
+182WS G  KC=0.00131 13$LC=0.000193 18$MC=4.4E-5 4                              
+182WS G  NC=1.05E-5 10$OC=1.72E-6 17$PC=1.24E-7 13$IPC=0.000303 23             
+182W  G    2057.4  3     100 8 D                                               
+182W  L 2071                                                                   
+182WX L XREF=I                                                                 
+182W  L 2087.43    7   8-                                                  H   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (6-); band assignment                                    
+182W  G   170.4   1    20   4                                                  
+182W  G    318.5  1    100  15 Q                      0.0716                   
+182WF G FL=1768.943                                                            
+182W  L 2094      10                                                           
+182WX L XREF=IJ                                                                
+182W  L 2109.96   20 (2-,3-)                                                   
+182WX L XREF=BDG(*)IJ(*2117 )                                                  
+182W cL J$(E2) |g to 4-; (E1+M2) |g to 2+                                      
+182W  G 556.7     3     100 28(E2)                    0.01615                  
+182WS G  KC=0.01255 18$LC=0.00276 4$MC=0.000652 10                             
+182WS G  NC=0.0001556 22$OC=2.39E-5 4$PC=1.154E-6 17                           
+182W  G 2010.1    3     86  12(E1+M2)   0.9     +7-4  0.0025085                
+182WS G  KC=0.00176 80$LC=2.7E-4 13$MC=6.0E-5 28                               
+182WS G  NC=1.45E-5 68$OC=2.4E-6 11$PC=1.73E-7 81$IPC=3.9E-4 10                
+182W  G 2109.3    5    235  LT[M2,E3]                 0.0030380                
+182WS G  KC=0.00235 66$LC=3.64E-4 95$MC=8.3E-5 22                              
+182WS G  NC=1.99E-5 52$OC=3.25E-6 86$PC=2.31E-7 68$IPC=0.000211 16             
+182W  L 2114.35    5 (8)-                                                  K   
+182WX L XREF=CEP                                                               
+182W cL J$E2 |g to (6)-; log| {Ift}=8.2 from 7+; band assignment               
+182W  G 154.10    5    58   13M1+E2     0.6     3     1.22   12                
+182WS G  KC=0.93 15$LC=0.22 3$MC=0.052 8                                       
+182WS G  NC=0.0124 17$OC=0.00190 19$PC=9.2E-5 17                               
+182W  G   197.4   2    23   7                                                  
+182W  G   285.1   10   46   8                                                  
+182W  G 345.29    15   100  15E2                      0.0564                   
+182WS G  KC=0.0396 6$LC=0.01283 18$MC=0.00311 5                                
+182WS G  NC=0.000739 11$OC=0.0001087 16$PC=3.47E-6 5                           
+182W  L 2116.4     3                                                           
+182WX L XREF=BDG(*)J(*2117)                                                    
+182W cL J$0+ to 4+ from |g to 2+                                               
+182W  G     2016.3 3   100                                                     
+182W  L 2120.25    7 (8-)                                                  M   
+182WX L XREF=CEP                                                               
+182W cL J$(M1) |g to (7)-; probable bandhead of a 2-qp band                    
+182W  G 160.1     1    100  18(M1)                    1.243                    
+182WS G  KC=1.032 15$LC=0.1633 23$MC=0.0372 6                                  
+182WS G  NC=0.00896 13$OC=0.001461 21$PC=0.0001040 15                          
+182W  G   290.5   1     35  6                                                  
+182W  L 2131.3     3  (7-)                                                 J   
+182WX L XREF=EIPR                                                              
+182W cL J$|g to (6)-; possible band assignment                                 
+182W  G      362.4 3   100                                                     
+182WF G FL=1768.943                                                            
+182W  L 2143.0    10                                                           
+182WX L XREF=DH(*)IJ(*)                                                        
+182W  G  1813.6   10   100                                                    ?
+182W  L 2147.95   17 (3-)                                                      
+182WX L XREF=BDG(*)H(*)IJ(*)                                                   
+182W cL J$(E1) |g to 4+; (E1+M2) |g to 2+                                      
+182W  G  817.0    10     12 4                                                  
+182W cG E$from (n,n'|g) only                                                   
+182W  G 1818.7    2       92 8(E1)                    1.05E-3                  
+182WS G  KC=0.000538 8$LC=7.44E-5 11$MC=1.664E-5 24                            
+182WS G  NC=4.00E-6 6$OC=6.54E-7 10$PC=4.77E-8 7$IPC=0.000418 6                
+182W cG RI$222 {I33} in (n,n'|g) is discrepant                                 
+182W  G 2047.4    3      100 8(E1+M2)   1.0     +10-5 0.0025889                
+182WS G  KC=0.00183 84$LC=2.8E-4 13$MC=6.3E-5 30                               
+182WS G  NC=1.51E-5 72$OC=2.5E-6 12$PC=1.80E-7 85$IPC=3.9E-4 12                
+182W  G 2148      3       24 5[E3]                    0.00218                 ?
+182WS G  KC=0.001633 24$LC=0.000259 4$MC=5.90E-5 9                             
+182WS G  NC=1.419E-5 21$OC=2.30E-6 4$PC=1.573E-7 23$IPC=0.000209 3             
+182W  L 2173.5     3  (0+:4+)                                                  
+182WX L XREF=BDG(*)HIJ(*2175)                                                  
+182W cL J$|g to 2+. If 2174|g to 0+ exists, then J|p=1,2+                      
+182W  G      952.3 6     42 12                                                 
+182W  G     2073.3 3    100 23                                                 
+182W  G   2174           23 LT                                                ?
+182W cG E$from (n,n'|g) only                                                   
+182W  L 2180.4     8   (8+)                                                C   
+182WX L XREF=F                                                                 
+182W cL J$|gs to 8+ and 6+; band assignment                                    
+182W  G 1036.0                                                                 
+182W  G  1500.0                                                                
+182W  L 2184.04    4 (2-,3-)                                                   
+182WX L XREF=BDG(*)J(*2175)H(*)                                                
+182W cL J$(M1) |gs to 2- and 3-                                                
+182W  G 810.24    5    18.2 21(M1)                    0.01639                  
+182WS G  KC=0.01371 20$LC=0.00208 3$MC=0.000470 7                              
+182WS G  NC=0.0001132 16$OC=1.85E-5 3$PC=1.343E-6 19                           
+182W  G 894.85    5      100 8(M1)                    0.01276                  
+182WS G  KC=0.01068 15$LC=0.001613 23$MC=0.000365 6                            
+182WS G  NC=8.79E-5 13$OC=1.440E-5 21$PC=1.045E-6 15                           
+182W  G    2084.0  3     3.1 3                                                 
+182W  L 2204.54    6 (8)-                                                  L   
+182WX L XREF=CEP                                                               
+182W cL J$M1+E2 |g to (7)-, log| {Ift}=7.5 from 7+                             
+182W  G 226.19    5    100    M1+E2     +0.15   2     0.468                    
+182WS G  KC=0.388 6$LC=0.0620 9$MC=0.01414 20                                  
+182WS G  NC=0.00341 5$OC=0.000554 8$PC=3.89E-5 6                               
+182W  L 2207.21   16 (3-)                                                      
+182WX L XREF=BDG(*)H(*)IJ(*)                                                   
+182W cL J$(E3) |g to 0+ and (E1+M2) |g to 4+                                   
+182W  G 1877.6    2     58  18(E1+M2)   -0.28   6     0.0013412                
+182WS G  KC=0.00076 11$LC=0.000110 17$MC=2.5E-5 4                              
+182WS G  NC=6.0E-6 10$OC=9.7E-7 16$PC=7.1E-8 11$IPC=0.000438 12                
+182W  G   2106.8  5    250  LT                                                 
+182W  G 2207.7    3    100  9 (E3)                    0.00209                  
+182WS G  KC=0.001548 22$LC=0.000244 4$MC=5.56E-5 8                             
+182WS G  NC=1.336E-5 19$OC=2.17E-6 3$PC=1.488E-7 21$IPC=0.000229 4             
+182W  L 2209.07   17 3-                                                        
+182WX L XREF=BDG(*)H(*)I(2217)J(*)                                             
+182W cL J$E1 |g to 4+, log| {Ift}=8.3 from 2+                                  
+182W  G    835.9  6      33 11                                                 
+182W cG E$from (n,n'|g) only                                                   
+182W  G 1879.6    2      21 6 E1                      1.06E-3                  
+182WS G  KC=0.000509 8$LC=7.04E-5 10$MC=1.575E-5 22                            
+182WS G  NC=3.78E-6 6$OC=6.19E-7 9$PC=4.52E-8 7$IPC=0.000463 7                 
+182W  G   2108.9  4     100 17                                                 
+182W  G 2208.8    6      78 17[E3]                    0.00209                  
+182WS G  KC=0.001546 22$LC=0.000244 4$MC=5.55E-5 8                             
+182WS G  NC=1.335E-5 19$OC=2.16E-6 3$PC=1.487E-7 21$IPC=0.000230 4             
+182W cG E$from (n,n'|g) only                                                   
+182W  L 2212.50   11 (8+)                                                  I   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=1 |g to (7)+; band assignment                                    
+182W  G    241.5  1    100  15  D+Q                                            
+182W  G   454.9   4    15   5                                                  
+182W  L 2225.35   11 (8-)                                                  D   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (6)-, band assignment                                    
+182W  G 414.5     1    100     Q                                               
+182W  L 2230.65   14 (10+)              1.3 US   1                         EM  
+182W2 L %IT=100                                                                
+182WX L XREF=EMP                                                               
+182W cL J$(M1) |g to 10+; |g to 8+; probable bandhead of a 2-qp band           
+182W cL T$from |g(t); average of 1.2 |ms {I1} in {+9}Be({+208}Pb,X)            
+182W2cL and 1.4 |ms {I1} in (|a,2n|g)                                          
+182W  G 518.5     1    100  13(M1)                    0.0514                   
+182WB G BM1W=7.0E-8 13                                                         
+182WS G  KC=0.0429 6$LC=0.00659 10$MC=0.001495 21                              
+182WS G  NC=0.000360 5$OC=5.89E-5 9$PC=4.24E-6 6                               
+182W  G 1086.5    1     69  7 [E2]                    0.00382                  
+182W cG RI$116 {I13} in (|a,2n|g) is discrepant                                
+182WB G BE2W=1.9E-6 3                                                          
+182WS G  KC=0.00315 5$LC=0.000517 8$MC=0.0001183 17                            
+182WS G  NC=2.84E-5 4$OC=4.54E-6 7$PC=2.93E-7 4                                
+182W  L 2240.83   15 (3+)                                                      
+182WX L XREF=BDGIJ                                                             
+182W cL J$(M1) |gs to 2+ and 4+                                                
+182W  G 1911.8    2     100 17(M1)                    0.00230                  
+182WS G  KC=0.001659 24$LC=0.000245 4$MC=5.52E-5 8                             
+182WS G  NC=1.330E-5 19$OC=2.18E-6 3$PC=1.602E-7 23$IPC=0.000322 5             
+182W  G 2140.3    2      87 15(M1)                    0.00197                  
+182WS G  KC=0.001265 18$LC=0.000186 3$MC=4.19E-5 6                             
+182WS G  NC=1.010E-5 15$OC=1.658E-6 24$PC=1.219E-7 17$IPC=0.000464 7           
+182W  L 2273.87    8    9-                                                 H   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (7)-; |g to (8-); band assignment                        
+182W  G   186.5   1    16.7 19                                                 
+182W  G     356.8  1    100 15  Q                                              
+182W  L    2274.63 4 (3)-                                                      
+182WX L XREF=BDG(*)I(2270)J(*)                                                 
+182W cL J$E1 |g to 2+; (M1) |g to 4-                                           
+182W  G 787.11    5     86  16(M1)                    0.01763                  
+182WS G  KC=0.01474 21$LC=0.00224 4$MC=0.000506 7                              
+182WS G  NC=0.0001219 17$OC=2.00E-5 3$PC=1.446E-6 21                           
+182W cG RI$15 {I8} in (n,n'|g) is discrepant                                   
+182W  G 900.80    5    100  17(M1+E2)   0.5     AP    0.01116AP                
+182WS G  KC AP 0.00932$LC AP 0.001427$MC AP 0.000324                           
+182WS G  NC AP 7.79E-5$OC AP 1.271E-5$PC AP 9.06E-7                            
+182W  G 2175.2    3    13.2 19E1                      1.14E-3                  
+182WS G  KC=0.000402 6$LC=5.53E-5 8$MC=1.238E-5 18                             
+182WS G  NC=2.97E-6 5$OC=4.87E-7 7$PC=3.57E-8 5$IPC=0.000671 10                
+182W  L 2283.5     6  1                                                        
+182WX L XREF=DG(*)I(2284)J(*)                                                  
+182W cL J$2283|g(|q) in (n,n'|g)                                               
+182W  G      909.7 6     64 29                                                 
+182W  G    2283.5 10    100 29                                                 
+182W  L 2301.56    8 (9-)                                                  K   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (7)- and (8)-; band assignment                                
+182W  G      181.310    18  9                                                  
+182W  G      187.6 3    36  9                                                  
+182W  G      214.210    27  LT                                                 
+182W  G      341.3 1   109  46                                                 
+182WF G FL=1960.30                                                             
+182W  G      384.4 1   100  18                                                 
+182W  L 2316.1    22  (1,2+)                                                   
+182WX L XREF=BG(*)J(2311)                                                      
+182W cL J$|g to 0+                                                             
+182W  G    2216   3    275  AP                                                 
+182W  G    2316   3    100  20                                                 
+182W  L 2323.85   21  (8-)                                                 J   
+182WX L XREF=EP                                                                
+182W cL J$|g to (7)-; possible band assignment                                 
+182W  G      406.8 2   100                                                     
+182WF G FL=1917.05                                                             
+182W  L 2327.91   10 (9-)                                                  M   
+182WX L XREF=E                                                                 
+182W cL J$|DJ=1, (M1+E2) |g to (8-); band assignment                           
+182W  G 207.4     2      73 15(M1+E2)                 0.44   17                
+182WS G  KC=0.33 18$LC=0.085 7$MC=0.0203 24                                    
+182WS G  NC=0.0048 6$OC=0.00073 3$PC=3.1E-5 19                                 
+182W  G    213.6  1     100 16                                                 
+182WF G FL=2114.35                                                             
+182W  L 2328                                                                   
+182WX L XREF=H                                                                 
+182W  L 2331      10                                                           
+182WX L XREF=HIJ                                                               
+182W  L 2334.26   21                                                           
+182WX L XREF=E                                                                 
+182W cL J$(7,8,9) from |g to (7)-                                              
+182W  G      355.9 2   100                                                     
+182W  L 2360      8                                                            
+182WX L XREF=IJ                                                                
+182W  L 2372.59   17 12+               0.38 PS  2                          A   
+182WX L XREF=EFMOP                                                             
+182W cL J$|DJ=2, E2 |g to 10+; band assignment                                 
+182W cL T$from B(E2) in Coulomb excitation from 10+ level                      
+182W  G 660.6     1    100    E2                      0.01085                  
+182WB G BE2W=191 10                                                            
+182WS G  KC=0.00862 12$LC=0.001719 24$MC=0.000401 6                            
+182WS G  NC=9.60E-5 14$OC=1.494E-5 21$PC=7.98E-7 12                            
+182W  L 2376                                                                   
+182WX L XREF=I                                                                 
+182W  L 2382.1     7  1                 7.9 FS  11                         N   
+182WX L XREF=GIN                                                               
+182W cL J$from |g|g(|q)                                                        
+182W cL           B(M1)(|^)=0.46 {I6}. B(E1)(|^)=5.0|*10{+-5} {I7}             
+182W  G 2282      1  142    20                                                 
+182W  G 2382      1  100                                                       
+182W  L 2395      8                                                            
+182WX L XREF=I                                                                 
+182W  L 2427      8                                                            
+182WX L XREF=I                                                                 
+182W cL E$multiplet                                                            
+182W  L 2445.98   15 (9-)                                                  D   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (7-), band assignment                                    
+182W  G 452.3     1    100     Q                                               
+182W  L 2452.7    20                                                           
+182WX L XREF=I                                                                 
+182W  L 2455.74   12  (9-)                                                 L   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=1 |g to (8)-; |g to (7)-; band assignment                        
+182W  G    251.2  1    100  14  (D+Q)                                          
+182W  G   477.1   10   7    LT                                                 
+182W  L 2474.1     7  1                  15 FS  2                              
+182WX L XREF=GIN                                                               
+182WF L FLAG=NO                                                                
+182W cL J$from |g|g(|q)                                                        
+182W cL           B(M1)(|^)=0.31 {I5}. B(E1)(|^)=3.5|*10{+-5} {I5}             
+182W  G 2374      1   66    14                                                 
+182W  G 2474      1  100                                                       
+182W  L 2479.83   13 (9+)                                                  I   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=1 |g to (8+); |g to (7)+; band assignment                        
+182W  G    267.3  1    100  18  D+Q                                            
+182W  G   508.8   2    29   6                                                  
+182W  L 2486.89   10  10-                                                  H   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (8-); |g to (9-); band assignment                        
+182W  G   213.0   1    25   3                                                  
+182WF G FL=2273.87                                                             
+182W  G    399.5  2    100  19  Q                                              
+182W  L 2492      8                                                            
+182WX L XREF=I                                                                 
+182W  L 2492.78   17  (11+)                                                E   
+182WX L XREF=EMP                                                               
+182W cL J$|DJ=1 |g to (10+); band assignment                                   
+182W  G    262.1  1    100     D+Q                                             
+182W  L 2507.48    9 (10-)                                                 K   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (8)- and (9-); band assignment                                
+182W  G      205.8 2    30  10                                                 
+182W  G      233.810    20  LT                                                 
+182WF G FL=2273.87                                                             
+182W  G      387.1 2   120  60                                                 
+182W  G      393.4 2    60  10                                                 
+182W  G      420.0 1   100  20                                                 
+182W  L       252010 0+                                                        
+182WX L XREF=G(*)J                                                             
+182W cL J$L(p,t)=0                                                             
+182W  L       255210 0+                                                        
+182WX L XREF=G(*)J                                                             
+182W cL J$L(p,t)=0                                                             
+182W  L 2563.94   12 (10-)                                                 M   
+182WX L XREF=EP                                                                
+182W cL J$|g to (9-); band assignment                                          
+182W  G    236.0  1    100  16                                                 
+182WF G FL=2327.91                                                             
+182W  G   443.8   2     8   LT                                                 
+182W  L  2610     10                                                           
+182WX L XREF=GHJ(2625)                                                         
+182W  L 2689      10                                                           
+182WX L XREF=J                                                                 
+182W  L 2710.93   11  11-                                                  H   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (9-); |g to (10-); band assignment                       
+182W  G   224.0   1    24   3                                                  
+182W  G    437.1  1    100  18 Q                                               
+182WF G FL=2273.87                                                             
+182W  L  2725     10 0+                                                        
+182WX L XREF=G(2690)HJ                                                         
+182W cL J$L(p,t)=0                                                             
+182W  L 2730.84   16   (10-)                                               L   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=1 |g to (9-); band assignment                                    
+182W  G      275.1 1   100  14 (D+Q)                                           
+182W  G   526.2   10   14   LT                                                 
+182W  L 2739.15   15 (10-)                                                 D   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (8-); band assignment                                    
+182W  G      513.8 1   100      Q                                              
+182W  L 2741.66   12  (11-)                                                K   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (9-); band assignment                                    
+182W  G 440.1     1  100    18  Q                                              
+182W  G 467.7     5   35    6                                                  
+182W  L 2769.27   16  (10+)                                                I   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=1 |g to (11+); |g to (10+); band assignment                      
+182W  G    289.4  1     100     D+Q                                            
+182WF G FL=2479.83                                                             
+182W  G    557.6  5      39 4                                                  
+182W  L 2775      10                                                           
+182WX L XREF=GJ                                                                
+182W  L 2775.65   18   (12+)                                               E   
+182WX L XREF=EMP                                                               
+182W cL J$|DJ=2 |g to (10+); |DJ=1 |g to (11+); band assignment                
+182W  G    282.8  1    100     D+Q                                             
+182W  G  545.1    2    18   3  Q                                               
+182W  L 2815      10                                                           
+182WX L XREF=J                                                                 
+182W  L 2823.93   16 (11-)                                                 M   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=1 |g to (10-); |g to (9-); band assignment                       
+182W  G 260.0     1    100    D+Q                                              
+182W  G   496.0   5    48   5                                                  
+182WF G FL=2327.91                                                             
+182W  L 2884.1     7  1                  16 FS  2                              
+182WX L XREF=N                                                                 
+182W cL J$from |g|g(|q)                                                        
+182WF L FLAG=NO                                                                
+182W cL           B(M1)(|^)=0.22 {I3}. B(E1)(|^)=2.4|*10{+-5} {I3}             
+182W  G 2784      1   40    11                                                 
+182W  G 2884      1  100                                                       
+182W  L 2892.1     7 (1)                 27 FS  17                         N   
+182WX L XREF=N                                                                 
+182W cL J$from |g|g(|q)                                                        
+182W cL           B(M1)(|^)=0.07 {I4}. B(E1)(|^)=0.8|*10{+-5} {I5}             
+182W  G 2792      1  150    90                                                 
+182W  G 2892      1  100                                                       
+182W  L 2941.0    20 (1,2+)                                                    
+182WX L XREF=N                                                                 
+182W cL J$|g to 0+                                                             
+182W  G 2941      2  100                                                       
+182W  L 2972.49   13   12-                                                 H   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (10-); |g to (11-); band assignment                      
+182W  G 261.6     2  20     5                                                  
+182WF G FL=2710.93                                                             
+182W  G 485.6     1  100    20 Q                                               
+182WF G FL=2486.89                                                             
+182W  L 2980.58   18 (11-)                                                 D   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=2 |g to (9-); band assignment                                    
+182W  G    534.6  1    100       Q                                             
+182W  L 2981.33   12  (12-)                                                K   
+182WX L XREF=P                                                                 
+182W cL J$|g to (10-); band assignment                                         
+182W  G 473.8     1  100    19                                                 
+182W  G 494.6     2   38    6                                                  
+182W  L 2996.1     7  1                 6.7 FS  13                         N   
+182WX L XREF=N                                                                 
+182W cL J$from |g|g(|q). Possible K=(0) assigned by 1993He15                   
+182W cL           B(M1)(|^)=0.25 {I5}. B(E1)(|^)=2.7|*10{+-5} {I5}             
+182W  G 2896      1  168    35                                                 
+182W  G 2996      1  100                                                       
+182W  L 3027.94   19  (11-)                                                L   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=(1) |g to (10-); |g to (9-); band assignment                     
+182W  G    297.1  1    100     (D+Q)                                           
+182WF G FL=2730.84                                                             
+182W  G   575.2   20   24   11                                                 
+182W  L 3078.25   19   (13+)                                               E   
+182WX L XREF=EMP                                                               
+182W cL J$|DJ=1 |g to (12+); |DJ=2 |g to (11+); band assignment                
+182W  G    302.5  1     100    D+Q                                             
+182W cG           I|g(586|g)/I|g(302)=1.6 {I7} in (|a,2n|g)                    
+182W  G    585.8  2      47 9   Q                                              
+182W  L 3080.1     7  1                  17 FS  3                              
+182WX L XREF=N                                                                 
+182WF L FLAG=NO                                                                
+182W cL J$from |g|g(|q)                                                        
+182W cL           B(M1)(|^)=0.15 {I3}. B(E1)(|^)=1.6|*10{+-5} {I3}             
+182W  G 2980      1   61    18                                                 
+182W  G 3080      1  100                                                       
+182W  L 3106.72   18  (12-)                                                M   
+182WX L XREF=EP                                                                
+182W cL J$|DJ=(1) |g to (11-); |g to (10-); band assignment                    
+182W  G 282.8     1    100    (D+Q)                                            
+182W  G   542.5   5    53   6                                                  
+182W  L 3112.89   20  14+               0.24 PS 4                          A   
+182WX L XREF=EFMP                                                              
+182W cL J$|DJ=2, (E2) |g to 12+; band assignment                               
+182W cL T$from B(E2) in Coul. ex. from 12+                                     
+182W  G 740.3     1    100    (E2)                    0.00843                  
+182WB G BE2W=1.7E+2 3                                                          
+182WS G  KC=0.00678 10$LC=0.001277 18$MC=0.000297 5                            
+182WS G  NC=7.10E-5 10$OC=1.114E-5 16$PC=6.29E-7 9                             
+182W  L 3163.1     7  1                 10.3 FS 14                             
+182WX L XREF=N                                                                 
+182WF L FLAG=NO                                                                
+182W cL J$from |g|g(|q)                                                        
+182W cL           B(M1)(|^)=0.24 {I3}. B(E1)(|^)=2.6|*10{+-5} {I4}             
+182W  G 3063      1   54    12                                                 
+182W  G 3163      1  100                                                       
+182W  L 3198.1     7 (1,2+)             16 FS   3                              
+182WX L XREF=N                                                                 
+182W cL J$(|g,|g') excitation from 0+                                          
+182WF L FLAG=NO                                                                
+182W cL           B(M1)(|^)=0.14 {I3}. B(E1)(|^)=1.5|*10{+-5} {I3}             
+182W  G 3098      1   59    21                                                 
+182W  G 3198      1  100                                                       
+182W cG $If E2, B(E2)(W.u.)=0.67|*10{+-5} {I16}                                
+182W  L 3224.53   15   13-                                                 H   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (11-); band assignment                                   
+182W  G 513.6     1  100        Q                                              
+182W  L 3269.56   16 (13-)                                                 K   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (11-); band assignment                                   
+182W  G      527.9 1     100  Q                                                
+182W  L 3319.7     5(12-)                                                  D   
+182WX L XREF=P                                                                 
+182W cL J$|g to (10-); band assignment                                         
+182W  G      580.6 4    100                                                    
+182W  L 3343.05   21(12-)                                                  L   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=(1) |g to (11-); |g to (10-); band assignment                    
+182W  G      315.1 1    100 14(D+Q)                                            
+182W  G      612.610     43 29                                                 
+182W  L 3365.1     7  1                 11.1 FS 23                             
+182WX L XREF=N                                                                 
+182W cL J$from |g|g(|q)                                                        
+182WF L FLAG=NO                                                                
+182W cL           B(M1)(|^)=0.17 {I4}. B(E1)(|^)=1.9|*10{+-5} {I4}             
+182W  G 3265      1   63    17                                                 
+182W  G 3365      1  100                                                       
+182W  L 3398.35   19  (14+)                                                E   
+182WX L XREF=EMP                                                               
+182W cL J$|DJ=2 |g to (12+); |DJ=1 |g to (13+); band assignment                
+182W  G      320.0 1   100     D+Q                                             
+182WF G FL=3078.25                                                             
+182W  G   622.7   1     61  18 Q                                               
+182W  L 3410.54   20 (13-)                                                 M   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (11-) and (12-); band assignment                              
+182W  G      303.8 1   100  13                                                 
+182W  G      586.8 5    88  13                                                 
+182W  L 3415.92   19(12)                                                   R   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=1 |g to (11+); band assignment                                   
+182W  G      923.1 1   100    D+Q                                              
+182W  L 3422.1     7 (1,2+)             10.3 FS 20                             
+182WX L XREF=N                                                                 
+182W cL J$(|g,|g') excitation from 0+                                          
+182WF L FLAG=NO                                                                
+182W cL           B(M1)(|^)=0.19 {I3}. B(E1)(|^)=2.1|*10{+-5} {I4}             
+182W  G 3322      1   53    15                                                 
+182W  G 3422      1  100                                                       
+182W cG $If E2, B(E2)(W.u.)=0.76|*10{+-5} {I17}                                
+182W  L 3518.04   15(14-)                                                  K   
+182WX L XREF=P                                                                 
+182W cL J$|g to (12-); band assignment                                         
+182W  G      536.7 1  100   20                                                 
+182WF G FL=2981.33                                                             
+182W  G      545.7 5   40   10                                                 
+182W  L 3549.99   17  14-                                                  H   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (12-); band assignment                                   
+182W  G      568.610   22   LT                                                ?
+182WF G FL=2981.33                                                             
+182W  G      577.5 1   100  22 Q                                               
+182W  L 3567.8     4(13-)                                                  D   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=(2) |g to (11-); band assignment                                 
+182W  G      587.2 3   100    (Q)                                              
+182WF G FL=2980.58                                                             
+182W  L 3601.1     7  1                 6.2 FS  12                             
+182WX L XREF=N                                                                 
+182W cL J$from |g|g(|q)                                                        
+182WF L FLAG=NO                                                                
+182W cL           B(M1)(|^)=0.23 {I4}. B(E1)(|^)=2.5|*10{+-5} {I5}             
+182W  G 3501      1   77    19                                                 
+182W  G 3601      1  100                                                       
+182W  L 3640.0    20  (1,2+)                                                   
+182WX L XREF=N                                                                 
+182W cL J$|g to 0+                                                             
+182W  G 3640      2                                                            
+182W  L 3677.15   21(13)                                                   R   
+182WX L XREF=P                                                                 
+182W cL J$|g to (12+); band assignment                                         
+182W  G      261.2 1   100  14                                                 
+182W  G      901.8 3    21  7                                                  
+182WF G FL=2775.65                                                             
+182W  L 3727.1    15 (1,2+)                                                    
+182WX L XREF=N                                                                 
+182W cL J$|g to 0+                                                             
+182W  G 3627      2                                                            
+182W  G 3727      2                                                            
+182W  L 3733.85   23(14-)                                                  M   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (12-) and (13-); band assignment                              
+182W  G      323.3 1    71  10                                                 
+182W  G      627.4 5   100  14                                                 
+182W  L 3736.40   20  (15+)                                                E   
+182WX L XREF=EMP                                                               
+182W cL J$|gs to (13+) and (14+); band assignment                              
+182W  G     338.0 1   100                                                      
+182W  G  658.2    1    94   20                                                 
+182WF G FL=3078.25                                                             
+182W  L 3754.89   21  (15+)              37 NS  2                          P   
+182WX L XREF=MP                                                                
+182W cL J$|DJ=2, (E2) |g to (13+); |DJ=1 |g to (14+); bandhead of              
+182W2cL configuration=((|n 9/2+[624])(|n 7/2-[503])8-)+((|p 9/2-[514])(|p      
+182W3cL 5/2+[402])7-). Other possible configuration from coupling of K|p=10+   
+182W4cL neutrons to K|p=5+ protons: |p9/2[514]+|p1/2[541] is less likely       
+182W cL T$from |g|g(t) in ({+13}C,|a3n|g). Other: 54 ns 10 in ({+9}Be,3n|g)    
+182W  G 19             0.2  AP[M1]                    107.1                   S
+182WB G BM1W AP 9.8E-7                                                         
+182WS G  LC=82.8 12$MC=18.9 3                                                  
+182WS G  NC=4.56 7$OC=0.741 11$PC=0.0526 8                                     
+182W cG RI$from |g|g data, I(|g+ce) branching is |?10%                         
+182W  G 356.5     1   100   17(M1+E2)                 0.095  44                
+182WB G BM1W=13.0E-6 23                                                        
+182WS G  KC=0.076 40$LC=0.015 4$MC=0.0034 7                                    
+182WS G  NC=0.00082 16$OC=0.00013 4$PC=7.3E-6 42                               
+182W  G 676.8     2    57   13(E2)                    0.01028                  
+182WF G FL=3078.25                                                             
+182WB G BE2W=0.00053 15                                                        
+182WS G  KC=0.00819 12$LC=0.001612 23$MC=0.000376 6                            
+182WS G  NC=8.99E-5 13$OC=1.402E-5 20$PC=7.58E-7 11                            
+182W  L 3807.63   18  15-                                                  H   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (13-); band assignment                                   
+182W  G      583.1 1  100     Q                                                
+182W  L 3880.06   19 (15-)                                                 K   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (13-); band assignment                                   
+182W  G      610.5 1  100     Q                                                
+182W  L 3882.0    20  (1,2+)                                                   
+182WX L XREF=N                                                                 
+182W cL J$|g to 0+                                                             
+182W  G 3782      2                                                           ?
+182W  G 3882      2                                                            
+182W  L 3893.69   23  (16+)              7 NS   LE                         F   
+182WX L XREF=MP                                                                
+182W cL J$(M1) |g to (15+); probable bandhead of a 4-qp band                   
+182W cL T$from |g|g(t) in ({+9}Be,3n|g)                                        
+182W  G 138.8     1   100     (M1)                    1.86                     
+182WB G BM1W>0.00041                                                           
+182WS G  KC=1.545 22$LC=0.245 4$MC=0.0558 8                                    
+182WS G  NC=0.01344 19$OC=0.00219 4$PC=0.0001559 22                            
+182W  L 3910.09   22   16+              0.14 PS 3                          A   
+182WX L XREF=FMP                                                               
+182W cL T$from B(E2) in Coul. ex. from 14+                                     
+182W cL J$|DJ=2, E2 |g to 14+; band assignment                                 
+182W  G 797.2     1   100     E2                      0.00719                  
+182WB G BE2W=2.0E+2 5                                                          
+182WS G  KC=0.00582 9$LC=0.001061 15$MC=0.000246 4                             
+182WS G  NC=5.88E-5 9$OC=9.27E-6 13$PC=5.40E-7 8                               
+182W  L 3920.0    20  1                                                        
+182WX L XREF=N                                                                 
+182W cL J$from |g|g(|q)                                                        
+182W  G 3920      2  100                                                       
+182W  L 3966.25   23(14)                                                   R   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (12) and (13); band assignment                                
+182W  G      289.1 1   100  50                                                 
+182W  G      550.310    25  13                                                 
+182W  L 4040.6     3  (17-)              20 NS  1                          G   
+182WX L XREF=MP                                                                
+182W cL J$(E1) |g to (16+); probable bandhead of a 4-qp band                   
+182W cL T$from |g|g(t) in ({+13}C,|a3n|g). Other: 17 ns 7 in ({+9}Be,3n|g)     
+182W  G 146.9     1   100     (E1)                    0.1384                   
+182WB G BE1W=2.92E-6 15                                                        
+182WS G  KC=0.1141 16$LC=0.0188 3$MC=0.00428 6                                 
+182WS G  NC=0.001015 15$OC=0.0001566 23$PC=8.59E-6 13                          
+182W  L 4074.8     3 (15-)                                                 M   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (13-) and (14-); band assignment                              
+182W  G      340.9 2    75  25                                                 
+182W  G      664.2 5   100  25                                                 
+182W  L 4078.89   23 (16+)                                                 P   
+182WX L XREF=P                                                                 
+182W cL J$|g to (15+); band assignment                                         
+182W  G      324.0 1    100                                                    
+182W  L 4081.5     3 (16+)                                                 E   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (14+) and (15+); band assignment                              
+182W  G      345.1 2    60  20                                                 
+182W  G      683.2 3    100 40                                                 
+182W  L 4116.9     3(16-)                                                  K   
+182WX L XREF=P                                                                 
+182W cL J$|g to (14-); band assignment                                         
+182W  G      598.9 2    100                                                    
+182W  L 4197.1     4(15-)                                                  D   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (13-); band assignment                                        
+182W  G      629.3 2    100                                                    
+182W  L 4211.1     3  16-                                                  H   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (14-); band assignment                                   
+182W  G      661.1 2    100   Q                                                
+182W  L 4218.1     5  (17+)                                                    
+182WX L XREF=M                                                                 
+182W cL J$|g to (16+)                                                          
+182W  G  324.4    5   100                                                      
+182W  L 4280.2     3 (15)                                                  R   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (13) and (14); band assignment                                
+182W  G    314.0  1  100    67                                                 
+182W  G   603.1   10  33    17                                                 
+182W  L 4293.1     3 (17+)                                                 F   
+182WX L XREF=P                                                                 
+182W cL J$|g to (16+); band assignment                                         
+182W  G      399.4 1  100                                                      
+182W  L 4421.5     3 (18-)                                                 G   
+182WX L XREF=MP                                                                
+182W cL J$|g to (17-); band assignment                                         
+182W  G  380.9    1   100                                                      
+182W  L 4430.5     3 (17+)                                                 P   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (15+) and (16+); band assignment                              
+182W  G    351.6  1  100    18                                                 
+182W  G    675.5  11  18    9                                                  
+182W  L 4453.3     8 (17+)                                                 E   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (15+) and (16+); band assignment                              
+182W  G   371.3   10  33    LT                                                 
+182W  G   717.3   10  100   33                                                 
+182W  L 4456.2     3  17-                                                  H   
+182WX L XREF=P                                                                 
+182W cL J$|DJ=2 |g to (15-); band assignment                                   
+182W  G      648.6 2    100   Q                                                
+182W  L 4569.7     6 (18+)                                                     
+182WX L XREF=M                                                                 
+182W cL J$|gs to (16+) and (17+); band assignment                              
+182W  G  351.6    5   100   32                                                 
+182W  G  676.1    7   24    8                                                  
+182W  L 4570.9     4 (17-)                                                 K   
+182WX L XREF=P                                                                 
+182W cL J$|g to (15-); band assignment                                         
+182W  G      690.8 3    100                                                    
+182WF G FL=3880.06                                                             
+182W  L 4690.89   25  18+                                                  A   
+182WX L XREF=P                                                                 
+182W cL J$ |DJ=2 |g to 16+; band assignment                                    
+182W  G      780.8 1  100     Q                                                
+182W  L 4711.9     3 (18+)                                                 F   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (16+) and (17+); band assignment                              
+182W  G      418.8 1   100  18                                                 
+182W  G      818.1 6   64   27                                                 
+182W  L 4748.0    10 (18+)             0.088 PS +22-17                         
+182WX L XREF=FM                                                                
+182W cL E$this level also seems connected with g.s. band.                      
+182W cL T$from B(E2) in Coul. ex.                                              
+182W cL J$|g to (16+); Coulomb excited                                         
+182W  G 837.9     9   100     [E2]                    0.00648                  
+182WB G BE2W=2.5E+2 +5-7                                                       
+182WS G  KC=0.00526 8$LC=0.000940 14$MC=0.000217 3                             
+182WS G  NC=5.20E-5 8$OC=8.22E-6 12$PC=4.88E-7 7                               
+182W  L 4779.6     4(18-)                                                  K   
+182WX L XREF=P                                                                 
+182W cL J$|g to (16-); band assignment                                         
+182W  G      662.7 2   100                                                     
+182W  L 4780.4     4  (18)                                                 Q   
+182WX L XREF=MP                                                                
+182W cL J$|g to (17-);                                                         
+182W2cL possible configuration=((|n 9/2+[624])(|n 11/2+[615])10+)+             
+182W3cL ((|p 9/2-[514])(|p 7/2+[404]))8-                                       
+182W  G  739.8    2   100                                                      
+182W  L 4804.9     3 (18+)                                                 P   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (16+) and (17+); band assignment                              
+182W  G      374.5 2   100  25                                                 
+182W  G      725.7 5   50   25                                                 
+182W  L 4820.1     3 (19-)                                                 G   
+182WX L XREF=MP                                                                
+182W cL J$|gs to (17-) and (18-); band assignment                              
+182W  G  398.5    1   100                                                      
+182W  G  779.9    3    24   11                                                 
+182W  L 4847.4     8(18+)                                                  E   
+182WX L XREF=P                                                                 
+182W cL J$|g to 16+; band assignment                                           
+182W  G      765.910   100  33                                                 
+182W  G      937.310    67  33                                                 
+182W  L 4954.8    11 18-                                                   H   
+182WX L XREF=P                                                                 
+182W cL J$|g to (16-); band assignment                                         
+182W  G      743.710   100                                                     
+182W  L 5148.6     5 (19+)                                                 F   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (17+) and (18+); band assignment                              
+182W  G      436.6 9   100  25                                                 
+182W  G      855.5 4    50  LT                                                 
+182W  L 5170.8     4 19-                                                       
+182WX L XREF=P                                                             H   
+182W cL J$|g to (17-); band assignment                                         
+182W  G      714.6 3    100                                                    
+182WF G FL=4456.2                                                              
+182W  L 5191.8     4(19)                                                   Q   
+182WX L XREF=P                                                                 
+182W cL J$|g to (18); band assignment                                          
+182W  G      411.4 2   100                                                     
+182WF G FL=4780.4                                                              
+182W  L 5199.6     4(19+)                                                  P   
+182WX L XREF=P                                                                 
+182W cL J$|g to (18+); band assignment                                         
+182W  G      394.7 2   100                                                     
+182W  L 5225.4    13(19+)                                                  E   
+182WX L XREF=P                                                                 
+182W cL J$|g to (17+); band assignment                                         
+182W  G      772.110   100                                                     
+182WF G FL=4453.3                                                              
+182W  L 5235.8     4 (20-)                                                 G   
+182WX L XREF=MP                                                                
+182W cL J$|gs to (18-) and (19-); band assignment                              
+182W  G      415.6 2   100  25                                                 
+182W  G      814.8 4    75  25                                                 
+182W  L 5338.6    11(19-)                                                  K   
+182WX L XREF=P                                                                 
+182W cL J$|g to (17-); band assignment                                         
+182W  G      767.710   100                                                     
+182WF G FL=4570.9                                                              
+182W  L 5428.6     4 20+                                                   A   
+182WX L XREF=P                                                                 
+182W cL J$ |g to 18+; band assignment                                          
+182W  G      737.7 2   100                                                     
+182W  L 5618.6     4(20)                                                   Q   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (18) and (19); band assignment                                
+182W  G      426.7 2    100                                                    
+182W  G      838.4 5    50                                                     
+182WF G FL=4780.4                                                              
+182W  L 5666.9     8 (21-)                                                 G   
+182WX L XREF=P                                                                 
+182W cL J$|gs to (19-) and (20-); band assignment                              
+182W  G      431.210   100                                                     
+182W  G      846.710   100                                                     
+
+
