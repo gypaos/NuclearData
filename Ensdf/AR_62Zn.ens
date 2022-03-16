@@ -1,0 +1,819 @@
+
+
+ 62ZN    ADOPTED LEVELS, GAMMAS                                  12NDS    201205
+ 62ZN  H TYP=FUL$AUT=ALAN L. NICHOLS, BALRAJ SINGH, JAGDISH K. TULI$            
+ 62ZN2 H CIT=NDS 113, 973 (2012)$CUT=15-Apr-2012$                               
+ 62ZN  Q -9181.1   4 12890   166472.6  11-3364.3 6     2012WA38                 
+ 62ZN cQ $Note: Current evaluation has used the following Q record              
+ 62ZN  Q -9181.07  38 12896  16 6472.7 11-3364.3 6     2011AUZZ                 
+ 62ZN cQ $S(2n)=23136.4 {I7}, S(2p)=11272.9 {I5} (2011AuZZ)                     
+ 62ZN cQ $Values in 2003Au03: Q(|b{+-})=-9171 {I26}, S(n)=12897 {I19},          
+ 62ZN2cQ S(p)=6477 {I10}, Q(|a)=-3369 {I10}, S(2n)=23126 {I15}, S(2p)=11277     
+ 62ZNxcQ {I10}                                                                  
+ 62ZN c  Other reactions:                                                       
+ 62ZN c  1997Fo03: {+62}Ni(|p{++},|p{+-}),E=140-230 MeV, measured |s(|q)        
+ 62ZN c  1993Be02: {+62}Ni(|p{++},|p{+-}),E=293.4 MeV, measured |s(|q)          
+ 62ZN c  1979ShZN: {+58}Ni({+14}N,{+10}B) E=155 MeV, measured |s(|q), DWBA      
+ 62ZN c  1977Gr03: {+58}Ni(|a,p) E=6.26-9.12 MeV in steps of 20 keV, excitation 
+ 62ZN2c  functions measured to find resonances of large |a width. The           
+ 62ZN3c  spectra show a large number of alpha-particle resonances, but their    
+ 62ZN4c  energies are not listed. Differential cross sections were measured     
+ 62ZN5c  at three angles. No evidence was found for levels with very large      
+ 62ZN6c  |a widths; observed |a width was concentrated in a small number        
+ 62ZN7c  of states, in qualitative agreement with the predictions of a weak     
+ 62ZN8c  coupling shell model                                                   
+ 62ZN c  1976Ca06: {+64}Zn(|g,2n) E=8-30 MeV; measured |s, GDR width            
+ 62ZN c  1970Co25: {+64}Zn(|g,2n) E=12-40 MeV; measured |s, GDR                 
+ 62ZN c  Mass measurement: 2006Er03 (Penning trap method)                       
+ 62ZN d  Nuclear structure calculations: 2003Me26, 2002Bu13, 2002Jo05, 2002Va21,
+ 62ZN2d  2001Ra31, 2001Bu02, 2001Ri18, 2000Af19, 2000Hj01, 2000Su15, 1999Af01,  
+ 62ZN3d  1999Ma77, 1999Su10, 1997La12, 1996El10, 1992Er02, 1991Ci07, 1982Dr05,  
+ 62ZN4d  1980Sh23, 1978De12, 1978Ku14, 1978Lo02, 1977Vo06, 1976va17, 1975Sa07,  
+ 62ZN5d  1972Ch37, 1971Ch33, 1971Ch36: levels, B(E2), SD structures, moments    
+ 62ZN d  Yields and cross sections for production of {+62}Zn in various         
+ 62ZN2d  reactions: 2010Le13, 2010Sz03, 2009Si22, 2009Ti09, 2008Ya21, 2007Al41, 
+ 62ZN3d  2007Na31, 2007Ud02, 2006Al31, 2006Na19, 2006Ta21, 2005Bo10, 2005Si21,  
+ 62ZN4d  2005Ta01, 2004De41, 2004Ta13, 2003Sz01, 2003Ya20, 2002Ta07, 2001Mu31,  
+ 62ZN5d  2001Sz02, 1999Is06, 1997Fa23, 1996Li47, 1995Bl22, 1995Ta10, 1992Uw01,  
+ 62ZN6d  1991Bo49, 1988Ch01, 1987Al29, 1986Vi06, 1985Ko26, 1984Ab05, 1984Ha52,  
+ 62ZN7d  1983As05, 1983As06, 1983Mi18, 1982Gr09, 1977Ne13, 1975Ah08, 1974Ah05,  
+ 62ZN8d  1974Ri16, 1973Ah05, 1973Ga13, 1973St02, 1969Re09, 1969Re13             
+ 62ZN c  {+62}Zn produced and identified in deuteron and {+3}He bombardment     
+ 62ZN2c  of Cu (1948Mi12), who also measured half-life                          
+ 62ZN cG E,RI$ Weighted averages of all available data. Intensities are         
+ 62ZN2cG relative branching ratios, unless stated otherwise.                    
+ 62ZN cG RI(Y)$Relative intensity within the SD-1 band                          
+ 62ZN cG M,MR$From |g(|q) and RUL, {+60}Ni(|a,2n|g), {+58}Ni({+6}Li,pn|g),      
+ 62ZNxcG {+61}Ni({+3}He,2n|g)                                                   
+ 62ZN cG E(X)$Level-energy difference=3113                                      
+ 62ZN cG E(Y)$ Be(|l)(W.u.) values should be considered as lower limit since    
+ 62ZN2cG the level half-lives are effective values, not corrected for           
+ 62ZN3cG side feeding                                                           
+ 62ZN cL E$From least-squares fit to the E|g data of gamma-ray studies.         
+ 62ZN2cL Others are from particle data, averages taken when values              
+ 62ZN3cL of comparable precision are available                                  
+ 62ZN cL J$For levels populated in high-spin studies; assignments above         
+ 62ZN2cL J=8 are based on |g|g(|q)(DCO) data for selected transitions,          
+ 62ZN3cL band assignments, and comparisons with cranked-shell model             
+ 62ZN4cL calculations. Since full details of most high-spin studies are         
+ 62ZN5cL not available, no separate arguments for J|p assignments are           
+ 62ZN6cL given in this evaluation.                                              
+ 62ZN cL T$From DSA and/or RDM in {+58}Ni({+6}Li,pn|g) and ({+3}He,2n|g),       
+ 62ZNxcL except as noted                                                        
+ 62ZN cL T(M)$Values from DSAM in ({+3}He,2n|g) are effective half-lives, thus  
+ 62ZN2cL should be considered as upper limits. The Be(|l)(W.u.) deduced         
+ 62ZN3cL from these half-lives should be considered as lower limits             
+ 62ZN cL E(X)$From {+60}Ni({+3}He,n)                                            
+ 62ZN cL J(L)$From |g(|q), excitation, transition strength, linear              
+ 62ZN2cL polarization in {+58}Ni({+6}Li,pn|g)                                   
+ 62ZN CL BAND(C)$ GS band                                                       
+ 62ZN CL BAND(G)$ K|p=2+,|a=0                                                   
+ 62ZN CL BAND(g)$ K|p=2+,|a=1                                                   
+ 62ZN CL BAND(H)$ K|p=3-,|a=1                                                   
+ 62ZN CL BAND(h)$ K|p=3-,|a=0                                                   
+ 62ZN CL BAND(F)$ K|p=(11+),|a=1.                                               
+ 62ZN2cL High-j valence configuration=|pf{-7/2}{+-1}|pg{-9/2}{+1}|ng{-9/2}{+1}  
+ 62ZN3cL gives maximum (terminating) spin of 21+ with remaining three valence   
+ 62ZN4cL neutrons in f{-5/2}p{-3/2} orbits.                                     
+ 62ZN5cL Experimental Q(intrinsic) from Doppler-shift data decrease from        
+ 62ZN6cL 1.0 {I2} (J=15) to 0.25 {I5} (for J=21) as the spin increases          
+ 62ZNxcL (1998Sv01)                                                             
+ 62ZN CL BAND(f)$ K|p=(11+),|a=0.                                               
+ 62ZN2cL See comments for |a=1 signature partner                                
+ 62ZN CL BAND(I)$ K|p=(9+),|a=1                                                 
+ 62ZN CL BAND(i)$ K|p=(9+),|a=0                                                 
+ 62ZN CL BAND(J)$ Band based on (12+)                                           
+ 62ZN CL BAND(b)$ Band based on (13-),|a=1                                      
+ 62ZN CL BAND(B)$ Band based on (14-),|a=0                                      
+ 62ZN CL BAND(D)$ Well-deformed band based on 16+.                              
+ 62ZN2cL Percent population=2.                                                  
+ 62ZN3cL Possible configuration=[22,02]                                         
+ 62ZN CL BAND(A)$ SD-1 band,|a=0.                                               
+ 62ZN2cL Possible configurations=[22,23] or [22,13]; former is preferred.       
+ 62ZN2cL Band intensity |?1%; Q(transition)=2.7 {I+7-5} (1997Sv02),             
+ 62ZN3cL corresponding to |b{-2}=0.45 {I+10-7}.                                 
+ 62ZN4cL Probable configuration=|nf{-7/2}{+-2}|ng{-9/2}{++2} with possible      
+ 62ZN5cL contribution from configuration=|nf{-7/2}{+-2}|ng{-9/2}{++3} (1997Sv02)
+ 62ZN CL BAND(a)$ SD-2 band,|a=1.                                               
+ 62ZN2cL Possible configurations=[22,23] or [22,13]; former is preferred        
+ 62ZN CL BAND(E)$ SD-3 band,|a=0.                                               
+ 62ZN2cL Possible configurations=[22,22] or [22,24]                             
+ 62ZN  XA62GA EC DECAY (116.121 MS)                                             
+ 62ZN  XC40CA(28SI,A2PG) E=122 MEV                                              
+ 62ZN  XB40CA(28SI,A2PG) E=125 MEV                                              
+ 62ZN  XD58NI(6LI,PNG)                                                          
+ 62ZN  XE58NI(6LI,D),(POL 6LI,D)                                                
+ 62ZN  XF58NI(7LI,T)                                                            
+ 62ZN  XG58NI(12C,8BE)                                                          
+ 62ZN  XH58NI(16O,12C)                                                          
+ 62ZN  XI60NI(3HE,N)                                                            
+ 62ZN  XK60NI(A,2NG),(3HE,NG)                                                   
+ 62ZN  XN60NI(12C,10BE)                                                         
+ 62ZN  XJ60NI(16O,14C)                                                          
+ 62ZN  XO61NI(3HE,2NG)                                                          
+ 62ZN  XPCOULOMB EXCITATION                                                     
+ 62ZN  XL63CU(P,2NG)                                                            
+ 62ZN  XM64ZN(P,T)                                                              
+ 62ZN PN                                                                     6  
+ 62ZN  L 0.0         0+                9.193 H   15                         C   
+ 62ZN2 L %EC+%B+=100                                                            
+ 62ZNX L XREF=ABCDEFGHIJKLMNOP                                                  
+ 62ZN cL T$weighted average of 9.186 h {i13} (1982Gr10, from decay curve for    
+ 62ZN2cL two |g rays followed over 8 to 11 half-lives, but no details);         
+ 62ZN3cL 9.231 h {I20}, 9.23 h {I6} (1972Cr02,|g counting, average of           
+ 62ZN4cL measurements for four |g rays of 260, 394, 548 and 597 keV at two      
+ 62ZN5cL different energies of E({+3}He) beam in {+64}Zn({+3}He,X) reaction;    
+ 62ZN6cL 9.34 h {I4} and 9.39 h {I5} at two other beam energies not used in     
+ 62ZN7cL the averaging procedure because of low counting rates and apparent     
+ 62ZN8cL discrepant results); 9.3 h {I2} (1967Ro01, |g decay curve, but no      
+ 62ZN9cL details); 9.2 h {I1} (1967An01, from decay curves for several          
+ 62ZNAcL conversion lines, but no other details); 9.13 h {I3} (1964Ru06, |g|g   
+ 62ZNBcL counting method, eight runs, but no other details); 9.3 h {I2}         
+ 62ZNCcL (1954Nu27,|g counting, but no details). Others: 8.4 h {I2} (1953Ku08,  
+ 62ZNDcL preliminary value from a composite decay curve of several activities   
+ 62ZNEcL produced), 9.33 h (1950Ha65, from positron decay curve), 9.5 h         
+ 62ZNFcL (1948Mi12, from electron counting using GM counter). Reduced           
+ 62ZNGcL |h{+2}=1.5. Uncertainty is obtained by multiplying uncertainty of      
+ 62ZNHcL 0.0125 by (reduced |h{+2}){+1/2}                                       
+ 62ZN  L 953.84     92+                2.93 PS   14                         C   
+ 62ZN2 L MOMM1=+0.74 20 (2002Ke02,2011StZZ)                                     
+ 62ZNX L XREF=ABCDEFGHIJKLMNOP                                                  
+ 62ZN cL MOMM1$ from  g factor=+0.37 {I10} (2002Ke02) using projectile Coulomb  
+ 62ZN2cL excitation in inverse kinematics and transient magnetic fields.        
+ 62ZN3cL Data reanalyzed in 2010Mo14 with the same result of g=+0.37 {I10}      
+ 62ZN cL J$E2 |g to 0+                                                          
+ 62ZN cL T$ from evaluation by 2011PrZZ, based on mean lifetime measurements of 
+ 62ZN2cL 4.2 ps {I7} (2007St16), 4.3 ps {I3} (2002Ke02), 4.2 ps {I3} (1981Wa09) 
+ 62ZN3cL and 2.5 ps {I+10-20} (1977BrYO)                                        
+ 62ZN  G 953.8     1  100      E2                                               
+ 62ZNB G BE2W=16.8 8 (2011PrZZ)                                                 
+ 62ZN  L 1804.67   112+                2.63 PS   42                         G   
+ 62ZNX L XREF=ABCDEHJKLMNOP                                                     
+ 62ZN cL J$E2 |g to 0+                                                          
+ 62ZN  G 850.8     1 100     5 M1+E2     -3.6    +7-10                          
+ 62ZN cG MR$from ({+3}He,2n|g). Others: -1.2 {I+4-5} from {+63}Cu(p,2n|g), -5.1 
+ 62ZN2cG {I+29-34} from ({+6}Li,pn|g)                                           
+ 62ZNB G BM1W=0.00057 23$BE2W=18 4                                              
+ 62ZN  G 1804.8    2 70      6 E2                                               
+ 62ZNB G BE2W=0.32 6                                                            
+ 62ZN  L 2186.06   134+                0.53 PS   +24-14                     C   
+ 62ZNX L XREF=BCDEGHKLMNOP                                                      
+ 62ZN cL J$|DJ=2, E2 |g to 0+                                                   
+ 62ZN cL T         other: 1.0 ps {I7} from (|a,2n|g)                            
+ 62ZN  G 1232.2    1 100       E2                                               
+ 62ZNB G BE2W=26 +7-12                                                          
+ 62ZN  L 2341.95   230+                                                         
+ 62ZNX L XREF=AE(2360)HMO                                                       
+ 62ZN cL J$L(p,t)=L({+6}Li,d)=0                                                 
+ 62ZN  G 1388.3    3  100                                                       
+ 62ZN  L 2384.50   153+                  1.7 PS  11                         g   
+ 62ZNX L XREF=BDIKLOP                                                           
+ 62ZN cL J$|DJ=1, M1+E2 |g to 2+; not 1 from excitation function                
+ 62ZN cL T$>0.7 ps from DSAM, <2.8 ps from RDM, {+58}Ni({+6}Li,pn|g)            
+ 62ZN  G 579.8     2   64    7 M1+E2     -1.9    +3-5                           
+ 62ZNB G BM1W=0.006 4$BE2W=110 70                                               
+ 62ZN  G 1430.7    2   100   6 M1+E2     -0.5    1                              
+ 62ZN cG MR$+3.4 {I+9-6} ({+3}He,2n|g)                                          
+ 62ZNB G BM1W=0.0022 15$BE2W=0.5 4                                              
+ 62ZN  L 2743.60   154+                2.36 PS   21                         G   
+ 62ZNX L XREF=BCDEHKLMO                                                         
+ 62ZN cL J$|DJ=2, E2 |g to 2+; |DJ=0, M1+E2 |g to 4+; L(p,t)=4                  
+ 62ZN  G 359.1     2 11      3 M1+E2     -0.32   22                             
+ 62ZNB G BM1W=0.010 4$BE2W=15 +19-15                                            
+ 62ZN  G 557.5     2 100     4  M1+E2    -0.35   3                              
+ 62ZNB G BM1W=0.025 3$BE2W=17 4                                                 
+ 62ZN  G 938.9     2 79      10 E2                                              
+ 62ZN cG M$|d(M3/E2)=-0.13 {I+11-5}                                             
+ 62ZNB G BE2W=9.3 16                                                            
+ 62ZN  G 1789.7    9  2      1                                                  
+ 62ZN  L 2803.14   172+                0.146 PS  21                         M   
+ 62ZNX L XREF=AE(2840)HJMO                                                      
+ 62ZN cL J$L({+6}Li,d)=L(p,t)=2                                                 
+ 62ZN cL T$DSA in ({+3}He,2n|g)                                                 
+ 62ZN cL E$identified as one component of one-phonon mixed-symmetry 2+ state    
+ 62ZN2cL (2010Al28)                                                             
+ 62ZN  G 998.4     4   9     2  (M1+E2)                                         
+ 62ZN  G 1849.2    2   100   7 (M1(+E2))  +0.03  16                         Y   
+ 62ZNB G BM1W=0.020 4$ BE2W=0.01 +10-1                                          
+ 62ZN  G 2803.0    5    8    5  [E2]                                        Y   
+ 62ZN cG E$from {+62}Ga decay only                                              
+ 62ZNB G BE2W=0.11 7                                                            
+ 62ZN  L 2884.05   25 2+               0.132 PS  21                         M   
+ 62ZNX L XREF=MO                                                                
+ 62ZN cL J$|g|g(|q) in ({+3}He,2n|g); L(p,t)=(2)                                
+ 62ZN cL T$DSA in ({+3}He,2n|g)                                                 
+ 62ZN cL E$identified as second component of one-phonon mixed-symmetry 2+ state 
+ 62ZN2cL (2010Al28)                                                             
+ 62ZN  G 1079.4    4  5      2  [M1+E2]                                         
+ 62ZN  G 1930.1    4  100    7 (M1(+E2)) -0.32   +30-36                     Y   
+ 62ZNB G BM1W=0.020 5 $ BE2W=1.0 +17-10                                         
+ 62ZN  G 2884.0    5  2      LT [E2]                                        Y  S
+ 62ZNB G BE2W=0.014 +15-14                                                      
+ 62ZN  L 3042.9     8 (0+)                                                     ?
+ 62ZNX L XREF=A                                                                 
+ 62ZN  G 2089.0    8  100                                                      ?
+ 62ZN  L 3060      102+                                                         
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=2                                                             
+ 62ZN  L 3160      10 (2+)                                                      
+ 62ZNX L XREF=IM                                                                
+ 62ZN cL J$L({+3}He,n)=2+(3). L(p,t)=2 for doublet                              
+ 62ZN  L 3181.2     4 (1+)                                                      
+ 62ZNX L XREF=A                                                                 
+ 62ZN  G 2227.2    4   100   4                                                  
+ 62ZN  G 3181.3    6   16.0  19                                                 
+ 62ZN  L 3209.86   21 4+               0.250 PS  35                         M   
+ 62ZNX L XREF=BDGHJN(*)O                                                        
+ 62ZN cL E$ 2010Al28 identify the 3209 {I4}+ state as a good candidate for a    
+ 62ZN2cL two-phonon mixed symmetry state. However, non-observation of expected  
+ 62ZN3cL transition to the one-phonon mixed symmetry 2+ state at 2803 keV does  
+ 62ZN4cL not allow a confirmed identification of such an excitation             
+ 62ZN cL J$from |g|g(|q) (2010Al28). J|p=3- is ruled out since such an          
+ 62ZN2cL adoption would give a large quadrupole (M2) admixture for 1023.7|g     
+ 62ZN3cL which is inconsistent with RUL.                                        
+ 62ZN  G  325.7        2     LT   [E2]                                         S
+ 62ZN  G  406.7        2     LT   [E2]                                         S
+ 62ZN  G 1023.7    2  100    5 (M1(+E2)) +0.01   18                         Y   
+ 62ZNB G BM1W=0.058 10 $ BE2W=0.01 +35-1                                        
+ 62ZN  G 2256.5    8  40     8  [E2]                                        Y   
+ 62ZNB G BE2W=0.75 19                                                           
+ 62ZN  L 3223.5     4 3(-)                                                      
+ 62ZNX L XREF=E(3190)MO                                                         
+ 62ZN cL J$L(p,t)=3 for 3216 {I6} group; L({+6}Li,d)=3 if the 3190 level        
+ 62ZN2cL corresponds to 3223 level                                              
+ 62ZN  G 2269.6    4  100      D(+Q)     -0.10   19                             
+ 62ZN  L 3310      50 (4+)                                                      
+ 62ZNX L XREF=N(*)                                                              
+ 62ZN cL J$based on systematic trends and shell-model calculation (1990Bo27)    
+ 62ZN  L 3374.2     3 (1-)                                                      
+ 62ZNX L XREF=AM                                                                
+ 62ZN cL J         L(p,t)=(1)                                                   
+ 62ZN  G 1032.0    5    20   17                                                 
+ 62ZN  G 1569.8    4   100   17                                                 
+ 62ZN  G 3373.5    8    60   13                                                 
+ 62ZN  L 3470      10 2+                                                        
+ 62ZNX L XREF=EM                                                                
+ 62ZN cL J$L(p,t)=2                                                             
+ 62ZN  L 3586.55   23(5+)              0.63 PS   +63-21                     g   
+ 62ZNX L XREF=BDE(3540)KLEO                                                     
+ 62ZN cL J$|g(|q) and excit function, ({+6}Li,pn|g)                             
+ 62ZN  G 843.0     3  97     8 M1+E2     -2.5    +10-33                         
+ 62ZNB G BM1W=0.004 +3-4$BE2W=61 +23-61                                         
+ 62ZN  G 1202.1    3 100     5 E2                                               
+ 62ZNB G BE2W=12 +5-12                                                          
+ 62ZN  G 1400                                                                   
+ 62ZN  L 3590      10  (2+)                                                     
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(2)                                                           
+ 62ZN  L 3640      102+                                                         
+ 62ZNX L XREF=E(3680)M                                                          
+ 62ZN cL J$L(p,t)=2                                                             
+ 62ZN  L 3707.60   246+                0.250 PS  35                         C   
+ 62ZNX L XREF=BCDKLO                                                            
+ 62ZN2 L FLAG=M                                                                 
+ 62ZN cL J$|DJ=2, E2 |g to 4+                                                   
+ 62ZN cL T$from DSAM in ({+3}He,2n|g). Others: 0.17 ps {I+14-7} from (|a,2n|g); 
+ 62ZN2cL 0.25 ps +17-7 in ({+6}Li,pn|g)                                         
+ 62ZN  G 1521.5    3 100       E2                                           Y   
+ 62ZNB G BE2W=19 3                                                              
+ 62ZN  L 3730      10  (3-,4+)                                                  
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(3,4)                                                         
+ 62ZN  L 3830      102+                                                         
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=2                                                             
+ 62ZN cL E$not the same as 3840 level seen in ({+6}Li,d) with L=1;              
+ 62ZN2cL evaluators assume 3840 is same as 3870 {I30} L=1 level in ({+3}He,n)   
+ 62ZN  L 3870      20 1-                                                        
+ 62ZNX L XREF=EIH                                                               
+ 62ZN cL J$L({+3}He,n)=L({+6}Li,d)=1                                            
+ 62ZN  L 3920      10 (3-,4+)                                                   
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(3,4)                                                         
+ 62ZN  L 3960.5     4 (1+)                                                      
+ 62ZNX L XREF=A                                                                 
+ 62ZN  G 1156.7    4    54   14                                                 
+ 62ZN  G 1619.2    4    100  14                                                 
+ 62ZN  L 4008.4    7  0+                                                        
+ 62ZNX L XREF=EGMO                                                              
+ 62ZN cL J$L(p,t)=0                                                             
+ 62ZN  G 2203.7    7  100                                                       
+ 62ZN  L 4021.6     5 (1+)                                                      
+ 62ZNX L XREF=A                                                                 
+ 62ZN  G 1679.3    6   5.4   34                                                 
+ 62ZN  G 3068.1    8   10.7  27                                                 
+ 62ZN  G 4021.7    8   100   7                                                  
+ 62ZN  L  4040     20 (1-)                                                      
+ 62ZNX L XREF=E                                                                 
+ 62ZN cL J$L({+6}Li,d)=(1)                                                      
+ 62ZN  L 4043.20   24(5)-              0.270 PS  42                         H   
+ 62ZNX L XREF=BDHIJKLN(4170)O                                                   
+ 62ZN2 L FLAG=M                                                                 
+ 62ZN cL J$3,5 from |g(|q), linear polarization; 5 from excitation              
+ 62ZN2cL function in ({+6}Li,pn|g); |p=- from L({+6}Li,d); gammas to 4+ states  
+ 62ZN cL T$from DSAM in ({+3}He,2n|g). Other: 0.69 ps {I+14-49} in ({+6}Li,pn|g)
+ 62ZN  G 833.2     3  18     8  [E1]                                        Y   
+ 62ZNB G BE1W=0.00031 15                                                        
+ 62ZN  G 1299.4    4  41     6  (E1)                                        Y   
+ 62ZNB G BE1W=0.00019 5                                                         
+ 62ZN  G 1857.5    4 100     5  (E1)                                        Y   
+ 62ZNB G BE1W=0.00016 3                                                         
+ 62ZN  L 4090      10(4+)                                                       
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(4)                                                           
+ 62ZN  L 4217.6    8 (3-)                                                       
+ 62ZNX L XREF=MO                                                                
+ 62ZN cL J$L(p,t)=(3)                                                           
+ 62ZN  G 2031.5    7  100                                                       
+ 62ZN  L 4330      20  (2+)                                                     
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(2)                                                           
+ 62ZN  L 4347.86   24 6+               0.48 PS   13                         G   
+ 62ZNX L XREF=BCDO                                                              
+ 62ZN cL T$from DSAM in ({+3}He,2n|g). Other: 0.28 ps {I+28-14} in ({+6}Li,pn|g)
+ 62ZNF L FLAG=LM                                                                
+ 62ZN  G 640.3     2  13     5  [M1+E2]                                         
+ 62ZN  G 761.7     6   5     LT [M1+E2]                                         
+ 62ZN  G 1604.2    3 100     6  E2                                          Y   
+ 62ZNB G BE2W=6.6 19                                                            
+ 62ZN  L 4380      20(4+)                                                       
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(4)                                                           
+ 62ZN  L 4448.0     3 (1+)                                                      
+ 62ZNX L XREF=AM                                                                
+ 62ZN  G 1644.7    5   19    5                                                  
+ 62ZN  G 2105.9    4   56    6                                                  
+ 62ZN  G 2643.9    6   24    5                                                  
+ 62ZN  G 3493.9    7    53   6                                                  
+ 62ZN  G 4447.8    9   100   7                                                  
+ 62ZN  L 4515      20 6+                                                        
+ 62ZNX L XREF=EHMN(*)                                                           
+ 62ZN cL J$L({+6}Li,d)=6                                                        
+ 62ZN  L 4535.4     8                                                          ?
+ 62ZNX L XREF=BO                                                                
+ 62ZN  G 2349.3    8  100                                                       
+ 62ZN  L 4600         (7-)                                                      
+ 62ZNX L XREF=N(*)                                                              
+ 62ZN cL J$systematic trends (1990Bo27)                                         
+ 62ZN  L 4620      20(0+)                                                       
+ 62ZNX L XREF=HM                                                                
+ 62ZN cL J$L(p,t)=(0)                                                           
+ 62ZN  L 4680      104+                                                         
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=4                                                             
+ 62ZN  L 4810      30 (2+,3-)                                                   
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(2,3)                                                         
+ 62ZN  L 4860      30 (3-,4+)                                                   
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(3,4)                                                         
+ 62ZN  L 4895.3     4 (1+)                                                      
+ 62ZNX L XREF=AM                                                                
+ 62ZN  G 2092.5    4   100   13                                                 
+ 62ZN  G 3089.0    10  19    8                                                  
+ 62ZN  G 4894.4    10  89    11                                                 
+ 62ZN  L 4904.7     3(7-)              8.3 PS    35                         H   
+ 62ZNX L XREF=BCDKLO                                                            
+ 62ZNF L FLAG=L                                                                 
+ 62ZN cL T$other: 0.7 ps {I+7-3} from (|a,2n|g)                                 
+ 62ZN  G 370                                                                   ?
+ 62ZNF G FL=4535.4                                                              
+ 62ZN  G 557.2     5  56     10 [E1]                                            
+ 62ZNB G BE1W=0.00010 5                                                         
+ 62ZN  G 861.5     3  14     2  [E2]                                            
+ 62ZNB G BE2W=0.8 4                                                             
+ 62ZN  G 1196.9    5 100     4  (E1(+M2)) -0.01  13                             
+ 62ZNB G BE1W=1.8E-5 8$BM2W=0.006 +149-6                                        
+ 62ZN  L 4910      30  (2+)                                                     
+ 62ZNX L XREF=ME(4960)                                                          
+ 62ZN cL J$L(p,t)=(2)                                                           
+ 62ZN  L 5050      30  (2+)                                                     
+ 62ZNX L XREF=MG                                                                
+ 62ZN cL J$L(p,t)=(2)                                                           
+ 62ZN  L 5090      20 1-                                                        
+ 62ZNX L XREF=EM                                                                
+ 62ZN cL J$L({+6}Li,d)=1                                                        
+ 62ZN  L 5123.5     4(7)-               2.1 PS   14                         L   
+ 62ZNX L XREF=DN(5190)O                                                         
+ 62ZN cL T$<3.5 ps from RDM, >0.7 ps from DSAM in {+58}Ni({+6}Li,pn|g)          
+ 62ZN cL J$3,5,7 from |g(|q) and |g(lin pol); yrast population disfavors 3;     
+ 62ZN2cL transition strength arguments (RUL) restrict parity to be the same as  
+ 62ZN3cL that of 4042; 7- supported by shell-model calculations (1990Bo27)      
+ 62ZN  G 1080.3    3 100        (E2)                                            
+ 62ZNB G BE2W=13 9                                                              
+ 62ZN  L 5131.0     4(6-)              0.7 PS    GT                         h   
+ 62ZNX L XREF=BDO                                                               
+ 62ZNF L FLAG=L                                                                 
+ 62ZN  G 1087.8    3 100        (M1+E2)   -4.7   26                             
+ 62ZNB G BM1W<0.0022$BE2W<37                                                    
+ 62ZN  L 5143.3     5 (7)+             0.42 PS   +21-14                     g   
+ 62ZNX L XREF=BDO                                                               
+ 62ZNF L FLAG=L                                                                 
+ 62ZN  G 795.6     6  23     3  [M1+E2]                                         
+ 62ZN  G 1556.7    5 100     6  (E2)                                            
+ 62ZNB G BE2W=8 +3-5                                                            
+ 62ZN  L 5211.5     5 (1+)                                                      
+ 62ZNX L XREF=AM                                                                
+ 62ZN  G 2408.3    7   25    8                                                  
+ 62ZN  G 2869.8    7   33    8                                                  
+ 62ZN  G 4256.6    9   57    8                                                  
+ 62ZN  G 5211.5    11  100   1                                                  
+ 62ZN  L 5240      20  (0+)                                                     
+ 62ZNX L XREF=M                                                                 
+ 62ZN cL J$L(p,t)=(0)                                                           
+ 62ZN  L 5340      30 0+                                                    X   
+ 62ZNX L XREF=EI                                                                
+ 62ZN cL J$L({+3}He,n)=0                                                        
+ 62ZN  L 5370      20(4+)                                                       
+ 62ZNX L XREF=HM                                                                
+ 62ZN cL J$L(p,t)=(4)                                                           
+ 62ZN  L 5470                                                                   
+ 62ZNX L XREF=E                                                                 
+ 62ZN  L 5481.5     6 (8+)             0.28 PS   +14-7                      C   
+ 62ZNX L XREF=BDO                                                               
+ 62ZN  G 1773.7    6  100       [E2]                                            
+ 62ZNB G BE2W=7.9 +20-40                                                        
+ 62ZN  L 5560      20                                                           
+ 62ZNX L XREF=M                                                                 
+ 62ZN  L 5700      30                                                       X   
+ 62ZNX L XREF=HI                                                                
+ 62ZN  L 5920.8    17 (1+)                                                     ?
+ 62ZNX L XREF=A                                                                 
+ 62ZN  G 5920.5    17 100                                                      ?
+ 62ZN  L 6081.6     5(9-)               3.9 PS   32                         H   
+ 62ZNX L XREF=BCD                                                               
+ 62ZN cL J$(7,9) from |g(|q), linear polarization and excitation                
+ 62ZN2cL function in ({+6}Li,pn|g); same parity as that of 4904 level           
+ 62ZN cL T$0.7 ps<T{-1/2}<7 ps from RDM and DSA, {+58}Ni({+6}Li,pn|g)           
+ 62ZN  G 1176.9    4 100        (E2)                                            
+ 62ZNB G BE2W=4 4                                                               
+ 62ZN  L 6113.7     6 (8-)                                                  h   
+ 62ZNX L XREF=BCD                                                               
+ 62ZN  G 983                                                                    
+ 62ZN  G 1208.7    7                                                            
+ 62ZN  L 6300      50  (8+)                                                     
+ 62ZNX L XREF=N                                                                 
+ 62ZN cL J$systematic trends (1990Bo27)                                         
+ 62ZN  L 6400                                                                   
+ 62ZNX L XREF=I                                                                 
+ 62ZN  L 6629.5    21                                                           
+ 62ZNX L XREF=DH                                                                
+ 62ZN  G 1506.0    20                                                           
+ 62ZN  L 7200                                                                   
+ 62ZNX L XREF=M                                                                 
+ 62ZN  L 7400                                                                   
+ 62ZNX L XREF=M                                                                 
+ 62ZN  L 7422.5     7(11-)                                                  H   
+ 62ZNX L XREF=BCD                                                               
+ 62ZN cL J$|DJ=2, Q |g to (9)                                                   
+ 62ZN  G 1341.5    6 100       Q                                                
+ 62ZN  L 7422.7     8(10-)                                                  h   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 1309                                                                   
+ 62ZN  G 1341                                                                   
+ 62ZN  L 7500.0     9(10+)                                                  C   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 2018                                                                   
+ 62ZN  L 7540      50  (8+)                                                     
+ 62ZNX L XREF=N                                                                 
+ 62ZN cL J$from shell-model calculations (1990Bo27)                             
+ 62ZN  L 7629.7     9                                                           
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 1548                                                                   
+ 62ZN  L 7701.5    12                                                          ?
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 279                                                                    
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 7976.1     7 (9+)                                                  I   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 1862                                                                   
+ 62ZN  G 1894                                                                   
+ 62ZN  G 2833                                                                   
+ 62ZN  L 8300      50  (6+)                                                     
+ 62ZNX L XREF=N                                                                 
+ 62ZN cL J$from shell-model calculations (1990Bo27)                             
+ 62ZN  L 8437.2     8(10+)                                                  i   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2355                                                                   
+ 62ZN  L 9024.7     8 (12-)                                                 h   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1602                                                                   
+ 62ZNF G FL=7422.7                                                              
+ 62ZN  G 1603                                                                   
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 9048.6     7(11+)                                                  I   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  611                                                                   
+ 62ZN  G 1072                                                                   
+ 62ZN  G 1626                                                                   
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 9214.0     8 (13-)                                                 H   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 1791                                                                   
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 9465.2     8(12+)                                                  i   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  416                                                                   
+ 62ZN  G 1028                                                                   
+ 62ZN  G 2043                                                                   
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 9800                                                                   
+ 62ZNX L XREF=M                                                                 
+ 62ZN  L 9823.7    10 (12+)                                                 J   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2402                                                                   
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 9960.4     8 (13+)                                                 I   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 495                                                                    
+ 62ZN  G 911                                                                    
+ 62ZN  G 936                                                                    
+ 62ZN  L 10247.4    8(11+)                                                  F   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 2747                                                                   
+ 62ZN  L 10300                                                                  
+ 62ZNX L XREF=M                                                                 
+ 62ZN  L 10316.4   10(13+)                                                      
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G  851                                                                   
+ 62ZN  G 1268                                                                   
+ 62ZN  L 10375.1    8(14+)                                                  i   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  415                                                                   
+ 62ZN  G  910                                                                   
+ 62ZN  G 1160.8    4                                                            
+ 62ZN  L 10635.8    8 (12+)                                                 f   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 388.3     3                                                            
+ 62ZN  G 3006                                                                   
+ 62ZN  G 3213                                                                   
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 10725.9   10 (14-)                                                 h   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1512                                                                   
+ 62ZN  G 1701                                                                   
+ 62ZN  L 10800                                                                  
+ 62ZNX L XREF=M                                                                 
+ 62ZN  L 11182.8    8(13+)                                                  F   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G  546.9    3  100    6                                                  
+ 62ZN  G  935.5    5   24    2                                                  
+ 62ZN  L 11546.8    9 (14+)                                                 J   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1724                                                                   
+ 62ZN  G 2333                                                                   
+ 62ZN  L 11651.6    8(13-)                                                  b   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2627                                                                   
+ 62ZN  G 4229                                                                   
+ 62ZNF G FL=7422.5                                                              
+ 62ZN  L 11755.8    9 (14+)                                                 f   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G  573.1    3  100    6                                                  
+ 62ZN  G 1119.8    4   64    4                                                  
+ 62ZN  L 11788.3   11 (15+)                                                 I   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1827                                                                   
+ 62ZN  L 11961.6    9(16+)                                                  i   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 1586                                                                   
+ 62ZN  L 12329.3    8(14-)                                                  B   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  677.7    4  100    10                                                 
+ 62ZN  G  3116                                                                  
+ 62ZN  G 3305                                                                   
+ 62ZN  L 12536.7    9(15+)                                                  F   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G  780.6    3  100    7                                                  
+ 62ZN  G 1353.8    5   68    5                                                  
+ 62ZN  L 12812.9   10(15-)                                                      
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2437                                                                   
+ 62ZN  L 12993.0    8(15-)                                                  b   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  663.6    3  100    7                                                  
+ 62ZN  G  1342.0   10  95    23                                                 
+ 62ZN  G  1447                                                                  
+ 62ZN  L 13156.3   10  (16+)                                                J   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1610                                                                   
+ 62ZN  L 13236.6    9 (16+)                                                 f   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G  699.6    3   88    6                                                  
+ 62ZN  G 1481.2    4  100    6                                                  
+ 62ZN  L 13400                                                                  
+ 62ZNX L XREF=M                                                                 
+ 62ZN  L 13726.7    8(16-)                                                  B   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  733.6    3  100    8                                                  
+ 62ZN  G  913                                                                   
+ 62ZN  G  1397.6   4   76    6                                                  
+ 62ZN  L 14125.5    9(17+)                                                  F   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G  888.7    3  100    6                                                  
+ 62ZN  G 1589.0    6   79    6                                                  
+ 62ZN  L 14445.8    9(17-)                                                      
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  719                                                                   
+ 62ZN  G 1633                                                                   
+ 62ZN  G 2483                                                                   
+ 62ZN  L 14541.8    8(17-)                                                  b   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  815.0    3  100    8                                                  
+ 62ZN  G 1385                                                                   
+ 62ZN  G  1549.3   5   92    8                                                  
+ 62ZN  G  2581                                                                  
+ 62ZN  L 14646.3   12 (16+)                                                     
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2858                                                                   
+ 62ZN  L 14832.3   12 (16+)                                                     
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3043                                                                   
+ 62ZN  L 15041.8   11 (16+)                                                 D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3495                                                                   
+ 62ZN  L 15049.6    9 (18+)                                                 f   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G  924.1    4   75    6                                                  
+ 62ZN  G 1813.0    5  100    6                                                  
+ 62ZN  L 15295.5   13 (18+)                                                 J   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2140                                                                   
+ 62ZN  L 15415.6    8(18-)                                                  B   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  873.7    3   78    7                                                  
+ 62ZN  G  969                                                                   
+ 62ZN  G  1689.2   5  100    7                                                  
+ 62ZN  L 15482.7   16  (16+)                                                E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  L 15705.8   14(19-)                                                      
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 1260                                                                   
+ 62ZN  L 16372.9    9(19+)                                                  F   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 1323.3    6    94   12                                                 
+ 62ZN  G 2246.7    8   100   12                                                 
+ 62ZN  L 16374.6    9(19-)                                                  b   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  959.0    8    81   22                                                 
+ 62ZN  G  1833.1   5   100   8                                                  
+ 62ZN  G  1928                                                                  
+ 62ZN  L 16574.8   15 (17-)                                                 a  ?
+ 62ZNX L XREF=C                                                                 
+ 62ZN  L 16717.2   10 (18+)                                                     
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1675                                                                   
+ 62ZN  G 1884                                                                   
+ 62ZN  G 2071                                                                   
+ 62ZN  G 4757                                                                   
+ 62ZN  L 16807                                                                  
+ 62ZNX L XREF=C                                                                 
+ 62ZN  L 16818.5   11 (18+)                                                 D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1777                                                                   
+ 62ZN  G 4856                                                                   
+ 62ZN  L 17350.7   12 (18+)                                                 E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1868                                                                   
+ 62ZN  G 5388                                                                   
+ 62ZN  L 17365.8   11 (18-)                                                     
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3639                                                                   
+ 62ZN  L 17408.6   10 (18-)                                                 A   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2963                                                                   
+ 62ZN  G 3682                                                                  ?
+ 62ZN  L 17480.5    9(20-)                                                  B   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  1105.9   4    48   4                                                  
+ 62ZNF G FL=16374.6                                                             
+ 62ZN  G  2065.4   6   100   8                                                  
+ 62ZN  L 17509.7   14 (18-)                                                     
+ 62ZNX L XREF=C                                                                 
+ 62ZN  L 17590.7   11 (20+)                                                 f   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 1217.5    7    33   6                                                  
+ 62ZNF G FL=16372.9                                                             
+ 62ZN  G 2541.4    9   100   11                                                 
+ 62ZN  L 18416.8   12 (19-)                                                 a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1842                                                                  ?
+ 62ZN  G 3001                                                                  ?
+ 62ZN  L 18504.6    9(21-)                                                  b   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  1024.3   4    57   6                                                  
+ 62ZN  G  2130.3   8   100   11                                                 
+ 62ZNF G FL=16374.6                                                             
+ 62ZN  L 18678.9   12(20+)                                                  D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 1860                                                                   
+ 62ZN  G 1962                                                                   
+ 62ZN  L 19400.7    9(20-)                                                  A   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 1891                                                                   
+ 62ZN  G 1992.7    12  0.14  7                                              Y   
+ 62ZN  G 2035                                                                   
+ 62ZN  G 3027                                                                   
+ 62ZNF G FL=16374.6                                                             
+ 62ZN  G 3983          0.08  AP                                             Y   
+ 62ZN  L 19478.7   13(20+)                                                  E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2127                                                                   
+ 62ZN  G 4184                                                                   
+ 62ZN  L 19507.7   15 (21+)                                                 F   
+ 62ZNX L XREF=B                                                                 
+ 62ZN  G 3134.7    12  100                                                      
+ 62ZNF G FL=16372.9                                                             
+ 62ZN  L 19602.4   15                                                           
+ 62ZNX L XREF=C                                                                 
+ 62ZN  L 19679.7   10 (22-)                                                 B   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 1174.6    12   40   20                                                 
+ 62ZN  G 2199.5    7   100   8                                                  
+ 62ZN  L 20474.9   11(21-)                                                  a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2058                                                                   
+ 62ZN  G 2994                                                                   
+ 62ZN  L 20858.9   16(22+)                                                  D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2180                                                                   
+ 62ZN  L 21042.0   11 (23-)                                                 b   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  1362.3   7    56   7                                                  
+ 62ZN  G  2537.4   9   100   11                                                 
+ 62ZN  L 21617.5   11(22-)                                                  A   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2015                                                                   
+ 62ZN  G 2215.3    8  0.93   13                                             Y   
+ 62ZN  G 3115                                                               X   
+ 62ZN  L 21853.8   17(22+)                                                  E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2375                                                                   
+ 62ZN  L 22784.4   12(23-)                                                  a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2309                                                                   
+ 62ZN  G 3105                                                                  ?
+ 62ZN  L 23185.7   14 (24-)                                                 B   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G  2143.8   12   40   10                                                 
+ 62ZN  G  3505.7   14  100   20                                                 
+ 62ZN  L 23344.0   19(24+)                                                  D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2485                                                                   
+ 62ZN  L 24057.0   14(24-)                                                  A   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2439.5    9  1.02   15                                             Y   
+ 62ZN  L 24469.8   20(24+)                                                  E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2616                                                                   
+ 62ZN  L 25349.4   16(25-)                                                  a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2565                                                                   
+ 62ZN  L 26176.1   21(26+)                                                  D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2832                                                                   
+ 62ZN  L 26746.8   17(26-)                                                  A   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2689.7    10  0.86  13                                             Y   
+ 62ZN  L 27318.9   22(26+)                                                  E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2849                                                                   
+ 62ZN  L 28165.5   19(27-)                                                  a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 2816                                                                   
+ 62ZN  L 29475.2   24(28+)                                                  D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3299                                                                   
+ 62ZN  L 29686.0   21(28-)                                                  A   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 2939.1    12  0.43  11                                             Y   
+ 62ZN  L 30437.0   24(28+)                                                  E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3118                                                                   
+ 62ZN  L 31216.6   21 (29-)                                                 a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3051                                                                   
+ 62ZN  L 32922      3 (30-)                                                 A   
+ 62ZNX L XREF=BC                                                                
+ 62ZN  G 3235.6    14  0.10  5                                              Y   
+ 62ZN  L 33362      3(30+)                                                  D   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3887                                                                   
+ 62ZN  L 33800      3 (30+)                                                 E   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3363                                                                   
+ 62ZN  L 34603.7   24 (31-)                                                 a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3387                                                                   
+ 62ZN  L 36501      3 (32-)                                                 A   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3579                                                                   
+ 62ZN  L 38369      3 (33-)                                                 a   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3765                                                                   
+ 62ZN  L 40459      3 (34-)                                                 A   
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 3958                                                                   
+ 62ZN  L 42521      3 (35-)                                                 a  ?
+ 62ZNX L XREF=C                                                                 
+ 62ZN  G 4152                                                                   

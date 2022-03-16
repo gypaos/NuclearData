@@ -1,0 +1,212 @@
+
+
+ 23NE    ADOPTED LEVELS, GAMMAS                                  21NDS    202101
+ 23NE  H TYP=FUL$AUT=M.S. Basunia{+#}, A. Chakraborty{+##}$                     
+ 23NE2 H CIT=NDS 171, 1 (2021)$CUT=1-Jun-2020$                                  
+ 23NE  Q 4375.80   105200.65 1015236   12-10911.8 26   2017WA10                 
+ 23NE c  Other reaction:                                                        
+ 23NE c  1979Gr16: {+27}Al(|a,{+8}Be), E=109~MeV, first observation of the      
+ 23NE2c  (|a,{+8}Be) reaction.                                                  
+ 23NE cG E,RI$From (n,|g) E=Thermal, except otherwise noted                     
+ 23NE cG E(AD),RI(AB)$From (d,p|g)                                              
+ 23NE cG E(C)$Weighted average of data from {+23}F |b{+-} decay and (d,p|g).    
+ 23NE cG E(E),RI(EF)$From {+23}F |b{+-} decay                                   
+ 23NE cL E$From least-squares fit to |g-ray energies, except otherwise noted.   
+ 23NE cL E(Z)$From (n,n),(n,|g):res                                             
+ 23NE cL E(Y)$From (d,p),(pol d,p)                                              
+ 23NE cL J(X)$From (pol d,p) - vector analyzing power - 1974WoZA                
+ 23NE cL T$From (d,p|g), except otherwise noted.                                
+ 23NE  XA23F B- DECAY                                                           
+ 23NE  XB21NE(T,P)                                                              
+ 23NE  XC22NE(N,G) E=THERMAL                                                    
+ 23NE  XD22NE(N,G) E=15-60 KEV                                                  
+ 23NE  XE22NE(N,N),(N,G):RES                                                    
+ 23NE  XF22NE(D,PG)                                                             
+ 23NE  XG22NE(D,P),(POL D,P)                                                    
+ 23NE  XK23NA(MU-,G)                                                            
+ 23NE  XJ23NA(N,P)                                                              
+ 23NE  XH23NA(N,PG)                                                             
+ 23NE  XI208PB(22NE,23NEG)                                                      
+ 23NE c  2018MuZY list 23 resonance levels for {+23}Ne                          
+ 23NE PN                                                                     6  
+ 23NE  L 0.0          5/2+             37.25 S   10                             
+ 23NE2 L %B-=100$ MOMM1=-1.0794 10 $MOME2=0.145 13                              
+ 23NEX L XREF=ABCDFGHIJK                                                        
+ 23NE cL $ |d<r{+2}>({+20}Ne,{+23}Ne)=-0.572 fm{+2} {I34} (2013An02, 2011Ma48)  
+ 23NE cL $The r.m.s. charge radius <r{+2}>{+1/2}=2.910 fm {I7} (2013An02).      
+ 23NE cL J$5/2 from LASER spectroscopy (2005Ge06, 2013Ma15), L=2 in (d,p).      
+ 23NE cL T$From 37.151 s {I56} (wt. ave. of 37.126 s {I30} and 37.276 s {I67}   
+ 23NE2cL with external uncertainty (2015La19 - also 37.153 s {I28} with         
+ 23NE3cL statistical uncertainty)), 37.11 s {I6} (from 2007Gr18), 37.24 s {I12} 
+ 23NE4cL (from 1974Al03), 37.6 s {I1} (1957Pe12), 38.0 s {I3} (1958Nu41), and   
+ 23NE5cL 37.5 s {I1} (1959Al10) - using the Limitation of Relative Statistical  
+ 23NE6cL Weight (LWM) method (1985ZiZY). Wt. ave. 37.25 s {I9} with |h{+2}=6.7  
+ 23NE7cL and |h{+2}{-crit}=3.0 at 99% C.L. Unweighted ave. 37.43 s {I14}.       
+ 23NE8cL Other values (outlier - Chauvenet's criterion): 38.7 s {I4} (1967Yu01),
+ 23NE9cL 40.2 s {I4} (1950Br78).                                                
+ 23NE cL MOMM1$From 2019StZV (in 1994Hi09 -1.0795 {I10} |b-NMR). Others: -1.077 
+ 23NE2cL {I4} (2005Ge06 - CFBLS/|b-NMR), -1.08 {I1} (1968Do07),  1.0817 {I9}    
+ 23NE3cL (2014StZZ).                                                            
+ 23NE cL MOME2$From 2005Ge06, 2016St14 - CFBLS/|b-NMR.                          
+ 23NE  L 1016.926  20 1/2+             178 PS    10                             
+ 23NEX L XREF=ABCDFGHIJK                                                        
+ 23NE cL J$L=0 in (d,p)                                                         
+ 23NE cL T$from 1966Fo02 (d,p|g) - p|g(t) coincidence. Other: 208~ps {I110}     
+ 23NE2cL (d,p|g) (1974Ch35).                                                    
+ 23NE  G    1016.90 2 100       [E2]                                            
+ 23NEB G BE2W=0.75 5                                                            
+ 23NE  L 1701.59   17 (7/2+)           70 FS     LT                             
+ 23NEX L XREF=ABFGHK                                                            
+ 23NE cL J$From |g(|q) in 1969Na02 (n,p|g), D(+Q) |g to 5/2+, |g from 3/2+ and  
+ 23NE2cL 5/2+                                                                   
+ 23NE  G    1701.5118 100       D(+Q)    +0.11   12                             
+ 23NE cG E,MR$From 1969Na02 (n,p|g).                                            
+ 23NE  L 1822.26    6 3/2+             70 FS     LT                             
+ 23NEX L XREF=ABCDFGHJK                                                         
+ 23NE cL J$L=0+2 in (t,p) from a 3/2+ g.s.                                      
+ 23NE  G 1822.22   8 100                                                        
+ 23NE cG E$Weighted average of 1822.25~{I21} ({+23}F |b{+-} decay), 1822.19~{I6}
+ 23NE2cG (n,|g), and 1822.8~{I3} (d,p|g).                                       
+ 23NE  L 2315.1     3 5/2+             70 FS     LT                         X   
+ 23NEX L XREF=ABFGHJK                                                           
+ 23NE cL J$L=2 in (d,p)                                                         
+ 23NE  G      492.6 4 89      4                                             B   
+ 23NE2 G FLAG=C                                                                 
+ 23NE  G      614.015 6.9    23                                             A   
+ 23NE  G     1298.2 9 17      4                                             A   
+ 23NE  G     2315.0 5 100     4                                             B   
+ 23NE2 G FLAG=C                                                                 
+ 23NE  L 2516.8     3 (5/2,7/2)        70 FS     LT                             
+ 23NEX L XREF=ABFGH                                                             
+ 23NE cL J$From |g(|q) in 1969Na02 (n,p|g), log {Ift}=6.1 from 5/2+.            
+ 23NE  G      815.3 4 100    11                                             B   
+ 23NE2 G FLAG=C                                                                 
+ 23NE  G     2516.6 5 44     18                                             B   
+ 23NE2 G FLAG=C                                                                 
+ 23NE cG RI$Other: 12~{I4} ({+23}F |b{+-} decay)                                
+ 23NE  L 3220.69    5 3/2-             70 FS     LT                             
+ 23NEX L XREF=BCDFG                                                             
+ 23NE cL J$L=1 in (d,p) and |=1/2 from |g(|q) and correlation studies           
+ 23NE2cL (1967Ho08 - (d,p|g)).                                                  
+ 23NE  G    1398.45 6 1.91   9                                                  
+ 23NE cG RI$3.2~{I11} in (d,p|g)                                                
+ 23NE  G    2203.62 7 100.0  9                                                  
+ 23NE  G  3220.39  12 19.6    3                                                 
+ 23NE  L 3431.6     3 3/2+             70 FS     LT                         X   
+ 23NEX L XREF=AB(*)FGK                                                          
+ 23NE cL J$L=2 in (d,p)                                                         
+ 23NE  G     1116.5 6 6.1    15                                             A   
+ 23NE  G     1608.811 13      3                                             A   
+ 23NE  G     2414.5 5 39      6                                             C   
+ 23NE2 G FLAG=B                                                                 
+ 23NE  G     3431.5 4 100     7                                             C   
+ 23NE2 G FLAG=B                                                                 
+ 23NE  L 3458.49    8 (1/2,3/2,5/2+)   70 FS     LT                             
+ 23NEX L XREF=B(*)CFK                                                           
+ 23NE cL J$|g's to 1/2+ and 3/2+                                                
+ 23NE  G 1636.05   10   100  8                                                  
+ 23NE  G 2441.52   29   40   8                                                  
+ 23NE cG RI$Other: 82~{I15} (d,p|g)                                             
+ 23NE  L 3830.9     4 (3/2,5/2,7/2)+   70 FS     LT                             
+ 23NEX L XREF=AB(*)F                                                            
+ 23NE cL J$log| {Ift}=4.6 from 5/2+.                                            
+ 23NE  G     2128.7 7 100    16                                             C   
+ 23NE2 G FLAG=F                                                                 
+ 23NE  G     3830.7 4 10     1                                              C   
+ 23NE2 G FLAG=B                                                                 
+ 23NE  L 3836.35    6 1/2-             70 FS     LT                         X   
+ 23NEX L XREF=B(*)CDFG                                                          
+ 23NE cL J$ L=1 in (d,p)                                                        
+ 23NE  G 377.64    16 0.8    2                                                  
+ 23NE  G 615.81    13   4    1                                                  
+ 23NE  G 2014.03   7  96     1                                                  
+ 23NE  G 2819.27   12 100    3                                                  
+ 23NE  L 3842.3     9                  70 FS     LT                             
+ 23NEX L XREF=B(*)F                                                             
+ 23NE  G     1325.5 8 100                                                   D   
+ 23NE  L 3987.8     5  (3/2)+          70 FS     LT                         X   
+ 23NEX L XREF=B(*)FG                                                            
+ 23NE cL J$L=2 in (d,p)                                                         
+ 23NE  G     1672.6 4 72      5                                             B   
+ 23NE  G     3988.916 100    10                                             B   
+ 23NE  L 4010       3                  70 FS     LT                             
+ 23NEX L XREF=B(*)F                                                             
+ 23NE  G       4010 3 100                                                   D   
+ 23NE  L 4270      15                                                           
+ 23NEX L XREF=BG                                                                
+ 23NE  L 4436.1     4 (3/2,5/2,7/2)+                                            
+ 23NEX L XREF=ABG                                                               
+ 23NE cL J$log| {Ift}=4.7 from 5/2+                                             
+ 23NE  G     1919.3 5 100    13                                             E   
+ 23NE  G     2734.2 5 62      8                                             E   
+ 23NE  L 4764      5                                                            
+ 23NEX L XREF=BG                                                                
+ 23NE  L 4867      15                                                           
+ 23NEX L XREF=BG                                                                
+ 23NE  L 4940      5                                                            
+ 23NEX L XREF=G                                                                 
+ 23NE  L 4995      15                                                           
+ 23NEX L XREF=B(*)G                                                             
+ 23NE  L 5029      5                                                            
+ 23NEX L XREF=B(*)G                                                             
+ 23NE  L 5068       5                                                           
+ 23NEX L XREF=G                                                                 
+ 23NE  L 5185      6   (3/2+,5/2+)                                              
+ 23NEX L XREF=B(*)G                                                             
+ 23NE cL J$L=(2) in (d,p)                                                       
+ 23NE  L 5200.71    6  1/2+                                                     
+ 23NEX L XREF=B(*)CD                                                            
+ 23NE cL J$Capture-state spin, assuming s-capture.                              
+ 23NE  G 1364.34    4 25.0   3                                                  
+ 23NE  G 1742.13   10  1.4   1                                                  
+ 23NE  G 1979.92    6 100    1                                                  
+ 23NE  G 3377.98   18  2.0   1                                                  
+ 23NE  G 4183.32   18  4.1   2                                                  
+ 23NE  G 5201                                                                   
+ 23NE2 G FL=0.0                                                                 
+ 23NE  L 5220      5   5/2-,7/2-                                               S
+ 23NEX L XREF=B(*)G                                                             
+ 23NE cL J$L=3 in (d,p)                                                         
+ 23NE  L 5265                                                                  ?
+ 23NEX L XREF=G                                                                 
+ 23NE  L 5340                                                                  ?
+ 23NEX L XREF=B(5366)G                                                          
+ 23NE  L 5460.8    3   1/2-                                                 Z   
+ 23NEX L XREF=EG                                                                
+ 23NE cL J$From {+22}Ne(n,|g) resonance data                                    
+ 23NE  L 5478.7    3    1/2+                                                Z   
+ 23NEX L XREF=BE                                                                
+ 23NE cL J$From {+22}Ne(n,|g) resonance data                                    
+ 23NE  L 5522      10                                                           
+ 23NEX L XREF=G                                                                 
+ 23NE  L 5560      15                                                           
+ 23NEX L XREF=G                                                                 
+ 23NE  L 5609.2     5  1/2-                                                 Z   
+ 23NEX L XREF=EG                                                                
+ 23NE cL J$From {+22}Ne(n,|g) resonance data                                    
+ 23NE  L 5646      10                                                       Y   
+ 23NEX L XREF=BG                                                                
+ 23NE  L 5672      5   1/2+                                                     
+ 23NEX L XREF=E                                                                 
+ 23NE cL J$From {+22}Ne(n,|g) resonance data                                    
+ 23NE  L 5726      10                                                           
+ 23NEX L XREF=G                                                                 
+ 23NE  L 5740.2     6 3/2+                                                  Z   
+ 23NEX L XREF=BE                                                                
+ 23NE cL J$L=0 in (t,p)                                                         
+ 23NE  L 5785      15                                                           
+ 23NEX L XREF=G                                                                 
+ 23NE  L 5861.0    7   3/2-                                                 Z   
+ 23NEX L XREF=EG(5840)                                                          
+ 23NE cL J$From {+22}Ne(n,|g) resonance data                                    
+ 23NE  L 5899      40                                                           
+ 23NEX L XREF=B                                                                 
+ 23NE  L 5968      5   1/2+                                                     
+ 23NEX L XREF=E                                                                 
+ 23NE cL J$From {+22}Ne(n,|g) resonance data                                    
+ 23NE  L 6093      40                                                           
+ 23NEX L XREF=B                                                                 
+ 23NE  L 6329      40                                                          ?
+ 23NEX L XREF=B                                                                 
+ 23NE  L 6445      40                                                           
+ 23NEX L XREF=B                                                                 
