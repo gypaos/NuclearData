@@ -1,0 +1,1364 @@
+
+
+ 52CR    ADOPTED LEVELS, GAMMAS                                  15NDS    201509
+ 52CR  H TYP=FUL$AUT=YANG DONG, HUO JUNDE$CIT=NDS 128, 185 (2015)$              
+ 52CR2 H CUT=10-Jul-2015$                                                       
+ 52CR  Q -4711.2   19 12038.4 910503.4 9 -9351.3 6     2012WA38                 
+ 52CR c  Other reactions:                                                       
+ 52CR2c  {+48}Ti(|a,|g) E=6-12 MeV, 1976Fo04;                                   
+ 52CR3c  {+48}Ti({+16}O,{+12}C) E=120 MeV (1979Da07);                           
+ 52CR4c  {+53}Cr({+12}C,{+13}C) E=18.5-33 MeV (1974PaZZ);                       
+ 52CR5c  {+54}Fe({+18}O,{+20}Ne) E=48,50 MeV (1972SiYD,1975PeZM)                
+ 52CR cG E,RI      E|g<4 MeV from {+52}Mn |e decay (5.591 d),                   
+ 52CR2cG E|g>4 MeV from {+51}V(p,|g), except as noted.                          
+ 52CR cG E(M),RI(Z)$From {+52}Mn |e decay (21.1 min).                           
+ 52CR cG E(N),M(X)$From {+52}V |b{+-} decay.                                    
+ 52CR cG E(B,P),RI(P),M(G,U),MR(U)$From (HI,xn|g).                              
+ 52CR cG E(Q)$From {+51}V({+3}He,d|g).                                          
+ 52CR cG E(Y),RI(Y)$From {+52}Cr(|g,|g'),(pol |g,|g').                          
+ 52CR cG E(R)      From weighted average of values in {+52}Mn |e decay (5.591 d)
+ 52CR2cG and {+52}V |b{+-} decay.                                               
+ 52CR cG E(S)      From weighted average of values in {+52}Mn |e decay (21.1    
+ 52CR2cG           min) and {+52}V |b{+-} decay.                                
+ 52CR cG M,MR      From |g|g(|q) in {+52}Cr(p,p'|g), except as noted.           
+ 52CR cG M(U),MR(U)$From {+51}V(p,|g).                                          
+ 52CR cL E         Levels connected by gammas are from least squares fit,       
+ 52CR2cL others from {+52}Cr(p,p') for E(level)<8830 keV and from               
+ 52CR3cL {+52}Cr(e,e') for E(level)>8830 keV, except as noted.                  
+ 52CR cL E(E)      From {+50}Ti({+3}He,n).                                      
+ 52CR cL E(H)      From {+50}Cr(t,p).                                           
+ 52CR cL E(I)      From {+50}Cr(|a,{+2}He)                                      
+ 52CR cL E(J)      From {+51}V({+3}He,d).                                       
+ 52CR cL E(M)      From {+52}Cr(|g,|g'),(pol |g,|g').                           
+ 52CR cL E(N)      From {+52}Cr(e,e').                                          
+ 52CR cL E(O)      From {+51}V(|a,t).                                           
+ 52CR cL E(Y)      From {+51}V(p,|g).                                           
+ 52CR cL E(Z)      From {+52}Cr(p,p').                                          
+ 52CR cL E(V)      From {+52}Cr(|a,|a').                                        
+ 52CR cL E(d)      From {+53}Cr({+3}He,|a).                                     
+ 52CR cL E(F)      Close doublet; not resolved in ({+3}He,n) tof spectra,       
+ 52CR2cL but separated in angular distribution procedure.                       
+ 52CR cL E(A)      From weighted average of values in {+52}Cr(e,e')             
+ 52CR2cL and {+52}Cr(p,p').                                                     
+ 52CR cL J(B)      Dipole transition in {+52}Cr(|g,|g'),(pol |g,|g').           
+ 52CR cL J(D)      Based on |s(|q), DWIA calculations in {+52}Cr(p,p').         
+ 52CR cL J(W)      IAS in {+51}V(p,|g) E=res.                                   
+ 52CR cL T         From (HI,xn|g), DSAM, except as noted.                       
+ 52CR cL T(S)      From (n,n'|g).                                               
+ 52CR cL T(G)$Partial decay width into ground state                             
+ 52CR2cL in {+52}Cr(|g,|g'),(pol |g,|g').                                       
+ 52CR CL BAND(X)$ GS Band.                                                      
+ 52CR CL BAND(K)$ Band based on 5+                                              
+ 52CR  XA52V B- DECAY (3.743 M)                                                 
+ 52CR  XB52MN EC DECAY (5.591 D)                                                
+ 52CR  XC52MN EC DECAY (21.1 M)                                                 
+ 52CR  XD(HI,XNG)                                                               
+ 52CR  XE50TI(3HE,N)                                                            
+ 52CR  XF52CR(P,P'G)                                                            
+ 52CR  XG52CR(P,P')                                                             
+ 52CR  XH50CR(T,P)                                                              
+ 52CR  XI51V(P,G) E=RES:IAR                                                     
+ 52CR  XJ51V(3HE,D)                                                             
+ 52CR  XK51V(3HE,DG)                                                            
+ 52CR  XL55MN(P,A)                                                              
+ 52CR  XM52CR(G,G'),(POL G,G')                                                  
+ 52CR  XN52CR(E,E')                                                             
+ 52CR  XO52CR(PI+,PI+),(PI+,PI+')                                               
+ 52CR  XP52CR(N,N')                                                             
+ 52CR  XQ52CR(N,N'G)                                                            
+ 52CR  XR50V(A,D)                                                               
+ 52CR  XS50TI(16O,14C)                                                          
+ 52CR  XT52CR(D,D')                                                             
+ 52CR  XU52CR(3HE,3HE')                                                         
+ 52CR  XV52CR(A,A')                                                             
+ 52CR  XW52CR(7LI,7LI')                                                         
+ 52CR  XX52CR(12C,12C'),(13C,13C')                                              
+ 52CR  XY52CR(16O,16O'),(18O,18O')                                              
+ 52CR  XZCOULOMB EXCITATION                                                     
+ 52CR  Xa50CR(A,2HE)                                                            
+ 52CR  Xb53CR(P,D)                                                              
+ 52CR  Xc53CR(D,T),(POL D,T)                                                    
+ 52CR  Xd53CR(3HE,A)                                                            
+ 52CR  Xe54CR(P,T)                                                              
+ 52CR  Xf55MN(MU-,3NG)                                                          
+ 52CR  Xg51V(A,T)                                                               
+ 52CR  Xh56FE(D,6LI)                                                            
+ 52CR  XiNI(K-,XG),(PI+,XG),(PI-,XG)                                            
+ 52CR PN                                                                     6  
+ 52CR  L 0.0         0+                STABLE                               X   
+ 52CR2 L XREF=-(RPT)$                                                           
+ 52CR cL           rms charge radius=3.6424 fm {I21} (2004An14).                
+ 52CR2cL others: rms charge radius=3.61 fm {I8}, muonic x-ray (1962Jo05),       
+ 52CR3cL rms charge radius=3.674 fm {I15} (1976Li19) (e,e').                    
+ 52CR  L 1434.091  142+                0.783 PS   21                        X   
+ 52CR cL J         E2 |g to 0+.                                                 
+ 52CR2 L XREF=-(Ra)                                                             
+ 52CR cL T$From Coulomb Ecitation. Other: 0.69 ps {I+31-17} ({+3}He,d|g)        
+ 52CR2cL and >0.49 ps (n,n|g).                                                  
+ 52CR3 L MOMM1=+2.41 13 (2000Er01)                                              
+ 52CR cL MOMM1$Others: +3.0 {I5} (1987St07) and +3.2 {I22} (1987Pa28)           
+ 52CR4 L MOME2=-0.082 16 (1989Ra17)$                                            
+ 52CR  G 1434.068  14 100       E2                                           C  
+ 52CR3 G FLAG=GR                                                                
+ 52CRB G BE2W=10.3 3                                                            
+ 52CR  L 2369.630  18 4+                6.7 PS   +35-17                     X   
+ 52CR cL J         L(|a,|a')=4.                                                 
+ 52CR2 L BE4=0.00066 8                                                          
+ 52CR cL BE4       from weighted average of 0.00067 {I12} in (e,e')             
+ 52CR2cL and 0.00066 {I10} in (|p{++},|p{++}),(|p{++},|p{++}').                 
+ 52CR cL T$From DSAM (Coulomb Ecitation). Others: 9.4 ps {I+24-16}, DSAM        
+ 52CR2cL (HI,xn|g), 1.04 ps {I+35-17} ({+3}He,d|g) DSAM.                        
+ 52CR3 L XREF=ABCDFGIJK(2368)L(2371)NOPQST(2372)VWZbcd(2380)efgh                
+ 52CR  G 935.538   11 100       E2                                           C  
+ 52CR3 G FLAG=GR                                                                
+ 52CRB G BE2W=1.0E-11 +3-6                                                      
+ 52CR  L 2646.9     60+                                                         
+ 52CR cL J         L(p,p')=L(e,e')=L(t,p)=L(p,t)=0.                             
+ 52CR2 L XREF=AFGH(2660)L(2650)N(2650)O(2650)QS(2640)V(2650)bc(2640)eh(2650)    
+ 52CR  G 1212.8    6   100     E2                                            C  
+ 52CR cG E         from (p,p'|g).                                               
+ 52CR  L 2767.767  214+                1.9 PS    5                              
+ 52CR cL J         L(|a,|a')=4.                                                 
+ 52CR cL T         DSAM, from weighted average of values 1.4 ps {I+5-3}         
+ 52CR2cL ({+3}He,d|g) and 2.5 ps {I6} (HI,xn|g).                                
+ 52CR2 L XREF=ABCDFGIJKLN(2770)O(2770)QSTV(2770)Wa(2770)bc(2770)d(2780)eg(2770) 
+ 52CR  G 398.08     9   1.76 14 E2                                           C  
+ 52CR cG RI        other: 1.36 {I17} in {+52}V |b{+-} decay.                    
+ 52CR3 G FLAG=GN                                                                
+ 52CRB G BE2W=45 13                                                             
+ 52CR  G 1333.649  17 100    1  E2                                          GC  
+ 52CRB G BE2W=6.0 16                                                            
+ 52CR  L 2964.786  172+                0.42 PS   8                              
+ 52CR cL J         E2 |g to 0+.                                                 
+ 52CR cL T         from (p,p'|g). Others: 0.47 ps {I+22-13}, DSAM ({+3}He,d|g), 
+ 52CR2cL 0.42 ps {I21} (n,n'|g).                                                
+ 52CR2 L XREF=ACFGH(2974)IJKLN(2970)O(2960)QSTV(2960)b                          
+ 52CR  G 1530.67    1 100     4M1+E2     -6.25   15                             
+ 52CR3 G FLAG=MZ                                                                
+ 52CRB G BM1W=0.00036 8$BE2W=13 3                                               
+ 52CR  G 2965       1   0.9   6E2                                               
+ 52CRA G FLAG=MXZ$                                                              
+ 52CRB G BE2W=0.005 4                                                           
+ 52CR  L 3113.858  216+                41.4 PS   14                         X   
+ 52CR cL J         L(p,p')=6, E2 |g to 4+.                                      
+ 52CR cL T         RDM. Other: >1.8 ps ({+3}He,d|g), DSAM.                      
+ 52CR2 L XREF=BDGIJKLN(3110)QSV(3110)Wa(3110)bg(3110)h(3110)                    
+ 52CR  G 346.02     4   1.09  1E2                                            C  
+ 52CRB G BE2W=2.58 10                                                           
+ 52CR  G 744.233   13 100.0   9E2                                            C  
+ 52CRB G BE2W=5.14 19                                                           
+ 52CR  L  3161.74   62+                0.035 PS  7                          S   
+ 52CR cL J         L(|a,|a')=2.                                                 
+ 52CR cL T         Others: 0.08 ps {I+4-3} ({+3}He,d|g) and                     
+ 52CR2cL 33 fs {I5} (p,p'|g).                                                   
+ 52CR3 L XREF=ACFGH(3175)IKLMNOQVWbe(3168)h                                     
+ 52CR  G 1727.53    7 100     5M1+E2     -0.18   7                          Z   
+ 52CR3 G FLAG=M                                                                 
+ 52CRB G BM1W=0.107 23$BE2W=2.6 21                                              
+ 52CR  G 3161.8     1  10.0  14E2                                           Z   
+ 52CR3 G FLAG=M                                                                 
+ 52CRB G BE2W=0.40 10                                                           
+ 52CR  L 3415.32    3 4+               0.26 PS   7                          K   
+ 52CR cL J         L(p,p')=4.                                                   
+ 52CR cL T         from weighted average of values 0.22 ps {I+8-5} ({+3}He,d|g) 
+ 52CR2cL and 0.33 ps {I9} (HI,xn|g).                                            
+ 52CR2 L XREF=ABDFGIJ(3420)KLO(3420)QV(3450)b(3432)d(3418)                      
+ 52CR  G 647.47     6 100     5M1+E2      0.22   8                          U   
+ 52CRB G BM1W=0.24 7$BE2W=6.E+1 5                                               
+ 52CR  G 766.0     10                                                       N  ?
+ 52CR cG $The |g's placement is highly suspect because |DJ=4                    
+ 52CR  G 1045.73   4   17     5                                             R   
+ 52CR  G 1981.12   4    8.5   8 [E2]                                            
+ 52CRB G BE2W=0.42 13                                                           
+ 52CR  L 3472.25   15 3+               7.2 PS    8                              
+ 52CR cL J         1968Mo19 propose the existence of two levels in this         
+ 52CR2cL vicinity separated by 3.0 keV, one decaying by 703|g and having        
+ 52CR3cL a spin of 3, 5 (from p,p'|g(|q)), and another with spin 2              
+ 52CR4cL decaying by 2038|g. Subsequent work (1977Ya08, 1974Br04) shows         
+ 52CR5cL that a single level  at 3472.2 emits two |g's (704.6 (78%) and         
+ 52CR6cL 2038.0 (22%)) and suggests that the two-level hypothesis was a         
+ 52CR7cL result of an error in the energy assigned to the 704|g by 1968Mo19.    
+ 52CR8cL Furthermore, the p,p'|g(|q) data on the 2038|g (1968Mo19) were         
+ 52CR9cL found to be consistent with 3. T{-1/2}, together with L in transfer,   
+ 52CRAcL suggest |p=+. One further complication is the assignment of L=4        
+ 52CRBcL to the level by 1970Pr08 in (p,p'). L(p,p')=2+3. Thus existence        
+ 52CRCcL of a J|p=4+ level at 3472 is tentatively ruled out.                    
+ 52CR cL T         RDM. Other: >1.9 ps ({+3}He,d|g), DSAM, > 0.49 ps            
+ 52CR2cL (n,n'|g).                                                              
+ 52CR2 L XREF=ACDFGIKLQS(3440)b(3494)c(3460)dg(3440)                            
+ 52CR  G 704.6      2 100      M1+E2     -0.14   6                          M   
+ 52CR cG RI$From (n,n'|g).                                                      
+ 52CRB G BM1W=0.0059 7$BE2W=0.5 5                                               
+ 52CR  G 2038.0     2  44.2  12                                             M   
+ 52CR cG RI$From (n,n'|g).                                                      
+ 52CR  L 3615.924  225+                2.6 PS    12                             
+ 52CR cL J         log| {Ift}=6.15 from 6+, |g(|q) in (HI,xn|g);                
+ 52CR2cL |p from L({+3}He,d)=1.                                                 
+ 52CR2 L XREF=BDGIJ(3620)KL(3619)b                                              
+ 52CR cL T         from 1.4 ps<T{-1/2}<3.8 ps, lower limit, DSAM; upper, RDM.   
+ 52CR2cL Other: >0.76 ps in ({+3}He,d|g), and 0.10 ps 7 (n,n'|g).               
+ 52CR  G 200.58     4   1.80  5                                                 
+ 52CR  G 502.06     5   5.0   5                                                 
+ 52CR  G 848.18     5  78.9   7 M1                                          GC  
+ 52CRB G BM1W=0.006 3                                                           
+ 52CR  G 1246.278  15 100.0  14                                              C  
+ 52CR  L 3739.6      1+,1-,2+                                               M   
+ 52CR2 L XREF=M                                                                 
+ 52CR cL J         From (|g,|g') (1998En05), based on values of reduced         
+ 52CR2cL transition strengths(|^).                                              
+ 52CR  L  3771.72  14 2+               9 FS      2                              
+ 52CR cL J         L(|a,|a')=2, L({+3}He,d)=1.                                  
+ 52CR cL $B(E2)|^=0.0071 {I8} (2007En02)                                        
+ 52CR2 L XREF=ACE(3700)FGH(3781)JKLMNOQS(3780)V(3780)b(3767)c(3800)dg(3800)     
+ 52CR cL T         from weighted average of values 9 fs {I3} (n,n'|g)           
+ 52CR2cL and 9 fs {I4} (p,p'|g).                                                
+ 52CR  G 2337.44   19 100    14M1+E2     -0.20   8                              
+ 52CRA G FLAG=ZS                                                                
+ 52CRB G BM1W=0.15 5$BE2W=2.4 20                                                
+ 52CR  G 3771.7     2  26     6[E2]                                             
+ 52CRA G FLAG=MZ                                                                
+ 52CRB G BE2W=1.5 5                                                             
+ 52CR  L 3947.5     6 2+               0.014 PS  7                              
+ 52CR2 L XREF=G(3949)IKLQb(3926)                                                
+ 52CRA L FLAG=S                                                                 
+ 52CR cL J         L(p,p')=2,                                                   
+ 52CR cL T         other: 0.10 ps {I+4-3} ({+3}He,d|g).                         
+ 52CR  G 1578                                                               Q   
+ 52CR  L 3951.2    10 2+                                                        
+ 52CR2 L XREF=CG(3949)H(3957)J                                                  
+ 52CR cL J         L(p,p')=2, L({+3}He,d)=1 from 7/2-.                          
+ 52CR  G 3951       1                                                           
+ 52CR3 G FLAG=MZ                                                                
+ 52CR  L 4015.51    3 5+               0.61 PS   +27-19                     K   
+ 52CR cL J         log| {Ift}=6.6 from 6+, |p from L({+3}He,d)=1.               
+ 52CR cL T         from weighted average of values 0.58 ps {I+32-19}            
+ 52CR2cL ({+3}He,d|g) and 0.7 ps {I5} (HI,xn|g).                                
+ 52CR2 L XREF=BDGIJ(4020)KLd(4017)                                              
+ 52CR  G 399.57     5  46.9  18                                                 
+ 52CR cG RI        other: 33.3 {I5} in (HI,xn|g).                               
+ 52CR  G 600.16     5 100     3 M1                                          G   
+ 52CRB G BM1W=0.062 +20-28                                                      
+ 52CR  G 901.89    18  11.3  11                                                 
+ 52CR  G 1247.88    9  97    10 M1                                          G   
+ 52CRB G BM1W=0.0067 +23-31                                                     
+ 52CR  G 1645.82    4  12.1   8                                                 
+ 52CR  L   4039.1  114+                26 FS     4                          S   
+ 52CR cL J         L(p,p')=L(|a,|a')=4                                          
+ 52CR cL T         other: 0.51 ps {I+25-14} ({+3}He,d|g).                       
+ 52CR2 L XREF=DGIJ(4033)KLNOV(4010)b(4030)                                      
+ 52CR  G 566.8         100                                                  P   
+ 52CR  L 4.10E3    10   3-                                                  O   
+ 52CR2 L XREF=P(4200)c(4090)g                                                   
+ 52CR cL J         L(n,n')=3.                                                   
+ 52CR  L 4470          3-                                                       
+ 52CR2 L XREF=U                                                                 
+ 52CR cL E         from ({+3}He,{+3}He').                                       
+ 52CR cL J         L({+3}He,{+3}He')=3.                                         
+ 52CR  L   4563.0   8 3-               40 FS     6                          S   
+ 52CR cL J         L(|a,|a')=L(e,e')=3.                                         
+ 52CR cL T         other: 0.27 ps {I+12-6} ({+3}He,d|g).                        
+ 52CR2 L XREF=CGH(4572)JKLNOP(4600)QSV(4560)X                                   
+ 52CR3 L BE3=0.0066 3                                                           
+ 52CR cL           B(E3) from weighted average of values 0.0065 {I4} in (e,e')  
+ 52CR2cL and 0.0068 {I5} in (|p{++},|p{++}),(|p{++},|p{++}').                   
+ 52CR  G 791                                                                Q   
+ 52CR  G 3129       1                                                       M   
+ 52CR  L     4584.0 7(6+)                                                       
+ 52CR2 L XREF=D                                                                 
+ 52CR cL J         From (HI,xn|g), |g to 6+.                                    
+ 52CR  G    1470.1  7    100                                                P   
+ 52CR  L 4611         (3,4)+                                                    
+ 52CR cL J         L({+3}He,|a)=3 on 3/2-.                                      
+ 52CR2 L XREF=Id(4605)                                                          
+ 52CR  L 4627.32   19 4+                                                        
+ 52CR cL J         L(p,p')=4.                                                   
+ 52CR2 L XREF=BG(4630)JL(4630)O(4630)g(4680)                                    
+ 52CR  G 2257.42   19 100                                                       
+ 52CR  L 4702      5  2+                                                        
+ 52CR cL J         L({+3}He,n)=2.                                               
+ 52CR2 L XREF=E(4710)GJL(4706)O(4710)                                           
+ 52CR  L 4730         4+                                                    V   
+ 52CR cL J         L(|a,|a')=4. L({+3}He,d)=1.                                  
+ 52CR2 L XREF=JV                                                                
+ 52CR  L 4742.3    11 0+                                                        
+ 52CR cL J         L(t,p)=0.                                                    
+ 52CR2 L XREF=G(4738)H(4745)ILS                                                 
+ 52CR  L 4750.31   20 8+               0.08 PS   10                             
+ 52CR cL T         Other: 0.64 ps {I+20-17} (HI,xn|g).                          
+ 52CR cL J         |g(|q) in (HI,xn|g), E2 |g to 6+.                            
+ 52CR2 L XREF=DQRa(4770)                                                        
+ 52CR3 L FLAG=SX                                                                
+ 52CR  G 1636.4    2   100     E2                                               
+ 52CR3 G FLAG=GP$                                                               
+ 52CRB G BE2W=5.E+1 +7-5                                                        
+ 52CR  L 4800.1      1+,1-,2+                                               M   
+ 52CR2 L XREF=M                                                                 
+ 52CR cL J         From (|g,|g') (1998En05).                                    
+ 52CR  L 4805.96   24 6+               0.49 PS   +28-14                     K   
+ 52CR cL J         L(|a,{+2}He)=4,6, |g(|q) in (HI,xn|g), M1+E2 |g to 5+.       
+ 52CR2 L XREF=DGI(4808)L(4808)a(4770)                                           
+ 52CR  G 790.0     3  100     8(M1+E2)   -0.16    5                             
+ 52CRA G FLAG=PU$                                                               
+ 52CRB G BM1W=(0.062 +19-37)$BE2W=(6 +4-5)                                      
+ 52CR  G 1189.7        20     5                                             P   
+ 52CR  G 1693.9     6  23     3                                             P   
+ 52CR  L 4815.69    9 1+,2+                                                     
+ 52CR cL J         log| {Ift}=5.55 from 2+, |g to 0+.                           
+ 52CR2 L XREF=Cd(*4830)                                                         
+ 52CR  G 3381.5     1 100    20                                             Z   
+ 52CR3 G FLAG=M                                                                 
+ 52CR  G 4815.4     2 100    16                                             Z   
+ 52CR3 G FLAG=M                                                                 
+ 52CR  L 4841.3    111+,1-,2+                                               M   
+ 52CR2 L XREF=G(4832)IJLMd(*4830)                                               
+ 52CR cL J         From (|g,|g') (1998En05).                                    
+ 52CR  L 4951      4  4+                                                        
+ 52CR cL J         L(p,p')=4.                                                   
+ 52CR2 L XREF=GL(4950)S(4980)                                                   
+ 52CR  L   5054.3  11 4+                                                        
+ 52CR cL J         L(|a,|a')=4.                                                 
+ 52CR2 L XREF=IV(5070)                                                          
+ 52CR  L   5095    5  4+                                                        
+ 52CR cL J         L({+3}He,d)=L(|a,t)=1, L(p,p')=L(|a,|a')=4.                  
+ 52CR2 L XREF=GLJV(5070)g(5120)                                                 
+ 52CR  L 5098.6    4 1                  0.045 EV 10                             
+ 52CR cL J         excitation in (|g,|g').                                      
+ 52CR2 L XREF=IM                                                                
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 3664.5    5   79    22                                             Y   
+ 52CR  G 5098.3    5   100                                                  Y   
+ 52CR  L 5139      5  (6+)                                                      
+ 52CR cL J         L(p,p')=5,6, L({+3}He,d)=(3) from 7/2-.                      
+ 52CR2 L XREF=GJL                                                               
+ 52CR  L 5213.7    5  1                 0.013 EV 3                              
+ 52CR cL J$excitation in (|g,|g').                                              
+ 52CR2 L XREF=GLMS                                                              
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 5213.4    5  100                                                   Y   
+ 52CR  L 5285      5                                                            
+ 52CR cL J         L({+3}He,d)=0 from 7/2-, L(p,p')=5,6.                        
+ 52CR2 L XREF=GJL(5281)                                                         
+ 52CR  L 5346      4  4+,6+                                                     
+ 52CR cL J         L(|a,{+2}He)=4,6                                             
+ 52CR2 L XREF=GLa(5320)                                                         
+ 52CR  L 5396.9     3 7+               0.14 PS   +12-9                      K   
+ 52CR cL J         |g(|q) in (HI,xn|g), M1+E2 |g to 6+, E2 |g to 5+.            
+ 52CR2 L XREF=D                                                                 
+ 52CR  G 590.9     3  100     6M1+E2     -0.27   6                              
+ 52CRA G FLAG=PU$                                                               
+ 52CRB G BM1W=0.6 +4-6$BE2W=2.9E+2 +22-28                                       
+ 52CR  G 1381.5    5   15.2  16E2                                               
+ 52CR2 G FLAG=GP                                                                
+ 52CRB G BE2W=9 +6-8                                                            
+ 52CR  L 5410      4 (2+)                                                       
+ 52CR cL J         L(t,p)=(2).                                                  
+ 52CR2 L XREF=GH(5423)J(*5420)Ld(5400)                                          
+ 52CR  L 5425      5 4+                                                         
+ 52CR cL J         L(p,p')=4.                                                   
+ 52CR2 L XREF=GJ(*5420)L(5422)                                                  
+ 52CR  L 5432      6                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L   5446.4   5 4+                                                        
+ 52CR cL J         L(|a,|a')=4.                                                 
+ 52CR2 L XREF=H(5443)IJ(5450)L(5450)V(5450)g(5450)                              
+ 52CR  L 5490.8      1+,1-,2+                                               M   
+ 52CR2 L XREF=G(*5494)LM                                                        
+ 52CR cL J$excitation in (|g,|g').                                              
+ 52CR  L 5500         3-                                                    N   
+ 52CR2 L XREF=G(*5494)N                                                         
+ 52CR cL J         L(e,e')=3                                                    
+ 52CR  L 5526.0    5  1                 0.016 EV 3                              
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J$excitation in (|g,|g').                                              
+ 52CR  G 5525.7    5                                                            
+ 52CR  L 5541      5 4+                                                         
+ 52CR cL J         L(p,p')=4.                                                   
+ 52CR2 L XREF=GL(5538)                                                          
+ 52CR  L 5544.7    10(1+)              0.112 EV  7                              
+ 52CR cL J         L({+3}He,|a)=(1) from 3/2-, D |g to 0+.                      
+ 52CR2 L XREF=G(5546)LMd(5560)                                                  
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 5544.4      100                                                    Y   
+ 52CR  L   5563.5  8 +                                                          
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=G(5569)IL(5571)                                                   
+ 52CR  L 5584      6 +                                                          
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=GJ(5594)L                                                         
+ 52CR  L 5600      15 0+                                                    H   
+ 52CR cL J         L(t,p)=L({3}He,n)=0.                                         
+ 52CR2 L XREF=E(5650)H                                                          
+ 52CR  L     5633.411(8+)                                                       
+ 52CR2 L XREF=DV(5640)                                                          
+ 52CR cL J         From (HI,xn|g), |g to (6+).                                  
+ 52CR  G    1049.4  8   100                                                 P   
+ 52CR  L   5664.4  11 (2)+                                                      
+ 52CR cL J         L(p,p')=2. L({+3}He,d)=1+3 from 7/2-                         
+ 52CR2 L XREF=G(5661)IJ(5660)Ld(5670)                                           
+ 52CR  L 5725.3    12 +                                                         
+ 52CR cL J         L({+3}He,|a)=3 from 3/2-.                                    
+ 52CR2 L XREF=G(5727)IJ(5720)LS(5700)d(5710)                                    
+ 52CR  L 5737.5    11 (4+)                                                      
+ 52CR2 L XREF=GI                                                                
+ 52CR cL J         L(p,p')=(4)                                                  
+ 52CR  L 5755      15 +                                                     H   
+ 52CR cL J         L(t,p)=0. But L({+3}He,d)=1 from 7/2-                        
+ 52CR2 L XREF=HJ(*5751)                                                         
+ 52CR  L 5796.0      1+,2+                                                  M   
+ 52CR cL J         1,2+ from excitation in (|g,|g'), |p=- ruled out by          
+ 52CR2cL L({+3}He,d)=1+3 from 7/2-.                                             
+ 52CR2 L XREF=GJ(5790)LM                                                        
+ 52CR  L 5811      5  5,6+                                                      
+ 52CR cL J         L(p,p')=5,6.                                                 
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 5818      6                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 5824.7     4 8+               1.0 PS    +6-4                       K   
+ 52CR cL J         |g(|q) in (HI,xn|g), M1+E2 |g to 7+.                         
+ 52CR2 L XREF=D                                                                 
+ 52CR  G 427.9     3   100     M1(+E2)   -0.03   4                              
+ 52CRS G KC=0.00166  $LC=0.00016                                                
+ 52CRA G FLAG=PU$                                                               
+ 52CRB G BM1W=(0.28 +12-17)$BE2W=(3 +9-3)                                       
+ 52CR  L 5860.5    11 +                                                         
+ 52CR cL J$L({+3}He,d)=L(|a,t)=1 from 7/2-.                                     
+ 52CR2 L XREF=G(5853)IJ(5828)g(5830)                                            
+ 52CR  L 5865      6                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 5873      5 3-                                                         
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 5891         3-,4-                                                 J   
+ 52CR cL J         L({+3}He,d)=0 from 7/2-.                                     
+ 52CR2 L XREF=JV(5910)                                                          
+ 52CR  L 5919      5  5,6+                                                      
+ 52CR cL J         L(p,p')=5,6.                                                 
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 5953      5 2+                                                         
+ 52CR cL J         L(p,p')=2.                                                   
+ 52CR2 L XREF=GJ(5945)S                                                         
+ 52CR  L 5960      5                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 5996      5 3-                                                         
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=GJ(5992)La(5990)                                                  
+ 52CR  L 6026      6 +                                                          
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=GHJ                                                               
+ 52CR  L 6035.3    12                                                           
+ 52CR2 L XREF=GI                                                                
+ 52CR  L 6055      5 2+                                                         
+ 52CR cL J         L(p,p')=2.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6065      7                                                            
+ 52CR2 L XREF=GH(6069)                                                          
+ 52CR  L 6106      6  0+                                                        
+ 52CR cL J         L({+3}He,n)=0.                                               
+ 52CR2 L XREF=E(6100)GJ(6089)S(6130)                                            
+ 52CR  L 6137.0    10  2+                                                   M   
+ 52CR cL J         L(p,p')=2. Excitation in (|g,|g').                           
+ 52CR2 L XREF=GM                                                                
+ 52CR  G 6136.6       100                                                   Y   
+ 52CR  L 6153      8  2+                                                        
+ 52CR cL J         L(t,p)=2.                                                    
+ 52CR2 L XREF=GH                                                                
+ 52CR  L 6164      12 3-                                                        
+ 52CR cL J         L(|a,|a')=3.                                                 
+ 52CR2 L XREF=GV(6160)                                                          
+ 52CR  L 6175      7  2+                                                        
+ 52CR cL J         L(p,p')=2.                                                   
+ 52CR2 L XREF=Gd(6180)                                                          
+ 52CR  L 6193      6  +                                                         
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=GJ                                                                
+ 52CR  L 6205.4    12                                                           
+ 52CR2 L XREF=GI                                                                
+ 52CR  L 6210      10                                                           
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6220      6                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6233      10 +                                                         
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=GJ                                                                
+ 52CR  L 6243      5 3-                                                         
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6252      6                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6272      6                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6293      7                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6324      10                                                           
+ 52CR2 L XREF=GS(6330)                                                          
+ 52CR  L 6349      5  +                                                         
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=GJ(6364)                                                          
+ 52CR  L   6356.6  12 (9+)                                                      
+ 52CR2 L XREF=D                                                                 
+ 52CR cL J         |g(|q) in (HI,xn|g).                                         
+ 52CR  G     725.5 12   100                                                 P  ?
+ 52CR  L   6365.3  11  (10+)                                                X   
+ 52CR cL J         |g(|q) in (HI,xn|g).                                         
+ 52CR2 L XREF=D                                                                 
+ 52CR  G 1615.0    10 100                                                   P   
+ 52CR  L 6375.4    12                                                           
+ 52CR2 L XREF=G(6372)I                                                          
+ 52CR  L 6381.0    10 (6+)                                                      
+ 52CR2 L XREF=D                                                                 
+ 52CR cL J         From |g(|q) in (HI,xn|g).                                    
+ 52CR  G 2765.0       100                                                   B   
+ 52CR  L 6389.9    5  1+                0.069 EV 7                              
+ 52CR2 L XREF=IJM                                                               
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         1 from excitation in (|g,|g'), |p=- ruled out by             
+ 52CR2cL L({+3}He,d)=1 from 7/2-.                                               
+ 52CR2 L XREF=GJ(5790)LM                                                        
+ 52CR  G 6389.5    5  100                                                   Y   
+ 52CR  L 6392      10 3-                                                        
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6426      5                                                            
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6437      10                                                           
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6453.4     4 9+               0.14 PS   +9-8                       K   
+ 52CR cL J         |g(|q) in (HI,xn|g), M1+E2 |g to 8+.                         
+ 52CR2 L XREF=D                                                                 
+ 52CR  G 628.9     5 35      18M1+E2     +0.22   +15-8                          
+ 52CRF G FL=5824.7                                                              
+ 52CRA G FLAG=PU$                                                               
+ 52CRB G BM1W=0.13 11$BE2W=4.E+1 +6-4                                           
+ 52CR  G 1056.0    10 26      2                                             P   
+ 52CR  G 1702.9    5 100      5M1+E2     -0.04   +7-3                           
+ 52CRA G FLAG=PU$                                                               
+ 52CRB G BM1W=0.020 +12-13$BE2W=0.02 +9-2                                       
+ 52CR  L 6462.4    5  1                 0.074 EV 7                              
+ 52CR2 L XREF=GM                                                                
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         From excitation in (|g,|g').                                 
+ 52CR  G 6462.0    5   100                                                  Y   
+ 52CR  L 6482      5 5,6+                                                       
+ 52CR2 L XREF=G                                                                 
+ 52CR cL J         L(p,p')=5,6                                                  
+ 52CR  L 6493      10 2+                                                    Z   
+ 52CR2 L XREF=GJ(6500)Sd(6490)                                                  
+ 52CR cL J         L(p,p')=2. L({+3}He,|a)=0 from 3/2-.                         
+ 52CR  L 6495.5    5  1                 0.131 EV 9                              
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         From excitation in (|g,|g').                                 
+ 52CR  G 6495.1    5   100                                                  Y   
+ 52CR  L 6541      10 3-                                                        
+ 52CR cL J         L(|a,|a')=3.                                                 
+ 52CR2 L XREF=GV                                                                
+ 52CR  L 6568      10                                                           
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6580      5                                                            
+ 52CR2 L XREF=GJ(6610)N(6600)                                                   
+ 52CR  L 6637      5                                                            
+ 52CR2 L XREF=GJ(6625)                                                          
+ 52CR  L 6678      5   +                                                        
+ 52CR cL J         L({+3}He,n)=0, L({+3}He,d)=1 from 7/2-.                      
+ 52CR2 L XREF=E(6670)GJ                                                         
+ 52CR  L 6700      20  -                                                    d   
+ 52CR cL J         L({+3}He,|a)=2 from 3/2-.                                    
+ 52CR2 L XREF=d                                                                 
+ 52CR  L 6704      5  5,6+                                                      
+ 52CR cL J         L(p,p')=5.                                                   
+ 52CR2 L XREF=GJ(6720)                                                          
+ 52CR  L 6752.0    5  1+                0.089 EV 10                             
+ 52CR2 L XREF=J(6760)MS(6740)V(6760)                                            
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 6751.5    5  100                                                   Y   
+ 52CR  L 6795.4    123-                                                         
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G(6786)IO                                                         
+ 52CR  L 6810      30 2+                                                        
+ 52CR cL J         L(p,p')=2.                                                   
+ 52CR2 L XREF=GJ(6814)d(6790)a(6800)                                            
+ 52CR  L 6871      5 5-                                                         
+ 52CR cL J         L(p,p')=5.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6894          +                                                    J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 6928          +                                                    J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 6956      5 5,6+                                                       
+ 52CR cL J         L(p,p')=5,6.                                                 
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 6993      5  3-                                                        
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=GJS                                                               
+ 52CR  L 7014.5    4  1                 0.210 EV 30                             
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 5580.5    5  24     6                                              Y   
+ 52CR  G 7013.6    5  100                                                   Y   
+ 52CR  L 7030      10 1+                                                    N   
+ 52CR cL J         Dipole excitation in (e,e'). |p=- ruled out by               
+ 52CR2cL L({+3}He,d)=1 from 7/2-.                                               
+ 52CR2 L XREF=J(6993)N                                                          
+ 52CR  L 7090.8    5  1+                0.062 EV 11                             
+ 52CR2 L XREF=GJM                                                               
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         from excitation in (|g,|g').                                 
+ 52CR  G 7090.3    5  100                                                   Y   
+ 52CR  L 7100         3-                                                    V   
+ 52CR2 L XREF=NV                                                                
+ 52CR cL J         L(|a,|a')=L(e,e')=3                                          
+ 52CR  L 7140      7   +                                                    A   
+ 52CR cL J         M1 excitation in (e,e'). L(p,p')=4                           
+ 52CR2 L XREF=GN                                                                
+ 52CR  L 7166.2    5   +                0.054 EV 11                             
+ 52CR2 L XREF=JMN(7170)                                                         
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         M1 excitation in (e,e'). L({+3}He,d)=1 from 7/2-.            
+ 52CR  G 7165.7    5   100                                                  Y   
+ 52CR  L 7217      10 2+                                                        
+ 52CR cL J         L(p,p')=2.                                                   
+ 52CR2 L XREF=GJ(7210)                                                          
+ 52CR  L 7223          +                                                    J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L   7237.9   6   10+            0.16 PS   +15-8                      K   
+ 52CR2 L XREF=D                                                                 
+ 52CR cL J         From |g(|q) in (HI,xn|g), M1+E2 |g to 9+.                    
+ 52CR  G 784.5      5  100   12M1+E2     -0.06   +3-5                           
+ 52CRF G FL=6453.4                                                              
+ 52CRA G FLAG=PU$                                                               
+ 52CRB G BM1W=0.19 +10-18$BE2W=2 +3-2                                           
+ 52CR  G     883.7 10   28    3                                             P  ?
+ 52CRF G FL=6356.6                                                              
+ 52CR  G    1413.6 10    8    4  [E2]                                       P  ?
+ 52CRF G FL=5824.7                                                              
+ 52CRB G BE2W=2.9 +21-29                                                        
+ 52CR  G    1606.0 20   15    4  [E2]                                       P  ?
+ 52CRB G BE2W=2.9 +17-28                                                        
+ 52CR  L 7260      10  +                                                    N   
+ 52CR cL J         L({+3}He,d)=1+3 from 7/2-, but M1, (M2) excitation in (e,e').
+ 52CR2 L XREF=NJ                                                                
+ 52CR  L 7278      10 4+                                                        
+ 52CR cL J         L(p,p')=4.                                                   
+ 52CR2 L XREF=GJ(7273)S(7290)                                                   
+ 52CR  L 7310          +                                                    J   
+ 52CR cL J         L({+3}He,d)=1+3 from 7/2-.                                   
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 7322          +                                                    J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 7342      7  1+                                                    A   
+ 52CR cL J         M1 excitation in (e,e'). L(p,p')=2                           
+ 52CR2 L XREF=GJ(7350)N(7340)                                                   
+ 52CR  L 7368.8    5  1+                0.229 EV 18                             
+ 52CR2 L XREF=JM                                                                
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         1 from excitation in (|g,|g'), |p=- ruled out by             
+ 52CR2cL L({+3}He,d)=1 from 7/2-.                                               
+ 52CR  G 7368.2    5   100                                                  Y   
+ 52CR  L 7376      10  5-                                                       
+ 52CR cL J         L(p,p')=5.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 7395      10  5+                                                       
+ 52CR cL J         L(|a,{+2}He)=5,7, L({+3}He,d)=1 from 7/2-.                   
+ 52CR2 L XREF=J(7400)a(7390)                                                    
+ 52CR cL E         From average of values in ({+3}He,d) and (|a,{+2}He).        
+ 52CR  L 7401.6    15 (12+)                                                     
+ 52CR2 L XREF=D                                                                 
+ 52CR cL J         From (HI,xn|g), |g to (10+).                                 
+ 52CR  G 1036.3        100      (E2)                                            
+ 52CR2 G FLAG=BG                                                                
+ 52CR  L 7403.2    5  1                 0.107 EV 15                             
+ 52CR cL $B(M1)=0.069 {I10}, B(E1)=0.76|*10{+-5} {I11}                          
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 7402.6    5  100                                                   Y   
+ 52CR  L 7409      10  3-                                                       
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=GO                                                                
+ 52CR  L 7450      50 0+,2+                                                     
+ 52CR cL J         L({+3}He,n)=0+2.                                             
+ 52CR2 L FLAG=FE                                                                
+ 52CR3 L XREF=E                                                                 
+ 52CR  L 7458      10  5,6+                                                     
+ 52CR cL J         L(p,p')=5,6.                                                 
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 7482      10  3-                                                       
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 7487          +                                                        
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 7524.1    5  1+                0.400 EV 28                             
+ 52CRA L FLAG=BGM                                                               
+ 52CR2 L XREF=G(*)J(*)MN(7520)                                                  
+ 52CR cL J         L(p,p')=0                                                    
+ 52CR  G 7523.5    5  100                                                   Y   
+ 52CR  L 7560      20 +                                                     N   
+ 52CR cL J         from L({+3}He,d)=1 from 7/2-.                                
+ 52CR2 L XREF=G(*7540)J(*7536)NS(7570)                                          
+ 52CR  L 7585      10 3-                                                        
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                             J   
+ 52CR  L 7590          +                                                        
+ 52CR cL J         L({+3}He,d)=1+3 from 7/2-.                                   
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 7679      10 5,6+                                                      
+ 52CR cL J         L(p,p')=5,6, L({+3}He,d)=1+3 from 7/2-.                      
+ 52CR2 L XREF=GJ(7686)                                                          
+ 52CR  L 7700      10 1+                                                    N   
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 7731.9    5  1-                0.960 EV 24                             
+ 52CR cL $B(E1)=5.96|*10{+-5} {I40}                                             
+ 52CR cL           |G{+2}{-|g0}/|G=1.75 eV {I32} (1979Ku14).                    
+ 52CRA L FLAG=BGM                                                               
+ 52CR2 L XREF=MJ                                                                
+ 52CR  G 7731.3    5  100                                                   Y   
+ 52CR  L 7738      10 3-                                                        
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 7750        +                                                          
+ 52CR cL J         L({+3}He,d)=1 from 7/2-, L(|a,{+2}He)=5,7.                   
+ 52CR2 L XREF=J(7729)a                                                          
+ 52CR  L 7760         +                                                     J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 7810         -                                                     O   
+ 52CR cL J         L(|a,t)=4                                                    
+ 52CR2 L XREF=g                                                                 
+ 52CR  L 7820      10  1+                                                       
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=GJ(7815)                                                          
+ 52CR  L 7823      10 3-                                                    J   
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 7854      7  4+                                                    A   
+ 52CR cL J         L(p,p')=4. L({+3}He,d)=1 from 7/2-.                          
+ 52CR2 L XREF=G(7848)JN(7860)S(7870)                                            
+ 52CR  L 7865.1    5  1+                0.435 EV 27                             
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 7864.5    5  100                                                   Y   
+ 52CR  L 7889.0    5  1                 0.480 EV 45                             
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         from excitation in (|g,|g').                                 
+ 52CR  G 7888.4    5  100                                                   Y   
+ 52CR  L 7893      10 4+                                                        
+ 52CR cL J         L(p,p')=4. L({+3}He,d)=1 from 7/2-                           
+ 52CR2 L XREF=GJ(7905)                                                          
+ 52CR  L 7897.4    5  1-                3.38 EV  17                             
+ 52CRA L FLAG=BGM                                                               
+ 52CR2 L XREF=M                                                                 
+ 52CR cL J$|p based on asymmetries for different g.s.                           
+ 52CR2cL dipole transition in (|g,|g').                                         
+ 52CR  G 7896.8    5  100                                                   Y   
+ 52CR  L 7900         3-                                                    N   
+ 52CR cL J         L(e,e')=3.                                                   
+ 52CR2 L XREF=NV                                                                
+ 52CR  L 7920         +                                                     J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 7930      50 +                                                     E   
+ 52CR cL J         L({+3}He,n)=0, L({+3}He,d)=1 from 7/2-.                      
+ 52CR2 L XREF=EJ(7967)                                                          
+ 52CR  L 7967      10 3-                                                        
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8010        +                                                          
+ 52CR cL J         L({+3}He,d)=1 from 7/2-, L(|a,t)=4 from 7/2-                 
+ 52CR2 L XREF=GJ(7967)g                                                         
+ 52CR  L 8015.4    4  1                 0.260 EV 59                             
+ 52CR cL $B(M1)=0.131 {I30}, B(E1)=1.45|*10{+-5} {I33}                          
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 6580.9    5  54     16                                             Y   
+ 52CR  G 8014.6    5  100                                                   Y   
+ 52CR  L 8022      10 2+                                                        
+ 52CR cL J         L(p,p')=2 and L({+3}He,d)=1 from 7/2-.                       
+ 52CR2 L XREF=GJ                                                                
+ 52CR  L 8083         +                                                         
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=JMN(8080)                                                         
+ 52CR  L 8087      9  3-                                                    J   
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8091.3    5  1                 0.734 EV 44                             
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         from excitation in (|g,|g').                                 
+ 52CR  G 8090.6    5  100                                                   Y   
+ 52CR  L 8100      20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 8121      10   +                                                       
+ 52CR cL J         L({+3}He,d)=1 from 7/2-, L(p,p')=0                           
+ 52CR2 L XREF=GJ(8130)                                                          
+ 52CR  L 8179.3    4  1+                0.90 EV  18                             
+ 52CR cL J         L(p,p')=0                                                    
+ 52CR2 L XREF=GJ(8183)MO                                                        
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 6744.8    5  326    50                                             Y   
+ 52CR cG E$ if 8179.2 level energy is correct, then E|g should be 6744.8,       
+ 52CR2cG not 6740.8 as listed in table I of 2013Pa38                            
+ 52CR  G 8178.5    5  100                                                   Y   
+ 52CR  L 8190           +                                                   O   
+ 52CR cL J         L(|a,t)=4 from 7/2-.                                         
+ 52CR2 L XREF=g                                                                 
+ 52CR  L 8213      10 0+                                                        
+ 52CR2 L XREF=G                                                                 
+ 52CR cL J         L(p,p')=0                                                    
+ 52CR  L   8216.4   9 11+              0.24 PS   +17-9                      K   
+ 52CR cL J         from |g(|q) in (HI,xn|g), M1+E2 |g to 10+, E2 |g to 9+.      
+ 52CR2 L XREF=DJ(8234)                                                          
+ 52CR  G 978.5      5  97     9M1+E2      +0.10   +5-8                          
+ 52CRA G FLAG=PU$                                                               
+ 52CRB G BM1W=0.048 +19-35$BE2W=1.1 +12-11                                      
+ 52CR  G    1763.3 10 100    11 E2                                              
+ 52CRA G FLAG=GP$                                                               
+ 52CRB G BE2W=6.1 +25-44                                                        
+ 52CR  L 8250           +                                                   J   
+ 52CR cL J         L({+3}He,d)=1+3 from 7/2-.                                   
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 8281      10  3-                                                   Z   
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8283          +                                                        
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 8337      10 (4+)                                                  Z   
+ 52CR cL J         L(p,p')=4,5, L({+3}He,d)=1+3 from 7/2-.                      
+ 52CR2 L XREF=GJ(8330)                                                          
+ 52CR  L 8350         +                                                     J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 8374      10  3-                                                   Z   
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8390      10   +                                                   N   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J(8371)N                                                          
+ 52CR  L 8412      10 +                                                     Z   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=GJ(8400)O                                                         
+ 52CR  L 8420         6-                                                    O   
+ 52CR cL J         L(|a,t)=4, M6 excitation in (e,e').                          
+ 52CR2 L XREF=N(8450)g                                                          
+ 52CR  L 8451          +                                                    J   
+ 52CR cL J         L({+3}He,d)=1 from 7/2-.                                     
+ 52CR2 L XREF=J                                                                 
+ 52CR  L 8457      10  3-                                                       
+ 52CR cL J         L(p,p')=3                                                    
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8505      10 3-                                                        
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8569      10 0+                                                        
+ 52CR cL J         L(p,p')=0.                                                   
+ 52CR2 L XREF=GJ(8579)S(8580)                                                   
+ 52CR  L 8600      10 3-                                                    N   
+ 52CR cL J         L(e,e')=3.                                                   
+ 52CR2 L XREF=N                                                                 
+ 52CR3 L BE3=0.0022 3 (1964Be32)                                                
+ 52CR  L 8617      10                                                           
+ 52CR cL J         L(p,p')=2,3,4. L({+3}He,d)=1+3 from 7/2-.                    
+ 52CR2 L XREF=GJ(8614)                                                          
+ 52CR  L 8679      10  3-                                                   Z   
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8710      50 +                                                         
+ 52CR cL J         L({+3}He,n)=0+2. L({+3}He,d)=1+3 from 7/2-,                  
+ 52CR2cL D, E2 excitation in (e,e').                                            
+ 52CR2 L XREF=EJ(8700)N(8690)                                                   
+ 52CR3 L FLAG=FE                                                                
+ 52CR  L 8728      10 3-                                                        
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8765.9    5  1                 0.441 EV 37                             
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         from excitation in (|g,|g').                                 
+ 52CR  G 8765.1    5  100                                                   Y   
+ 52CR  L 8778      10 3-                                                        
+ 52CR cL J         L(p,p')=3.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8790      10 2                                                         
+ 52CR cL J         Q excitation in (e,e').                                      
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 8827      10                                                           
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 8860      10  1+,(2-)                                                  
+ 52CR cL J         M1,(M2) excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 8890      20  1+,(2-)                                                  
+ 52CR cL J         M1,(M2) excitation in (e,e').                                
+ 52CR2 L XREF=NS                                                                
+ 52CR  L 8940      20 (8-,6-)                                                   
+ 52CR cL J         (M8,M6) excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 8958.4    5  1                 0.233 EV 36                             
+ 52CR2 L XREF=M                                                                 
+ 52CR3 L FLAG=GM                                                                
+ 52CR cL J         from excitation in (|g,|g').                                 
+ 52CR  G 8957.6    5  100                                                   Y   
+ 52CR  L 9004      9  1+                                                        
+ 52CR cL J         M1 excitation in (e,e'). L(p,p')=0                           
+ 52CR2 L XREF=G(9020)N                                                          
+ 52CR3 L FLAG=AG                                                                
+ 52CR  L 9050      10 1+,(2-)                                               J   
+ 52CR cL J         M1,(M2) excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 9080      20 (8-)                                                      
+ 52CR cL J         (M8) excitation in (e,e').                                   
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 9140.3    5  1+                2.65 EV  15                         K   
+ 52CR cL $B(M1)=0.90 {I5}                                                       
+ 52CRA L FLAG=BGM                                                               
+ 52CR cL J         M1 excitation in (e,e'). L(p,p')=0, 1+ in (|g,|g').          
+ 52CR2 L XREF=GMN                                                               
+ 52CR  G 9139.4    5  100                                                   Y   
+ 52CR  L 9200         5-                                                    I   
+ 52CR cL J         L(|a,{+2}He)=5                                               
+ 52CR2 L XREF=a                                                                 
+ 52CR  L 9211.9    5  1+                2.11 EV  14                             
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=G(9221)MN(9210)                                                   
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 9211.0    5  100                                                   Y   
+ 52CR  L 9245      10 1+                                                    Z   
+ 52CR cL J         L(p,p')=0.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 9327.0    5  1+                0.746 EV 80                             
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CRA L FLAG=DGM                                                               
+ 52CR2 L XREF=GN                                                                
+ 52CR  G 9326.1    5  100                                                   Y   
+ 52CR  L 9370      20 1+,2-                                                     
+ 52CR cL J         M1,M2 excitation in (e,e').                                  
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 9429.0    5  1+                0.95 EV  11                             
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=G(9440)MN                                                         
+ 52CR3 L FLAG=GM                                                                
+ 52CR  G 9428.1    5  100                                                   Y   
+ 52CR  L     9438.5 912(+)                                                  K   
+ 52CR2 L XREF=DN                                                                
+ 52CR cL J         from (HI,xn|g), |g to 10+.                                   
+ 52CR  G    1222.4  8   100   5                                             P   
+ 52CR  G    2200.0 10   16.8 11                                             P   
+ 52CR  L 9450      20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=Ng(9480)                                                          
+ 52CR  L 9470      20  1+,2+                                                    
+ 52CR cL J         M1, E2 excitation in (e,e').                                 
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 9580      10 0+                                                        
+ 52CR2 L XREF=EN                                                                
+ 52CR cL J         L({+3}He,n)=0. But M1,(E1) excitation in (e,e').             
+ 52CR  L 9612      9  1+                                                        
+ 52CR2 L XREF=G(9620)N                                                          
+ 52CRA L FLAG=AD                                                                
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR  L 9660      20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=Ng(9630)                                                          
+ 52CR  L 9724      9  1+                                                        
+ 52CRA L FLAG=AD                                                                
+ 52CR2 L XREF=G(9740)M(9736)N(9720)                                             
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR  L 9787      3  1-                                                        
+ 52CRA L FLAG=BM                                                                
+ 52CR2 L XREF=M                                                                 
+ 52CR cL J$|p based on asymmetries for different g.s.                           
+ 52CR2cL dipole transition in (|g,|g').                                         
+ 52CR  L 9830      10 1+                                                        
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 9878      9 1+                                                         
+ 52CRA L FLAG=AD                                                                
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=E(9870)G(9870)N(9880)                                             
+ 52CR  L 9910      20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 9981      3  (-)                                                   M   
+ 52CR cL J         |p: based on asymmetrics for different g.s. dipole           
+ 52CR2cL transition, see (|g,|g'),(pol |g,|g')                                  
+ 52CR2 L XREF=M                                                                 
+ 52CR  L 10008     9  1+                                                        
+ 52CRA L FLAG=AD                                                                
+ 52CR2 L XREF=G(10000)N(10010)                                                  
+ 52CR  L 10110     20 (8-)                                                      
+ 52CR cL J         (M8) excitation in (e,e').                                   
+ 52CR2 L XREF=Ng(10130)                                                         
+ 52CR  L 10130     20 1,2-                                                      
+ 52CR cL J         D,M2 excitation in (e,e').                                   
+ 52CR2 L XREF=NO                                                                
+ 52CR  L    10161.312(13+)                                                  K   
+ 52CR2 L XREF=D                                                                 
+ 52CR cL J         from |g(|q) in (HI,xn|g), E2 |g to 11+.                      
+ 52CR  G     721.3 10   4.7   6                                             P   
+ 52CR  G    1943.6  7  100.0 17 E2                                              
+ 52CRA G FLAG=GP                                                                
+ 52CR  L 10180     10 2-                                                        
+ 52CR cL J         M2 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10240     20 1                                                         
+ 52CR cL J         E1, (M1) excitation in (e,e').                               
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10270     20 1,(2-)                                                    
+ 52CR cL J         D, (M2) excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10300     20                                                           
+ 52CR cL J         M2, M3,E3 excitation in (e,e').                              
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10330     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR2 L XREF=Ng(10280)                                                         
+ 52CR  L 10340     20 1                                                         
+ 52CR cL J         D excitation in (e,e').                                      
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10380     14 1+                                                        
+ 52CRA L FLAG=AD                                                                
+ 52CR2 L XREF=GN                                                                
+ 52CR  L 10433     4 1+                                                     M   
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=MN                                                                
+ 52CR  L 10464     9  1+                                                    D   
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=G(10480)N(10460)                                                  
+ 52CR  L 10500     20 1                                                         
+ 52CR cL J         D excitation in (e,e').                                      
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10510     20 (-)                                                       
+ 52CR cL J         (M8, M6) excitation in (e,e').                               
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10604     12 1+                                                        
+ 52CRA L FLAG=AD                                                                
+ 52CR2 L XREF=G(10580)N(10610)                                                  
+ 52CR  L 10710     10 1                                                         
+ 52CR cL J         D excitation in (e,e').                                      
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10760     10 6+,8+                                                     
+ 52CR cL J         L(|a,{+2}He)=6,8                                             
+ 52CR2 L XREF=Na(10750)                                                         
+ 52CR  L 10790     9  1+                                                    D   
+ 52CR cL J         M1 excitation in (e,e').                                     
+ 52CR2 L XREF=GN                                                                
+ 52CR  L 10800     20 (-)                                                       
+ 52CR cL J         (M8,M6) excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10820     10 1+,(2-)                                                   
+ 52CR cL J         M1, (M2) excitation in (e,e').                               
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 10927     3  1+,2-                                                 M   
+ 52CR cL J         M1, M2 excitation in (e,e').                                 
+ 52CR2 L XREF=MN(10920)                                                         
+ 52CR  L 10970     20  0+                                                   D   
+ 52CR cL J         L(p,p')=0.                                                   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 11000     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11070     10  1                                                        
+ 52CR cL J         D excitation in (e,e').                                      
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11140     10  0+                                                   D   
+ 52CR cL J         L(p,p')=0.                                                   
+ 52CR2 L XREF=G(11120)N                                                         
+ 52CR  L 11160     20 (1+),2                                                    
+ 52CR cL J         (M1), Q excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11170     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e'). L(|a,t)=4                           
+ 52CR2 L XREF=Ng                                                                
+ 52CR  L 11229     3                                                            
+ 52CR2 L XREF=I                                                                 
+ 52CR  L 11256.5    7                                                           
+ 52CR2 L XREF=E(*11280)I                                                        
+ 52CR  G 8291        100                                                        
+ 52CR  G 8488        85                                                         
+ 52CR  L 11264.9    4 +                                                     W   
+ 52CR2 L XREF=E(*11280)Ia(11260)                                                
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V g.s.). Some authors identify 11256.5 state as    
+ 52CR2cL g.s. IAS. However, from a comparison of relative M1 transition rates   
+ 52CR3cL from 11264.9 state with Gamow-Teller |b decay matrix elements          
+ 52CR4cL for {+52}V g.s. 1973Fa12 concluded that most of the IAS strength       
+ 52CR5cL lies in the 11265 state. The 11256 state might still be                
+ 52CR6cL a fragment of the g.s. IAS.                                            
+ 52CR  G 7648         9      LT                                                 
+ 52CR  G 7792         5      LT                                                 
+ 52CR  G 7850        39      7 (M1+E2)   +0.06   9                          U   
+ 52CR  G 8150        25      9                                                  
+ 52CR  G 8299         5      LT                                                 
+ 52CR  G 8496        11      7                                                  
+ 52CR  G 8895        100     16(M1+E2)   +0.9    +10-5                      U   
+ 52CR  G 9830        34      5 (M1+E2)   -0.30   6                          U   
+ 52CR  L 11270     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=NO                                                                
+ 52CR  L 11274.6    6 +                                                         
+ 52CRA L FLAG=WY                                                                
+ 52CR2 L XREF=E(*11280)I                                                        
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           Identified as fragment of IAS ({+52}V 23 keV).               
+ 52CR  G 4479        72      12                                                 
+ 52CR  G 4899        24      8                                                  
+ 52CR  G 5069        36      12                                                 
+ 52CR  G 5239        20      8                                                  
+ 52CRF G FL=6035.3                                                              
+ 52CR  G 5549        100     12                                                 
+ 52CR  G 7258        60      12                                                 
+ 52CR  G 7326        24      8                                                  
+ 52CR  G 7859         8      4 (M1+E2)   +0.47   10                         U   
+ 52CR  G 8904        56      8 (M1+E2)   +0.19   10                         U   
+ 52CR  L 11291.1   10                                                       Y   
+ 52CR2 L XREF=Id                                                                
+ 52CR  G 9856        100                                                        
+ 52CR  L 11330     20 (1+),2-                                                   
+ 52CR cL J         (M1), M2 excitation in (e,e').                               
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11370     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e'). L(|a,t)=4                           
+ 52CR2 L XREF=Ng(11350)                                                         
+ 52CR  L 11400.0    4     4+                                                Y   
+ 52CR2 L XREF=I                                                                 
+ 52CR2 L ISPIN=3                                                                
+ 52CR cL           Identified by 1974Ro44 as IAS ({+52}V 148 keV, 4+).          
+ 52CR cL J         From |g(theta) in (p,|g).                                    
+ 52CR  G 5836         61     5                                                  
+ 52CR  G 5953         29     5                                                  
+ 52CR  G 7360                                                                   
+ 52CR  G 7384                                                                   
+ 52CR  G 7783         26     3                                                  
+ 52CR  G 7985         21     3                                                  
+ 52CR  G 8285          5     3                                                  
+ 52CR  G 9030         100    5 (M1+E2)   0.5     2                          U   
+ 52CR cG MR        from (p,|g), see 1974Ro44.                                   
+ 52CR  L  11402    9    1+                                                  A   
+ 52CR cL J         M1 excitation in (e,e'). L(p,p')=0                           
+ 52CR2 L XREF=G(11410)N(11400)                                                  
+ 52CR  L 11510     10 2-                                                        
+ 52CR cL J         M2 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11550     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11570     20 (1+),2                                                    
+ 52CR cL J         (M1),Q excitation in (e,e').                                 
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11610     10  2                                                        
+ 52CR cL J         Q excitation in (e,e').                                      
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11656     3  1+,2-                                                 Y   
+ 52CR cL J         M1, M2 excitation in (e,e').                                 
+ 52CR2 L XREF=IN(11650)                                                         
+ 52CR  L 11660     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=Ng                                                                
+ 52CR  L 11691.8    4                                                           
+ 52CRA L FLAG=Y                                                                 
+ 52CR2 L XREF=IN                                                                
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 437 keV, 2+).                                    
+ 52CR  G 5302          33    3                                                  
+ 52CR  G 6027          23    3                                                  
+ 52CR  G 6245          53    3                                                  
+ 52CR  G 6637          13    7                                                  
+ 52CR  G 6854                                                                   
+ 52CR  G 6883                                                                   
+ 52CR  G 6949          37    3                                                  
+ 52CR  G 7652                                                                   
+ 52CR  G 7676                                                                   
+ 52CR  G 8219          30    7                                                  
+ 52CR  G 8277           7    3                                                  
+ 52CR  G 8529          13    3                                                  
+ 52CR  G 8726          27    7                                                  
+ 52CR  G 8923          10    3                                                  
+ 52CR  G 9322          27    3                                                  
+ 52CR  G 10257        100    7                                                  
+ 52CR  L 11713     3                                                        Y   
+ 52CR2 L XREF=I                                                                 
+ 52CR  L 11725     3                                                        Y   
+ 52CR2 L XREF=I                                                                 
+ 52CR  L 11745     3                                                        Y   
+ 52CR2 L XREF=I                                                                 
+ 52CR  L 11765     3                                                        M   
+ 52CR2 L XREF=M                                                                 
+ 52CR  L 11770     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=Ng(11790)                                                         
+ 52CR  L 11780     20  (1+),2-                                                  
+ 52CR cL J         (M1),M2 excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11837     3                                                        M   
+ 52CR2 L XREF=M                                                                 
+ 52CR  L 11880     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 11960     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 12034.8    4 -                                                     Y   
+ 52CR cL J         L(|a,t)=4 from 7/2-.                                         
+ 52CR2 L XREF=INg(12050)                                                        
+ 52CR  G 6471         22     4                                                  
+ 52CR  G 6588         22     4                                                  
+ 52CRF G FL=5446.4                                                              
+ 52CR  G 7404         48     4                                                  
+ 52CR  G 8562         17     9                                                  
+ 52CR  G 8620         100    9                                                  
+ 52CR  G 9069         17     9                                                  
+ 52CR  G 9266         74     4                                                  
+ 52CR  G 9665         78     4                                                  
+ 52CR  G 10600        48     4                                                  
+ 52CR  L 12041.8    4  4+                                                       
+ 52CRA L FLAG=WY                                                                
+ 52CR2 L XREF=I                                                                 
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 793 keV, 3+).                                    
+ 52CR  G 6595          42    4                                                  
+ 52CRF G FL=5446.4                                                              
+ 52CR  G 7233          19    4                                                  
+ 52CRF G FL=4805.96                                                             
+ 52CR  G 8569          46    4                                                  
+ 52CR  G 8627          19    4                                                  
+ 52CR  G 8879          62    4                                                  
+ 52CR  G 9076           7    4                                                  
+ 52CR  G 9273          31    4                                                  
+ 52CR  G 9672         100    4                                                  
+ 52CR  G 10607         54    4                                                  
+ 52CR  L 12050           -                                                      
+ 52CR cL J         L(|a,t)=4                                                    
+ 52CR2 L XREF=g                                                                 
+ 52CR  L 12099.9    4    4+                                                 W   
+ 52CR2 L XREF=I                                                                 
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 846 keV, 4+).                                    
+ 52CR  G 6239          39    9                                                  
+ 52CRF G FL=5860.5                                                              
+ 52CR  G 6362          39    9                                                  
+ 52CRF G FL=5737.5                                                              
+ 52CR  G 6653          30    9                                                  
+ 52CR  G 7002          13    4                                                  
+ 52CR  G 7469          30    4                                                  
+ 52CR  G 8060          30    4                                                  
+ 52CR  G 8084          13    2                                                  
+ 52CR  G 8152          22    4                                                  
+ 52CR  G 8483          26    4                                                  
+ 52CR  G 8627          17    3                                                  
+ 52CR  G 8685          52    9                                                  
+ 52CR  G 9331          35    4                                                  
+ 52CR  G 9730         100    9                                                  
+ 52CR  L 12130     20 (8-,6-)                                                   
+ 52CR cL J         (M8,M6) excitation in (e,e').                                
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 12240     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 12260        6+,8+                                                 I   
+ 52CR cL J         L(|a,{+2}He)=6,8                                             
+ 52CR2 L XREF=a                                                                 
+ 52CR  L 12500        -                                                     O   
+ 52CR cL J         L(|a,t)=4 from 7/2-.                                         
+ 52CR2 L XREF=g                                                                 
+ 52CR  L 12560     20 1+                                                    D   
+ 52CR2 L XREF=Gg                                                                
+ 52CR  L 12665     6  3+                                                        
+ 52CRA L FLAG=Y                                                                 
+ 52CR2 L XREF=I                                                                 
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 1419 keV, 3+)?                                   
+ 52CR  L 12730     20 -                                                         
+ 52CR cL J         L(|a,t)=4 from 7/2-.                                         
+ 52CR2 L XREF=Ng(12700)                                                         
+ 52CR  L 12734     6                                                            
+ 52CRA L FLAG=Y                                                                 
+ 52CR2 L XREF=I                                                                 
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 1493 keV, 7+)?                                   
+ 52CR  L 12794.8    7 4+                                                    W   
+ 52CR2 L XREF=I                                                                 
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 1559 keV, 4+)?                                   
+ 52CR  G 9178         81                                                        
+ 52CR  G 10424       100                                                        
+ 52CR  L 12900     20 1+                                                    D   
+ 52CR2 L XREF=G                                                                 
+ 52CR  L 12977     6  -                                                         
+ 52CR cL J         L(|a,t)=4 from 7/2-.                                         
+ 52CRA L FLAG=WY                                                                
+ 52CR2 L XREF=Ig(13010)                                                         
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 1733 keV, 3-,4-)?                                
+ 52CR  L 12994     6   +                                                        
+ 52CRA L FLAG=WY                                                                
+ 52CR2 L XREF=I                                                                 
+ 52CR cL           IAS ({+52}V 1760 keV, 3+)?                                   
+ 52CR  L 13038     6   +                                                        
+ 52CRA L FLAG=WY                                                                
+ 52CR2 L XREF=I                                                                 
+ 52CR cL           IAS ({+52}V 1843 keV, +)?                                    
+ 52CR  L 13220     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 13319                                                                  
+ 52CRA L FLAG=Y                                                                 
+ 52CR2 L XREF=I                                                                 
+ 52CR  L 13393       6-                                                         
+ 52CRA L FLAG=Y                                                                 
+ 52CR2 L XREF=IN                                                                
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR  L 13419       0+                                                         
+ 52CR cL J         L({+3}He,n)=0                                                
+ 52CRA L FLAG=Y                                                                 
+ 52CR2 L XREF=EI                                                                
+ 52CR3 L ISPIN=3                                                                
+ 52CR  L 13570     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 13580     20 (1,2)-                                                d   
+ 52CR cL J         L({+3}He,|a)=0 from 3/2-.                                    
+ 52CR2 L XREF=d                                                                 
+ 52CR  L 13630     10 0+                                                    E   
+ 52CR cL J         L({+3}He,n)=0.                                               
+ 52CR2 L XREF=E                                                                 
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 2396 keV, 0+, (1+))?                             
+ 52CR  L 13710     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 13950     50                                                       E   
+ 52CR2 L XREF=E                                                                 
+ 52CR  L 14030     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 14110     20 2+                                                    E   
+ 52CR cL J         L({+3}He,n)=2.                                               
+ 52CR2 L XREF=E                                                                 
+ 52CR3 L ISPIN=3                                                                
+ 52CR cL           IAS ({+52}V 2881 keV, +)?                                    
+ 52CR  L 14340     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 14430     20 8-                                                        
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=Ng(11470)                                                         
+ 52CR  L 15270     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e'). L(|a,t)=4                           
+ 52CR2 L XREF=Ng(15280)                                                         
+ 52CR  L 15482     7  8-                                                    O   
+ 52CR cL J         M8 excitation in (e,e').                                     
+ 52CR2 L XREF=Ng                                                                
+ 52CR3 L ISPIN=3                                                                
+ 52CR  L 16400     20 6-                                                        
+ 52CR cL J         M6 excitation in (e,e').                                     
+ 52CR2 L XREF=N                                                                 
+ 52CR  L 16690     20 (8-)                                                      
+ 52CR cL J         (M8) excitation in (e,e').                                   
+ 52CR2 L XREF=N                                                                 
